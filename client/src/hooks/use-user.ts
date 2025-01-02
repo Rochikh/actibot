@@ -70,16 +70,18 @@ export function useUser() {
       const result = await handleRequest('/api/login', 'POST', userData);
       if (!result.ok) {
         toast({
-          title: "Login failed",
+          title: "Échec de la connexion",
           description: result.message,
           variant: "destructive",
         });
-        throw new Error(result.message);
+        return result;
       }
       return result;
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['user'] });
+    onSuccess: (data) => {
+      if (data.ok) {
+        queryClient.invalidateQueries({ queryKey: ['user'] });
+      }
     },
   });
 
@@ -88,16 +90,18 @@ export function useUser() {
       const result = await handleRequest('/api/logout', 'POST');
       if (!result.ok) {
         toast({
-          title: "Logout failed",
+          title: "Échec de la déconnexion",
           description: result.message,
           variant: "destructive",
         });
-        throw new Error(result.message);
+        return result;
       }
       return result;
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['user'] });
+    onSuccess: (data) => {
+      if (data.ok) {
+        queryClient.invalidateQueries({ queryKey: ['user'] });
+      }
     },
   });
 
@@ -106,16 +110,18 @@ export function useUser() {
       const result = await handleRequest('/api/register', 'POST', userData);
       if (!result.ok) {
         toast({
-          title: "Registration failed",
+          title: "Échec de l'inscription",
           description: result.message,
           variant: "destructive",
         });
-        throw new Error(result.message);
+        return result;
       }
       return result;
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['user'] });
+    onSuccess: (data) => {
+      if (data.ok) {
+        queryClient.invalidateQueries({ queryKey: ['user'] });
+      }
     },
   });
 
