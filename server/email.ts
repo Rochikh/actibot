@@ -9,7 +9,7 @@ sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 export async function sendConfirmationEmail(to: string, username: string) {
   const msg = {
     to,
-    from: "noreply@chatbot.com", // Remplacez par votre domaine vérifié SendGrid
+    from: process.env.SENDGRID_FROM_EMAIL || to, // Utilise l'email du destinataire comme expéditeur temporairement
     subject: "Bienvenue sur ChatBot - Confirmez votre email",
     html: `
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
@@ -24,7 +24,7 @@ export async function sendConfirmationEmail(to: string, username: string) {
   try {
     await sgMail.send(msg);
   } catch (error: any) {
-    console.error("Erreur lors de l'envoi de l'email:", error.message);
+    console.error("Erreur lors de l'envoi de l'email:", error.response?.body?.errors || error.message);
     throw new Error("Échec de l'envoi de l'email de confirmation");
   }
 }
