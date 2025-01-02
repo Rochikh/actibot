@@ -8,6 +8,7 @@ import { promisify } from "util";
 import { users, insertUserSchema, type User as SelectUser } from "@db/schema";
 import { db } from "@db";
 import { eq } from "drizzle-orm";
+import { sendConfirmationEmail } from "./email";
 
 const scryptAsync = promisify(scrypt);
 const crypto = {
@@ -31,7 +32,7 @@ const crypto = {
 // extend express user object with our schema
 declare global {
   namespace Express {
-    interface User extends SelectUser { }
+    interface User extends SelectUser {}
   }
 }
 
@@ -104,10 +105,10 @@ export function setupAuth(app: Express) {
       if (!result.success) {
         return res
           .status(400)
-          .send("Invalid input: " + result.error.issues.map(i => i.message).join(", "));
+          .send("Invalid input: " + result.error.issues.map((i) => i.message).join(", "));
       }
 
-      const { username, password } = result.data;
+      const { username, email, password } = result.data;
 
       // Check if user already exists
       const [existingUser] = await db
@@ -120,6 +121,17 @@ export function setupAuth(app: Express) {
         return res.status(400).send("Username already exists");
       }
 
+      // Check if email already exists
+      const [existingEmail] = await db
+        .select()
+        .from(users)
+        .where(eq(users.email, email))
+        .limit(1);
+
+      if (existingEmail) {
+        return res.status(400).send("Email already exists");
+      }
+
       // Hash the password
       const hashedPassword = await crypto.hash(password);
 
@@ -128,10 +140,19 @@ export function setupAuth(app: Express) {
         .insert(users)
         .values({
           username,
+          email,
           password: hashedPassword,
           isAdmin: false, // By default, users are not admins
         })
         .returning();
+
+      // Send confirmation email
+      try {
+        await sendConfirmationEmail(email, username);
+      } catch (emailError) {
+        console.error("Failed to send confirmation email:", emailError);
+        // Continue with registration even if email fails
+      }
 
       // Log the user in after registration
       req.login(newUser, (err) => {
@@ -153,7 +174,7 @@ export function setupAuth(app: Express) {
     if (!result.success) {
       return res
         .status(400)
-        .send("Invalid input: " + result.error.issues.map(i => i.message).join(", "));
+        .send("Invalid input: " + result.error.issues.map((i) => i.message).join(", "));
     }
 
     const cb = (err: any, user: Express.User, info: IVerifyOptions) => {
