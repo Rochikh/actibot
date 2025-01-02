@@ -20,6 +20,7 @@ export default function AuthPage() {
     resolver: zodResolver(insertUserSchema),
     defaultValues: {
       username: "",
+      email: "",
       password: "",
     },
   });
@@ -42,14 +43,14 @@ export default function AuthPage() {
       <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle className="text-2xl font-bold text-center">
-            Welcome to ChatBot
+            Bienvenue sur ChatBot
           </CardTitle>
         </CardHeader>
         <CardContent>
           <Tabs defaultValue="login">
             <TabsList className="grid w-full grid-cols-2">
-              <TabsTrigger value="login">Login</TabsTrigger>
-              <TabsTrigger value="register">Register</TabsTrigger>
+              <TabsTrigger value="login">Connexion</TabsTrigger>
+              <TabsTrigger value="register">Inscription</TabsTrigger>
             </TabsList>
 
             <Form {...form}>
@@ -60,12 +61,12 @@ export default function AuthPage() {
                 >
                   <FormField
                     control={form.control}
-                    name="username"
+                    name="email"
                     render={({ field }) => (
                       <FormItem>
-                        <Label>Username</Label>
+                        <Label>Email</Label>
                         <FormControl>
-                          <Input {...field} />
+                          <Input type="email" {...field} />
                         </FormControl>
                         <FormMessage />
                       </FormItem>
@@ -77,7 +78,7 @@ export default function AuthPage() {
                     name="password"
                     render={({ field }) => (
                       <FormItem>
-                        <Label>Password</Label>
+                        <Label>Mot de passe</Label>
                         <FormControl>
                           <Input type="password" {...field} />
                         </FormControl>
@@ -90,7 +91,7 @@ export default function AuthPage() {
                     {isLoading ? (
                       <Loader2 className="h-4 w-4 animate-spin mr-2" />
                     ) : null}
-                    Login
+                    Se connecter
                   </Button>
                 </form>
               </TabsContent>
@@ -107,9 +108,23 @@ export default function AuthPage() {
                     name="username"
                     render={({ field }) => (
                       <FormItem>
-                        <Label>Username</Label>
+                        <Label>Nom d'utilisateur</Label>
                         <FormControl>
                           <Input {...field} />
+                        </FormControl>
+                        <FormMessage />
+                      </FormItem>
+                    )}
+                  />
+
+                  <FormField
+                    control={form.control}
+                    name="email"
+                    render={({ field }) => (
+                      <FormItem>
+                        <Label>Email</Label>
+                        <FormControl>
+                          <Input type="email" {...field} />
                         </FormControl>
                         <FormMessage />
                       </FormItem>
@@ -121,7 +136,7 @@ export default function AuthPage() {
                     name="password"
                     render={({ field }) => (
                       <FormItem>
-                        <Label>Password</Label>
+                        <Label>Mot de passe</Label>
                         <FormControl>
                           <Input type="password" {...field} />
                         </FormControl>
@@ -134,7 +149,7 @@ export default function AuthPage() {
                     {isLoading ? (
                       <Loader2 className="h-4 w-4 animate-spin mr-2" />
                     ) : null}
-                    Register
+                    S'inscrire
                   </Button>
                 </form>
               </TabsContent>
