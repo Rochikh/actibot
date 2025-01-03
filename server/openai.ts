@@ -6,6 +6,17 @@ const openai = new OpenAI();
 
 const MAX_CHUNK_SIZE = 4000; // Safe size to stay under token limits
 const MAX_TOKENS = 400; // Limite maximale de tokens pour les réponses
+const MAX_CONTEXT_LENGTH = 8000; // Reduced context length to stay well under limits
+
+function truncateText(text: string, maxLength: number): string {
+  if (text.length <= maxLength) return text;
+
+  // Estimate tokens (roughly 4 characters per token)
+  const maxTokens = Math.floor(maxLength / 4);
+  const estimatedMaxLength = maxTokens * 4;
+
+  return text.slice(0, estimatedMaxLength) + "...";
+}
 
 function chunkText(text: string): string[] {
   const words = text.split(' ');
@@ -56,13 +67,14 @@ export async function generateEmbedding(text: string) {
 export async function findSimilarDocuments(documents: Document[], query: string) {
   const queryEmbedding = await generateEmbedding(query);
 
+  // Only get the most relevant document to reduce context size
   return documents
     .map(doc => ({
       ...doc,
       similarity: cosineSimilarity(queryEmbedding, doc.embedding as number[])
     }))
     .sort((a, b) => b.similarity - a.similarity)
-    .slice(0, 3);
+    .slice(0, 1); // Get only the most relevant document
 }
 
 export async function getChatResponse(
@@ -72,50 +84,49 @@ export async function getChatResponse(
   history?: Array<{ role: string; content: string; }> = [],
   model: OpenAIModel = "gpt-4o-mini" 
 ) {
-  const messages = [];
+  try {
+    // Tronquer le contexte de manière agressive
+    const truncatedContext = truncateText(context, MAX_CONTEXT_LENGTH);
 
-  // Construct a more detailed system prompt that includes context from documents
-  const basePrompt = systemPrompt || "Tu es un assistant expert pour cette communauté WhatsApp.";
-  const contextPrompt = `
+    // Réduire l'historique au strict minimum
+    const limitedHistory = history?.slice(-1).map(msg => ({
+      ...msg,
+      content: truncateText(msg.content, 1000) // Limiter chaque message d'historique
+    })) || [];
+
+    // Construire le prompt système avec un contexte limité
+    const basePrompt = systemPrompt || "Tu es un assistant expert pour cette communauté WhatsApp.";
+    const contextPrompt = truncateText(`
 ${basePrompt}
 
 Instructions importantes:
 1. Utilise uniquement les informations fournies dans la base de connaissance ci-dessous pour répondre aux questions.
 2. Si tu ne trouves pas l'information dans la base de connaissance, dis-le clairement.
 3. Cite toujours tes sources quand tu utilises une information de la base de connaissance.
-4. Formate tes réponses de manière claire et structurée.
+4. Sois très bref et concis dans tes réponses, en restant dans la limite de 400 tokens.
 
 Base de connaissance:
-${context}
+${truncatedContext}
 
 ---
 N'oublie pas : Base tes réponses uniquement sur les informations ci-dessus.
-`;
+`, 10000);
 
-  // Add the enhanced system prompt
-  messages.push({
-    role: "system" as const,
-    content: contextPrompt
-  });
+    const messages = [
+      {
+        role: "system" as const,
+        content: contextPrompt
+      },
+      ...limitedHistory,
+      {
+        role: "user" as const,
+        content: truncateText(question, 1000)
+      }
+    ];
 
-  // Add conversation history
-  history?.forEach(msg => {
-    messages.push({
-      role: msg.role as "user" | "assistant",
-      content: msg.content
-    });
-  });
+    console.log("Using model:", model);
+    console.log("Messages token count estimate:", JSON.stringify(messages).length / 4); // Rough estimation
 
-  // Add current question
-  messages.push({
-    role: "user" as const,
-    content: question
-  });
-
-  console.log("Using model:", model);
-  console.log("System prompt:", contextPrompt);
-
-  try {
     const response = await openai.chat.completions.create({
       model: model,
       messages,
@@ -126,7 +137,7 @@ N'oublie pas : Base tes réponses uniquement sur les informations ci-dessus.
     });
 
     return response.choices[0].message.content || "Désolé, je n'ai pas pu générer une réponse.";
-  } catch (error) {
+  } catch (error: any) {
     console.error("OpenAI API error:", error);
     throw new Error(`Erreur lors de la génération de la réponse: ${error.message}`);
   }
