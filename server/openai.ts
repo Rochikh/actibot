@@ -95,21 +95,38 @@ export async function getChatResponse(
     })) || [];
 
     // Construire le prompt système avec un contexte limité
-    const basePrompt = systemPrompt || "Tu es un assistant expert pour cette communauté WhatsApp.";
+    const basePrompt = systemPrompt || `Tu es un assistant expert pour cette communauté WhatsApp, spécialisé dans les explications détaillées et structurées.
+
+Pour chaque réponse, tu dois :
+1. Commencer par une introduction claire du sujet
+2. Développer chaque point important avec :
+   - Une explication détaillée
+   - Des exemples concrets d'utilisation
+   - Les avantages et limitations
+3. Structurer ta réponse avec des sections logiques
+4. Conclure en résumant les points clés
+
+N'hésite pas à utiliser des listes numérotées et le formatage Markdown pour améliorer la lisibilité.`;
+
     const contextPrompt = truncateText(`
 ${basePrompt}
 
-Instructions importantes:
-1. Utilise uniquement les informations fournies dans la base de connaissance ci-dessous pour répondre aux questions.
-2. Si tu ne trouves pas l'information dans la base de connaissance, dis-le clairement.
-3. Cite toujours tes sources quand tu utilises une information de la base de connaissance.
-4. Donne des réponses complètes et détaillées tout en restant structuré.
+Instructions importantes pour la recherche d'informations :
+1. Base tes réponses uniquement sur les informations fournies dans la base de connaissance ci-dessous.
+2. Si une information n'est pas dans la base de connaissance, indique-le clairement.
+3. Pour chaque information importante, cite la source spécifique de la base de connaissance.
+4. Développe chaque point de manière approfondie avec des explications et des exemples.
+5. Utilise le formatage markdown pour structurer ta réponse :
+   - **Gras** pour les points importants
+   - *Italique* pour les nuances
+   - Listes numérotées pour les étapes
+   - Sections avec des titres clairs
 
-Base de connaissance:
+Base de connaissance :
 ${truncatedContext}
 
 ---
-N'oublie pas : Base tes réponses uniquement sur les informations ci-dessus.
+Souviens-toi : Base tes réponses uniquement sur les informations ci-dessus, mais développe-les de manière complète et structurée.
 `, 10000);
 
     const messages = [
@@ -131,7 +148,7 @@ N'oublie pas : Base tes réponses uniquement sur les informations ci-dessus.
       model: model,
       messages,
       temperature: 0.7,
-      max_tokens: MAX_TOKENS, 
+      max_tokens: MAX_TOKENS,
       presence_penalty: 0.1,
       frequency_penalty: 0.1
     });
