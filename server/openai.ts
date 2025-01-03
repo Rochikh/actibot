@@ -68,7 +68,8 @@ function chunkText(text: string): string[] {
 export async function generateEmbedding(text: string) {
   const response = await openai.embeddings.create({
     model: "text-embedding-3-small",
-    input: text,
+    input: text.replace(/\n+/g, " ").trim(),
+    encoding_format: "float",
   });
 
   return response.data[0].embedding;
@@ -102,7 +103,7 @@ export async function getChatResponse(
   question: string, 
   context: string, 
   systemPrompt?: string,
-  history?: Array<{ role: string; content: string; }> = [],
+  history: Array<{ role: string; content: string; }> = [],
   model: OpenAIModel = "gpt-4o-mini" 
 ) {
   try {
@@ -123,10 +124,10 @@ ${chunk.content}
     const truncatedContext = truncateText(structuredContext, MAX_CONTEXT_LENGTH);
 
     // Réduire l'historique au strict minimum
-    const limitedHistory = history?.slice(-2).map(msg => ({
-      ...msg,
+    const limitedHistory = history.slice(-2).map(msg => ({
+      role: msg.role as "user" | "assistant",
       content: truncateText(msg.content, 1000)
-    })) || [];
+    }));
 
     // Construire le prompt système avec un contexte structuré
     const basePrompt = systemPrompt || `Tu es un assistant expert pour cette communauté WhatsApp, spécialisé dans les explications détaillées et structurées.
