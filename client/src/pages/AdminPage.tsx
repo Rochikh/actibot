@@ -1,6 +1,7 @@
 import DocumentUpload from "@/components/admin/DocumentUpload";
 import DocumentList from "@/components/admin/DocumentList";
 import SystemPromptManager from "@/components/admin/SystemPromptManager";
+import ChangePasswordForm from "@/components/admin/ChangePasswordForm";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -25,6 +26,7 @@ export default function AdminPage() {
           <TabsList className="mb-4">
             <TabsTrigger value="prompts">Prompts Système</TabsTrigger>
             <TabsTrigger value="documents">Documents</TabsTrigger>
+            <TabsTrigger value="settings">Paramètres</TabsTrigger>
           </TabsList>
 
           <TabsContent value="prompts">
@@ -35,6 +37,12 @@ export default function AdminPage() {
             <div className="space-y-6">
               <DocumentUpload />
               <DocumentList />
+            </div>
+          </TabsContent>
+
+          <TabsContent value="settings">
+            <div className="max-w-md mx-auto">
+              <ChangePasswordForm />
             </div>
           </TabsContent>
         </Tabs>

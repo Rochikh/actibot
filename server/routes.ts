@@ -1,18 +1,17 @@
 import type { Express } from "express";
 import { createServer, type Server } from "http";
 import { db } from "@db";
-import { documents, chats, systemPrompts } from "@db/schema";
+import { documents, chats, systemPrompts, users, type User } from "@db/schema";
 import { generateEmbedding, findSimilarDocuments, getChatResponse } from "./openai";
 import multer from "multer";
 import { eq } from "drizzle-orm";
+import { crypto } from "./auth";
 import type { Request } from "express";
 import { setupAuth } from "./auth";
 
 interface AuthenticatedRequest extends Request {
-  user?: {
-    id: number;
-    isAdmin: boolean;
-  }
+  user?: User;
+  isAuthenticated(): boolean;
 }
 
 const upload = multer();
@@ -24,7 +23,7 @@ export function registerRoutes(app: Express): Server {
   // Middleware to check if user is authenticated
   const requireAuth = (req: AuthenticatedRequest, res: any, next: any) => {
     if (!req.isAuthenticated()) {
-      return res.status(401).send("Not authenticated");
+      return res.status(401).send("Non authentifié");
     }
     next();
   };
@@ -32,10 +31,49 @@ export function registerRoutes(app: Express): Server {
   // Middleware to check if user is admin
   const requireAdmin = (req: AuthenticatedRequest, res: any, next: any) => {
     if (!req.user?.isAdmin) {
-      return res.status(403).send("Admin access required");
+      return res.status(403).send("Accès administrateur requis");
     }
     next();
   };
+
+  // Route pour changer le mot de passe
+  app.post("/api/change-password", requireAuth, async (req: AuthenticatedRequest, res) => {
+    try {
+      const { currentPassword, newPassword } = req.body;
+
+      if (!currentPassword || !newPassword) {
+        return res.status(400).send("Le mot de passe actuel et le nouveau mot de passe sont requis");
+      }
+
+      if (newPassword.length < 6) {
+        return res.status(400).send("Le nouveau mot de passe doit contenir au moins 6 caractères");
+      }
+
+      // Récupérer l'utilisateur actuel
+      const [user] = await db
+        .select()
+        .from(users)
+        .where(eq(users.id, req.user!.id))
+        .limit(1);
+
+      // Vérifier le mot de passe actuel
+      const isMatch = await crypto.compare(currentPassword, user.password);
+      if (!isMatch) {
+        return res.status(400).send("Mot de passe actuel incorrect");
+      }
+
+      // Hasher et mettre à jour le nouveau mot de passe
+      const hashedPassword = await crypto.hash(newPassword);
+      await db
+        .update(users)
+        .set({ password: hashedPassword })
+        .where(eq(users.id, req.user!.id));
+
+      res.json({ message: "Mot de passe modifié avec succès" });
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
 
   // Document management routes (protected by auth and admin)
   app.post("/api/documents", requireAuth, requireAdmin, upload.single("file"), async (req: AuthenticatedRequest, res) => {
