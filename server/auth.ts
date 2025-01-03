@@ -95,6 +95,7 @@ export function setupAuth(app: Express) {
   passport.use(
     new LocalStrategy(async (username, password, done) => {
       try {
+        console.log("Attempting login for username:", username);
         const [user] = await db
           .select()
           .from(users)
@@ -102,14 +103,21 @@ export function setupAuth(app: Express) {
           .limit(1);
 
         if (!user) {
+          console.log("User not found:", username);
           return done(null, false, { message: "Nom d'utilisateur incorrect" });
         }
+
+        console.log("User found, verifying password");
         const isMatch = await crypto.compare(password, user.password);
         if (!isMatch) {
+          console.log("Password verification failed");
           return done(null, false, { message: "Mot de passe incorrect" });
         }
+
+        console.log("Login successful for user:", user.username);
         return done(null, user);
       } catch (err) {
+        console.error("Login error:", err);
         return done(err);
       }
     })
@@ -123,20 +131,24 @@ export function setupAuth(app: Express) {
         .send("Données invalides : " + result.error.issues.map((i) => i.message).join(", "));
     }
 
-    const cb = (err: any, user: Express.User, info: IVerifyOptions) => {
+    passport.authenticate("local", (err: any, user: Express.User | false, info: IVerifyOptions) => {
       if (err) {
+        console.error("Authentication error:", err);
         return next(err);
       }
 
       if (!user) {
+        console.log("Authentication failed:", info.message);
         return res.status(400).send(info.message ?? "La connexion a échoué");
       }
 
       req.logIn(user, (err) => {
         if (err) {
+          console.error("Login error:", err);
           return next(err);
         }
 
+        console.log("Login successful for user:", user.username);
         return res.json({
           message: "Connexion réussie",
           user: { 
@@ -147,8 +159,7 @@ export function setupAuth(app: Express) {
           },
         });
       });
-    };
-    passport.authenticate("local", cb)(req, res, next);
+    })(req, res, next);
   });
 
   app.post("/api/register", async (req, res, next) => {
