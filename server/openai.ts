@@ -2,9 +2,10 @@ import OpenAI from "openai";
 import { type Document, type OpenAIModel } from "@db/schema";
 
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const openai = new OpenAI();
 
 const MAX_CHUNK_SIZE = 4000; // Safe size to stay under token limits
+const MAX_TOKENS = 400; // Limite maximale de tokens pour les réponses
 
 function chunkText(text: string): string[] {
   const words = text.split(' ');
@@ -69,7 +70,7 @@ export async function getChatResponse(
   context: string, 
   systemPrompt?: string,
   history?: Array<{ role: string; content: string; }> = [],
-  model: OpenAIModel = "gpt-4o" // Modèle par défaut
+  model: OpenAIModel = "gpt-4o-mini" 
 ) {
   const messages = [];
 
@@ -114,14 +115,21 @@ N'oublie pas : Base tes réponses uniquement sur les informations ci-dessus.
   console.log("Using model:", model);
   console.log("System prompt:", contextPrompt);
 
-  const response = await openai.chat.completions.create({
-    model: model,
-    messages,
-    temperature: 0.7,
-    max_tokens: 500
-  });
+  try {
+    const response = await openai.chat.completions.create({
+      model: model,
+      messages,
+      temperature: 0.7,
+      max_tokens: MAX_TOKENS, 
+      presence_penalty: 0.1,
+      frequency_penalty: 0.1
+    });
 
-  return response.choices[0].message.content;
+    return response.choices[0].message.content || "Désolé, je n'ai pas pu générer une réponse.";
+  } catch (error) {
+    console.error("OpenAI API error:", error);
+    throw new Error(`Erreur lors de la génération de la réponse: ${error.message}`);
+  }
 }
 
 function cosineSimilarity(a: number[], b: number[]) {
