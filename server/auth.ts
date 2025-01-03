@@ -7,7 +7,8 @@ import { scrypt, randomBytes, timingSafeEqual } from "crypto";
 import { promisify } from "util";
 import { users, insertUserSchema, type User as SelectUser } from "@db/schema";
 import { db } from "@db";
-import { eq } from "drizzle-orm";
+import { eq, sql } from "drizzle-orm";
+import { z } from "zod";
 
 const scryptAsync = promisify(scrypt);
 export const crypto = {
@@ -27,6 +28,12 @@ export const crypto = {
     return timingSafeEqual(hashedPasswordBuf, suppliedPasswordBuf);
   },
 };
+
+// Schéma de connexion simplifié
+export const loginUserSchema = z.object({
+  username: z.string().min(1, "Le nom d'utilisateur est requis"),
+  password: z.string().min(1, "Le mot de passe est requis"),
+});
 
 async function createDefaultAdminIfNotExists() {
   try {
@@ -235,14 +242,6 @@ export async function setupAuth(app: Express) {
           isAdmin: isFirstUser, // Le premier utilisateur sera admin
         })
         .returning();
-
-      // Send confirmation email
-      try {
-        await sendConfirmationEmail(email, username);
-      } catch (emailError) {
-        console.error("Failed to send confirmation email:", emailError);
-        // Continue with registration even if email fails
-      }
 
       // Log the user in after registration
       req.login(newUser, (err) => {
