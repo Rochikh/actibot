@@ -12,11 +12,9 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Form, FormControl, FormField, FormItem, FormMessage } from "@/components/ui/form";
 import { Loader2 } from "lucide-react";
 import { toast } from "@/hooks/use-toast";
+import * as z from 'zod';
 
-type LoginFormData = {
-  username: string;
-  password: string;
-};
+type LoginFormData = z.infer<typeof loginUserSchema>;
 
 export default function AuthPage() {
   const { login, register } = useUser();

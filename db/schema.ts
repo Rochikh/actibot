@@ -45,10 +45,13 @@ export const insertUserSchema = createInsertSchema(users, {
   email: z.string().email("L'adresse email n'est pas valide"),
   password: z.string().min(6, "Le mot de passe doit contenir au moins 6 caractères"),
 });
+
+// Schéma de connexion simplifié
 export const loginUserSchema = z.object({
   username: z.string().min(1, "Le nom d'utilisateur est requis"),
   password: z.string().min(1, "Le mot de passe est requis"),
 });
+
 export const selectUserSchema = createSelectSchema(users);
 
 export const insertDocumentSchema = createInsertSchema(documents);
@@ -63,6 +66,7 @@ export const selectChatSchema = createSelectSchema(chats);
 // Types
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
+export type LoginUser = z.infer<typeof loginUserSchema>;
 export type Document = typeof documents.$inferSelect;
 export type InsertDocument = typeof documents.$inferInsert;
 export type SystemPrompt = typeof systemPrompts.$inferSelect;
