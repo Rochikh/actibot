@@ -5,7 +5,7 @@ import { type Document, type OpenAIModel } from "@db/schema";
 const openai = new OpenAI();
 
 const MAX_CHUNK_SIZE = 4000; // Safe size to stay under token limits
-const MAX_TOKENS = 400; // Limite maximale de tokens pour les réponses
+const MAX_TOKENS = 1000; // Augmenté pour des réponses plus complètes
 const MAX_CONTEXT_LENGTH = 8000; // Reduced context length to stay well under limits
 
 function truncateText(text: string, maxLength: number): string {
@@ -103,7 +103,7 @@ Instructions importantes:
 1. Utilise uniquement les informations fournies dans la base de connaissance ci-dessous pour répondre aux questions.
 2. Si tu ne trouves pas l'information dans la base de connaissance, dis-le clairement.
 3. Cite toujours tes sources quand tu utilises une information de la base de connaissance.
-4. Sois très bref et concis dans tes réponses, en restant dans la limite de 400 tokens.
+4. Donne des réponses complètes et détaillées tout en restant structuré.
 
 Base de connaissance:
 ${truncatedContext}
