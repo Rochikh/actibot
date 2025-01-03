@@ -94,17 +94,17 @@ export async function findSimilarDocuments(query: string) {
 
   const queryEmbedding = await generateEmbedding(query);
 
-  // Use pgvector to find the most relevant chunks
+  // Convert embedding to vector format and use proper vector comparison
   const relevantChunks = await db.execute(sql`
     SELECT 
       dc.content,
       dc.metadata,
       d.title,
-      1 - (dc.embedding <=> ${JSON.stringify(queryEmbedding)}) as similarity
+      1 - (dc.embedding::vector <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
     FROM document_chunks dc
     JOIN documents d ON d.id = dc.document_id
     WHERE dc.embedding IS NOT NULL
-    ORDER BY dc.embedding <=> ${JSON.stringify(queryEmbedding)}
+    ORDER BY dc.embedding::vector <-> ${JSON.stringify(queryEmbedding)}::vector
     LIMIT 5
   `);
 
