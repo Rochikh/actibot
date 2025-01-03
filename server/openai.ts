@@ -6,10 +6,10 @@ import { sql } from "drizzle-orm";
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI();
 
-const MAX_CHUNK_SIZE = 1000; // Optimized chunk size for better context retrieval
-const MAX_TOKENS = 1000; // Maximum tokens for response generation
-const MAX_CONTEXT_LENGTH = 12000; // Maximum context length
-const MIN_SIMILARITY_THRESHOLD = 0.7; // Minimum similarity threshold
+const MAX_CHUNK_SIZE = 1500; // Increased for better context comprehension
+const MAX_TOKENS = 1500; // Increased for more detailed responses
+const MAX_CONTEXT_LENGTH = 15000; // Increased to handle more context
+const MIN_SIMILARITY_THRESHOLD = 0.65; // Slightly lowered to get more relevant chunks
 
 function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Array<{
   content: string;
@@ -74,7 +74,7 @@ export async function findSimilarDocuments(query: string) {
 
   const queryEmbedding = await generateEmbedding(query);
 
-  // Using proper vector similarity search with context
+  // Using proper vector similarity search with context, increased limit to 8
   const relevantChunks = await db.execute(sql`
     WITH ranked_chunks AS (
       SELECT 
@@ -89,7 +89,7 @@ export async function findSimilarDocuments(query: string) {
       JOIN documents d ON d.id = dc.document_id
       WHERE dc.embedding IS NOT NULL
       ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector
-      LIMIT 5
+      LIMIT 8
     )
     SELECT * FROM ranked_chunks
     WHERE similarity > ${MIN_SIMILARITY_THRESHOLD}
@@ -106,7 +106,7 @@ export async function findSimilarDocuments(query: string) {
       context: `Document: ${chunk.document_title}`
     }))
     .sort((a: any, b: any) => b.similarity - a.similarity)
-    .slice(0, 3);
+    .slice(0, 5); // Keep top 5 most relevant chunks
 }
 
 export async function getChatResponse(
@@ -114,7 +114,7 @@ export async function getChatResponse(
   context: string, 
   systemPrompt?: string,
   history: Array<{ role: string; content: string; }> = [],
-  model: OpenAIModel = "gpt-4o-mini" 
+  model: OpenAIModel = "gpt-4o" // Using the most capable model
 ) {
   try {
     if (!question || typeof question !== 'string') {
@@ -124,27 +124,45 @@ export async function getChatResponse(
     const structuredContext = context ? `
 Context provided:
 ${context}
+
+Related documents have been analyzed and integrated into this response.
 ` : '';
 
-    const limitedHistory = history.slice(-2).map(msg => ({
+    const limitedHistory = history.slice(-3).map(msg => ({
       role: msg.role as "user" | "assistant",
-      content: msg.content.slice(0, 1000)
+      content: msg.content.slice(0, 1500) // Increased context from history
     }));
 
-    const basePrompt = systemPrompt || `You are an expert assistant for this WhatsApp community, specialized in detailed and structured explanations.
+    const basePrompt = systemPrompt || `You are an expert AI assistant specialized in providing comprehensive, well-structured, and detailed explanations. Your responses should be thorough while maintaining clarity and relevance.
 
 For each response, you must:
-1. Analyze all provided sources
-2. Structure your response in clear sections:
-   - Introduction and context
-   - Main points with detailed explanations
-   - Concrete examples and use cases
-   - Summary of key points
-3. Use Markdown formatting to improve readability:
-   - **Bold** for important concepts
-   - *Italic* for nuances or precisions
-   - Numbered lists for steps
-   - Quotes for direct excerpts`;
+1. Carefully analyze all provided sources and context
+2. Structure your response in clear, hierarchical sections:
+   - Executive Summary (2-3 sentences overview)
+   - Detailed Analysis
+     * Main concepts and their relationships
+     * Key insights from the provided context
+     * Technical details when relevant
+   - Practical Applications
+     * Real-world examples
+     * Use cases and implementation scenarios
+   - Additional Considerations
+     * Important caveats or limitations
+     * Best practices and recommendations
+3. Use advanced Markdown formatting to enhance readability:
+   - **Bold** for crucial concepts and key terms
+   - *Italic* for emphasis and nuanced points
+   - Numbered lists for sequential steps or prioritized points
+   - Bullet points for parallel ideas
+   - > Blockquotes for direct citations or important notes
+   - Code blocks for technical content when applicable
+   - ### Headers for major sections
+
+Ensure your response is:
+- Comprehensive yet focused on the most relevant information
+- Backed by the provided context and sources
+- Logically structured and easy to follow
+- Practical and actionable when applicable`;
 
     const contextPrompt = `
 ${basePrompt}
@@ -153,8 +171,11 @@ ${structuredContext}
 
 Question: ${question}
 
-Make sure to use all relevant information from the provided sources.
-`;
+Ensure your response:
+1. Integrates information from all relevant sources
+2. Provides concrete examples and applications
+3. Addresses potential follow-up questions
+4. Maintains proper formatting and structure`;
 
     const response = await openai.chat.completions.create({
       model,
@@ -172,7 +193,8 @@ Make sure to use all relevant information from the provided sources.
       temperature: 0.7,
       max_tokens: MAX_TOKENS,
       presence_penalty: 0.1,
-      frequency_penalty: 0.1
+      frequency_penalty: 0.2, // Increased for more diverse responses
+      top_p: 0.9, // Added for better response quality
     });
 
     return response.choices[0].message.content || "Sorry, I couldn't generate a response.";
