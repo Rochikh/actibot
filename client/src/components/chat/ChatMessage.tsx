@@ -2,6 +2,8 @@ import { format } from "date-fns";
 import { Avatar } from "@/components/ui/avatar";
 import { Card } from "@/components/ui/card";
 import { User, Bot } from "lucide-react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 interface ChatMessageProps {
   message: string;
@@ -10,25 +12,40 @@ interface ChatMessageProps {
 }
 
 export default function ChatMessage({ message, response, timestamp }: ChatMessageProps) {
-  // Fonction pour formater le texte avec des listes numérotées
+  // Fonction pour formater le texte avec des listes numérotées et du Markdown
   const formatResponse = (text: string) => {
     return text.split('\n').map((line, index) => {
+      // Si la ligne est vide, on ajoute un espace
+      if (!line.trim()) {
+        return <div key={index} className="h-2" />;
+      }
+
       // Si la ligne commence par un numéro et un point, on la formate comme un élément de liste
       const listItemMatch = line.match(/^(\d+)\.\s(.+)/);
       if (listItemMatch) {
         return (
           <div key={index} className="flex gap-2 my-1">
             <span className="font-medium">{listItemMatch[1]}.</span>
-            <span>{listItemMatch[2]}</span>
+            <ReactMarkdown 
+              remarkPlugins={[remarkGfm]}
+              className="prose prose-sm dark:prose-invert flex-1"
+            >
+              {listItemMatch[2]}
+            </ReactMarkdown>
           </div>
         );
       }
-      // Si la ligne est vide, on ajoute un espace
-      if (!line.trim()) {
-        return <div key={index} className="h-2" />;
-      }
-      // Sinon, on affiche la ligne normalement
-      return <p key={index} className="my-1">{line}</p>;
+
+      // Sinon, on affiche la ligne avec le formatage Markdown
+      return (
+        <ReactMarkdown 
+          key={index}
+          remarkPlugins={[remarkGfm]}
+          className="prose prose-sm dark:prose-invert my-1"
+        >
+          {line}
+        </ReactMarkdown>
+      );
     });
   };
 
