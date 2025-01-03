@@ -38,12 +38,11 @@ declare global {
 export function setupAuth(app: Express) {
   const MemoryStore = createMemoryStore(session);
 
-  // Configuration plus robuste de la session
   const sessionSettings: session.SessionOptions = {
     secret: process.env.REPL_ID || "porygon-supremacy",
-    resave: true, // Changed to true to ensure session is saved
-    saveUninitialized: true, // Changed to true to create session for all users
-    name: 'sessionId', // Explicit session name
+    resave: true,
+    saveUninitialized: true,
+    name: 'sessionId',
     cookie: {
       maxAge: 24 * 60 * 60 * 1000, // 24 hours
       httpOnly: true,
@@ -51,7 +50,7 @@ export function setupAuth(app: Express) {
     },
     store: new MemoryStore({
       checkPeriod: 86400000, // prune expired entries every 24h
-      stale: false, // do not serve stale sessions
+      stale: false,
     }),
   };
 
@@ -66,7 +65,6 @@ export function setupAuth(app: Express) {
   app.use(passport.initialize());
   app.use(passport.session());
 
-  // Simplified serialization
   passport.serializeUser((user: Express.User, done) => {
     console.log("Serializing user:", user.id);
     done(null, user.id);
