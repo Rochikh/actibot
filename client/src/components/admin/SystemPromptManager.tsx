@@ -11,6 +11,15 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Loader2, Plus, Check, Pencil, X, Save } from "lucide-react";
 import { OPENAI_MODELS, type SystemPrompt } from "@db/schema";
 
+const MODEL_DESCRIPTIONS: Record<string, string> = {
+  "gpt-4o": "High-intelligence flagship model for complex, multi-step tasks",
+  "gpt-4o-mini": "Affordable and intelligent small model for fast, lightweight tasks",
+  "gpt-3.5-turbo": "Bon équilibre entre performance et coût",
+  "gpt-4-vision-preview": "Spécialisé pour l'analyse d'images",
+  "gpt-4": "Version standard de GPT-4",
+  "gpt-3.5-turbo-16k": "Pour les conversations avec un long contexte",
+};
+
 export default function SystemPromptManager() {
   const [name, setName] = useState("");
   const [content, setContent] = useState("");
@@ -173,7 +182,12 @@ export default function SystemPromptManager() {
             <SelectContent>
               {OPENAI_MODELS.map((modelOption) => (
                 <SelectItem key={modelOption} value={modelOption}>
-                  {modelOption}
+                  <div>
+                    <div className="font-medium">{modelOption}</div>
+                    <div className="text-xs text-muted-foreground">
+                      {MODEL_DESCRIPTIONS[modelOption]}
+                    </div>
+                  </div>
                 </SelectItem>
               ))}
             </SelectContent>

@@ -56,6 +56,7 @@ export const loginUserSchema = z.object({
 // Liste des modèles OpenAI disponibles
 export const OPENAI_MODELS = [
   "gpt-4o",       // Le plus récent et performant
+  "gpt-4o-mini", // Abordable et intelligent pour les tâches légères
   "gpt-3.5-turbo", // Bon équilibre performance/coût
   "gpt-4-vision-preview", // Pour l'analyse d'images
   "gpt-4",        // Version standard de GPT-4
