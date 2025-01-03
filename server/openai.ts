@@ -73,10 +73,28 @@ export async function getChatResponse(
 ) {
   const messages = [];
 
-  // Add system prompt if provided, otherwise use default
+  // Construct a more detailed system prompt that includes context from documents
+  const basePrompt = systemPrompt || "Tu es un assistant expert pour cette communauté WhatsApp.";
+  const contextPrompt = `
+${basePrompt}
+
+Instructions importantes:
+1. Utilise uniquement les informations fournies dans la base de connaissance ci-dessous pour répondre aux questions.
+2. Si tu ne trouves pas l'information dans la base de connaissance, dis-le clairement.
+3. Cite toujours tes sources quand tu utilises une information de la base de connaissance.
+4. Formate tes réponses de manière claire et structurée.
+
+Base de connaissance:
+${context}
+
+---
+N'oublie pas : Base tes réponses uniquement sur les informations ci-dessus.
+`;
+
+  // Add the enhanced system prompt
   messages.push({
     role: "system" as const,
-    content: systemPrompt || `You are a helpful assistant. Use the following context to answer questions: ${context}`
+    content: contextPrompt
   });
 
   // Add conversation history
@@ -92,6 +110,9 @@ export async function getChatResponse(
     role: "user" as const,
     content: question
   });
+
+  console.log("Using model:", model);
+  console.log("System prompt:", contextPrompt);
 
   const response = await openai.chat.completions.create({
     model: model,
