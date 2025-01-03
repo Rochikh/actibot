@@ -7,12 +7,14 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-import { Loader2, Plus, Check } from "lucide-react";
+import { Loader2, Plus, Check, Pencil, X, Save } from "lucide-react";
 import type { SystemPrompt } from "@db/schema";
 
 export default function SystemPromptManager() {
   const [name, setName] = useState("");
   const [content, setContent] = useState("");
+  const [editingPrompt, setEditingPrompt] = useState<SystemPrompt | null>(null);
+  const [isEditing, setIsEditing] = useState(false);
   const queryClient = useQueryClient();
 
   const { data: prompts = [], isLoading } = useQuery<SystemPrompt[]>({
@@ -40,6 +42,38 @@ export default function SystemPromptManager() {
       toast({
         title: "Succès",
         description: "Le prompt système a été créé",
+      });
+    },
+    onError: (error) => {
+      toast({
+        title: "Erreur",
+        description: error.message,
+        variant: "destructive",
+      });
+    },
+  });
+
+  const { mutateAsync: updatePrompt, isPending: isUpdating } = useMutation({
+    mutationFn: async (data: { id: number; name: string; content: string }) => {
+      const response = await fetch(`/api/system-prompts/${data.id}`, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: data.name, content: data.content }),
+      });
+
+      if (!response.ok) {
+        throw new Error(await response.text());
+      }
+
+      return response.json();
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["/api/system-prompts"] });
+      setEditingPrompt(null);
+      setIsEditing(false);
+      toast({
+        title: "Succès",
+        description: "Le prompt système a été modifié",
       });
     },
     onError: (error) => {
@@ -83,7 +117,25 @@ export default function SystemPromptManager() {
     e.preventDefault();
     if (!name.trim() || !content.trim()) return;
 
-    await createPrompt({ name, content });
+    if (editingPrompt) {
+      await updatePrompt({ id: editingPrompt.id, name, content });
+    } else {
+      await createPrompt({ name, content });
+    }
+  };
+
+  const startEditing = (prompt: SystemPrompt) => {
+    setEditingPrompt(prompt);
+    setName(prompt.name);
+    setContent(prompt.content);
+    setIsEditing(true);
+  };
+
+  const cancelEditing = () => {
+    setEditingPrompt(null);
+    setName("");
+    setContent("");
+    setIsEditing(false);
   };
 
   if (isLoading) {
@@ -118,14 +170,33 @@ export default function SystemPromptManager() {
           />
         </div>
 
-        <Button type="submit" disabled={isCreating} className="w-full">
-          {isCreating ? (
-            <Loader2 className="h-4 w-4 animate-spin mr-2" />
-          ) : (
-            <Plus className="h-4 w-4 mr-2" />
+        <div className="flex gap-2">
+          <Button 
+            type="submit" 
+            disabled={isCreating || isUpdating || !name.trim() || !content.trim()} 
+            className="flex-1"
+          >
+            {isCreating || isUpdating ? (
+              <Loader2 className="h-4 w-4 animate-spin mr-2" />
+            ) : editingPrompt ? (
+              <Save className="h-4 w-4 mr-2" />
+            ) : (
+              <Plus className="h-4 w-4 mr-2" />
+            )}
+            {editingPrompt ? "Enregistrer les modifications" : "Créer un nouveau prompt"}
+          </Button>
+          {isEditing && (
+            <Button 
+              type="button" 
+              variant="outline" 
+              onClick={cancelEditing}
+              className="flex items-center gap-2"
+            >
+              <X className="h-4 w-4" />
+              Annuler
+            </Button>
           )}
-          Créer un nouveau prompt
-        </Button>
+        </div>
       </form>
 
       <Card>
@@ -135,7 +206,7 @@ export default function SystemPromptManager() {
               <TableHead>Nom</TableHead>
               <TableHead>Contenu</TableHead>
               <TableHead>Statut</TableHead>
-              <TableHead>Action</TableHead>
+              <TableHead>Actions</TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>
@@ -154,15 +225,25 @@ export default function SystemPromptManager() {
                   )}
                 </TableCell>
                 <TableCell>
-                  {!prompt.isActive && (
+                  <div className="flex items-center gap-2">
                     <Button
                       variant="outline"
                       size="sm"
-                      onClick={() => activatePrompt(prompt.id)}
+                      onClick={() => startEditing(prompt)}
+                      disabled={isEditing}
                     >
-                      Activer
+                      <Pencil className="h-4 w-4" />
                     </Button>
-                  )}
+                    {!prompt.isActive && (
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => activatePrompt(prompt.id)}
+                      >
+                        Activer
+                      </Button>
+                    )}
+                  </div>
                 </TableCell>
               </TableRow>
             ))}

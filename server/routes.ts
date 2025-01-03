@@ -154,6 +154,30 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  app.put("/api/system-prompts/:id", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+    try {
+      const { name, content } = req.body;
+
+      // Update the prompt
+      const [updatedPrompt] = await db.update(systemPrompts)
+        .set({ 
+          name, 
+          content,
+          updatedAt: new Date()
+        })
+        .where(eq(systemPrompts.id, parseInt(req.params.id)))
+        .returning();
+
+      if (!updatedPrompt) {
+        return res.status(404).send("Prompt système non trouvé");
+      }
+
+      res.json(updatedPrompt);
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
+
   // Modified Chat routes to include system prompt and history
   app.post("/api/chat", requireAuth, async (req: AuthenticatedRequest, res) => {
     try {
