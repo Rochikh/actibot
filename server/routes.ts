@@ -1,7 +1,7 @@
 import type { Express } from "express";
 import { createServer, type Server } from "http";
 import { db } from "@db";
-import { documents, chats } from "@db/schema";
+import { documents, chats, systemPrompts } from "@db/schema";
 import { generateEmbedding, findSimilarDocuments, getChatResponse } from "./openai";
 import multer from "multer";
 import { eq } from "drizzle-orm";
@@ -70,20 +70,78 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
-  // Chat routes (protected by auth)
+  // System Prompts routes (protected by auth and admin)
+  app.post("/api/system-prompts", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+    try {
+      const { name, content } = req.body;
+
+      const [prompt] = await db.insert(systemPrompts).values({
+        name,
+        content,
+        createdBy: req.user!.id,
+        isActive: false
+      }).returning();
+
+      res.json(prompt);
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
+
+  app.get("/api/system-prompts", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+    try {
+      const prompts = await db.select().from(systemPrompts);
+      res.json(prompts);
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
+
+  app.patch("/api/system-prompts/:id/activate", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+    try {
+      // First, deactivate all prompts
+      await db.update(systemPrompts)
+        .set({ isActive: false })
+        .where(eq(systemPrompts.isActive, true));
+
+      // Then activate the selected prompt
+      const [updatedPrompt] = await db.update(systemPrompts)
+        .set({ isActive: true })
+        .where(eq(systemPrompts.id, parseInt(req.params.id)))
+        .returning();
+
+      res.json(updatedPrompt);
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
+
+  // Modified Chat routes to include system prompt
   app.post("/api/chat", requireAuth, async (req: AuthenticatedRequest, res) => {
     try {
       const { message } = req.body;
+
+      // Get the active system prompt
+      const [activePrompt] = await db.select()
+        .from(systemPrompts)
+        .where(eq(systemPrompts.isActive, true))
+        .limit(1);
+
       const allDocuments = await db.select().from(documents);
       const relevantDocs = await findSimilarDocuments(allDocuments, message);
       const context = relevantDocs.map(doc => doc.content).join("\n\n");
 
-      const response = await getChatResponse(message, context);
+      const response = await getChatResponse(
+        message,
+        context,
+        activePrompt?.content
+      );
 
       const [chat] = await db.insert(chats).values({
         userId: req.user!.id,
         message,
-        response
+        response,
+        systemPromptId: activePrompt?.id
       }).returning();
 
       res.json(chat);
