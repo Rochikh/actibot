@@ -29,28 +29,38 @@ export const crypto = {
   },
 };
 
-// Schéma de connexion simplifié
-export const loginUserSchema = z.object({
+// Schéma de connexion
+const loginUserSchema = z.object({
   username: z.string().min(1, "Le nom d'utilisateur est requis"),
   password: z.string().min(1, "Le mot de passe est requis"),
 });
 
 async function createDefaultAdminIfNotExists() {
   try {
-    // Supprime l'ancien compte admin s'il existe
-    await db.delete(users).where(eq(users.username, "admin"));
+    // Supprime tous les utilisateurs existants
+    await db.delete(users).where(sql`1=1`);
 
-    // Crée un nouveau compte admin avec le mot de passe hashé
-    const hashedPassword = await crypto.hash("admin");
+    // Crée le compte admin
+    const adminPassword = await crypto.hash("admin");
     await db.insert(users).values({
       username: "admin",
       email: "admin@example.com",
-      password: hashedPassword,
+      password: adminPassword,
       isAdmin: true,
     });
-    console.log("Default admin account created with hashed password");
+
+    // Crée le compte user
+    const userPassword = await crypto.hash("user");
+    await db.insert(users).values({
+      username: "user",
+      email: "user@example.com",
+      password: userPassword,
+      isAdmin: false,
+    });
+
+    console.log("Default accounts created with hashed passwords");
   } catch (error) {
-    console.error("Error creating default admin:", error);
+    console.error("Error creating default accounts:", error);
   }
 }
 
@@ -61,7 +71,7 @@ declare global {
 }
 
 export async function setupAuth(app: Express) {
-  // Create default admin account
+  // Create default accounts
   await createDefaultAdminIfNotExists();
 
   const MemoryStore = createMemoryStore(session);
@@ -157,7 +167,7 @@ export async function setupAuth(app: Express) {
       if (!result.success) {
         return res
           .status(400)
-          .send("Données invalides : " + result.error.issues.map((i) => i.message).join(", "));
+          .send("Données invalides : " + result.error.issues.map((i: any) => i.message).join(", "));
       }
 
       const { username, email, password } = result.data;
@@ -187,12 +197,6 @@ export async function setupAuth(app: Express) {
       // Hash the password
       const hashedPassword = await crypto.hash(password);
 
-      // Vérifier s'il existe déjà des utilisateurs
-      const userCount = await db.select({ count: sql<number>`count(*)::integer` }).from(users);
-      const isFirstUser = userCount[0].count === 0;
-
-      console.log("User count:", userCount[0].count, "Is first user:", isFirstUser);
-
       // Create the new user
       const [newUser] = await db
         .insert(users)
@@ -200,7 +204,7 @@ export async function setupAuth(app: Express) {
           username,
           email,
           password: hashedPassword,
-          isAdmin: isFirstUser, // Le premier utilisateur sera admin
+          isAdmin: false, // Nouveaux utilisateurs ne sont jamais admin
         })
         .returning();
 
@@ -228,7 +232,7 @@ export async function setupAuth(app: Express) {
     if (!result.success) {
       return res
         .status(400)
-        .send("Données invalides : " + result.error.issues.map((i) => i.message).join(", "));
+        .send("Données invalides : " + result.error.issues.map((i: any) => i.message).join(", "));
     }
 
     passport.authenticate("local", (err: any, user: Express.User | false, info: IVerifyOptions) => {
