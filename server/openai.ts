@@ -6,55 +6,31 @@ import { sql } from "drizzle-orm";
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI();
 
-const MAX_CHUNK_SIZE = 1500; // Reduced chunk size for better context management
-const MAX_TOKENS = 1000; // Increased for more complete responses
-const MAX_CONTEXT_LENGTH = 12000; // Increased for more comprehensive responses
+const MAX_CHUNK_SIZE = 1000; // Optimized chunk size for better context retrieval
+const MAX_TOKENS = 1000; // Maximum tokens for response generation
+const MAX_CONTEXT_LENGTH = 12000; // Maximum context length
 const MIN_SIMILARITY_THRESHOLD = 0.7; // Minimum similarity threshold
 
-function truncateText(text: string, maxLength: number): string {
-  if (!text || typeof text !== 'string') return '';
-  if (text.length <= maxLength) return text;
+function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Array<{
+  content: string;
+  startOffset: number;
+  endOffset: number;
+}> {
+  const chunks = [];
+  let startOffset = 0;
 
-  // Estimate tokens (roughly 4 characters per token)
-  const maxTokens = Math.floor(maxLength / 4);
-  const estimatedMaxLength = maxTokens * 4;
-
-  // Try to end at a sentence or paragraph break
-  let truncated = text.slice(0, estimatedMaxLength);
-  const lastPeriod = truncated.lastIndexOf('.');
-  const lastNewline = truncated.lastIndexOf('\n');
-  const breakPoint = Math.max(lastPeriod, lastNewline);
-
-  if (breakPoint > estimatedMaxLength * 0.8) {
-    return truncated.slice(0, breakPoint + 1);
-  }
-
-  return truncated + "...";
-}
-
-function chunkText(text: string): string[] {
-  if (!text || typeof text !== 'string') return [];
-
-  // Diviser d'abord par paragraphes
-  const paragraphs = text.split(/\n\s*\n/);
-  const chunks: string[] = [];
+  // Split intelligently at paragraphs
+  const paragraphs = content.split(/\n\n+/);
   let currentChunk = '';
 
   for (const paragraph of paragraphs) {
-    // Si le paragraphe lui-même est trop long, le diviser en phrases
-    if (paragraph.length > MAX_CHUNK_SIZE) {
-      const sentences = paragraph.match(/[^.!?]+[.!?]+/g) || [paragraph];
-
-      for (const sentence of sentences) {
-        if ((currentChunk + '\n' + sentence).length > MAX_CHUNK_SIZE) {
-          if (currentChunk) chunks.push(currentChunk.trim());
-          currentChunk = sentence;
-        } else {
-          currentChunk += '\n' + sentence;
-        }
-      }
-    } else if ((currentChunk + '\n\n' + paragraph).length > MAX_CHUNK_SIZE) {
-      chunks.push(currentChunk.trim());
+    if ((currentChunk + paragraph).length > chunkSize && currentChunk.length > 0) {
+      chunks.push({
+        content: currentChunk,
+        startOffset,
+        endOffset: startOffset + currentChunk.length,
+      });
+      startOffset += currentChunk.length;
       currentChunk = paragraph;
     } else {
       currentChunk += (currentChunk ? '\n\n' : '') + paragraph;
@@ -62,7 +38,11 @@ function chunkText(text: string): string[] {
   }
 
   if (currentChunk) {
-    chunks.push(currentChunk.trim());
+    chunks.push({
+      content: currentChunk,
+      startOffset,
+      endOffset: startOffset + currentChunk.length,
+    });
   }
 
   return chunks;
@@ -94,18 +74,25 @@ export async function findSimilarDocuments(query: string) {
 
   const queryEmbedding = await generateEmbedding(query);
 
-  // Using proper vector similarity search with pgvector
+  // Using proper vector similarity search with context
   const relevantChunks = await db.execute(sql`
-    SELECT 
-      dc.content,
-      dc.metadata,
-      d.title,
-      1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
-    FROM document_chunks dc
-    JOIN documents d ON d.id = dc.document_id
-    WHERE dc.embedding IS NOT NULL
-    ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector
-    LIMIT 5
+    WITH ranked_chunks AS (
+      SELECT 
+        dc.id,
+        dc.content,
+        dc.title,
+        d.title as document_title,
+        1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity,
+        LAG(dc.content) OVER (PARTITION BY dc.document_id ORDER BY dc.chunk_index) as previous_chunk,
+        LEAD(dc.content) OVER (PARTITION BY dc.document_id ORDER BY dc.chunk_index) as next_chunk
+      FROM document_chunks dc
+      JOIN documents d ON d.id = dc.document_id
+      WHERE dc.embedding IS NOT NULL
+      ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector
+      LIMIT 5
+    )
+    SELECT * FROM ranked_chunks
+    WHERE similarity > ${MIN_SIMILARITY_THRESHOLD}
   `);
 
   if (!Array.isArray(relevantChunks)) {
@@ -113,7 +100,11 @@ export async function findSimilarDocuments(query: string) {
   }
 
   return relevantChunks
-    .filter((chunk: any) => chunk && chunk.similarity >= MIN_SIMILARITY_THRESHOLD)
+    .map((chunk: any) => ({
+      ...chunk,
+      content: `${chunk.previous_chunk ? chunk.previous_chunk + "\n\n" : ""}${chunk.content}${chunk.next_chunk ? "\n\n" + chunk.next_chunk : ""}`,
+      context: `Document: ${chunk.document_title}${chunk.title ? ` > ${chunk.title}` : ""}`
+    }))
     .sort((a: any, b: any) => b.similarity - a.similarity)
     .slice(0, 3);
 }
@@ -189,4 +180,25 @@ Make sure to use all relevant information from the provided sources.
     console.error("OpenAI API error:", error);
     throw new Error(`Error generating response: ${error.message}`);
   }
+}
+
+function truncateText(text: string, maxLength: number): string {
+  if (!text || typeof text !== 'string') return '';
+  if (text.length <= maxLength) return text;
+
+  // Estimate tokens (roughly 4 characters per token)
+  const maxTokens = Math.floor(maxLength / 4);
+  const estimatedMaxLength = maxTokens * 4;
+
+  // Try to end at a sentence or paragraph break
+  let truncated = text.slice(0, estimatedMaxLength);
+  const lastPeriod = truncated.lastIndexOf('.');
+  const lastNewline = truncated.lastIndexOf('\n');
+  const breakPoint = Math.max(lastPeriod, lastNewline);
+
+  if (breakPoint > estimatedMaxLength * 0.8) {
+    return truncated.slice(0, breakPoint + 1);
+  }
+
+  return truncated + "...";
 }

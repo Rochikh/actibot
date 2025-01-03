@@ -26,6 +26,9 @@ export const documentChunks = pgTable("document_chunks", {
   content: text("content").notNull(),
   embedding: vector("embedding", { dimensions: 1536 }), // Using vector type for OpenAI embeddings
   chunkIndex: integer("chunk_index").notNull(),
+  startOffset: integer("start_offset").notNull(),
+  endOffset: integer("end_offset").notNull(),
+  title: text("title"),
   metadata: jsonb("metadata"),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
