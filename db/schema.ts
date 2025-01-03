@@ -42,7 +42,7 @@ export const chats = pgTable("chats", {
 // Schema validation
 export const insertUserSchema = createInsertSchema(users, {
   username: z.string().min(1, "Le nom d'utilisateur est requis"),
-  email: z.string().email("Email invalide"),
+  email: z.string().email("L'adresse email n'est pas valide"),
   password: z.string().min(6, "Le mot de passe doit contenir au moins 6 caractères"),
 });
 export const loginUserSchema = z.object({

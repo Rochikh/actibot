@@ -25,7 +25,7 @@ async function handleRequest(
 
     if (!response.ok) {
       if (response.status >= 500) {
-        return { ok: false, message: response.statusText };
+        return { ok: false, message: "Erreur serveur interne" };
       }
 
       const message = await response.text();
@@ -35,7 +35,7 @@ async function handleRequest(
     const data = await response.json();
     return { ok: true, user: data.user };
   } catch (e: any) {
-    return { ok: false, message: e.toString() };
+    return { ok: false, message: "Une erreur est survenue lors de la connexion" };
   }
 }
 
@@ -74,7 +74,7 @@ export function useUser() {
           description: result.message,
           variant: "destructive",
         });
-        return result;
+        throw new Error(result.message);
       }
       return result;
     },
@@ -94,7 +94,7 @@ export function useUser() {
           description: result.message,
           variant: "destructive",
         });
-        return result;
+        throw new Error(result.message);
       }
       return result;
     },
@@ -114,13 +114,17 @@ export function useUser() {
           description: result.message,
           variant: "destructive",
         });
-        return result;
+        throw new Error(result.message);
       }
       return result;
     },
     onSuccess: (data) => {
       if (data.ok) {
         queryClient.invalidateQueries({ queryKey: ['user'] });
+        toast({
+          title: "Succès",
+          description: "Votre compte a été créé avec succès",
+        });
       }
     },
   });

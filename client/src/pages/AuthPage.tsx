@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useUser } from "@/hooks/use-user";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { insertUserSchema } from "@db/schema";
+import { insertUserSchema, loginUserSchema } from "@db/schema";
 import type { InsertUser } from "@db/schema";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -11,12 +11,27 @@ import { Label } from "@/components/ui/label";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Form, FormControl, FormField, FormItem, FormMessage } from "@/components/ui/form";
 import { Loader2 } from "lucide-react";
+import { toast } from "@/hooks/use-toast";
+
+type LoginFormData = {
+  username: string;
+  password: string;
+};
 
 export default function AuthPage() {
   const { login, register } = useUser();
   const [isLoading, setIsLoading] = useState(false);
+  const [activeTab, setActiveTab] = useState<"login" | "register">("login");
 
-  const form = useForm<InsertUser>({
+  const loginForm = useForm<LoginFormData>({
+    resolver: zodResolver(loginUserSchema),
+    defaultValues: {
+      username: "",
+      password: "",
+    },
+  });
+
+  const registerForm = useForm<InsertUser>({
     resolver: zodResolver(insertUserSchema),
     defaultValues: {
       username: "",
@@ -25,14 +40,20 @@ export default function AuthPage() {
     },
   });
 
-  const onSubmit = async (values: InsertUser, action: "login" | "register") => {
+  const onSubmit = async (values: LoginFormData | InsertUser, action: "login" | "register") => {
     setIsLoading(true);
     try {
       if (action === "login") {
-        await login(values);
+        await login(values as LoginFormData);
       } else {
-        await register(values);
+        await register(values as InsertUser);
       }
+    } catch (error) {
+      toast({
+        title: "Erreur",
+        description: error instanceof Error ? error.message : "Une erreur est survenue",
+        variant: "destructive",
+      });
     } finally {
       setIsLoading(false);
     }
@@ -47,26 +68,26 @@ export default function AuthPage() {
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <Tabs defaultValue="login">
+          <Tabs defaultValue="login" value={activeTab} onValueChange={(v) => setActiveTab(v as "login" | "register")}>
             <TabsList className="grid w-full grid-cols-2">
               <TabsTrigger value="login">Connexion</TabsTrigger>
               <TabsTrigger value="register">Inscription</TabsTrigger>
             </TabsList>
 
-            <Form {...form}>
-              <TabsContent value="login">
+            <TabsContent value="login">
+              <Form {...loginForm}>
                 <form
-                  onSubmit={form.handleSubmit((values) => onSubmit(values, "login"))}
+                  onSubmit={loginForm.handleSubmit((values) => onSubmit(values, "login"))}
                   className="space-y-4"
                 >
                   <FormField
-                    control={form.control}
-                    name="email"
+                    control={loginForm.control}
+                    name="username"
                     render={({ field }) => (
                       <FormItem>
-                        <Label>Email</Label>
+                        <Label>Nom d'utilisateur</Label>
                         <FormControl>
-                          <Input type="email" {...field} />
+                          <Input {...field} />
                         </FormControl>
                         <FormMessage />
                       </FormItem>
@@ -74,7 +95,7 @@ export default function AuthPage() {
                   />
 
                   <FormField
-                    control={form.control}
+                    control={loginForm.control}
                     name="password"
                     render={({ field }) => (
                       <FormItem>
@@ -94,17 +115,17 @@ export default function AuthPage() {
                     Se connecter
                   </Button>
                 </form>
-              </TabsContent>
+              </Form>
+            </TabsContent>
 
-              <TabsContent value="register">
+            <TabsContent value="register">
+              <Form {...registerForm}>
                 <form
-                  onSubmit={form.handleSubmit((values) =>
-                    onSubmit(values, "register")
-                  )}
+                  onSubmit={registerForm.handleSubmit((values) => onSubmit(values, "register"))}
                   className="space-y-4"
                 >
                   <FormField
-                    control={form.control}
+                    control={registerForm.control}
                     name="username"
                     render={({ field }) => (
                       <FormItem>
@@ -118,7 +139,7 @@ export default function AuthPage() {
                   />
 
                   <FormField
-                    control={form.control}
+                    control={registerForm.control}
                     name="email"
                     render={({ field }) => (
                       <FormItem>
@@ -132,7 +153,7 @@ export default function AuthPage() {
                   />
 
                   <FormField
-                    control={form.control}
+                    control={registerForm.control}
                     name="password"
                     render={({ field }) => (
                       <FormItem>
@@ -152,8 +173,8 @@ export default function AuthPage() {
                     S'inscrire
                   </Button>
                 </form>
-              </TabsContent>
-            </Form>
+              </Form>
+            </TabsContent>
           </Tabs>
         </CardContent>
       </Card>
