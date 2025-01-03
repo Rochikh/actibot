@@ -154,10 +154,10 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
-  // Modified Chat routes to include system prompt
+  // Modified Chat routes to include system prompt and history
   app.post("/api/chat", requireAuth, async (req: AuthenticatedRequest, res) => {
     try {
-      const { message } = req.body;
+      const { message, history } = req.body;
 
       // Get the active system prompt
       const [activePrompt] = await db.select()
@@ -172,7 +172,8 @@ export function registerRoutes(app: Express): Server {
       const response = await getChatResponse(
         message,
         context,
-        activePrompt?.content
+        activePrompt?.content,
+        history
       );
 
       const [chat] = await db.insert(chats).values({
@@ -183,6 +184,15 @@ export function registerRoutes(app: Express): Server {
       }).returning();
 
       res.json(chat);
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
+
+  app.post("/api/chat/clear", requireAuth, async (req: AuthenticatedRequest, res) => {
+    try {
+      await db.delete(chats).where(eq(chats.userId, req.user!.id));
+      res.json({ message: "Chat history cleared" });
     } catch (error: any) {
       res.status(500).send(error.message);
     }

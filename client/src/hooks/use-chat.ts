@@ -7,7 +7,7 @@ export function useChat() {
   const queryClient = useQueryClient();
   const { user } = useUser();
 
-  const { data: messages = [] } = useQuery<Chat[]>({
+  const { data: messages = [], refetch } = useQuery<Chat[]>({
     queryKey: ["/api/chat/history", user?.id],
     enabled: !!user,
   });
@@ -17,7 +17,13 @@ export function useChat() {
       const response = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message }),
+        body: JSON.stringify({ 
+          message,
+          history: messages.slice(-3).map(msg => ({ 
+            role: "user",
+            content: msg.message,
+          })),
+        }),
       });
 
       if (!response.ok) {
@@ -38,9 +44,35 @@ export function useChat() {
     },
   });
 
+  const clearHistory = async () => {
+    try {
+      const response = await fetch("/api/chat/clear", {
+        method: "POST",
+        credentials: "include",
+      });
+
+      if (!response.ok) {
+        throw new Error(await response.text());
+      }
+
+      await refetch();
+      toast({
+        title: "Succès",
+        description: "L'historique a été effacé",
+      });
+    } catch (error) {
+      toast({
+        title: "Erreur",
+        description: error instanceof Error ? error.message : "Une erreur est survenue",
+        variant: "destructive",
+      });
+    }
+  };
+
   return {
     messages,
     sendMessage,
+    clearHistory,
     isLoading,
   };
 }

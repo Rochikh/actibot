@@ -5,12 +5,12 @@ import ChatMessage from "@/components/chat/ChatMessage";
 import { Card } from "@/components/ui/card";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Button } from "@/components/ui/button";
-import { LogOut, Settings } from "lucide-react";
+import { LogOut, Settings, Trash2 } from "lucide-react";
 import { Link } from "wouter";
 import { Loader2 } from "lucide-react";
 
 export default function ChatPage() {
-  const { messages, sendMessage, isLoading } = useChat();
+  const { messages, sendMessage, clearHistory, isLoading } = useChat();
   const { user, logout } = useUser();
 
   return (
@@ -25,6 +25,15 @@ export default function ChatPage() {
               </Button>
             </Link>
           )}
+          <Button 
+            variant="outline" 
+            size="sm"
+            onClick={clearHistory}
+            className="flex items-center gap-2"
+          >
+            <Trash2 className="h-4 w-4" />
+            Effacer
+          </Button>
           <Button 
             variant="outline" 
             size="sm"

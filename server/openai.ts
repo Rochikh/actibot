@@ -64,18 +64,31 @@ export async function findSimilarDocuments(documents: Document[], query: string)
     .slice(0, 3);
 }
 
-export async function getChatResponse(question: string, context: string, systemPrompt?: string) {
+export async function getChatResponse(
+  question: string, 
+  context: string, 
+  systemPrompt?: string,
+  history?: Array<{ role: string; content: string; }> = []
+) {
   const messages = [];
 
   // Add system prompt if provided, otherwise use default
   messages.push({
-    role: "system",
+    role: "system" as const,
     content: systemPrompt || `You are a helpful assistant. Use the following context to answer questions: ${context}`
   });
 
-  // Add context and question
+  // Add conversation history
+  history?.forEach(msg => {
+    messages.push({
+      role: msg.role as "user" | "assistant",
+      content: msg.content
+    });
+  });
+
+  // Add current question
   messages.push({
-    role: "user",
+    role: "user" as const,
     content: question
   });
 

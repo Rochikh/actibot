@@ -32,7 +32,7 @@ export const systemPrompts = pgTable("system_prompts", {
 
 export const chats = pgTable("chats", {
   id: serial("id").primaryKey(),
-  userId: integer("user_id").references(() => users.id),
+  userId: integer("user_id").references(() => users.id).notNull(),
   message: text("message").notNull(),
   response: text("response").notNull(),
   systemPromptId: integer("system_prompt_id").references(() => systemPrompts.id),
