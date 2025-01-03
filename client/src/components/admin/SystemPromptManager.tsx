@@ -7,12 +7,14 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Loader2, Plus, Check, Pencil, X, Save } from "lucide-react";
-import type { SystemPrompt } from "@db/schema";
+import { OPENAI_MODELS, type SystemPrompt } from "@db/schema";
 
 export default function SystemPromptManager() {
   const [name, setName] = useState("");
   const [content, setContent] = useState("");
+  const [model, setModel] = useState<string>(OPENAI_MODELS[0]);
   const [editingPrompt, setEditingPrompt] = useState<SystemPrompt | null>(null);
   const [isEditing, setIsEditing] = useState(false);
   const queryClient = useQueryClient();
@@ -22,7 +24,7 @@ export default function SystemPromptManager() {
   });
 
   const { mutateAsync: createPrompt, isPending: isCreating } = useMutation({
-    mutationFn: async (data: { name: string; content: string }) => {
+    mutationFn: async (data: { name: string; content: string; model: string }) => {
       const response = await fetch("/api/system-prompts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -39,6 +41,7 @@ export default function SystemPromptManager() {
       queryClient.invalidateQueries({ queryKey: ["/api/system-prompts"] });
       setName("");
       setContent("");
+      setModel(OPENAI_MODELS[0]);
       toast({
         title: "Succès",
         description: "Le prompt système a été créé",
@@ -54,11 +57,11 @@ export default function SystemPromptManager() {
   });
 
   const { mutateAsync: updatePrompt, isPending: isUpdating } = useMutation({
-    mutationFn: async (data: { id: number; name: string; content: string }) => {
+    mutationFn: async (data: { id: number; name: string; content: string; model: string }) => {
       const response = await fetch(`/api/system-prompts/${data.id}`, {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: data.name, content: data.content }),
+        body: JSON.stringify({ name: data.name, content: data.content, model: data.model }),
       });
 
       if (!response.ok) {
@@ -115,12 +118,12 @@ export default function SystemPromptManager() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!name.trim() || !content.trim()) return;
+    if (!name.trim() || !content.trim() || !model) return;
 
     if (editingPrompt) {
-      await updatePrompt({ id: editingPrompt.id, name, content });
+      await updatePrompt({ id: editingPrompt.id, name, content, model });
     } else {
-      await createPrompt({ name, content });
+      await createPrompt({ name, content, model });
     }
   };
 
@@ -128,6 +131,7 @@ export default function SystemPromptManager() {
     setEditingPrompt(prompt);
     setName(prompt.name);
     setContent(prompt.content);
+    setModel(prompt.model);
     setIsEditing(true);
   };
 
@@ -135,6 +139,7 @@ export default function SystemPromptManager() {
     setEditingPrompt(null);
     setName("");
     setContent("");
+    setModel(OPENAI_MODELS[0]);
     setIsEditing(false);
   };
 
@@ -157,6 +162,22 @@ export default function SystemPromptManager() {
             onChange={(e) => setName(e.target.value)}
             placeholder="Ex: Assistant Support Client"
           />
+        </div>
+
+        <div className="space-y-2">
+          <Label htmlFor="model">Modèle OpenAI</Label>
+          <Select value={model} onValueChange={setModel}>
+            <SelectTrigger>
+              <SelectValue placeholder="Sélectionner un modèle" />
+            </SelectTrigger>
+            <SelectContent>
+              {OPENAI_MODELS.map((modelOption) => (
+                <SelectItem key={modelOption} value={modelOption}>
+                  {modelOption}
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
         </div>
 
         <div className="space-y-2">
@@ -204,6 +225,7 @@ export default function SystemPromptManager() {
           <TableHeader>
             <TableRow>
               <TableHead>Nom</TableHead>
+              <TableHead>Modèle</TableHead>
               <TableHead>Contenu</TableHead>
               <TableHead>Statut</TableHead>
               <TableHead>Actions</TableHead>
@@ -213,6 +235,7 @@ export default function SystemPromptManager() {
             {prompts.map((prompt) => (
               <TableRow key={prompt.id}>
                 <TableCell className="font-medium">{prompt.name}</TableCell>
+                <TableCell>{prompt.model}</TableCell>
                 <TableCell className="max-w-md truncate">{prompt.content}</TableCell>
                 <TableCell>
                   {prompt.isActive ? (

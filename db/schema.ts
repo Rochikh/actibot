@@ -24,6 +24,7 @@ export const systemPrompts = pgTable("system_prompts", {
   id: serial("id").primaryKey(),
   name: text("name").notNull(),
   content: text("content").notNull(),
+  model: text("model").default("gpt-4o").notNull(),
   isActive: boolean("is_active").default(false).notNull(),
   createdBy: integer("created_by").references(() => users.id),
   createdAt: timestamp("created_at").defaultNow().notNull(),
@@ -52,12 +53,30 @@ export const loginUserSchema = z.object({
   password: z.string().min(1, "Le mot de passe est requis"),
 });
 
+// Liste des modèles OpenAI disponibles
+export const OPENAI_MODELS = [
+  "gpt-4o",       // Le plus récent et performant
+  "gpt-3.5-turbo", // Bon équilibre performance/coût
+  "gpt-4-vision-preview", // Pour l'analyse d'images
+  "gpt-4",        // Version standard de GPT-4
+  "gpt-3.5-turbo-16k", // Pour les longs contextes
+] as const;
+
+export const systemPromptSchema = z.object({
+  name: z.string().min(1, "Le nom est requis"),
+  content: z.string().min(1, "Le contenu est requis"),
+  model: z.enum(OPENAI_MODELS, {
+    required_error: "Le modèle est requis",
+    invalid_type_error: "Modèle invalide",
+  }),
+});
+
 export const selectUserSchema = createSelectSchema(users);
 
 export const insertDocumentSchema = createInsertSchema(documents);
 export const selectDocumentSchema = createSelectSchema(documents);
 
-export const insertSystemPromptSchema = createInsertSchema(systemPrompts);
+export const insertSystemPromptSchema = createInsertSchema(systemPrompts).merge(systemPromptSchema);
 export const selectSystemPromptSchema = createSelectSchema(systemPrompts);
 
 export const insertChatSchema = createInsertSchema(chats);
@@ -73,3 +92,4 @@ export type SystemPrompt = typeof systemPrompts.$inferSelect;
 export type InsertSystemPrompt = typeof systemPrompts.$inferInsert;
 export type Chat = typeof chats.$inferSelect;
 export type InsertChat = typeof chats.$inferInsert;
+export type OpenAIModel = typeof OPENAI_MODELS[number];
