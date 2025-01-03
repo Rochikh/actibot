@@ -14,14 +14,19 @@ export function useChat() {
 
   const { mutateAsync: sendMessage, isPending: isLoading } = useMutation({
     mutationFn: async (message: string) => {
+      if (!message || typeof message !== 'string') {
+        throw new Error('Message must be a non-empty string');
+      }
+
       const response = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
+        credentials: "include",
         body: JSON.stringify({ 
-          message,
+          message: message.trim(),
           history: messages.slice(-3).map(msg => ({ 
-            role: "user",
-            content: msg.message,
+            role: msg.role || "user",
+            content: msg.message
           })),
         }),
       });
