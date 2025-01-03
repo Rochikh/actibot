@@ -12,6 +12,7 @@ const MAX_CONTEXT_LENGTH = 12000; // Increased for more comprehensive responses
 const MIN_SIMILARITY_THRESHOLD = 0.7; // Seuil minimum de similarité
 
 function truncateText(text: string, maxLength: number): string {
+  if (!text || typeof text !== 'string') return '';
   if (text.length <= maxLength) return text;
 
   // Estimate tokens (roughly 4 characters per token)
@@ -32,6 +33,8 @@ function truncateText(text: string, maxLength: number): string {
 }
 
 function chunkText(text: string): string[] {
+  if (!text || typeof text !== 'string') return [];
+
   // Diviser d'abord par paragraphes
   const paragraphs = text.split(/\n\s*\n/);
   const chunks: string[] = [];
@@ -66,9 +69,18 @@ function chunkText(text: string): string[] {
 }
 
 export async function generateEmbedding(text: string) {
+  if (!text || typeof text !== 'string') {
+    throw new Error('Invalid input: text must be a string');
+  }
+
+  const cleanedText = text.replace(/\n+/g, " ").trim();
+  if (!cleanedText) {
+    throw new Error('Invalid input: text is empty after cleaning');
+  }
+
   const response = await openai.embeddings.create({
     model: "text-embedding-3-small",
-    input: text.replace(/\n+/g, " ").trim(),
+    input: cleanedText,
     encoding_format: "float",
   });
 
@@ -76,6 +88,10 @@ export async function generateEmbedding(text: string) {
 }
 
 export async function findSimilarDocuments(query: string) {
+  if (!query || typeof query !== 'string') {
+    throw new Error('Invalid query: must be a non-empty string');
+  }
+
   const queryEmbedding = await generateEmbedding(query);
 
   // Utiliser pgvector pour trouver les chunks les plus pertinents
@@ -92,9 +108,13 @@ export async function findSimilarDocuments(query: string) {
     LIMIT 5
   `);
 
+  if (!Array.isArray(relevantChunks)) {
+    return [];
+  }
+
   // Filtrer et trier les chunks par pertinence
   return relevantChunks
-    .filter((chunk: any) => chunk.similarity >= MIN_SIMILARITY_THRESHOLD)
+    .filter((chunk: any) => chunk && chunk.similarity >= MIN_SIMILARITY_THRESHOLD)
     .sort((a: any, b: any) => b.similarity - a.similarity)
     .slice(0, 3);
 }
@@ -107,16 +127,20 @@ export async function getChatResponse(
   model: OpenAIModel = "gpt-4o-mini" 
 ) {
   try {
+    if (!question || typeof question !== 'string') {
+      throw new Error('Invalid question: must be a non-empty string');
+    }
+
     // Rechercher les documents pertinents
     const relevantChunks = await findSimilarDocuments(question);
 
     // Construire un contexte structuré avec les métadonnées
     const structuredContext = relevantChunks
       .map((chunk: any, index: number) => `
-Document ${index + 1}: ${chunk.title}
-Pertinence: ${Math.round(chunk.similarity * 100)}%
+Document ${index + 1}: ${chunk.title || 'Sans titre'}
+Pertinence: ${Math.round((chunk.similarity || 0) * 100)}%
 ---
-${chunk.content}
+${chunk.content || ''}
 `)
       .join('\n\n');
 
