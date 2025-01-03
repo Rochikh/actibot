@@ -80,7 +80,7 @@ export async function findSimilarDocuments(query: string) {
       SELECT 
         dc.id,
         dc.content,
-        dc.title,
+        dc.document_id,
         d.title as document_title,
         1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity,
         LAG(dc.content) OVER (PARTITION BY dc.document_id ORDER BY dc.chunk_index) as previous_chunk,
@@ -103,7 +103,7 @@ export async function findSimilarDocuments(query: string) {
     .map((chunk: any) => ({
       ...chunk,
       content: `${chunk.previous_chunk ? chunk.previous_chunk + "\n\n" : ""}${chunk.content}${chunk.next_chunk ? "\n\n" + chunk.next_chunk : ""}`,
-      context: `Document: ${chunk.document_title}${chunk.title ? ` > ${chunk.title}` : ""}`
+      context: `Document: ${chunk.document_title}`
     }))
     .sort((a: any, b: any) => b.similarity - a.similarity)
     .slice(0, 3);
