@@ -36,45 +36,6 @@ export function registerRoutes(app: Express): Server {
     next();
   };
 
-  // Route pour changer le mot de passe
-  app.post("/api/change-password", requireAuth, async (req: AuthenticatedRequest, res) => {
-    try {
-      const { currentPassword, newPassword } = req.body;
-
-      if (!currentPassword || !newPassword) {
-        return res.status(400).send("Le mot de passe actuel et le nouveau mot de passe sont requis");
-      }
-
-      if (newPassword.length < 6) {
-        return res.status(400).send("Le nouveau mot de passe doit contenir au moins 6 caractères");
-      }
-
-      // Récupérer l'utilisateur actuel
-      const [user] = await db
-        .select()
-        .from(users)
-        .where(eq(users.id, req.user!.id))
-        .limit(1);
-
-      // Vérifier le mot de passe actuel
-      const isMatch = await crypto.compare(currentPassword, user.password);
-      if (!isMatch) {
-        return res.status(400).send("Mot de passe actuel incorrect");
-      }
-
-      // Hasher et mettre à jour le nouveau mot de passe
-      const hashedPassword = await crypto.hash(newPassword);
-      await db
-        .update(users)
-        .set({ password: hashedPassword })
-        .where(eq(users.id, req.user!.id));
-
-      res.json({ message: "Mot de passe modifié avec succès" });
-    } catch (error: any) {
-      res.status(500).send(error.message);
-    }
-  });
-
   // Document management routes (protected by auth and admin)
   app.post("/api/documents", requireAuth, requireAdmin, upload.single("file"), async (req: AuthenticatedRequest, res) => {
     try {
@@ -89,7 +50,6 @@ export function registerRoutes(app: Express): Server {
       const [document] = await db.insert(documents).values({
         title: file.originalname,
         content,
-        embedding,
         uploadedBy: req.user!.id
       }).returning();
 
@@ -199,33 +159,41 @@ export function registerRoutes(app: Express): Server {
     try {
       const { message, history } = req.body;
 
+      // Validate message
+      if (!message || typeof message !== 'string' || !message.trim()) {
+        return res.status(400).send("Le message ne peut pas être vide");
+      }
+
       // Get the active system prompt
       const [activePrompt] = await db.select()
         .from(systemPrompts)
         .where(eq(systemPrompts.isActive, true))
         .limit(1);
 
-      const allDocuments = await db.select().from(documents);
-      const relevantDocs = await findSimilarDocuments(allDocuments, message);
-      const context = relevantDocs.map(doc => doc.content).join("\n\n");
+      // Get relevant documents for context
+      const relevantDocs = await findSimilarDocuments(message.trim());
+      const context = relevantDocs.map((doc: any) => doc.content).join("\n\n");
 
+      // Get chat response
       const response = await getChatResponse(
         message,
         context,
         activePrompt?.content,
-        history
+        Array.isArray(history) ? history : []
       );
 
+      // Save chat message
       const [chat] = await db.insert(chats).values({
         userId: req.user!.id,
-        message,
+        message: message.trim(),
         response,
         systemPromptId: activePrompt?.id
       }).returning();
 
       res.json(chat);
     } catch (error: any) {
-      res.status(500).send(error.message);
+      console.error("Chat error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors du traitement du message");
     }
   });
 
@@ -234,7 +202,8 @@ export function registerRoutes(app: Express): Server {
       await db.delete(chats).where(eq(chats.userId, req.user!.id));
       res.json({ message: "Chat history cleared" });
     } catch (error: any) {
-      res.status(500).send(error.message);
+      console.error("Clear chat error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors de la suppression de l'historique");
     }
   });
 
@@ -247,7 +216,8 @@ export function registerRoutes(app: Express): Server {
 
       res.json(history);
     } catch (error: any) {
-      res.status(500).send(error.message);
+      console.error("Get chat history error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors de la récupération de l'historique");
     }
   });
 

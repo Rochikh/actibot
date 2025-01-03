@@ -14,33 +14,42 @@ export function useChat() {
 
   const { mutateAsync: sendMessage, isPending: isLoading } = useMutation({
     mutationFn: async (message: string) => {
-      if (!message || typeof message !== 'string') {
-        throw new Error('Message must be a non-empty string');
+      // Validate message before sending
+      const trimmedMessage = message?.trim();
+      if (!trimmedMessage) {
+        throw new Error("Le message ne peut pas être vide");
       }
 
-      const response = await fetch("/api/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        credentials: "include",
-        body: JSON.stringify({ 
-          message: message.trim(),
-          history: messages.slice(-3).map(msg => ({ 
-            role: msg.role || "user",
-            content: msg.message
-          })),
-        }),
-      });
+      try {
+        const response = await fetch("/api/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          credentials: "include",
+          body: JSON.stringify({ 
+            message: trimmedMessage,
+            history: messages.slice(-3).map(msg => ({
+              role: "user",
+              content: msg.message
+            }))
+          }),
+        });
 
-      if (!response.ok) {
-        throw new Error(await response.text());
+        if (!response?.ok) {
+          const errorText = await response.text();
+          throw new Error(errorText || "Une erreur est survenue lors de l'envoi du message");
+        }
+
+        const data = await response.json();
+        return data;
+      } catch (error) {
+        console.error("Chat error:", error);
+        throw error;
       }
-
-      return response.json();
     },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["/api/chat/history", user?.id] });
     },
-    onError: (error) => {
+    onError: (error: Error) => {
       toast({
         title: "Erreur",
         description: error.message,
@@ -56,8 +65,9 @@ export function useChat() {
         credentials: "include",
       });
 
-      if (!response.ok) {
-        throw new Error(await response.text());
+      if (!response?.ok) {
+        const errorText = await response.text();
+        throw new Error(errorText || "Erreur lors de la suppression de l'historique");
       }
 
       await refetch();

@@ -19,7 +19,6 @@ export const documents = pgTable("documents", {
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
 
-// Nouvelle table pour les chunks de documents
 export const documentChunks = pgTable("document_chunks", {
   id: serial("id").primaryKey(),
   documentId: integer("document_id").references(() => documents.id).notNull(),
@@ -50,20 +49,18 @@ export const chats = pgTable("chats", {
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
 
-// Schema validation
+// Types and schemas
 export const insertUserSchema = createInsertSchema(users, {
   username: z.string().min(1, "Le nom d'utilisateur est requis"),
   email: z.string().email("L'adresse email n'est pas valide"),
   password: z.string().min(6, "Le mot de passe doit contenir au moins 6 caractères"),
 });
 
-// Schéma de connexion simplifié
 export const loginUserSchema = z.object({
   username: z.string().min(1, "Le nom d'utilisateur est requis"),
   password: z.string().min(1, "Le mot de passe est requis"),
 });
 
-// Liste des modèles OpenAI disponibles
 export const OPENAI_MODELS = [
   "gpt-4o",       // Le plus récent et performant
   "gpt-4o-mini", // Abordable et intelligent pour les tâches légères
@@ -82,13 +79,13 @@ export const systemPromptSchema = z.object({
   }),
 });
 
-// Types et schémas pour les nouvelles tables
+// Types and schemas for new tables
 export const insertDocumentChunkSchema = createInsertSchema(documentChunks);
 export const selectDocumentChunkSchema = createSelectSchema(documentChunks);
 export type DocumentChunk = typeof documentChunks.$inferSelect;
 export type InsertDocumentChunk = typeof documentChunks.$inferInsert;
 
-// Autres types et schémas existants
+// Other existing types and schemas
 export const selectUserSchema = createSelectSchema(users);
 export const insertDocumentSchema = createInsertSchema(documents);
 export const selectDocumentSchema = createSelectSchema(documents);

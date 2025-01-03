@@ -94,7 +94,7 @@ export async function findSimilarDocuments(query: string) {
 
   const queryEmbedding = await generateEmbedding(query);
 
-  // Utiliser pgvector pour trouver les chunks les plus pertinents
+  // Use pgvector to find the most relevant chunks
   const relevantChunks = await db.execute(sql`
     SELECT 
       dc.content,
@@ -112,7 +112,7 @@ export async function findSimilarDocuments(query: string) {
     return [];
   }
 
-  // Filtrer et trier les chunks par pertinence
+  // Filter and sort chunks by relevance
   return relevantChunks
     .filter((chunk: any) => chunk && chunk.similarity >= MIN_SIMILARITY_THRESHOLD)
     .sort((a: any, b: any) => b.similarity - a.similarity)
@@ -131,29 +131,19 @@ export async function getChatResponse(
       throw new Error('Invalid question: must be a non-empty string');
     }
 
-    // Rechercher les documents pertinents
-    const relevantChunks = await findSimilarDocuments(question);
+    // Build structured context with metadata
+    const structuredContext = context ? `
+Context available:
+${context}
+` : '';
 
-    // Construire un contexte structuré avec les métadonnées
-    const structuredContext = relevantChunks
-      .map((chunk: any, index: number) => `
-Document ${index + 1}: ${chunk.title || 'Sans titre'}
-Pertinence: ${Math.round((chunk.similarity || 0) * 100)}%
----
-${chunk.content || ''}
-`)
-      .join('\n\n');
-
-    // Tronquer le contexte de manière intelligente
-    const truncatedContext = truncateText(structuredContext, MAX_CONTEXT_LENGTH);
-
-    // Réduire l'historique au strict minimum
+    // Reduce history to minimum
     const limitedHistory = history.slice(-2).map(msg => ({
       role: msg.role as "user" | "assistant",
       content: truncateText(msg.content, 1000)
     }));
 
-    // Construire le prompt système avec un contexte structuré
+    // Build system prompt with structured context
     const basePrompt = systemPrompt || `Tu es un assistant expert pour cette communauté WhatsApp, spécialisé dans les explications détaillées et structurées.
 
 Pour chaque réponse, tu dois :
@@ -172,27 +162,15 @@ Pour chaque réponse, tu dois :
     const contextPrompt = `
 ${basePrompt}
 
-SOURCES D'INFORMATION DISPONIBLES :
-${truncatedContext}
-
-INSTRUCTIONS IMPORTANTES :
-1. Analyse TOUTES les sources ci-dessus, pas seulement la première
-2. Pour chaque information importante, indique la source (Document X)
-3. Si une information manque ou est incomplète, signale-le clairement
-4. Développe chaque point en détail avec des explications et exemples
-5. Structure ta réponse de manière claire et logique
+${structuredContext}
 
 Question : ${question}
 
 Assure-toi d'exploiter toutes les informations pertinentes des sources fournies.
 `;
 
-    console.log("Using model:", model);
-    console.log("Number of relevant chunks:", relevantChunks.length);
-    console.log("Context length estimate:", contextPrompt.length / 4);
-
     const response = await openai.chat.completions.create({
-      model: model,
+      model,
       messages: [
         {
           role: "system",
@@ -215,11 +193,4 @@ Assure-toi d'exploiter toutes les informations pertinentes des sources fournies.
     console.error("OpenAI API error:", error);
     throw new Error(`Erreur lors de la génération de la réponse: ${error.message}`);
   }
-}
-
-function cosineSimilarity(a: number[], b: number[]) {
-  const dotProduct = a.reduce((sum, val, i) => sum + val * b[i], 0);
-  const magnitudeA = Math.sqrt(a.reduce((sum, val) => sum + val * val, 0));
-  const magnitudeB = Math.sqrt(b.reduce((sum, val) => sum + val * val, 0));
-  return dotProduct / (magnitudeA * magnitudeB);
 }
