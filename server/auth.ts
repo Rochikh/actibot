@@ -136,8 +136,10 @@ export function setupAuth(app: Express) {
       const hashedPassword = await crypto.hash(password);
 
       // Vérifier s'il existe déjà des utilisateurs
-      const userCount = await db.select({ count: sql`count(*)` }).from(users);
-      const isFirstUser = parseInt(userCount[0].count.toString()) === 0;
+      const userCount = await db.select({ count: sql<number>`count(*)::integer` }).from(users);
+      const isFirstUser = userCount[0].count === 0;
+
+      console.log("User count:", userCount[0].count, "Is first user:", isFirstUser);
 
       // Create the new user
       const [newUser] = await db
