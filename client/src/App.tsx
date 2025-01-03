@@ -8,7 +8,7 @@ import { useUser } from "@/hooks/use-user";
 
 function App() {
   const { user, isLoading } = useUser();
-  const [, setLocation] = useLocation();
+  const [location, setLocation] = useLocation();
 
   if (isLoading) {
     return (
@@ -22,15 +22,16 @@ function App() {
     return <AuthPage />;
   }
 
+  // Redirect non-admin users trying to access /admin
+  if (location === '/admin' && !user.isAdmin) {
+    setLocation('/');
+    return null;
+  }
+
   return (
     <Switch>
       <Route path="/" component={ChatPage} />
-      <Route 
-        path="/admin" 
-        component={() => 
-          user.isAdmin ? <AdminPage /> : setLocation("/") && null
-        } 
-      />
+      <Route path="/admin" component={AdminPage} />
       <Route component={NotFound} />
     </Switch>
   );
