@@ -25,10 +25,14 @@ export default function ChatMessage({ message, response, timestamp }: ChatMessag
       if (listItemMatch) {
         return (
           <div key={index} className="flex gap-2 my-1">
-            <span className="font-medium">{listItemMatch[1]}.</span>
+            <span className="font-medium text-primary">{listItemMatch[1]}.</span>
             <ReactMarkdown 
               remarkPlugins={[remarkGfm]}
-              className="prose prose-sm dark:prose-invert flex-1"
+              className="prose prose-sm dark:prose-invert flex-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0"
+              components={{
+                strong: ({ children }) => <span className="font-bold text-primary">{children}</span>,
+                em: ({ children }) => <span className="italic text-primary/80">{children}</span>,
+              }}
             >
               {listItemMatch[2]}
             </ReactMarkdown>
@@ -41,7 +45,11 @@ export default function ChatMessage({ message, response, timestamp }: ChatMessag
         <ReactMarkdown 
           key={index}
           remarkPlugins={[remarkGfm]}
-          className="prose prose-sm dark:prose-invert my-1"
+          className="prose prose-sm dark:prose-invert my-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0"
+          components={{
+            strong: ({ children }) => <span className="font-bold text-primary">{children}</span>,
+            em: ({ children }) => <span className="italic text-primary/80">{children}</span>,
+          }}
         >
           {line}
         </ReactMarkdown>
