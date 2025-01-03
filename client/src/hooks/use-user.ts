@@ -2,6 +2,11 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import type { InsertUser, User } from "@db/schema";
 import { toast } from "@/hooks/use-toast";
 
+type LoginData = {
+  username: string;
+  password: string;
+};
+
 type RequestResult = {
   ok: true;
   user?: User;
@@ -13,7 +18,7 @@ type RequestResult = {
 async function handleRequest(
   url: string,
   method: string,
-  body?: InsertUser
+  body?: InsertUser | LoginData
 ): Promise<RequestResult> {
   try {
     const response = await fetch(url, {
@@ -66,7 +71,7 @@ export function useUser() {
   });
 
   const loginMutation = useMutation({
-    mutationFn: async (userData: InsertUser) => {
+    mutationFn: async (userData: LoginData) => {
       const result = await handleRequest('/api/login', 'POST', userData);
       if (!result.ok) {
         toast({
