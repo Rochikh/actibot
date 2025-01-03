@@ -29,7 +29,6 @@ const crypto = {
   },
 };
 
-// extend express user object with our schema
 declare global {
   namespace Express {
     interface User extends SelectUser {}
@@ -38,26 +37,62 @@ declare global {
 
 export function setupAuth(app: Express) {
   const MemoryStore = createMemoryStore(session);
+
+  // Configuration plus robuste de la session
   const sessionSettings: session.SessionOptions = {
     secret: process.env.REPL_ID || "porygon-supremacy",
-    resave: false,
-    saveUninitialized: false,
-    cookie: {},
+    resave: true, // Changed to true to ensure session is saved
+    saveUninitialized: true, // Changed to true to create session for all users
+    name: 'sessionId', // Explicit session name
+    cookie: {
+      maxAge: 24 * 60 * 60 * 1000, // 24 hours
+      httpOnly: true,
+      sameSite: 'lax',
+    },
     store: new MemoryStore({
       checkPeriod: 86400000, // prune expired entries every 24h
+      stale: false, // do not serve stale sessions
     }),
   };
 
   if (app.get("env") === "production") {
     app.set("trust proxy", 1);
-    sessionSettings.cookie = {
-      secure: true,
-    };
+    if (sessionSettings.cookie) {
+      sessionSettings.cookie.secure = true;
+    }
   }
 
   app.use(session(sessionSettings));
   app.use(passport.initialize());
   app.use(passport.session());
+
+  // Simplified serialization
+  passport.serializeUser((user: Express.User, done) => {
+    console.log("Serializing user:", user.id);
+    done(null, user.id);
+  });
+
+  passport.deserializeUser(async (id: number, done) => {
+    try {
+      console.log("Deserializing user:", id);
+      const [user] = await db
+        .select()
+        .from(users)
+        .where(eq(users.id, id))
+        .limit(1);
+
+      if (!user) {
+        console.log("User not found during deserialization:", id);
+        return done(null, false);
+      }
+
+      console.log("User found during deserialization:", user.id);
+      done(null, user);
+    } catch (err) {
+      console.error("Error during deserialization:", err);
+      done(err);
+    }
+  });
 
   passport.use(
     new LocalStrategy(async (username, password, done) => {
@@ -81,23 +116,6 @@ export function setupAuth(app: Express) {
       }
     })
   );
-
-  passport.serializeUser((user, done) => {
-    done(null, user.id);
-  });
-
-  passport.deserializeUser(async (id: number, done) => {
-    try {
-      const [user] = await db
-        .select()
-        .from(users)
-        .where(eq(users.id, id))
-        .limit(1);
-      done(null, user);
-    } catch (err) {
-      done(err);
-    }
-  });
 
   app.post("/api/register", async (req, res, next) => {
     try {
@@ -228,9 +246,10 @@ export function setupAuth(app: Express) {
 
   app.get("/api/user", (req, res) => {
     if (req.isAuthenticated()) {
+      console.log("User is authenticated:", req.user);
       return res.json(req.user);
     }
-
+    console.log("User is not authenticated");
     res.status(401).send("Not logged in");
   });
 }
