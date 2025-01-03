@@ -1,6 +1,7 @@
-import { pgTable, text, serial, timestamp, integer, jsonb, boolean } from "drizzle-orm/pg-core";
+import { pgTable, text, serial, timestamp, integer, boolean, jsonb } from "drizzle-orm/pg-core";
 import { createInsertSchema, createSelectSchema } from "drizzle-zod";
 import { z } from "zod";
+import { vector } from "drizzle-orm/pg-core";
 
 export const users = pgTable("users", {
   id: serial("id").primaryKey(),
@@ -23,7 +24,7 @@ export const documentChunks = pgTable("document_chunks", {
   id: serial("id").primaryKey(),
   documentId: integer("document_id").references(() => documents.id).notNull(),
   content: text("content").notNull(),
-  embedding: jsonb("embedding"),
+  embedding: vector("embedding", { dimensions: 1536 }), // Using vector type for OpenAI embeddings
   chunkIndex: integer("chunk_index").notNull(),
   metadata: jsonb("metadata"),
   createdAt: timestamp("created_at").defaultNow().notNull(),

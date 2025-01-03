@@ -7,9 +7,9 @@ import { sql } from "drizzle-orm";
 const openai = new OpenAI();
 
 const MAX_CHUNK_SIZE = 1500; // Reduced chunk size for better context management
-const MAX_TOKENS = 1000; // Augmenté pour des réponses plus complètes
+const MAX_TOKENS = 1000; // Increased for more complete responses
 const MAX_CONTEXT_LENGTH = 12000; // Increased for more comprehensive responses
-const MIN_SIMILARITY_THRESHOLD = 0.7; // Seuil minimum de similarité
+const MIN_SIMILARITY_THRESHOLD = 0.7; // Minimum similarity threshold
 
 function truncateText(text: string, maxLength: number): string {
   if (!text || typeof text !== 'string') return '';
@@ -94,17 +94,17 @@ export async function findSimilarDocuments(query: string) {
 
   const queryEmbedding = await generateEmbedding(query);
 
-  // Convert embedding to vector format and use proper vector comparison
+  // Using proper vector similarity search with pgvector
   const relevantChunks = await db.execute(sql`
     SELECT 
       dc.content,
       dc.metadata,
       d.title,
-      1 - (dc.embedding::vector <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
+      1 - (embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
     FROM document_chunks dc
     JOIN documents d ON d.id = dc.document_id
     WHERE dc.embedding IS NOT NULL
-    ORDER BY dc.embedding::vector <-> ${JSON.stringify(queryEmbedding)}::vector
+    ORDER BY embedding <-> ${JSON.stringify(queryEmbedding)}::vector
     LIMIT 5
   `);
 
@@ -112,7 +112,6 @@ export async function findSimilarDocuments(query: string) {
     return [];
   }
 
-  // Filter and sort chunks by relevance
   return relevantChunks
     .filter((chunk: any) => chunk && chunk.similarity >= MIN_SIMILARITY_THRESHOLD)
     .sort((a: any, b: any) => b.similarity - a.similarity)
@@ -131,42 +130,39 @@ export async function getChatResponse(
       throw new Error('Invalid question: must be a non-empty string');
     }
 
-    // Build structured context with metadata
     const structuredContext = context ? `
-Context available:
+Context provided:
 ${context}
 ` : '';
 
-    // Reduce history to minimum
     const limitedHistory = history.slice(-2).map(msg => ({
       role: msg.role as "user" | "assistant",
-      content: truncateText(msg.content, 1000)
+      content: msg.content.slice(0, 1000)
     }));
 
-    // Build system prompt with structured context
-    const basePrompt = systemPrompt || `Tu es un assistant expert pour cette communauté WhatsApp, spécialisé dans les explications détaillées et structurées.
+    const basePrompt = systemPrompt || `You are an expert assistant for this WhatsApp community, specialized in detailed and structured explanations.
 
-Pour chaque réponse, tu dois :
-1. Analyser toutes les sources fournies
-2. Structurer ta réponse en sections claires :
-   - Introduction et contexte
-   - Points principaux avec explications détaillées
-   - Exemples concrets et cas d'utilisation
-   - Résumé des points clés
-3. Utiliser le formatage Markdown pour améliorer la lisibilité :
-   - **Gras** pour les concepts importants
-   - *Italique* pour les nuances ou précisions
-   - Listes numérotées pour les étapes
-   - Citations pour les extraits directs`;
+For each response, you must:
+1. Analyze all provided sources
+2. Structure your response in clear sections:
+   - Introduction and context
+   - Main points with detailed explanations
+   - Concrete examples and use cases
+   - Summary of key points
+3. Use Markdown formatting to improve readability:
+   - **Bold** for important concepts
+   - *Italic* for nuances or precisions
+   - Numbered lists for steps
+   - Quotes for direct excerpts`;
 
     const contextPrompt = `
 ${basePrompt}
 
 ${structuredContext}
 
-Question : ${question}
+Question: ${question}
 
-Assure-toi d'exploiter toutes les informations pertinentes des sources fournies.
+Make sure to use all relevant information from the provided sources.
 `;
 
     const response = await openai.chat.completions.create({
@@ -188,9 +184,9 @@ Assure-toi d'exploiter toutes les informations pertinentes des sources fournies.
       frequency_penalty: 0.1
     });
 
-    return response.choices[0].message.content || "Désolé, je n'ai pas pu générer une réponse.";
+    return response.choices[0].message.content || "Sorry, I couldn't generate a response.";
   } catch (error: any) {
     console.error("OpenAI API error:", error);
-    throw new Error(`Erreur lors de la génération de la réponse: ${error.message}`);
+    throw new Error(`Error generating response: ${error.message}`);
   }
 }
