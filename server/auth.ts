@@ -137,7 +137,7 @@ export function setupAuth(app: Express) {
 
       // Vérifier s'il existe déjà des utilisateurs
       const userCount = await db.select({ count: sql`count(*)` }).from(users);
-      const isFirstUser = userCount[0].count === 0;
+      const isFirstUser = parseInt(userCount[0].count.toString()) === 0;
 
       // Create the new user
       const [newUser] = await db
@@ -165,7 +165,12 @@ export function setupAuth(app: Express) {
         }
         return res.json({
           message: "Registration successful",
-          user: { id: newUser.id, username: newUser.username, isAdmin: newUser.isAdmin },
+          user: { 
+            id: newUser.id, 
+            username: newUser.username, 
+            isAdmin: newUser.isAdmin,
+            email: newUser.email
+          },
         });
       });
     } catch (error) {
@@ -197,7 +202,12 @@ export function setupAuth(app: Express) {
 
         return res.json({
           message: "Login successful",
-          user: { id: user.id, username: user.username, isAdmin: user.isAdmin },
+          user: { 
+            id: user.id, 
+            username: user.username, 
+            isAdmin: user.isAdmin,
+            email: user.email 
+          },
         });
       });
     };
