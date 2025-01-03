@@ -151,45 +151,6 @@ export async function setupAuth(app: Express) {
     })
   );
 
-  app.post("/api/login", (req, res, next) => {
-    const result = loginUserSchema.safeParse(req.body);
-    if (!result.success) {
-      return res
-        .status(400)
-        .send("Données invalides : " + result.error.issues.map((i) => i.message).join(", "));
-    }
-
-    passport.authenticate("local", (err: any, user: Express.User | false, info: IVerifyOptions) => {
-      if (err) {
-        console.error("Authentication error:", err);
-        return next(err);
-      }
-
-      if (!user) {
-        console.log("Authentication failed:", info.message);
-        return res.status(400).send(info.message ?? "La connexion a échoué");
-      }
-
-      req.logIn(user, (err) => {
-        if (err) {
-          console.error("Login error:", err);
-          return next(err);
-        }
-
-        console.log("Login successful for user:", user.username);
-        return res.json({
-          message: "Connexion réussie",
-          user: { 
-            id: user.id, 
-            username: user.username, 
-            isAdmin: user.isAdmin,
-            email: user.email 
-          },
-        });
-      });
-    })(req, res, next);
-  });
-
   app.post("/api/register", async (req, res, next) => {
     try {
       const result = insertUserSchema.safeParse(req.body);
@@ -243,7 +204,6 @@ export async function setupAuth(app: Express) {
         })
         .returning();
 
-      // Log the user in after registration
       req.login(newUser, (err) => {
         if (err) {
           return next(err);
@@ -261,6 +221,45 @@ export async function setupAuth(app: Express) {
     } catch (error) {
       next(error);
     }
+  });
+
+  app.post("/api/login", (req, res, next) => {
+    const result = loginUserSchema.safeParse(req.body);
+    if (!result.success) {
+      return res
+        .status(400)
+        .send("Données invalides : " + result.error.issues.map((i) => i.message).join(", "));
+    }
+
+    passport.authenticate("local", (err: any, user: Express.User | false, info: IVerifyOptions) => {
+      if (err) {
+        console.error("Authentication error:", err);
+        return next(err);
+      }
+
+      if (!user) {
+        console.log("Authentication failed:", info.message);
+        return res.status(400).send(info.message ?? "La connexion a échoué");
+      }
+
+      req.logIn(user, (err) => {
+        if (err) {
+          console.error("Login error:", err);
+          return next(err);
+        }
+
+        console.log("Login successful for user:", user.username);
+        return res.json({
+          message: "Connexion réussie",
+          user: { 
+            id: user.id, 
+            username: user.username, 
+            isAdmin: user.isAdmin,
+            email: user.email 
+          },
+        });
+      });
+    })(req, res, next);
   });
 
   app.post("/api/logout", (req, res) => {
