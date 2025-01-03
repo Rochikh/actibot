@@ -15,8 +15,18 @@ export const documents = pgTable("documents", {
   id: serial("id").primaryKey(),
   title: text("title").notNull(),
   content: text("content").notNull(),
-  embedding: jsonb("embedding"),
   uploadedBy: integer("uploaded_by").references(() => users.id),
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+});
+
+// Nouvelle table pour les chunks de documents
+export const documentChunks = pgTable("document_chunks", {
+  id: serial("id").primaryKey(),
+  documentId: integer("document_id").references(() => documents.id).notNull(),
+  content: text("content").notNull(),
+  embedding: jsonb("embedding"),
+  chunkIndex: integer("chunk_index").notNull(),
+  metadata: jsonb("metadata"),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
 
@@ -72,18 +82,21 @@ export const systemPromptSchema = z.object({
   }),
 });
 
-export const selectUserSchema = createSelectSchema(users);
+// Types et schémas pour les nouvelles tables
+export const insertDocumentChunkSchema = createInsertSchema(documentChunks);
+export const selectDocumentChunkSchema = createSelectSchema(documentChunks);
+export type DocumentChunk = typeof documentChunks.$inferSelect;
+export type InsertDocumentChunk = typeof documentChunks.$inferInsert;
 
+// Autres types et schémas existants
+export const selectUserSchema = createSelectSchema(users);
 export const insertDocumentSchema = createInsertSchema(documents);
 export const selectDocumentSchema = createSelectSchema(documents);
-
 export const insertSystemPromptSchema = createInsertSchema(systemPrompts).merge(systemPromptSchema);
 export const selectSystemPromptSchema = createSelectSchema(systemPrompts);
-
 export const insertChatSchema = createInsertSchema(chats);
 export const selectChatSchema = createSelectSchema(chats);
 
-// Types
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
 export type LoginUser = z.infer<typeof loginUserSchema>;

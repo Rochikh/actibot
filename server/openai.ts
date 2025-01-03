@@ -1,12 +1,14 @@
 import OpenAI from "openai";
-import { type Document, type OpenAIModel } from "@db/schema";
+import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema";
+import { db } from "@db";
+import { sql } from "drizzle-orm";
 
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI();
 
-const MAX_CHUNK_SIZE = 4000; // Safe size to stay under token limits
+const MAX_CHUNK_SIZE = 1500; // Reduced chunk size for better context management
 const MAX_TOKENS = 1000; // Augmenté pour des réponses plus complètes
-const MAX_CONTEXT_LENGTH = 8000; // Reduced context length to stay well under limits
+const MAX_CONTEXT_LENGTH = 12000; // Increased for more comprehensive responses
 const MIN_SIMILARITY_THRESHOLD = 0.7; // Seuil minimum de similarité
 
 function truncateText(text: string, maxLength: number): string {
@@ -16,20 +18,43 @@ function truncateText(text: string, maxLength: number): string {
   const maxTokens = Math.floor(maxLength / 4);
   const estimatedMaxLength = maxTokens * 4;
 
-  return text.slice(0, estimatedMaxLength) + "...";
+  // Try to end at a sentence or paragraph break
+  let truncated = text.slice(0, estimatedMaxLength);
+  const lastPeriod = truncated.lastIndexOf('.');
+  const lastNewline = truncated.lastIndexOf('\n');
+  const breakPoint = Math.max(lastPeriod, lastNewline);
+
+  if (breakPoint > estimatedMaxLength * 0.8) {
+    return truncated.slice(0, breakPoint + 1);
+  }
+
+  return truncated + "...";
 }
 
 function chunkText(text: string): string[] {
-  const words = text.split(' ');
+  // Diviser d'abord par paragraphes
+  const paragraphs = text.split(/\n\s*\n/);
   const chunks: string[] = [];
   let currentChunk = '';
 
-  for (const word of words) {
-    if ((currentChunk + ' ' + word).length > MAX_CHUNK_SIZE) {
+  for (const paragraph of paragraphs) {
+    // Si le paragraphe lui-même est trop long, le diviser en phrases
+    if (paragraph.length > MAX_CHUNK_SIZE) {
+      const sentences = paragraph.match(/[^.!?]+[.!?]+/g) || [paragraph];
+
+      for (const sentence of sentences) {
+        if ((currentChunk + '\n' + sentence).length > MAX_CHUNK_SIZE) {
+          if (currentChunk) chunks.push(currentChunk.trim());
+          currentChunk = sentence;
+        } else {
+          currentChunk += '\n' + sentence;
+        }
+      }
+    } else if ((currentChunk + '\n\n' + paragraph).length > MAX_CHUNK_SIZE) {
       chunks.push(currentChunk.trim());
-      currentChunk = word;
+      currentChunk = paragraph;
     } else {
-      currentChunk += (currentChunk ? ' ' : '') + word;
+      currentChunk += (currentChunk ? '\n\n' : '') + paragraph;
     }
   }
 
@@ -41,54 +66,36 @@ function chunkText(text: string): string[] {
 }
 
 export async function generateEmbedding(text: string) {
-  const chunks = chunkText(text);
-  const embeddings = await Promise.all(
-    chunks.map(async (chunk) => {
-      const response = await openai.embeddings.create({
-        model: "text-embedding-3-small",
-        input: chunk,
-      });
-      return response.data[0].embedding;
-    })
-  );
+  const response = await openai.embeddings.create({
+    model: "text-embedding-3-small",
+    input: text,
+  });
 
-  // Average the embeddings for each dimension
-  const numDimensions = embeddings[0].length;
-  const averageEmbedding = new Array(numDimensions).fill(0);
-
-  for (const embedding of embeddings) {
-    for (let i = 0; i < numDimensions; i++) {
-      averageEmbedding[i] += embedding[i] / embeddings.length;
-    }
-  }
-
-  return averageEmbedding;
+  return response.data[0].embedding;
 }
 
-export async function findSimilarDocuments(documents: Document[], query: string) {
+export async function findSimilarDocuments(query: string) {
   const queryEmbedding = await generateEmbedding(query);
 
-  // Get all documents with their similarity scores
-  const scoredDocuments = documents
-    .map(doc => ({
-      ...doc,
-      similarity: cosineSimilarity(queryEmbedding, doc.embedding as number[])
-    }))
-    .filter(doc => doc.similarity >= MIN_SIMILARITY_THRESHOLD) // Filter by minimum similarity
-    .sort((a, b) => b.similarity - a.similarity)
-    .slice(0, 3); // Get top 3 most relevant documents
+  // Utiliser pgvector pour trouver les chunks les plus pertinents
+  const relevantChunks = await db.execute(sql`
+    SELECT 
+      dc.content,
+      dc.metadata,
+      d.title,
+      1 - (dc.embedding <=> ${JSON.stringify(queryEmbedding)}) as similarity
+    FROM document_chunks dc
+    JOIN documents d ON d.id = dc.document_id
+    WHERE dc.embedding IS NOT NULL
+    ORDER BY dc.embedding <=> ${JSON.stringify(queryEmbedding)}
+    LIMIT 5
+  `);
 
-  // Si aucun document ne dépasse le seuil, prendre le plus pertinent
-  if (scoredDocuments.length === 0 && documents.length > 0) {
-    return [documents
-      .map(doc => ({
-        ...doc,
-        similarity: cosineSimilarity(queryEmbedding, doc.embedding as number[])
-      }))
-      .sort((a, b) => b.similarity - a.similarity)[0]];
-  }
-
-  return scoredDocuments;
+  // Filtrer et trier les chunks par pertinence
+  return relevantChunks
+    .filter((chunk: any) => chunk.similarity >= MIN_SIMILARITY_THRESHOLD)
+    .sort((a: any, b: any) => b.similarity - a.similarity)
+    .slice(0, 3);
 }
 
 export async function getChatResponse(
@@ -99,68 +106,79 @@ export async function getChatResponse(
   model: OpenAIModel = "gpt-4o-mini" 
 ) {
   try {
-    // Tronquer le contexte de manière agressive
-    const truncatedContext = truncateText(context, MAX_CONTEXT_LENGTH);
+    // Rechercher les documents pertinents
+    const relevantChunks = await findSimilarDocuments(question);
+
+    // Construire un contexte structuré avec les métadonnées
+    const structuredContext = relevantChunks
+      .map((chunk: any, index: number) => `
+Document ${index + 1}: ${chunk.title}
+Pertinence: ${Math.round(chunk.similarity * 100)}%
+---
+${chunk.content}
+`)
+      .join('\n\n');
+
+    // Tronquer le contexte de manière intelligente
+    const truncatedContext = truncateText(structuredContext, MAX_CONTEXT_LENGTH);
 
     // Réduire l'historique au strict minimum
-    const limitedHistory = history?.slice(-1).map(msg => ({
+    const limitedHistory = history?.slice(-2).map(msg => ({
       ...msg,
-      content: truncateText(msg.content, 1000) // Limiter chaque message d'historique
+      content: truncateText(msg.content, 1000)
     })) || [];
 
-    // Construire le prompt système avec un contexte limité
+    // Construire le prompt système avec un contexte structuré
     const basePrompt = systemPrompt || `Tu es un assistant expert pour cette communauté WhatsApp, spécialisé dans les explications détaillées et structurées.
 
 Pour chaque réponse, tu dois :
-1. Commencer par une introduction claire du sujet
-2. Développer chaque point important avec :
-   - Une explication détaillée
-   - Des exemples concrets d'utilisation
-   - Les avantages et limitations
-3. Structurer ta réponse avec des sections logiques
-4. Conclure en résumant les points clés
+1. Analyser toutes les sources fournies
+2. Structurer ta réponse en sections claires :
+   - Introduction et contexte
+   - Points principaux avec explications détaillées
+   - Exemples concrets et cas d'utilisation
+   - Résumé des points clés
+3. Utiliser le formatage Markdown pour améliorer la lisibilité :
+   - **Gras** pour les concepts importants
+   - *Italique* pour les nuances ou précisions
+   - Listes numérotées pour les étapes
+   - Citations pour les extraits directs`;
 
-N'hésite pas à utiliser des listes numérotées et le formatage Markdown pour améliorer la lisibilité.`;
-
-    const contextPrompt = truncateText(`
+    const contextPrompt = `
 ${basePrompt}
 
-Instructions importantes pour la recherche d'informations :
-1. Base tes réponses uniquement sur les informations fournies dans la base de connaissance ci-dessous.
-2. Si une information n'est pas dans la base de connaissance, indique-le clairement.
-3. Pour chaque information importante, cite la source spécifique de la base de connaissance.
-4. Développe chaque point de manière approfondie avec des explications et des exemples.
-5. Utilise le formatage markdown pour structurer ta réponse :
-   - **Gras** pour les points importants
-   - *Italique* pour les nuances
-   - Listes numérotées pour les étapes
-   - Sections avec des titres clairs
-
-Base de connaissance :
+SOURCES D'INFORMATION DISPONIBLES :
 ${truncatedContext}
 
----
-Souviens-toi : Base tes réponses uniquement sur les informations ci-dessus, mais développe-les de manière complète et structurée. Assure-toi d'utiliser toutes les informations pertinentes de la base de connaissance.
-`, 10000);
+INSTRUCTIONS IMPORTANTES :
+1. Analyse TOUTES les sources ci-dessus, pas seulement la première
+2. Pour chaque information importante, indique la source (Document X)
+3. Si une information manque ou est incomplète, signale-le clairement
+4. Développe chaque point en détail avec des explications et exemples
+5. Structure ta réponse de manière claire et logique
 
-    const messages = [
-      {
-        role: "system" as const,
-        content: contextPrompt
-      },
-      ...limitedHistory,
-      {
-        role: "user" as const,
-        content: truncateText(question, 1000)
-      }
-    ];
+Question : ${question}
+
+Assure-toi d'exploiter toutes les informations pertinentes des sources fournies.
+`;
 
     console.log("Using model:", model);
-    console.log("Messages token count estimate:", JSON.stringify(messages).length / 4); // Rough estimation
+    console.log("Number of relevant chunks:", relevantChunks.length);
+    console.log("Context length estimate:", contextPrompt.length / 4);
 
     const response = await openai.chat.completions.create({
       model: model,
-      messages,
+      messages: [
+        {
+          role: "system",
+          content: contextPrompt
+        },
+        ...limitedHistory,
+        {
+          role: "user",
+          content: question
+        }
+      ],
       temperature: 0.7,
       max_tokens: MAX_TOKENS,
       presence_penalty: 0.1,
