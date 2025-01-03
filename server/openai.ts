@@ -4,13 +4,52 @@ import { type Document } from "@db/schema";
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-export async function generateEmbedding(text: string) {
-  const response = await openai.embeddings.create({
-    model: "text-embedding-3-small",
-    input: text,
-  });
+const MAX_CHUNK_SIZE = 4000; // Safe size to stay under token limits
 
-  return response.data[0].embedding;
+function chunkText(text: string): string[] {
+  const words = text.split(' ');
+  const chunks: string[] = [];
+  let currentChunk = '';
+
+  for (const word of words) {
+    if ((currentChunk + ' ' + word).length > MAX_CHUNK_SIZE) {
+      chunks.push(currentChunk.trim());
+      currentChunk = word;
+    } else {
+      currentChunk += (currentChunk ? ' ' : '') + word;
+    }
+  }
+
+  if (currentChunk) {
+    chunks.push(currentChunk.trim());
+  }
+
+  return chunks;
+}
+
+export async function generateEmbedding(text: string) {
+  const chunks = chunkText(text);
+  const embeddings = await Promise.all(
+    chunks.map(async (chunk) => {
+      const response = await openai.embeddings.create({
+        model: "text-embedding-3-small",
+        input: chunk,
+      });
+      return response.data[0].embedding;
+    })
+  );
+
+  // Average the embeddings for each dimension
+  const numDimensions = embeddings[0].length;
+  const averageEmbedding = new Array(numDimensions).fill(0);
+
+  for (const embedding of embeddings) {
+    for (let i = 0; i < numDimensions; i++) {
+      averageEmbedding[i] += embedding[i] / embeddings.length;
+    }
+  }
+
+  return averageEmbedding;
 }
 
 export async function findSimilarDocuments(documents: Document[], query: string) {
