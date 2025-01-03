@@ -7,7 +7,7 @@ import { scrypt, randomBytes, timingSafeEqual } from "crypto";
 import { promisify } from "util";
 import { users, insertUserSchema, type User as SelectUser, loginUserSchema } from "@db/schema";
 import { db } from "@db";
-import { eq } from "drizzle-orm";
+import { eq, sql } from "drizzle-orm";
 import { sendConfirmationEmail } from "./email";
 
 const scryptAsync = promisify(scrypt);
@@ -135,6 +135,10 @@ export function setupAuth(app: Express) {
       // Hash the password
       const hashedPassword = await crypto.hash(password);
 
+      // Vérifier s'il existe déjà des utilisateurs
+      const userCount = await db.select({ count: sql`count(*)` }).from(users);
+      const isFirstUser = userCount[0].count === 0;
+
       // Create the new user
       const [newUser] = await db
         .insert(users)
@@ -142,7 +146,7 @@ export function setupAuth(app: Express) {
           username,
           email,
           password: hashedPassword,
-          isAdmin: false, // By default, users are not admins
+          isAdmin: isFirstUser, // Le premier utilisateur sera admin
         })
         .returning();
 
