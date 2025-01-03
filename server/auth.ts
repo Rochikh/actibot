@@ -7,8 +7,7 @@ import { scrypt, randomBytes, timingSafeEqual } from "crypto";
 import { promisify } from "util";
 import { users, insertUserSchema, type User as SelectUser, loginUserSchema } from "@db/schema";
 import { db } from "@db";
-import { eq, sql } from "drizzle-orm";
-import { sendConfirmationEmail } from "./email";
+import { eq } from "drizzle-orm";
 
 const scryptAsync = promisify(scrypt);
 const crypto = {
@@ -29,13 +28,39 @@ const crypto = {
   },
 };
 
+async function createDefaultAdminIfNotExists() {
+  try {
+    const [existingAdmin] = await db
+      .select()
+      .from(users)
+      .where(eq(users.username, "admin"))
+      .limit(1);
+
+    if (!existingAdmin) {
+      const hashedPassword = await crypto.hash("admin"); // Default password is 'admin'
+      await db.insert(users).values({
+        username: "admin",
+        email: "admin@example.com",
+        password: hashedPassword,
+        isAdmin: true,
+      });
+      console.log("Default admin account created");
+    }
+  } catch (error) {
+    console.error("Error creating default admin:", error);
+  }
+}
+
 declare global {
   namespace Express {
     interface User extends SelectUser {}
   }
 }
 
-export function setupAuth(app: Express) {
+export async function setupAuth(app: Express) {
+  // Create default admin account
+  await createDefaultAdminIfNotExists();
+
   const MemoryStore = createMemoryStore(session);
 
   const sessionSettings: session.SessionOptions = {
