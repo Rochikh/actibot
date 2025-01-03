@@ -7,11 +7,19 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { Button } from "@/components/ui/button";
 import { LogOut, Settings, Trash2 } from "lucide-react";
 import { Link } from "wouter";
-import { Loader2 } from "lucide-react";
+import { useRef, useEffect } from "react";
 
 export default function ChatPage() {
   const { messages, sendMessage, clearHistory, isLoading } = useChat();
   const { user, logout } = useUser();
+  const scrollAreaRef = useRef<HTMLDivElement>(null);
+
+  // Auto-scroll to bottom when new messages arrive
+  useEffect(() => {
+    if (scrollAreaRef.current) {
+      scrollAreaRef.current.scrollTop = scrollAreaRef.current.scrollHeight;
+    }
+  }, [messages, isLoading]);
 
   return (
     <div className="min-h-screen bg-gray-50 p-4">
@@ -44,20 +52,16 @@ export default function ChatPage() {
             Déconnexion
           </Button>
         </div>
-        <ScrollArea className="flex-1 p-4 mt-12">
-          {messages.map((message) => (
+        <ScrollArea className="flex-1 p-4 mt-12" ref={scrollAreaRef}>
+          {messages.map((message, index) => (
             <ChatMessage
               key={message.id}
               message={message.message}
               response={message.response}
               timestamp={message.createdAt}
+              isLoading={isLoading && index === messages.length - 1}
             />
           ))}
-          {isLoading && (
-            <div className="flex justify-center p-4">
-              <Loader2 className="h-6 w-6 animate-spin text-gray-400" />
-            </div>
-          )}
         </ScrollArea>
         <div className="p-4 border-t">
           <ChatInput onSend={sendMessage} disabled={isLoading} />

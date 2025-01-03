@@ -2,6 +2,7 @@ import { format } from "date-fns";
 import { Avatar } from "@/components/ui/avatar";
 import { Card } from "@/components/ui/card";
 import { User, Bot } from "lucide-react";
+import { Loader2 } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
@@ -9,9 +10,10 @@ interface ChatMessageProps {
   message: string;
   response: string;
   timestamp: Date;
+  isLoading?: boolean;
 }
 
-export default function ChatMessage({ message, response, timestamp }: ChatMessageProps) {
+export default function ChatMessage({ message, response, timestamp, isLoading }: ChatMessageProps) {
   // Fonction pour formater le texte avec des listes numérotées et du Markdown
   const formatResponse = (text: string) => {
     return text.split('\n').map((line, index) => {
@@ -78,9 +80,16 @@ export default function ChatMessage({ message, response, timestamp }: ChatMessag
           <Bot className="h-5 w-5 text-primary-foreground" />
         </Avatar>
         <Card className="flex-1 p-4 bg-primary/5">
-          <div className="text-sm text-foreground space-y-2">
-            {formatResponse(response)}
-          </div>
+          {isLoading ? (
+            <div className="flex items-center gap-2 text-sm text-muted-foreground">
+              <Loader2 className="h-4 w-4 animate-spin" />
+              <span>L'assistant réfléchit...</span>
+            </div>
+          ) : (
+            <div className="text-sm text-foreground space-y-2">
+              {formatResponse(response)}
+            </div>
+          )}
         </Card>
       </div>
     </div>
