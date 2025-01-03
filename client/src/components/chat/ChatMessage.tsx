@@ -28,7 +28,7 @@ export default function ChatMessage({ message, response, timestamp }: ChatMessag
             <span className="font-medium text-primary">{listItemMatch[1]}.</span>
             <ReactMarkdown 
               remarkPlugins={[remarkGfm]}
-              className="prose prose-sm dark:prose-invert flex-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0"
+              className="prose prose-sm dark:prose-invert flex-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0 prose-headings:text-primary prose-strong:text-primary prose-strong:font-bold prose-em:text-primary/80 prose-em:italic"
               components={{
                 strong: ({ children }) => <span className="font-bold text-primary">{children}</span>,
                 em: ({ children }) => <span className="italic text-primary/80">{children}</span>,
@@ -45,7 +45,7 @@ export default function ChatMessage({ message, response, timestamp }: ChatMessag
         <ReactMarkdown 
           key={index}
           remarkPlugins={[remarkGfm]}
-          className="prose prose-sm dark:prose-invert my-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0"
+          className="prose prose-sm dark:prose-invert my-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0 prose-headings:text-primary prose-strong:text-primary prose-strong:font-bold prose-em:text-primary/80 prose-em:italic"
           components={{
             strong: ({ children }) => <span className="font-bold text-primary">{children}</span>,
             em: ({ children }) => <span className="italic text-primary/80">{children}</span>,

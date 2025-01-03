@@ -7,7 +7,7 @@ import { scrypt, randomBytes, timingSafeEqual } from "crypto";
 import { promisify } from "util";
 import { users, insertUserSchema, type User as SelectUser } from "@db/schema";
 import { db } from "@db";
-import { eq, sql } from "drizzle-orm";
+import { eq } from "drizzle-orm";
 import { z } from "zod";
 
 const scryptAsync = promisify(scrypt);
@@ -37,30 +37,47 @@ const loginUserSchema = z.object({
 
 async function createDefaultAdminIfNotExists() {
   try {
-    // Supprime tous les utilisateurs existants
-    await db.delete(users).where(sql`1=1`);
+    // Vérifie si admin existe déjà
+    const [existingAdmin] = await db
+      .select()
+      .from(users)
+      .where(eq(users.username, "admin"))
+      .limit(1);
 
-    // Crée le compte admin
-    const adminPassword = await crypto.hash("admin");
-    await db.insert(users).values({
-      username: "admin",
-      email: "admin@example.com",
-      password: adminPassword,
-      isAdmin: true,
-    });
+    // Ne crée l'admin que s'il n'existe pas déjà
+    if (!existingAdmin) {
+      const adminPassword = await crypto.hash("admin");
+      await db.insert(users).values({
+        username: "admin",
+        email: "admin@example.com",
+        password: adminPassword,
+        isAdmin: true,
+      });
 
-    // Crée le compte user
-    const userPassword = await crypto.hash("user");
-    await db.insert(users).values({
-      username: "user",
-      email: "user@example.com",
-      password: userPassword,
-      isAdmin: false,
-    });
+      console.log("Default admin account created");
+    }
 
-    console.log("Default accounts created with hashed passwords");
+    // Vérifie si user existe déjà
+    const [existingUser] = await db
+      .select()
+      .from(users)
+      .where(eq(users.username, "user"))
+      .limit(1);
+
+    // Ne crée l'utilisateur que s'il n'existe pas déjà
+    if (!existingUser) {
+      const userPassword = await crypto.hash("user");
+      await db.insert(users).values({
+        username: "user",
+        email: "user@example.com",
+        password: userPassword,
+        isAdmin: false,
+      });
+
+      console.log("Default user account created");
+    }
   } catch (error) {
-    console.error("Error creating default accounts:", error);
+    console.error("Error checking/creating default accounts:", error);
   }
 }
 
@@ -71,7 +88,7 @@ declare global {
 }
 
 export async function setupAuth(app: Express) {
-  // Create default accounts
+  // Create default accounts only if they don't exist
   await createDefaultAdminIfNotExists();
 
   const MemoryStore = createMemoryStore(session);
@@ -161,6 +178,7 @@ export async function setupAuth(app: Express) {
     })
   );
 
+  // Routes d'authentification
   app.post("/api/register", async (req, res, next) => {
     try {
       const result = insertUserSchema.safeParse(req.body);
