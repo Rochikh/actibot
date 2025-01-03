@@ -7,6 +7,7 @@ const openai = new OpenAI();
 const MAX_CHUNK_SIZE = 4000; // Safe size to stay under token limits
 const MAX_TOKENS = 1000; // Augmenté pour des réponses plus complètes
 const MAX_CONTEXT_LENGTH = 8000; // Reduced context length to stay well under limits
+const MIN_SIMILARITY_THRESHOLD = 0.7; // Seuil minimum de similarité
 
 function truncateText(text: string, maxLength: number): string {
   if (text.length <= maxLength) return text;
@@ -67,14 +68,27 @@ export async function generateEmbedding(text: string) {
 export async function findSimilarDocuments(documents: Document[], query: string) {
   const queryEmbedding = await generateEmbedding(query);
 
-  // Only get the most relevant document to reduce context size
-  return documents
+  // Get all documents with their similarity scores
+  const scoredDocuments = documents
     .map(doc => ({
       ...doc,
       similarity: cosineSimilarity(queryEmbedding, doc.embedding as number[])
     }))
+    .filter(doc => doc.similarity >= MIN_SIMILARITY_THRESHOLD) // Filter by minimum similarity
     .sort((a, b) => b.similarity - a.similarity)
-    .slice(0, 1); // Get only the most relevant document
+    .slice(0, 3); // Get top 3 most relevant documents
+
+  // Si aucun document ne dépasse le seuil, prendre le plus pertinent
+  if (scoredDocuments.length === 0 && documents.length > 0) {
+    return [documents
+      .map(doc => ({
+        ...doc,
+        similarity: cosineSimilarity(queryEmbedding, doc.embedding as number[])
+      }))
+      .sort((a, b) => b.similarity - a.similarity)[0]];
+  }
+
+  return scoredDocuments;
 }
 
 export async function getChatResponse(
@@ -126,7 +140,7 @@ Base de connaissance :
 ${truncatedContext}
 
 ---
-Souviens-toi : Base tes réponses uniquement sur les informations ci-dessus, mais développe-les de manière complète et structurée.
+Souviens-toi : Base tes réponses uniquement sur les informations ci-dessus, mais développe-les de manière complète et structurée. Assure-toi d'utiliser toutes les informations pertinentes de la base de connaissance.
 `, 10000);
 
     const messages = [
