@@ -100,11 +100,11 @@ export async function findSimilarDocuments(query: string) {
       dc.content,
       dc.metadata,
       d.title,
-      1 - (embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
+      1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
     FROM document_chunks dc
     JOIN documents d ON d.id = dc.document_id
     WHERE dc.embedding IS NOT NULL
-    ORDER BY embedding <-> ${JSON.stringify(queryEmbedding)}::vector
+    ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector
     LIMIT 5
   `);
 
