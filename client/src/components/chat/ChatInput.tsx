@@ -19,11 +19,21 @@ export default function ChatInput({ onSend, disabled }: ChatInputProps) {
     setMessage("");
   };
 
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      if (message.trim()) {
+        handleSubmit(e);
+      }
+    }
+  };
+
   return (
     <form onSubmit={handleSubmit} className="flex gap-2">
       <Textarea
         value={message}
         onChange={(e) => setMessage(e.target.value)}
+        onKeyDown={handleKeyDown}
         placeholder="Type your message..."
         className="resize-none"
         disabled={disabled}
