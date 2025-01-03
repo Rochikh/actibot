@@ -30,22 +30,18 @@ const crypto = {
 
 async function createDefaultAdminIfNotExists() {
   try {
-    const [existingAdmin] = await db
-      .select()
-      .from(users)
-      .where(eq(users.username, "admin"))
-      .limit(1);
+    // Supprime l'ancien compte admin s'il existe
+    await db.delete(users).where(eq(users.username, "admin"));
 
-    if (!existingAdmin) {
-      const hashedPassword = await crypto.hash("admin"); // Default password is 'admin'
-      await db.insert(users).values({
-        username: "admin",
-        email: "admin@example.com",
-        password: hashedPassword,
-        isAdmin: true,
-      });
-      console.log("Default admin account created");
-    }
+    // Crée un nouveau compte admin avec le mot de passe hashé
+    const hashedPassword = await crypto.hash("admin");
+    await db.insert(users).values({
+      username: "admin",
+      email: "admin@example.com",
+      password: hashedPassword,
+      isAdmin: true,
+    });
+    console.log("Default admin account created with hashed password");
   } catch (error) {
     console.error("Error creating default admin:", error);
   }
