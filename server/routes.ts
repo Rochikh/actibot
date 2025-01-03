@@ -108,6 +108,22 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  app.delete("/api/documents/:id", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+    try {
+      const [deletedDoc] = await db.delete(documents)
+        .where(eq(documents.id, parseInt(req.params.id)))
+        .returning();
+
+      if (!deletedDoc) {
+        return res.status(404).send("Document non trouvé");
+      }
+
+      res.json({ message: "Document supprimé avec succès" });
+    } catch (error: any) {
+      res.status(500).send(error.message);
+    }
+  });
+
   // System Prompts routes (protected by auth and admin)
   app.post("/api/system-prompts", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
     try {
@@ -160,8 +176,8 @@ export function registerRoutes(app: Express): Server {
 
       // Update the prompt
       const [updatedPrompt] = await db.update(systemPrompts)
-        .set({ 
-          name, 
+        .set({
+          name,
           content,
           updatedAt: new Date()
         })
