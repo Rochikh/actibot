@@ -3,11 +3,14 @@ import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema"
 import { db } from "@db";
 import { sql } from "drizzle-orm";
 
-// the newest OpenAI model is "gpt-4o" which was released May 13, 2024
+// Keep OpenAI client just for embeddings
 const openai = new OpenAI({ 
   apiKey: process.env.OPENAI_API_KEY,
   timeout: 30000 // 30 second timeout
 });
+
+// Webhook URL for Make.com integration
+const MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/vj85d82wfed8m5jhaadimovryp0a4trhpour";
 
 // Fonction utilitaire pour réessayer avec backoff exponentiel
 async function retryWithBackoff<T>(
@@ -122,7 +125,7 @@ export async function generateEmbedding(text: string): Promise<number[]> {
   });
 }
 
-// Format du prompt système optimisé
+// Format du prompt système optimisé avec appel au webhook Make.com
 export async function getChatResponse(
   question: string, 
   context: any[],
@@ -152,7 +155,10 @@ ${chunk.content?.trim() || 'No content available'}
 ---`;
     }).filter(Boolean).join('\n\n');
 
-    const contextPrompt = `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
+    const webhookPayload = {
+      question,
+      context: formattedContext,
+      systemPrompt: systemPrompt || `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
 
 Contexte trouvé (classé par pertinence) :
 ${formattedContext || "Aucun contexte pertinent trouvé."}
@@ -161,44 +167,39 @@ Instructions :
 1. Base tes réponses UNIQUEMENT sur le contexte ci-dessus
 2. Cite DIRECTEMENT des passages pertinents du contexte entre guillemets "..."
 3. Si l'information n'est pas dans le contexte, dis clairement "Cette information n'est pas présente dans le contexte fourni"
-4. Structure ta réponse avec des paragraphes clairs
+4. Structure ta réponse avec des paragraphes clairs`,
+      history: history.slice(-3) // Keep last 3 messages for context
+    };
 
-Question : ${question}`;
-
-    console.log('Total context length:', contextPrompt.length);
+    console.log('Sending request to Make.com webhook');
 
     return retryWithBackoff(async () => {
       const abortController = new AbortController();
       const timeoutId = setTimeout(() => abortController.abort(), 25000); // 25s timeout
 
       try {
-        console.log('Attempting chat completion');
-        const response = await openai.chat.completions.create({
-          model: "gpt-4o-mini",
-          messages: [
-            {
-              role: "system",
-              content: systemPrompt || contextPrompt
-            },
-            ...history.slice(-3),
-            {
-              role: "user",
-              content: question
-            }
-          ],
-          temperature: 0.3,
-          max_tokens: 2000,
-          presence_penalty: 0,
-          frequency_penalty: 0
-        }, { signal: abortController.signal });
+        const response = await fetch(MAKE_WEBHOOK_URL, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(webhookPayload),
+          signal: abortController.signal
+        });
 
         clearTimeout(timeoutId);
 
-        if (!response.choices?.[0]?.message?.content) {
-          throw new Error('Invalid response structure');
+        if (!response.ok) {
+          throw new Error(`Webhook error: ${response.status} ${response.statusText}`);
         }
 
-        const result = response.choices[0].message.content;
+        const result = await response.text();
+        console.log('Received webhook response');
+
+        if (!result) {
+          throw new Error('Empty response from webhook');
+        }
+
         await verifyResponse(result, formattedContext);
         return result;
       } catch (error) {
