@@ -3,71 +3,46 @@ import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema"
 import { db } from "@db";
 import { sql } from "drizzle-orm";
 
-// Configuration OpenRouter avec gestion de fallback
+// the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI({ 
-  apiKey: process.env.OPENROUTER_API_KEY || "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",
-  baseURL: "https://openrouter.ai/api/v1",
-  defaultHeaders: {
-    "HTTP-Referer": "http://localhost:5000",
-    "X-Title": "ActiBot",
-    "Content-Type": "application/json"
-  },
+  apiKey: process.env.OPENAI_API_KEY,
   timeout: 30000 // 30 second timeout
 });
 
-// Liste des modèles par ordre de préférence avec leurs endpoints
-const MODELS = {
-  chat: [
-    "google/palm-2-chat-bison-001", // Ajout d'un modèle plus fiable en premier
-    "anthropic/claude-2",
-    "google/gemini-pro",
-    "openai/gpt-3.5-turbo"
-  ],
-  embedding: [
-    "google/embedding-gecko-001",
-    "openai/text-embedding-ada-002",
-    "cohere/embed-english-v3.0"
-  ]
-};
-
-// Fonction utilitaire pour réessayer avec différents modèles
-async function tryWithFallback<T>(
-  models: string[],
-  operation: (model: string) => Promise<T>,
+// Fonction utilitaire pour réessayer avec backoff exponentiel
+async function retryWithBackoff<T>(
+  operation: () => Promise<T>,
   maxRetries = 3
 ): Promise<T> {
   let lastError;
 
-  for (const model of models) {
-    for (let attempt = 0; attempt < maxRetries; attempt++) {
-      try {
-        console.log(`Trying model ${model}, attempt ${attempt + 1}`);
-        const result = await operation(model);
-        console.log(`Success with model ${model}`);
-        return result;
-      } catch (error: any) {
-        lastError = error;
-        console.warn(`Failed with model ${model}, attempt ${attempt + 1}:`, error.message);
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
+    try {
+      console.log(`Attempting operation, attempt ${attempt + 1}`);
+      const result = await operation();
+      console.log('Operation successful');
+      return result;
+    } catch (error: any) {
+      lastError = error;
+      console.warn(`Failed attempt ${attempt + 1}:`, error.message);
 
-        // Vérifier les erreurs spécifiques qui nécessitent un retry
-        const shouldRetry = error.status === 404 || 
-                          error.status === 429 || 
-                          error.message.includes('timeout') ||
-                          error.message.includes('rate limit');
+      // Vérifier si l'erreur est récupérable
+      const shouldRetry = error.status === 429 || 
+                         error.message.includes('timeout') ||
+                         error.message.includes('rate limit');
 
-        if (!shouldRetry) {
-          throw error;
-        }
-
-        // Attendre avec backoff exponentiel
-        const delay = Math.min(1000 * Math.pow(2, attempt), 10000);
-        console.log(`Waiting ${delay}ms before retry...`);
-        await new Promise(resolve => setTimeout(resolve, delay));
+      if (!shouldRetry) {
+        throw error;
       }
+
+      // Attendre avec backoff exponentiel
+      const delay = Math.min(1000 * Math.pow(2, attempt), 10000);
+      console.log(`Waiting ${delay}ms before retry...`);
+      await new Promise(resolve => setTimeout(resolve, delay));
     }
   }
 
-  throw lastError || new Error("All models failed");
+  throw lastError || new Error("All attempts failed");
 }
 
 // Requête SQL optimisée pour la recherche de similarité
@@ -126,15 +101,15 @@ export async function findSimilarDocuments(query: string) {
   }
 }
 
-// Génération d'embeddings avec fallback
+// Génération d'embeddings
 export async function generateEmbedding(text: string): Promise<number[]> {
   if (!text || typeof text !== 'string') {
     throw new Error('Invalid input: text must be a non-empty string');
   }
 
-  return tryWithFallback(MODELS.embedding, async (model) => {
+  return retryWithBackoff(async () => {
     const response = await openai.embeddings.create({
-      model,
+      model: "text-embedding-3-small",
       input: text,
       encoding_format: "float"
     });
@@ -192,14 +167,14 @@ Question : ${question}`;
 
     console.log('Total context length:', contextPrompt.length);
 
-    return tryWithFallback(MODELS.chat, async (model) => {
+    return retryWithBackoff(async () => {
       const abortController = new AbortController();
       const timeoutId = setTimeout(() => abortController.abort(), 25000); // 25s timeout
 
       try {
-        console.log(`Attempting chat completion with model: ${model}`);
+        console.log('Attempting chat completion');
         const response = await openai.chat.completions.create({
-          model,
+          model: "gpt-4o",
           messages: [
             {
               role: "system",
@@ -228,7 +203,7 @@ Question : ${question}`;
         return result;
       } catch (error) {
         clearTimeout(timeoutId);
-        console.error(`Chat completion failed with model ${model}:`, error);
+        console.error('Chat completion failed:', error);
         throw error;
       }
     });
@@ -238,7 +213,7 @@ Question : ${question}`;
   }
 }
 
-// Système de vérification des réponses amélioré
+// Système de vérification des réponses
 async function verifyResponse(response: string, context: string) {
   try {
     const citationCount = (response.match(/"|«|»/g) || []).length / 2;
