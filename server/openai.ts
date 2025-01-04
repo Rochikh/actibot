@@ -7,32 +7,76 @@ import { sql } from "drizzle-orm";
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI();
 
-interface ChunkingOptions {
-  minSize: number;
-  maxSize: number;
-  overlap: number;
-  breakOnSentence: boolean;
+// Requête SQL optimisée pour la recherche de similarité
+export async function findSimilarDocuments(query: string) {
+  if (!query || typeof query !== 'string') {
+    throw new Error('Invalid query: must be a non-empty string');
+  }
+
+  try {
+    console.log('Generating embedding for query:', query);
+    const queryEmbedding = await generateEmbedding(query);
+    console.log('Generated embedding length:', queryEmbedding.length);
+
+    // Enhanced similarity search with context windows
+    console.log('Searching for similar chunks...');
+    const result = await db.execute(sql`
+      WITH similarity_search AS (
+        SELECT 
+          dc.content,
+          d.title as document_title,
+          1 - (dc.embedding <=> ${sql`[${queryEmbedding.join(',')}]::vector`}) as similarity,
+          dc.metadata,
+          ROW_NUMBER() OVER (
+            PARTITION BY d.id 
+            ORDER BY dc.embedding <=> ${sql`[${queryEmbedding.join(',')}]::vector`}
+          ) as chunk_rank
+        FROM document_chunks dc
+        JOIN documents d ON d.id = dc.document_id
+      )
+      SELECT 
+        content,
+        document_title,
+        similarity::float4,
+        metadata,
+        chunk_rank
+      FROM similarity_search
+      WHERE 
+        chunk_rank <= 3 AND
+        similarity > 0.1
+      ORDER BY similarity DESC
+      LIMIT 30;
+    `);
+
+    const chunks = result.rows || [];
+
+    // Debug logging
+    console.log(`Found ${chunks.length} relevant chunks`);
+    chunks.forEach((chunk, index) => {
+      console.log(`
+        Chunk ${index + 1}:
+        - Similarity: ${chunk.similarity?.toFixed(4) || 'N/A'}
+        - Title: ${chunk.document_title || 'Untitled'}
+        - Preview: ${chunk.content?.substring(0, 100)}...
+      `);
+    });
+
+    return chunks;
+  } catch (error) {
+    console.error('Error in findSimilarDocuments:', error);
+    throw error;
+  }
 }
 
-const defaultOptions: ChunkingOptions = {
-  minSize: 500,
-  maxSize: 1500,
-  overlap: 200,
-  breakOnSentence: true
-};
+// Génération d'embeddings
+export async function generateEmbedding(text: string) {
+  const response = await openai.embeddings.create({
+    model: "text-embedding-3-small",
+    input: text,
+    encoding_format: "float"
+  });
 
-interface ChunkMetadata {
-  heading?: string;
-  subheading?: string;
-  keywords?: string[];
-  position?: 'start' | 'middle' | 'end';
-}
-
-interface ProcessedChunk {
-  content: string;
-  startOffset: number;
-  endOffset: number;
-  metadata?: ChunkMetadata;
+  return response.data[0].embedding;
 }
 
 // Système de chunking intelligent
@@ -96,70 +140,6 @@ function extractKeywords(text: string): string[] {
     .map(([word]) => word);
 }
 
-// Génération d'embeddings
-export async function generateEmbedding(text: string) {
-  const response = await openai.embeddings.create({
-    model: "text-embedding-3-small",
-    input: text,
-    encoding_format: "float"
-  });
-
-  return response.data[0].embedding;
-}
-
-// Requête SQL optimisée pour la recherche de similarité
-export async function findSimilarDocuments(query: string) {
-  if (!query || typeof query !== 'string') {
-    throw new Error('Invalid query: must be a non-empty string');
-  }
-
-  console.log('Generating embedding for query:', query);
-  const queryEmbedding = await generateEmbedding(query);
-
-  // Enhanced similarity search with context windows
-  console.log('Searching for similar chunks...');
-  const result = await db.execute(sql`
-    WITH semantic_chunks AS (
-      SELECT 
-        dc.content,
-        d.title,
-        1 - (dc.embedding <-> array[${queryEmbedding}]) as similarity,
-        dc.metadata,
-        ROW_NUMBER() OVER (
-          PARTITION BY d.id 
-          ORDER BY dc.embedding <-> array[${queryEmbedding}]
-        ) as chunk_rank
-      FROM document_chunks dc
-      JOIN documents d ON d.id = dc.document_id
-      WHERE 1 - (dc.embedding <-> array[${queryEmbedding}]) > 0.1
-    )
-    SELECT 
-      content,
-      title,
-      similarity,
-      metadata,
-      chunk_rank
-    FROM semantic_chunks
-    WHERE chunk_rank <= 3  -- Prendre les 3 meilleurs chunks par document
-    ORDER BY similarity DESC
-    LIMIT 30
-  `);
-
-  const relevantChunks = Array.isArray(result) ? result : result.rows || [];
-
-  // Logging pour le debug
-  console.log(`Found ${relevantChunks.length} relevant chunks`);
-  relevantChunks.forEach((chunk: any, index: number) => {
-    console.log(`
-      Chunk ${index + 1}:
-      - Similarity: ${chunk.similarity.toFixed(4)}
-      - Title: ${chunk.title}
-      - Preview: ${chunk.content.substring(0, 100)}...
-    `);
-  });
-
-  return relevantChunks;
-}
 
 // Format du prompt système optimisé
 export async function getChatResponse(
@@ -290,4 +270,32 @@ function formatContext(chunk: any): string {
   }
 
   return parts.join(' | ');
+}
+
+interface ChunkingOptions {
+  minSize: number;
+  maxSize: number;
+  overlap: number;
+  breakOnSentence: boolean;
+}
+
+const defaultOptions: ChunkingOptions = {
+  minSize: 500,
+  maxSize: 1500,
+  overlap: 200,
+  breakOnSentence: true
+};
+
+interface ChunkMetadata {
+  heading?: string;
+  subheading?: string;
+  keywords?: string[];
+  position?: 'start' | 'middle' | 'end';
+}
+
+interface ProcessedChunk {
+  content: string;
+  startOffset: number;
+  endOffset: number;
+  metadata?: ChunkMetadata;
 }
