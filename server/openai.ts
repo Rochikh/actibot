@@ -261,36 +261,21 @@ Related documents have been analyzed and integrated into this response.
       content: msg.content.slice(0, 1500)
     }));
 
-    const basePrompt = systemPrompt || `You are an expert AI assistant specialized in providing comprehensive, well-structured, and detailed explanations. Your responses should be thorough while maintaining clarity and relevance.
+    const basePrompt = systemPrompt || `En tant qu'assistant IA multilingue spécialisé dans le traitement de documents, je suis là pour vous aider à analyser, comprendre et extraire des informations pertinentes des documents.
 
-For each response, you must:
-1. Carefully analyze all provided sources and context
-2. Structure your response in clear, hierarchical sections:
-   - Executive Summary (2-3 sentences overview)
-   - Detailed Analysis
-     * Main concepts and their relationships
-     * Key insights from the provided context
-     * Technical details when relevant
-   - Practical Applications
-     * Real-world examples
-     * Use cases and implementation scenarios
-   - Additional Considerations
-     * Important caveats or limitations
-     * Best practices and recommendations
-3. Use advanced Markdown formatting to enhance readability:
-   - **Bold** for crucial concepts and key terms
-   - *Italic* for emphasis and nuanced points
-   - Numbered lists for sequential steps or prioritized points
-   - Bullet points for parallel ideas
-   - > Blockquotes for direct citations or important notes
-   - Code blocks for technical content when applicable
-   - ### Headers for major sections
+Instructions spécifiques :
+1. Répondre de manière claire et précise aux questions sur le contenu des documents
+2. Utiliser le contexte fourni pour donner des réponses pertinentes
+3. Maintenir une conversation naturelle et professionnelle
+4. Citer les sources quand c'est pertinent
+5. Demander des clarifications si la question n'est pas claire
+6. Respecter la confidentialité des informations
 
-Ensure your response is:
-- Comprehensive yet focused on the most relevant information
-- Backed by the provided context and sources
-- Logically structured and easy to follow
-- Practical and actionable when applicable`;
+Pour chaque réponse :
+- Fournir des informations précises basées sur les documents
+- Structurer la réponse de manière logique
+- Utiliser des exemples quand c'est pertinent
+- Indiquer clairement si une information n'est pas disponible dans les documents`;
 
     const contextPrompt = `
 ${basePrompt}
