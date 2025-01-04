@@ -123,15 +123,15 @@ export async function findSimilarDocuments(query: string) {
       SELECT 
         dc.content,
         d.title,
-        1 - (dc.embedding <-> '[${queryEmbedding.join(',')}]'::vector(1536)) as similarity,
+        1 - (dc.embedding <-> array[${sql.join(queryEmbedding)}]::vector(1536)) as similarity,
         dc.metadata,
         ROW_NUMBER() OVER (
           PARTITION BY d.id 
-          ORDER BY dc.embedding <-> '[${queryEmbedding.join(',')}]'::vector(1536)
+          ORDER BY dc.embedding <-> array[${sql.join(queryEmbedding)}]::vector(1536)
         ) as chunk_rank
       FROM document_chunks dc
       JOIN documents d ON d.id = dc.document_id
-      WHERE 1 - (dc.embedding <-> '[${queryEmbedding.join(',')}]'::vector(1536)) > 0.1
+      WHERE 1 - (dc.embedding <-> array[${sql.join(queryEmbedding)}]::vector(1536)) > 0.1
     )
     SELECT 
       content,
