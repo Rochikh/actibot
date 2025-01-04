@@ -3,6 +3,7 @@ import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema"
 import { db } from "@db";
 import { sql } from "drizzle-orm";
 
+// Configuration OpenRouter avec gestion de fallback
 const openai = new OpenAI({ 
   apiKey: process.env.OPENROUTER_API_KEY || "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",
   baseURL: "https://openrouter.ai/api/v1",
@@ -11,6 +12,53 @@ const openai = new OpenAI({
     "X-Title": "ActiBot"
   }
 });
+
+// Liste des modèles par ordre de préférence
+const MODELS = {
+  chat: [
+    "anthropic/claude-2",
+    "openai/gpt-4-turbo-preview",
+    "openai/gpt-3.5-turbo",
+    "google/gemini-pro"
+  ],
+  embedding: [
+    "openai/text-embedding-ada-002",
+    "openai/text-embedding-3-small",
+    "google/embedding-001"
+  ]
+};
+
+// Fonction utilitaire pour réessayer avec différents modèles
+async function tryWithFallback<T>(
+  models: string[],
+  operation: (model: string) => Promise<T>,
+  maxRetries = 3
+): Promise<T> {
+  let lastError;
+
+  for (const model of models) {
+    for (let attempt = 0; attempt < maxRetries; attempt++) {
+      try {
+        return await operation(model);
+      } catch (error: any) {
+        lastError = error;
+        console.warn(`Failed with model ${model}, attempt ${attempt + 1}:`, error.message);
+
+        // Si ce n'est pas une erreur 404, ne pas réessayer avec d'autres modèles
+        if (error.status !== 404) {
+          throw error;
+        }
+
+        // Attendre un peu avant de réessayer
+        if (attempt < maxRetries - 1) {
+          await new Promise(resolve => setTimeout(resolve, 1000 * (attempt + 1)));
+        }
+      }
+    }
+  }
+
+  throw lastError || new Error("All models failed");
+}
 
 // Requête SQL optimisée pour la recherche de similarité
 export async function findSimilarDocuments(query: string) {
@@ -23,10 +71,6 @@ export async function findSimilarDocuments(query: string) {
     const queryEmbedding = await generateEmbedding(query);
     console.log('Generated embedding length:', queryEmbedding.length);
 
-    // Enhanced similarity search with context windows
-    console.log('Searching for similar chunks...');
-
-    // Convertir le tableau d'embeddings en chaîne formatée pour PostgreSQL
     const embeddingString = `[${queryEmbedding.join(',')}]`;
 
     const result = await db.execute(sql`
@@ -62,7 +106,7 @@ export async function findSimilarDocuments(query: string) {
     const chunks = result.rows || [];
     console.log(`Found ${chunks.length} relevant chunks with similarity scores:`);
     chunks.forEach((chunk, index) => {
-      console.log(`Chunk ${index + 1}: similarity=${chunk.similarity.toFixed(4)}, document=${chunk.document_title}`);
+      console.log(`Chunk ${index + 1}: similarity=${chunk.similarity?.toFixed(4)}, document=${chunk.document_title}`);
     });
 
     return chunks;
@@ -72,11 +116,15 @@ export async function findSimilarDocuments(query: string) {
   }
 }
 
-// Génération d'embeddings (utilisant le modèle d'embeddings disponible sur OpenRouter)
-export async function generateEmbedding(text: string) {
-  try {
+// Génération d'embeddings avec fallback
+export async function generateEmbedding(text: string): Promise<number[]> {
+  if (!text || typeof text !== 'string') {
+    throw new Error('Invalid input: text must be a non-empty string');
+  }
+
+  return tryWithFallback(MODELS.embedding, async (model) => {
     const response = await openai.embeddings.create({
-      model: "openai/text-embedding-ada-002",
+      model,
       input: text,
     });
 
@@ -85,10 +133,7 @@ export async function generateEmbedding(text: string) {
     }
 
     return response.data[0].embedding;
-  } catch (error) {
-    console.error('Error generating embedding:', error);
-    throw error;
-  }
+  });
 }
 
 // Format du prompt système optimisé
@@ -96,19 +141,16 @@ export async function getChatResponse(
   question: string, 
   context: any[],
   systemPrompt?: string,
-  history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = [],
-  model: string = "anthropic/claude-2" // Default to Claude-2 on OpenRouter
+  history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = []
 ) {
   try {
     console.log('Received context:', JSON.stringify(context, null, 2));
 
-    // Vérifier que le context est un tableau
     if (!Array.isArray(context)) {
       console.error('Context is not an array:', context);
       context = [];
     }
 
-    // Amélioration du formatage du contexte
     const formattedContext = context.map(chunk => {
       if (!chunk || typeof chunk !== 'object') {
         console.error('Invalid chunk in context:', chunk);
@@ -138,30 +180,32 @@ Question : ${question}`;
 
     console.log('Sending to OpenRouter with context length:', formattedContext.length);
 
-    const response = await openai.chat.completions.create({
-      model,
-      messages: [
-        {
-          role: "system",
-          content: systemPrompt || contextPrompt
-        },
-        ...history.slice(-3),
-        {
-          role: "user",
-          content: question
-        }
-      ],
-      temperature: 0.3,
-      max_tokens: 2000,
+    return tryWithFallback(MODELS.chat, async (model) => {
+      const response = await openai.chat.completions.create({
+        model,
+        messages: [
+          {
+            role: "system",
+            content: systemPrompt || contextPrompt
+          },
+          ...history.slice(-3),
+          {
+            role: "user",
+            content: question
+          }
+        ],
+        temperature: 0.3,
+        max_tokens: 2000,
+      });
+
+      if (!response.choices?.[0]?.message?.content) {
+        throw new Error('Invalid response from OpenRouter');
+      }
+
+      const result = response.choices[0].message.content;
+      await verifyResponse(result || "", formattedContext);
+      return result || "Désolé, je n'ai pas pu générer une réponse.";
     });
-
-    if (!response.choices?.[0]?.message?.content) {
-      throw new Error('Invalid response from OpenRouter');
-    }
-
-    const result = response.choices[0].message.content;
-    await verifyResponse(result || "", formattedContext);
-    return result || "Désolé, je n'ai pas pu générer une réponse.";
   } catch (error) {
     console.error('Error in getChatResponse:', error);
     throw error;
@@ -171,7 +215,6 @@ Question : ${question}`;
 // Système de vérification des réponses amélioré
 async function verifyResponse(response: string, context: string) {
   try {
-    // Vérifier si la réponse contient des citations
     const citationCount = (response.match(/"|«|»/g) || []).length / 2;
     const containsContext = context.split('\n').some(line => 
       response.toLowerCase().includes(line.toLowerCase().substring(0, 50))
