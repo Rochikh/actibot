@@ -1,11 +1,16 @@
-import { pgTable, text, serial, timestamp, integer, boolean, jsonb } from "drizzle-orm/pg-core";
 import OpenAI from "openai";
 import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema";
 import { db } from "@db";
 import { sql } from "drizzle-orm";
 
-// the newest OpenAI model is "gpt-4o" which was released May 13, 2024
-const openai = new OpenAI();
+const openai = new OpenAI({ 
+  apiKey: process.env.OPENROUTER_API_KEY || "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",
+  baseURL: "https://openrouter.ai/api/v1",
+  defaultHeaders: {
+    "HTTP-Referer": "http://localhost:5000",
+    "X-Title": "ActiBot"
+  }
+});
 
 // Requête SQL optimisée pour la recherche de similarité
 export async function findSimilarDocuments(query: string) {
@@ -48,10 +53,10 @@ export async function findSimilarDocuments(query: string) {
         chunk_rank
       FROM similarity_chunks
       WHERE 
-        chunk_rank <= 5 AND  -- Augmenté de 3 à 5 chunks par document
-        similarity > 0.05    -- Réduit de 0.1 à 0.05 pour plus de résultats
+        chunk_rank <= 5 AND
+        similarity > 0.05
       ORDER BY similarity DESC
-      LIMIT 50;             -- Augmenté de 30 à 50 pour plus de contexte
+      LIMIT 50;
     `);
 
     const chunks = result.rows || [];
@@ -67,24 +72,32 @@ export async function findSimilarDocuments(query: string) {
   }
 }
 
-// Génération d'embeddings
+// Génération d'embeddings (utilisant le modèle d'embeddings disponible sur OpenRouter)
 export async function generateEmbedding(text: string) {
-  const response = await openai.embeddings.create({
-    model: "text-embedding-3-small",
-    input: text,
-    encoding_format: "float"
-  });
+  try {
+    const response = await openai.embeddings.create({
+      model: "openai/text-embedding-ada-002",
+      input: text,
+    });
 
-  return response.data[0].embedding;
+    if (!response.data?.[0]?.embedding) {
+      throw new Error('Invalid embedding response from OpenRouter');
+    }
+
+    return response.data[0].embedding;
+  } catch (error) {
+    console.error('Error generating embedding:', error);
+    throw error;
+  }
 }
 
-// Format du prompt système optimisé avec un meilleur formatage du contexte
+// Format du prompt système optimisé
 export async function getChatResponse(
   question: string, 
   context: any[],
   systemPrompt?: string,
   history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = [],
-  model: OpenAIModel = "gpt-4o"
+  model: string = "anthropic/claude-2" // Default to Claude-2 on OpenRouter
 ) {
   try {
     console.log('Received context:', JSON.stringify(context, null, 2));
@@ -123,7 +136,7 @@ Instructions :
 
 Question : ${question}`;
 
-    console.log('Sending to OpenAI with context length:', formattedContext.length);
+    console.log('Sending to OpenRouter with context length:', formattedContext.length);
 
     const response = await openai.chat.completions.create({
       model,
@@ -140,9 +153,11 @@ Question : ${question}`;
       ],
       temperature: 0.3,
       max_tokens: 2000,
-      presence_penalty: 0.1,
-      frequency_penalty: 0.2,
     });
+
+    if (!response.choices?.[0]?.message?.content) {
+      throw new Error('Invalid response from OpenRouter');
+    }
 
     const result = response.choices[0].message.content;
     await verifyResponse(result || "", formattedContext);
@@ -154,182 +169,38 @@ Question : ${question}`;
 }
 
 // Système de vérification des réponses amélioré
-const verifyResponse = async (response: string, context: string) => {
-  // Vérifier si la réponse contient des citations
-  const citationCount = (response.match(/"|«|»/g) || []).length / 2;
-  const containsContext = context.split('\n').some(line => 
-    response.toLowerCase().includes(line.toLowerCase().substring(0, 50))
-  );
+async function verifyResponse(response: string, context: string) {
+  try {
+    // Vérifier si la réponse contient des citations
+    const citationCount = (response.match(/"|«|»/g) || []).length / 2;
+    const containsContext = context.split('\n').some(line => 
+      response.toLowerCase().includes(line.toLowerCase().substring(0, 50))
+    );
 
-  console.log('Response verification:', {
-    length: response.length,
-    citationCount,
-    usesContext: containsContext
-  });
-
-  if (!containsContext) {
-    console.warn('Warning: Response may not use provided context');
-  }
-  if (citationCount < 1) {
-    console.warn('Warning: Response contains no citations');
-  }
-
-  return {
-    usesContext: containsContext,
-    citationCount,
-    length: response.length
-  };
-};
-
-// Types et interfaces
-interface ChunkingOptions {
-  minSize: number;
-  maxSize: number;
-  overlap: number;
-  breakOnSentence: boolean;
-}
-
-const defaultOptions: ChunkingOptions = {
-  minSize: 500,
-  maxSize: 1500,
-  overlap: 200,
-  breakOnSentence: true
-};
-
-interface ChunkMetadata {
-  heading?: string;
-  subheading?: string;
-  keywords?: string[];
-  position?: 'start' | 'middle' | 'end';
-}
-
-interface ProcessedChunk {
-  content: string;
-  startOffset: number;
-  endOffset: number;
-  metadata?: ChunkMetadata;
-}
-
-// Système de chunking intelligent
-export function chunkDocument(text: string, options: ChunkingOptions = defaultOptions): ProcessedChunk[] {
-  const { minSize, maxSize, overlap, breakOnSentence } = options;
-
-  // Implémentation du chunking avec respect des phrases
-  const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
-  const chunks: ProcessedChunk[] = [];
-  let currentChunk = '';
-  let chunkStartOffset = 0;
-
-  for (const sentence of sentences) {
-    if (currentChunk.length + sentence.length > maxSize && currentChunk.length >= minSize) {
-      chunks.push({
-        content: currentChunk.trim(),
-        startOffset: chunkStartOffset,
-        endOffset: chunkStartOffset + currentChunk.length,
-        metadata: { 
-          position: chunks.length === 0 ? 'start' : 'middle',
-          keywords: extractKeywords(currentChunk)
-        }
-      });
-      currentChunk = sentence;
-      chunkStartOffset += currentChunk.length;
-    } else {
-      currentChunk += ' ' + sentence;
-    }
-  }
-
-  if (currentChunk) {
-    chunks.push({
-      content: currentChunk.trim(),
-      startOffset: chunkStartOffset,
-      endOffset: chunkStartOffset + currentChunk.length,
-      metadata: { 
-        position: 'end',
-        keywords: extractKeywords(currentChunk)
-      }
+    console.log('Response verification:', {
+      length: response.length,
+      citationCount,
+      usesContext: containsContext
     });
+
+    if (!containsContext) {
+      console.warn('Warning: Response may not use provided context');
+    }
+    if (citationCount < 1) {
+      console.warn('Warning: Response contains no citations');
+    }
+
+    return {
+      usesContext: containsContext,
+      citationCount,
+      length: response.length
+    };
+  } catch (error) {
+    console.error('Error in verifyResponse:', error);
+    return {
+      usesContext: false,
+      citationCount: 0,
+      length: response.length
+    };
   }
-
-  return chunks;
-}
-
-// Fonction d'extraction de mots-clés améliorée
-function extractKeywords(text: string): string[] {
-  const words = text.toLowerCase()
-    .replace(/[^\w\s]/g, '')
-    .split(/\s+/)
-    .filter(word => word.length > 3);
-
-  const wordFreq: Record<string, number> = {};
-  words.forEach(word => {
-    wordFreq[word] = (wordFreq[word] || 0) + 1;
-  });
-
-  return Object.entries(wordFreq)
-    .sort(([,a], [,b]) => b - a)
-    .slice(0, 5)
-    .map(([word]) => word);
-}
-
-
-const MAX_CHUNK_SIZE = 2000; // Augmenté pour gérer de plus gros chunks
-const MAX_TOKENS = 2000; // Increased for more detailed responses
-const MAX_CONTEXT_LENGTH = 15000; // Maximum context length
-const MIN_SIMILARITY_THRESHOLD = 0.1; // Réduit pour trouver plus de correspondances
-
-// Système de métriques de performance
-interface PerformanceMetrics {
-  avgSimilarity: number;
-  citationCount: number;
-  responseTime: number;
-  contextUsage: boolean;
-}
-
-const trackMetrics = async (metrics: PerformanceMetrics) => {
-  console.log('Performance Metrics:', {
-    timestamp: new Date().toISOString(),
-    ...metrics
-  });
-};
-
-function formatContext(chunk: any): string {
-  const metadata = chunk.metadata || {};
-  const parts = [
-    `Document: ${chunk.document_title}`,
-  ];
-
-  if (metadata.heading) {
-    parts.push(`Section: ${metadata.heading}`);
-  }
-
-  if (metadata.position) {
-    parts.push(`Position: ${metadata.position}`);
-  }
-
-  if (metadata.keywords?.length) {
-    parts.push(`Keywords: ${metadata.keywords.join(', ')}`);
-  }
-
-  return parts.join(' | ');
-}
-
-function truncateText(text: string, maxLength: number): string {
-  if (!text || typeof text !== 'string') return '';
-  if (text.length <= maxLength) return text;
-
-  // Estimate tokens (roughly 4 characters per token)
-  const maxTokens = Math.floor(maxLength / 4);
-  const estimatedMaxLength = maxTokens * 4;
-
-  // Try to end at a sentence or paragraph break
-  let truncated = text.slice(0, estimatedMaxLength);
-  const lastPeriod = truncated.lastIndexOf('.');
-  const lastNewline = truncated.lastIndexOf('\n');
-  const breakPoint = Math.max(lastPeriod, lastNewline);
-
-  if (breakPoint > estimatedMaxLength * 0.8) {
-    return truncated.slice(0, breakPoint + 1);
-  }
-
-  return truncated + "...";
 }
