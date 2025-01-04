@@ -28,7 +28,6 @@ export const documentChunks = pgTable("document_chunks", {
   chunkIndex: integer("chunk_index").notNull(),
   startOffset: integer("start_offset").notNull(),
   endOffset: integer("end_offset").notNull(),
-  title: text("title"),
   metadata: jsonb("metadata"),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
