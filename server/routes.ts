@@ -8,13 +8,45 @@ import { eq } from "drizzle-orm";
 import { crypto } from "./auth";
 import type { Request } from "express";
 import { setupAuth } from "./auth";
+import { Buffer } from "buffer";
+import iconv from "iconv-lite";
 
 interface AuthenticatedRequest extends Request {
   user?: User;
-  isAuthenticated(): boolean;
+  isAuthenticated(): this is AuthenticatedRequest;
 }
 
 const upload = multer();
+
+function detectAndDecodeText(buffer: Buffer): string {
+  // First try UTF-8
+  try {
+    const utf8Text = buffer.toString('utf-8');
+    // Verify it's valid UTF-8
+    if (Buffer.from(utf8Text).toString('utf-8') === utf8Text) {
+      console.log('File detected as UTF-8');
+      return utf8Text;
+    }
+  } catch (e) {
+    console.log('Not valid UTF-8, trying other encodings');
+  }
+
+  // Try other common encodings
+  const encodings = ['utf-16le', 'utf-16be', 'iso-8859-1', 'windows-1252'];
+  for (const encoding of encodings) {
+    try {
+      const decodedText = iconv.decode(buffer, encoding);
+      console.log(`File decoded using ${encoding}`);
+      return decodedText;
+    } catch (e) {
+      console.log(`Failed to decode with ${encoding}`);
+    }
+  }
+
+  // If all else fails, try to clean the buffer of null bytes and decode as UTF-8
+  const cleanBuffer = Buffer.from(buffer.filter(byte => byte !== 0x00));
+  return cleanBuffer.toString('utf-8');
+}
 
 export function registerRoutes(app: Express): Server {
   // Set up authentication routes and middleware
@@ -41,10 +73,19 @@ export function registerRoutes(app: Express): Server {
     try {
       const file = req.file;
       if (!file) {
-        return res.status(400).send("No file uploaded");
+        return res.status(400).send("Aucun fichier n'a été téléchargé");
       }
 
-      const content = file.buffer.toString("utf-8");
+      console.log(`Processing uploaded file: ${file.originalname}, size: ${file.size} bytes`);
+
+      // Detect and decode the file content
+      const content = detectAndDecodeText(file.buffer);
+
+      if (!content.trim()) {
+        return res.status(400).send("Le fichier est vide ou ne contient pas de texte valide");
+      }
+
+      console.log(`Successfully decoded file content, length: ${content.length} characters`);
 
       // Create the document first
       const [document] = await db.insert(documents).values({
@@ -53,12 +94,16 @@ export function registerRoutes(app: Express): Server {
         uploadedBy: req.user!.id
       }).returning();
 
+      console.log(`Created document with ID: ${document.id}`);
+
       // Process the document in chunks
       const chunks = chunkDocument(content);
+      console.log(`Split document into ${chunks.length} chunks`);
 
       // Generate embeddings and save chunks
       for (const chunk of chunks) {
         try {
+          console.log(`Processing chunk of length: ${chunk.content.length}`);
           const embedding = await generateEmbedding(chunk.content);
 
           await db.insert(documentChunks).values({
