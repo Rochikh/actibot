@@ -20,16 +20,20 @@ export async function findSimilarDocuments(query: string) {
 
     // Enhanced similarity search with context windows
     console.log('Searching for similar chunks...');
+
+    // Convertir le tableau d'embeddings en chaîne formatée pour PostgreSQL
+    const embeddingString = `[${queryEmbedding.join(',')}]`;
+
     const result = await db.execute(sql`
-      WITH similarity_search AS (
+      WITH similarity_chunks AS (
         SELECT 
           dc.content,
           d.title as document_title,
-          1 - (dc.embedding <=> ${sql`[${queryEmbedding.join(',')}]::vector`}) as similarity,
+          1 - cosine_distance(dc.embedding, (SELECT ${embeddingString}::vector(1536))) as similarity,
           dc.metadata,
           ROW_NUMBER() OVER (
             PARTITION BY d.id 
-            ORDER BY dc.embedding <=> ${sql`[${queryEmbedding.join(',')}]::vector`}
+            ORDER BY cosine_distance(dc.embedding, (SELECT ${embeddingString}::vector(1536))) ASC
           ) as chunk_rank
         FROM document_chunks dc
         JOIN documents d ON d.id = dc.document_id
@@ -40,7 +44,7 @@ export async function findSimilarDocuments(query: string) {
         similarity::float4,
         metadata,
         chunk_rank
-      FROM similarity_search
+      FROM similarity_chunks
       WHERE 
         chunk_rank <= 3 AND
         similarity > 0.1
@@ -49,17 +53,7 @@ export async function findSimilarDocuments(query: string) {
     `);
 
     const chunks = result.rows || [];
-
-    // Debug logging
     console.log(`Found ${chunks.length} relevant chunks`);
-    chunks.forEach((chunk, index) => {
-      console.log(`
-        Chunk ${index + 1}:
-        - Similarity: ${chunk.similarity?.toFixed(4) || 'N/A'}
-        - Title: ${chunk.document_title || 'Untitled'}
-        - Preview: ${chunk.content?.substring(0, 100)}...
-      `);
-    });
 
     return chunks;
   } catch (error) {
