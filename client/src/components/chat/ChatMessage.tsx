@@ -14,49 +14,19 @@ interface ChatMessageProps {
 }
 
 export default function ChatMessage({ message, response, timestamp, isLoading }: ChatMessageProps) {
-  // Fonction pour formater le texte avec des listes numérotées et du Markdown
-  const formatResponse = (text: string) => {
-    return text.split('\n').map((line, index) => {
-      // Si la ligne est vide, on ajoute un espace
-      if (!line.trim()) {
-        return <div key={index} className="h-2" />;
-      }
-
-      // Si la ligne commence par un numéro et un point, on la formate comme un élément de liste
-      const listItemMatch = line.match(/^(\d+)\.\s(.+)/);
-      if (listItemMatch) {
-        return (
-          <div key={index} className="flex gap-2 my-1">
-            <span className="font-medium text-primary">{listItemMatch[1]}.</span>
-            <ReactMarkdown 
-              remarkPlugins={[remarkGfm]}
-              className="prose prose-sm dark:prose-invert flex-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0 prose-headings:text-primary prose-strong:text-primary prose-strong:font-bold prose-em:text-primary/80 prose-em:italic"
-              components={{
-                strong: ({ children }) => <span className="font-bold text-primary">{children}</span>,
-                em: ({ children }) => <span className="italic text-primary/80">{children}</span>,
-              }}
-            >
-              {listItemMatch[2]}
-            </ReactMarkdown>
-          </div>
-        );
-      }
-
-      // Sinon, on affiche la ligne avec le formatage Markdown
-      return (
-        <ReactMarkdown 
-          key={index}
-          remarkPlugins={[remarkGfm]}
-          className="prose prose-sm dark:prose-invert my-1 [&>*:first-child]:mt-0 [&>*:last-child]:mb-0 prose-headings:text-primary prose-strong:text-primary prose-strong:font-bold prose-em:text-primary/80 prose-em:italic"
-          components={{
-            strong: ({ children }) => <span className="font-bold text-primary">{children}</span>,
-            em: ({ children }) => <span className="italic text-primary/80">{children}</span>,
-          }}
-        >
-          {line}
-        </ReactMarkdown>
-      );
-    });
+  // Fonction pour nettoyer le HTML et convertir en Markdown
+  const cleanResponse = (text: string) => {
+    return text
+      .replace(/<\/?p>/g, '\n\n') // Remplacer les balises <p> par des sauts de ligne
+      .replace(/<\/?strong>/g, '**') // Convertir <strong> en markdown
+      .replace(/<\/?em>/g, '*') // Convertir <em> en markdown
+      .replace(/<\/?br\/?>/g, '\n') // Convertir <br> en saut de ligne
+      .replace(/&quot;/g, '"') // Convertir les entités HTML
+      .replace(/&apos;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&')
+      .trim();
   };
 
   return (
@@ -81,13 +51,28 @@ export default function ChatMessage({ message, response, timestamp, isLoading }:
         </Avatar>
         <Card className="flex-1 p-4 bg-primary/5">
           {isLoading ? (
-            <div className="flex items-center gap-2 text-sm text-muted-foreground">
-              <Loader2 className="h-4 w-4 animate-spin" />
-              <span>L'assistant réfléchit...</span>
+            <div className="flex flex-col items-center gap-4 py-4">
+              <Loader2 className="h-8 w-8 animate-spin text-primary" />
+              <p className="text-sm text-muted-foreground animate-pulse">
+                L'assistant réfléchit...
+              </p>
             </div>
           ) : (
-            <div className="text-sm text-foreground space-y-2">
-              {formatResponse(response)}
+            <div className="text-sm text-foreground prose prose-sm dark:prose-invert max-w-none">
+              <ReactMarkdown 
+                remarkPlugins={[remarkGfm]}
+                className="[&>*:first-child]:mt-0 [&>*:last-child]:mb-0"
+                components={{
+                  p: ({ children }) => <p className="mb-4 last:mb-0">{children}</p>,
+                  strong: ({ children }) => <strong className="font-bold text-primary">{children}</strong>,
+                  em: ({ children }) => <em className="italic text-primary/80">{children}</em>,
+                  ul: ({ children }) => <ul className="list-disc pl-4 mb-4 space-y-2">{children}</ul>,
+                  ol: ({ children }) => <ol className="list-decimal pl-4 mb-4 space-y-2">{children}</ol>,
+                  li: ({ children }) => <li className="pl-2">{children}</li>,
+                }}
+              >
+                {cleanResponse(response)}
+              </ReactMarkdown>
             </div>
           )}
         </Card>
