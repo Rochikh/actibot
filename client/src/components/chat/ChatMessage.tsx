@@ -17,15 +17,32 @@ export default function ChatMessage({ message, response, timestamp, isLoading }:
   // Fonction pour nettoyer le HTML et convertir en Markdown
   const cleanResponse = (text: string) => {
     return text
-      .replace(/<\/?p>/g, '\n\n') // Remplacer les balises <p> par des sauts de ligne
-      .replace(/<\/?strong>/g, '**') // Convertir <strong> en markdown
-      .replace(/<\/?em>/g, '*') // Convertir <em> en markdown
-      .replace(/<\/?br\/?>/g, '\n') // Convertir <br> en saut de ligne
-      .replace(/&quot;/g, '"') // Convertir les entités HTML
+      // Supprimer les balises html et body
+      .replace(/<\/?html>/g, '')
+      .replace(/<\/?body>/g, '')
+      // Convertir les listes ordonnées
+      .replace(/<ol>/g, '\n')
+      .replace(/<\/ol>/g, '\n')
+      .replace(/<li>/g, '1. ') // Convertir tous les <li> en liste numérotée
+      .replace(/<\/li>/g, '\n')
+      // Convertir les paragraphes et sauts de ligne
+      .replace(/<\/?p>/g, '\n\n')
+      .replace(/<\/?br\/?>/g, '\n')
+      // Convertir le formatage de texte
+      .replace(/<\/?strong>/g, '**')
+      .replace(/<\/?em>/g, '*')
+      .replace(/<\/?i>/g, '*')
+      .replace(/<\/?b>/g, '**')
+      // Convertir les liens
+      .replace(/<a href="([^"]+)"[^>]*>([^<]+)<\/a>/g, '[$2]($1)')
+      // Convertir les entités HTML
+      .replace(/&quot;/g, '"')
       .replace(/&apos;/g, "'")
       .replace(/&lt;/g, '<')
       .replace(/&gt;/g, '>')
       .replace(/&amp;/g, '&')
+      // Nettoyer les espaces multiples et les sauts de ligne
+      .replace(/\n\s*\n\s*\n/g, '\n\n')
       .trim();
   };
 
@@ -69,6 +86,16 @@ export default function ChatMessage({ message, response, timestamp, isLoading }:
                   ul: ({ children }) => <ul className="list-disc pl-4 mb-4 space-y-2">{children}</ul>,
                   ol: ({ children }) => <ol className="list-decimal pl-4 mb-4 space-y-2">{children}</ol>,
                   li: ({ children }) => <li className="pl-2">{children}</li>,
+                  a: ({ children, href }) => (
+                    <a 
+                      href={href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-primary underline hover:text-primary/80"
+                    >
+                      {children}
+                    </a>
+                  ),
                 }}
               >
                 {cleanResponse(response)}
