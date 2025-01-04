@@ -62,6 +62,14 @@ export default function ChatPage() {
               isLoading={isLoading && index === messages.length - 1}
             />
           ))}
+          {isLoading && messages.length === 0 && (
+            <ChatMessage
+              message=""
+              response=""
+              timestamp={new Date()}
+              isLoading={true}
+            />
+          )}
         </ScrollArea>
         <div className="p-4 border-t">
           <ChatInput onSend={sendMessage} disabled={isLoading} />

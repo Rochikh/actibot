@@ -49,17 +49,19 @@ export default function ChatMessage({ message, response, timestamp, isLoading }:
   return (
     <div className="space-y-4 mb-6">
       {/* Message de l'utilisateur */}
-      <div className="flex gap-3">
-        <Avatar className="h-8 w-8 bg-secondary">
-          <User className="h-5 w-5" />
-        </Avatar>
-        <Card className="flex-1 p-4 bg-card">
-          <p className="text-sm text-card-foreground">{message}</p>
-          <time className="text-xs text-muted-foreground mt-2 block">
-            {format(new Date(timestamp), "HH:mm")}
-          </time>
-        </Card>
-      </div>
+      {message && (
+        <div className="flex gap-3">
+          <Avatar className="h-8 w-8 bg-secondary">
+            <User className="h-5 w-5" />
+          </Avatar>
+          <Card className="flex-1 p-4 bg-card">
+            <p className="text-sm text-card-foreground">{message}</p>
+            <time className="text-xs text-muted-foreground mt-2 block">
+              {format(new Date(timestamp), "HH:mm")}
+            </time>
+          </Card>
+        </div>
+      )}
 
       {/* Réponse du bot */}
       <div className="flex gap-3">
