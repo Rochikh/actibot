@@ -86,20 +86,34 @@ export async function getChatResponse(
   history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = [],
   model: OpenAIModel = "gpt-4o"
 ) {
-  // Amélioration du formatage du contexte
-  const formattedContext = context.map(chunk => {
-    return `
-Document: ${chunk.document_title}
+  try {
+    console.log('Received context:', JSON.stringify(context, null, 2));
+
+    // Vérifier que le context est un tableau
+    if (!Array.isArray(context)) {
+      console.error('Context is not an array:', context);
+      context = [];
+    }
+
+    // Amélioration du formatage du contexte
+    const formattedContext = context.map(chunk => {
+      if (!chunk || typeof chunk !== 'object') {
+        console.error('Invalid chunk in context:', chunk);
+        return '';
+      }
+
+      return `
+Document: ${chunk.document_title || 'Unknown Document'}
 Pertinence: ${(chunk.similarity * 100).toFixed(1)}%
 Contenu:
-${chunk.content.trim()}
+${chunk.content?.trim() || 'No content available'}
 ---`;
-  }).join('\n\n');
+    }).filter(Boolean).join('\n\n');
 
-  const contextPrompt = `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
+    const contextPrompt = `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
 
 Contexte trouvé (classé par pertinence) :
-${formattedContext}
+${formattedContext || "Aucun contexte pertinent trouvé."}
 
 Instructions :
 1. Base tes réponses UNIQUEMENT sur le contexte ci-dessus
@@ -109,30 +123,34 @@ Instructions :
 
 Question : ${question}`;
 
-  console.log('Sending to OpenAI with context length:', formattedContext.length);
+    console.log('Sending to OpenAI with context length:', formattedContext.length);
 
-  const response = await openai.chat.completions.create({
-    model,
-    messages: [
-      {
-        role: "system",
-        content: systemPrompt || contextPrompt
-      },
-      ...history.slice(-3),
-      {
-        role: "user",
-        content: question
-      }
-    ],
-    temperature: 0.3,
-    max_tokens: 2000,
-    presence_penalty: 0.1,
-    frequency_penalty: 0.2,
-  });
+    const response = await openai.chat.completions.create({
+      model,
+      messages: [
+        {
+          role: "system",
+          content: systemPrompt || contextPrompt
+        },
+        ...history.slice(-3),
+        {
+          role: "user",
+          content: question
+        }
+      ],
+      temperature: 0.3,
+      max_tokens: 2000,
+      presence_penalty: 0.1,
+      frequency_penalty: 0.2,
+    });
 
-  const result = response.choices[0].message.content;
-  await verifyResponse(result || "", formattedContext);
-  return result || "Désolé, je n'ai pas pu générer une réponse.";
+    const result = response.choices[0].message.content;
+    await verifyResponse(result || "", formattedContext);
+    return result || "Désolé, je n'ai pas pu générer une réponse.";
+  } catch (error) {
+    console.error('Error in getChatResponse:', error);
+    throw error;
+  }
 }
 
 // Système de vérification des réponses amélioré
