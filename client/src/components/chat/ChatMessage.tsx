@@ -71,7 +71,7 @@ export default function ChatMessage({ message, response, timestamp, isLoading }:
             <div className="flex flex-col items-center gap-4 py-4">
               <Loader2 className="h-8 w-8 animate-spin text-primary" />
               <p className="text-sm text-muted-foreground animate-pulse">
-                L'assistant réfléchit...
+                Quelques secondes et Actibot va te répondre 🙂
               </p>
             </div>
           ) : (
