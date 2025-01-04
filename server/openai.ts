@@ -174,7 +174,7 @@ Question : ${question}`;
       try {
         console.log('Attempting chat completion');
         const response = await openai.chat.completions.create({
-          model: "gpt-4o",
+          model: "gpt-4o-mini",
           messages: [
             {
               role: "system",
