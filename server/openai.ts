@@ -31,6 +31,7 @@ export async function findSimilarDocuments(query: string) {
           d.title as document_title,
           1 - cosine_distance(dc.embedding, (SELECT ${embeddingString}::vector(1536))) as similarity,
           dc.metadata,
+          d.id as document_id,
           ROW_NUMBER() OVER (
             PARTITION BY d.id 
             ORDER BY cosine_distance(dc.embedding, (SELECT ${embeddingString}::vector(1536))) ASC
@@ -41,19 +42,23 @@ export async function findSimilarDocuments(query: string) {
       SELECT 
         content,
         document_title,
+        document_id,
         similarity::float4,
         metadata,
         chunk_rank
       FROM similarity_chunks
       WHERE 
-        chunk_rank <= 3 AND
-        similarity > 0.1
+        chunk_rank <= 5 AND  -- Augmenté de 3 à 5 chunks par document
+        similarity > 0.05    -- Réduit de 0.1 à 0.05 pour plus de résultats
       ORDER BY similarity DESC
-      LIMIT 30;
+      LIMIT 50;             -- Augmenté de 30 à 50 pour plus de contexte
     `);
 
     const chunks = result.rows || [];
-    console.log(`Found ${chunks.length} relevant chunks`);
+    console.log(`Found ${chunks.length} relevant chunks with similarity scores:`);
+    chunks.forEach((chunk, index) => {
+      console.log(`Chunk ${index + 1}: similarity=${chunk.similarity.toFixed(4)}, document=${chunk.document_title}`);
+    });
 
     return chunks;
   } catch (error) {
@@ -71,6 +76,120 @@ export async function generateEmbedding(text: string) {
   });
 
   return response.data[0].embedding;
+}
+
+// Format du prompt système optimisé avec un meilleur formatage du contexte
+export async function getChatResponse(
+  question: string, 
+  context: any[],
+  systemPrompt?: string,
+  history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = [],
+  model: OpenAIModel = "gpt-4o"
+) {
+  // Amélioration du formatage du contexte
+  const formattedContext = context.map(chunk => {
+    return `
+Document: ${chunk.document_title}
+Pertinence: ${(chunk.similarity * 100).toFixed(1)}%
+Contenu:
+${chunk.content.trim()}
+---`;
+  }).join('\n\n');
+
+  const contextPrompt = `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
+
+Contexte trouvé (classé par pertinence) :
+${formattedContext}
+
+Instructions :
+1. Base tes réponses UNIQUEMENT sur le contexte ci-dessus
+2. Cite DIRECTEMENT des passages pertinents du contexte entre guillemets "..."
+3. Si l'information n'est pas dans le contexte, dis clairement "Cette information n'est pas présente dans le contexte fourni"
+4. Structure ta réponse avec des paragraphes clairs
+
+Question : ${question}`;
+
+  console.log('Sending to OpenAI with context length:', formattedContext.length);
+
+  const response = await openai.chat.completions.create({
+    model,
+    messages: [
+      {
+        role: "system",
+        content: systemPrompt || contextPrompt
+      },
+      ...history.slice(-3),
+      {
+        role: "user",
+        content: question
+      }
+    ],
+    temperature: 0.3,
+    max_tokens: 2000,
+    presence_penalty: 0.1,
+    frequency_penalty: 0.2,
+  });
+
+  const result = response.choices[0].message.content;
+  await verifyResponse(result || "", formattedContext);
+  return result || "Désolé, je n'ai pas pu générer une réponse.";
+}
+
+// Système de vérification des réponses amélioré
+const verifyResponse = async (response: string, context: string) => {
+  // Vérifier si la réponse contient des citations
+  const citationCount = (response.match(/"|«|»/g) || []).length / 2;
+  const containsContext = context.split('\n').some(line => 
+    response.toLowerCase().includes(line.toLowerCase().substring(0, 50))
+  );
+
+  console.log('Response verification:', {
+    length: response.length,
+    citationCount,
+    usesContext: containsContext
+  });
+
+  if (!containsContext) {
+    console.warn('Warning: Response may not use provided context');
+  }
+  if (citationCount < 1) {
+    console.warn('Warning: Response contains no citations');
+  }
+
+  return {
+    usesContext: containsContext,
+    citationCount,
+    length: response.length
+  };
+};
+
+// Types et interfaces
+interface ChunkingOptions {
+  minSize: number;
+  maxSize: number;
+  overlap: number;
+  breakOnSentence: boolean;
+}
+
+const defaultOptions: ChunkingOptions = {
+  minSize: 500,
+  maxSize: 1500,
+  overlap: 200,
+  breakOnSentence: true
+};
+
+interface ChunkMetadata {
+  heading?: string;
+  subheading?: string;
+  keywords?: string[];
+  position?: 'start' | 'middle' | 'end';
+}
+
+interface ProcessedChunk {
+  content: string;
+  startOffset: number;
+  endOffset: number;
+  metadata?: ChunkMetadata;
 }
 
 // Système de chunking intelligent
@@ -135,96 +254,6 @@ function extractKeywords(text: string): string[] {
 }
 
 
-// Format du prompt système optimisé
-export async function getChatResponse(
-  question: string, 
-  context: string,
-  systemPrompt?: string,
-  history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = [],
-  model: OpenAIModel = "gpt-4o"
-) {
-  const contextPrompt = `Tu es un assistant spécialisé intégré à ActiBot. Tu as accès à une base de connaissances de documents.
-
-Contexte fourni :
-${context}
-
-Instructions :
-- Base tes réponses UNIQUEMENT sur le contexte ci-dessus
-- Inclus systématiquement des citations directes du texte entre guillemets
-- Si une information n'est pas dans le contexte, réponds clairement "Cette information n'est pas présente dans le contexte fourni"
-- Structure ta réponse avec des paragraphes clairs
-
-Question : ${question}`;
-
-  const response = await openai.chat.completions.create({
-    model,
-    messages: [
-      {
-        role: "system",
-        content: systemPrompt || contextPrompt
-      },
-      ...history.slice(-3),
-      {
-        role: "user",
-        content: question
-      }
-    ],
-    temperature: 0.3,
-    max_tokens: 2000,
-    presence_penalty: 0.1,
-    frequency_penalty: 0.2,
-    top_p: 0.9,
-  });
-
-  const result = response.choices[0].message.content;
-  await verifyResponse(result || "", context ? [context] : []);
-  return result || "Désolé, je n'ai pas pu générer une réponse.";
-}
-
-// Système de vérification des réponses
-const verifyResponse = async (response: string, context: string[]) => {
-  const contextElements = context.map(c => c.substring(0, 50));
-  const containsContext = contextElements.some(e => 
-    response.toLowerCase().includes(e.toLowerCase())
-  );
-
-  if (!containsContext) {
-    console.warn('Warning: Response may not use provided context');
-  }
-
-  const citationCount = (response.match(/"|«|»/g) || []).length / 2;
-  if (citationCount < 1) {
-    console.warn('Warning: Response contains no citations');
-  }
-
-  return {
-    usesContext: containsContext,
-    citationCount,
-    length: response.length
-  };
-};
-
-function truncateText(text: string, maxLength: number): string {
-  if (!text || typeof text !== 'string') return '';
-  if (text.length <= maxLength) return text;
-
-  // Estimate tokens (roughly 4 characters per token)
-  const maxTokens = Math.floor(maxLength / 4);
-  const estimatedMaxLength = maxTokens * 4;
-
-  // Try to end at a sentence or paragraph break
-  let truncated = text.slice(0, estimatedMaxLength);
-  const lastPeriod = truncated.lastIndexOf('.');
-  const lastNewline = truncated.lastIndexOf('\n');
-  const breakPoint = Math.max(lastPeriod, lastNewline);
-
-  if (breakPoint > estimatedMaxLength * 0.8) {
-    return truncated.slice(0, breakPoint + 1);
-  }
-
-  return truncated + "...";
-}
-
 const MAX_CHUNK_SIZE = 2000; // Augmenté pour gérer de plus gros chunks
 const MAX_TOKENS = 2000; // Increased for more detailed responses
 const MAX_CONTEXT_LENGTH = 15000; // Maximum context length
@@ -266,30 +295,23 @@ function formatContext(chunk: any): string {
   return parts.join(' | ');
 }
 
-interface ChunkingOptions {
-  minSize: number;
-  maxSize: number;
-  overlap: number;
-  breakOnSentence: boolean;
-}
+function truncateText(text: string, maxLength: number): string {
+  if (!text || typeof text !== 'string') return '';
+  if (text.length <= maxLength) return text;
 
-const defaultOptions: ChunkingOptions = {
-  minSize: 500,
-  maxSize: 1500,
-  overlap: 200,
-  breakOnSentence: true
-};
+  // Estimate tokens (roughly 4 characters per token)
+  const maxTokens = Math.floor(maxLength / 4);
+  const estimatedMaxLength = maxTokens * 4;
 
-interface ChunkMetadata {
-  heading?: string;
-  subheading?: string;
-  keywords?: string[];
-  position?: 'start' | 'middle' | 'end';
-}
+  // Try to end at a sentence or paragraph break
+  let truncated = text.slice(0, estimatedMaxLength);
+  const lastPeriod = truncated.lastIndexOf('.');
+  const lastNewline = truncated.lastIndexOf('\n');
+  const breakPoint = Math.max(lastPeriod, lastNewline);
 
-interface ProcessedChunk {
-  content: string;
-  startOffset: number;
-  endOffset: number;
-  metadata?: ChunkMetadata;
+  if (breakPoint > estimatedMaxLength * 0.8) {
+    return truncated.slice(0, breakPoint + 1);
+  }
+
+  return truncated + "...";
 }
