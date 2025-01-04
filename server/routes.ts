@@ -18,34 +18,36 @@ interface AuthenticatedRequest extends Request {
 
 const upload = multer();
 
-function detectAndDecodeText(buffer: Buffer): string {
-  // First try UTF-8
-  try {
-    const utf8Text = buffer.toString('utf-8');
-    // Verify it's valid UTF-8
-    if (Buffer.from(utf8Text).toString('utf-8') === utf8Text) {
-      console.log('File detected as UTF-8');
-      return utf8Text;
-    }
-  } catch (e) {
-    console.log('Not valid UTF-8, trying other encodings');
-  }
+function cleanContent(content: string): string {
+  // Remove null bytes and invalid characters
+  return content
+    .replace(/\0/g, '') // Remove null bytes
+    .replace(/[^\x20-\x7E\x0A\x0D\u00A0-\uFFFF]/g, '') // Keep only printable characters
+    .replace(/\r\n/g, '\n') // Normalize line endings
+    .trim();
+}
 
-  // Try other common encodings
-  const encodings = ['utf-16le', 'utf-16be', 'iso-8859-1', 'windows-1252'];
+function detectAndDecodeText(buffer: Buffer): string {
+  // Remove null bytes from the buffer first
+  const cleanBuffer = Buffer.from(buffer.filter(byte => byte !== 0x00));
+
+  // Try common encodings
+  const encodings = ['utf-8', 'utf-16le', 'utf-16be', 'iso-8859-1', 'windows-1252'];
+
   for (const encoding of encodings) {
     try {
-      const decodedText = iconv.decode(buffer, encoding);
-      console.log(`File decoded using ${encoding}`);
-      return decodedText;
+      const decodedText = iconv.decode(cleanBuffer, encoding);
+      if (decodedText && decodedText.length > 0) {
+        console.log(`Successfully decoded using ${encoding}`);
+        return cleanContent(decodedText);
+      }
     } catch (e) {
       console.log(`Failed to decode with ${encoding}`);
     }
   }
 
-  // If all else fails, try to clean the buffer of null bytes and decode as UTF-8
-  const cleanBuffer = Buffer.from(buffer.filter(byte => byte !== 0x00));
-  return cleanBuffer.toString('utf-8');
+  // If all else fails, try a more aggressive cleaning approach
+  return cleanContent(cleanBuffer.toString());
 }
 
 export function registerRoutes(app: Express): Server {
@@ -78,53 +80,53 @@ export function registerRoutes(app: Express): Server {
 
       console.log(`Processing uploaded file: ${file.originalname}, size: ${file.size} bytes`);
 
-      // Detect and decode the file content
+      // Detect and decode the file content with improved cleaning
       const content = detectAndDecodeText(file.buffer);
 
-      if (!content.trim()) {
+      if (!content || content.trim().length === 0) {
         return res.status(400).send("Le fichier est vide ou ne contient pas de texte valide");
       }
 
       console.log(`Successfully decoded file content, length: ${content.length} characters`);
 
-      // Create the document first
+      // Create smaller chunks first and verify they can be saved
+      const chunks = chunkDocument(content);
+      console.log(`Split document into ${chunks.length} chunks`);
+
+      // Create the document
       const [document] = await db.insert(documents).values({
         title: file.originalname,
-        content: content,
+        content: content.slice(0, 1000000), // Limit content size if needed
         uploadedBy: req.user!.id
       }).returning();
 
       console.log(`Created document with ID: ${document.id}`);
 
-      // Process the document in chunks
-      const chunks = chunkDocument(content);
-      console.log(`Split document into ${chunks.length} chunks`);
-
-      // Generate embeddings and save chunks
-      for (const chunk of chunks) {
+      // Process chunks in sequence to avoid overloading
+      for (const [index, chunk] of chunks.entries()) {
         try {
-          console.log(`Processing chunk of length: ${chunk.content.length}`);
+          console.log(`Processing chunk ${index + 1}/${chunks.length}, length: ${chunk.content.length}`);
           const embedding = await generateEmbedding(chunk.content);
 
           await db.insert(documentChunks).values({
             documentId: document.id,
             content: chunk.content,
             embedding,
-            chunkIndex: chunks.indexOf(chunk),
+            chunkIndex: index,
             startOffset: chunk.startOffset,
             endOffset: chunk.endOffset,
             metadata: chunk.metadata
           });
         } catch (error) {
-          console.error("Error processing chunk:", error);
-          // Continue processing other chunks even if one fails
+          console.error(`Error processing chunk ${index}:`, error);
+          // Continue with other chunks even if one fails
         }
       }
 
       res.json(document);
     } catch (error: any) {
       console.error("Document upload error:", error);
-      res.status(500).send(error.message);
+      res.status(500).send(error.message || "Une erreur est survenue lors du traitement du document");
     }
   });
 
@@ -157,7 +159,6 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
-  // System Prompts routes (protected by auth and admin)
   app.post("/api/system-prompts", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
     try {
       const { name, content, model } = req.body;
@@ -229,7 +230,6 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
-  // Modified Chat routes to include system prompt and history
   app.post("/api/chat", requireAuth, async (req: AuthenticatedRequest, res) => {
     try {
       const { message, history } = req.body;
