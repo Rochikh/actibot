@@ -9,7 +9,7 @@ const openai = new OpenAI();
 const MAX_CHUNK_SIZE = 1500; // Optimized chunk size
 const MAX_TOKENS = 2000; // Increased for more detailed responses
 const MAX_CONTEXT_LENGTH = 15000; // Maximum context length
-const MIN_SIMILARITY_THRESHOLD = 0.65; // Similarity threshold
+const MIN_SIMILARITY_THRESHOLD = 0.3; // Reduced similarity threshold to find more matches
 
 interface ChunkMetadata {
   heading?: string;
