@@ -1,3 +1,4 @@
+import { pgTable, text, serial, timestamp, integer, boolean, jsonb } from "drizzle-orm/pg-core";
 import OpenAI from "openai";
 import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema";
 import { db } from "@db";
@@ -6,10 +7,19 @@ import { sql } from "drizzle-orm";
 // the newest OpenAI model is "gpt-4o" which was released May 13, 2024
 const openai = new OpenAI();
 
-const MAX_CHUNK_SIZE = 2000; // Augmenté pour gérer de plus gros chunks
-const MAX_TOKENS = 2000; // Increased for more detailed responses
-const MAX_CONTEXT_LENGTH = 15000; // Maximum context length
-const MIN_SIMILARITY_THRESHOLD = 0.1; // Réduit pour trouver plus de correspondances
+interface ChunkingOptions {
+  minSize: number;
+  maxSize: number;
+  overlap: number;
+  breakOnSentence: boolean;
+}
+
+const defaultOptions: ChunkingOptions = {
+  minSize: 500,
+  maxSize: 1500,
+  overlap: 200,
+  breakOnSentence: true
+};
 
 interface ChunkMetadata {
   heading?: string;
@@ -25,78 +35,51 @@ interface ProcessedChunk {
   metadata?: ChunkMetadata;
 }
 
-export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): ProcessedChunk[] {
+// Système de chunking intelligent
+export function chunkDocument(text: string, options: ChunkingOptions = defaultOptions): ProcessedChunk[] {
+  const { minSize, maxSize, overlap, breakOnSentence } = options;
+
+  // Implémentation du chunking avec respect des phrases
+  const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
   const chunks: ProcessedChunk[] = [];
-  let startOffset = 0;
-
-  // Ensure content is a string and not empty
-  if (!content || typeof content !== 'string') {
-    console.error('Invalid content provided to chunkDocument');
-    return [];
-  }
-
-  console.log(`Processing document with length: ${content.length}`);
-
-  // Split content into paragraphs with overlap
-  const paragraphs = content.split(/\n\n+/);
-  console.log(`Number of paragraphs: ${paragraphs.length}`);
-
   let currentChunk = '';
-  let chunkStartOffset = startOffset;
-  let chunkPosition = 'start';
+  let chunkStartOffset = 0;
 
-  for (let i = 0; i < paragraphs.length; i++) {
-    const paragraph = paragraphs[i].trim();
-    if (!paragraph) continue;
-
-    // Détermine la position du chunk dans le document
-    if (i === 0) chunkPosition = 'start';
-    else if (i === paragraphs.length - 1) chunkPosition = 'end';
-    else chunkPosition = 'middle';
-
-    const metadata: ChunkMetadata = {
-      position: chunkPosition as 'start' | 'middle' | 'end',
-      keywords: extractKeywords(paragraph)
-    };
-
-    // Add overlap by including previous paragraph if available
-    let chunkContent = currentChunk;
-    if (i > 0) {
-      chunkContent = paragraphs[i - 1].trim() + "\n\n" + paragraph;
-    }
-
-    if (chunkContent.length > chunkSize && currentChunk) {
-      console.log(`Creating chunk at offset ${chunkStartOffset}, length: ${currentChunk.length}`);
+  for (const sentence of sentences) {
+    if (currentChunk.length + sentence.length > maxSize && currentChunk.length >= minSize) {
       chunks.push({
-        content: currentChunk,
+        content: currentChunk.trim(),
         startOffset: chunkStartOffset,
         endOffset: chunkStartOffset + currentChunk.length,
-        metadata
+        metadata: { 
+          position: chunks.length === 0 ? 'start' : 'middle',
+          keywords: extractKeywords(currentChunk)
+        }
       });
-
-      currentChunk = paragraph;
-      chunkStartOffset = startOffset;
+      currentChunk = sentence;
+      chunkStartOffset += currentChunk.length;
     } else {
-      currentChunk = chunkContent;
+      currentChunk += ' ' + sentence;
     }
-
-    startOffset += paragraph.length + 2;
   }
 
   if (currentChunk) {
     chunks.push({
-      content: currentChunk,
+      content: currentChunk.trim(),
       startOffset: chunkStartOffset,
       endOffset: chunkStartOffset + currentChunk.length,
-      metadata: { position: 'end', keywords: extractKeywords(currentChunk) }
+      metadata: { 
+        position: 'end',
+        keywords: extractKeywords(currentChunk)
+      }
     });
   }
 
   return chunks;
 }
 
+// Fonction d'extraction de mots-clés améliorée
 function extractKeywords(text: string): string[] {
-  // Simple keyword extraction based on frequency and position
   const words = text.toLowerCase()
     .replace(/[^\w\s]/g, '')
     .split(/\s+/)
@@ -113,31 +96,18 @@ function extractKeywords(text: string): string[] {
     .map(([word]) => word);
 }
 
+// Génération d'embeddings
 export async function generateEmbedding(text: string) {
-  if (!text || typeof text !== 'string') {
-    throw new Error('Invalid input: text must be a string');
-  }
+  const response = await openai.embeddings.create({
+    model: "text-embedding-3-small",
+    input: text,
+    encoding_format: "float"
+  });
 
-  const cleanedText = text.replace(/\n+/g, " ").trim();
-  if (!cleanedText) {
-    throw new Error('Invalid input: text is empty after cleaning');
-  }
-
-  try {
-    console.log(`Generating embedding for text of length: ${cleanedText.length}`);
-    const response = await openai.embeddings.create({
-      model: "text-embedding-3-small",
-      input: cleanedText,
-      encoding_format: "float",
-    });
-
-    return response.data[0].embedding;
-  } catch (error) {
-    console.error('Error generating embedding:', error);
-    throw error;
-  }
+  return response.data[0].embedding;
 }
 
+// Requête SQL optimisée pour la recherche de similarité
 export async function findSimilarDocuments(query: string) {
   if (!query || typeof query !== 'string') {
     throw new Error('Invalid query: must be a non-empty string');
@@ -148,156 +118,117 @@ export async function findSimilarDocuments(query: string) {
 
   // Enhanced similarity search with context windows
   console.log('Searching for similar chunks...');
-  const relevantChunks = await db.execute(sql`
-    WITH ranked_chunks AS (
+  const result = await db.execute(sql`
+    WITH semantic_chunks AS (
       SELECT 
-        dc.id,
         dc.content,
-        dc.document_id,
-        dc.chunk_index,
+        d.title,
+        1 - (dc.embedding <-> ${queryEmbedding}::vector) as similarity,
         dc.metadata,
-        d.title as document_title,
-        1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity,
-        ROW_NUMBER() OVER (PARTITION BY d.id ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as chunk_rank
+        ROW_NUMBER() OVER (
+          PARTITION BY d.id 
+          ORDER BY dc.embedding <-> ${queryEmbedding}::vector
+        ) as chunk_rank
       FROM document_chunks dc
       JOIN documents d ON d.id = dc.document_id
-      WHERE dc.embedding IS NOT NULL
+      WHERE 1 - (dc.embedding <-> ${queryEmbedding}::vector) > 0.1
     )
-    SELECT * FROM ranked_chunks
-    WHERE similarity > ${MIN_SIMILARITY_THRESHOLD}
-    ORDER BY similarity DESC, chunk_rank
-    LIMIT 50
+    SELECT 
+      content,
+      title,
+      similarity,
+      metadata,
+      chunk_rank
+    FROM semantic_chunks
+    WHERE chunk_rank <= 3  -- Prendre les 3 meilleurs chunks par document
+    ORDER BY similarity DESC
+    LIMIT 30
   `);
 
-  if (!Array.isArray(relevantChunks)) {
-    console.log('No chunks found');
-    return [];
-  }
+  const relevantChunks = Array.isArray(result) ? result : result.rows || [];
 
+  // Logging pour le debug
   console.log(`Found ${relevantChunks.length} relevant chunks`);
   relevantChunks.forEach((chunk: any, index: number) => {
-    console.log(`Chunk ${index + 1} similarity: ${chunk.similarity}, metadata:`, chunk.metadata);
+    console.log(`
+      Chunk ${index + 1}:
+      - Similarity: ${chunk.similarity.toFixed(4)}
+      - Title: ${chunk.title}
+      - Preview: ${chunk.content.substring(0, 100)}...
+    `);
   });
 
-  // Combine nearby chunks from the same document
-  const processedChunks = relevantChunks
-    .sort((a: any, b: any) => {
-      if (a.document_id === b.document_id) {
-        return a.chunk_index - b.chunk_index;
-      }
-      return b.similarity - a.similarity;
-    })
-    .slice(0, 20)
-    .map((chunk: any) => ({
-      ...chunk,
-      content: chunk.content,
-      context: formatContext(chunk)
-    }));
-
-  return processedChunks;
+  return relevantChunks;
 }
 
-function formatContext(chunk: any): string {
-  const metadata = chunk.metadata || {};
-  const parts = [
-    `Document: ${chunk.document_title}`,
-  ];
-
-  if (metadata.heading) {
-    parts.push(`Section: ${metadata.heading}`);
-  }
-
-  if (metadata.position) {
-    parts.push(`Position: ${metadata.position}`);
-  }
-
-  if (metadata.keywords?.length) {
-    parts.push(`Keywords: ${metadata.keywords.join(', ')}`);
-  }
-
-  return parts.join(' | ');
-}
-
+// Format du prompt système optimisé
 export async function getChatResponse(
   question: string, 
-  context: string, 
+  context: string,
   systemPrompt?: string,
-  history: Array<{ role: string; content: string; }> = [],
+  history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = [],
   model: OpenAIModel = "gpt-4o"
 ) {
-  try {
-    if (!question || typeof question !== 'string') {
-      throw new Error('Invalid question: must be a non-empty string');
-    }
+  const contextPrompt = `Tu es un assistant spécialisé intégré à ActiBot. Tu as accès à une base de connaissances de documents.
 
-    const structuredContext = context ? `
-Contexte fourni:
+Contexte fourni :
 ${context}
 
-Les informations ci-dessus proviennent de la base de connaissances. 
-Utilisez ces informations pour répondre à la question de manière précise.
-` : '';
+Instructions :
+- Base tes réponses UNIQUEMENT sur le contexte ci-dessus
+- Inclus systématiquement des citations directes du texte entre guillemets
+- Si une information n'est pas dans le contexte, réponds clairement "Cette information n'est pas présente dans le contexte fourni"
+- Structure ta réponse avec des paragraphes clairs
 
-    const limitedHistory = history.slice(-3).map(msg => ({
-      role: msg.role as "user" | "assistant",
-      content: msg.content.slice(0, 1500)
-    }));
+Question : ${question}`;
 
-    const basePrompt = systemPrompt || `En tant qu'assistant IA spécialisé dans l'analyse de documents, je vais vous aider à comprendre et extraire les informations pertinentes des documents.
+  const response = await openai.chat.completions.create({
+    model,
+    messages: [
+      {
+        role: "system",
+        content: systemPrompt || contextPrompt
+      },
+      ...history.slice(-3),
+      {
+        role: "user",
+        content: question
+      }
+    ],
+    temperature: 0.3,
+    max_tokens: 2000,
+    presence_penalty: 0.1,
+    frequency_penalty: 0.2,
+    top_p: 0.9,
+  });
 
-Instructions spécifiques :
-1. Utilisez UNIQUEMENT les informations fournies dans le contexte
-2. Si l'information n'est pas dans le contexte, indiquez-le clairement
-3. Citez les passages pertinents du contexte
-4. Structurez votre réponse de manière claire
-5. Si une information manque, demandez des précisions
-
-Format de réponse :
-1. Réponse directe à la question
-2. Citations pertinentes du contexte
-3. Explications supplémentaires si nécessaire`;
-
-    const contextPrompt = `
-${basePrompt}
-
-${structuredContext}
-
-Question: ${question}
-
-Répondez en utilisant uniquement les informations du contexte fourni.`;
-
-    console.log('Sending request to OpenAI with context length:', structuredContext.length);
-
-    const response = await openai.chat.completions.create({
-      model,
-      messages: [
-        {
-          role: "system",
-          content: contextPrompt
-        },
-        ...limitedHistory,
-        {
-          role: "user",
-          content: question
-        }
-      ],
-      temperature: 0.3, // Réduit pour des réponses plus précises
-      max_tokens: MAX_TOKENS,
-      presence_penalty: 0.1,
-      frequency_penalty: 0.2,
-      top_p: 0.9,
-    });
-
-    const initialResponse = response.choices[0].message.content || "Désolé, je n'ai pas pu générer une réponse.";
-    console.log('Received response from OpenAI');
-
-    // Post-process and enhance the response
-    return initialResponse;
-  } catch (error: any) {
-    console.error("OpenAI API error:", error);
-    throw new Error(`Error generating response: ${error.message}`);
-  }
+  const result = response.choices[0].message.content;
+  await verifyResponse(result || "", context ? [context] : []);
+  return result || "Désolé, je n'ai pas pu générer une réponse.";
 }
+
+// Système de vérification des réponses
+const verifyResponse = async (response: string, context: string[]) => {
+  const contextElements = context.map(c => c.substring(0, 50));
+  const containsContext = contextElements.some(e => 
+    response.toLowerCase().includes(e.toLowerCase())
+  );
+
+  if (!containsContext) {
+    console.warn('Warning: Response may not use provided context');
+  }
+
+  const citationCount = (response.match(/"|«|»/g) || []).length / 2;
+  if (citationCount < 1) {
+    console.warn('Warning: Response contains no citations');
+  }
+
+  return {
+    usesContext: containsContext,
+    citationCount,
+    length: response.length
+  };
+};
 
 function truncateText(text: string, maxLength: number): string {
   if (!text || typeof text !== 'string') return '';
@@ -318,4 +249,45 @@ function truncateText(text: string, maxLength: number): string {
   }
 
   return truncated + "...";
+}
+
+const MAX_CHUNK_SIZE = 2000; // Augmenté pour gérer de plus gros chunks
+const MAX_TOKENS = 2000; // Increased for more detailed responses
+const MAX_CONTEXT_LENGTH = 15000; // Maximum context length
+const MIN_SIMILARITY_THRESHOLD = 0.1; // Réduit pour trouver plus de correspondances
+
+// Système de métriques de performance
+interface PerformanceMetrics {
+  avgSimilarity: number;
+  citationCount: number;
+  responseTime: number;
+  contextUsage: boolean;
+}
+
+const trackMetrics = async (metrics: PerformanceMetrics) => {
+  console.log('Performance Metrics:', {
+    timestamp: new Date().toISOString(),
+    ...metrics
+  });
+};
+
+function formatContext(chunk: any): string {
+  const metadata = chunk.metadata || {};
+  const parts = [
+    `Document: ${chunk.document_title}`,
+  ];
+
+  if (metadata.heading) {
+    parts.push(`Section: ${metadata.heading}`);
+  }
+
+  if (metadata.position) {
+    parts.push(`Position: ${metadata.position}`);
+  }
+
+  if (metadata.keywords?.length) {
+    parts.push(`Keywords: ${metadata.keywords.join(', ')}`);
+  }
+
+  return parts.join(' | ');
 }

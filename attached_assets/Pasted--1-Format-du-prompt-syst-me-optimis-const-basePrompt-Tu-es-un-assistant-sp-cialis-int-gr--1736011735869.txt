@@ -1,0 +1,216 @@
+// 1. Format du prompt système optimisé
+const basePrompt = `Tu es un assistant spécialisé intégré à ActiBot. Tu as accès à une base de connaissances de documents.
+
+Contexte fourni :
+\${context}
+
+Instructions :
+- Base tes réponses UNIQUEMENT sur le contexte ci-dessus
+- Inclus systématiquement des citations directes du texte entre guillemets
+- Si une information n'est pas dans le contexte, réponds clairement "Cette information n'est pas présente dans le contexte fourni"
+- Structure ta réponse avec des paragraphes clairs
+
+Question : \${userQuestion}`;
+
+// 2. Requête SQL optimisée pour la recherche de similarité
+const relevantChunks = await db.execute(sql`
+  WITH semantic_chunks AS (
+    SELECT 
+      dc.content,
+      d.title,
+      1 - (dc.embedding <-> ${queryEmbedding}::vector) as similarity,
+      dc.metadata,
+      ROW_NUMBER() OVER (
+        PARTITION BY d.id 
+        ORDER BY dc.embedding <-> ${queryEmbedding}::vector
+      ) as chunk_rank
+    FROM document_chunks dc
+    JOIN documents d ON d.id = dc.document_id
+    WHERE 1 - (dc.embedding <-> ${queryEmbedding}::vector) > ${MIN_SIMILARITY_THRESHOLD}
+  )
+  SELECT 
+    content,
+    title,
+    similarity,
+    metadata,
+    chunk_rank
+  FROM semantic_chunks
+  WHERE chunk_rank <= 3  -- Prendre les 3 meilleurs chunks par document
+  ORDER BY similarity DESC
+  LIMIT 30
+`);
+
+// 3. Configuration améliorée du chunking
+interface ChunkingOptions {
+  minSize: number;
+  maxSize: number;
+  overlap: number;
+  breakOnSentence: boolean;
+}
+
+const defaultOptions: ChunkingOptions = {
+  minSize: 500,
+  maxSize: 1500,
+  overlap: 200,
+  breakOnSentence: true
+};
+
+// Fonction de chunking intelligente
+const createChunks = async (text: string, options: ChunkingOptions = defaultOptions) => {
+  const { minSize, maxSize, overlap, breakOnSentence } = options;
+  
+  // Implémentation du chunking avec respect des phrases
+  const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+  const chunks: string[] = [];
+  let currentChunk = '';
+  
+  for (const sentence of sentences) {
+    if (currentChunk.length + sentence.length > maxSize && currentChunk.length >= minSize) {
+      chunks.push(currentChunk.trim());
+      currentChunk = sentence;
+    } else {
+      currentChunk += ' ' + sentence;
+    }
+  }
+  
+  if (currentChunk) {
+    chunks.push(currentChunk.trim());
+  }
+  
+  return chunks;
+};
+
+// 4. Système de logging détaillé
+const debug = {
+  logChunkSelection: async (chunks: RelevantChunk[]) => {
+    console.log(`Selected ${chunks.length} chunks:`);
+    chunks.forEach(chunk => {
+      console.log(`
+        Similarity: ${chunk.similarity.toFixed(4)}
+        Document: ${chunk.title}
+        Rank: ${chunk.chunk_rank}
+        Preview: ${chunk.content.substring(0, 100)}...
+      `);
+    });
+  },
+  
+  logEmbeddingStats: async (embeddings: number[][]) => {
+    const dimensions = embeddings[0].length;
+    const avgMagnitude = embeddings.reduce((sum, emb) => {
+      return sum + Math.sqrt(emb.reduce((s, v) => s + v * v, 0));
+    }, 0) / embeddings.length;
+    
+    console.log(`
+      Embedding Statistics:
+      - Count: ${embeddings.length}
+      - Dimensions: ${dimensions}
+      - Average Magnitude: ${avgMagnitude.toFixed(4)}
+    `);
+  }
+};
+
+// 5. Système de vérification des réponses
+const verifyResponse = async (response: string, context: string[]) => {
+  // Vérifier que la réponse contient des éléments du contexte
+  const contextElements = context.map(c => c.substring(0, 50));
+  const containsContext = contextElements.some(e => 
+    response.toLowerCase().includes(e.toLowerCase())
+  );
+  
+  if (!containsContext) {
+    console.warn('Warning: Response may not use provided context');
+    // Log pour analyse
+  }
+  
+  // Vérifier la présence de citations
+  const citationCount = (response.match(/"|«|»/g) || []).length / 2;
+  if (citationCount < 1) {
+    console.warn('Warning: Response contains no citations');
+  }
+  
+  return {
+    usesContext: containsContext,
+    citationCount,
+    length: response.length
+  };
+};
+
+// 6. Métriques de performance
+interface PerformanceMetrics {
+  avgSimilarity: number;
+  citationCount: number;
+  responseTime: number;
+  contextUsage: boolean;
+}
+
+const trackMetrics = async (metrics: PerformanceMetrics) => {
+  // Implémentez ici votre système de tracking (ex: Prometheus, custom DB, etc.)
+  console.log('Performance Metrics:', {
+    timestamp: new Date().toISOString(),
+    ...metrics
+  });
+};
+
+// 7. Configuration des tests A/B
+interface TestConfig {
+  chunkSize: 'fixed' | 'variable';
+  similarityThreshold: number;
+  promptFormat: 'standard' | 'enhanced';
+  maxChunks: number;
+}
+
+const runABTest = async (config: TestConfig, query: string) => {
+  const startTime = Date.now();
+  
+  // Exécuter la recherche avec la configuration donnée
+  const results = await searchWithConfig(config, query);
+  
+  // Mesurer les performances
+  const metrics: PerformanceMetrics = {
+    avgSimilarity: calculateAvgSimilarity(results),
+    citationCount: countCitations(results.response),
+    responseTime: Date.now() - startTime,
+    contextUsage: verifyContextUsage(results.response, results.context)
+  };
+  
+  await trackMetrics(metrics);
+  
+  return {
+    results,
+    metrics
+  };
+};
+
+// 8. Exemple d'utilisation
+async function main() {
+  const options: ChunkingOptions = {
+    ...defaultOptions,
+    breakOnSentence: true
+  };
+
+  // Initialisation
+  const document = await fetchDocument(documentId);
+  const chunks = await createChunks(document.content, options);
+  
+  // Génération des embeddings
+  const embeddings = await generateEmbeddings(chunks);
+  await debug.logEmbeddingStats(embeddings);
+  
+  // Recherche
+  const relevantChunks = await findRelevantChunks(queryEmbedding);
+  await debug.logChunkSelection(relevantChunks);
+  
+  // Génération de réponse
+  const response = await generateResponse(basePrompt, relevantChunks);
+  const verification = await verifyResponse(response, relevantChunks.map(c => c.content));
+  
+  // Tracking des métriques
+  await trackMetrics({
+    avgSimilarity: calculateAverageSimilarity(relevantChunks),
+    citationCount: verification.citationCount,
+    responseTime: Date.now() - startTime,
+    contextUsage: verification.usesContext
+  });
+  
+  return response;
+}
