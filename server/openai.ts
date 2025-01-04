@@ -156,7 +156,7 @@ export async function getChatResponse(
       context = [];
     }
 
-    const formattedContext = context.map(chunk => {
+    const formattedContext = (context || []).map(chunk => {
       if (!chunk || typeof chunk !== 'object') {
         console.error('Invalid chunk in context:', chunk);
         return '';
