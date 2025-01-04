@@ -10,7 +10,7 @@ const openai = new OpenAI({
 });
 
 // Webhook URL for Make.com integration
-const MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/vj85d82wfed8m5jhaadimovryp0a4trhpour";
+const MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/dt9gfk82cb0e5n6rrss049uvowshsj57";
 
 // Fonction utilitaire pour réessayer avec backoff exponentiel
 async function retryWithBackoff<T>(
