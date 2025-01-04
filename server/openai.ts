@@ -39,20 +39,23 @@ async function tryWithFallback<T>(
   for (const model of models) {
     for (let attempt = 0; attempt < maxRetries; attempt++) {
       try {
-        return await operation(model);
+        console.log(`Trying model ${model}, attempt ${attempt + 1}`);
+        const result = await operation(model);
+        console.log(`Success with model ${model}`);
+        return result;
       } catch (error: any) {
         lastError = error;
         console.warn(`Failed with model ${model}, attempt ${attempt + 1}:`, error.message);
 
         // Si ce n'est pas une erreur 404, ne pas réessayer avec d'autres modèles
-        if (error.status !== 404) {
+        if (error.status !== 404 && error.status !== 429) {
           throw error;
         }
 
-        // Attendre un peu avant de réessayer
-        if (attempt < maxRetries - 1) {
-          await new Promise(resolve => setTimeout(resolve, 1000 * (attempt + 1)));
-        }
+        // Attendre un peu avant de réessayer avec backoff exponentiel
+        const delay = Math.min(1000 * Math.pow(2, attempt), 10000);
+        console.log(`Waiting ${delay}ms before retry...`);
+        await new Promise(resolve => setTimeout(resolve, delay));
       }
     }
   }
