@@ -5,56 +5,25 @@ import { documents, documentChunks, chats, systemPrompts, users, type User } fro
 import { generateEmbedding, findSimilarDocuments, getChatResponse, chunkDocument } from "./openai";
 import multer from "multer";
 import { eq } from "drizzle-orm";
-import { crypto } from "./auth";
-import type { Request } from "express";
 import { setupAuth } from "./auth";
-import { Buffer } from "buffer";
-import iconv from "iconv-lite";
+import type { Request } from "express";
 
 interface AuthenticatedRequest extends Request {
   user?: User;
   isAuthenticated(): this is AuthenticatedRequest;
 }
 
-const upload = multer();
-
-function cleanContent(content: string): string {
-  // Remove null bytes and invalid characters
-  return content
-    .replace(/\0/g, '') // Remove null bytes
-    .replace(/[^\x20-\x7E\x0A\x0D\u00A0-\uFFFF]/g, '') // Keep only printable characters
-    .replace(/\r\n/g, '\n') // Normalize line endings
-    .trim();
-}
-
-function detectAndDecodeText(buffer: Buffer): string {
-  // Remove null bytes from the buffer first
-  const cleanBuffer = Buffer.from(buffer.filter(byte => byte !== 0x00));
-
-  // Try common encodings
-  const encodings = ['utf-8', 'utf-16le', 'utf-16be', 'iso-8859-1', 'windows-1252'];
-
-  for (const encoding of encodings) {
-    try {
-      const decodedText = iconv.decode(cleanBuffer, encoding);
-      if (decodedText && decodedText.length > 0) {
-        console.log(`Successfully decoded using ${encoding}`);
-        return cleanContent(decodedText);
-      }
-    } catch (e) {
-      console.log(`Failed to decode with ${encoding}`);
-    }
+// Configuration de multer avec des limites
+const upload = multer({
+  limits: {
+    fileSize: 10 * 1024 * 1024, // 10MB limit
   }
+});
 
-  // If all else fails, try a more aggressive cleaning approach
-  return cleanContent(cleanBuffer.toString());
-}
-
+// Route simple pour l'upload de documents
 export function registerRoutes(app: Express): Server {
-  // Set up authentication routes and middleware
   setupAuth(app);
 
-  // Middleware to check if user is authenticated
   const requireAuth = (req: AuthenticatedRequest, res: any, next: any) => {
     if (!req.isAuthenticated()) {
       return res.status(401).send("Non authentifié");
@@ -62,7 +31,6 @@ export function registerRoutes(app: Express): Server {
     next();
   };
 
-  // Middleware to check if user is admin
   const requireAdmin = (req: AuthenticatedRequest, res: any, next: any) => {
     if (!req.user?.isAdmin) {
       return res.status(403).send("Accès administrateur requis");
@@ -70,67 +38,53 @@ export function registerRoutes(app: Express): Server {
     next();
   };
 
-  // Document management routes (protected by auth and admin)
   app.post("/api/documents", requireAuth, requireAdmin, upload.single("file"), async (req: AuthenticatedRequest, res) => {
     try {
-      const file = req.file;
-      if (!file) {
+      console.log("Starting document upload...");
+
+      if (!req.file) {
         return res.status(400).send("Aucun fichier n'a été téléchargé");
       }
 
-      console.log(`Processing uploaded file: ${file.originalname}, size: ${file.size} bytes`);
+      const file = req.file;
+      console.log(`File received: ${file.originalname}, size: ${file.size} bytes`);
 
-      // Detect and decode the file content with improved cleaning
-      const content = detectAndDecodeText(file.buffer);
+      // Conversion simple en texte avec nettoyage minimal
+      let content = file.buffer.toString().replace(/\0/g, ' ').trim();
 
-      if (!content || content.trim().length === 0) {
-        return res.status(400).send("Le fichier est vide ou ne contient pas de texte valide");
+      // Vérification basique
+      if (!content) {
+        return res.status(400).send("Le fichier est vide");
       }
 
-      console.log(`Successfully decoded file content, length: ${content.length} characters`);
-
-      // Create smaller chunks first and verify they can be saved
-      const chunks = chunkDocument(content);
-      console.log(`Split document into ${chunks.length} chunks`);
-
-      // Create the document
+      // Création du document sans le contenu complet
       const [document] = await db.insert(documents).values({
         title: file.originalname,
-        content: content.slice(0, 1000000), // Limit content size if needed
+        content: content.slice(0, 1000), // Stocke juste le début pour référence
         uploadedBy: req.user!.id
       }).returning();
 
-      console.log(`Created document with ID: ${document.id}`);
+      // Répondre immédiatement
+      res.json({ 
+        message: "Document reçu avec succès", 
+        document: { 
+          id: document.id, 
+          title: document.title 
+        } 
+      });
 
-      // Process chunks in sequence to avoid overloading
-      for (const [index, chunk] of chunks.entries()) {
-        try {
-          console.log(`Processing chunk ${index + 1}/${chunks.length}, length: ${chunk.content.length}`);
-          const embedding = await generateEmbedding(chunk.content);
+      // Traitement en arrière-plan
+      setTimeout(() => {
+        processDocument(document.id, content).catch(console.error);
+      }, 0);
 
-          await db.insert(documentChunks).values({
-            documentId: document.id,
-            content: chunk.content,
-            embedding,
-            chunkIndex: index,
-            startOffset: chunk.startOffset,
-            endOffset: chunk.endOffset,
-            metadata: chunk.metadata
-          });
-        } catch (error) {
-          console.error(`Error processing chunk ${index}:`, error);
-          // Continue with other chunks even if one fails
-        }
-      }
-
-      res.json(document);
     } catch (error: any) {
-      console.error("Document upload error:", error);
-      res.status(500).send(error.message || "Une erreur est survenue lors du traitement du document");
+      console.error("Upload error:", error);
+      res.status(500).send("Une erreur est survenue lors de l'upload");
     }
   });
 
-  app.get("/api/documents", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+  app.get("/api/documents", requireAuth, requireAdmin, async (_req, res) => {
     try {
       const allDocuments = await db.select().from(documents);
       res.json(allDocuments);
@@ -139,9 +93,8 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
-  app.delete("/api/documents/:id", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
+  app.delete("/api/documents/:id", requireAuth, requireAdmin, async (req, res) => {
     try {
-      // Delete associated chunks first
       await db.delete(documentChunks)
         .where(eq(documentChunks.documentId, parseInt(req.params.id)));
 
@@ -159,6 +112,7 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  // Autres routes restent inchangées...
   app.post("/api/system-prompts", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
     try {
       const { name, content, model } = req.body;
@@ -299,4 +253,39 @@ export function registerRoutes(app: Express): Server {
 
   const httpServer = createServer(app);
   return httpServer;
+}
+
+// Fonction de traitement asynchrone
+async function processDocument(documentId: number, content: string) {
+  try {
+    console.log(`Starting processing for document ${documentId}`);
+
+    // Traitement par petits morceaux
+    const chunkSize = 1000;
+    for (let i = 0; i < content.length; i += chunkSize) {
+      const chunk = content.slice(i, i + chunkSize);
+      try {
+        const embedding = await generateEmbedding(chunk);
+
+        await db.insert(documentChunks).values({
+          documentId,
+          content: chunk,
+          embedding,
+          chunkIndex: Math.floor(i / chunkSize),
+          startOffset: i,
+          endOffset: i + chunk.length,
+          metadata: { position: i === 0 ? 'start' : i + chunkSize >= content.length ? 'end' : 'middle' }
+        });
+
+        console.log(`Processed chunk ${Math.floor(i / chunkSize) + 1}`);
+      } catch (error) {
+        console.error(`Error processing chunk at offset ${i}:`, error);
+        // Continue avec le prochain chunk
+      }
+    }
+
+    console.log(`Finished processing document ${documentId}`);
+  } catch (error) {
+    console.error(`Failed to process document ${documentId}:`, error);
+  }
 }
