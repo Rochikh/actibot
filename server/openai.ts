@@ -9,24 +9,24 @@ const openai = new OpenAI({
   baseURL: "https://openrouter.ai/api/v1",
   defaultHeaders: {
     "HTTP-Referer": "http://localhost:5000",
-    "X-Title": "ActiBot"
+    "X-Title": "ActiBot",
+    "Content-Type": "application/json"
   },
-  timeout: 30000, // 30 second timeout
-  maxRetries: 3
+  timeout: 30000 // 30 second timeout
 });
 
-// Liste des modèles par ordre de préférence
+// Liste des modèles par ordre de préférence avec leurs endpoints
 const MODELS = {
   chat: [
+    "google/palm-2-chat-bison-001", // Ajout d'un modèle plus fiable en premier
     "anthropic/claude-2",
-    "openai/gpt-4-turbo-preview",
-    "openai/gpt-3.5-turbo",
-    "google/gemini-pro"
+    "google/gemini-pro",
+    "openai/gpt-3.5-turbo"
   ],
   embedding: [
+    "google/embedding-gecko-001",
     "openai/text-embedding-ada-002",
-    "openai/text-embedding-3-small",
-    "google/embedding-001"
+    "cohere/embed-english-v3.0"
   ]
 };
 
@@ -49,12 +49,17 @@ async function tryWithFallback<T>(
         lastError = error;
         console.warn(`Failed with model ${model}, attempt ${attempt + 1}:`, error.message);
 
-        // Si ce n'est pas une erreur 404 ou un timeout, ne pas réessayer
-        if (error.status !== 404 && error.status !== 429 && !error.message.includes('timeout')) {
+        // Vérifier les erreurs spécifiques qui nécessitent un retry
+        const shouldRetry = error.status === 404 || 
+                          error.status === 429 || 
+                          error.message.includes('timeout') ||
+                          error.message.includes('rate limit');
+
+        if (!shouldRetry) {
           throw error;
         }
 
-        // Attendre un peu avant de réessayer avec backoff exponentiel
+        // Attendre avec backoff exponentiel
         const delay = Math.min(1000 * Math.pow(2, attempt), 10000);
         console.log(`Waiting ${delay}ms before retry...`);
         await new Promise(resolve => setTimeout(resolve, delay));
@@ -131,10 +136,11 @@ export async function generateEmbedding(text: string): Promise<number[]> {
     const response = await openai.embeddings.create({
       model,
       input: text,
+      encoding_format: "float"
     });
 
     if (!response.data?.[0]?.embedding) {
-      throw new Error('Invalid embedding response from OpenRouter');
+      throw new Error('Invalid embedding response');
     }
 
     return response.data[0].embedding;
@@ -149,16 +155,17 @@ export async function getChatResponse(
   history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = []
 ) {
   try {
-    console.log('Received context:', JSON.stringify(context, null, 2));
+    console.log('Processing chat response for question:', question);
+    console.log('Context length:', context?.length || 0);
 
     if (!Array.isArray(context)) {
-      console.error('Context is not an array:', context);
+      console.warn('Context is not an array, using empty array');
       context = [];
     }
 
     const formattedContext = (context || []).map(chunk => {
       if (!chunk || typeof chunk !== 'object') {
-        console.error('Invalid chunk in context:', chunk);
+        console.warn('Invalid chunk in context:', chunk);
         return '';
       }
 
@@ -183,13 +190,14 @@ Instructions :
 
 Question : ${question}`;
 
-    console.log('Sending to OpenRouter with context length:', formattedContext.length);
+    console.log('Total context length:', contextPrompt.length);
 
     return tryWithFallback(MODELS.chat, async (model) => {
       const abortController = new AbortController();
       const timeoutId = setTimeout(() => abortController.abort(), 25000); // 25s timeout
 
       try {
+        console.log(`Attempting chat completion with model: ${model}`);
         const response = await openai.chat.completions.create({
           model,
           messages: [
@@ -205,19 +213,22 @@ Question : ${question}`;
           ],
           temperature: 0.3,
           max_tokens: 2000,
+          presence_penalty: 0,
+          frequency_penalty: 0
         }, { signal: abortController.signal });
 
         clearTimeout(timeoutId);
 
         if (!response.choices?.[0]?.message?.content) {
-          throw new Error('Invalid response from OpenRouter');
+          throw new Error('Invalid response structure');
         }
 
         const result = response.choices[0].message.content;
-        await verifyResponse(result || "", formattedContext);
-        return result || "Désolé, je n'ai pas pu générer une réponse.";
+        await verifyResponse(result, formattedContext);
+        return result;
       } catch (error) {
         clearTimeout(timeoutId);
+        console.error(`Chat completion failed with model ${model}:`, error);
         throw error;
       }
     });
