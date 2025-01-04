@@ -25,7 +25,7 @@ interface ProcessedChunk {
 }
 
 // Improved chunking system with metadata and intelligent boundaries
-function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): ProcessedChunk[] {
+export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): ProcessedChunk[] {
   const chunks: ProcessedChunk[] = [];
   let startOffset = 0;
 

@@ -1,8 +1,8 @@
 import type { Express } from "express";
 import { createServer, type Server } from "http";
 import { db } from "@db";
-import { documents, chats, systemPrompts, users, type User } from "@db/schema";
-import { generateEmbedding, findSimilarDocuments, getChatResponse } from "./openai";
+import { documents, documentChunks, chats, systemPrompts, users, type User } from "@db/schema";
+import { generateEmbedding, findSimilarDocuments, getChatResponse, chunkDocument } from "./openai";
 import multer from "multer";
 import { eq } from "drizzle-orm";
 import { crypto } from "./auth";
@@ -45,16 +45,40 @@ export function registerRoutes(app: Express): Server {
       }
 
       const content = file.buffer.toString("utf-8");
-      const embedding = await generateEmbedding(content);
 
+      // Create the document first
       const [document] = await db.insert(documents).values({
         title: file.originalname,
-        content,
+        content: content,
         uploadedBy: req.user!.id
       }).returning();
 
+      // Process the document in chunks
+      const chunks = chunkDocument(content);
+
+      // Generate embeddings and save chunks
+      for (const chunk of chunks) {
+        try {
+          const embedding = await generateEmbedding(chunk.content);
+
+          await db.insert(documentChunks).values({
+            documentId: document.id,
+            content: chunk.content,
+            embedding,
+            chunkIndex: chunks.indexOf(chunk),
+            startOffset: chunk.startOffset,
+            endOffset: chunk.endOffset,
+            metadata: chunk.metadata
+          });
+        } catch (error) {
+          console.error("Error processing chunk:", error);
+          // Continue processing other chunks even if one fails
+        }
+      }
+
       res.json(document);
     } catch (error: any) {
+      console.error("Document upload error:", error);
       res.status(500).send(error.message);
     }
   });
@@ -70,6 +94,10 @@ export function registerRoutes(app: Express): Server {
 
   app.delete("/api/documents/:id", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
     try {
+      // Delete associated chunks first
+      await db.delete(documentChunks)
+        .where(eq(documentChunks.documentId, parseInt(req.params.id)));
+
       const [deletedDoc] = await db.delete(documents)
         .where(eq(documents.id, parseInt(req.params.id)))
         .returning();
@@ -87,11 +115,12 @@ export function registerRoutes(app: Express): Server {
   // System Prompts routes (protected by auth and admin)
   app.post("/api/system-prompts", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
     try {
-      const { name, content } = req.body;
+      const { name, content, model } = req.body;
 
       const [prompt] = await db.insert(systemPrompts).values({
         name,
         content,
+        model: model || "gpt-4o",
         createdBy: req.user!.id,
         isActive: false
       }).returning();
@@ -132,13 +161,14 @@ export function registerRoutes(app: Express): Server {
 
   app.put("/api/system-prompts/:id", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res) => {
     try {
-      const { name, content } = req.body;
+      const { name, content, model } = req.body;
 
       // Update the prompt
       const [updatedPrompt] = await db.update(systemPrompts)
         .set({
           name,
           content,
+          model: model || "gpt-4o",
           updatedAt: new Date()
         })
         .where(eq(systemPrompts.id, parseInt(req.params.id)))
@@ -179,7 +209,8 @@ export function registerRoutes(app: Express): Server {
         message,
         context,
         activePrompt?.content,
-        Array.isArray(history) ? history : []
+        Array.isArray(history) ? history : [],
+        activePrompt?.model
       );
 
       // Save chat message
