@@ -9,7 +9,7 @@ const openai = new OpenAI();
 const MAX_CHUNK_SIZE = 2000; // Augmenté pour gérer de plus gros chunks
 const MAX_TOKENS = 2000; // Increased for more detailed responses
 const MAX_CONTEXT_LENGTH = 15000; // Maximum context length
-const MIN_SIMILARITY_THRESHOLD = 0.2; // Encore réduit pour trouver plus de correspondances
+const MIN_SIMILARITY_THRESHOLD = 0.1; // Réduit pour trouver plus de correspondances
 
 interface ChunkMetadata {
   heading?: string;
@@ -25,7 +25,6 @@ interface ProcessedChunk {
   metadata?: ChunkMetadata;
 }
 
-// Amélioration de la fonction chunkDocument pour gérer de plus gros documents
 export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): ProcessedChunk[] {
   const chunks: ProcessedChunk[] = [];
   let startOffset = 0;
@@ -38,7 +37,7 @@ export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Proc
 
   console.log(`Processing document with length: ${content.length}`);
 
-  // Split content into paragraphs
+  // Split content into paragraphs with overlap
   const paragraphs = content.split(/\n\n+/);
   console.log(`Number of paragraphs: ${paragraphs.length}`);
 
@@ -48,7 +47,7 @@ export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Proc
 
   for (let i = 0; i < paragraphs.length; i++) {
     const paragraph = paragraphs[i].trim();
-    if (!paragraph) continue; // Skip empty paragraphs
+    if (!paragraph) continue;
 
     // Détermine la position du chunk dans le document
     if (i === 0) chunkPosition = 'start';
@@ -60,11 +59,14 @@ export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Proc
       keywords: extractKeywords(paragraph)
     };
 
-    const potentialChunk = currentChunk + (currentChunk ? '\n\n' : '') + paragraph;
+    // Add overlap by including previous paragraph if available
+    let chunkContent = currentChunk;
+    if (i > 0) {
+      chunkContent = paragraphs[i - 1].trim() + "\n\n" + paragraph;
+    }
 
-    if (potentialChunk.length > chunkSize && currentChunk) {
-      // Store current chunk before starting new one
-      console.log(`Creating chunk at offset ${chunkStartOffset}, length: ${currentChunk.length}, position: ${chunkPosition}`);
+    if (chunkContent.length > chunkSize && currentChunk) {
+      console.log(`Creating chunk at offset ${chunkStartOffset}, length: ${currentChunk.length}`);
       chunks.push({
         content: currentChunk,
         startOffset: chunkStartOffset,
@@ -75,15 +77,13 @@ export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Proc
       currentChunk = paragraph;
       chunkStartOffset = startOffset;
     } else {
-      currentChunk = potentialChunk;
+      currentChunk = chunkContent;
     }
 
-    startOffset += paragraph.length + 2; // +2 for paragraph separators
+    startOffset += paragraph.length + 2;
   }
 
-  // Add the last chunk if there's any content left
   if (currentChunk) {
-    console.log(`Creating final chunk at offset ${chunkStartOffset}, length: ${currentChunk.length}, position: end`);
     chunks.push({
       content: currentChunk,
       startOffset: chunkStartOffset,
@@ -92,11 +92,9 @@ export function chunkDocument(content: string, chunkSize = MAX_CHUNK_SIZE): Proc
     });
   }
 
-  console.log(`Total chunks created: ${chunks.length}`);
   return chunks;
 }
 
-// Helper function to extract important keywords from text
 function extractKeywords(text: string): string[] {
   // Simple keyword extraction based on frequency and position
   const words = text.toLowerCase()
@@ -159,15 +157,16 @@ export async function findSimilarDocuments(query: string) {
         dc.chunk_index,
         dc.metadata,
         d.title as document_title,
-        1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity
+        1 - (dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as similarity,
+        ROW_NUMBER() OVER (PARTITION BY d.id ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector) as chunk_rank
       FROM document_chunks dc
       JOIN documents d ON d.id = dc.document_id
       WHERE dc.embedding IS NOT NULL
-      ORDER BY dc.embedding <-> ${JSON.stringify(queryEmbedding)}::vector
-      LIMIT 30
     )
     SELECT * FROM ranked_chunks
     WHERE similarity > ${MIN_SIMILARITY_THRESHOLD}
+    ORDER BY similarity DESC, chunk_rank
+    LIMIT 50
   `);
 
   if (!Array.isArray(relevantChunks)) {
@@ -180,10 +179,15 @@ export async function findSimilarDocuments(query: string) {
     console.log(`Chunk ${index + 1} similarity: ${chunk.similarity}, metadata:`, chunk.metadata);
   });
 
-  // Sort by similarity and combine nearby chunks
+  // Combine nearby chunks from the same document
   const processedChunks = relevantChunks
-    .sort((a: any, b: any) => b.similarity - a.similarity)
-    .slice(0, 15) // Augmenté pour avoir plus de résultats
+    .sort((a: any, b: any) => {
+      if (a.document_id === b.document_id) {
+        return a.chunk_index - b.chunk_index;
+      }
+      return b.similarity - a.similarity;
+    })
+    .slice(0, 20)
     .map((chunk: any) => ({
       ...chunk,
       content: chunk.content,
@@ -214,32 +218,6 @@ function formatContext(chunk: any): string {
   return parts.join(' | ');
 }
 
-// Response enhancement with better context handling
-class ResponseEnhancer {
-  private async addCitations(response: string, sources: any[]): Promise<string> {
-    let enhancedResponse = response;
-
-    for (const source of sources) {
-      if (source.content && enhancedResponse.includes(source.content)) {
-        enhancedResponse = enhancedResponse.replace(
-          source.content,
-          `> ${source.content}\n(Source: ${source.context})`
-        );
-      }
-    }
-
-    return enhancedResponse;
-  }
-
-  async enhance(response: string, sources: any[]): Promise<string> {
-    let enhanced = response;
-    enhanced = await this.addCitations(enhanced, sources);
-    return enhanced;
-  }
-}
-
-const responseEnhancer = new ResponseEnhancer();
-
 export async function getChatResponse(
   question: string, 
   context: string, 
@@ -253,11 +231,11 @@ export async function getChatResponse(
     }
 
     const structuredContext = context ? `
-Context fourni:
+Contexte fourni:
 ${context}
 
-Les documents pertinents ont été analysés et intégrés dans cette réponse.
-Les parties du document les plus pertinentes à votre question ont été sélectionnées.
+Les informations ci-dessus proviennent de la base de connaissances. 
+Utilisez ces informations pour répondre à la question de manière précise.
 ` : '';
 
     const limitedHistory = history.slice(-3).map(msg => ({
@@ -265,21 +243,19 @@ Les parties du document les plus pertinentes à votre question ont été sélect
       content: msg.content.slice(0, 1500)
     }));
 
-    const basePrompt = systemPrompt || `En tant qu'assistant IA multilingue spécialisé dans le traitement de documents, je suis là pour vous aider à analyser, comprendre et extraire des informations pertinentes des documents.
+    const basePrompt = systemPrompt || `En tant qu'assistant IA spécialisé dans l'analyse de documents, je vais vous aider à comprendre et extraire les informations pertinentes des documents.
 
 Instructions spécifiques :
-1. Répondre de manière claire et précise aux questions sur le contenu des documents
-2. Utiliser le contexte fourni pour donner des réponses pertinentes
-3. Maintenir une conversation naturelle et professionnelle
-4. Citer les sources quand c'est pertinent
-5. Demander des clarifications si la question n'est pas claire
+1. Utilisez UNIQUEMENT les informations fournies dans le contexte
+2. Si l'information n'est pas dans le contexte, indiquez-le clairement
+3. Citez les passages pertinents du contexte
+4. Structurez votre réponse de manière claire
+5. Si une information manque, demandez des précisions
 
-Pour chaque réponse :
-- Fournir des informations précises basées sur les documents
-- Structurer la réponse de manière logique
-- Utiliser des exemples quand c'est pertinent
-- Si une information pertinente est trouvée, l'inclure même si la similarité est faible
-- Indiquer clairement si une information n'est pas disponible dans les documents`;
+Format de réponse :
+1. Réponse directe à la question
+2. Citations pertinentes du contexte
+3. Explications supplémentaires si nécessaire`;
 
     const contextPrompt = `
 ${basePrompt}
@@ -288,13 +264,10 @@ ${structuredContext}
 
 Question: ${question}
 
-Assurez-vous que votre réponse :
-1. Intègre les informations de toutes les sources pertinentes
-2. Fournit des exemples concrets
-3. Répond directement à la question posée
-4. Maintient une structure claire`;
+Répondez en utilisant uniquement les informations du contexte fourni.`;
 
     console.log('Sending request to OpenAI with context length:', structuredContext.length);
+
     const response = await openai.chat.completions.create({
       model,
       messages: [
@@ -308,7 +281,7 @@ Assurez-vous que votre réponse :
           content: question
         }
       ],
-      temperature: 0.7,
+      temperature: 0.3, // Réduit pour des réponses plus précises
       max_tokens: MAX_TOKENS,
       presence_penalty: 0.1,
       frequency_penalty: 0.2,
@@ -319,9 +292,7 @@ Assurez-vous que votre réponse :
     console.log('Received response from OpenAI');
 
     // Post-process and enhance the response
-    const enhancedResponse = await responseEnhancer.enhance(initialResponse, context ? [{ content: context }] : []);
-
-    return enhancedResponse;
+    return initialResponse;
   } catch (error: any) {
     console.error("OpenAI API error:", error);
     throw new Error(`Error generating response: ${error.message}`);
