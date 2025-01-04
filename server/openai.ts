@@ -10,7 +10,9 @@ const openai = new OpenAI({
   defaultHeaders: {
     "HTTP-Referer": "http://localhost:5000",
     "X-Title": "ActiBot"
-  }
+  },
+  timeout: 30000, // 30 second timeout
+  maxRetries: 3
 });
 
 // Liste des modèles par ordre de préférence
@@ -47,8 +49,8 @@ async function tryWithFallback<T>(
         lastError = error;
         console.warn(`Failed with model ${model}, attempt ${attempt + 1}:`, error.message);
 
-        // Si ce n'est pas une erreur 404, ne pas réessayer avec d'autres modèles
-        if (error.status !== 404 && error.status !== 429) {
+        // Si ce n'est pas une erreur 404 ou un timeout, ne pas réessayer
+        if (error.status !== 404 && error.status !== 429 && !error.message.includes('timeout')) {
           throw error;
         }
 
@@ -184,30 +186,40 @@ Question : ${question}`;
     console.log('Sending to OpenRouter with context length:', formattedContext.length);
 
     return tryWithFallback(MODELS.chat, async (model) => {
-      const response = await openai.chat.completions.create({
-        model,
-        messages: [
-          {
-            role: "system",
-            content: systemPrompt || contextPrompt
-          },
-          ...history.slice(-3),
-          {
-            role: "user",
-            content: question
-          }
-        ],
-        temperature: 0.3,
-        max_tokens: 2000,
-      });
+      const abortController = new AbortController();
+      const timeoutId = setTimeout(() => abortController.abort(), 25000); // 25s timeout
 
-      if (!response.choices?.[0]?.message?.content) {
-        throw new Error('Invalid response from OpenRouter');
+      try {
+        const response = await openai.chat.completions.create({
+          model,
+          messages: [
+            {
+              role: "system",
+              content: systemPrompt || contextPrompt
+            },
+            ...history.slice(-3),
+            {
+              role: "user",
+              content: question
+            }
+          ],
+          temperature: 0.3,
+          max_tokens: 2000,
+        }, { signal: abortController.signal });
+
+        clearTimeout(timeoutId);
+
+        if (!response.choices?.[0]?.message?.content) {
+          throw new Error('Invalid response from OpenRouter');
+        }
+
+        const result = response.choices[0].message.content;
+        await verifyResponse(result || "", formattedContext);
+        return result || "Désolé, je n'ai pas pu générer une réponse.";
+      } catch (error) {
+        clearTimeout(timeoutId);
+        throw error;
       }
-
-      const result = response.choices[0].message.content;
-      await verifyResponse(result || "", formattedContext);
-      return result || "Désolé, je n'ai pas pu générer une réponse.";
     });
   } catch (error) {
     console.error('Error in getChatResponse:', error);
