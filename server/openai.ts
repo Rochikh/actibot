@@ -175,7 +175,7 @@ Instructions :
 
     return retryWithBackoff(async () => {
       const abortController = new AbortController();
-      const timeoutId = setTimeout(() => abortController.abort(), 25000); // 25s timeout
+      const timeoutId = setTimeout(() => abortController.abort(), 45000); // Augmenté à 45s
 
       try {
         const response = await fetch(MAKE_WEBHOOK_URL, {
@@ -190,7 +190,8 @@ Instructions :
         clearTimeout(timeoutId);
 
         if (!response.ok) {
-          throw new Error(`Webhook error: ${response.status} ${response.statusText}`);
+          const errorText = await response.text();
+          throw new Error(`Webhook error: ${response.status} ${response.statusText} : ${errorText}`);
         }
 
         const result = await response.text();
@@ -205,6 +206,9 @@ Instructions :
       } catch (error) {
         clearTimeout(timeoutId);
         console.error('Chat completion failed:', error);
+        if (error.name === 'AbortError') {
+          throw new Error("La réponse a pris trop de temps. Veuillez réessayer.");
+        }
         throw error;
       }
     });
