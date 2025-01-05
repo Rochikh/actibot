@@ -105,15 +105,19 @@ export async function findSimilarDocuments(query: string) {
         chunk_rank
       FROM similarity_chunks
       WHERE 
-        chunk_rank <= 5 AND
-        similarity > 0.01  -- Reduced threshold from 0.05 to 0.01
+        chunk_rank <= 10 AND  -- Increased from 5 to 10 chunks per document
+        similarity > 0.005    -- Reduced threshold to catch more potential matches
       ORDER BY similarity DESC
-      LIMIT 50;
+      LIMIT 100;             -- Increased limit to get more context
     `);
 
     const chunks = result.rows || [];
     console.log(`Found ${chunks.length} relevant chunks with scores:`, 
-      chunks.map(c => ({ similarity: c.similarity, title: c.document_title })));
+      chunks.map(c => ({ 
+        similarity: c.similarity, 
+        title: c.document_title,
+        preview: c.content?.substring(0, 100) + '...'
+      })));
     return chunks;
   } catch (error) {
     console.error('Error in findSimilarDocuments:', error);
