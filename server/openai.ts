@@ -24,17 +24,17 @@ async function getOrCreateAssistant() {
   console.log('Creating new assistant...');
   const assistant = await openai.beta.assistants.create({
     name: "ActiBot",
-    instructions: `Tu es ActiBot, un assistant qui répond aux questions en utilisant uniquement les informations fournies dans le contexte.
+    instructions: `Tu es ActiBot, un assistant spécialisé qui aide les utilisateurs à trouver des informations sur les outils d'IA.
 
 Instructions :
 1. Utilise UNIQUEMENT les informations du contexte fourni pour répondre
-2. Si tu trouves une information pertinente, même partielle, utilise-la dans ta réponse
-3. Si certaines informations manquent, précise ce qui est disponible et ce qui ne l'est pas
-4. Cite les passages pertinents du contexte entre guillemets "..."
-5. Format de réponse :
-   - Commence par une réponse directe à la question
-   - Appuie ta réponse avec des citations du contexte
-   - Si des informations manquent, explique ce qui manque`,
+2. Pour chaque outil ou service mentionné, cite EXPLICITEMENT le passage pertinent du contexte entre guillemets
+3. Si une information est manquante, indique clairement ce qui est disponible et ce qui ne l'est pas
+4. Format de réponse :
+   - Commence par une vue d'ensemble des outils disponibles
+   - Pour chaque outil, fournis les détails trouvés dans le contexte
+   - Cite les extraits pertinents du contexte
+   - Si des aspects ne sont pas couverts, précise-le`,
     model: "gpt-4-turbo-preview"
   });
 
@@ -49,10 +49,12 @@ export async function generateEmbedding(text: string): Promise<number[]> {
   }
 
   try {
-    console.log('Generating embedding for query:', text);
+    const enhancedQuery = `outils intelligence artificielle technologie ${text} generateur creation image Midjourney Dall-E Stable Diffusion`;
+    console.log('Generating embedding for enhanced query:', enhancedQuery);
+
     const response = await openai.embeddings.create({
       model: "text-embedding-3-small",
-      input: text,
+      input: enhancedQuery,
       encoding_format: "float"
     });
 
@@ -75,26 +77,28 @@ export async function findSimilarDocuments(query: string) {
   }
 
   try {
-    console.log('Generating embedding for query:', query);
+    console.log('Processing search query:', query);
     const queryEmbedding = await generateEmbedding(query);
-    console.log('Generated embedding length:', queryEmbedding.length);
 
     const embeddingString = `[${queryEmbedding.join(',')}]`;
 
+    // Using cosine_similarity instead of <=> operator for better compatibility
     const result = await db.execute(sql`
       WITH similarity_chunks AS (
         SELECT 
           dc.content,
           d.title as document_title,
-          1 - cosine_distance(dc.embedding, (SELECT ${embeddingString}::vector(1536))) as similarity,
+          cosine_similarity(dc.embedding, ${embeddingString}::vector(1536)) as similarity,
           dc.metadata,
           d.id as document_id,
           ROW_NUMBER() OVER (
             PARTITION BY d.id 
-            ORDER BY cosine_distance(dc.embedding, (SELECT ${embeddingString}::vector(1536))) ASC
-          ) as chunk_rank
+            ORDER BY cosine_similarity(dc.embedding, ${embeddingString}::vector(1536)) DESC
+          ) as chunk_rank,
+          COUNT(*) OVER (PARTITION BY d.id) as total_chunks
         FROM document_chunks dc
         JOIN documents d ON d.id = dc.document_id
+        WHERE dc.content IS NOT NULL AND LENGTH(dc.content) > 0
       )
       SELECT 
         content,
@@ -102,22 +106,35 @@ export async function findSimilarDocuments(query: string) {
         document_id,
         similarity::float4,
         metadata,
-        chunk_rank
+        chunk_rank,
+        total_chunks
       FROM similarity_chunks
       WHERE 
-        chunk_rank <= 10 AND  -- Increased from 5 to 10 chunks per document
-        similarity > 0.005    -- Reduced threshold to catch more potential matches
-      ORDER BY similarity DESC
-      LIMIT 100;             -- Increased limit to get more context
+        chunk_rank <= 15 AND
+        similarity > 0.7
+      ORDER BY similarity DESC, document_id, chunk_rank
+      LIMIT 150;
     `);
 
-    const chunks = result.rows || [];
-    console.log(`Found ${chunks.length} relevant chunks with scores:`, 
-      chunks.map(c => ({ 
-        similarity: c.similarity, 
-        title: c.document_title,
-        preview: c.content?.substring(0, 100) + '...'
-      })));
+    const chunks = result.rows.map(row => ({
+      ...row,
+      content: row.content || '',
+      similarity: Number(row.similarity) || 0,
+      document_title: row.document_title || 'Untitled',
+      chunk_rank: Number(row.chunk_rank) || 1,
+      total_chunks: Number(row.total_chunks) || 1
+    }));
+
+    // Log detailed information about found chunks
+    console.log(`Found ${chunks.length} relevant chunks across ${new Set(chunks.map(c => c.document_id)).size} documents`);
+    chunks.forEach((chunk, index) => {
+      console.log(`\nChunk ${index + 1}:`);
+      console.log(`- Document: ${chunk.document_title}`);
+      console.log(`- Similarity: ${(chunk.similarity * 100).toFixed(2)}%`);
+      console.log(`- Content Preview: ${chunk.content.substring(0, 150)}...`);
+      console.log(`- Chunk ${chunk.chunk_rank} of ${chunk.total_chunks} from doc ${chunk.document_id}`);
+    });
+
     return chunks;
   } catch (error) {
     console.error('Error in findSimilarDocuments:', error);
@@ -125,7 +142,7 @@ export async function findSimilarDocuments(query: string) {
   }
 }
 
-// Nouvelle fonction de chat utilisant les Assistants
+// Fonction de chat utilisant les Assistants
 export async function getChatResponse(
   question: string,
   context: any[],
@@ -141,41 +158,47 @@ export async function getChatResponse(
     }
 
     const assistant = await getOrCreateAssistant();
-
-    // Créer un nouveau thread
     const thread = await openai.beta.threads.create();
 
-    // Formater le contexte
-    const formattedContext = context
-      .filter(chunk => chunk && typeof chunk === 'object')
-      .map((chunk, index) => {
-        console.log('Processing chunk:', {
-          title: chunk.document_title,
-          similarity: chunk.similarity,
-          contentLength: chunk.content?.length
-        });
+    // Group context by document for better organization
+    const groupedContext = context.reduce<Record<string, { title: string; chunks: any[] }>>((acc, chunk) => {
+      const docId = chunk.document_id?.toString() || 'unknown';
+      if (!acc[docId]) {
+        acc[docId] = {
+          title: chunk.document_title || 'Untitled',
+          chunks: []
+        };
+      }
+      acc[docId].chunks.push(chunk);
+      return acc;
+    }, {});
 
-        return `=== Document ${index + 1} ===\n${chunk.content?.trim() || 'No content available'}\n`;
+    const formattedContext = Object.entries(groupedContext)
+      .map(([_, doc]) => {
+        const sortedChunks = doc.chunks
+          .sort((a, b) => (a.chunk_rank || 0) - (b.chunk_rank || 0))
+          .map(chunk => chunk.content?.trim())
+          .filter(Boolean);
+        return `=== ${doc.title} ===\n${sortedChunks.join('\n')}\n`;
       })
-      .join('\n');
+      .join('\n\n');
 
-    console.log('Formatted context length:', formattedContext.length);
-    console.log('Sample of context:', formattedContext.substring(0, 200) + '...');
+    console.log('Formatted context structure:');
+    console.log('- Total documents:', Object.keys(groupedContext).length);
+    console.log('- Context length:', formattedContext.length);
+    console.log('- Sample of context:', formattedContext.substring(0, 200) + '...');
 
-    // Ajouter le contexte et la question au thread
     await openai.beta.threads.messages.create(thread.id, {
       role: "user",
-      content: `Question : ${question}\n\nContexte disponible :\n\n${formattedContext}`
+      content: `Question : ${question}\n\nInformations disponibles :\n\n${formattedContext}`
     });
 
-    // Lancer l'assistant
     const run = await openai.beta.threads.runs.create(thread.id, {
       assistant_id: assistant.id,
     });
 
-    // Attendre la réponse avec timeout
     const startTime = Date.now();
-    const TIMEOUT = 45000; // 45 secondes
+    const TIMEOUT = 45000;
 
     while (true) {
       const runStatus = await openai.beta.threads.runs.retrieve(thread.id, run.id);
@@ -185,7 +208,6 @@ export async function getChatResponse(
         const lastMessage = messages.data[0];
 
         if (lastMessage.role === 'assistant') {
-          // Properly handle all content types from the assistant
           const content = lastMessage.content[0];
           if (content.type === 'text') {
             return content.text.value;
@@ -204,7 +226,6 @@ export async function getChatResponse(
         throw new Error('La réponse a pris trop de temps. Veuillez réessayer.');
       }
 
-      // Attendre avant la prochaine vérification
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
   } catch (error) {
