@@ -3,52 +3,66 @@ import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema"
 import { db } from "@db";
 import { sql } from "drizzle-orm";
 
-// Keep OpenAI client just for embeddings
 const openai = new OpenAI({ 
   apiKey: process.env.OPENAI_API_KEY,
-  timeout: 30000 // 30 second timeout
+  timeout: 30000
 });
 
-// Webhook URL for Make.com integration
-const MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/dt9gfk82cb0e5n6rrss049uvowshsj57";
+// ID de l'assistant créé
+let ASSISTANT_ID: string | null = null;
 
-// Fonction utilitaire pour réessayer avec backoff exponentiel
-async function retryWithBackoff<T>(
-  operation: () => Promise<T>,
-  maxRetries = 3
-): Promise<T> {
-  let lastError;
-
-  for (let attempt = 0; attempt < maxRetries; attempt++) {
+async function getOrCreateAssistant() {
+  if (ASSISTANT_ID) {
     try {
-      console.log(`Attempting operation, attempt ${attempt + 1}`);
-      const result = await operation();
-      console.log('Operation successful');
-      return result;
-    } catch (error: any) {
-      lastError = error;
-      console.warn(`Failed attempt ${attempt + 1}:`, error.message);
-
-      // Vérifier si l'erreur est récupérable
-      const shouldRetry = error.status === 429 || 
-                         error.message.includes('timeout') ||
-                         error.message.includes('rate limit');
-
-      if (!shouldRetry) {
-        throw error;
-      }
-
-      // Attendre avec backoff exponentiel
-      const delay = Math.min(1000 * Math.pow(2, attempt), 10000);
-      console.log(`Waiting ${delay}ms before retry...`);
-      await new Promise(resolve => setTimeout(resolve, delay));
+      const assistant = await openai.beta.assistants.retrieve(ASSISTANT_ID);
+      return assistant;
+    } catch (error) {
+      console.warn('Failed to retrieve assistant, creating new one:', error);
     }
   }
 
-  throw lastError || new Error("All attempts failed");
+  console.log('Creating new assistant...');
+  const assistant = await openai.beta.assistants.create({
+    name: "ActiBot",
+    instructions: `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
+
+Instructions :
+1. Base tes réponses UNIQUEMENT sur le contexte fourni
+2. Cite DIRECTEMENT des passages pertinents du contexte entre guillemets "..."
+3. Si l'information n'est pas dans le contexte, dis clairement "Cette information n'est pas présente dans le contexte fourni"
+4. Structure ta réponse avec des paragraphes clairs`,
+    model: "gpt-4-turbo-preview"
+  });
+
+  ASSISTANT_ID = assistant.id;
+  return assistant;
 }
 
-// Requête SQL optimisée pour la recherche de similarité
+// Génération d'embeddings pour la recherche
+export async function generateEmbedding(text: string): Promise<number[]> {
+  if (!text || typeof text !== 'string') {
+    throw new Error('Invalid input: text must be a non-empty string');
+  }
+
+  try {
+    const response = await openai.embeddings.create({
+      model: "text-embedding-3-small",
+      input: text,
+      encoding_format: "float"
+    });
+
+    if (!response.data?.[0]?.embedding) {
+      throw new Error('Invalid embedding response');
+    }
+
+    return response.data[0].embedding;
+  } catch (error) {
+    console.error('Error generating embedding:', error);
+    throw error;
+  }
+}
+
+// Recherche de documents similaires
 export async function findSimilarDocuments(query: string) {
   if (!query || typeof query !== 'string') {
     throw new Error('Invalid query: must be a non-empty string');
@@ -92,11 +106,7 @@ export async function findSimilarDocuments(query: string) {
     `);
 
     const chunks = result.rows || [];
-    console.log(`Found ${chunks.length} relevant chunks with similarity scores:`);
-    chunks.forEach((chunk, index) => {
-      console.log(`Chunk ${index + 1}: similarity=${chunk.similarity?.toFixed(4)}, document=${chunk.document_title}`);
-    });
-
+    console.log(`Found ${chunks.length} relevant chunks`);
     return chunks;
   } catch (error) {
     console.error('Error in findSimilarDocuments:', error);
@@ -104,152 +114,74 @@ export async function findSimilarDocuments(query: string) {
   }
 }
 
-// Génération d'embeddings
-export async function generateEmbedding(text: string): Promise<number[]> {
-  if (!text || typeof text !== 'string') {
-    throw new Error('Invalid input: text must be a non-empty string');
-  }
-
-  return retryWithBackoff(async () => {
-    const response = await openai.embeddings.create({
-      model: "text-embedding-3-small",
-      input: text,
-      encoding_format: "float"
-    });
-
-    if (!response.data?.[0]?.embedding) {
-      throw new Error('Invalid embedding response');
-    }
-
-    return response.data[0].embedding;
-  });
-}
-
-// Format du prompt système optimisé avec appel au webhook Make.com
+// Nouvelle fonction de chat utilisant les Assistants
 export async function getChatResponse(
-  question: string, 
+  question: string,
   context: any[],
-  systemPrompt?: string,
-  history: Array<{ role: "system" | "user" | "assistant"; content: string; }> = []
+  systemPrompt?: string
 ) {
   try {
     console.log('Processing chat response for question:', question);
-    console.log('Context length:', context?.length || 0);
+    const assistant = await getOrCreateAssistant();
 
-    if (!Array.isArray(context)) {
-      console.warn('Context is not an array, using empty array');
-      context = [];
-    }
+    // Créer un nouveau thread
+    const thread = await openai.beta.threads.create();
 
-    const formattedContext = (context || []).map(chunk => {
-      if (!chunk || typeof chunk !== 'object') {
-        console.warn('Invalid chunk in context:', chunk);
-        return '';
-      }
-
-      return `
+    // Formater le contexte
+    const formattedContext = context.map(chunk => `
 Document: ${chunk.document_title || 'Unknown Document'}
 Pertinence: ${(chunk.similarity * 100).toFixed(1)}%
 Contenu:
 ${chunk.content?.trim() || 'No content available'}
----`;
-    }).filter(Boolean).join('\n\n');
+---`).join('\n\n');
 
-    const webhookPayload = {
-      question,
-      context: formattedContext,
-      systemPrompt: systemPrompt || `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
-
-Contexte trouvé (classé par pertinence) :
-${formattedContext || "Aucun contexte pertinent trouvé."}
-
-Instructions :
-1. Base tes réponses UNIQUEMENT sur le contexte ci-dessus
-2. Cite DIRECTEMENT des passages pertinents du contexte entre guillemets "..."
-3. Si l'information n'est pas dans le contexte, dis clairement "Cette information n'est pas présente dans le contexte fourni"
-4. Structure ta réponse avec des paragraphes clairs`,
-      history: history.slice(-3) // Keep last 3 messages for context
-    };
-
-    console.log('Sending request to Make.com webhook');
-
-    return retryWithBackoff(async () => {
-      const abortController = new AbortController();
-      const timeoutId = setTimeout(() => abortController.abort(), 45000); // Augmenté à 45s
-
-      try {
-        const response = await fetch(MAKE_WEBHOOK_URL, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(webhookPayload),
-          signal: abortController.signal
-        });
-
-        clearTimeout(timeoutId);
-
-        if (!response.ok) {
-          const errorText = await response.text();
-          throw new Error(`Webhook error: ${response.status} ${response.statusText} : ${errorText}`);
-        }
-
-        const result = await response.text();
-        console.log('Received webhook response');
-
-        if (!result) {
-          throw new Error('Empty response from webhook');
-        }
-
-        await verifyResponse(result, formattedContext);
-        return result;
-      } catch (error) {
-        clearTimeout(timeoutId);
-        console.error('Chat completion failed:', error);
-        if (error.name === 'AbortError') {
-          throw new Error("La réponse a pris trop de temps. Veuillez réessayer.");
-        }
-        throw error;
-      }
+    // Ajouter le contexte et la question au thread
+    await openai.beta.threads.messages.create(thread.id, {
+      role: "user",
+      content: `Contexte disponible:\n\n${formattedContext}\n\nQuestion: ${question}`
     });
+
+    // Lancer l'assistant
+    const run = await openai.beta.threads.runs.create(thread.id, {
+      assistant_id: assistant.id,
+    });
+
+    // Attendre la réponse avec timeout
+    const startTime = Date.now();
+    const TIMEOUT = 45000; // 45 secondes
+
+    while (true) {
+      const runStatus = await openai.beta.threads.runs.retrieve(thread.id, run.id);
+
+      if (runStatus.status === 'completed') {
+        const messages = await openai.beta.threads.messages.list(thread.id);
+        const lastMessage = messages.data[0];
+
+        if (lastMessage.role === 'assistant') {
+          // Properly handle all content types from the assistant
+          const content = lastMessage.content[0];
+          if (content.type === 'text') {
+            return content.text.value;
+          }
+          throw new Error('Unsupported response type from assistant');
+        }
+        throw new Error('Réponse invalide de l\'assistant');
+      }
+
+      if (runStatus.status === 'failed') {
+        throw new Error('L\'assistant n\'a pas pu générer une réponse');
+      }
+
+      if (Date.now() - startTime > TIMEOUT) {
+        await openai.beta.threads.runs.cancel(thread.id, run.id);
+        throw new Error('La réponse a pris trop de temps. Veuillez réessayer.');
+      }
+
+      // Attendre avant la prochaine vérification
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
   } catch (error) {
     console.error('Error in getChatResponse:', error);
     throw error;
-  }
-}
-
-// Système de vérification des réponses
-async function verifyResponse(response: string, context: string) {
-  try {
-    const citationCount = (response.match(/"|«|»/g) || []).length / 2;
-    const containsContext = context.split('\n').some(line => 
-      response.toLowerCase().includes(line.toLowerCase().substring(0, 50))
-    );
-
-    console.log('Response verification:', {
-      length: response.length,
-      citationCount,
-      usesContext: containsContext
-    });
-
-    if (!containsContext) {
-      console.warn('Warning: Response may not use provided context');
-    }
-    if (citationCount < 1) {
-      console.warn('Warning: Response contains no citations');
-    }
-
-    return {
-      usesContext: containsContext,
-      citationCount,
-      length: response.length
-    };
-  } catch (error) {
-    console.error('Error in verifyResponse:', error);
-    return {
-      usesContext: false,
-      citationCount: 0,
-      length: response.length
-    };
   }
 }
