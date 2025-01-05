@@ -8,41 +8,8 @@ const openai = new OpenAI({
   timeout: 30000
 });
 
-// ID de l'assistant créé
-let ASSISTANT_ID: string | null = null;
-
-async function getOrCreateAssistant() {
-  if (ASSISTANT_ID) {
-    try {
-      const assistant = await openai.beta.assistants.retrieve(ASSISTANT_ID);
-      return assistant;
-    } catch (error) {
-      console.warn('Failed to retrieve assistant, creating new one:', error);
-    }
-  }
-
-  const assistant = await openai.beta.assistants.create({
-    name: "ActiBot",
-    instructions: `Tu es ActiBot, un assistant spécialisé dans les outils d'IA.
-
-1. Tu t'appuies uniquement sur le contexte fourni pour répondre aux questions.
-2. Tu es expert en outils d'IA (générateurs d'images, chatbots, etc).
-3. Pour chaque outil mentionné, tu précises :
-   - Son nom et sa fonction principale
-   - Ses points forts et limitations
-   - Si une version gratuite existe
-4. Si une information n'est pas dans le contexte, tu le dis clairement.
-5. Format des réponses :
-   - Vue d'ensemble des outils pertinents
-   - Détails spécifiques pour chaque outil
-   - Citations entre guillemets du contexte
-   - Mention explicite des informations manquantes`,
-    model: "gpt-4-turbo-preview"
-  });
-
-  ASSISTANT_ID = assistant.id;
-  return assistant;
-}
+// ID of the existing assistant
+const ASSISTANT_ID = "asst_GEDdZLI86iV7DL0RtmBsGOF7";
 
 // Generates embeddings for semantic search
 export async function generateEmbedding(text: string): Promise<number[]> {
@@ -127,13 +94,13 @@ export async function findSimilarDocuments(query: string) {
   }
 }
 
-// Main chat function using Assistants API
+// Main chat function using the specified Assistant
 export async function getChatResponse(
   question: string,
   history: any[] = []
 ) {
   try {
-    const assistant = await getOrCreateAssistant();
+    // Create a new thread
     const thread = await openai.beta.threads.create();
 
     // Add previous messages from history if any
@@ -160,9 +127,9 @@ export async function getChatResponse(
       content: question
     });
 
-    // Run the assistant
+    // Run the assistant with the existing ID
     const run = await openai.beta.threads.runs.create(thread.id, {
-      assistant_id: assistant.id
+      assistant_id: ASSISTANT_ID
     });
 
     // Wait for completion
