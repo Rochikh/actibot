@@ -122,18 +122,31 @@ export async function getChatResponse(
 ) {
   try {
     console.log('Processing chat response for question:', question);
+
+    // Ensure context is an array
+    if (!Array.isArray(context)) {
+      console.warn('Context is not an array:', context);
+      context = [];
+    }
+
     const assistant = await getOrCreateAssistant();
 
     // Créer un nouveau thread
     const thread = await openai.beta.threads.create();
 
     // Formater le contexte
-    const formattedContext = context.map(chunk => `
+    const formattedContext = context.map(chunk => {
+      if (!chunk || typeof chunk !== 'object') {
+        console.warn('Invalid chunk in context:', chunk);
+        return '';
+      }
+      return `
 Document: ${chunk.document_title || 'Unknown Document'}
 Pertinence: ${(chunk.similarity * 100).toFixed(1)}%
 Contenu:
 ${chunk.content?.trim() || 'No content available'}
----`).join('\n\n');
+---`;
+    }).filter(Boolean).join('\n\n');
 
     // Ajouter le contexte et la question au thread
     await openai.beta.threads.messages.create(thread.id, {
