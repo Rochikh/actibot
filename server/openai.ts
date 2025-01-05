@@ -1,7 +1,7 @@
-import OpenAI from "openai";
 import { type Document, type OpenAIModel, type DocumentChunk } from "@db/schema";
 import { db } from "@db";
 import { sql } from "drizzle-orm";
+import OpenAI from "openai";
 
 const openai = new OpenAI({ 
   apiKey: process.env.OPENAI_API_KEY,
@@ -30,7 +30,8 @@ Instructions :
 1. Base tes réponses UNIQUEMENT sur le contexte fourni
 2. Cite DIRECTEMENT des passages pertinents du contexte entre guillemets "..."
 3. Si l'information n'est pas dans le contexte, dis clairement "Cette information n'est pas présente dans le contexte fourni"
-4. Structure ta réponse avec des paragraphes clairs`,
+4. Structure ta réponse avec des paragraphes clairs
+5. Si une partie de la réponse peut être trouvée dans le contexte, utilise cette information même si elle est incomplète`,
     model: "gpt-4-turbo-preview"
   });
 
@@ -62,7 +63,7 @@ export async function generateEmbedding(text: string): Promise<number[]> {
   }
 }
 
-// Recherche de documents similaires
+// Recherche de documents similaires avec seuil plus bas
 export async function findSimilarDocuments(query: string) {
   if (!query || typeof query !== 'string') {
     throw new Error('Invalid query: must be a non-empty string');
@@ -100,13 +101,14 @@ export async function findSimilarDocuments(query: string) {
       FROM similarity_chunks
       WHERE 
         chunk_rank <= 5 AND
-        similarity > 0.05
+        similarity > 0.01  -- Reduced threshold from 0.05 to 0.01
       ORDER BY similarity DESC
       LIMIT 50;
     `);
 
     const chunks = result.rows || [];
-    console.log(`Found ${chunks.length} relevant chunks`);
+    console.log(`Found ${chunks.length} relevant chunks with scores:`, 
+      chunks.map(c => ({ similarity: c.similarity, title: c.document_title })));
     return chunks;
   } catch (error) {
     console.error('Error in findSimilarDocuments:', error);
@@ -135,18 +137,26 @@ export async function getChatResponse(
     const thread = await openai.beta.threads.create();
 
     // Formater le contexte
-    const formattedContext = context.map(chunk => {
-      if (!chunk || typeof chunk !== 'object') {
-        console.warn('Invalid chunk in context:', chunk);
-        return '';
-      }
-      return `
+    const formattedContext = context
+      .filter(chunk => chunk && typeof chunk === 'object')
+      .map(chunk => {
+        console.log('Processing chunk:', {
+          title: chunk.document_title,
+          similarity: chunk.similarity,
+          contentLength: chunk.content?.length
+        });
+
+        return `
 Document: ${chunk.document_title || 'Unknown Document'}
 Pertinence: ${(chunk.similarity * 100).toFixed(1)}%
 Contenu:
 ${chunk.content?.trim() || 'No content available'}
 ---`;
-    }).filter(Boolean).join('\n\n');
+      })
+      .join('\n\n');
+
+    console.log('Formatted context length:', formattedContext.length);
+    console.log('Sample of context:', formattedContext.substring(0, 200) + '...');
 
     // Ajouter le contexte et la question au thread
     await openai.beta.threads.messages.create(thread.id, {
