@@ -14,10 +14,10 @@ export default function ChatPage() {
   const { user, logout } = useUser();
   const scrollAreaRef = useRef<HTMLDivElement>(null);
 
-  // Auto-scroll to bottom when new messages arrive
+  // Auto-scroll to top when new messages arrive
   useEffect(() => {
     if (scrollAreaRef.current) {
-      scrollAreaRef.current.scrollTop = scrollAreaRef.current.scrollHeight;
+      scrollAreaRef.current.scrollTop = 0;
     }
   }, [messages, isLoading]);
 
@@ -61,15 +61,7 @@ export default function ChatPage() {
 
         {/* Messages section */}
         <ScrollArea className="flex-1 p-4" ref={scrollAreaRef}>
-          {messages.map((message, index) => (
-            <ChatMessage
-              key={message.id}
-              message={message.message}
-              response={message.response}
-              timestamp={message.createdAt}
-              isLoading={isLoading && index === messages.length - 1}
-            />
-          ))}
+          {/* Loading state at the top when starting a new conversation */}
           {isLoading && messages.length === 0 && (
             <ChatMessage
               message=""
@@ -78,6 +70,16 @@ export default function ChatPage() {
               isLoading={true}
             />
           )}
+          {/* Display messages in reverse order */}
+          {[...messages].reverse().map((message, index) => (
+            <ChatMessage
+              key={message.id}
+              message={message.message}
+              response={message.response}
+              timestamp={message.createdAt}
+              isLoading={isLoading && index === 0}
+            />
+          ))}
         </ScrollArea>
       </Card>
     </div>
