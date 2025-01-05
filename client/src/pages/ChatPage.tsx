@@ -24,7 +24,13 @@ export default function ChatPage() {
   return (
     <div className="min-h-screen bg-gray-50 p-4">
       <Card className="max-w-4xl mx-auto min-h-[600px] flex flex-col relative">
-        <div className="absolute top-4 right-4 flex gap-2">
+        {/* Input section at the top */}
+        <div className="p-4 border-b">
+          <ChatInput onSend={sendMessage} disabled={isLoading} />
+        </div>
+
+        {/* Action buttons below input */}
+        <div className="px-4 py-2 flex justify-end gap-2 border-b">
           {user?.isAdmin && (
             <Link href="/admin">
               <Button variant="outline" size="sm" className="flex items-center gap-2">
@@ -52,7 +58,9 @@ export default function ChatPage() {
             Déconnexion
           </Button>
         </div>
-        <ScrollArea className="flex-1 p-4 mt-12" ref={scrollAreaRef}>
+
+        {/* Messages section */}
+        <ScrollArea className="flex-1 p-4" ref={scrollAreaRef}>
           {messages.map((message, index) => (
             <ChatMessage
               key={message.id}
@@ -71,9 +79,6 @@ export default function ChatPage() {
             />
           )}
         </ScrollArea>
-        <div className="p-4 border-t">
-          <ChatInput onSend={sendMessage} disabled={isLoading} />
-        </div>
       </Card>
     </div>
   );
