@@ -8,6 +8,9 @@ const openai = new OpenAI({
   timeout: 30000
 });
 
+const MAX_RETRIES = 5;
+const RETRY_DELAY = 1000;
+
 // ID de l'assistant créé
 let ASSISTANT_ID: string | null = null;
 
@@ -21,20 +24,22 @@ async function getOrCreateAssistant() {
     }
   }
 
-  console.log('Creating new assistant...');
   const assistant = await openai.beta.assistants.create({
     name: "ActiBot",
-    instructions: `Tu es ActiBot, un assistant spécialisé qui aide les utilisateurs à trouver des informations sur les outils d'IA.
+    instructions: `Tu es ActiBot, un assistant spécialisé dans les outils d'IA.
 
-Instructions :
-1. Utilise UNIQUEMENT les informations du contexte fourni pour répondre
-2. Pour chaque outil ou service mentionné, cite EXPLICITEMENT le passage pertinent du contexte entre guillemets
-3. Si une information est manquante, indique clairement ce qui est disponible et ce qui ne l'est pas
-4. Format de réponse :
-   - Commence par une vue d'ensemble des outils disponibles
-   - Pour chaque outil, fournis les détails trouvés dans le contexte
-   - Cite les extraits pertinents du contexte
-   - Si des aspects ne sont pas couverts, précise-le`,
+1. Tu t'appuies uniquement sur le contexte fourni pour répondre aux questions.
+2. Tu es expert en outils d'IA (générateurs d'images, chatbots, etc).
+3. Pour chaque outil mentionné, tu précises :
+   - Son nom et sa fonction principale
+   - Ses points forts et limitations
+   - Si une version gratuite existe
+4. Si une information n'est pas dans le contexte, tu le dis clairement.
+5. Format des réponses :
+   - Vue d'ensemble des outils pertinents
+   - Détails spécifiques pour chaque outil
+   - Citations entre guillemets du contexte
+   - Mention explicite des informations manquantes`,
     model: "gpt-4-turbo-preview"
   });
 
@@ -42,31 +47,103 @@ Instructions :
   return assistant;
 }
 
-// Génération d'embeddings pour la recherche
-export async function generateEmbedding(text: string): Promise<number[]> {
-  if (!text || typeof text !== 'string') {
-    throw new Error('Invalid input: text must be a non-empty string');
+async function waitForRunCompletion(threadId: string, runId: string) {
+  let retries = 0;
+  while (retries < MAX_RETRIES) {
+    try {
+      const run = await openai.beta.threads.runs.retrieve(threadId, runId);
+
+      if (run.status === 'completed') {
+        return run;
+      }
+
+      if (run.status === 'failed' || run.status === 'cancelled') {
+        throw new Error(`Run ended with status: ${run.status}`);
+      }
+
+      // Add delay before next check
+      await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY));
+      retries++;
+    } catch (error) {
+      if (retries === MAX_RETRIES - 1) throw error;
+      await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY));
+      retries++;
+    }
   }
+  throw new Error('Run timed out');
+}
 
+// Generates embeddings for semantic search
+export async function generateEmbedding(text: string): Promise<number[]> {
+  const enhancedQuery = `outils intelligence artificielle IA ${text} generateur creation image Midjourney Dall-E Stable Diffusion chatbot assistant`;
+
+  const response = await openai.embeddings.create({
+    model: "text-embedding-3-small",
+    input: enhancedQuery,
+    encoding_format: "float"
+  });
+
+  return response.data[0].embedding;
+}
+
+// Main chat function using Assistants API
+export async function getChatResponse(
+  question: string,
+  history: any[] = []
+) {
   try {
-    const enhancedQuery = `outils intelligence artificielle technologie ${text} generateur creation image Midjourney Dall-E Stable Diffusion`;
-    console.log('Generating embedding for enhanced query:', enhancedQuery);
+    console.log('Processing chat request:', { question, historyLength: history.length });
 
-    const response = await openai.embeddings.create({
-      model: "text-embedding-3-small",
-      input: enhancedQuery,
-      encoding_format: "float"
-    });
+    const assistant = await getOrCreateAssistant();
+    const thread = await openai.beta.threads.create();
 
-    if (!response.data?.[0]?.embedding) {
-      throw new Error('Invalid embedding response');
+    // Add previous messages from history if any
+    if (history.length > 0) {
+      for (const msg of history.slice(-3)) {
+        await openai.beta.threads.messages.create(thread.id, {
+          role: "user",
+          content: msg.message
+        });
+        if (msg.response) {
+          await openai.beta.threads.messages.create(thread.id, {
+            role: "assistant",
+            content: msg.response
+          });
+        }
+      }
     }
 
-    console.log('Generated embedding length:', response.data[0].embedding.length);
-    return response.data[0].embedding;
+    // Add the new question
+    await openai.beta.threads.messages.create(thread.id, {
+      role: "user",
+      content: question
+    });
+
+    // Create and monitor the run
+    const run = await openai.beta.threads.runs.create(thread.id, {
+      assistant_id: assistant.id
+    });
+
+    await waitForRunCompletion(thread.id, run.id);
+
+    // Get the latest message
+    const messages = await openai.beta.threads.messages.list(thread.id);
+    const lastMessage = messages.data[0];
+
+    if (!lastMessage || lastMessage.role !== 'assistant') {
+      throw new Error('Invalid response from assistant');
+    }
+
+    const content = lastMessage.content[0];
+    if (content.type !== 'text') {
+      throw new Error('Unexpected response type from assistant');
+    }
+
+    return content.text.value;
+
   } catch (error) {
-    console.error('Error generating embedding:', error);
-    throw error;
+    console.error('Error in chat response:', error);
+    throw new Error('Une erreur est survenue lors de la génération de la réponse. Veuillez réessayer.');
   }
 }
 
@@ -138,98 +215,6 @@ export async function findSimilarDocuments(query: string) {
     return chunks;
   } catch (error) {
     console.error('Error in findSimilarDocuments:', error);
-    throw error;
-  }
-}
-
-// Fonction de chat utilisant les Assistants
-export async function getChatResponse(
-  question: string,
-  context: any[],
-  systemPrompt?: string
-) {
-  try {
-    console.log('Processing chat response for question:', question);
-
-    // Ensure context is an array
-    if (!Array.isArray(context)) {
-      console.warn('Context is not an array:', context);
-      context = [];
-    }
-
-    const assistant = await getOrCreateAssistant();
-    const thread = await openai.beta.threads.create();
-
-    // Group context by document for better organization
-    const groupedContext = context.reduce<Record<string, { title: string; chunks: any[] }>>((acc, chunk) => {
-      const docId = chunk.document_id?.toString() || 'unknown';
-      if (!acc[docId]) {
-        acc[docId] = {
-          title: chunk.document_title || 'Untitled',
-          chunks: []
-        };
-      }
-      acc[docId].chunks.push(chunk);
-      return acc;
-    }, {});
-
-    const formattedContext = Object.entries(groupedContext)
-      .map(([_, doc]) => {
-        const sortedChunks = doc.chunks
-          .sort((a, b) => (a.chunk_rank || 0) - (b.chunk_rank || 0))
-          .map(chunk => chunk.content?.trim())
-          .filter(Boolean);
-        return `=== ${doc.title} ===\n${sortedChunks.join('\n')}\n`;
-      })
-      .join('\n\n');
-
-    console.log('Formatted context structure:');
-    console.log('- Total documents:', Object.keys(groupedContext).length);
-    console.log('- Context length:', formattedContext.length);
-    console.log('- Sample of context:', formattedContext.substring(0, 200) + '...');
-
-    await openai.beta.threads.messages.create(thread.id, {
-      role: "user",
-      content: `Question : ${question}\n\nInformations disponibles :\n\n${formattedContext}`
-    });
-
-    const run = await openai.beta.threads.runs.create(thread.id, {
-      assistant_id: assistant.id,
-    });
-
-    const startTime = Date.now();
-    const TIMEOUT = 45000;
-
-    while (true) {
-      const runStatus = await openai.beta.threads.runs.retrieve(thread.id, run.id);
-
-      if (runStatus.status === 'completed') {
-        const messages = await openai.beta.threads.messages.list(thread.id);
-        const lastMessage = messages.data[0];
-
-        if (lastMessage.role === 'assistant') {
-          const content = lastMessage.content[0];
-          if (content.type === 'text') {
-            return content.text.value;
-          }
-          throw new Error('Unsupported response type from assistant');
-        }
-        throw new Error('Réponse invalide de l\'assistant');
-      }
-
-      if (runStatus.status === 'failed') {
-        throw new Error('L\'assistant n\'a pas pu générer une réponse');
-      }
-
-      if (Date.now() - startTime > TIMEOUT) {
-        await openai.beta.threads.runs.cancel(thread.id, run.id);
-        throw new Error('La réponse a pris trop de temps. Veuillez réessayer.');
-      }
-
-      await new Promise(resolve => setTimeout(resolve, 1000));
-    }
-  } catch (error) {
-    console.error('Error in getChatResponse:', error);
     throw error;
   }
 }
