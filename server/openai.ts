@@ -86,6 +86,76 @@ export async function generateEmbedding(text: string): Promise<number[]> {
   return response.data[0].embedding;
 }
 
+// Recherche de documents similaires avec seuil plus bas et plus de logging
+export async function findSimilarDocuments(query: string) {
+  if (!query || typeof query !== 'string') {
+    throw new Error('Invalid query: must be a non-empty string');
+  }
+
+  try {
+    console.log('Processing search query:', query);
+    const queryEmbedding = await generateEmbedding(query);
+
+    const embeddingString = `[${queryEmbedding.join(',')}]`;
+
+    const result = await db.execute(sql`
+      WITH similarity_chunks AS (
+        SELECT 
+          dc.content,
+          d.title as document_title,
+          (dc.embedding <#> ${embeddingString}::vector) * -1 as similarity,
+          dc.metadata,
+          d.id as document_id,
+          ROW_NUMBER() OVER (
+            PARTITION BY d.id 
+            ORDER BY (dc.embedding <#> ${embeddingString}::vector) ASC
+          ) as chunk_rank,
+          COUNT(*) OVER (PARTITION BY d.id) as total_chunks
+        FROM document_chunks dc
+        JOIN documents d ON d.id = dc.document_id
+        WHERE dc.content IS NOT NULL AND LENGTH(dc.content) > 0
+      )
+      SELECT 
+        content,
+        document_title,
+        document_id,
+        similarity::float4,
+        metadata,
+        chunk_rank,
+        total_chunks
+      FROM similarity_chunks
+      WHERE 
+        chunk_rank <= 15
+      ORDER BY similarity DESC, document_id, chunk_rank
+      LIMIT 150;
+    `);
+
+    const chunks = result.rows.map(row => ({
+      ...row,
+      content: row.content || '',
+      similarity: Number(row.similarity) || 0,
+      document_title: row.document_title || 'Untitled',
+      chunk_rank: Number(row.chunk_rank) || 1,
+      total_chunks: Number(row.total_chunks) || 1
+    }));
+
+    // Log detailed information about found chunks
+    console.log(`Found ${chunks.length} relevant chunks across ${new Set(chunks.map(c => c.document_id)).size} documents`);
+    chunks.forEach((chunk, index) => {
+      console.log(`\nChunk ${index + 1}:`);
+      console.log(`- Document: ${chunk.document_title}`);
+      console.log(`- Similarity: ${(chunk.similarity * 100).toFixed(2)}%`);
+      console.log(`- Content Preview: ${chunk.content.substring(0, 150)}...`);
+      console.log(`- Chunk ${chunk.chunk_rank} of ${chunk.total_chunks} from doc ${chunk.document_id}`);
+    });
+
+    return chunks;
+  } catch (error) {
+    console.error('Error in findSimilarDocuments:', error);
+    throw error;
+  }
+}
+
 // Main chat function using Assistants API
 export async function getChatResponse(
   question: string,
@@ -144,77 +214,5 @@ export async function getChatResponse(
   } catch (error) {
     console.error('Error in chat response:', error);
     throw new Error('Une erreur est survenue lors de la génération de la réponse. Veuillez réessayer.');
-  }
-}
-
-// Recherche de documents similaires avec seuil plus bas et plus de logging
-export async function findSimilarDocuments(query: string) {
-  if (!query || typeof query !== 'string') {
-    throw new Error('Invalid query: must be a non-empty string');
-  }
-
-  try {
-    console.log('Processing search query:', query);
-    const queryEmbedding = await generateEmbedding(query);
-
-    const embeddingString = `[${queryEmbedding.join(',')}]`;
-
-    // Using cosine_similarity instead of <=> operator for better compatibility
-    const result = await db.execute(sql`
-      WITH similarity_chunks AS (
-        SELECT 
-          dc.content,
-          d.title as document_title,
-          cosine_similarity(dc.embedding, ${embeddingString}::vector(1536)) as similarity,
-          dc.metadata,
-          d.id as document_id,
-          ROW_NUMBER() OVER (
-            PARTITION BY d.id 
-            ORDER BY cosine_similarity(dc.embedding, ${embeddingString}::vector(1536)) DESC
-          ) as chunk_rank,
-          COUNT(*) OVER (PARTITION BY d.id) as total_chunks
-        FROM document_chunks dc
-        JOIN documents d ON d.id = dc.document_id
-        WHERE dc.content IS NOT NULL AND LENGTH(dc.content) > 0
-      )
-      SELECT 
-        content,
-        document_title,
-        document_id,
-        similarity::float4,
-        metadata,
-        chunk_rank,
-        total_chunks
-      FROM similarity_chunks
-      WHERE 
-        chunk_rank <= 15 AND
-        similarity > 0.7
-      ORDER BY similarity DESC, document_id, chunk_rank
-      LIMIT 150;
-    `);
-
-    const chunks = result.rows.map(row => ({
-      ...row,
-      content: row.content || '',
-      similarity: Number(row.similarity) || 0,
-      document_title: row.document_title || 'Untitled',
-      chunk_rank: Number(row.chunk_rank) || 1,
-      total_chunks: Number(row.total_chunks) || 1
-    }));
-
-    // Log detailed information about found chunks
-    console.log(`Found ${chunks.length} relevant chunks across ${new Set(chunks.map(c => c.document_id)).size} documents`);
-    chunks.forEach((chunk, index) => {
-      console.log(`\nChunk ${index + 1}:`);
-      console.log(`- Document: ${chunk.document_title}`);
-      console.log(`- Similarity: ${(chunk.similarity * 100).toFixed(2)}%`);
-      console.log(`- Content Preview: ${chunk.content.substring(0, 150)}...`);
-      console.log(`- Chunk ${chunk.chunk_rank} of ${chunk.total_chunks} from doc ${chunk.document_id}`);
-    });
-
-    return chunks;
-  } catch (error) {
-    console.error('Error in findSimilarDocuments:', error);
-    throw error;
   }
 }
