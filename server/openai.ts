@@ -8,9 +8,6 @@ const openai = new OpenAI({
   timeout: 30000
 });
 
-const MAX_RETRIES = 5;
-const RETRY_DELAY = 1000;
-
 // ID de l'assistant créé
 let ASSISTANT_ID: string | null = null;
 
@@ -45,32 +42,6 @@ async function getOrCreateAssistant() {
 
   ASSISTANT_ID = assistant.id;
   return assistant;
-}
-
-async function waitForRunCompletion(threadId: string, runId: string) {
-  let retries = 0;
-  while (retries < MAX_RETRIES) {
-    try {
-      const run = await openai.beta.threads.runs.retrieve(threadId, runId);
-
-      if (run.status === 'completed') {
-        return run;
-      }
-
-      if (run.status === 'failed' || run.status === 'cancelled') {
-        throw new Error(`Run ended with status: ${run.status}`);
-      }
-
-      // Add delay before next check
-      await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY));
-      retries++;
-    } catch (error) {
-      if (retries === MAX_RETRIES - 1) throw error;
-      await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY));
-      retries++;
-    }
-  }
-  throw new Error('Run timed out');
 }
 
 // Generates embeddings for semantic search
@@ -162,18 +133,18 @@ export async function getChatResponse(
   history: any[] = []
 ) {
   try {
-    console.log('Processing chat request:', { question, historyLength: history.length });
-
     const assistant = await getOrCreateAssistant();
     const thread = await openai.beta.threads.create();
 
     // Add previous messages from history if any
     if (history.length > 0) {
       for (const msg of history.slice(-3)) {
-        await openai.beta.threads.messages.create(thread.id, {
-          role: "user",
-          content: msg.message
-        });
+        if (msg.message) {
+          await openai.beta.threads.messages.create(thread.id, {
+            role: "user",
+            content: msg.message
+          });
+        }
         if (msg.response) {
           await openai.beta.threads.messages.create(thread.id, {
             role: "assistant",
@@ -189,24 +160,32 @@ export async function getChatResponse(
       content: question
     });
 
-    // Create and monitor the run
+    // Run the assistant
     const run = await openai.beta.threads.runs.create(thread.id, {
       assistant_id: assistant.id
     });
 
-    await waitForRunCompletion(thread.id, run.id);
+    // Wait for completion
+    let status = await openai.beta.threads.runs.retrieve(thread.id, run.id);
+    while (status.status !== 'completed') {
+      if (status.status === 'failed' || status.status === 'cancelled') {
+        throw new Error(`Run failed with status: ${status.status}`);
+      }
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      status = await openai.beta.threads.runs.retrieve(thread.id, run.id);
+    }
 
-    // Get the latest message
+    // Get messages
     const messages = await openai.beta.threads.messages.list(thread.id);
     const lastMessage = messages.data[0];
 
     if (!lastMessage || lastMessage.role !== 'assistant') {
-      throw new Error('Invalid response from assistant');
+      throw new Error('No assistant response found');
     }
 
     const content = lastMessage.content[0];
     if (content.type !== 'text') {
-      throw new Error('Unexpected response type from assistant');
+      throw new Error('Unexpected response type');
     }
 
     return content.text.value;
