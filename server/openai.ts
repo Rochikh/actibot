@@ -24,14 +24,17 @@ async function getOrCreateAssistant() {
   console.log('Creating new assistant...');
   const assistant = await openai.beta.assistants.create({
     name: "ActiBot",
-    instructions: `Tu es un assistant spécialisé intégré à ActiBot qui répond aux questions en se basant sur une base de connaissances de documents.
+    instructions: `Tu es ActiBot, un assistant qui répond aux questions en utilisant uniquement les informations fournies dans le contexte.
 
 Instructions :
-1. Base tes réponses UNIQUEMENT sur le contexte fourni
-2. Cite DIRECTEMENT des passages pertinents du contexte entre guillemets "..."
-3. Si l'information n'est pas dans le contexte, dis clairement "Cette information n'est pas présente dans le contexte fourni"
-4. Structure ta réponse avec des paragraphes clairs
-5. Si une partie de la réponse peut être trouvée dans le contexte, utilise cette information même si elle est incomplète`,
+1. Utilise UNIQUEMENT les informations du contexte fourni pour répondre
+2. Si tu trouves une information pertinente, même partielle, utilise-la dans ta réponse
+3. Si certaines informations manquent, précise ce qui est disponible et ce qui ne l'est pas
+4. Cite les passages pertinents du contexte entre guillemets "..."
+5. Format de réponse :
+   - Commence par une réponse directe à la question
+   - Appuie ta réponse avec des citations du contexte
+   - Si des informations manquent, explique ce qui manque`,
     model: "gpt-4-turbo-preview"
   });
 
@@ -141,21 +144,16 @@ export async function getChatResponse(
     // Formater le contexte
     const formattedContext = context
       .filter(chunk => chunk && typeof chunk === 'object')
-      .map(chunk => {
+      .map((chunk, index) => {
         console.log('Processing chunk:', {
           title: chunk.document_title,
           similarity: chunk.similarity,
           contentLength: chunk.content?.length
         });
 
-        return `
-Document: ${chunk.document_title || 'Unknown Document'}
-Pertinence: ${(chunk.similarity * 100).toFixed(1)}%
-Contenu:
-${chunk.content?.trim() || 'No content available'}
----`;
+        return `=== Document ${index + 1} ===\n${chunk.content?.trim() || 'No content available'}\n`;
       })
-      .join('\n\n');
+      .join('\n');
 
     console.log('Formatted context length:', formattedContext.length);
     console.log('Sample of context:', formattedContext.substring(0, 200) + '...');
@@ -163,7 +161,7 @@ ${chunk.content?.trim() || 'No content available'}
     // Ajouter le contexte et la question au thread
     await openai.beta.threads.messages.create(thread.id, {
       role: "user",
-      content: `Contexte disponible:\n\n${formattedContext}\n\nQuestion: ${question}`
+      content: `Question : ${question}\n\nContexte disponible :\n\n${formattedContext}`
     });
 
     // Lancer l'assistant
