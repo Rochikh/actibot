@@ -46,6 +46,7 @@ export async function generateEmbedding(text: string): Promise<number[]> {
   }
 
   try {
+    console.log('Generating embedding for query:', text);
     const response = await openai.embeddings.create({
       model: "text-embedding-3-small",
       input: text,
@@ -56,6 +57,7 @@ export async function generateEmbedding(text: string): Promise<number[]> {
       throw new Error('Invalid embedding response');
     }
 
+    console.log('Generated embedding length:', response.data[0].embedding.length);
     return response.data[0].embedding;
   } catch (error) {
     console.error('Error generating embedding:', error);
@@ -63,7 +65,7 @@ export async function generateEmbedding(text: string): Promise<number[]> {
   }
 }
 
-// Recherche de documents similaires avec seuil plus bas
+// Recherche de documents similaires avec seuil plus bas et plus de logging
 export async function findSimilarDocuments(query: string) {
   if (!query || typeof query !== 'string') {
     throw new Error('Invalid query: must be a non-empty string');
