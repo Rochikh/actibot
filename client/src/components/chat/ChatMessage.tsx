@@ -17,6 +17,8 @@ export default function ChatMessage({ message, response, timestamp, isLoading }:
   // Fonction pour nettoyer le HTML et convertir en Markdown
   const cleanResponse = (text: string) => {
     return text
+      // Supprimer les citations au format [X:X†source]
+      .replace(/\[\d+:\d+†source\]/g, '')
       // Supprimer les balises html et body
       .replace(/<\/?html>/g, '')
       .replace(/<\/?body>/g, '')
