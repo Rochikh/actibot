@@ -70,7 +70,7 @@ export default function AuthPage() {
             <p className="text-xs text-muted-foreground">
               En vous inscrivant, vous acceptez que vos données personnelles soient traitées conformément à notre politique de confidentialité. 
               Vos messages seront utilisés pour améliorer les réponses de l'IA.
-              Vous pouvez exercer vos droits RGPD (accès, rectification, suppression) en contactant admin@actibot.fr
+              Vous pouvez exercer vos droits RGPD (accès, rectification, suppression) en contactant contact@rochane.fr
             </p>
           </CardDescription>
           <Button 
