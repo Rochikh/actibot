@@ -65,8 +65,13 @@ export default function AuthPage() {
           <CardTitle className="text-3xl font-bold text-center">
             ActiBot
           </CardTitle>
-          <CardDescription className="text-center text-sm">
-            La réponse sera générée automatiquement par une IA paramétrée sur les échanges WhatsApp régulièrement mis à jour.
+          <CardDescription className="text-center text-sm space-y-2">
+            <p>La réponse sera générée automatiquement par une IA paramétrée sur les échanges WhatsApp régulièrement mis à jour.</p>
+            <p className="text-xs text-muted-foreground">
+              En vous inscrivant, vous acceptez que vos données personnelles soient traitées conformément à notre politique de confidentialité. 
+              Vos messages seront utilisés pour améliorer les réponses de l'IA.
+              Vous pouvez exercer vos droits RGPD (accès, rectification, suppression) en contactant admin@actibot.fr
+            </p>
           </CardDescription>
           <Button 
             variant="outline" 
