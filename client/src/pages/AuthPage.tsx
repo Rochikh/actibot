@@ -14,6 +14,7 @@ import { Loader2 } from "lucide-react";
 import { SiWhatsapp } from "react-icons/si";
 import { toast } from "@/hooks/use-toast";
 import * as z from 'zod';
+import ResetPasswordForm from "@/components/auth/ResetPasswordForm";
 
 type LoginFormData = z.infer<typeof loginUserSchema>;
 
@@ -21,6 +22,7 @@ export default function AuthPage() {
   const { login, register } = useUser();
   const [isLoading, setIsLoading] = useState(false);
   const [activeTab, setActiveTab] = useState<"login" | "register">("login");
+  const [showResetPassword, setShowResetPassword] = useState(false);
 
   const loginForm = useForm<LoginFormData>({
     resolver: zodResolver(loginUserSchema),
@@ -48,15 +50,26 @@ export default function AuthPage() {
         await register(values as InsertUser);
       }
     } catch (error) {
+      // Display error toast immediately when login/register fails
       toast({
         title: "Erreur",
         description: error instanceof Error ? error.message : "Une erreur est survenue",
         variant: "destructive",
       });
+      // Reset the password field on error
+      if (action === "login") {
+        loginForm.setValue("password", "");
+      } else {
+        registerForm.setValue("password", "");
+      }
     } finally {
       setIsLoading(false);
     }
   };
+
+  if (showResetPassword) {
+    return <ResetPasswordForm onCancel={() => setShowResetPassword(false)} />;
+  }
 
   return (
     <div className="min-h-screen bg-background flex items-center justify-center p-4">
@@ -123,10 +136,21 @@ export default function AuthPage() {
                     )}
                   />
 
-                  <Button type="submit" className="w-full" disabled={isLoading}>
-                    {isLoading && <Loader2 className="h-4 w-4 animate-spin mr-2" />}
-                    Se connecter
-                  </Button>
+                  <div className="space-y-2">
+                    <Button type="submit" className="w-full" disabled={isLoading}>
+                      {isLoading && <Loader2 className="h-4 w-4 animate-spin mr-2" />}
+                      Se connecter
+                    </Button>
+                    <Button
+                      type="button"
+                      variant="ghost"
+                      className="w-full text-sm text-muted-foreground"
+                      onClick={() => setShowResetPassword(true)}
+                      disabled={isLoading}
+                    >
+                      Mot de passe oublié ?
+                    </Button>
+                  </div>
                 </form>
               </Form>
             </TabsContent>
