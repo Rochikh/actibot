@@ -302,4 +302,47 @@ export async function setupAuth(app: Express) {
     console.log("User is not authenticated");
     res.status(401).send("Non connecté");
   });
+
+  app.post("/api/reset-password", async (req, res) => {
+    try {
+      const { username, newPassword } = req.body;
+
+      // Validate input
+      if (!username || !newPassword) {
+        return res.status(400).send("Le nom d'utilisateur et le nouveau mot de passe sont requis");
+      }
+
+      if (newPassword.length < 6) {
+        return res.status(400).send("Le mot de passe doit contenir au moins 6 caractères");
+      }
+
+      // Find user
+      const [user] = await db
+        .select()
+        .from(users)
+        .where(eq(users.username, username))
+        .limit(1);
+
+      if (!user) {
+        return res.status(404).send("Utilisateur non trouvé");
+      }
+
+      // Hash the new password
+      const hashedPassword = await crypto.hash(newPassword);
+
+      // Update password
+      await db
+        .update(users)
+        .set({ 
+          password: hashedPassword,
+          updatedAt: new Date()
+        })
+        .where(eq(users.id, user.id));
+
+      res.json({ message: "Mot de passe mis à jour avec succès" });
+    } catch (error) {
+      console.error("Password reset error:", error);
+      res.status(500).send("Une erreur est survenue lors de la réinitialisation du mot de passe");
+    }
+  });
 }
