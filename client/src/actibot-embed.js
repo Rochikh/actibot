@@ -253,11 +253,11 @@
         </div>
         <div id="actibot-messages-container">
           <div class="actibot-message actibot-bot-message">
-            Bonjour ! Je suis ActiBot, votre assistant spécialisé en intelligence artificielle et génération de contenu. Comment puis-je vous aider aujourd'hui ?
+            Salut ! 👋 Je suis ActiBot, ton assistant dédié aux questions de la communauté WhatsApp **Iarena Educative** et du groupe **Dialogue actif**. N'hésite pas à me poser tes questions sur l'IA, je suis là pour t'aider !
           </div>
         </div>
         <div id="actibot-input-container">
-          <input type="text" id="actibot-message-input" placeholder="Tapez votre message ici...">
+          <input type="text" id="actibot-message-input" placeholder="Tape ta question ici...">
           <button id="actibot-send-button">Envoyer</button>
         </div>
       </div>
@@ -332,7 +332,7 @@
         .catch(error => {
           console.error('Erreur ActiBot:', error);
           removeLoadingIndicator();
-          addMessage("Désolé, une erreur est survenue. Veuillez réessayer plus tard.", 'bot');
+          addMessage("Désolé, une erreur est survenue. Essaie à nouveau dans quelques instants.", 'bot');
         })
         .finally(() => {
           messageInput.disabled = false;
