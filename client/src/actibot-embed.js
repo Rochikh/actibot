@@ -253,7 +253,7 @@
         </div>
         <div id="actibot-messages-container">
           <div class="actibot-message actibot-bot-message">
-            Salut ! 👋 Je suis ActiBot, ton assistant dédié aux questions de la communauté WhatsApp **Iarena Educative** et du groupe **Dialogue actif**. N'hésite pas à me poser tes questions sur l'IA, je suis là pour t'aider !
+            Salut ! 👋 Je suis ActiBot, ton assistant dédié aux questions de la communauté WhatsApp <strong>Iarena Educative</strong> et du groupe <strong>Dialogue actif</strong>. N'hésite pas à me poser tes questions sur l'IA, je suis là pour t'aider !
           </div>
         </div>
         <div id="actibot-input-container">
