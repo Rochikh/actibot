@@ -170,6 +170,13 @@
     .actibot-bot-message a {
       color: #3498db;
       text-decoration: underline;
+      font-weight: bold;
+      transition: color 0.2s ease;
+    }
+    
+    .actibot-bot-message a:hover {
+      color: #2980b9;
+      text-decoration: underline;
     }
     
     .actibot-loading {
@@ -253,7 +260,7 @@
         </div>
         <div id="actibot-messages-container">
           <div class="actibot-message actibot-bot-message">
-            Salut ! 👋 Je suis ActiBot, ton assistant dédié aux questions de la communauté WhatsApp <strong>Iarena Educative</strong> et du groupe <strong>Dialogue actif</strong>. N'hésite pas à me poser tes questions sur l'IA, je suis là pour t'aider !
+            Salut ! 👋 Je suis ActiBot, ton assistant dédié aux questions de la communauté WhatsApp <strong>Iarena Educative</strong> et du groupe <strong><a href="https://chat.whatsapp.com/Bpy9TORsbJ3LMKL4y6nBkj" target="_blank">Dialogue actif</a></strong>. N'hésite pas à me poser tes questions sur l'IA, je suis là pour t'aider !
           </div>
         </div>
         <div id="actibot-input-container">
