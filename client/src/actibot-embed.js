@@ -128,6 +128,48 @@
       background-color: #f1f1f1;
       color: #333;
       border-bottom-left-radius: 5px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    
+    .actibot-bot-message strong {
+      font-weight: 700;
+      color: #000;
+    }
+    
+    .actibot-bot-message em {
+      font-style: italic;
+    }
+    
+    .actibot-bot-message h1, .actibot-bot-message h2, .actibot-bot-message h3 {
+      margin: 8px 0;
+      font-weight: 600;
+    }
+    
+    .actibot-bot-message h1 {
+      font-size: 18px;
+    }
+    
+    .actibot-bot-message h2 {
+      font-size: 16px;
+    }
+    
+    .actibot-bot-message h3 {
+      font-size: 15px;
+    }
+    
+    .actibot-bot-message ul {
+      padding-left: 20px;
+      margin: 8px 0;
+    }
+    
+    .actibot-bot-message li {
+      margin-bottom: 4px;
+    }
+    
+    .actibot-bot-message a {
+      color: #3498db;
+      text-decoration: underline;
     }
     
     .actibot-loading {
@@ -309,6 +351,32 @@
     });
   }
 
+  // Fonction pour convertir le Markdown en HTML (version simplifiée)
+  function markdownToHtml(text) {
+    // Gestion du texte en gras
+    text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    
+    // Gestion du texte en italique
+    text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+    
+    // Gestion des titres
+    text = text.replace(/^### (.*?)$/gm, '<h3>$1</h3>');
+    text = text.replace(/^## (.*?)$/gm, '<h2>$1</h2>');
+    text = text.replace(/^# (.*?)$/gm, '<h1>$1</h1>');
+    
+    // Gestion des listes
+    text = text.replace(/^\- (.*?)$/gm, '<li>$1</li>');
+    text = text.replace(/(<li>.*?<\/li>\n?)+/g, '<ul>$&</ul>');
+    
+    // Gestion des liens
+    text = text.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+    
+    // Gestion des sauts de ligne
+    text = text.replace(/\n/g, '<br>');
+    
+    return text;
+  }
+
   // Ajouter un message au conteneur
   function addMessage(text, sender) {
     const messagesContainer = document.getElementById('actibot-messages-container');
@@ -317,11 +385,12 @@
     
     if (sender === 'user') {
       messageElement.classList.add('actibot-user-message');
+      messageElement.textContent = text; // Pas de markdown pour les messages utilisateur
     } else {
       messageElement.classList.add('actibot-bot-message');
+      messageElement.innerHTML = markdownToHtml(text); // Conversion Markdown pour les réponses du bot
     }
     
-    messageElement.textContent = text;
     messagesContainer.prepend(messageElement);
   }
 
