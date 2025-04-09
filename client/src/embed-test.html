@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test ActiBot Embed</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #3498db;
+    }
+    section {
+      background-color: #f8f9fa;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+    }
+    pre {
+      background-color: #f1f1f1;
+      padding: 15px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #7f8c8d;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Test d'intégration ActiBot</h1>
+    <p>Cette page démontre comment intégrer ActiBot sur n'importe quel site web.</p>
+  </header>
+
+  <section>
+    <h2>Comment ça marche ?</h2>
+    <p>
+      ActiBot peut être facilement intégré à n'importe quel site web en ajoutant un simple script JavaScript.
+      L'assistant apparaît sous forme d'une icône de chat flottante dans le coin inférieur droit de la page.
+    </p>
+    <p>
+      L'intégration est légère, responsive et ne nécessite aucune dépendance externe.
+    </p>
+  </section>
+
+  <section>
+    <h2>Comment l'intégrer dans votre site</h2>
+    <p>Ajoutez simplement ce script à votre site :</p>
+    <pre>&lt;script src="https://votre-domain.com/actibot-embed.js"&gt;&lt;/script&gt;</pre>
+    <p>Vous pouvez également configurer l'URL de l'API :</p>
+    <pre>&lt;script&gt;
+  window.ACTIBOT_API_URL = 'https://actibot.up.railway.app'; // Optionnel, URL par défaut si non spécifiée
+&lt;/script&gt;
+&lt;script src="https://votre-domain.com/actibot-embed.js"&gt;&lt;/script&gt;</pre>
+  </section>
+
+  <section>
+    <h2>Testez maintenant !</h2>
+    <p>
+      Cliquez sur l'icône de chat dans le coin inférieur droit pour interagir avec ActiBot.
+      Posez-lui une question sur l'intelligence artificielle, la génération d'images, ou tout autre sujet lié au domaine !
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 ActiBot - Assistant IA spécialisé</p>
+  </footer>
+
+  <!-- Configuration de l'API ActiBot -->
+  <script>
+    // Utiliser l'URL locale pour le test
+    window.ACTIBOT_API_URL = window.location.origin;
+  </script>
+  
+  <!-- Chargement du script ActiBot -->
+  <script src="/actibot-embed.js"></script>
+</body>
+</html>
