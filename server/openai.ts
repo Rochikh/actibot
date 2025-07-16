@@ -155,7 +155,50 @@ export async function getChatResponse(
       throw new Error('Unexpected response type');
     }
 
-    return content.text.value;
+    // Process annotations to replace source references with actual links
+    let responseText = content.text.value;
+    
+    // Get annotations from the response
+    const annotations = content.text.annotations || [];
+    
+    for (const annotation of annotations) {
+      if (annotation.type === 'file_citation') {
+        // Get file information
+        const fileId = annotation.file_citation.file_id;
+        
+        try {
+          // Get file details from OpenAI
+          const fileInfo = await openai.files.retrieve(fileId);
+          const fileName = fileInfo.filename;
+          
+          // Create a more readable source reference with date extraction
+          let sourceRef = `📄 **Source**: ${fileName}`;
+          
+          // Try to extract date from filename for WhatsApp files
+          if (fileName.includes('WhatsApp') || fileName.includes('Discussion')) {
+            const dateMatch = fileName.match(/(\d{4}[-_]\d{2}[-_]\d{2})|(\w+\d{4})/);
+            if (dateMatch) {
+              sourceRef = `📄 **Source**: Discussion WhatsApp (${dateMatch[0]})`;
+            } else {
+              sourceRef = `📄 **Source**: Discussion WhatsApp`;
+            }
+          }
+          
+          // Replace the annotation with a cleaner source reference
+          responseText = responseText.replace(
+            annotation.text,
+            sourceRef
+          );
+          
+        } catch (error) {
+          console.error('Error retrieving file info:', error);
+          // Fallback: just remove the annotation
+          responseText = responseText.replace(annotation.text, '');
+        }
+      }
+    }
+
+    return responseText;
 
   } catch (error) {
     console.error('Error in chat response:', error);
