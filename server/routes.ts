@@ -4,6 +4,7 @@ import { db } from "@db";
 import { documents, documentChunks, chats, systemPrompts, users, type User } from "@db/schema";
 import { generateEmbedding, findSimilarDocuments, getChatResponse } from "./openai";
 import { autoSplitAndUpload, shouldSplitFile } from "./auto-split-files.js";
+import { manageUpdate, analyzeContentDifferences } from "./update-manager.js";
 import multer from "multer";
 import { eq } from "drizzle-orm";
 import { setupAuth } from "./auth";
@@ -333,6 +334,77 @@ export function registerRoutes(app: Express): Server {
     } catch (error: any) {
       console.error("Auto-split error:", error);
       res.status(500).send(error.message || "Une erreur est survenue lors de la division");
+    }
+  });
+
+  // Route pour analyser les changements avant mise à jour
+  app.post("/api/admin/analyze-update", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res: Response) => {
+    try {
+      const fs = await import('fs');
+      const currentFile = '../attached_assets/Discussion WhatsApp avec 🔁Ai-Dialogue Actif_1752670591921.txt';
+      
+      if (!fs.existsSync(currentFile)) {
+        return res.status(404).send("Fichier WhatsApp non trouvé");
+      }
+
+      const currentContent = fs.readFileSync(currentFile, 'utf-8');
+      
+      // Simuler un nouveau contenu (en pratique, tu uploaderais un nouveau fichier)
+      const newContent = currentContent + '\n\n-- Nouvelles discussions simulées --\n' + 
+                        Array(100).fill().map((_, i) => `${new Date().toLocaleDateString()}, 10:${String(i % 60).padStart(2, '0')} - Test: Message ${i + 1}`).join('\n');
+      
+      const stats = analyzeContentDifferences(currentContent, newContent);
+      
+      const recommendation = {
+        recommended: stats.percentageIncrease < 20 ? 'incremental' : 'full_replacement',
+        reason: `Augmentation de ${stats.percentageIncrease}% du contenu`
+      };
+
+      res.json({
+        stats,
+        recommendation
+      });
+    } catch (error: any) {
+      console.error("Analyze update error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors de l'analyse");
+    }
+  });
+
+  // Route pour lancer la mise à jour
+  app.post("/api/admin/update-content", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res: Response) => {
+    try {
+      const { updateType } = req.body;
+      const fs = await import('fs');
+      const currentFile = '../attached_assets/Discussion WhatsApp avec 🔁Ai-Dialogue Actif_1752670591921.txt';
+      
+      if (!fs.existsSync(currentFile)) {
+        return res.status(404).send("Fichier WhatsApp non trouvé");
+      }
+
+      const currentContent = fs.readFileSync(currentFile, 'utf-8');
+      
+      // Simuler un nouveau contenu (en pratique, tu uploaderais un nouveau fichier)
+      const newContent = currentContent + '\n\n-- Nouvelles discussions --\n' + 
+                        Array(50).fill().map((_, i) => `${new Date().toLocaleDateString()}, 10:${String(i % 60).padStart(2, '0')} - Nouveau: Message ${i + 1}`).join('\n');
+      
+      const result = await manageUpdate(currentFile, 'temp-new-content.txt', updateType);
+      
+      // Écrire temporairement le nouveau contenu pour le test
+      fs.writeFileSync('temp-new-content.txt', newContent);
+      
+      const updateResult = await manageUpdate(currentFile, 'temp-new-content.txt', updateType);
+      
+      // Nettoyer le fichier temporaire
+      fs.unlinkSync('temp-new-content.txt');
+      
+      if (updateResult) {
+        res.json(updateResult);
+      } else {
+        res.status(500).send("Erreur lors de la mise à jour");
+      }
+    } catch (error: any) {
+      console.error("Update content error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors de la mise à jour");
     }
   });
 
