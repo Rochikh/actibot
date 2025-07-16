@@ -8,8 +8,8 @@ const openai = new OpenAI({
   timeout: 30000
 });
 
-// ID of the existing assistant
-const ASSISTANT_ID = "asst_GEDdZLI86iV7DL0RtmBsGOF7";
+// ID of the existing assistant - ActiBot avec gpt-4o-mini
+const ASSISTANT_ID = "asst_JerNOWvyU63gex8p0z3gSv8r";
 
 // Generates embeddings for semantic search
 export async function generateEmbedding(text: string): Promise<number[]> {

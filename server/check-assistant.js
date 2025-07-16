@@ -4,7 +4,7 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
 });
 
-const ASSISTANT_ID = "asst_GEDdZLI86iV7DL0RtmBsGOF7";
+const ASSISTANT_ID = "asst_JerNOWvyU63gex8p0z3gSv8r";
 
 async function checkAssistant() {
   try {
