@@ -3,6 +3,7 @@ import { createServer, type Server } from "http";
 import { db } from "@db";
 import { documents, documentChunks, chats, systemPrompts, users, type User } from "@db/schema";
 import { generateEmbedding, findSimilarDocuments, getChatResponse } from "./openai";
+import { autoSplitAndUpload, shouldSplitFile } from "./auto-split-files.js";
 import multer from "multer";
 import { eq } from "drizzle-orm";
 import { setupAuth } from "./auth";
@@ -310,16 +311,73 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  // Route pour la division manuelle
+  app.post("/api/admin/auto-split", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res: Response) => {
+    try {
+      // Test avec le fichier WhatsApp existant
+      const fs = await import('fs');
+      const whatsappFile = '../attached_assets/Discussion WhatsApp avec 🔁Ai-Dialogue Actif_1752670591921.txt';
+      
+      if (!fs.existsSync(whatsappFile)) {
+        return res.status(404).send("Fichier WhatsApp non trouvé");
+      }
+
+      const content = fs.readFileSync(whatsappFile, 'utf-8');
+      const result = await autoSplitAndUpload(content, 'Discussion WhatsApp avec Ai-Dialogue Actif.txt');
+      
+      if (result) {
+        res.json(result);
+      } else {
+        res.status(500).send("Erreur lors de la division automatique");
+      }
+    } catch (error: any) {
+      console.error("Auto-split error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors de la division");
+    }
+  });
+
   const httpServer = createServer(app);
   return httpServer;
 }
 
-// Fonction de traitement asynchrone
+// Fonction de traitement asynchrone avec auto-division
 async function processDocument(documentId: number, content: string) {
   try {
     console.log(`Starting processing for document ${documentId}`);
 
-    // Traitement par petits morceaux
+    // Récupérer le document pour obtenir le nom du fichier
+    const [document] = await db.select()
+      .from(documents)
+      .where(eq(documents.id, documentId))
+      .limit(1);
+
+    if (!document) {
+      console.error(`Document ${documentId} not found`);
+      return;
+    }
+
+    // Vérifier si le fichier doit être divisé (pour OpenAI Assistant)
+    if (shouldSplitFile(content)) {
+      console.log(`📦 Fichier ${document.title} nécessite une division pour OpenAI Assistant`);
+      
+      try {
+        const splitResult = await autoSplitAndUpload(content, document.title);
+        if (splitResult) {
+          console.log(`✅ Division terminée: ${splitResult.chunksCreated} chunks créés pour OpenAI Assistant`);
+          
+          // Mettre à jour le document pour indiquer qu'il a été divisé
+          await db.update(documents)
+            .set({ 
+              content: `${document.content}\n\n[Auto-divisé en ${splitResult.chunksCreated} parties pour OpenAI Assistant]`
+            })
+            .where(eq(documents.id, documentId));
+        }
+      } catch (error) {
+        console.error(`Erreur lors de la division automatique:`, error);
+      }
+    }
+
+    // Traitement par petits morceaux pour la base de données locale (recherche sémantique)
     const chunkSize = 1000;
     for (let i = 0; i < content.length; i += chunkSize) {
       const chunk = content.slice(i, i + chunkSize);

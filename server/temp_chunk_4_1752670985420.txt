@@ -1,0 +1,609 @@
+01/02/2024, 16:37 - +33 6 22 14 03 93: Bonjour à tous 
+connaissez vous un bon plug pour écrire (posts, textes divers pour une présentation.. ) sur les processus créatifs (je ne veux pas de dessin mais quelque chose qui aborde les processus de créativité)
+01/02/2024, 16:37 - +33 6 22 14 03 93: Merci  : )
+01/02/2024, 16:38 - Rochane: Gamma App?
+01/02/2024, 16:40 - +33 6 22 14 03 93: Je vais voir, merci  👌
+02/02/2024, 08:48 - Rochane: <Médias omis>
+02/02/2024, 10:35 - Jacques BARATTI: l'extension Glasp sur Chrome fait la même chose, ça fonctionne très bien !
+02/02/2024, 17:06 - Jean-Marc Everard: Bonjour, pour des collègues d'autres SPF (Ministères), je suis à la recherche d'outils IA les plus utiles possibles pour le domaine de la formation et de l'apprentissage mais pour lesquels les données seraient relativement protégées. A part Mistral sur un serveur dédié (et à soi), je ne vois pas encore beaucoup d'alternatives. Je n'ai qu'une confiance raisonnable (pour ne pas dire faible) sur la non exploitation des données par Chat GPT Entreprise ou Team, dès lors en connaissez-vous d'autres que vous utiliseriez sur des données potentiellement sensibles ?
+02/02/2024, 17:08 - Rochane: @33768502488 a la solution
+02/02/2024, 17:10 - Jean-Marc Everard: OK, merci. est-ce que je peux la retrouver dans les messages précédents ? je vais remonter le fil dès que j'ai fini quelques tâches urgentes 😉. Déjà merci !
+02/02/2024, 17:10 - Rochane: Non, je pense qu'il va te répondre
+02/02/2024, 17:11 - Guillaume CLEMENT: Je suis la
+02/02/2024, 17:16 - Guillaume CLEMENT: Pour ceux que la peux intéresser il existe aujourd'hui cette plateforme https://www.safebrain.ai/
+Elle permets un accès sécurisé et permet une anonymisation des données propres Numéro de tel et mail en automatique 
+Pour les nom propre le système est géré par une liste rouge
+02/02/2024, 17:17 - Jean-Marc Everard: Merci beaucoup Guillaume. Je transfère déjà ça à mes collègues et teste moi-même !
+02/02/2024, 17:17 - Guillaume CLEMENT: c'est made in France et elle permet un accès à plusieurs LLM dans l'abonnement. Cette solution s'adresse essentiellement a des entreprise aujourd'ui pas d'utilisateur individuel pour le moment.
+02/02/2024, 17:17 - Guillaume CLEMENT: Les LLM comprennent
+CHATGPT
+CLAUDE 2
+MYSTRAL
+et bientôt LLAMA hébergé en europe
+02/02/2024, 17:18 - Guillaume CLEMENT: Elle propose aussi une interface d'administration et l'entrainement d'agent IA par le biais du RAG
+02/02/2024, 17:19 - Guillaume CLEMENT: Si besoin d'une présentation n'hésitez pas 😉
+02/02/2024, 17:19 - Jean-Marc Everard: OK, en étant garanti que l'entreprise derrière safebrain elle-même n'a pas accès aux prompts ?
+02/02/2024, 17:20 - Jean-Marc Everard: ou aux réponses d'ailleurs...
+02/02/2024, 17:27 - Guillaume CLEMENT: Je suis partenaire Safebrain, donc j'ai un accès, j'ai eu a travailler en collaboration avec eux sur un RAG et il a fallu que je déverrouille a 2 niveau et transmettre le lien de la conversation pour qu'ils y aient accès et que l'on puissent bosser ensemble
+02/02/2024, 17:27 - Guillaume CLEMENT: c'est hébergé en France et selon le preco RGPD
+02/02/2024, 17:30 - Jean-Marc Everard: Ok merci bcp. Je transmettrai à mes collègues 👍🏻
+02/02/2024, 19:55 - Votre code de sécurité avec +32 496 42 84 33 a changé. Appuyez pour en savoir plus.
+02/02/2024, 20:17 - Votre code de sécurité avec +33 6 87 86 78 87 a changé. Appuyez pour en savoir plus.
+03/02/2024, 09:31 - ‎+33 7 86 01 11 31 a rejoint le groupe à partir de la communauté.
+03/02/2024, 11:40 - Votre code de sécurité avec ~ ✌🏽🙌🏽 a changé. Appuyez pour en savoir plus.
+03/02/2024, 11:54 - ‎+212 661-506780 a rejoint le groupe à partir de la communauté.
+03/02/2024, 15:22 - +33 6 22 14 03 93: Bonjour à tous 
+Je suis potentiellement intéressé par une formation python en distanciel  pour développer mes connaissances.
+03/02/2024, 15:23 - +33 6 22 14 03 93: Que me recommandez vous comme école ? 
+Merci 🙏
+03/02/2024, 15:23 - +33 6 67 08 30 12: Je sais qu'il y a un mooc de dispo sur fun Mooc concernant le python mais je ne sais pas ce que ça vaut. En attendant c'est gratuit et ça peut à mon avis donner de bonnes bases
+03/02/2024, 15:24 - Rochane: Exactement, j'ai pensé à la même chose sur LinkedIn Python A-Z™: Python For Data Science With Real Exercises!- Discount Course
+https://www.linkedin.com/pulse/python-a-z-data-science-real-exercises-discount-course-ymwmc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+03/02/2024, 16:18 - +33 6 14 90 22 14: Il y a des cours libre d'accès qui sont plutôt bien réalisés sur https://openclassrooms.com/fr/courses
+Il y a des module dur python et autre langage de programmation
+03/02/2024, 16:33 - +212 658-518929: https://www.lewagon.com/fr/data-science-course
+
+J’ai suivi cette formation. C’est assez poussé. Env. 350h. Ça passe sans prerequis en python en étant bien motivé.
+03/02/2024, 16:34 - +212 665-149535: Gratuite
+03/02/2024, 16:34 - +212 658-518929: Non. C’est payant et assez cher en effet. Mais la qualité est excellente. Pour avoir quelques bases, une formation gratuite suffit. Pour explorer de nouvelles perspectives professionnelles, il faut aller plus loin. Tout dépends du projet et des objectifs recherchés. <Ce message a été modifié>
+03/02/2024, 17:46 - Rochane: L'adoption de l'Artificial Intelligence Act (AI Act) par les membres de l'Union européenne marque une étape significative dans la régulation de l'intelligence artificielle (IA) à l'échelle mondiale. Voici les points clés de cette nouvelle législation :
+
+Adoption unanime: Le 2 février, les Vingt-Sept ont unanimement approuvé l'AI Act, une législation pionnière destinée à réguler l'utilisation de l'IA au sein de l'UE. Cette approbation unanime témoigne d'un large consensus sur la nécessité de contrôler le développement et l'application de l'IA.
+
+Entrée en vigueur: La législation est prévue pour entrer en vigueur le 30 avril, avec une application graduelle des différentes dispositions sur plusieurs années. Cette période d'application échelonnée permettra aux acteurs de l'IA de s'adapter aux nouvelles exigences réglementaires.
+
+Étapes clés:
+
+Dans les 6 mois : interdiction effective des cas d'usage de l'IA jugés inacceptables ou dangereux.
+Dans l'année : application des obligations générales pour les acteurs impliqués dans l'IA.
+Dans les 2 ans : mise en œuvre de toutes les contraintes législatives pour tous les cas d'usage de l'IA.
+Dans les 3 ans : délai supplémentaire accordé pour les applications d'IA à haut risque nécessitant une évaluation externe.
+Équilibre entre innovation et sécurité: L'AI Act vise à trouver un juste milieu entre le soutien à l'innovation technologique et la protection des droits fondamentaux des citoyens, assurant ainsi un développement de l'IA à la fois sûr et respectueux des valeurs européennes.
+
+Focus du règlement:
+
+Régulation stricte des IA génératives pour garantir la qualité des données et le respect des droits d'auteur, incluant l'obligation de marquer clairement les contenus générés par IA.
+Mesures de protection contre les risques spécifiques, comme l'interdiction de l'identification biométrique à distance en temps réel et de la surveillance de masse.
+Cette législation positionne l'Europe comme un leader dans la régulation éthique de l'IA, en créant un cadre qui pourrait servir de modèle pour d'autres régions du monde. L'AI Act s'inscrit dans la continuité du rôle précurseur de l'UE en matière de régulation numérique, à l'instar du Règlement général sur la protection des données (RGPD), et souligne l'importance d'une approche responsable et inclusive du progrès technologique.
+03/02/2024, 18:08 - Jean-Marc Everard: Merci beaucoup pour le partage Rochane. J’espère tout de même que l’UE (contrairement à ce qui a été fait pour le RGPD) l’accompagnera d’un vrai soutien à l’innovation en passant notamment par une simplification administrative…🤞).
+03/02/2024, 18:44 - Thierry VANOFFE: Salut la communauté, un outil sympa pour générer différentes de vous : https://app.artflow.ai/image-studio Hyper réaliste !
+03/02/2024, 18:57 - +33 7 86 01 11 31: Merci
+03/02/2024, 19:45 - ‎+33 7 68 31 25 20 a rejoint le groupe à partir de la communauté.
+05/02/2024, 20:33 - ‎+33 6 09 20 84 84 a rejoint le groupe à partir de la communauté.
+06/02/2024, 13:36 - ‎+33 6 47 97 30 87 est parti·e
+07/02/2024, 14:23 - Jacques BARATTI: Le site HuggingFace (https://huggingface.co) vient juste d'ouvrir HiggingChat une interface qui permet de créer des "Assistants" (des GPTs chez OpenAI) qui sont d'accès libre et gratuit (alors que OpenAI il faut être abonné et pour les GPT du store il est prévu un coût d'utilisation. C'est donc une avancée importante pour rendre ces assistants accessibles à tous (enseignants et étudiants). Le modèle de langage utilisé est celui de la société française Mistral (on a le choix entre plusieurs modèles). L'interface de création et d'utilisation est très semblable à celle d'OpenAI et facile d'accès.
+
+J'ai crée un clone de mon GPT QCM et Bloom qui permet de créer des questions à choix multiples à divers niveaux de la taxonomie de Bloom et il fonctionne très bien (toutes disciplines). On peut exporter les questions au format gift pour une importation dans Moodle/Ametice (très facile). L'inconvénient majeur est qu'on ne peut pas fournir de document (seulement du texte)
+
+Si vous voulez tester mon "Assistant" voici l'adresse (il faut créer un compte (gratuit) https://hf.co/chat/assistant/65c28b8ffa60faab1e882b72
+
+Vos retours me seront utiles !
+07/02/2024, 14:29 - +32 479 58 54 12: Attention. Captain AI signale aussi que ces GPTs ne sont pas vérifiés, et presentent des risques de Hack.
+07/02/2024, 14:47 - Rochane: Top, merci pour le partage. On ne peut pas par contre cacher les instructions et je vois qu'il ne les a pas respectés dans ce cas. En plus, pas possible de mettre de la connaissance et le partage est public. Bon début de l'Open Source n'empêche 🙂
+07/02/2024, 14:49 - Jacques BARATTI: Oui les instructions sont visibles (c'est de l'Open source) cela permet à un grand nombre (je pense à mes collègues enseignants non abonnés et aux étudiants) de se familiariser avec ce type d'outil
+07/02/2024, 14:53 - +33 6 58 12 88 07: Interessant mercis. Peut il poser les questions une à une afin de récolter progressivement l’information ? Pour l’open source, bonne idée de travailler dessus avec des étudiants car j’ai constaté récemment que des étudiants  en formation professionnelle supérieure ne s’intéressaient pas vraiment à l IA générative. Donc s’il est possible de leur faire découvrir cela éveillera leur curiosité . Merci 🙏
+07/02/2024, 19:34 - Jacques BARATTI: Est-ce que l'un(e) d'entre vous a déjà utilisé le GPT "Master AI" de Ludo Salenne ? J'ai une question sur son fonctionnement
+07/02/2024, 20:01 - Rochane: Je l'ai testé une fois quand il l'a créé et en a parlé dans sa vidéo. J'avoue que depuis, j'en ai pas eu utilité
+07/02/2024, 20:44 - Jacques BARATTI: Il démarre en créant des assistants IA qui ont des taches spécifiques à faire
+Il promet de prévenir quand le travail est fini et... rien ne se passe. Bizarre non ?
+07/02/2024, 20:46 - Rochane: Si mes souvenirs sont bons, il est réglé pour faire étape par étape et tu dois lui demander de continuer à chaque fois qu'il s'arrête. Si jamais tu veux que l'on fasse des essais, on continue en privé 🙂
+07/02/2024, 20:50 - Jacques BARATTI: j'ai posé une question, obtenu 7 Assistants IA et ensuite cet affichage
+07/02/2024, 20:51 - Rochane: Passe en privé c'est mieux
+07/02/2024, 23:15 - ‎+32 493 82 25 34 a rejoint le groupe à partir de la communauté.
+07/02/2024, 23:20 - ‎+32 493 87 42 05 a rejoint le groupe à partir de la communauté.
+08/02/2024, 11:11 - ‎Clotilde IA a rejoint le groupe à partir de la communauté.
+08/02/2024, 11:14 - Clotilde IA: Bonjour à tous,
+Je viens d’être acceptée dans le groupe et je vous en remercie.
+08/02/2024, 11:18 - Laurent The Cure: Bienvenue Clotilde
+08/02/2024, 11:20 - +262 692 05 20 05: Bienvenue @32471263622
+08/02/2024, 11:20 - ‎+33 7 68 31 25 20 est parti·e
+08/02/2024, 11:50 - Guillaume Singeot: Bonjour. Quelqu'un aurait un outil d'IA générative accessible sans compte et en français, comme ChatGPT (que du texte) svp?
+08/02/2024, 11:53 - Rochane: Perplexity et copilot
+08/02/2024, 12:03 - Guillaume Singeot: Super 👍
+08/02/2024, 12:31 - +33 6 76 04 48 20: Bienvenue !
+Je ne savais pas qu’on pouvait écrire (je pensais que c’était réservé à l’admin).
+Donc je vous remercie de m’avoir accueilli le 31/01…
+08/02/2024, 13:08 - Laurent The Cure: Bienvenue Richard
+08/02/2024, 15:01 - Ahmadou Ba: Bjr.
+08/02/2024, 15:02 - Ahmadou Ba: J'ai comme l'impression que Copilot dépasse de loin ChatGPT dans des tâches de conception de supports pédagogiques qui intègrent des données extraites en ligne (sur le net).
+08/02/2024, 15:04 - Ahmadou Ba: J'ai donné ce prompt à GPT 4 :
+_Conçois un tableau des indicateurs démographiques des pays suivants :
+- États-Unis
+-Canada
+-Mexique
+Les indicateurs démographiques retenus sont :
+- Populations
+- PIB par habitants
+- Taux d'accroissement naturel
+- Indice synthétique de fécondité
+- Part des moins de 15 ans
+- Part des plus de 65 ans.
+Tu dois effectuer des recherches sur le Web pour trouver les données statistiques les plus récentes. Il ne doit y avoir aucunes données manquantes, ni fictives._
+08/02/2024, 15:05 - Ahmadou Ba: ChatGPT a été incapable de me donner un resultat satisfaisant, il me renvoie toujours vers des sites web, alors que Copilot m'a automatiquement cracher le tableau avec les sources
+08/02/2024, 15:58 - Jacques BARATTI: d'une manière générale GPT4 est meilleur que les autres IA mais il y a des points spécifiques ou certaines IA sont plus performantes que GPT4. Difficile de savoir à priori surtout que le niveau de performance évolue rapidement !
+08/02/2024, 16:07 - Ahmadou Ba: En fait j'ai l'impression il est de plus en plus bridé et qu'il ne peut pas extraire les données sur les sites en ligne; il n'arrete pas de me renvoyer vers les sites pour plus ample information.
+08/02/2024, 16:08 - Jacques BARATTI: C'est certainement le LLM le plus utilisé au niveau mondial et suivant la demande il réduit ses performances pour permettre un accès à tous...
+08/02/2024, 16:11 - Ahmadou Ba: En pédagogie on en besoin de données fiables et rapidement, mais il vous tourne en rond pendant longtemps avant de données des réponses partielles. J'ai déjà un abonnement à GPT 4 mais franchement ça commence à être très limité. Je ne sais pas si vous avez fait ce constant.
+08/02/2024, 16:13 - Jacques BARATTI: oui idem, je suis "en pause" car j'ai atteins la limite des messages… Pour les sujets sur lesquelles je travaille j'ai testé d'autres IA (gratuites) avec des résultats moins bons
+08/02/2024, 16:25 - Rochane: Personnellement, je pense que chat gpt est le meilleur outil d'intelligence artificielle générative pour l'instant par rapport à aux autres. Maintenant, concernant ton prompt, je trouve qu'il est pas complet. Peut-être que tu devrais l'élaborer un peu plus, lui donner plus de contexte et puis aussi lui donner un rôle sur ce que tu n'as pas fait. Après, il y a peut-être aussi des GPTs  qui font ça de façon beaucoup plus précise. Avant de tirer des conclusions hâtives, je pense qu'il faut tester encore plus
+08/02/2024, 16:35 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 16:42 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 16:44 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 16:47 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 17:02 - Rochane: Avec très peu de modifications, j'ai obtenu ça https://chat.openai.com/share/596d41ce-67cb-4079-a0d1-5a43d623c102
+08/02/2024, 17:44 - ‎+33 6 58 61 98 09 est parti·e
+08/02/2024, 22:15 - Thierry VANOFFE: Attention Bard et Duet AI deviennent GEMINI depuis aujourd'hui et c'est vraiment (enfin !) du lourd ce que Google vient de sortir. A suivre dans les prochains jours.
+08/02/2024, 22:17 - Guillaume CLEMENT: je suis dessus à l'instant @33681508047
+08/02/2024, 22:18 - Guillaume CLEMENT: c'est assez ouf j'avoue
+08/02/2024, 22:18 - Rochane: Ludo salenne a sorti aujourd'hui une vidéo sur Gemini ultra et c'est vraiment pas top
+08/02/2024, 22:21 - Jacques BARATTI: Vu la vidéo de Ludo, il est réservé sur Gemini Advanced (la version payante)
+08/02/2024, 22:33 - Guillaume CLEMENT: l'envoi direct avec Gdocs/Gmail est très appréciable tu trouve pas ?
+08/02/2024, 22:46 - +33 7 86 01 11 31: Merci pour ces informations
+09/02/2024, 08:00 - Céline Averseng: Il y a mistral aussi
+09/02/2024, 08:24 - Jean-Marc Everard: Merci déjà pour ces infos sur Gemini, je vais tester aujourd’hui. C’est vrai que jusque là j’étais moyennement convaincu mais s’il y a du changement c’est p-e bien. Il ne faut pas oublier que petit à petit on va être victime de biais cognitifs comme ceux de familiarité et de confirmation qui vont nous faire préférer ce qu’on maîtrise déjà…
+09/02/2024, 08:26 - Guillaume CLEMENT: C'est un risque @32496968742
+09/02/2024, 08:44 - Ahmadou Ba: Je suis d'avis, je l'ai tester hier, il est bon et en plus il permet d'insérer des images et des fichiers dans le prompt. Mais également constater que les liens des sites fournis ne sont pas toujours bons.
+09/02/2024, 09:04 - Thierry VANOFFE: normal il a testé en français et le service arrive en France dans moins d'un mois, faut utiliser la version anglaise pour voir le vrai potentiel, en tout cas c'est au niveau de chat GPT 4 pour info à ce jour...
+09/02/2024, 10:25 - ‎+33 6 45 48 92 22 a rejoint le groupe à partir de la communauté.
+09/02/2024, 14:39 - ‎+33 6 32 89 07 43 a rejoint le groupe à partir de la communauté.
+09/02/2024, 17:57 - Rochane: J'ai appris un truc dans un Mooc, à mettre dans les Custom Instructions qui permet de générer un lien pour préparer le mail à être envoyé à partir de son client messagerie, sauf que chez moi le lien hypertexte n'est pas cliquable. Quelqu'un peut tester "Whenever I ask you to create an email, also add a mailto link under it with:[Send Email](mailto:[email-address]?[subject]=[subject-text]&[body]=[body-text])"
+09/02/2024, 18:11 - Rochane: 🤣 https://kulturegeek.fr/news-304518/insolite-utilise-chatgpt-discuter-plus-5000-femmes-tinder-ca-marche
+10/02/2024, 13:21 - +33 6 86 72 33 98: Bonjour, connaissez-vous une IA pour élaborer des CV? Merci pour ce groupe et pour les partages et la générosité de tous ses membres! 🙏
+10/02/2024, 13:24 - +33 6 86 72 33 98: Jusqu'à présent, j'utilise Canva mais peut être y en a t'il d'autres?
+10/02/2024, 13:33 - Rochane: https://resumake.io/generator/skills
+10/02/2024, 13:41 - +32 493 87 42 05: Bonjour, svp connaissez-vous une IA autres et peut-être plus performant que Canva qui aide dans la conception des eBook? Je vous remercie par avance!
+10/02/2024, 13:57 - +33 6 76 04 48 20: Bonjour, après consultation, je pense qu’il y a un autre moyen de procéder : on ne trouve pas à proprement parler d’IA qui puisse permettre de rédiger un CV, on peut le demander à ChatGPT, mais il risque de partir dans tous les sens. 
+Une autre façon de procéder peut-être plus pragmatique serait de rentrer un CV dans ChatGPT, et de lui demander de l’interpréter ou de le reformuler.
+Une deuxième façon de procéder serait d’entrer chacune des expériences vécues pour lui demander la même chose, de même pour chacun des domaines de compétences, en lui demandant de les requalifier, de demander des adjectifs, qui puissent permettre de mettre la compétence en valeur.
+Il s’agit en fait d’utiliser l’IA comme un outil ((ce qu’elle est véritablement) plutôt que de lui demander de faire le travail à notre place.
+Qu’en pensez-vous ?
+10/02/2024, 19:11 - ‎+212 644-562660 a rejoint le groupe à partir de la communauté.
+10/02/2024, 19:26 - Céline Averseng: Tout à fait d'accord ! Je pense que c'est en effet la solution si on veut éviter de se retrouver avec des CV qui n'auront pas grand intérêt...
+10/02/2024, 19:33 - Rochane: Exactement et d'ailleurs tous ces outils qui font des présentations ou qui génèrent des CV sont programmés avec des préprompts qui vont dans ce sens.On peut très bien comme tu le dis procéder étape par étape en travaillant sur les expériences et en lui montrant des exemples, en insistant sur le style... Tout ça nécessite un travail soutenu mais le résultat est personnalisé et nettement meilleur que si on se laissait faire 🙂
+10/02/2024, 19:45 - +33 6 76 04 48 20: Effectivement, j’ai découvert l’IA depuis quelques semaines seulement dans le cadre de ma formation FPA.
+Je suis stupéfait de ce qu’elle permet, mais je m’aperçois que par réflexe j’ai eu tendance à l’utiliser comme un moteur de recherche haut de gamme (résultat que nous pouvons obtenir en consultant les metamoteurs) alors qu’en ayant ce travail soutenu pour reprendre ton expression, très juste à mon sens, on peut en obtenir beaucoup plus.
+Il est clair que nous avons du pain sur la planche 😜
+10/02/2024, 21:27 - ‎+58 414-0445031 est parti·e
+11/02/2024, 12:33 - Rochane: https://www.now.be/off/les-outils-ia-en-formation-de-la-conception-a-la-mise-en-oeuvre/ merci @32494186355
+11/02/2024, 12:35 - ‎+33 6 60 98 89 03 a rejoint le groupe à partir de la communauté.
+11/02/2024, 20:48 - ‎+34 618 97 47 94 a rejoint le groupe à partir de la communauté.
+12/02/2024, 12:39 - +33 6 76 04 48 20: C’est grâce à ce off que j’ai découvert votre whatsapp ! 👍
+12/02/2024, 16:53 - +33 6 22 14 03 93: Mince je suis absent… il y aura un replay ?
+12/02/2024, 17:00 - Rochane: Vous avez supprimé ce message
+12/02/2024, 17:01 - Rochane: Ca a déjà eu lieu, il faut s'inscrire et récupérer Replay. Enfin, si j'ai bien compris 🙂
+12/02/2024, 17:01 - Guillaume Singeot: il ne me sembla pas : https://www.now.be/tous-les-replays-du-off/   et il y a plein de choses intéressantes!
+12/02/2024, 21:37 - ‎+41 78 670 37 57 est parti·e
+14/02/2024, 11:44 - +32 497 91 17 24: Bonjour, 👋 quelqu’un a trouvé une solution pour utiliser Claude ? 🤗 J’ai vu la proposition de @33649535198 mais pas de numéro étranger de mon côté … 🥲bonne journée
+14/02/2024, 12:10 - +32 470 11 45 36: Et via perplexity ?
+14/02/2024, 12:14 - Jean-Marc Everard: Bonjour, une de mes collègues d'un autre organisme fédéral belge est à la recherche de personnes ou petites organisations capable de donner des formations en Français et en néerlandais sur les fondamentaux de l'IA, les évolutions attendues (je suppose les défis et enjeux aussi) et le prompt engineering. Je le ferais bien moi-même mais s'il y a beaucoup de sessions (je ne sais pas quelle est l'ampleur du public visé), j'ai peur que ce ne soit incompatible avec mon agenda et puis en interne au fédéral c'est souvent plus tricky. Ils ont déjà lancé un premier appel d'offre sans succès. Des idées ? Merci d'avance.
+14/02/2024, 12:21 - +33 6 86 72 33 98: https://linktr.ee/LucieDhorne
+14/02/2024, 12:23 - +33 6 86 72 33 98: https://www.linkedin.com/in/yvan-demumieux?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+14/02/2024, 12:31 - +32 479 58 54 12: Interessee mais pas en néerlandais. 🙂 https://www.linkedin.com/in/dominique-moraux-consultante/
+14/02/2024, 12:37 - Jean-Marc Everard: Merci beaucoup pour vos réponses. J'avais déjà indiqué certains d'entre vous à cette collègue mais attention, et c'est là que le bât blesse souvent, il s'agit de formations (je pense de préférence en présentiel à Bruxelles) en Français ET Néerlandais. Les mêmes sessions dans les 2 langues (pas forcément en même temps).
+14/02/2024, 12:40 - Jean-Marc Everard: Administration Fédérale Belge bilingue (+sensibilités) oblige... 🫤
+14/02/2024, 12:43 - Guillaume CLEMENT: je ne maitrise pas le néerlandais malheureusement
+14/02/2024, 17:35 - Rochane: https://youtu.be/ncFRzGWJhd4?feature=shared
+14/02/2024, 17:36 - Rochane: Si vous souhaitez être en veille par rapport l'IA, c'est le compte à suivre. Non, votre vitesse de YouTube n'est pas augmentée quand il parle 🤣
+14/02/2024, 18:06 - +32 470 11 45 36: Oui. Je le ralenti parfois en effet 😅. L’avantage c’est qu’il va droit au but.
+14/02/2024, 18:15 - Francois Bocquet: A propos de la création de CV avec de l’IA : https://x.com/alexnoubeyou/status/1757492390976266689?s=46&t=QM5x2aOeGRRFI0H4EbtsOQ
+14/02/2024, 18:39 - Lucie: Hello hello. Tout d'abord merci à @33686723398 de m'avoir citée. Aller a Bruxelles ne me dérange pas par compte je n'intervient qu'en FR et EN. Toutefois, ayant cloné ma voix je peux proposer une version synchrone FR et néerlandais asynchrone IA. Ou sinon la bonne vieille méthode de prendre un traducteur. Belle soirée à tous. Lucie Dhorne
+14/02/2024, 18:41 - Jean-Marc Everard: En effet, porté très bien son nom et personnellement j’aime bien sa vitesse, j’ai l’impression d’aller aussi souvent plus vite 😉
+14/02/2024, 18:47 - Jean-Marc Everard: Bonsoir, merci beaucoup pour toutes les réactions, évidemment, étant dans un groupe francophone il est normal que le Nl ne soit pas trop maîtrisé. Je vais envoyer tous vos contacts à la personne en question (qui est néerlandophone 😳) et nous verrons bien. J’ai l’impression que sur le - petit-marché belge, c’est le moment de faire des partenariats 😉. Sinon, peut être que des gens de mon équipe pourront assurer la partie Nl. Tout dépend un peu de leur public cible à vrai dire. Très bonne soirée à vous.
+14/02/2024, 18:48 - Lucie: <Médias omis>
+14/02/2024, 18:49 - Enes Cornelis: C’est pour aller droit au but ! 😂
+14/02/2024, 18:52 - Enes Cornelis: C’est intentionnel, car de nombreux comptes traitant de l'intelligence artificielle ont tendance à paraphraser excessivement sans apporter de valeur ajoutée. Ici, il opte pour une approche directe, offrant une review concise sans chercher à étendre inutilement le contenu <Ce message a été modifié>
+14/02/2024, 18:56 - +32 484 68 10 13: Il y a aussi Technofutur TIC pour les formation IA
+14/02/2024, 18:56 - +32 484 68 10 13: Moi malheureusement, je ne maîtrise pas le néerlandais
+14/02/2024, 19:06 - Rochane: @32496428724 en fait partie 🙂
+14/02/2024, 19:08 - +32 479 44 06 71: https://trends.levif.be/canal-z/un-hub-belge-de-formation-dedie-a-lintelligence-artificielle/
+14/02/2024, 19:08 - +32 479 44 06 71: https://www.lavenir.net/regions/charleroi/charleroi/2024/02/07/charleroi-technofuturtic-met-en-place-une-plateforme-pour-amener-les-enseignants-a-maitriser-lintelligence-artificielle-24BHDBLOTNA4XKF5PPQWKYQZGY/
+14/02/2024, 19:10 - +32 484 68 10 13: Exactement avec une chouette équipe de formateurs 😊
+14/02/2024, 19:11 - +32 484 68 10 13: Et formatrices
+14/02/2024, 19:31 - +32 479 44 06 71: Comme toi 😉
+14/02/2024, 19:36 - +32 484 68 10 13: Hoooo je te renvoie le compliment 🥰
+15/02/2024, 06:36 - +689 89 60 06 24: Un thread twitter/X sur la création de CV <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Pas besoin de PAYER pour les créateurs de CV.<br><br>ChatGPT peut créer un CV instantanément.<br><br>Je vais vous montrer comment faire en 4 étapes (100% gratuites) :</p>&mdash; Alex Noubeyou (@AlexNoubeyou) <a href="https://twitter.com/AlexNoubeyou/status/1757492390976266689?ref_src=twsrc%5Etfw">February 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+15/02/2024, 07:10 - Rochane: Merci pour le partage Fabrice, notre ami François Boquet l'a partagé juste au dessus 🙂
+15/02/2024, 07:28 - Lucie: Je reposte ce message ici. Je vous prie de faire attention aux effets d'annonce. Pour être plus claire : cet outil ne fait pas mieux qu'un bon prompt sur GPT. A moins que vous souhaitiez payer pour un CV au design des années 90. L'usage est intéressant, l'outil pas du tout <Ce message a été modifié>
+15/02/2024, 07:30 - +689 89 60 06 24: Ah, désolé du doublon. C’est d’ailleurs par son retweet que je l’ai découvert
+15/02/2024, 09:39 - +33 6 20 35 46 24: Bonjour est ce que qu’un ici utilise Poe.com dans sa version payante et savez-vous si cela permet d’utiliser toutes les fonctionnalités et api de chat gpt 4 ?
+15/02/2024, 09:41 - Rochane: Je suis en train de tester perplexity qui fait tout ça 🙂
+15/02/2024, 09:42 - +33 6 20 35 46 24: Je suis très intéressé par ton retour du coup
+15/02/2024, 09:52 - Rochane: https://youtu.be/M4R7IjUounI?feature=shared
+15/02/2024, 09:52 - +33 6 20 35 46 24: excellent je suis justement en train de la regarder7
+15/02/2024, 09:59 - +34 618 97 47 94: Bonjour à tous,
+
+Merci pour tout ces partages, c’est intéressant de voir comment et quels outils vous utilisez le plus.
+
+Je m’appelle Gaëlle Collas, expatriée à Barcelone, je vais donner une formation sur l’intégration de l’IA dans l’éducation du 18 au 22 mars à Barcelone.
+Elle est financiée par Erasmus 
+https://dorea.org/erasmuscourses/integrating-ai-in-education/
+
+Si ça vous intéresse il reste des places.
+Mais surtout j’ai une question pour vous:
+Si vous assistiez à une telle formation, qu’en espèreriez-vous?
+Merci!
+15/02/2024, 10:11 - +33 6 11 53 71 34: Bonjour et merci de tous vos partages ! De mon côté je débute en IA et ne peux pas vous apporter encore grand chose. 
+Notre organisme de formation cherche également à organiser 1/2 journée auprès des équipes pour les initier à  l'IA en formation à Rambouillet (France). Auriez-vous des suggestions, contacts ?
+15/02/2024, 10:15 - +34 618 97 47 94: Je donne des formations en tant qu’indépendante pour entreprises aussi mais en ligne. 
+Je pourrais me déplacer si c’est pour plusieurs jours.
+15/02/2024, 10:17 - +33 6 11 53 71 34: Nous concernant ce n'est  qu'une approche en présentiel d'une 1/2 journée mais je retiens votre proposition pour une autre intervention éventuelle. Merci !
+15/02/2024, 11:01 - Jean-Marc Everard: Bonjour Gaëlle, je sais que ce n'est pas pratique mais cela dépend, comme vous vous en doutez, énormément du niveau préalable d'usage de votre public. J'ai donné récemment un workshop pour un public mixte (quelques-uns un peu initiés, ayant tester quelques trucs et d'autres totalement novices). Leurs attentes étaient d'avoir à la fois des infos pratiques sur "où trouver des IA ? Comment les choisir ? Quels en sont les possibilités et limitations ?". Ensuite quelques mots sur les défis/ AI act, éthique, écologique, de confidentialité, sobriété  etc.  Avoir une vision d'avenir un peu. Et ensuite pouvoir expérimenter concrètement sur des cas d'usages qui leur parlent.
+15/02/2024, 12:39 - +34 618 97 47 94: Merci beaucoup. Je n’ai pas d’informations sur les participants mais je pense que ce sera aussi un public mixte.
+J’ai découvert dernièrement un super outil: MagicSchool AI qui réuni la majorité des cas d’usages dans l’éducation: pour la création de cours mais aussi de rapports et communication avec les parents, l’administration… il me reste encore à le tester pour voir les résultats réels.
+Merci beaucoup pour le retour!
+15/02/2024, 12:47 - Lucie: Bonjour Gaëlle. J'ai écrit un livre sur le sujet, disponible chez tous les libraires https://www.titashop.fr/products/lia-pour-la-formation-dhorne
+15/02/2024, 12:48 - Lucie: Et sinon j'anime aussi une formation au Collège de Paris à ce sujet. Les apprenants en parle le mieux : https://www.linkedin.com/posts/david-r-131089224_formationprofessionnelle-intelligenceartificielle-activity-7162184435394662400-t6BP?utm_source=share&utm_medium=member_android
+15/02/2024, 12:49 - Lucie: Des solutions il y en à plein ;)
+15/02/2024, 12:52 - +32 479 58 54 12: Oui. Cela dépend vraiment du public visé et des objectifs à atteindre. Une formation sur l'IA peut être abordée de 100 façons différentes.
+15/02/2024, 12:59 - Rochane: Je confirme, on en a acheté 2 et hâte de le trouver demain à mon bureau à Bruxelles 🙂
+15/02/2024, 13:08 - Lucie: Ce livre j'aurais dû l'appeler les trucs et astuces de mamie Lucie 😂
+15/02/2024, 13:12 - +33 6 84 84 42 61: J en ai acheté un, et il faut que je surveille, tout le monde lorgne dessus!
+15/02/2024, 13:17 - Lucie: Il faut qu'on se rappelle d'ailleurs Emmanuelle. 
+Mon éditeur m'a dit que Amazon avait refait une commande du livre car déjà en rupture de stock
+15/02/2024, 13:26 - +33 6 84 84 42 61: Yep, avec plaisir
+15/02/2024, 17:04 - Cyril Divoul: SONDAGE  :
+Je suis actuellement une formation sur « L’IA au service des entreprises ». Le but est de comprendre l’IA, ML, DL, d’en comprendre les implications et d’aborder la gestion de projet. Souhaitez-vous en discuter ?
+OPTION  : Non, cela ne l’intéresse pas, je préfère parler des outils. (‎0 vote)
+OPTION  : Oui, pourquoi pas ? (‎5 votes)
+OPTION  : Oui et j’ai des questions (générales) (‎5 votes)
+
+15/02/2024, 18:05 - Guillaume Singeot: <Médias omis>
+15/02/2024, 18:07 - Rochane: Super Cyril, il y a un sondage dans le groupe Annonce pour proposer aussi ton partage. Merci 🙏
+15/02/2024, 18:07 - Rochane: Tu veux bien le partager mercredi prochain ?
+15/02/2024, 18:09 - Guillaume Singeot: j'ai du rater une info : il se passe quoi mercredi prochain ? ou ? quand ? avec qui ?
+15/02/2024, 18:09 - Rochane: Il y a un live, regarde le groupe annonce, surtout le sondage 🙂
+15/02/2024, 18:11 - Guillaume Singeot: c'est fait! tu veux un lien pour mercredi ?
+15/02/2024, 18:29 - Guillaume Singeot: Ce message a été supprimé.
+15/02/2024, 18:55 - Ahmadou Ba: bjr, qui connais un moyen ou un astuce pour diffuser  pour diffuser un module opale en ligne.
+15/02/2024, 18:59 - Guillaume Singeot: tu l'as sous quel format ? dispose tu d'un lms type Moodle ?
+15/02/2024, 19:07 - Ahmadou Ba: Ah c le problème, pas de lms de types moodle, ni serveur propre🤣
+15/02/2024, 19:09 - Guillaume Singeot: https://moodle.com/fr/solutions/moodlecloud/  Moodle en version cloud et gratuite?
+15/02/2024, 19:11 - Ahmadou Ba: Ah bon merci, j'avais installé Moodle en local pour faire mes test, mais je ne savais pas qu'on pouvais le déployer en ligne gratuitement.
+15/02/2024, 19:17 - Enes Cornelis: https://x.com/openai/status/1758192957386342435
+
+OPENAI sort un modele VIDEO, c’est INCROYABOE
+15/02/2024, 19:18 - Guillaume Singeot: Version limitée dans le temps (1 mois de mémoire) et sur la taille des fichiers qu'on peut déposer. Sinon, https://moodlebox.net/fr/
+15/02/2024, 19:19 - Rochane: <Médias omis>
+15/02/2024, 19:25 - Ahmadou Ba: Il est intéressant celui-là. Merci
+15/02/2024, 19:26 - Ahmadou Ba: je vais celui inchallah et vous revenir
+15/02/2024, 19:28 - Jean-Marc Everard: Mince, moi qui voulais l’acheter. Encore moyen de le trouver en librairie en Belgique ?
+15/02/2024, 19:28 - Lucie: C'est Amazon ;) il n'y a jamais de rupture :)
+15/02/2024, 21:36 - ‎LIO a rejoint le groupe à partir de la communauté.
+16/02/2024, 09:38 - Rochane: https://youtu.be/HD0JxlFCLDY?feature=shared Notre ami @33768502488 qui se fait interviewer 👍 <Ce message a été modifié>
+16/02/2024, 12:20 - Guillaume Singeot: Bonjour ;) je cherche (désespérément) à reproduire l'image qui est ici : https://fr.scribd.com/document/697633971/escalier-pedagogique avec un outil d'IA. j'ai essayé avec plusieurs outils et ça ne marche jamais. Quelqu'un aurait une piste ?
+16/02/2024, 12:23 - Rochane: Tu as essayé le gpt canva voire dans Canva  directement ? <Ce message a été modifié>
+16/02/2024, 12:24 - Rochane: Dans canva directement
+16/02/2024, 12:25 - Guillaume Singeot: Oui et je ne me sort pas. avec Canva, avec gpt et avec les deux ensemble :(
+16/02/2024, 12:33 - +33 6 34 01 06 77: Bonjour, peut-être essayer avec adobe firefly? Il y a la possibilité également de sélectionner une partie de l’image générée et la changer
+16/02/2024, 12:34 - Guillaume Singeot: je vais donc explorer Firefly plus que je ne l'ai fait actuellement. Merci!
+16/02/2024, 12:40 - Guillaume Singeot: Quelqu'un a essayé https://beta.dreamstudio.ai/ ?
+16/02/2024, 13:32 - Jacques BARATTI: Connaissez-vous des solutions pour créer des ChatBots pédagogiques dont l'accès soit gratuits pour les usagers (contrairement aux GPTs d'OpenAI) ?
+16/02/2024, 13:34 - Guillaume Singeot: un truc comme ça ? https://stellia.ai/produit
+16/02/2024, 13:35 - +33 6 20 35 46 24: Bonjour à tous, j’ai rejoint ce groupe il y a peu et vraiment c’est une mine d’information et de partage incroyable.
+Je me demandais si il y avait déjà un endroit où était sauvegardé l’ensemble des outils qui étaient partagés sur ce groupe WhatsApp ?
+En effet, c’est tout le problème de WhatsApp, on ne voit que les messages à partir du moment où on rentre dans le groupe 😅
+16/02/2024, 13:37 - Letizia ALLEGRINI: Bonjour depuis peu vous avez la possibilité d'utiliser trois outils ChatMD ou huggingchat ou opengpts je vous transmet les tutoriels réalisés par la DRANE Paca
+16/02/2024, 13:38 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197894/fr/opengpt-c-est-quoi
+16/02/2024, 13:38 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197878/fr/huggingchat-un-chatbot-opensource
+16/02/2024, 13:40 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11196334/fr/decouvrir-chatmd
+16/02/2024, 13:40 - ‎+33 6 65 40 15 28 a rejoint le groupe à partir de la communauté.
+16/02/2024, 13:40 - Letizia ALLEGRINI: N'hésitez pas à nous faire part de vos retours ou questions
+16/02/2024, 14:07 - Jacques BARATTI: Oui merci, il y a bien "un tuteur personnel" dans leur offre mais j'ai l'impression qu'on doit prendre le paquet total (payant pour le concepteur donc) pour en bénéficier
+16/02/2024, 14:08 - Guillaume Singeot: je ne me souviens plus des conditions d'utilisation.
+16/02/2024, 14:08 - Jacques BARATTI: Bravo à la DRANE PACA pour ce qu'elle propose aux enseignants !
+16/02/2024, 14:08 - Jacques BARATTI: je teste un peu mieux...
+16/02/2024, 14:14 - Jacques BARATTI: @guillaume parmi les 3 liens donnés par Laetitia il y a opengpt qui est un site opensource pour créer des assistants (comme HuggingChat) mais  on peut déposer des fichiers (ce que ne propose  pas HuggingChat. je vais tester
+16/02/2024, 14:16 - Guillaume Singeot: super! je veux bien un retour sur les compétences techniques à mobiliser pour s'en servir!
+16/02/2024, 14:30 - Letizia ALLEGRINI: Pas de compétences techniques particulières tout est écrit dans l'article même un non initié peut y parvenir 😀 on est sur le début des chatbots opensource alors il y a encore quelques instabilités mais c'est pas mal du tout. Sinon encore gratuit pour le moment Mizou est vraiment facile d'accès
+16/02/2024, 14:32 - +212 644-562660: Tout pareille pour moi :D En fait, je pense qu’il y’a un lien épinglé en haut de la messagerie du groupe où presque toutes les recommendations déjà mentionnées y sont méticuleusement classées . Le voici: https://airtable.com/appWoeEJR0yuDnEI6/shr6Q7amGkhbAf8hS
+16/02/2024, 14:34 - +33 6 20 35 46 24: genial. et merci j'avais pas fait attention
+16/02/2024, 14:40 - +212 644-562660: Je t en prie David
+16/02/2024, 14:58 - Guillaume Singeot: pour info (je ne sais pas si c'est ouvert au public en septembre 2024) https://www.unesco.org/fr/weeks/digital-learning
+16/02/2024, 16:15 - Guillaume Singeot: <Médias omis>
+16/02/2024, 17:45 - +33 6 52 49 10 78: Crazy. Merci pour le partage !
+16/02/2024, 19:48 - Votre code de sécurité avec +33 6 17 16 08 06 a changé. Appuyez pour en savoir plus.
+16/02/2024, 19:50 - Jacques BARATTI: J'ai testé le premier lien (openGPT) c'est assez facile à prendre en main, on peut effectivement uploader des fichiers pdf (apparemment pas des images exact Laetitia ?). Une fois créé on obtient le lien accessible à tous. En voici un sur les pédagogies actives (https://opengpts-example-vz4y4ooboq-uc.a.run.app/?shared_id=990a17db-9992-42aa-8e0a-70a4358bf960). Par contre je n'ai pas trouvé comment les modifier une fois sauvegardés, est-ce possible @Laetitia ?
+16/02/2024, 21:22 - Letizia ALLEGRINI: C'est vraiment le problème de opengpt tu ne peux pas revenir sur ton prompt ou conditionnement. Du coup il faut recréer un bot pour amélioration...
+16/02/2024, 21:28 - Jacques BARATTI: Merci c'est effectivement ce à quoi j'avais pensé...
+16/02/2024, 21:29 - Letizia ALLEGRINI: Par contre tu peux mais je n'ai pas essayé charger opengpt sur ton ordinateur et créer un llm auto héberge
+16/02/2024, 22:07 - Lucie: Stellia l'accès est gratuit mais stellia est payant. Par contre pour l'avoir testé c'est en effet un bon moyen de programmer son dataset personnel
+16/02/2024, 22:08 - ‎+33 6 75 25 12 22 est parti·e
+16/02/2024, 23:18 - +33 7 82 60 42 89: Bonsoir. Connaissez-vous d’autres fils Whatsapp qui parle du sujet ou plus largement de l’ingénierie pédagogique ? Du numérique ? Merci. Bon week-end
+17/02/2024, 06:51 - +33 6 76 04 48 20: Bonjour,
+Je ne connais pas de fils WhatsApp, et je pense que ça doit être extrêmement difficile d’en trouver. En revanche il serait plus pratique,d’après moi, de chercher des forums sur internet et de là peut-être avoir la possibilité de connaître des personnes dans les domaines ciblés.
+Bonne journée
+17/02/2024, 16:30 - Enes Cornelis: OpenAI SORA : Fonctionnalités secrètes & nouvelles demos Incroyables ⚡️
+
+@YouTube 
+
+https://youtu.be/I3-sMLc04dY
+17/02/2024, 17:35 - Votre code de sécurité avec +33 6 85 85 11 33 a changé. Appuyez pour en savoir plus.
+17/02/2024, 18:46 - Votre code de sécurité avec +33 6 16 47 74 00 a changé. Appuyez pour en savoir plus.
+18/02/2024, 10:24 - Rochane: Un outil IA générateur d'images sans inscription : aiimagegenerator.is
+18/02/2024, 11:16 - Letizia ALLEGRINI: Merci
+18/02/2024, 11:24 - ‎+33 6 33 08 73 28 a rejoint le groupe à partir de la communauté.
+18/02/2024, 12:10 - +221 78 114 78 29: C'est fantastique. Merci
+18/02/2024, 13:24 - Laurent The Cure: Merci
+18/02/2024, 15:57 - +33 7 82 60 42 89: <Médias omis>
+18/02/2024, 22:19 - +33 6 20 35 46 24: Premières impressions?
+19/02/2024, 08:44 - +32 498 78 46 36: Bonjour,
+
+Une vidéo d'explication sur Sora (OpenAI) et sur l'IA générative de vidéos en général : https://youtu.be/iH7oqFxHe6A?feature=shared
+19/02/2024, 10:25 - Guillaume Singeot: Suis je le seul à devoirs passer par un VPN pour y avoir accès ? L'antivirus râle aussi de votre coté?
+19/02/2024, 10:26 - Rochane: De mon côté, pas besoin de vpn
+19/02/2024, 10:49 - ‎+33 6 95 04 24 28 a rejoint le groupe à partir de la communauté.
+19/02/2024, 10:54 - ‎+33 6 60 37 22 43 a rejoint le groupe à partir de la communauté.
+19/02/2024, 11:21 - +33 6 22 14 03 93: Merci pour la partage, toujours friand pour l’actualité IA : ) 
+Par contre il doit arrêter la coke parce que son débit … 😅
+19/02/2024, 11:51 - +33 6 22 14 03 93: excellent merci !
+19/02/2024, 12:10 - Guillaume Singeot: Il te manque quoi sur ce fil ?
+19/02/2024, 12:20 - Guillaume Singeot: Puisqu'il y a pas mal de choses pour nos cousins belges (🥰) voici un nouveau cycle de Communotic consacré à l'IA en formation réservé aux Normands (💪💪, avec votre humble serviteur!)  https://www.linkedin.com/feed/update/urn:li:activity:7165284535948017665/
+19/02/2024, 12:35 - ‎+33 6 64 41 15 81 a rejoint le groupe à partir de la communauté.
+19/02/2024, 13:57 - +33 7 82 60 42 89: Non ce fil est parfait. Merci 🙏 
+Je voulais juste savoir si vous connaissiez d’autres groupes ou réseaux à suivre absolument sur le sujet car tout cela m’intéresse. Merci 🙏
+19/02/2024, 14:17 - +237 99148639: Bonjour a tous, j'essaye d'avoir des articles sur  les usages d'IA en didactique professionnelle, mais visiblement je m'y prends pas bien ou il y'en a pas assez,  quelqu'un pour m'aider s'il vous plait
+19/02/2024, 16:02 - Guillaume Singeot: De ce type ? https://www.oecd-ilibrary.org/sites/4f0c23c5-fr/index.html?itemId=/content/component/4f0c23c5-fr#section-d1e17616-3407c575a2
+19/02/2024, 16:05 - +689 87 78 58 86: Bonjour à tous, 
+Certains ont-ils déjà été sollicités par des collègues souhaitant utiliser des IA, génératives en particulier, tout en respectant au mieux le RGPD ? Si oui, quels conseils avez-vous pu leur donner ?
+19/02/2024, 16:05 - +689 87 78 58 86: Au passage, un grand merci pour tous les partages dans ce fil. Très enrichissant !
+19/02/2024, 16:08 - +237 99148639: Oui Guillaume merci c'est deja cela
+19/02/2024, 16:21 - Guillaume Singeot: <Médias omis>
+19/02/2024, 16:26 - Rochane: Oui @33768502488  a une solution sur mesure pour ce problème. Je le laisse rentrer en contact avec toi par MP
+19/02/2024, 16:28 - +689 87 78 58 86: Merci beaucoup, je vais lui envoyer un MP
+19/02/2024, 16:29 - Rochane: J'ai testé un gpt qui s'appelle my veilleuse et c'est pas mal mais je ne sais pas si tu  as accès aux réponses https://chat.openai.com/share/8edab277-6e26-4664-8d8c-af352fe9ad9a
+19/02/2024, 16:36 - Guillaume Singeot: https://www.impact-ai.fr/fr/ et en particulier https://www.impact-ai.fr/app/uploads/2021/06/IMPACTAI_-LIA-ET-LEDUCATION.pdf
+19/02/2024, 18:27 - ‎+33 6 29 17 18 95 a rejoint le groupe à partir de la communauté.
+19/02/2024, 18:52 - Pierrick BRIAND: Bonjour à tous, petite information concernant une formation entièrement gratuite qui a pour objectif de rassembler une communauté de formateurs autour du thème de l’intelligence artificielle. La formation est accessible ici : https://academy.apolearn.com/classroom/29444/
+20/02/2024, 09:55 - +33 6 22 14 03 93: Bonjour à tous, 
+Est ce que quelqu’un peu m’expliquer comment faire une synthèse d’une video Youtube avec TchatGPT ? 
+Merci : )
+20/02/2024, 09:58 - Rochane: Bonjour, si tu as chat gpt 4, tu peux aller sur le gpt ( à partir du store) video summarizer et mettre ton lien de ta vidéo. Si tu n'as pas chat gpt4, tu peux utiliser l'extension chrome NoteGpt( 15 résumés gratuits par mois)🙂
+20/02/2024, 11:09 - Jacques BARATTI: Ou l'extension Glasp sur chrome elle donne la transcription et le résumé de vidéos YouTube sans limites à ma connaissance
+20/02/2024, 11:19 - +212 644-562660: Bonjour à tous, J’aimerai bien un outil IA qui puisse organiser les idées d’un document quelconque en une carte mentale. Merci d’avance
+20/02/2024, 11:26 - +33 6 76 04 48 20: Mis à part le gain de temps, est-ce qu’un tel outil ne serait pas contreproductif en nous soustrayant la compréhension et l’analyse du document ?
+20/02/2024, 11:26 - +33 6 20 35 46 24: https://theresanaiforthat.com/s/carte+mentale/
+20/02/2024, 11:27 - +33 6 20 35 46 24: j'en aitesté aucune par contre <Ce message a été modifié>
+20/02/2024, 11:31 - +33 6 76 38 15 71: My lens fait frise chronologique et carte mentale
+20/02/2024, 11:31 - +212 644-562660: Bien vu mais dans le même esprit la surcharge et la redondance du contenu, me semble t-il, peut étouffer l’assimilation des info sine qua non dans le contenu. Enfin, c ce que je pense
+20/02/2024, 11:32 - +212 644-562660: Merci
+20/02/2024, 11:37 - +33 6 76 38 15 71: Sinon il y a vidéo hoghlight
+20/02/2024, 11:37 - +33 6 76 04 48 20: Effectivement, c’est un aspect à considérer
+20/02/2024, 11:37 - +33 6 76 38 15 71: Video highlight
+20/02/2024, 11:39 - +212 644-562660: En gros, j’utilise les mind map comme des résumés de cours qui sont au fond plus attrayants et engageants à lire, c’est pas vraiment orthodox comme pratique mais bon
+20/02/2024, 12:25 - Ahmadou Ba: Il un plugin sur GPT qui permet de créer des cartes mentale avec le texte générer Diagramm Ai je crois. Il utilise https://whimsical.com/ 
+Je trouve très bon. Il m'arrive même de faire des cartes mentales en s'inspirant du modèle en classe au tableau
+20/02/2024, 12:26 - Rochane: Exact et le gpt existe aussi
+20/02/2024, 12:27 - Ahmadou Ba: Formidable, quel est le nom du GPT svp.
+20/02/2024, 12:28 - Rochane: , comme son nom l'indique. Tu trouveras vite sur le store
+20/02/2024, 12:29 - Ahmadou Ba: Ok d'accord, merci.
+20/02/2024, 12:31 - Ahmadou Ba: il y a aussi possibilité d'utiliser les markmap qui transforment directement les markdown en carte mentale avec possibilité de récupérer directement le texte au niveau de l'ia. Bco d'ia utilise le code markdown
+20/02/2024, 12:31 - Ahmadou Ba: https://mymarkmap.netlify.app/
+20/02/2024, 12:32 - Ahmadou Ba: Tu copie le texte et tu as ta carte
+20/02/2024, 14:22 - ‎+33 6 43 43 41 81 a rejoint le groupe à partir de la communauté.
+20/02/2024, 17:18 - Rochane: https://youtu.be/JvQBZRKaSkQ?feature=shared Je vous partage une interview qui a été réalisée samedi dernier sur l'IA et l'éducation, juste avant une conférence que j'ai donnée 🙂
+21/02/2024, 09:37 - +33 6 76 04 48 20: Bonjour à toutes et tous, je dois réaliser une storyboard pédagogique. 
+Je vais essayer de « me faire aider » par ChatGPT et Bing (qui m’a déjà surpris par son efficacité).
+Si quelqu’un connaît une astuce ou une autre IA qui soit performante dans ce cas de figure je suis preneur.
+Je vous remercie d’avance
+21/02/2024, 10:26 - Ahmadou Ba: Avez vous Gemini ou claude. Mais comme vous je trouve l'association entre bing et chatGpT très efficace.
+Claude est bon sur les synthèses. ChatGPT a tendance à être prolixe des fois
+21/02/2024, 10:27 - Jean-Marc Everard: Bonjour Richard, pour bien comprendre la question : est-ce un storyboard pédagogique pour un module de digital training ou bien une formation synchrone?
+21/02/2024, 11:24 - +33 6 76 04 48 20: Bonjour Jean-Marc, il s’agira d’une module de formation synchrone
+21/02/2024, 11:40 - ‎+32 494 30 81 69 a rejoint le groupe à partir de la communauté.
+21/02/2024, 13:06 - Rochane: Bonjour à toutes et tous, voici le lien pour notre visio de mercredi 21 février de 20h à 21h
+https://us06web.zoom.us/j/81297500306?pwd=05WfgzrQBwxX6Nmd4r4k0Nj12RYAyR.1
+ID de réunion: 812 9750 0306
+Code secret: 453538La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+21/02/2024, 14:18 - ‎+32 492 79 73 53 a rejoint le groupe à partir de la communauté.
+21/02/2024, 15:48 - Guillaume Singeot: @33676044820 https://www.almanack.ai/
+21/02/2024, 16:51 - +225 08 64 97 90: https://www.linkedin.com/posts/comptoir-de-la-formation_top-4-des-outils-ia-gratuits-%C3%A0-utiliser-en-activity-7165978471536476161-bcZN?utm_source=share&utm_medium=member_android
+21/02/2024, 22:15 - Rochane: Merci pour les échanges riches de ce live. Désolé @32496968742 , on n'a pas eu le temps de regarder ta vidéo mais j'espère que tu viendras la prochaine fois en débattre directement sur un sujet très important des défis de l'éthique dans l'IA https://youtu.be/MAzoKd1EbZE
+21/02/2024, 22:24 - Jean-Marc Everard: Bonsoir Rochane et tout le monde. Avec plaisir mais le mercredi soir (et le lundi d'ailleurs 😉) resteront compliqués pour moi pendant plusieurs mois encore. Mais ce sera avec plaisir que je viendrai partager avec vous. D'ailleurs, et c'était un peu mon message, l'IA présente les 2 facettes de toute avancée technologique : risques, contraintes mais aussi bénéfices. A nous de trouver l'équilibre. Bonne soirée.
+21/02/2024, 22:25 - Rochane: On fera un mardi ou un jeudi ou un vendredi la prochaine fois 🙂
+21/02/2024, 22:36 - Rochane: À vraiment tester cette IA dont la vitesse de réponse est impressionnante 😮https://groq.com/
+21/02/2024, 22:58 - +33 6 52 49 10 78: Merci @33649535198. C'est moi où il n'y a pas de son associé au lien de la vidéo de @32496968742 ?
+22/02/2024, 06:38 - Jean-Marc Everard: Bonjour, c’est possible car je l’ai faite tellement vite que je n’ai pas eu le temps de vérifier que l’enregistrement c’était bien passé. J’avais eu un petit problème de son uniquement mono sur celui-ci https://youtu.be/C5z71MIg0wY?si=LunxktZs-cvprqpY . Mais je vous propose de recommencer tout ça un peu moins dans le Rush (et sur un meilleur ordi) pour améliorer le tout.
+22/02/2024, 07:18 - Guillaume Singeot: Lien vers le replay (disponible jusqu'au 10 mars) https://tubedu.org/w/mYS2UeLtFcMmkEbjjW7RU3
+22/02/2024, 07:55 - +32 484 68 10 13: Bonjour à toutes et à tous, je cherche des ouvrages et ou articles  parlant de L IA mais d un point de vue education aux médias.  Je suis en train de travailler pour un projet le racisme , misogynie, grosophobie et autre qu on peut trouver. J'ai déjà pas mal d exemple, mais je veux être certaine de pas louper des choses.
+22/02/2024, 07:57 - Rochane: Hello, si tu as GPt 4, il y a le GPt "consensus" qui peut te donner pas mal de sources 🙂
+22/02/2024, 07:58 - +32 484 68 10 13: Ha oui je l ai depuis peu
+22/02/2024, 07:58 - +32 484 68 10 13: Je découvre les différents outils du payant 😊
+22/02/2024, 07:59 - +32 484 68 10 13: Merci pour l info 🤩🤩🤩 ça va bcp m aider
+22/02/2024, 08:25 - Rochane: https://www.perplexity.ai/search/dis-le-en-MI5B6wMlTyKjKNS6ohw7VQ?s=m Gemma, initiative très intéressante
+22/02/2024, 08:31 - +33 6 52 49 10 78: Mistral avait / a vu juste en terme de positionnement.
+22/02/2024, 09:53 - +33 7 69 34 80 90: Je suis d'accord. En revanche les réponses sont dans un style assez "pompeux"
+ Je réponds à des appels d'offres de formation et ça demande une veille supplémentaire sur le style que je n'ai pas à faire sur chatgpt.
+22/02/2024, 10:27 - +33 6 22 14 03 93: Je viens de tester et je valide.. l’IA repond extrêmement rapidement : )
+22/02/2024, 10:27 - +33 6 22 14 03 93: Je n’ai pas de son non plus sur la video.
+22/02/2024, 10:38 - +33 6 22 14 03 93: Est ce que quelqu’un a un plugin qui a la faculté de faire des synthèses de qualité sur des vidéos you tube de 1h30 2h ? 
+J’ai essayé you tube summary by tube sum mais en vain..
+22/02/2024, 10:41 - Jacques BARATTI: Glasp plugin de chrome, je ne l'ai pas testé sur des vidéos longues
+22/02/2024, 11:09 - +33 6 22 14 03 93: Merci @33611028249  👌
+22/02/2024, 12:08 - Jean-Marc Everard: Oui, le problème lors de l’enregistrement est confirmé (ça vaut la peine d’avoir un bon micro mais c’était le PC du bureau… je referai avec le perso. En attendant je vais supprimer cette vidéo-ci. Il y en  a une plus longue (en mono) ici : https://youtu.be/C5z71MIg0wY?si=b13f3xHpiLNWcYBv
+22/02/2024, 15:49 - Votre code de sécurité avec +33 6 85 85 11 33 a changé. Appuyez pour en savoir plus.
+22/02/2024, 18:56 - ‎+33 6 19 95 62 85 a rejoint le groupe à partir de la communauté.
+23/02/2024, 10:39 - ‎+33 6 14 16 68 64 a rejoint le groupe à partir de la communauté.
+23/02/2024, 19:48 - Votre code de sécurité avec ~ Simon a changé. Appuyez pour en savoir plus.
+23/02/2024, 22:17 - Rochane: L'IA va-t-elle botter les profs hors des classes ou les assister ? Le verdict sans langue de bois de Ludo, le spécialiste de l'IA qui cartonne sur YouTube 😁 https://www.youtube.com/watch?v=NOeuG6LRVyU
+24/02/2024, 09:14 - Rochane: Pour info, en off, il m'a promis de passer dans un de nos futurs lives 🙂
+24/02/2024, 09:43 - Ahmadou Ba: Bjr.
+Connaissez vous un autre outil qui créé des chatbot, différent de snathcbot. Je veux un outil qui prend les données par paquets, Où je ne serais pas obligé de chargée les fichiers un a un.
+24/02/2024, 09:46 - Rochane: chatbase.co version Free d'essai qui te permet de charger jusqu'à 10 pages web par exemple et le tester. Pour moi, c'est le plus simple mais payant
+24/02/2024, 09:51 - Jean-Marc Everard: Bonjour, connaîtriez-vous une bonne DB, si possible avec tests ou avis, d’outils utiles pour l’éducation et la formation ? IA powered ou non d’ailleurs. Je connais celle-ci https://start.me/p/PwabRd/l-ia-pour-l-enseignement . En auriez-vous d’autres ?
+24/02/2024, 09:59 - Rochane: Ah mais ça m'intéresse aussi. Je vais explorer déjà ces réponses Voici quelques bases de données d'outils utiles pour l'éducation et la formation, avec des tests ou des avis, que vous pourriez trouver intéressantes :
+
+1. EdSurge Product Index : Cette base de données propose une liste d'outils technologiques pour l'éducation, avec des évaluations et des avis d'utilisateurs. Vous pouvez filtrer les résultats par catégorie, niveau scolaire et type d'outil. [Source: EdSurge Product Index]
+
+2. Common Sense Education : Common Sense Education propose une collection d'outils technologiques pour l'éducation, avec des évaluations détaillées et des avis d'enseignants. Vous pouvez rechercher des outils par catégorie, niveau scolaire et système d'exploitation. [Source: Common Sense Education]
+
+3. EdTechReview : EdTechReview est une plateforme en ligne qui propose des critiques et des évaluations d'outils technologiques pour l'éducation. Vous pouvez trouver des avis d'experts, des comparaisons d'outils et des recommandations basées sur les besoins spécifiques des enseignants. [Source: EdTechReview]
+
+4. G2 : G2 est une plateforme d'évaluation de logiciels qui propose également des évaluations et des avis d'utilisateurs pour les outils technologiques dans le domaine de l'éducation. Vous pouvez trouver des classements, des comparaisons et des commentaires détaillés sur différents outils. [Source: G2]
+
+Sources :
+- EdSurge Product Index : https://www.edsurge.com/product-reviews
+- Common Sense Education : https://www.commonsense.org/education/
+- EdTechReview : https://edtechreview.in/
+- G2 : https://www.g2.com/
+
+---
+Learn more:
+1. [20 outils technologiques gratuits pour les enseignants | EdApp Microlearning](https://www.edapp.com/blog/fr/20-outils-technologiques-gratuits-pour-les-enseignants/)
+2. [10 meilleurs outils d'IA pour l'éducation (février 2024) (2024) - Unite.AI](https://www.unite.ai/fr/10-meilleurs-outils-d%27IA-pour-l%27%C3%A9ducation/)
+3. [7 meilleurs outils d’IA pour les enseignants qui vous feront gagner du temps en 2023 | ClassPoint](https://www.classpoint.io/blog/fr/7-meilleurs-outils-dia-pour-les-enseignants-qui-vous-feront-gagner-du-temps-en-2023)
+24/02/2024, 10:02 - Jean-Marc Everard: Merci beaucoup ! C’est marrant, je n’ai pas pensé à demander à perplexity p. Ex. Comme quoi en fonction de l’heure de la journée ou du contexte, on a des réflexes différents.. 🙏
+24/02/2024, 10:20 - ‎+32 494 27 47 49 est parti·e
+24/02/2024, 10:27 - Pierrick BRIAND: Merci Rochane pour cette interview de Ludovic. Son point de vue sur l’avenir des formateurs est effectivement très tranchant mais assez réaliste.
+25/02/2024, 07:40 - Rochane: Ce prompt, tiré de la newsletter de Flint est *magique* 🤩 : [INSÈRE TA REQUÊTE, par exemple : "qu'est-ce que l'inférence ?"] 
+
+1) Rédigez un plan pour répondre à la requête suivante de façon très simple  
+2) Comment ce plan pourrait-il être meilleur ?
+3) Appliquez cette réflexion à au plan que vous avez élaboré 
+4) Rédigez une réponse à la requête 
+5) Comment pourriez-vous améliorer la réponse ?
+6) Rédigez la réponse améliorée <Ce message a été modifié>
+25/02/2024, 12:02 - Rochane: Un outil IA, juste à partir du lien d'une vidéo, l'analyse et vous propose un ou plusieurs shorts avec des sous-titres , des incrustations et en choisissant le passage le plus  relevé de la vidéo. https://opus.pro/
+Un exemple avec la vidéo d'hier (j'aurais pu éditer un ou 2 mots et modifié les incrustations)
+25/02/2024, 12:07 - Rochane: Vous avez supprimé ce message
+25/02/2024, 12:08 - Rochane: https://clip.opus.pro/clip/P1022510OipS
+25/02/2024, 12:27 - Jean-Marc Everard: Oulala, ça je vais essayer vue la longueur de mes vidéos 😂
+25/02/2024, 13:09 - +33 6 88 57 53 04: Ce message a été supprimé.
+25/02/2024, 14:41 - Ahmadou Ba: Bonjour,
+Avez vous une IA qui est performant pour assister dans la recherche académique et universitaire que des étudiants peuvent utiliser pour orienter leurs recherches scientiques ?
+25/02/2024, 14:46 - Rochane: <Médias omis>
+25/02/2024, 14:46 - Rochane: <Médias omis>
+25/02/2024, 14:48 - Ahmadou Ba: oui mais est ce que ces GPt's peuvent être utilisées sans l'abonnement payant ? 
+Merci beaucoup pour le retour
+25/02/2024, 14:49 - Rochane: Ah non
+25/02/2024, 14:50 - Rochane: Tiens, sur l'application Poe, tu as ce bot qui est gratuit  https://poe.com/AcademicWriterBot
+25/02/2024, 14:52 - Ahmadou Ba: merci je vais tester celui et le comparer avec les GPT's d OpenAi
+25/02/2024, 15:13 - Ahmadou Ba: Ah il m'a l'air bon mais j'ai l'impression que poe est basé sur claude. <Ce message a été modifié>
+25/02/2024, 15:17 - Ahmadou Ba: https://poe.com/chat/2o2a13oasmqyllduxpx
+25/02/2024, 15:21 - Rochane: Ce Claude nécessite une licence payante et l'autre, non
+25/02/2024, 15:31 - Ahmadou Ba: Ah accord. Merci.
+26/02/2024, 20:54 - Votre code de sécurité avec +33 6 65 47 79 98 a changé. Appuyez pour en savoir plus.
+27/02/2024, 13:14 - Rochane: Ce site internet qui utilise l'IA, vous lui mettez le sujet qui vous intéresse, il décline un nombre intéressant de ressources et de concepts qui sont en lien avec le sujet. À explorer 🙂 https://explorer.globe.engineer/
+27/02/2024, 13:14 - Rochane: N'hésitez pas à mettre ( en français) après le sujet pour avoir l'output en français
+27/02/2024, 20:09 - +32 479 58 54 12: Whaouh. A première vue cela à l'air génial. ( je n'ai pas encore pris le temps d'analyser en détails)
+28/02/2024, 15:02 - Votre code de sécurité avec ~ Simon a changé. Appuyez pour en savoir plus.
+29/02/2024, 08:11 - +32 479 58 54 12: J'ai testé plus en détails mais pas vraiment convaincue par la qualité des résultats 😒
+29/02/2024, 08:17 - +33 6 22 14 03 93: Bonjour à tous 
+J’ai un projet de création de plateforme pour une communauté. Une partie serait gratuite et une autre payante. 
+Hormis la création d’un site internet avez vu connaissance d’outils pertinent pour créer une plateforme ? 
+Merci
+29/02/2024, 08:20 - Yann-Ael: Ceci peut-être https://www.skool.com/ ?
+29/02/2024, 08:27 - Agathe: Merci pour ce lien qui peut m'intéresser aussi :) je ne trouve pas de page qui décrive les fonctionnalités mais juste le catalogue des "Skools" est-ce que tu peux nous en dire plus ou nous faire des captures d'écran ? 😁
+29/02/2024, 08:43 - Guillaume Singeot: Bonjour Agathe! Un petit bonjour de Normandie en vitesse de bon matin 😉
+29/02/2024, 08:44 - Agathe: Bonjour Guillaume ! Ça fait plaisir ☺️ en animation Carif ?
+29/02/2024, 08:47 - Guillaume Singeot: non, pas cette année pour la Normandie. Est ce que tu te serais pencher sur l'IA Act et ses répercussions sur les OF ?
+29/02/2024, 08:48 - Agathe: Pas encore mais c’est une bonne idée (parmi les 1000 sujets sur l’IA). Peut être qu’ils y a des experts de la question dans ce groupe ?
+29/02/2024, 08:53 - +33 6 22 14 03 93: Ce message a été supprimé.
+29/02/2024, 08:57 - Rochane: Image to music, open source, sans inscription et usage illimité https://imagetomusic.top/#playground
+29/02/2024, 09:15 - +33 6 22 14 03 93: Oui pourquoi pas c’est une piste sérieuse, merci : )
+29/02/2024, 13:27 - Rochane: IA générative et Ingénierie pédagogique , livre blanc d'open classroom
+https://media.licdn.com/dms/document/media/D4E1FAQHeYMAhlcotQw/feedshare-document-pdf-analyzed/0/1709199188665?e=1710374400&v=beta&t=q8ITRXiTxSzOtLKm5eWnKmbp0-j5DYRZexx5UkDPIUk
+29/02/2024, 14:14 - Rochane: Quelle belle idée :
+" #Singapore will pay for its citoyens age 40 and above to go back to school in light of so much knowledge and jobs becoming outdated as a result of AI "
+Vidéo 4 min ici : https://www.linkedin.com/feed/update/urn:li:activity:7168831119193284608/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7168831092525903872%2C7168950791565684736)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7168950791565684736%2Curn%3Ali%3AugcPost%3A7168831092525903872)&origin=COMMENTS_BY_YOUR_NETWORK
+29/02/2024, 15:09 - Guillaume Singeot: Quelqu'un aurait lister les outils IA qui permettent de produire directement des contenus Scorm ?
+29/02/2024, 15:13 - Francois Bocquet: Noletj a intégrer dans cette liste ;-)
+29/02/2024, 15:13 - Francois Bocquet: Nolej.ai
+29/02/2024, 15:40 - Guillaume Singeot: Coassemble avec la partie https://coassemble.com/build
+29/02/2024, 15:50 - +32 479 58 54 12: Alors là, je suis totalement bluffée 🥳.  C'est hallucinant 😮
+29/02/2024, 15:56 - Agathe: Je viens de le tester, c'est incroyable !
+Un peu flippant même 😅
+Resta à vérifier que le contenu est moins saugrenu que ce que nous propose parfois ChatGPT, mon meilleur ennemi :)
+29/02/2024, 15:57 - Guillaume Singeot: on peut modifier le contenu avant l'export
+29/02/2024, 15:58 - Agathe: et l'option générer un quiz à la fin est magique ✨😎
+29/02/2024, 16:03 - +32 479 58 54 12: Je trouve aussi. Je suis souvent déçue par les nouveaux outils... mais ici je n'en crois pas mes yeux.
+29/02/2024, 16:05 - Rochane: top, super ce partage ! Et au niveau pricing ?
+29/02/2024, 16:06 - Agathe: gratuit et si on veut supprimer la marque c'est 5 € par mois
+29/02/2024, 16:07 - Agathe: ça me fait vraiment réfléchir au renouvellement de ma licence Articulate, qui ne me sert que pour Rise 360 et ne génère pas mes contenus automatiquement 😎
+29/02/2024, 16:17 - Rochane: Si quelqu'un s'approprie cet outil, ce serait cool qu'il ou elle nous fasse une démo lors du prochain live. C'est à ça que ça sert 😁
+29/02/2024, 16:19 - +32 479 58 54 12: J'ai fait quelques tests et il fonctionne très bien en français 😀.
+29/02/2024, 16:29 - Agathe: Le prochain live ? J'ai dû rater un épisode :) 
+et je veux bien faire une démo parce que je pense l'adopter très vite.
+29/02/2024, 16:30 - Rochane: Super merci, ce sera mi Mars probablement
+29/02/2024, 16:36 - Agathe: OK et ça se passe où et comment ?  (j'imagine que je suis arriviée ici par le biai d'un autre live mais je vois passer trop de choses en ce moment et je m'y perds 😅
+29/02/2024, 16:42 - Rochane: Ok, on a déjà fait 4 ou 5 lives à raison d'une fois par mois environ. En général, ça se passe en 1 heure de temps, souvent le soir à 20h. Tout le monde est libre de présenter un outil ou une pratique pédagogique et c'est l'opportunité pour interagir entre pairs 🙂
+29/02/2024, 16:42 - Agathe: Merci @33612461406 🌺 J'adoooore cet outil et en plus il n'y a pas que de l'IA et on peut tout à fait créer un cours "from scratch" aussi simplement qu'avec Rise 360 ! Bien sûr les possibilités d'activités sont moins importantes mais c'est une super alternative pour des modules courts à intégrer dans des parcours plus complexes.
+29/02/2024, 16:43 - Guillaume Singeot: ça se passe de 20h à 21h d'habitude en visio. @33681609994 fais signe quand tu sens prête.
+29/02/2024, 16:44 - Guillaume Singeot: tu as fais comment pour le passer en français? je ne vois pas où changer la langue
+29/02/2024, 16:46 - Agathe: Genial ! et ces lives sont lancés ici dans la discussion ?
+29/02/2024, 16:47 - Guillaume Singeot: oui
+29/02/2024, 16:53 - Guillaume Singeot: tu as réussi a le passer en français ? je ne vois pas où changer la langue
+29/02/2024, 16:54 - Rochane: Et si dans ton prompt, tu écris "en français"
+29/02/2024, 16:54 - Agathe: En fait je n'ai rien demandé, je fais juste ma description en français et l'appli génère mes slides en français
+29/02/2024, 16:54 - Agathe: et me parle en français aussi
+29/02/2024, 16:54 - Guillaume Singeot: oui ça doit être ça.
+29/02/2024, 16:56 - +32 479 58 54 12: Par contre, je ne trouve pas d'infos sur les tarifs de cet outil 🤔
+29/02/2024, 16:57 - Guillaume Singeot: une fois le compte crée, il te te propose "upgrade" c'est là que tu vois 5 ($ ou €?) pour supprimer la marque
+29/02/2024, 16:58 - Agathe: L'abonnement est de 5€ par mois et il est proposé par un pop up quand on valide un cours
+29/02/2024, 16:59 - Agathe: Je vois qu'ils proposent aussi un LMS... je vais aller y jeter un ocup d'œil ;)
+29/02/2024, 16:59 - +32 479 58 54 12: Pas vu 🤔. Peut-être car je l'ai testé sur smartphone?
+29/02/2024, 17:00 - +32 479 58 54 12: 5 €, c'est pour rien 🤪
+29/02/2024, 17:03 - Agathe: Petit bémol pour moi, l'entreprise semble être de droit Australien, donc pays hors UE et non considéré comme adéquat pour le RGPD.
+Donc outils auteur = pas de problème / LMS = warning sur les données personnelles collectées et le traçage des cours
+Mais je sors du sujet de ce fil donc je referme ma parenthèse ;)
+29/02/2024, 17:08 - Guillaume Singeot: Non, non, c'est bien le sujet : quels outils IA respectent le RGPD ? (coté LMS : as tu essayé https://www.edapp.com/ marche aussi sur pc)
+29/02/2024, 17:10 - Agathe: Si c'est OK pour parler RGPD vous n'allez plus me faire taire ! 😁
+Blague à part je cherche toujours un LMS à la fois performant, ergonomique et respectueux des données.
+Je regarde edapp :)
+29/02/2024, 17:12 - Rochane: Apolearn @33672091809
+29/02/2024, 17:16 - Guillaume Singeot: @33681609994 tu peux le tester ici (Pierrick en parlera mieux que moi!) Bonjour à tous, petite information concernant une formation entièrement gratuite qui a pour objectif de rassembler une communauté de formateurs autour du thème de l’intelligence artificielle. La formation est accessible ici : https://academy.apolearn.com/classroom/29444/
+29/02/2024, 17:17 - Agathe: Super ! merci pour le lien :)
+29/02/2024, 17:17 - Rochane: Je suis bluffé par la simplicité de ce lms et surtout l'intégration réussie de l'IA. Pour info, ils tournent avec Mistral et non chat GPt
+29/02/2024, 17:18 - Thierry VANOFFE: OpenAI un peu dans la tourmente depuis le procès avec New York Times, je rejoins le discours de Yann LeCun sur l'importance de passer à une architecture "d'IA prédictive" et non plus "générative" pour l'avenir
+
+https://www.lebigdata.fr/chatgpt-plagiat
+29/02/2024, 17:59 - Agathe: Merci pour le tuyau ! J'ai regardé le site et échangé dans le chat (bonheur de ne pas parler à un robot ! 😁)
+Je vais encore économiser des sous par rapport à mes produits habituels et en plus changer pour du made in France ! 😎
+29/02/2024, 18:42 - Guillaume Singeot: Je suis allé au salon Learning Tech de Paris le 24 janvier : je reste un peu sur ma faim sur l'intégration de l'IA dans les lms (à voir avec @33672091809 ) : c'est pour l'instant assez cantonné à la création de quiz. pour l'instant ,)
+29/02/2024, 18:43 - +33 6 20 35 46 24: L’intelligence artificielle dans les LMS. Pour l’instant c’est plutôt des promesses de ce que j’en ai vu.
+Beaucoup de bla-bla 
+Mais si vous vous êtes tombés sur une pépite, ça m’intéresse d’avoir le nom
+29/02/2024, 18:44 - Rochane: Apolearn
+29/02/2024, 18:47 - +33 6 87 86 78 87: Onlineformapro très avancé lms, outils création et surtout plusieurs produits de formation orient’IA, IT Training….
+29/02/2024, 19:04 - Francois Bocquet: Il y a depuis longtemps de l’IA sur du Moodle via les plugins xAPI ou Caliper. Le LORIA a mis ça en place pour l’université de Nancy.
+29/02/2024, 19:04 - Francois Bocquet: Stellia fait aussi un LMS sur ses contenus
+29/02/2024, 19:09 - Rochane: <Médias omis>
+29/02/2024, 19:09 - Rochane: Vous avez supprimé ce message
+29/02/2024, 19:09 - Rochane: Encore, un nouvel outil venant du Canada 🙂
+29/02/2024, 19:41 - Rochane: (extrait d'un autre groupe).  Salut à tous en cherchant un peu, j'ai trouvé un outil assez sympa en lifetime. 
+
+C'est pour ceux qui vendent des formations les coachs etc... 
+
+Il vous permet d'héberger vos formations en nombre illimité et étudiants illimités, il utilise l'IA pour vous faire les pages de ventes de vos formation que vous pouvez vendre directement sur la plateforme. 
+
+Ils prennent aucune commissions sur les ventes, donc vous achetez l'outil en lifetime, un paiement pour un accès à vie et vous êtes tranquille...
+
+C'est un lien affilié certes mais c'est un super outil donc je vous conseille de regarder ça. 
+
+Voici le lien 👉🏻: appsumo.8odi.net/QyrqqM
+29/02/2024, 20:28 - Pierrick BRIAND: Agathe, on en parle si tu veux !
+29/02/2024, 20:30 - Pierrick BRIAND: Bonjour Guillaume, ce sera avec plaisir de vous présenter les innovations sur notre plate-forme. Il y a bien d’autres choses que la génération de quiz.
+29/02/2024, 21:18 - Ahmadou Ba: Interessant article qui soulève un vrai problème. L'autre j'ai rédigé un rapport que j'ai soumis à ChatGPT pour correction, il m'a proposé une version améliorer vraiment rien à dire avec carrément mes idées ce que je voulais vraiment dire. Mais quand j'ai passé l'article dans Scribbe, on m'a dit que le niveau de plagiat était très élevé. Alors j'ai décidé de rester avec les correcteurs orthographiques traditionnelles.
+29/02/2024, 21:20 - +33 6 85 18 84 20: Il y a Circle : https://circle.so/
+29/02/2024, 21:45 - Agathe: Merci pour l’info. Je regarde demain. Quelle gamme de tarifs ?
+29/02/2024, 21:47 - Agathe: Volontiers ! J’ai commencé à échanger dans le chat et la plate-forme est intéressante ☺️
+29/02/2024, 22:22 - +33 6 26 53 15 02: Très intéressant en effet mais même en indiquant en français, il répond en anglais 😕
+29/02/2024, 22:47 - LIO: Bonjour,
+Si j'ai bien compris si on rédige une note, une synthèse, un mémoire, un cours de toute pièce,
+Et qu'on demande à gpt d'en corriger le style ou l'orthographe, le contenu sera du plagiat?
+
+Question bête, si on supprime le tchat.
+Il n y a plus d'existence du contenu?
+Ce qu'on a écrit disparait t-il du domaine public?
+Et ne serait plus detectable comme plagiat?
+C'est comme ca que ca fonctionne ?
+
+A quel point avait tu rédigé ton rapport? Complètement ou partiellement? Combien de mots gpt a t il rajouté a ton texte d'origine?
+29/02/2024, 22:52 - Ahmadou Ba: Je n'ai bien compris les questions de votre deuxième paragraphe. 
+Mais pour la derniere question, je l'ai écris moi même et la que c fou, ce sont des analyse statistique, une présentation d'une association, une liste de compétence et des objectifs pédagogiques. Sur les deux dernières j'ai bien sollicité gpt pour une bonne formulation des objectifs et des compétences visées.
+29/02/2024, 22:53 - Ahmadou Ba: c un rapport d'activité de formation en quelques sortes.
+29/02/2024, 22:55 - LIO: Mon hypothèse est dès que l'on donne de la matière a gpt, si on repasse le texte en détection de plagiat il y a automatiquement 100%
+Car on a donné notre contenu
+29/02/2024, 22:55 - ‎+33 6 51 43 08 14 a rejoint le groupe à partir de la communauté.
+29/02/2024, 22:58 - Ahmadou Ba: Aïe, ça c'est préoccupant.
+29/02/2024, 23:00 - Ahmadou Ba: Avec ça je me retrouve avec un rapport carrément inutilisable. Je le suis plagié moi-même alors. <Ce message a été modifié>
+29/02/2024, 23:02 - LIO: Je ne sais pas c est pour cette raison que je pose la question au groupe

@@ -1,0 +1,99 @@
+Concernant Make, notre nouvelle API devrait permettre l'intégration sans difficulté, via un plugin LLM ou celui d'OpenAI. Toutes les infos ici : https://info.mammouth.ai/docs/api-quick-start/"
+
+Mammouth est jeune mais prometteur, français et donc respect de la RGPD.
+11/07/2025, 09:34 - ‎+33 7 45 43 23 09 est parti·e
+11/07/2025, 12:50 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 12:59 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 13:18 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 15:34 - Votre code de sécurité avec ~ Dj a changé. Appuyez pour en savoir plus.
+11/07/2025, 17:01 - Votre code de sécurité avec ~ JM a changé. Appuyez pour en savoir plus.
+11/07/2025, 20:36 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 22:18 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+12/07/2025, 05:36 - Votre code de sécurité avec ~ Dj a changé. Appuyez pour en savoir plus.
+12/07/2025, 09:03 - Batier Christophe: <Médias omis>
+12/07/2025, 09:05 - Rochane: Merci Christophe mais quand on arrive sur ta page Notion, je ne vois pas le lien
+12/07/2025, 09:06 - Batier Christophe: <Médias omis>
+12/07/2025, 09:08 - Rochane: ok, https://www.learningplanetinstitute.org/wp-content/uploads/2025/07/IA-ENSEIGNEMENT-SUPERIEUR.pdf
+12/07/2025, 09:24 - Rochane: <Médias omis>
+12/07/2025, 12:31 - Clément Cahagne: <Médias omis>
+12/07/2025, 12:32 - +33 6 66 91 41 72: Tu peux mais honnêtement il vaut mieux passer par flow ;)
+12/07/2025, 12:34 - Clément Cahagne: Mais il te faut un plan supérieur si tu passes par Flow je crois
+12/07/2025, 12:43 - +33 6 66 91 41 72: J'ai utilisé le Gemini pro en version gratuite et j'ai eu 1000 crédits flow avec
+12/07/2025, 15:04 - Votre code de sécurité avec Guillaume CLEMENT a changé. Appuyez pour en savoir plus.
+13/07/2025, 06:34 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+13/07/2025, 08:25 - Francois Bocquet: Jan : l’assistant IA local et open source qui remplace ChatGPT https://www.justgeek.fr/jan-assistant-ia-local-140030/
+13/07/2025, 08:59 - +33 6 72 75 43 48: Merci François pour vos nombreuses publications 🙏une question : à force d’utiliser de nombreuses IA je me demande si pour installer Jan il faut une certaine puissance d’ordinateur ? Je projeté d’en changer mais j’avoue être perdue .. avez vous des conseils en la matière ( je suis formatrice et anime beaucoup à distance, en plus d’utiliser plusieurs IA ) merci <Ce message a été modifié>
+13/07/2025, 10:00 - Francois Bocquet: D’après la doc plus on dispose de RAM et plus la CPU/GPU est puissante mieux c’est. Mais il semble possible de le faire tourner avec des configurations pas trop puissantes
+13/07/2025, 10:46 - Jean-Marc Everard: Merci François. As-tu des retours sur Jan? Ils parlent d’extensions… y a-t-il par exemple des connecteurs vers n8n à ta connaissance ? Je pense que l’IA locale est la voie à prendre pour l’Europe…
+13/07/2025, 11:33 - +32 483 60 53 96: J'ai testé Jan en comparant gpt4all, lm studio et Msty : jai fait un tableau comparatif pour recommander un outil pour les chercheurs à la rentrée 
+Mon préféré cest Msty personnellement et LM studio sera celui recommandé avec un guide d'utilisation accès recherche 
+Apres on reste sur un usage non-agentique 
+Et ca depend toujours du matériel (puissance calcul de l'ordinateur accessible) ; souvent les chercheurs ont des ordinateurs quand meme assez puissants donc ca va
+13/07/2025, 11:53 - +32 483 60 53 96: Ca demande une documentation mise à jour régulièrement pour leur conseiller les bons modèles à utiliser (ilz ne font pas de veille eux mêmes sur les modeles)
+Le mieux est de déployer un modèle au niveau de l'institution ou partagée entre les institutions pour un public précis (exemple chercheurs ou administration) : cimme par exemple un modele petit ollama ou modele Mistral small recent ; ya aussi le modèle Google N3 qui recemment est intéressant à utiliser en local ; sinon un modèle de raisonnement deepseek R1 en local est un bon choix parfois en local (cest ce que j'ai vu de plus utilisé dans les universités)
+13/07/2025, 15:09 - ‎Guillaume CLEMENT est parti·e
+13/07/2025, 16:46 - Jean-Marc Everard: Merci Robin. Quand j’essaye de mettre en place des systèmes et modèles locaux, les informaticiens m’opposent souvent la difficulté du suivi, des mises à jours des « containers » ou appli, des modèles, la mise en place d’une mémoire etc… est-ce que tu as déjà été confronté à cela et envisagé des modes opératoires par rapport à ça?
+13/07/2025, 17:19 - +212 644-562660: merci bien
+13/07/2025, 17:54 - +33 6 66 98 84 23: Bonjour, il me semble qu'il était possible de louer un serveur sur lequel on pouvait déployer une IA (comme en local) et là il n'y avait pas de pb de puissance ?
+Je peux me tromper !
+13/07/2025, 18:14 - Votre code de sécurité avec ~ Dj a changé. Appuyez pour en savoir plus.
+13/07/2025, 18:55 - +33 6 71 11 12 91: Mistral propose cela en effet.
+https://mistral.ai/products/mistral-compute#european-ai-cloud
+13/07/2025, 21:03 - Votre code de sécurité avec +212 634-169534 a changé. Appuyez pour en savoir plus.
+13/07/2025, 22:42 - Votre code de sécurité avec ~ Phil a changé. Appuyez pour en savoir plus.
+14/07/2025, 15:03 - ‎+57 322 2657243 a demandé à rejoindre le groupe.
+14/07/2025, 16:58 - Votre code de sécurité avec +32 477 88 54 86 a changé. Appuyez pour en savoir plus.
+15/07/2025, 12:27 - Votre code de sécurité avec ~ Sébastien GARCIA a changé. Appuyez pour en savoir plus.
+15/07/2025, 16:40 - Batier Christophe: Bonjour à tous
+voici le replay  de mon intervention lors de la journée PédagoN'UM « IA et évaluation » organisée à l’Université de Montpellier le 26 juin 
+
+📍 Etat des lieux des IA dans l’enseignement supérieur 📍 
+
+➡️ En introduction je me demande si les objectifs et valeurs portés par les IAg sont bien alignés avec ceux de l'Université ?
+
+Désalignements de l’IA générative avec l'université humboldtienne :
+Pensée critique
+Pensée originale
+Gérer et transformer des contextes et des problèmes imprévisibles
+Construire le caractère individuel
+L'écriture comme exploration et développement intellectuels
+L'apprentissage et le développement comme processus sociaux
+
+L'arrivée de l'IAg bouscule quand même pas mal de ces principes...
+
+2️⃣ Coté étudiant 
+Les usages sont là… (à partir de 13mn)
+
+3️⃣ Coté Enseignant 
+ça commence à s'organiser aussi bien d'un point de vue technique que pédagogique (à partir de 21mn)
+
+4️⃣ Conclusion perspectives
+ (je n'ai trop eu de temps de la faire en live )
+mais y a du travail à faire coté enseignants pour les former et pour trouver de nouveaux alignements pédagogiques !
+
+https://video.umontpellier.fr/pedagonum-pedagogie-numerique-a-lum/jpn-2025/video/23334-etats-des-lieux-des-iag-par-christophe-batier/
+15/07/2025, 16:50 - ‎+57 322 2657243 a rejoint le groupe à partir de la communauté.
+15/07/2025, 20:20 - Votre code de sécurité avec ~ Rémi GOMES a changé. Appuyez pour en savoir plus.
+15/07/2025, 21:12 - +32 477 95 34 42: Bonsoir à tous 
+Étant enseignante et novice en IA que j’utilise parfois pour mes cours j’aimerais pouvoir proposer à mes élèves des vidéos de mes cours sous forme de vidéos ludiques qui leur expliquent certains points de matière notamment en chimie et physique 
+J’aimerais faire ceci à partir d’un prompt, que me conseilleriez vous comme outil même payant si il est efficace 
+Merci i d’avance
+16/07/2025, 00:39 - Francois Bocquet: Conseils pour créer des Gems personnalisés - Pour créer un Gem personnalisé qui répond à vos objectifs, fournissez des informations sur votre demande et vos exigences. 
+Aide Applications Gemini https://support.google.com/gemini/answer/15235603?hl=fr-CA
+16/07/2025, 07:53 - ‎+40 762 800 638 a demandé à rejoindre le groupe.
+16/07/2025, 07:59 - ‎+1 (825) 487-7312 a demandé à rejoindre le groupe.
+16/07/2025, 09:15 - +44 7776 747507: Bonjour Fawzia, Claude (version gratuite devrait le faire; explore 'Artifacts' notamment), sinon ChatGPT. <Ce message a été modifié>
+16/07/2025, 09:16 - +44 7776 747507: Est-ce possible avec la version gratuite?
+16/07/2025, 09:31 - +33 7 85 03 62 08: @32477953442 il faudrait que tu regardes du côté de Synthesia ou HeyGen
+16/07/2025, 09:31 - +33 7 85 03 62 08: Ça te permet d'avoir un clone IA et de faire des capsules vidéo
+16/07/2025, 09:31 - +33 7 85 03 62 08: C'est pas mal utilise en formation
+16/07/2025, 09:32 - +33 7 85 03 62 08: AI Video Generator – Generate Videos from Text & Images | HeyGen https://share.google/xXf9uV9bm9UqIHaqe
+16/07/2025, 09:32 - +33 7 85 03 62 08: Et tu peux utiliser des avatars aussi d'ailleurs, même pas besoin que ça soit toi. Il y a des templates tout fait.
+16/07/2025, 09:33 - +33 7 85 03 62 08: Générateur de vidéos IA – Créer des vidéos grâce à l’intelligence artificielle https://share.google/WS5IZ0F2Ctls6yHce
+16/07/2025, 09:33 - ‎+1 (825) 487-7312 a rejoint ce groupe grâce à son lien d’invitation
+16/07/2025, 09:34 - ‎+40 762 800 638 a rejoint le groupe à partir de la communauté.
+16/07/2025, 09:34 - +33 7 85 03 62 08: Et tu peux aussi créer des assistants GPT éducatifs
+16/07/2025, 09:34 - +33 7 85 03 62 08: https://youtu.be/3lWzV4lKLds?si=J5tafZYDGse3LwQj
+16/07/2025, 09:35 - +33 7 85 03 62 08: C'est dans la version payante de ChatGPT, mais tu peux trouver le même principe dans d'autres IA. Tu as les Gems en effet dans Gemini qui sont gratuits, mais je trouve ça moins bien que les GPTs dans Chat.
+16/07/2025, 09:36 - +33 7 85 03 62 08: Après c'est peut être une question d'habitude de ma part, faudrait que tu testes :)
+16/07/2025, 11:13 - +32 477 95 34 42: Merci

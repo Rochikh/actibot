@@ -2,6 +2,7 @@ import DocumentUpload from "@/components/admin/DocumentUpload";
 import DocumentList from "@/components/admin/DocumentList";
 import SystemPromptManager from "@/components/admin/SystemPromptManager";
 import ChangePasswordForm from "@/components/admin/ChangePasswordForm";
+import AutoSplitStatus from "@/components/admin/AutoSplitStatus";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -26,6 +27,7 @@ export default function AdminPage() {
           <TabsList className="mb-4">
             <TabsTrigger value="prompts">Prompts Système</TabsTrigger>
             <TabsTrigger value="documents">Documents</TabsTrigger>
+            <TabsTrigger value="auto-split">Auto-Division</TabsTrigger>
             <TabsTrigger value="settings">Paramètres</TabsTrigger>
           </TabsList>
 
@@ -38,6 +40,10 @@ export default function AdminPage() {
               <DocumentUpload />
               <DocumentList />
             </div>
+          </TabsContent>
+
+          <TabsContent value="auto-split">
+            <AutoSplitStatus />
           </TabsContent>
 
           <TabsContent value="settings">

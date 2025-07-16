@@ -1,0 +1,554 @@
+01/01/2024, 10:05 - Rochane: https://youtu.be/WNP98jHtToQ?feature=shared Que c'est cool de démarrer l'année sur ce type de vidéo 😁
+02/01/2024, 17:23 - Rochane: J'ai suivi cette formation sur chat gpt et je confirme que le guide est juste énorme ainsi que les 9 vidéos sur le prompting
+J'en parlerai lors de notre prochain live du 9 janvier
+https://link.mail.beehiiv.com/ss/c/RimHzSNytVv84VenVlDjxGUP1wdiRhYK8PsGCpL6wZRoecL8JpNPsk6vAC5vz5FCwfK9o0QoSGOlbjd9WhJM8W7x95JKoQCoU1ArJODnOqN8swnQmvPU-a0zaVENyedHeOLs8EZSl9DEPQ4N-g7nisgVz_Ye0kDUV0aI_5yGMOYfWJPILSLa28Z9YYzBu9oaLS7wyhBpCeYVygXqM8Pp6kgYthOysX8rrPlLDZ9wJhSNmQTChZRJ7bCUsOZUsjcm/42e/4sOCaXhzQFq5CfVZX-WtFA/h8/8kqLHgRf37ZqI7zK0c62sOpdeV0Gujwr2njL0xy8Xd0 <Ce message a été modifié>
+02/01/2024, 17:25 - Laurent The Cure: je vais étudier cela. Merci pour le partage
+02/01/2024, 19:11 - Lucie: Flint les BOT ?
+02/01/2024, 19:12 - Rochane: Yes
+03/01/2024, 16:52 - Laurent The Cure: <Médias omis>
+03/01/2024, 16:52 - Laurent The Cure: <Médias omis>
+03/01/2024, 16:53 - Laurent The Cure: mon prompt.
+"tu es dessinateur d'animé. génère une image d'une tortue NInja façon dessin animé. Elle a les yeux verts, un large sourire, et porte un bandeau sur le front. LE bandeau est de couleur bleu roy avec écrit au milieu du front "ALLEZ l'OM" en blanc."
+03/01/2024, 16:54 - Laurent The Cure: il a évidement refusé de mettre le logo plutôt que le texte pour des raisons de droit d'auteur
+03/01/2024, 16:58 - +33 6 75 41 23 05: Bonjour
+Essayez de séparer chaque lettre par un espace. Parfois ça améliore le texte sur image.
+03/01/2024, 16:59 - Laurent The Cure: je tente merci
+03/01/2024, 17:00 - Laurent The Cure: <Médias omis>
+03/01/2024, 18:30 - Thierry VANOFFE: peut etre qu'en 2024 ça changera le texte correctement écrit... En tout cas c'est super courant les fautes d'ortho et les lettres manquantes...
+03/01/2024, 18:38 - Rochane: Si vous voulez avoir une idée concrète de l'ia dans la géopolitique et comprendre tous les enjeux, je vous conseille cette vidéo de 52 minutes qui donne des sources fiables https://youtu.be/lXlbOE0cLPI?feature=shared
+03/01/2024, 18:44 - +32 498 78 46 36: Pour le soucis du texte dans l'image. C'est un problème structurel des LLM actuels. Réponse de l'article officiel d'OpenAI : 
+
+Vous pourriez être tenté de demander à DALL·E de générer du texte à votre image, en lui donnant des instructions telles que "un ciel bleu avec des nuages ​​blancs et le mot bonjour en skywriting".
+
+ Cependant, ce n’est pas un moyen fiable ou efficace de créer du texte. DALL·E n'est actuellement pas conçu pour produire du texte, mais pour générer des images réalistes et artistiques basées sur vos mots-clés ou expressions. À l’heure actuelle, il n’a pas de compréhension spécifique de l’écriture, des étiquettes ou de tout autre texte courant et produit souvent des résultats déformés ou inintelligibles.
+
+https://help.openai.com/en/articles/6781228-how-can-i-generate-text-in-my-image
+03/01/2024, 18:45 - +32 498 78 46 36: Il en va de même pour l'OCR. J'ai déjà essayé plusieurs fois de lui faire utiliser l'OCR sur un PDF ou une image où il y avait du texte et cela est décevant pour ne pas dire catastrophique :)
+03/01/2024, 18:47 - Laurent The Cure: Merci pour la réponse. ce qui est étrange c'est qu'il comprend tout de même une partie des instructions "texte". Dans les 2 exemples postés, une fois il oublie le 2eme L de Allez , dans le second il ajoute un L à "L'OM".
+03/01/2024, 18:49 - +32 498 78 46 36: Oui j'ai déjà remarqué que cela se joue toujours à une lettre ou deux. J'ai quand même posé la questions sur le forum d'OpenAI, il y a parfois des petits malins qui ont des workaround. Sinon voir si Midjourney est plus efficace
+03/01/2024, 18:49 - +33 6 75 41 23 05: La version 6 gère le texte sur image maintenant, en effet
+03/01/2024, 18:52 - +32 498 78 46 36: Dommage que Midjourney n'offre par une ou deux générations d'image par mois gratuitement <Ce message a été modifié>
+03/01/2024, 19:22 - Laurent The Cure: tout à fait du coup je ne testerai pas sur midjourney
+03/01/2024, 19:39 - Ahmadou Ba: <Médias omis>
+03/01/2024, 19:39 - Ahmadou Ba: je crois que j'ai réussi à avoir les écritures correctement
+03/01/2024, 19:39 - Laurent The Cure: pouvez vous partager le prompt ? c'est sur Dall-e ?
+03/01/2024, 19:40 - Ahmadou Ba: "You are an animator. Generate an image of a Ninja Turtle in cartoon style. It has green eyes, a wide smile, and is wearing a headband on its forehead. The headband is royal blue with the phrase "ALLEZ l'OM" written in white on the forehead."
+03/01/2024, 19:41 - Ahmadou Ba: Je l'ai juste testé en anglais sur ChatGPT plus
+03/01/2024, 19:42 - Rochane: Midjourney 6 incapable aussi
+03/01/2024, 19:42 - Laurent The Cure: <Médias omis>
+03/01/2024, 19:43 - Laurent The Cure: MERCI !!!!!!!
+03/01/2024, 19:44 - Rochane: ça a marché aussi en anglais pour moi mais sur le GPT Dall-e https://chat.openai.com/g/g-2fkFE8rbu-dall-e
+03/01/2024, 19:46 - Laurent The Cure: <Médias omis>
+03/01/2024, 19:51 - +33 6 52 07 03 43: Avec ce prompt en anglais, ça a marchait aussi sur bing image creator
+03/01/2024, 19:51 - +33 6 52 07 03 43: <Médias omis>
+03/01/2024, 19:53 - Ahmadou Ba: Merci c que je voulais tester
+03/01/2024, 19:54 - +33 6 52 07 03 43: <Médias omis>
+03/01/2024, 19:54 - Laurent The Cure: c'est étonnant cette irrégularité
+03/01/2024, 20:06 - Ahmadou Ba: Sûrement elle apprend cela va venir
+03/01/2024, 20:13 - Thierry VANOFFE: Vous pensez que c'est possible de récupérer l'image en vectoriel .AI ou Photoshop .PSD pour rajouter les lettres ? Y a des outils gratuits comme GIMP aussi. Y a peut être un truc par là pour rajouter facilement les lettres manquantes ?
+03/01/2024, 20:47 - +33 6 75 41 23 05: Oui avec Photoshop c’est facile. On peut ajouter du texte que l’on pixelise. Le calque obtenu peu ensuite être déformé, déplacé à sa guise
+03/01/2024, 20:48 - +33 6 75 41 23 05: C’est même plus rapide à faire quand on connaît bien que d’écrire un prompt pour avoir le même effet (du moins pour l’instant).
+03/01/2024, 21:11 - Karim BS: Essayez de mettre 3 L au lieu de 2, qui sait 😂
+03/01/2024, 21:41 - Rochane: Sauf que tout le monde n'a pas la compétence photos hop et encore moins la licence 😊
+03/01/2024, 22:37 - Lucie: Avec cet outil ça marche aussi : https://firefly.adobe.com/upload/inpaint
+03/01/2024, 22:39 - Lucie: En effet. En ce qui concerne les images il faut prompter en Anglais pas en langage naturel. Après il y a un ordre a respecter pour obtenir de bons résultats : 1-media 2-sujet 3- qualificatif du sujet 4- arrière plan 5- couleur /lumière 6- formats <Ce message a été modifié>
+03/01/2024, 22:41 - Ahmadou Ba: Merci Bcp
+04/01/2024, 08:59 - +32 498 78 46 36: Au niveau générateur d'images et retouches, il y a un outil sympa car gratuit et sans inscription ==> https://www.i2img.com
+04/01/2024, 09:06 - Rochane: Waw une vraie mine d'or ! Merci pour le partage 😉
+04/01/2024, 09:08 - Laurent The Cure: Merci beaucoup
+04/01/2024, 09:09 - +33 6 84 84 42 61: Merci,  c est top
+04/01/2024, 10:52 - Letizia ALLEGRINI: Ideogram ai n'est pas mauvais pour ce type de projet
+04/01/2024, 10:56 - Laurent The Cure: Merci pour le tuyau
+04/01/2024, 12:31 - Votre code de sécurité avec ~ Pedrolito33610 a changé. Appuyez pour en savoir plus.
+04/01/2024, 13:31 - Lucie: J'utilise aussi Ideogram dès que je veux mettre du texte
+04/01/2024, 15:29 - ‎+32 488 67 25 92 a rejoint le groupe à partir de la communauté.
+04/01/2024, 19:47 - Votre code de sécurité avec Ahmadou Ba a changé. Appuyez pour en savoir plus.
+04/01/2024, 21:43 - Votre code de sécurité avec Ahmadou Ba a changé. Appuyez pour en savoir plus.
+05/01/2024, 10:57 - +32 498 78 46 36: <Médias omis>
+05/01/2024, 11:00 - Rochane: Je ne crois pas car ils utilisent la connexion internet et le data analysis
+05/01/2024, 12:53 - Votre code de sécurité avec +33 6 46 37 00 72 a changé. Appuyez pour en savoir plus.
+05/01/2024, 14:10 - Rochane: Hello, dans le cas de mes ateliers IA, je suis en train de tester une automatisation pour laquelle j'aimerais bien avoir votre retour. C'est très simple, une participante clique sur le lien du formulaire, pose une question sur l'ia et reçoit immédiatement par mail une réponse audio avec ma voix clonée. Merci pour votre feedback et je verrais si je partage ou pas sur LinkedIn 😁https://tally.so/r/nGll2Z <Ce message a été modifié>
+05/01/2024, 14:15 - Laurent The Cure: Quel genre de question pouvons/devons nous poser ? Un sujet particulier ?
+05/01/2024, 14:16 - +33 6 20 39 29 65: Bonjour. Je trouve l'idée top. Le bot bagaye un peu à la fin par contre. <Ce message a été modifié>
+05/01/2024, 14:16 - Rochane: N'importe
+05/01/2024, 14:16 - Rochane: C'est toi Test 😁 ?
+05/01/2024, 14:17 - +33 6 20 39 29 65: Mon deuxième prénom du moment  😂 avec tout les outils qui sortent..
+05/01/2024, 14:21 - +33 6 20 39 29 65: Ce message a été supprimé.
+05/01/2024, 14:21 - Laurent The Cure: C'est envoyé
+05/01/2024, 14:22 - Rochane: T'as reçu le mail
+05/01/2024, 14:23 - +33 6 75 41 23 05: Fait. Épatant !
+05/01/2024, 14:24 - +33 6 20 39 29 65: *sur le mail recap j'aurais aimé avoir la question que j'ai posé pour l'affiner si je suis pas satisfait de la réponse
+05/01/2024, 14:24 - +33 6 20 39 29 65: Mais RAS, super outil 😁
+05/01/2024, 14:24 - Rochane: Bonne idée, je modifie
+05/01/2024, 14:25 - Rochane: Rien à voir avec l'ia 😁
+05/01/2024, 14:25 - +33 6 75 41 23 05: Tu es passé par make.com ?
+05/01/2024, 14:26 - +33 6 75 41 23 05: Ce que je trouve épatant c’est la ressemblance de la voix <Ce message a été modifié>
+05/01/2024, 14:31 - Laurent The Cure: C'est très bien. On peut tester plusieurs fois ? ☺️
+05/01/2024, 14:32 - Rochane: Ouais tu peux 😊
+05/01/2024, 14:32 - Laurent The Cure: Je trouve la voix ressemblante mais un peu robotique
+05/01/2024, 14:33 - Rochane: Oui bien sûr ce n'est qu'une question de temps et en plus, je peux jouer sur certains paramètres au niveau de la génération de l'audio
+05/01/2024, 15:11 - +33 6 52 07 03 43: Superbe approche en effet, je suis d'accord avec Sekou, ce serait pas mal de retrouver dans le mail un petit rappel de la question posée!
+05/01/2024, 15:11 - +33 7 64 08 12 10: Le résultat est plutôt bon mais le message a atterri directement dans les spams
+05/01/2024, 15:37 - +32 498 78 46 36: <Médias omis>
+05/01/2024, 15:40 - Rochane: Oui, j'ai vu ça. J'ai l'impression que s'il y a des mots en anglais, il perd le fil et part en free style 😂
+05/01/2024, 15:45 - Lucie: C'est fait. J'ai posé une vraie question reçue suite à ma formation IA pour le collège de Paris. On va voir comment le bot s'en sort
+05/01/2024, 15:47 - Rochane: Hahaha t'as pas posé de question IA et malgré ça il t'a répondu 😉
+05/01/2024, 15:48 - Lucie: Comment ça une question d'IA? Tu veux dire que ton dataset est que de l'IA ?
+05/01/2024, 15:49 - Lucie: Oui franchement la réponse est pas mal du tout. Mon apprenante aurait encore été paumée je pense suite à sa réponse mais il n'a pas répondu à côté. Use case cool
+05/01/2024, 15:49 - Rochane: Dans le prompt du module chat gpt, pour l'orienter, je lui ai dit que tu vas recevoir des questions sur l'ia
+05/01/2024, 15:51 - Lucie: C'est dans la formation Flint que tu as vu ça ?
+05/01/2024, 15:52 - Lucie: Si c'est le cas je vais la faire car j'adore les uses cases de Bot
+05/01/2024, 15:52 - Rochane: Non non, je l'avais fait à l'époque pour un feedback des enquêtes de satisfaction par le texte et j'ai eu l'idée de l'audio avec l'aide de l'ia que j'ai challengée 😉
+05/01/2024, 15:54 - Rochane: Un autre use case pour tes évaluations 😁 https://tally.so/r/mOG707
+05/01/2024, 15:54 - Lucie: attends je vais t'envoyer un truc que j'ai fait avec un outil gratuit que je trouve mieux que Tally
+05/01/2024, 15:57 - Lucie: Un petit extrait pris de mon livre 🤫
+05/01/2024, 15:58 - Lucie: En tout cas si tu postes sur IN dis le j'irais te soutenir j'aime bien le usecase.
+05/01/2024, 15:58 - Rochane: C'est déjà fait 😁
+05/01/2024, 15:59 - Lucie: Ce message a été supprimé.
+05/01/2024, 16:19 - Jacques BARATTI: Bravo Rochane ! Je viens juste de découvrir les possibilités offertes par "Make" surtout avec, comme tu l'as fait, un couplage avec ChatGPT. Un nouveau monde à explorer
+05/01/2024, 16:25 - Rochane: Top Lucie, je connaissais l'astuce vba généré même avec chat gpt 3.5 mais j'ignorais la possibilité de générer tes images sur PowerPoint sans Copilot. On en reparlera mardi dans le live si tu es présente 😊
+05/01/2024, 16:33 - Lucie: Oula mais ce n'est pas du tout la vidéo que je voulais envoyer... Je crois que j'ai besoin de vacances. Attends je recommence. J'envoie la bonne
+05/01/2024, 16:35 - Lucie: 😅 Cette situation aurait pu être pire 😅😅
+05/01/2024, 16:36 - Lucie: <Médias omis>
+05/01/2024, 16:44 - Rochane: Top
+ 2 questions est ce que ça ne devient pas payant ton extension après un certain nombre de réponses ? Et seconde question ou plutôt constatation, le potentiel de l'ia se trouve dans la correction de questions ouvertes or, ce n'est pas le cas ici je présume 😊 <Ce message a été modifié>
+05/01/2024, 16:51 - Lucie: Yes. Deux bonnes questions. 
+La première je ne sais pas, je n'ai pas vu de business model derrière. 
+Et pour la seconde je vois plus ça comme un test de positionnement avant la formation. Test que les formateurs ne font pas car "pas  de temps" et qui pourtant devrait être obligatoire avant chaque formation pour vérifier que les pré-requis sont bien en place et peut-être re-router les apprenants.
+05/01/2024, 17:01 - +33 7 64 08 12 10: Il peut aussi être intéressant de proposer le quizz en début (positionnement) et en fin pour voir le delta entre les deux réponses au même questionnaire pour chacun des participants.
+05/01/2024, 17:06 - Ahmadou Ba: J'avais demandé à mon GPt de me faire un pré-test et post test pour une formation mais il a juste interroger les participants sur le contenue. La différence entre les deux tests de se situent au niveau de la profondeur des questions c a d le niveau taxonomique. J'ai décidé alors d'en faire une évaluation ipsative
+05/01/2024, 17:06 - Ahmadou Ba: Je ne sais pas ailleurs si cela va être pertinent
+05/01/2024, 17:07 - Rochane: Adjectif. (Psychologie) En psychométrie, se dit des mesures « à choix forcé », où l'on demande au sujet de choisir entre deux branches d'une alternative en opposition. Mesures ipsatives.😁
+05/01/2024, 17:11 - Ahmadou Ba: J'ai rien compris.
+05/01/2024, 17:11 - Rochane: Et portant c'est toi qui l'as écrit 😂
+05/01/2024, 19:18 - Laurent The Cure: très intéressant, merci !
+05/01/2024, 20:24 - ‎+41 76 693 61 59 a rejoint ce groupe grâce à son lien d’invitation
+05/01/2024, 20:26 - +41 76 693 61 59: Bonsoir,
+J'imagine qu'il est de coutume de se présenter 
+Je m'appelle Steve 
+Je suis formateur d'adulte et plus spécifiquement formateur en intelligence artificielle 
+J'ai monté une formation avec pour public cible les formateurs 
+J'aide les formateurs à intégrer l'IA dans leur pratique
+05/01/2024, 20:27 - +41 76 693 61 59: Au plaisir d'échanger avec vous 
+😃
+05/01/2024, 20:27 - +41 76 693 61 59: Ah oui
+Je suis en suisse
+A Genève
+05/01/2024, 20:27 - Laurent The Cure: bienvenue Steve
+05/01/2024, 20:28 - Rochane: Bienvenue Steve, on a eu la mauvaise idée de ne pas se présenter et du coup, tu es le premier à le faire 😏
+05/01/2024, 20:29 - Guillaume CLEMENT: Re @41766936159 👍😉
+05/01/2024, 20:36 - +41 76 693 61 59: Ah ben j'espère que je suis pas passé pour le prétentieux de service 😂😅
+05/01/2024, 20:36 - +41 76 693 61 59: Re ! Et merci pour l'ajout
+05/01/2024, 20:49 - Laurent The Cure: au contraire, c'est surement nous qui n'avons pas eu la politesse de nous présenter. C'est une excellente initiative. 
+
+Je suis Laurent. Après un parcours dans les RH (formation, gestion des compétences, recrutement) puis la création d'une entreprise web, je me souhaite retourner dans une activité liée à la formation professionnelle pour adultes. 
+Ces programmes de formation  (essentiellement le Team building, la motivation des équipes, la communication, et l'Encadrement intermédiaire tout ceci avec un méthode axé sur le sport collectif et des activités ludiques) auraient lieu dans le Riad dont je m'occupe (d'un point de vue web marketing, mais aussi en co gestion au quotidien) à Agadir (Maroc).
+
+C'est un projet pour cette année 2024
+
+Je pense que l'IA va grandement m'aider dans cette création d'activité, et de toutes les façons, ma curiosité me pousse à creuser le sujet.
+06/01/2024, 09:45 - ‎+33 6 88 57 53 04 a rejoint le groupe à partir de la communauté.
+06/01/2024, 10:58 - ‎+33 6 87 72 32 30 a rejoint le groupe à partir de la communauté.
+06/01/2024, 12:28 - ‎+33 6 13 87 82 16 a rejoint le groupe à partir de la communauté.
+06/01/2024, 19:40 - +212 658-518929: Bonsoir ! Je suis Mathieu. Prof de math et conseiller pédagogique second degré. Actuellement en reconversion pour devenir datascientist. Je cherche à développer des solutions en ML ou DL pour des problématiques du secteur éducatif. 
+Actuellement, je planche sur un modèle qui permettrait de générer de façon (semi) automatique les commentaires de bulletins des enseignants. L’idée est  de s’assurer d’avoir des commentaires de bonne qualité tout en réduisant significativement le temps alloué à cette tâche. Bonne idée ou pas d’après vous ?
+06/01/2024, 19:43 - Francois Bocquet: Tout ce qui touche autour du feedback de qualité est une bonne idée. 👍
+06/01/2024, 19:43 - Rochane: Bienvenue Mathieu ! Super projet. Si pas trop confidentiel, je suis curieux de comprendre comment tu comptes t'y prendre lors de notre prochain live de mardi 9 janvier à 20h 😊 <Ce message a été modifié>
+06/01/2024, 19:49 - +33 6 86 57 88 00: Bonsoir à tous. 
+A mon tour de me présenter. Je suis Fanny, étudiante en MASTER2 IMP en distanciel à Lille (élève de Rochane : salut Rochane!). Et sinon, dans la vraie vie, je suis prof de math en collège, tout récemment débauchée en tant de principale adjointe faisant fonction. Et aussi maman solo de 4 gnomes (ça compte aussi comme job, non?). Je suis sur ce groupe car Rochane a bien fait son job et m'a convaincu que non, l'IA, c'est pas (que) le côté obscure de la force (Good job! 👏). Voilà, voilà...
+06/01/2024, 19:56 - +212 658-518929: @33649535198 : j’ai la chance d’avoir de la data (la partie confidentielle). Le reste c’est un peu de stats, de la classification et du nlp. L’idée c’est qu’un enseignant puisse à partir des notes brutes, et de quelques keywords bien choisis, d’obtenir ses commentaires. Je pense utiliser un modèle de deep learning pre entraîné et le finetuner sur mes données. Je ne suis pas sur de pouvoir vous rejoindre mardi. Si je peux, je serai là. <Ce message a été modifié>
+06/01/2024, 19:57 - +212 658-518929: @33686578800 : super parcours ! Et oui maman solo de 4 enfants, c’est clairement un job. Bravo !!
+06/01/2024, 20:00 - Rochane: Fanny, que de bons souvenirs cette petite aventure " Masterienne" Content de te voir parmi nous 😊
+06/01/2024, 20:13 - +33 6 86 57 88 00: Je suis avec vous en mode furtif depuis longtemps. Et je vous lis avec plaisir. Mais comment vous dire qu'avec mon boulot, les marmots et mon mémoire, mon usage de CHATGPT se résume pour le moment beaucoup à un : 
+" - Mamaaaaannnn, tu peux relire mon rapport de staaaaaggge?
+- Po le temps. Demande à CHATGPT!"
+Donc bon... 😅
+06/01/2024, 20:14 - +33 6 63 72 18 15: Bonsoir je me présente à mon tour .. je suis agrégée de lettres et je viens de finir un master 2 MI edtech à Sorbonne , en recherche de missions, poste en détachement 
+#mathieu regarde du côté de magic school!
+06/01/2024, 20:19 - Jacques BARATTI: Il me semble que le site MagicSchool propose quelque chose qui va dans le même sens
+06/01/2024, 20:20 - +212 658-518929: Je vais regarder, merci.
+06/01/2024, 20:36 - +41 76 693 61 59: Bonsoir à tous,
+
+Je vous ai déjà parlé de moi, mais je me permets de partager avec vous quelque chose.
+
+Je vous propose un lien vers un test conçu pour évaluer vos connaissances en intelligence artificielle. Ce bilan est spécialement à destination des formateurs/trices.
+
+Voici le lien pour accéder au test : https://thinkai.ch/bilan/
+
+Le test prend 2min et est gratuit.
+N'hésitez pas à me contacter si vous avez des questions ou besoin de clarifications. 
+
+Je vous souhaite une bonne soirée.
+
+Steve
+06/01/2024, 20:41 - Ahmadou Ba: Ah j'ai fais le test et j'ai eu un bon score je crois
+06/01/2024, 20:41 - +41 76 693 61 59: Tu as pas vu le résultat à la fin ?
+06/01/2024, 20:44 - Rochane: Attention, un bon score IA signifie un bad score empreinte carbone 😁 <Ce message a été modifié>
+06/01/2024, 20:45 - Ahmadou Ba: J'ai tout vu même la belle photo de profil et la publicité qui l'accompagne🤣
+06/01/2024, 20:47 - Ahmadou Ba: C'est clair apparemment la génération est energivore.
+06/01/2024, 20:47 - Jacques BARATTI: <Médias omis>
+06/01/2024, 20:47 - Jacques BARATTI: <Médias omis>
+06/01/2024, 20:49 - +41 76 693 61 59: Faut que je fasse passer le test à greta thunberg pour voir 😂
+06/01/2024, 20:50 - Jacques BARATTI: <Médias omis>
+06/01/2024, 20:50 - Jacques BARATTI: <Médias omis>
+06/01/2024, 21:16 - Jacques BARATTI: je veux t'envoyer un message privé je n'ai pas ton tel
+06/01/2024, 21:37 - +41 76 693 61 59: Bien sûr sans problème
+07/01/2024, 18:08 - +32 498 78 46 36: https://youtu.be/iVYP2lyreAA Si vous voulez tester des LLM en mode hors-ligne (Mistral, Llama) il est possible d'en installer sur n'importe quel PC grâce à https://jan.ai
+07/01/2024, 22:27 - Rochane: Franchement, pas très convaincu par cette solution car à part générer quelques lignes de code, je n'ai rien vu d'extra dans ses exemples. Un peu logique, tu as un logiciel de 4 go, sans connexion à internet, comment veux tu avoir ta base de connaissances qui doit être basée sur des milliards de paramètres. Sans oublier la nécessité d'avoir de CPU de très grande qualité qui coûtent 200 K euros....
+07/01/2024, 22:33 - +32 498 78 46 36: C'est justement cette déconnexion d'internet couplée au fait qu'il tourne en local sur une machine que je trouve intéressante. Après je je n'ai pas testé 😉
+08/01/2024, 07:51 - Rochane: Vous avez supprimé ce message
+08/01/2024, 07:52 - Rochane: https://www.ladn.eu/tech-a-suivre/pensez-vous-que-lia-va-exterminer-lhumanite-calculez-votre-pdoom/ La “probability of doom” (probabilité de catastrophe) est la nouvelle métrique à la mode chez les tech bros
+08/01/2024, 09:45 - ‎+33 6 82 23 97 12 a rejoint le groupe à partir de la communauté.
+09/01/2024, 18:51 - Rochane: Chèr·es ami·es,
+
+J'ai le plaisir de vous inviter à notre prochain live mensuel qui aura lieu le mardi 9 janvier de 20h à 21h. Ce sera l'occasion pour notre communauté de se retrouver et d'échanger en direct sur les dernières actualités et innovations en IA et en éducation.
+
+Pour participer, deux options s'offrent à toi :
+
+En visioconférence via ce lien : https://meet.google.com/wsf-snkf-kcu
+Par téléphone en composant le +33 1 87 40 47 62 puis en saisissant le code d'accès 299 438 459# (d'autres numéros sont disponibles via ce lien : https://tel.meet/wsf-snkf-kcu?hs=5)
+Lors de cette session, tu es invité·e à partager avec le groupe un outil, une méthode, ou une pratique inspirante en rapport avec l'IA ou l'éducation. Pour proposer un sujet, il te suffit de m'envoyer un message privé et je l'ajouterai à l'ordre du jour. Tu peux aussi sans forcément partager 🙂
+J'espère vous retrouver nombreux et nombreuses lors de ce live pour échanger dans la convivialité !
+
+Bien cordialement,
+Rochane
+10/01/2024, 02:48 - ‎+234 916 194 1836 a rejoint le groupe à partir de la communauté.
+10/01/2024, 02:48 - +234 916 194 1836: null
+10/01/2024, 08:05 - Rochane: <Médias omis>
+10/01/2024, 08:59 - +33 6 52 07 03 43: Bonjour tout le monde, 
+Désolée j'ai complètement raté le rdv d'hier ! y'a t'il un replay ?
+10/01/2024, 11:57 - Laurent The Cure: keskecé ?
+10/01/2024, 11:59 - Rochane: https://drive.google.com/file/d/1QB4Gdrxw0NbMqPvvH4XcRhod0284dyR2/view?usp=drivesdk.  Voici le lien du replay du live d'hier 😉
+10/01/2024, 11:59 - Laurent The Cure: génial merci
+10/01/2024, 12:01 - Rochane: Signalé. Désolé
+10/01/2024, 12:14 - Lucie: Pareil. Désolée j'étais en clôture hier j'ai pas eu le temps de passer. !
+10/01/2024, 12:15 - Lucie: Oui. Voici le lien vers le podcast : https://smartlinks.audiomeans.fr/l/learning-by-doing-4f5c7395/84-lucie-dhorne-faire-de-lia-son-assistant-pedagogique-dc7c0673
+10/01/2024, 12:28 - Laurent The Cure: Je suis en plein Replay. Mes commentaires au fur et à mesure : Je vous confirme que pour importer les questions générées par Quiz Wizard dans wooclap, il est nécessaire d'avoir un abonnement (sauf à se limiter à 2 questions). Cependant, c'est un magnifique mariage d'outils qui va m'être utile dans mon activité de formateur ! Merci @33611028249
+10/01/2024, 12:37 - Laurent The Cure: Merci @33768502488 pour le compte rendu de la présentation très intéressante.
+10/01/2024, 12:59 - Rochane: Nne dis pas que j'étais en pyjama Naruto 😂
+10/01/2024, 13:00 - Laurent The Cure: 🤐
+10/01/2024, 13:02 - Laurent The Cure: j'ai cru que c'était le maillot Away 2020 😉
+10/01/2024, 13:10 - Laurent The Cure: text blaze top comme outils !
+10/01/2024, 13:12 - Laurent The Cure: @33649535198 peux tu m'envoyer un lien de parrainage pour Gamma stp ? cela te fera gagner quelques crédits
+10/01/2024, 13:21 - Rochane: https://gamma.app/signup?r=l6wl7qx2py2eg1n
+10/01/2024, 13:26 - Laurent The Cure: compte créé 😉
+10/01/2024, 13:27 - Laurent The Cure: Merci à tous pour cette visio. et Merci Rochane pour l'animation
+10/01/2024, 17:06 - +234 916 194 1836: null
+10/01/2024, 17:11 - ‎+33 6 52 49 10 78 a rejoint le groupe à partir de la communauté.
+10/01/2024, 21:24 - Ahmadou Ba: Bsr.
+Qui a testé cette IA, elle propose de belles choses en éducation
+https://app.curvedo.com/dashboard
+10/01/2024, 21:25 - Ahmadou Ba: jetez un coup d'oeil au tableau de bord
+10/01/2024, 21:26 - Ahmadou Ba: il parait qu'il y a un nouveau plan d'équipe sur ChatGPT à 25 $par mois
+11/01/2024, 08:38 - Jacques BARATTI: <Médias omis>
+11/01/2024, 13:04 - Rochane: https://www.linkedin.com/posts/jcoutou_scoop-chatgpt-lance-team-pour-les-entreprises-activity-7151100984046362624-ctEw?utm_source=share&utm_medium=member_android Très bon post au sujet de chat gpt entreprise
+11/01/2024, 13:20 - +32 470 11 45 36: je vois une "bulle" à coté de certains gpt. comme un commentaire. qqun sait comment les visualiser?
+11/01/2024, 21:07 - ‎+33 6 32 20 02 28 a rejoint le groupe à partir de la communauté.
+11/01/2024, 21:09 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+12/01/2024, 07:08 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+12/01/2024, 14:12 - Rochane: https://youtu.be/EERI0tMELQk?feature=shared Vraiment intéressant cette vidéo sur les GPT
+12/01/2024, 14:57 - ‎~ Steve est parti·e
+12/01/2024, 16:39 - +33 6 18 81 55 47: https://lms.fun-mooc.fr/courses/course-v1:inria+41032+session01/info
+12/01/2024, 17:28 - +234 916 194 1836: null
+12/01/2024, 22:59 - +237 99148639: null
+13/01/2024, 01:17 - ‎+33 6 27 83 22 20 a rejoint le groupe à partir de la communauté.
+13/01/2024, 09:42 - Rochane: Si vous voulez utiliser midjourney, c'est vraiment une belle pratique https://generationia.flint.media/p/reinventez-vos-prompts-pour-exploiter-puissance-midjourney-6
+13/01/2024, 10:37 - Rochane: Hahaha en 2 minutes, paroles dans chat gpt et musique dans Suno Listen to Pythagore on Suno! 🎵 https://app.suno.ai/song/147edaab-ebbc-4477-8d26-711cffc57e19
+13/01/2024, 10:47 - Laurent The Cure: La question que je me pose est : doit on obligatoirement lui parler dans la langue de Shakespeare ? Traduire du Balzac en anglais n'est déjà pas chose aisée. Chatgpt me direz vous ? Of course, my dear ! Bryan is still in the kitchen dealing with the pudding in the fridge.
+13/01/2024, 10:50 - Rochane: Les recherches sont formelles, les résultats sont meilleurs en anglais car c'est plutôt avec cette langue qu'il a été paramétré. Ça marche en français aussi mais le travail de traduction il le fait et parfois les subtilités et nuances jouent un peu sur la qualité
+13/01/2024, 12:10 - +234 916 194 1836: null
+13/01/2024, 12:19 - +33 7 83 16 44 23: Bonjour, peut-on supprimer cette personne du groupe svp ? Nous recevons beaucoup de spam de @2349161941836
+13/01/2024, 12:19 - Rochane: Je l'ai signalée, bloquée et je ne sais pas comment elle peut revenir
+13/01/2024, 12:20 - Laurent The Cure: un BOT de l'IA ? 🤔 😉
+13/01/2024, 16:31 - Vous avez supprimé +234 916 194 1836
+14/01/2024, 17:18 - Rochane: https://ai.digital-hipster.com/marketing-digital/plus-ai-le-meilleur-outil-pour-creer-et-editer-des-presentations-avec-lia/#Combien_coute_Plus_AI
+14/01/2024, 21:30 - Rochane: Top ton podcast Lucie, je le conseille à toutes et à tous... Les échanges avec ton interlocuteur sont pertinents. Ce serait cool que l'on réserve, dans les lives de la communauté, un petit moment pour parler usages au lieu d'outils 🙂 <Ce message a été modifié>
+15/01/2024, 05:19 - Rochane: Voici les 10 points clés de la transcription en liste à puces :
+
+1. L'émission "Learning by doing" vise à comprendre les enjeux actuels de l'apprentissage et mettre en lumière les bonnes pratiques.
+
+2. Lucie a un master en ingénierie pédagogique et en maths/informatique, et travaille depuis 10 ans dans l'innovation pédagogique. 
+
+3. L'IA peut aider à créer des formations innovantes et engageantes avec un professeur virtuel interactif.
+
+4. Il faut apprendre à "murmurer à l'oreille de l'IA" et structurer correctement les requêtes pour obtenir de bons résultats.
+
+5. Lucie utilise des bibliothèques de requêtes textuelles et d'images pour gagner en productivité dans son travail.
+
+6. La transcription vocale permet de gagner du temps, par exemple pour les corrections.
+
+7. Son livre contient plus de 100 requêtes et vidéos pour maîtriser l'usage de l'IA en formation.
+
+8. Ne jamais faire totalement confiance aux réponses de l'IA basées sur des probabilités.
+
+9. Utiliser l'IA de façon pertinente et écologique, à bon escient. 
+
+10. Apprendre le langage adapté pour "parler" et interagir efficacement avec l'IA.
+15/01/2024, 13:09 - Larissa: Salut tout le monde, j'ai besoin de votre experience et vos idées. J'aimerai construire un bot qui demande des questions dependant d'une arborescence que je lui donne et puis me donne une réponse selon ce que j'ai défini dans mon arborescence. Vous preconisez un GPT ou Bot comme Botsonic par exemple?
+15/01/2024, 15:53 - Rochane: Hello Larissa, avec chat gpt, tu peux construire un gpt avec la connaissance que tu lui injectes ( pdf, ppt,....) et les gens peuvent poser des questions. La limite de cette solution est que les gens qui interagissent doivent avoir un compte gpt plus. Si tu fais passer ce gpt via les actions et l'api, ça peut se faire mais ça demande un investissement ( il faut compter 1 centime de dollar par interaction) et des compétences un peu techniques. Enfin, une dernière solution gratuite ( jusqu'à un certain nombre de questions) qui te permet de créer un bot de façon très facile. L'application en ligne s'appelle getcody😊
+Le bot, tu peux l'embeder sur n'importe quel site. C'est une vraie valeur ajoutée <Ce message a été modifié>
+15/01/2024, 16:42 - Letizia ALLEGRINI: https://acrobat.adobe.com/id/urn:aaid:sc:EU:3d667db9-2542-456e-958b-2bf991ba83d1
+15/01/2024, 16:42 - Letizia ALLEGRINI: Bonne année à tous la boîte noire 2024 est arrivée
+15/01/2024, 16:46 - Larissa: Merci Rochane!
+16/01/2024, 00:38 - Son: Bonjour, voici un webinaire qui pourrait vous intéresser : Webinaire du GRIIP - ChatGPT : Comment éviter la tricherie et tirer profit de l'outil en enseignement supérieur ? Lien : https://uquebec.zoom.us/meeting/register/tZAlcOmhqjwuHdxOowMj1RaIrGwU59p6TSgb#/registration
+16/01/2024, 12:33 - +32 470 11 45 36: Bonjour tout le monde, l’un(e) de vous connaît il une ia pour réaliser un CV original? Je postule pour un poste de prof de sciences dans l’ordinaire et j’aimerais sortir du traditionnel CV listing. 🙂
+16/01/2024, 12:40 - Rochane: Chat GPt en travaillant bien son prompt. Attends, il me semble avoir vu dans ma formation, un truc dans le genre. Je checke 🙂
+16/01/2024, 12:45 - +32 470 11 45 36: Oui ça marche Rochane mais il ne me génère pas le fichier/template.
+16/01/2024, 12:49 - +32 470 11 45 36: Pour être plus précis, mon cv est fait mais j’aimerais changer sa présentation.
+16/01/2024, 14:30 - Rochane: Essaye avec cet outil textcortex.com/fr
+16/01/2024, 14:50 - +32 470 11 45 36: Merci. Je regarde ça.
+16/01/2024, 14:53 - +33 7 85 94 69 69: Pour l’avoir tester il est bien cet outil
+18/01/2024, 02:29 - ‎+687 86.70.96 a rejoint le groupe à partir de la communauté.
+18/01/2024, 07:39 - Rochane: https://support.anthropic.com/en/articles/8461763-where-can-i-access-claude-ai Les pays où Claude.ai est disponible avec la possibilité d'analyser des documents dans la version gratuite. (Pas la France et ni la Belgique)
+19/01/2024, 19:12 - Rochane: @33610720856 peux-tu nous mettre l'isbn de ton livre pour ceux et celles qui sont intéressé·es de l'acheter ?
+19/01/2024, 19:25 - Lucie: Bonjour Rochane. Merci pour ta proposition .Je ne connais pas mon ISBN mais voici le lien vers mon livre sur le site de mon éditeur. https://www.titashop.fr/products/lia-pour-la-formation-dhorne Sinon il est disponible partout ailleurs (fnac, Cultura, amazon , librairie). Je sais juste que mon éditeur fait les envois plus vite pour cette période de lancement
+19/01/2024, 19:28 - Laurent The Cure: Bonsoir, étant à l'étranger, est il disponible en ebook ? Sinon j'attendrais d'être rentré
+19/01/2024, 19:29 - Lucie: Non dommage pas de ebook. Mon éditeur fais les envois à l'étranger si besoin.
+19/01/2024, 19:30 - Laurent The Cure: Ça va plus me coûter en bougies qu'en gâteau... Je le prendrai pendant mon court retour en France. Merci
+19/01/2024, 19:33 - Rochane: Je donne ce week-end une formation en Tunisie pour une boîte Belge. Les participant·e·s n'auront que Chat GPT 3.5. Voici le scénario de la formation de 6 h en présentiel bit.ly/apricosfaxia
+19/01/2024, 19:43 - ‎+352 691 397 315 est parti·e
+19/01/2024, 20:32 - Lucie: Sympa l'idée de donner ses contenus via notion
+20/01/2024, 08:49 - Thierry VANOFFE: Coucou Lucie seras tu avec ton livre au salon learning technologies semaine pro à paris ? Peut on l’acheter la bas ? Sinon qui passe sur ce salon ? J’y serai le premier jour mercredi pour ma part. Bon we !
+20/01/2024, 09:12 - Lucie: <Médias omis>
+20/01/2024, 17:00 - Ahmadou Ba: Bonjour,
+Je projette d'organiser une petite formation sur l'utilisation de ChatGPT par les élèves. J'avoue c'est une entreprise assez risquée vu les craintes que cela suscite chez nous (tricherie, paresse intellectuelle). Mais je vais faire ce pari risqué. 
+Si vous l'avez déjà fait, ou vous avez déjà des exemples d'activités sur lesquelles faire travailler les élèves, j'essayera de l'adapter en HG et je vous partagerai ma scénarisation avant de dérouler la séance.
+20/01/2024, 17:11 - Rochane: Est ce que tu peux nous donner le context et quand tu vas faire cette formation ? ( On se croirait avec Chat GPT 😂)
+20/01/2024, 17:22 - Ahmadou Ba: Bon au début de l'année j'avais projeter de faire une formation des enseignants et des élèves dans l'academie de thies (250 enseignants et 500 élèves) dans le cadre d'un projet de notre association SENUM j'avais fais la scénarisation complète et avais formé les formateurs qui devrait m'epauler. Mais au dernier moment, ils ont dit que c trop tôt de former les élèves aux IA gen. Finalement ce sont les enseignants qui ont été formé. Et D'après les retour que j'ai reçu, ils ont apprécié la formation mais reste un peu réticent pour l'utilisation pour les eleves et les inspecteurs exigent des participant qu'ils dupliquent la formation aupres des collègue et des élèves.
+Alors je me dis que c injuste que je forme des enseignants qui forment leurs élèves sans que je forme les miens alors que je suis dans une autre académie.
+20/01/2024, 17:22 - Lucie: Ma préconisation : fais leur remplir une fiche d'usage pour travailler leur pensée critique. Comment ont ils utilisé l'IA. Apports. Limites. Etc...
+20/01/2024, 17:24 - Ahmadou Ba: oui mais je doute que bcp le connaisse déjà, quand j'en ai référence en classe j'ai l'impression qu'ils ne connaissent pas. D'ailleurs bcp d'enseignant ne le connaissais pas lors de ma formation
+20/01/2024, 17:26 - Lucie: Oui c'est pour ça. Cette fiche est comme un rapport d'étonnement. Imagine que c'est une classe découverte ;) ils restent et écrivent leurs découvertes. Que sait il faire ? Quelles sont ses lumites. Que puis je faire avec ? Est-ce, ce que je que peux faire avec est bien ou mal etc ?
+20/01/2024, 17:29 - Ahmadou Ba: ah vous proposez d'abord une sorte d'évaluation diagnostique pour faire l'État des lieux avant de me lancer. Merci pour bcp
+20/01/2024, 17:51 - +32 496 53 14 94: J'ai commencé avec un wooclap… 50% des étudiants n'avaient jamais utilisé l'IA (cadres de santé).
+20/01/2024, 17:53 - +32 496 53 14 94: Voici une copie de ma scénarisation. https://nathaliezandecki.notion.site/sc-narisation-cours-IA-05c31d666048479e8499989c3c631020?pvs=4
+20/01/2024, 17:54 - Ahmadou Ba: Merci beaucoup.
+20/01/2024, 17:57 - Ahmadou Ba: J'ai jeté un rapide coup d'œil mais c bien structuré. Merci je m'y pencherai davantage.
+20/01/2024, 18:21 - Rochane: Merci pour le partage Nathalie, très intéressant et très inspirant
+20/01/2024, 18:23 - +32 496 53 14 94: Avec plaisir...
+20/01/2024, 19:29 - Votre code de sécurité avec +33 6 24 47 73 06 a changé. Appuyez pour en savoir plus.
+21/01/2024, 12:38 - Jacques BARATTI: Super un grand merci pour le partage 👍
+21/01/2024, 17:29 - ‎+33 6 87 86 78 87 a rejoint le groupe à partir de la communauté.
+22/01/2024, 10:18 - +33 6 88 57 53 04: Bonjour 
+Avec la version 3.5 de chat gpt, je souhaiterais obtenir des réponses sous la forme d'une synthèse vocale (si possible, sans avoir à faire des copier/coller dans un autre outil à chaque fois).
+Auriez-vous une solution technique à me proposer ?
+Bonne journée 
+Simon
+22/01/2024, 10:29 - Rochane: Chat GPt 3.5 ne génère aucun fichier. Tu peux simplement avoir une réponse vocale si tu utilises l'App
+22/01/2024, 10:32 - Rochane: Ou alors, tu passes par une automatisation avec un outil comme Make ou zapier avec l'API Openai ( payante)
+22/01/2024, 11:44 - +33 6 88 57 53 04: Ok. Merci
+23/01/2024, 09:12 - ‎+33 7 85 04 14 98 est parti·e
+23/01/2024, 15:42 - Votre code de sécurité avec +33 6 52 87 33 55 a changé. Appuyez pour en savoir plus.
+23/01/2024, 15:44 - Laurent The Cure: Bonjour à tous, il me semble que vous avez parlé de la possibilité de repousser la limite d'utilisation de GPT-4 en remplissant le formulaire. je ne retrouve pas cette information dans la conversation. Y'a-t-il des "bonnes" et "mauvaises" réponses dans le remplissage de ce formulaire ?
+23/01/2024, 15:44 - Laurent The Cure: merci d'avance
+23/01/2024, 15:45 - Laurent The Cure: Question subsidiaire :
+"You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again after 5:32 PM."
+
+C'est l'heure de quel fuseau horaire ?
+23/01/2024, 15:46 - Rochane: En fait, quand tu arrives à ta limite, il te dit que tu ne peux pas continuer avant telle heure, tu as juste derrière un lien " en savoir plus" . C'est ce lien qui pointe sur le formulaire 🙂 <Ce message a été modifié>
+23/01/2024, 15:47 - Laurent The Cure: oui j'ai vu cela mais je voulais savoir si n'importe quelle réponse (How are you using ChatGPT?
+Personal Work Education Other) fonctionnerait
+23/01/2024, 15:48 - Rochane: Ah ça je ne sais pas. C'est eux qui décident
+23/01/2024, 15:48 - Ahmadou Ba: Je l'ai une fois mais bon apparemment cela ne fonctionne pas. J'ai mentionné que je j'utilisais pour un usage pédagogique peut-être que c a cause de ça. Seules les entreprise qui peuvent en bénéficier
+23/01/2024, 15:50 - Laurent The Cure: Merci. Je vais tester professionnel (car je l'utilise pour les 3 personnel, travail et éducation en tant que formateur)
+23/01/2024, 15:55 - Laurent The Cure: je suppose que c'est le fuseau horaire américain mais lequel ?
+23/01/2024, 15:59 - Laurent The Cure: ChatGPT m'a répondu (il suffisait de penser à demander à la source) 
+
+I apologize for the confusion. The time mentioned in the message is in UTC (Coordinated Universal Time). You can try again after 5:32 PM in the UTC time zone.
+24/01/2024, 08:57 - Rochane: https://app.heygen.com/share/973eaa1b9528439f81860d2da7a2e706
+24/01/2024, 09:25 - +33 6 52 49 10 78: @33649535198 je dirais que tu as utilisé Heygen et suivi le process à savoir enregistrer un 1 min face caméra et ensuite soit ton audio dans un autre soft que tu as importé, soit directement dans Heygen. On est là-dessus ou pas du tout ?
+24/01/2024, 09:34 - Rochane: oui c'est à peu près ça : tu crées ton avatar en parlant 30 secondes et ensuite, tu crées ta vidéo juste avec le texte que tu souhaites. En vrai, j'ai jamais dit ce texte et c'est juste mon clone. Vous pouvez tester, c'est gratuit pour un test 🙂
+24/01/2024, 09:59 - Rochane: Vendredi à midi 🙂
+https://www.linkedin.com/posts/rochanekherbouche_off-off-formation-activity-7155839638509617153-uhCZ?utm_source=share&utm_medium=member_desktop
+24/01/2024, 10:25 - Laurent The Cure: Bonjour à tous.
+
+Je ne pourrais pas écouter en direct mais je mettrai les replay
+24/01/2024, 10:25 - Votre code de sécurité avec +33 6 52 87 33 55 a changé. Appuyez pour en savoir plus.
+24/01/2024, 15:04 - Rochane: Pour celles et ceux qui souhaitent montrer l'intérêt d'un bon prompt, je manque souvent d'exemples en fonction des secteurs où j'interviens, j'ai créé un prompt que j'ai testé avec Calude.ai et qui donne des exemples chouettes. Le voici juste en dessous <Ce message a été modifié>
+24/01/2024, 15:05 - Rochane: tu es un expert IA spécialiste du prompt engineering. Tu as une grande expérience pédagogique. Lors d'une formation sur l'IA, j'ai envie de montrer aux participants la différence entre un prompt simple et un prompt élaboré. Je souhaite commencer par un prompt simple qui ne respecte pas le processus RCT : Role-Contexte- tâches et leur montrer la qualité de la réponse quand on utilise pas RCT et quand on l'utilise.
+
+Je vais te donner des secteurs différents et ta tâche serait que tu me donnes un prompt simple de ce secteur et un prompt élaboré, respectant RCT pour ce même secteur. Tu as compris ?
+24/01/2024, 15:06 - Rochane: la réponse de claude.ai, pas mal et surtout, je vais garder cette conversation car il suffit de juste donner le secteur et il donne des exemples
+24/01/2024, 15:06 - Rochane: Bien sûr, je serais ravi de vous aider à illustrer la différence entre un prompt simple et un prompt élaboré en utilisant le processus RCT (Role-Contexte-Tâche).
+
+Pour un secteur comme la finance, voici un exemple de prompt simple et de prompt élaboré :
+
+Prompt simple finance :
+Donne-moi un conseil pour investir en bourse.
+
+Prompt élaboré finance (RCT) :
+Role : Vous êtes un conseiller financier expérimenté travaillant pour une grande banque d'investissement.
+Contexte : Un de vos clients, Mme Durand, âgée de 45 ans, vous contacte car elle souhaite investir 50 000€ en bourse. Elle n'a jamais investi auparavant.
+
+Tâche : Rédigez un paragraphe de conseils pour Mme Durand sur la meilleure stratégie d'investissement compte tenu de son profil. Expliquez les risques et les rendements potentiels des options que vous lui recommandez.
+
+J'espère que cet exemple illustrera bien la différence entre les deux prompts. N'hésitez pas à me donner d'autres secteurs si vous souhaitez d'autres exemples utilisant le processus RCT pour élaborer un prompt détaillé.
+25/01/2024, 07:28 - Guillaume Singeot: Bonjour à toutes et à tous. Meilleurs vœux pour 2024 (avec un peu de retard..) 😜 Connaissez vous des outils IA qui produisent eux mêmes des H5P ? Il semblerait que https://www.buildalesson.org/ et https://nolej.io/ puissent en produire. Les auriez vous testé ? @+ Bonne journée
+25/01/2024, 07:50 - Rochane: Merci, à tester 🙂
+25/01/2024, 08:10 - Guillaume CLEMENT: Pas mal comme exemple
+25/01/2024, 08:11 - +32 484 68 10 13: Bonjour à tous.  Ça peut-être déjà été demandé,  mais je cherche un outil gratuit pour des résumé de Pv de réunions.  😊merci bcp
+25/01/2024, 08:15 - Rochane: Si tu n'as pas Chat GPT plus, pour résumer des PDF, essaye seeker, c'est gratuit
+25/01/2024, 08:21 - +32 484 68 10 13: Merciiii . Non pas encore , mais c est  prévu
+25/01/2024, 09:28 - +33 6 58 12 88 07: Bonjour, vous avez du le recevoir...le livre blanc état de l'ART de l'IA en formation : https://digital-learning-academy.com/dossier-etat-de-lart-lintelligence-artificielle-en-formation-jan-2024/?_se=bmF0YTM0MDdAbWFpbC5ydQ%3D%3D&utm_campaign=Dossier+Etat+de+lart+IA+en+formation&utm_medium=email&utm_source=brevo
+25/01/2024, 09:36 - ‎+32 470 07 31 28 est parti·e
+25/01/2024, 10:16 - Larissa: https://h5p.org/ai/moodle
+25/01/2024, 10:17 - Larissa: Ceci sont des exemples du webinar organisé par H5P sur l’utilisation de l’IA
+25/01/2024, 14:52 - Rochane: https://www.linkedin.com/mwlite/feed/posts/xaviervandieren_off-off-formation-activity-7156276505772216322-FWn8/?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/xaviervandieren_off-off-formation-activity-7156276505772216322-FWn8?utm_source=share&utm_medium=member_desktop N'hésitez pas à vous inscrire sur le webinaire sur LinkedIn animé par Xavier,ici présent! Ça parle d'outils IA en formation 🙂
+25/01/2024, 14:53 - +33 6 58 12 88 07: Le lien de la page ne fonctionne pas pour moi apparemment
+25/01/2024, 14:54 - +33 6 58 12 88 07: <Médias omis>
+25/01/2024, 14:54 - Laurent The Cure: ca m'a bien ouvert LinkedIn
+25/01/2024, 14:56 - Laurent The Cure: Pardon en effet c'est après que ça a bloqué
+25/01/2024, 14:59 - +33 6 58 12 88 07: Cela fonctionne via l'application maintenant. Bonne journée
+26/01/2024, 12:39 - ‎+33 7 50 51 92 05 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 7 69 88 62 42 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 85 85 11 33 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+1 (438) 886-4338 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 17 16 08 06 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+212 669-764440 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 74 64 14 15 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+32 485 84 04 14 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎Céline Averseng a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 24 33 06 13 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 71 61 42 59 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 20 69 82 20 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 7 56 26 41 48 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 7 87 87 63 14 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:39 - ‎+33 6 86 63 43 38 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:40 - ‎+33 7 82 60 42 89 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:40 - ‎+33 6 30 62 73 82 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:40 - ‎+33 6 58 61 98 09 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:40 - ‎+33 6 86 72 33 98 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:41 - ‎+33 7 87 87 63 14 est parti·e
+26/01/2024, 12:41 - ‎+33 7 58 12 47 07 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:42 - ‎+33 6 47 97 30 87 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:42 - ‎+33 6 22 14 03 93 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:45 - ‎+33 7 86 66 23 39 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:48 - ‎+33 6 51 68 86 45 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:49 - ‎+32 494 79 75 92 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:49 - +33 6 86 63 43 38: Bonjour,
+Merci de ce partage
+26/01/2024, 12:49 - ‎+33 6 11 53 71 34 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:49 - ‎+33 6 76 22 89 28 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:49 - ‎+33 6 75 49 18 35 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:50 - +212 669-764440: Bonjour !
+26/01/2024, 12:50 - ‎+33 7 86 99 03 38 a rejoint le groupe à partir de la communauté.
+26/01/2024, 12:50 - +33 6 76 22 89 28: Bonjour
+26/01/2024, 12:50 - +33 6 11 53 71 34: Bonjour 👋
+26/01/2024, 12:54 - ‎+33 6 20 35 46 24 a rejoint le groupe à partir de la communauté.
+26/01/2024, 13:03 - ‎+33 6 99 29 07 11 a rejoint le groupe à partir de la communauté.
+26/01/2024, 13:35 - ‎+33 7 83 63 10 82 a rejoint le groupe à partir de la communauté.
+26/01/2024, 13:49 - ‎+32 479 58 54 12 a rejoint le groupe à partir de la communauté.
+26/01/2024, 14:04 - ‎+33 6 30 89 95 98 a rejoint le groupe à partir de la communauté.
+26/01/2024, 14:13 - ‎+33 6 73 46 32 31 a rejoint le groupe à partir de la communauté.
+26/01/2024, 14:18 - ‎+213 552 98 49 72 a rejoint le groupe à partir de la communauté.
+26/01/2024, 14:25 - ‎Agathe a rejoint le groupe à partir de la communauté.
+26/01/2024, 14:26 - +33 6 22 14 03 93: Bonjour à tous
+26/01/2024, 14:28 - Rochane: Désolé pour les nouveaux, vous n'avez pas accès aux différents partages avant votre inscription mais il y en aura probablement qui vont arriver très vite 🙂
+26/01/2024, 14:48 - ‎+33 6 14 02 83 68 a rejoint le groupe à partir de la communauté.
+26/01/2024, 15:13 - Rochane: <Médias omis>
+26/01/2024, 15:17 - +33 7 69 88 62 42: Bonjour et merci pour l'acceptation et le partage. Ouafia
+26/01/2024, 15:22 - ‎+33 6 13 43 54 52 a rejoint le groupe à partir de la communauté.
+26/01/2024, 15:26 - ‎+33 6 51 73 94 67 a rejoint le groupe à partir de la communauté.
+26/01/2024, 15:32 - ‎+33 6 35 32 72 83 a rejoint le groupe à partir de la communauté.
+26/01/2024, 15:50 - +33 6 99 29 07 11: Bonjour merci pour l'ajout Linda
+26/01/2024, 15:53 - +33 6 51 73 94 67: Bonjour, merci de votre accueil Linda et au plaisir d'échanger avec le groupe.  Belle journée, Zahia
+26/01/2024, 15:55 - +33 6 20 35 46 24: Bonjour, merci de m’avoir fait parvenir le lien pour rejoindre ce groupe. Impatient d’échanger avec vous tous sur les tips, outils, et bonnes pratiques autour de ces sujets que il y a autour de l IA, de l’ ingénierie pédagogique et la formation en ce qui me concerne <Ce message a été modifié>
+26/01/2024, 15:56 - +33 6 51 73 94 67: 👍
+26/01/2024, 15:57 - +33 6 11 53 71 34: Bonjour 
+Merci pour votre accueil. 
+Au plaisir d'échanger avec vous.
+26/01/2024, 15:57 - ‎+33 6 35 32 72 83 est parti·e
+26/01/2024, 15:57 - +33 6 51 73 94 67: 🙏
+26/01/2024, 16:00 - +33 6 22 14 03 93: Merci : )
+26/01/2024, 16:05 - Rochane: Pour info, nous organisons des lives d'une heure, souvent de 20h à 21 heures ( heure Paris) dans lesquels on partage des outils ou des pratiques de façon très libre. Le prochain live aura lieu la deuxième semaine de février. On organisera un sondage
+26/01/2024, 16:06 - +33 6 51 73 94 67: Merci à vous Rochane !🙂
+26/01/2024, 16:08 - +33 6 24 33 06 13: Merci beaucoup pour le partage !
+26/01/2024, 16:25 - Agathe: Super outil ! Auriez-vous le lien vers le tableau original pour suivre ses mises à jour ?
+26/01/2024, 16:26 - Rochane: Non, si quelqu'un peut le trouver avec les informations en dessous 🙂
+26/01/2024, 16:27 - Agathe: J'ai fouillé un peu leur site avant de demander… mais rien trouvé pour l'instant. SI je trouve je partage 😁
+26/01/2024, 17:00 - Rochane: https://vischerlnk.com/ai-tools
+26/01/2024, 17:09 - Rochane: <Médias omis>
+26/01/2024, 18:01 - ‎+689 89 60 06 24 a rejoint le groupe à partir de la communauté.
+26/01/2024, 18:06 - ‎+33 6 61 54 08 64 a rejoint le groupe à partir de la communauté.
+26/01/2024, 18:07 - +33 6 61 54 08 64: Merci de m’avoir acceptée dans le groupe !😀
+26/01/2024, 20:14 - Letizia ALLEGRINI: Bonsoir à tous je vous partage le genially de ma présentation lors du webinaire "IA et unités conversationnelles" que j'ai eu la chance de co anime avec Bastien Masse pour l'académie d Aix Marseille https://view.genial.ly/659eaa13b7f7bb0014578c92
+26/01/2024, 20:14 - Letizia ALLEGRINI: Bientôt le replay pour les intéressés 😀
+26/01/2024, 20:16 - Rochane: Merci pour le partage et si tu veux en parler au prochain live, ce sera avec plaisir 🙂
+26/01/2024, 20:29 - ‎+33 7 62 17 66 98 a rejoint le groupe à partir de la communauté.
+26/01/2024, 20:48 - Jean-Marc Everard: Hello, si cela vous intéresse, je peux mettre le ptt de mes étapes pour le testing d’app. IA en ligne et partager le lien. Si ça peut donner des idées pour amélioration…
+26/01/2024, 20:49 - Rochane: Très bonne idée Jean-Marc ❤️
+26/01/2024, 20:50 - Jean-Marc Everard: Je fais ça dimanche 😉🫠
+26/01/2024, 20:50 - Jean-Marc Everard: 😌
+26/01/2024, 20:56 - Letizia ALLEGRINI: Pourquoi pas je verrai si je peux 😉
+26/01/2024, 21:45 - +689 89 60 06 24: Bonjour 
+Merci pour l’acceptation dans ce groupe.
+Des collègues sont intéressés par cette communauté, comment faire pour qu’ils puissent s’inscrire ?
+Fabrice
+26/01/2024, 21:45 - Rochane: https://chat.whatsapp.com/KYcjfUlPL1kEHr6v0s70Gm
+26/01/2024, 22:01 - +689 89 60 06 24: Merci
+26/01/2024, 22:01 - +33 6 32 20 02 28: null
+26/01/2024, 22:02 - +33 6 32 20 02 28: null
+26/01/2024, 22:28 - ‎+33 6 65 65 01 37 a rejoint le groupe à partir de la communauté.
+26/01/2024, 23:38 - ‎+33 6 69 92 67 77 a rejoint le groupe à partir de la communauté.
+27/01/2024, 05:50 - ‎+689 87 78 58 86 a rejoint le groupe à partir de la communauté.
+27/01/2024, 06:30 - ‎+33 6 70 13 73 26 a rejoint le groupe à partir de la communauté.
+27/01/2024, 09:08 - +32 497 91 17 24: Bonjour 👋 Merci pour toutes ces ressources très intéressantes 😊 Existe-t-il un replay du live du mois de janvier ? Je ne trouve pas le lien 🔗 Merci ! Bonne journée
+27/01/2024, 09:10 - Rochane: https://drive.google.com/file/d/1QB4Gdrxw0NbMqPvvH4XcRhod0284dyR2/view?usp=drivesdk
+27/01/2024, 10:55 - Rochane: https://textreader.ai/?s=08 . *Text Reader* est un outil en ligne *sans inscription* très pratique qui nous permet de convertir n'importe quel texte en audio . De cette façon, nous pouvons écouter n'importe quel contenu textuel à haute voix et également le télécharger sous forme de fichier audio au format Mp3 . Ce service se présente comme une solution entièrement gratuite pour ceux qui souhaitent transformer leurs textes en expériences d'écoute. <Ce message a été modifié>
+27/01/2024, 11:28 - ‎+33 7 45 47 55 13 a rejoint le groupe à partir de la communauté.
+27/01/2024, 12:26 - ‎+32 499 10 21 99 est parti·e
+27/01/2024, 13:10 - Jean-Marc Everard: Bonjour, une fois n’est pas coutume, je vais vous partager mon lien d’affiliation (parrainage) pour l’app. Gamma.app que j’ai présentée hier lors du OFF de Now.be . Pour celles et ceux qui souhaitaient de toute façon tester l’app. cela ne changera rien mais me donnera quelques crédits supplémentaires sur mon compte gratuit afin que je puisse poursuivre ma réévaluation de l’outil. Pour les autres, ceci n’est en aucun cas une pub 😉 donc pas de démarche marketing ici. Merci à toutes et tous pour votre compréhension : https://gamma.app/signup?r=b7btobj4iuamea3
+27/01/2024, 13:22 - +33 6 61 54 08 64: Ça tombe bien, c’est juste ce type d’outil dont j’ai besoin en ce moment pour un rapid learning ! 🙏
+27/01/2024, 15:39 - +32 497 91 17 24: Un tout grand merci ☺️ J’en profite pour vous partager mon intervention au SETT ce jeudi https://www.researchgate.net/publication/377691824_Revolutionner_l'apprentissage_avec_ChatGPT_de_nouvelles_perspectives_pour_l'education
+27/01/2024, 15:40 - Jacques BARATTI: J'ai visionné le OFF en différé, excellent bravo !
+27/01/2024, 16:44 - Votre code de sécurité avec ~ Alyssia a changé. Appuyez pour en savoir plus.
+27/01/2024, 21:36 - ‎+33 7 51 48 69 35 a rejoint le groupe à partir de la communauté.
+27/01/2024, 22:05 - +33 6 69 92 67 77: Merci pour cette contribution . Travaillant sur ce thème auprès d’étudiants et de salariés. Je souhaite savoir si je peux m’appuyer sur votre travail. 👍
+27/01/2024, 22:12 - ‎+33 6 75 49 18 35 est parti·e
+27/01/2024, 23:42 - +32 497 91 17 24: Bonsoir Oui, bien entendu avec plaisir ! Ce n’est pas une revue systématique de la littérature et ce n’est pas exhaustif … mais le propos est toujours dans la nuance 😊 Juste si vous pouvez citer votre source ☺️ bonne soirée à vous
+28/01/2024, 09:01 - +33 6 69 92 67 77: Bonjour , Cela va de soi.  la recherche doit être valorisée et on doit la promouvoir un maximum.
+28/01/2024, 11:47 - Rochane: Un MOOC formidable que je suis en train  de suivre sur le GPT Vision : https://www.coursera.org/learn/gpt-vision?
+28/01/2024, 14:44 - Rochane: Hello la Team ☀️
+J’espère que vous allez bien ! 
+Nouvelle vidéo aujourd’hui, c’est live, c’est dispo ! 
+N’hésitez pas à me dire quels sujets vous aimeriez que j’aborde dans les prochaines vidéos 😊
+
+Partagez au max ça m’aide beaucoup 💙
+
+Bon dimanche ! ✌️
+
+https://youtu.be/NbTxBGaR-0E?si=jDu3k0c5hIBdXpMH
+28/01/2024, 14:52 - Ahmadou Ba: Ce mooc il est carrément en anglais à ce que je vois
+28/01/2024, 14:56 - Rochane: Oui, c'est la suite du premier sur le prompt engineering. Le contenu des vidéos est sous forme de texte disponible en français
+28/01/2024, 15:13 - Jean-Marc Everard: Bonjour Rochane, d’après toi vaut-il la peine de s’inscrire aux aspects payant ou l’auditeur libre suffit ? C’est surtout l’investissement en temps qui pourrait me bloquer à vrai dire.
+28/01/2024, 15:15 - Rochane: En fait, tu peux parcourir l'ensemble du contenu mis à part les quiz de chaque semaine et l'évaluation finale qui te permettent d'avoir le certificat. Pour info, le prix du certificat pour chacun des MOOCs est de 45 dollars.
+28/01/2024, 15:17 - Rochane: En tout cas, je suis sur le contenu de la deuxième semaine sur le GPt vision et l'on découvre de nombreux usages. Vraiment impressionnant 👍
+28/01/2024, 16:09 - Jean-Marc Everard: Merci, je vais en tout cas essayer de le suivre. Bon je crois que je vais prendre le certificat. Là je suis en train de préparer un workshop qui dépasse un peu le L&D : sur l’usage de l’IA en RH. Là aussi les possibilités pourraient être vraiment intéressantes. Je n’ai pas eu le temps et l’esprit de donner ma touche finale dans le Off, mais je pense que l’IA devrait nous rendre plus humain (en nous poussant à nous en différencier ?). C’est mon espoir en tout cas 🙂 et le centre de mes usages ou présentations futures.
+28/01/2024, 21:16 - +33 6 76 22 89 28: Intéressée de vous suivre sur ce sujet IA et RH,
+28/01/2024, 21:51 - Rochane: https://www.forbes.fr/business/ia-generative-et-rh-chronique-dune-revolution-annoncee/
+28/01/2024, 22:28 - Jean-Marc Everard: En gros, tous les processus RH sont impacté par l’IA, depuis la description de fonction pour le recrutement jusqu’à l’exit interview de départ à la retraite. Il faut que je mette beaucoup de choses en ligne je pense… ça va simplement me demander un peu d’organisation… 🫠😉
+29/01/2024, 08:52 - ‎+33 6 65 47 79 98 a rejoint le groupe à partir de la communauté.
+29/01/2024, 09:27 - Larissa: Salut tout le monde, est-ce que vous avez ou savez où je peux trouver une liste de toutes les conférences qui ont un rapport avec la digitalisation dans le secteur de l'éducation? Merci!!
+29/01/2024, 09:28 - Larissa: https://www.gettingsmart.com/2024/01/02/cant-miss-education-conferences-in-2024/
+29/01/2024, 09:29 - Larissa: J'ai trouvé ceci mais c'est très axé US
+29/01/2024, 12:21 - Rochane: https://www.educatech-expo.com/programmes/programme-conferences-plenieres
+29/01/2024, 12:21 - Rochane: https://etreprof.fr/ressources/4328/6-conferences-sur-le-numerique-a-decouvrir-absolument-au-salon-educateceducatice-2021
+29/01/2024, 12:23 - Rochane: https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263
+29/01/2024, 12:37 - Laurent The Cure: bonjour à tous. Afin de ne pas polluer ce groupe, je voulais savoir si quelqu'un pouvait m'aider (en dehors de ce groupe) à rédiger un prompt destiné à obtenir un audit SEO d'un site que je suis en cours de crééer. J'ai fait plusieurs tentatives mais je n'obtiens que des conseils généraux et nos des actions concrètes à mener. Peut être est ce que j'en demande trop
+29/01/2024, 13:51 - ‎+33 6 76 38 15 71 a rejoint le groupe à partir de la communauté.
+29/01/2024, 22:56 - +33 6 76 22 89 28: Jean-Marc, suis intéressée de contribuer, ou échanger ou... pour combiner ou voir comment combiner IA et approche par compétences.
+30/01/2024, 01:27 - +689 89 60 06 24: Bonjour 
+Peut-être serait-il envisageable de créer un groupe « prompts » pour ce genre de demandes ? Ce groupe regrouperait des prompts en train de se créer, avec une co-construction des instructions.
+30/01/2024, 10:58 - +33 6 86 63 43 38: Bonjour,
+Je vous partage un accès à un questionaire que je fais dans e cadre de mon travail de recherche en Master, merci d avance à ceux qui voudront bien y répondre.
+
+https://forms.office.com/e/dzwiFmYLwh
+30/01/2024, 11:31 - ‎+33 6 78 79 95 34 a rejoint le groupe à partir de la communauté.
+30/01/2024, 12:36 - ‎+33 6 67 08 30 12 a rejoint le groupe à partir de la communauté.
+30/01/2024, 14:10 - ‎Pierrick BRIAND a rejoint le groupe à partir de la communauté.
+30/01/2024, 18:42 - ‎+33 6 50 62 76 45 a rejoint le groupe à partir de la communauté.
+31/01/2024, 06:51 - ‎+33 6 76 04 48 20 a rejoint le groupe à partir de la communauté.
+31/01/2024, 14:44 - ‎+32 499 10 21 99 a rejoint le groupe à partir de la communauté.
+31/01/2024, 22:26 - Rochane: <Médias omis>
+31/01/2024, 22:28 - Guillaume CLEMENT: Excellent !!👍 Belle trouvaille
+31/01/2024, 22:37 - Ahmadou Ba: Cette extension permet de créer une banque de prompt. Je l'ai tester il est cool. Ce prompt ira directement là bas https://buff.ly/3U3419E
