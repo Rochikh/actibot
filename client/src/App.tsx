@@ -4,6 +4,7 @@ import { AlertCircle, Loader2 } from "lucide-react";
 import ChatPage from "./pages/ChatPage";
 import AdminPage from "./pages/AdminPage";
 import AuthPage from "./pages/AuthPage";
+import QuickAdmin from "./components/admin/QuickAdmin";
 import { useUser } from "@/hooks/use-user";
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
   }
 
   // Redirect non-admin users trying to access /admin
-  if (location === '/admin' && !user.isAdmin) {
+  if ((location === '/admin' || location === '/admin-quick') && !user.isAdmin) {
     setLocation('/');
     return null;
   }
@@ -32,6 +33,7 @@ function App() {
     <Switch>
       <Route path="/" component={ChatPage} />
       <Route path="/admin" component={AdminPage} />
+      <Route path="/admin-quick" component={QuickAdmin} />
       <Route component={NotFound} />
     </Switch>
   );
