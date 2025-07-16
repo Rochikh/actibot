@@ -1,0 +1,258 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "actibot",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "c68b47e2-55af-4d12-bc75-b699f5be8e0c",
+      "name": "Webhook Question",
+      "type": "n8n-nodes-base.webhook",
+      "position": [
+        -320,
+        48
+      ],
+      "webhookId": "actibot-iarena",
+      "typeVersion": 1.1
+    },
+    {
+      "parameters": {
+        "model": "gpt-4.1-mini",
+        "options": {
+          "maxTokens": 1000,
+          "responseFormat": "json_object",
+          "temperature": 0.7
+        }
+      },
+      "id": "26c4b0c0-59aa-49f0-b32e-55136a004f9a",
+      "name": "OpenAI Chat Model",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "position": [
+        48,
+        -240
+      ],
+      "typeVersion": 1.1,
+      "credentials": {
+        "openAiApi": {
+          "id": "JjyrdASVt75GXlLj",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $json.body.question }}",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "Réponds à cette question {{ $json.body.question }}. Ta réponse n'aura jamais de crochets comme []. Par ailleurs, tu peux souhaiter la bienvenue à l'utilisateur au chat bot de la communauté whatsapp IAréna Educative. Retourne uniquement un JSON avec la clé 'response' contenant ta réponse."
+            }
+          ]
+        }
+      },
+      "id": "a67b0d94-2686-47da-807a-631a414cd9db",
+      "name": "Analyser Question",
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "position": [
+        0,
+        48
+      ],
+      "typeVersion": 1.5
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "response-text",
+              "name": "responseText",
+              "type": "string",
+              "value": "={{ $json.response || $json.text || 'Réponse non disponible' }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "0573a4b2-fc9b-49c9-8b3e-827cba517d44",
+      "name": "Extraire Réponse",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        304,
+        -176
+      ],
+      "typeVersion": 3.4
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.github.com/markdown",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {}
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text"
+            }
+          }
+        }
+      },
+      "id": "2716b0c5-870e-426a-aebd-1b8751eb4913",
+      "name": "GitHub Markdown API",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        592,
+        48
+      ],
+      "typeVersion": 4.2,
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "=<html><body><p>{{ $json.data || $('Extraire Réponse').item.json.responseText }}</p></body></html>",
+        "options": {
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "text/html"
+              }
+            ]
+          }
+        }
+      },
+      "id": "9a5375ad-d7ea-4a0a-8a4c-1c79fa384de4",
+      "name": "Réponse HTML",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "position": [
+        896,
+        48
+      ],
+      "typeVersion": 1.1
+    },
+    {
+      "parameters": {
+        "content": "# 🤖 ActiBOT - IAréna Educative\n\n**Mission**: Chatbot IA pour communauté WhatsApp\n\n**Fonctionnalités**:\n- Réponses contextuelles via OpenAI\n- Formatage Markdown → HTML\n- Intégration webhook pour chat\n- Limite 1000 tokens par réponse\n\n**Utilisation**: Endpoint webhook pour interface chat",
+        "height": 368,
+        "width": 320,
+        "color": 2
+      },
+      "id": "f0638ae3-62b1-4e4a-8f47-3c594ab31da0",
+      "name": "ActiBOT IAréna Educative",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -688,
+        -336
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "content": "## 🧠 Pipeline IA\n\n1. **Input**: Question utilisateur\n2. **IA**: GPT-4o-mini avec instructions spécifiques\n3. **Format**: JSON response sans crochets []\n4. **Accueil**: Mention communauté IAréna\n5. **Limite**: 1000 tokens max",
+        "height": 244,
+        "width": 280,
+        "color": 4
+      },
+      "id": "84d1bed6-a8bc-470a-add0-4eb8b4531aa6",
+      "name": "Traitement IA",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -288,
+        -336
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "content": "## 📤 Sortie HTML\n\n1. **Markdown**: GitHub API pour rendu\n2. **HTML**: Wrapper avec balises body\n3. **Headers**: Content-Type text/html\n4. **Fallback**: Réponse directe si API fail",
+        "height": 196,
+        "width": 280,
+        "color": 5
+      },
+      "id": "76340bb7-90ac-4dee-adfa-586e5d0d049b",
+      "name": "Rendu Final",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        544,
+        -352
+      ],
+      "typeVersion": 1
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook Question": {
+      "main": [
+        [
+          {
+            "node": "Analyser Question",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Analyser Question",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Analyser Question": {
+      "main": [
+        [
+          {
+            "node": "Extraire Réponse",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extraire Réponse": {
+      "main": [
+        [
+          {
+            "node": "GitHub Markdown API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GitHub Markdown API": {
+      "main": [
+        [
+          {
+            "node": "Réponse HTML",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "bc4a5bb5-2478-45da-ad6a-a326589e15d7",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "2d0139993f506db11dadeb5beb3f7a7dfd50f17794a00fa3f55824ea8500364a"
+  },
+  "id": "rmMwyXwf119SqQ8i",
+  "tags": []
+}
