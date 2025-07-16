@@ -126,3 +126,20 @@ The application uses PostgreSQL with the following main tables:
 - Markdown rendering for rich text responses
 
 The application follows a typical RAG (Retrieval-Augmented Generation) pattern where user questions are matched against a knowledge base of processed documents, and the most relevant information is provided to the AI model for generating contextual responses.
+
+## Recent Updates (July 16, 2025)
+
+### Assistant Configuration Fixed
+- Corrected assistant ID from "AI-Dialogue actif" (gpt-4.1-mini - non-existent) to "ActiBot" (asst_JerNOWvyU63gex8p0z3gSv8r)
+- Now uses gpt-4o-mini model with File Search enabled
+- Vector Store contains WhatsApp discussion file (3MB, 27069 lines)
+
+### Performance Issues Identified
+- Large WhatsApp conversation file (27069 lines) causes File Search performance issues
+- Assistant correctly finds files but may miss specific information due to volume
+- Example: François Bocquet mention of "Gems personnalisés" on 16/07/2025 at 00:39 found in raw data but not by assistant search
+
+### Architecture Status
+- Direct OpenAI Assistant API integration working effectively
+- No need for Make.com/n8n workflows for current functionality
+- Embedded chatbot successfully deployed on external sites
