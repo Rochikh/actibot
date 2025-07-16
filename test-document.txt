@@ -1,0 +1,51 @@
+Test Document de taille moyenne
+====================================
+
+Ce document est conçu pour tester le système d'auto-division d'ActiBot.
+
+Section 1: Introduction
+-----------------------
+ActiBot est un système d'intelligence artificielle conversationnelle qui permet aux utilisateurs d'interagir avec des documents uploadés. Le système utilise OpenAI pour générer des réponses contextuelles basées sur le contenu des documents.
+
+Section 2: Fonctionnalités principales
+--------------------------------------
+1. Upload de documents automatique
+2. Division intelligente des fichiers volumineux
+3. Recherche sémantique avec embeddings
+4. Interface d'administration complète
+5. Chatbot intégrable sur sites externes
+
+Section 3: Architecture technique
+---------------------------------
+Le système utilise une architecture full-stack avec:
+- Frontend: React + TypeScript + Vite
+- Backend: Node.js + Express
+- Base de données: PostgreSQL avec pgvector
+- IA: OpenAI GPT-4o avec File Search
+
+Section 4: Processus d'auto-division
+-----------------------------------
+Le système détecte automatiquement les fichiers volumineux et les divise en chunks plus petits pour optimiser les performances de recherche. La division se fait par:
+- Périodes (pour les fichiers WhatsApp)
+- Blocs de taille fixe (pour les autres fichiers)
+
+Section 5: Avantages de la division
+----------------------------------
+- Amélioration des performances de recherche
+- Indexation plus efficace dans le Vector Store
+- Meilleure précision des réponses
+- Réduction des limitations de taille d'OpenAI
+
+Section 6: Tests et validation
+-----------------------------
+Le système a été testé avec:
+- Fichiers WhatsApp de 27,000+ lignes
+- Documents texte de différentes tailles
+- Uploads multiples simultanés
+- Division manuelle via l'interface admin
+
+Section 7: Conclusion
+--------------------
+Le système d'auto-division améliore significativement les performances d'ActiBot en permettant un traitement efficace des gros fichiers tout en maintenant la qualité des réponses.
+
+=== Fin du document de test ===

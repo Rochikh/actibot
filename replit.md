@@ -134,12 +134,22 @@ The application follows a typical RAG (Retrieval-Augmented Generation) pattern w
 - Now uses gpt-4o-mini model with File Search enabled
 - Vector Store contains WhatsApp discussion file (3MB, 27069 lines)
 
-### Performance Issues Identified
-- Large WhatsApp conversation file (27069 lines) causes File Search performance issues
-- Assistant correctly finds files but may miss specific information due to volume
-- Example: François Bocquet mention of "Gems personnalisés" on 16/07/2025 at 00:39 found in raw data but not by assistant search
+### Auto-Division System Implemented
+- Created automatic file splitting system for documents exceeding 5000 lines or 1MB
+- WhatsApp files divided by time periods (monthly chunks)
+- Generic files divided into fixed-size blocks (5000 lines each)
+- Automatic integration into document upload process
+- Admin interface for manual splitting and monitoring
+- Chunks automatically uploaded to OpenAI Vector Store for improved search performance
+
+### Performance Improvements
+- Large files now automatically split into manageable chunks
+- Better indexing in OpenAI Vector Store for more accurate search
+- Reduced response time for queries on large datasets
+- Improved File Search performance with targeted chunk retrieval
 
 ### Architecture Status
 - Direct OpenAI Assistant API integration working effectively
-- No need for Make.com/n8n workflows for current functionality
+- Auto-division system integrated into upload pipeline
+- Admin interface enhanced with split monitoring capabilities
 - Embedded chatbot successfully deployed on external sites
