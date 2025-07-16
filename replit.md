@@ -129,6 +129,13 @@ The application follows a typical RAG (Retrieval-Augmented Generation) pattern w
 
 ## Recent Updates (July 16, 2025)
 
+### Link Extraction System Implemented
+- Resolved issue where responses displayed cryptic references like `[4:1 source]` instead of actual shared links
+- System now extracts real HTTP/HTTPS links from WhatsApp discussions and makes them clickable
+- Links display with descriptive icons (🔗 Aide Google Gemini, 🎥 Vidéo YouTube, etc.)
+- Assistant updated to automatically include contributor links in responses
+- Improved user experience with clean, clickable links from community discussions
+
 ### Assistant Configuration Fixed
 - Corrected assistant ID from "AI-Dialogue actif" (gpt-4.1-mini - non-existent) to "ActiBot" (asst_JerNOWvyU63gex8p0z3gSv8r)
 - Now uses gpt-4o-mini model with File Search enabled
@@ -153,3 +160,4 @@ The application follows a typical RAG (Retrieval-Augmented Generation) pattern w
 - Auto-division system integrated into upload pipeline
 - Admin interface enhanced with split monitoring capabilities
 - Embedded chatbot successfully deployed on external sites
+- Link extraction system processes contributor-shared URLs for better user experience
