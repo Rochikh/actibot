@@ -171,24 +171,8 @@ export async function getChatResponse(
           const fileInfo = await openai.files.retrieve(fileId);
           const fileName = fileInfo.filename;
           
-          // Create a more readable source reference with date extraction
-          let sourceRef = `📄 **Source**: ${fileName}`;
-          
-          // Try to extract date from filename for WhatsApp files
-          if (fileName.includes('WhatsApp') || fileName.includes('Discussion')) {
-            const dateMatch = fileName.match(/(\d{4}[-_]\d{2}[-_]\d{2})|(\w+\d{4})/);
-            if (dateMatch) {
-              sourceRef = `📄 **Source**: Discussion WhatsApp (${dateMatch[0]})`;
-            } else {
-              sourceRef = `📄 **Source**: Discussion WhatsApp`;
-            }
-          }
-          
-          // Replace the annotation with a cleaner source reference
-          responseText = responseText.replace(
-            annotation.text,
-            sourceRef
-          );
+          // Remove the annotation completely - we want clean links only
+          responseText = responseText.replace(annotation.text, '');
           
         } catch (error) {
           console.error('Error retrieving file info:', error);
@@ -197,6 +181,43 @@ export async function getChatResponse(
         }
       }
     }
+    
+    // Extract and make links clickable in the response
+    // First, check if the link is already in markdown format
+    const existingMarkdownLinks = responseText.match(/\[([^\]]+)\]\(https?:\/\/[^\)]+\)/g);
+    
+    const linkRegex = /(https?:\/\/[^\s\)\]]+)/g;
+    responseText = responseText.replace(linkRegex, (match) => {
+      // Skip if this link is already part of a markdown link
+      if (existingMarkdownLinks && existingMarkdownLinks.some(mdLink => mdLink.includes(match))) {
+        return match;
+      }
+      
+      // Clean up the link (remove trailing punctuation)
+      const cleanLink = match.replace(/[.,;!?]+$/, '');
+      
+      // Create descriptive link text based on domain
+      let linkText = cleanLink;
+      if (cleanLink.includes('support.google.com/gemini')) {
+        linkText = '🔗 Aide Google Gemini';
+      } else if (cleanLink.includes('youtube.com') || cleanLink.includes('youtu.be')) {
+        linkText = '🎥 Vidéo YouTube';
+      } else if (cleanLink.includes('share.google')) {
+        linkText = '📁 Lien partagé Google';
+      } else if (cleanLink.includes('video.umontpellier.fr')) {
+        linkText = '🎬 Vidéo Université';
+      } else {
+        // For other links, show the domain
+        try {
+          const url = new URL(cleanLink);
+          linkText = `🔗 ${url.hostname}`;
+        } catch (e) {
+          linkText = '🔗 Lien';
+        }
+      }
+      
+      return `[${linkText}](${cleanLink})`;
+    });
 
     return responseText;
 
