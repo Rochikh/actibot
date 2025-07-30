@@ -127,9 +127,15 @@ The application uses PostgreSQL with the following main tables:
 
 The application follows a typical RAG (Retrieval-Augmented Generation) pattern where user questions are matched against a knowledge base of processed documents, and the most relevant information is provided to the AI model for generating contextual responses.
 
-## Recent Updates (July 16, 2025)
+## Recent Updates (July 30, 2025)
 
-### Link Extraction System Implemented
+### Document Processing Fixed (July 30, 2025)
+- Resolved issue with WhatsApp file update not being processed properly
+- New discussions from July 16-30, 2025 now integrated into knowledge base
+- Auto-division system successfully processed 22 chunks from complete WhatsApp history
+- Manual processing backup system implemented for failed incremental updates
+
+### Link Extraction System Implemented (July 16, 2025)
 - Resolved issue where responses displayed cryptic references like `[4:1 source]` instead of actual shared links
 - System now extracts real HTTP/HTTPS links from WhatsApp discussions and makes them clickable
 - Links display with descriptive icons (🔗 Aide Google Gemini, 🎥 Vidéo YouTube, etc.)
