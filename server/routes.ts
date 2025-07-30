@@ -209,19 +209,9 @@ export function registerRoutes(app: Express): Server {
         return res.status(400).send("Le message ne peut pas être vide");
       }
 
-      // Get the active system prompt
-      const [activePrompt] = await db.select()
-        .from(systemPrompts)
-        .where(eq(systemPrompts.isActive, true))
-        .limit(1);
-
-      // Get relevant documents for context
-      const relevantDocs = await findSimilarDocuments(message.trim());
-      const context = relevantDocs.map((doc: any) => doc.content).join("\n\n");
-
-      // Get chat response
+      // Get chat response using OpenAI Assistant directly
       const response = await getChatResponse(
-        message,
+        message.trim(),
         Array.isArray(history) ? history : []
       );
 
@@ -230,7 +220,7 @@ export function registerRoutes(app: Express): Server {
         userId: req.user!.id,
         message: message.trim(),
         response,
-        systemPromptId: activePrompt?.id
+        systemPromptId: null
       }).returning();
 
       res.json(chat);
@@ -288,18 +278,8 @@ export function registerRoutes(app: Express): Server {
         return res.status(400).send("Le message ne peut pas être vide");
       }
       
-      // Get the active system prompt
-      const [activePrompt] = await db.select()
-        .from(systemPrompts)
-        .where(eq(systemPrompts.isActive, true))
-        .limit(1);
-        
-      // Get relevant documents for context
-      const relevantDocs = await findSimilarDocuments(message.trim());
-      const context = relevantDocs.map((doc: any) => doc.content).join("\n\n");
-        
-      // Get chat response using the assistant
-      const response = await getChatResponse(message, []);
+      // Get chat response using OpenAI Assistant directly
+      const response = await getChatResponse(message.trim(), []);
         
       res.json({ 
         message: message.trim(),
