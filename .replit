@@ -40,3 +40,6 @@ task = "packager.installForAll"
 task = "shell.exec"
 args = "npm run dev"
 waitForPort = 5000
+
+[agent]
+integrations = ["perplexity_v0==1.0.0", "javascript_openai==1.0.0", "javascript_auth==1.0.0", "javascript_xai==1.0.0", "javascript_websocket==1.0.0"]
