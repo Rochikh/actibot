@@ -270,7 +270,93 @@ export function registerRoutes(app: Express): Server {
   
   // Serve the test chat page
   app.get("/test-chat", (req: Request, res: Response) => {
-    res.sendFile('test-chat.html', { root: './client/src' });
+    res.send(`<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ActiBot Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .chat-container { border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin: 20px 0; max-height: 400px; overflow-y: auto; }
+        .message { margin: 10px 0; padding: 10px; border-radius: 8px; }
+        .user { background-color: #e3f2fd; text-align: right; }
+        .bot { background-color: #f5f5f5; }
+        .input-container { display: flex; gap: 10px; margin-top: 20px; }
+        input { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
+        button { padding: 10px 20px; background-color: #1976d2; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:disabled { background-color: #ccc; }
+        .loading { color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>ActiBot Test - Nouvelles Données Juillet 2025</h1>
+    
+    <div class="chat-container" id="chat">
+        <div class="message bot">
+            <strong>ActiBot:</strong> Bonjour ! Je peux maintenant accéder aux discussions jusqu'au 30 juillet 2025. Posez-moi vos questions sur NotebookLM, les nouvelles ressources ou toute autre information récente !
+        </div>
+    </div>
+    
+    <div class="input-container">
+        <input type="text" id="messageInput" placeholder="Ex: Peut-on générer des vidéos avec NotebookLM ?" />
+        <button onclick="sendMessage()" id="sendBtn">Envoyer</button>
+    </div>
+    
+    <script>
+        function addMessage(content, isUser = false) {
+            const chat = document.getElementById('chat');
+            const message = document.createElement('div');
+            message.className = \`message \${isUser ? 'user' : 'bot'}\`;
+            message.innerHTML = \`<strong>\${isUser ? 'Vous' : 'ActiBot'}:</strong> \${content}\`;
+            chat.appendChild(message);
+            chat.scrollTop = chat.scrollHeight;
+        }
+        
+        async function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const button = document.getElementById('sendBtn');
+            const message = input.value.trim();
+            
+            if (!message) return;
+            
+            addMessage(message, true);
+            input.value = '';
+            button.disabled = true;
+            
+            addMessage('<span class="loading">Recherche dans les données juillet 2025...</span>');
+            
+            try {
+                const response = await fetch('/api/test/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message })
+                });
+                
+                const data = await response.json();
+                
+                // Supprimer le message de chargement
+                const lastMessage = document.querySelector('.chat-container .message:last-child');
+                lastMessage.remove();
+                
+                addMessage(data.response);
+            } catch (error) {
+                const lastMessage = document.querySelector('.chat-container .message:last-child');
+                lastMessage.remove();
+                addMessage('Erreur lors du traitement de la requête.');
+            }
+            
+            button.disabled = false;
+        }
+        
+        document.getElementById('messageInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>`);
   });
   
   // Public chat endpoint for embedding into external websites
