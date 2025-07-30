@@ -268,6 +268,11 @@ export function registerRoutes(app: Express): Server {
     res.sendFile('embed-test.html', { root: './client/src' });
   });
   
+  // Serve the test chat page
+  app.get("/test-chat", (req: Request, res: Response) => {
+    res.sendFile('test-chat.html', { root: './client/src' });
+  });
+  
   // Public chat endpoint for embedding into external websites
   app.post("/api/public/chat", cors(corsOptions), async (req: Request, res: Response) => {
     try {
@@ -278,8 +283,12 @@ export function registerRoutes(app: Express): Server {
         return res.status(400).send("Le message ne peut pas être vide");
       }
       
+      console.log("Public chat request:", message.trim());
+      
       // Get chat response using OpenAI Assistant directly
       const response = await getChatResponse(message.trim(), []);
+      
+      console.log("Public chat response:", response.substring(0, 200) + "...");
         
       res.json({ 
         message: message.trim(),
@@ -288,6 +297,32 @@ export function registerRoutes(app: Express): Server {
       });
     } catch (error: any) {
       console.error("Public chat error:", error);
+      res.status(500).send(error.message || "Une erreur est survenue lors du traitement du message");
+    }
+  });
+
+  // Test endpoint non-authentifié pour déboguer
+  app.post("/api/test/chat", cors(corsOptions), async (req: Request, res: Response) => {
+    try {
+      const { message } = req.body;
+      
+      if (!message || typeof message !== 'string' || !message.trim()) {
+        return res.status(400).send("Le message ne peut pas être vide");
+      }
+      
+      console.log("Test chat request:", message.trim());
+      
+      const response = await getChatResponse(message.trim(), []);
+      
+      console.log("Test chat response:", response.substring(0, 200) + "...");
+        
+      res.json({ 
+        message: message.trim(),
+        response,
+        timestamp: new Date()
+      });
+    } catch (error: any) {
+      console.error("Test chat error:", error);
       res.status(500).send(error.message || "Une erreur est survenue lors du traitement du message");
     }
   });
