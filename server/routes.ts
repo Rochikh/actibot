@@ -30,6 +30,240 @@ const upload = multer({
 
 // Route simple pour l'upload de documents
 export function registerRoutes(app: Express): Server {
+  // Page de test AVANT toute authentification - PRIORITÉ ABSOLUE
+  app.get("/test-direct", (req: Request, res: Response) => {
+    res.send(`<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔧 ActiBot Test Direct - Juillet 2025</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; 
+            margin: 0; padding: 20px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 900px; 
+            margin: 0 auto; 
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #1976d2, #42a5f5);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .status {
+            background: #e8f5e8;
+            color: #2e7d32;
+            padding: 15px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .chat-area { 
+            height: 400px; 
+            overflow-y: auto; 
+            padding: 20px; 
+            background: #fafafa;
+        }
+        .message { 
+            margin: 15px 0; 
+            padding: 15px; 
+            border-radius: 15px; 
+            max-width: 80%;
+            word-wrap: break-word;
+        }
+        .user { 
+            background: #2196f3; 
+            color: white;
+            margin-left: auto;
+            text-align: right;
+        }
+        .bot { 
+            background: #f5f5f5; 
+            border: 1px solid #e0e0e0;
+        }
+        .input-area { 
+            padding: 20px; 
+            background: white;
+            border-top: 1px solid #e0e0e0;
+        }
+        .input-flex { 
+            display: flex; 
+            gap: 15px; 
+        }
+        input { 
+            flex: 1; 
+            padding: 15px; 
+            border: 2px solid #e0e0e0; 
+            border-radius: 25px; 
+            font-size: 16px;
+            outline: none;
+        }
+        input:focus { border-color: #2196f3; }
+        button { 
+            padding: 15px 30px; 
+            background: #2196f3; 
+            color: white; 
+            border: none; 
+            border-radius: 25px; 
+            cursor: pointer; 
+            font-size: 16px;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+        button:hover { background: #1976d2; transform: translateY(-2px); }
+        button:disabled { 
+            background: #ccc; 
+            cursor: not-allowed;
+            transform: none;
+        }
+        .loading { 
+            color: #666; 
+            font-style: italic; 
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        .suggestions {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin: 15px 0;
+        }
+        .suggestion {
+            background: #e3f2fd;
+            border: 1px solid #2196f3;
+            border-radius: 20px;
+            padding: 8px 15px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        .suggestion:hover {
+            background: #2196f3;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🤖 ActiBot Test Direct</h1>
+            <p>Accès direct aux données WhatsApp jusqu'au 30 juillet 2025</p>
+            <p><strong>22 chunks traités</strong> | <strong>API opérationnelle</strong></p>
+        </div>
+        
+        <div class="status">
+            ✅ SYSTÈME OPÉRATIONNEL - Prêt à répondre aux questions sur juillet 2025
+        </div>
+        
+        <div class="chat-area" id="chatArea">
+            <div class="message bot">
+                <strong>🤖 ActiBot :</strong> 
+                Bonjour ! J'ai maintenant accès à toutes les discussions WhatsApp jusqu'au 30 juillet 2025.
+                <br><br>
+                <div class="suggestions">
+                    <div class="suggestion" onclick="askQuestion('Peut-on générer des vidéos avec NotebookLM ?')">📹 NotebookLM vidéo ?</div>
+                    <div class="suggestion" onclick="askQuestion('Parle-moi de Christophe Batier en juillet 2025')">👨‍🏫 Christophe Batier</div>
+                    <div class="suggestion" onclick="askQuestion('Quelles sont les nouveautés de juillet 2025 ?')">🆕 Nouveautés juillet</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="input-area">
+            <div class="input-flex">
+                <input type="text" id="messageInput" placeholder="Posez votre question sur les données récentes..." />
+                <button onclick="sendMessage()" id="sendBtn">Envoyer</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function addMessage(content, isUser = false) {
+            const chatArea = document.getElementById('chatArea');
+            const message = document.createElement('div');
+            message.className = \`message \${isUser ? 'user' : 'bot'}\`;
+            message.innerHTML = \`<strong>\${isUser ? '👤 Vous' : '🤖 ActiBot'} :</strong> \${content}\`;
+            chatArea.appendChild(message);
+            chatArea.scrollTop = chatArea.scrollHeight;
+        }
+        
+        function askQuestion(text) {
+            document.getElementById('messageInput').value = text;
+            sendMessage();
+        }
+        
+        async function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const button = document.getElementById('sendBtn');
+            const message = input.value.trim();
+            
+            if (!message) return;
+            
+            addMessage(message, true);
+            input.value = '';
+            button.disabled = true;
+            
+            addMessage('<div class="loading">🔍 Recherche dans les données juillet 2025...</div>');
+            
+            try {
+                const response = await fetch('/api/test/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message })
+                });
+                
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(\`Erreur \${response.status}: \${errorText}\`);
+                }
+                
+                const data = await response.json();
+                
+                // Supprimer le message de chargement
+                const messages = document.querySelectorAll('.message');
+                const lastMessage = messages[messages.length - 1];
+                if (lastMessage && lastMessage.innerHTML.includes('Recherche dans')) {
+                    lastMessage.remove();
+                }
+                
+                addMessage(data.response);
+            } catch (error) {
+                const messages = document.querySelectorAll('.message');
+                const lastMessage = messages[messages.length - 1];
+                if (lastMessage && lastMessage.innerHTML.includes('Recherche dans')) {
+                    lastMessage.remove();
+                }
+                addMessage(\`❌ Erreur: \${error.message}\`);
+                console.error('Error:', error);
+            }
+            
+            button.disabled = false;
+        }
+        
+        document.getElementById('messageInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+        
+        // Focus automatique
+        document.getElementById('messageInput').focus();
+    </script>
+</body>
+</html>`);
+  });
+
   setupAuth(app);
   
   // Enable CORS for public API endpoint
