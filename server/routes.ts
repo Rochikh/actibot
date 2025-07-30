@@ -268,8 +268,13 @@ export function registerRoutes(app: Express): Server {
     res.sendFile('embed-test.html', { root: './client/src' });
   });
   
-  // Serve the test chat page
-  app.get("/test-chat", (req: Request, res: Response) => {
+  // Serve the test HTML page
+  app.get("/test-actibot.html", (req: Request, res: Response) => {
+    res.sendFile('test-actibot.html', { root: './public' });
+  });
+  
+  // Serve the test chat page - avant les routes React
+  app.get("/api/actibot-test", (req: Request, res: Response) => {
     res.send(`<!DOCTYPE html>
 <html lang="fr">
 <head>

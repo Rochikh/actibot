@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ActiBot Test - Nouvelles Données Juillet 2025</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background-color: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #1976d2, #42a5f5);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .chat-container { 
+            border: 1px solid #ddd; 
+            border-radius: 8px; 
+            padding: 20px; 
+            margin: 20px 0; 
+            max-height: 500px; 
+            overflow-y: auto; 
+            background: white;
+        }
+        .message { 
+            margin: 15px 0; 
+            padding: 12px; 
+            border-radius: 8px; 
+            line-height: 1.4;
+        }
+        .user { 
+            background-color: #e3f2fd; 
+            text-align: right; 
+            margin-left: 60px;
+        }
+        .bot { 
+            background-color: #f5f5f5; 
+            margin-right: 60px;
+        }
+        .input-container { 
+            display: flex; 
+            gap: 10px; 
+            margin-top: 20px; 
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+        input { 
+            flex: 1; 
+            padding: 12px; 
+            border: 1px solid #ddd; 
+            border-radius: 4px; 
+            font-size: 16px;
+        }
+        button { 
+            padding: 12px 24px; 
+            background-color: #1976d2; 
+            color: white; 
+            border: none; 
+            border-radius: 4px; 
+            cursor: pointer; 
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #1565c0;
+        }
+        button:disabled { 
+            background-color: #ccc; 
+            cursor: not-allowed;
+        }
+        .loading { 
+            color: #666; 
+            font-style: italic; 
+        }
+        .status {
+            background: #e8f5e8;
+            color: #2e7d32;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🤖 ActiBot Test</h1>
+        <p>Accès aux discussions WhatsApp jusqu'au 30 juillet 2025</p>
+    </div>
+    
+    <div class="status">
+        ✅ 22 chunks de données traités et indexés - Prêt à répondre !
+    </div>
+    
+    <div class="chat-container" id="chat">
+        <div class="message bot">
+            <strong>ActiBot:</strong> Bonjour ! Je peux maintenant accéder aux discussions jusqu'au 30 juillet 2025. 
+            <br><br>
+            <strong>Testez par exemple :</strong>
+            <ul>
+                <li>"Peut-on générer des vidéos avec NotebookLM ?"</li>
+                <li>"Parle-moi de Christophe Batier en juillet 2025"</li>
+                <li>"Quelles sont les nouvelles ressources de juillet ?"</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="input-container">
+        <input type="text" id="messageInput" placeholder="Posez votre question sur les nouvelles données..." />
+        <button onclick="sendMessage()" id="sendBtn">Envoyer</button>
+    </div>
+    
+    <script>
+        function addMessage(content, isUser = false) {
+            const chat = document.getElementById('chat');
+            const message = document.createElement('div');
+            message.className = `message ${isUser ? 'user' : 'bot'}`;
+            message.innerHTML = `<strong>${isUser ? 'Vous' : 'ActiBot'}:</strong> ${content}`;
+            chat.appendChild(message);
+            chat.scrollTop = chat.scrollHeight;
+        }
+        
+        async function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const button = document.getElementById('sendBtn');
+            const message = input.value.trim();
+            
+            if (!message) return;
+            
+            addMessage(message, true);
+            input.value = '';
+            button.disabled = true;
+            
+            addMessage('<span class="loading">🔍 Recherche dans les données juillet 2025...</span>');
+            
+            try {
+                const response = await fetch('/api/test/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message })
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Erreur réseau');
+                }
+                
+                const data = await response.json();
+                
+                // Supprimer le message de chargement
+                const lastMessage = document.querySelector('.chat-container .message:last-child');
+                if (lastMessage) lastMessage.remove();
+                
+                addMessage(data.response);
+            } catch (error) {
+                const lastMessage = document.querySelector('.chat-container .message:last-child');
+                if (lastMessage) lastMessage.remove();
+                addMessage('❌ Erreur lors du traitement de la requête. Veuillez réessayer.');
+                console.error('Error:', error);
+            }
+            
+            button.disabled = false;
+        }
+        
+        document.getElementById('messageInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+        
+        // Focus sur l'input au chargement
+        document.getElementById('messageInput').focus();
+    </script>
+</body>
+</html>
