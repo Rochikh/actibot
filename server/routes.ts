@@ -652,6 +652,23 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  // Route pour traiter SEULEMENT les données récentes 2025
+  app.post("/api/admin/recent-data", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res: Response) => {
+    try {
+      const { processRecentDataOnly } = await import('./recent-data-manager.js');
+      const result = await processRecentDataOnly();
+      
+      if (result.success) {
+        res.json(result);
+      } else {
+        res.status(500).send(result.error);
+      }
+    } catch (error: any) {
+      console.error("Recent data processing error:", error);
+      res.status(500).send(error.message || "Erreur lors du traitement des données récentes");
+    }
+  });
+
   // Route pour la division manuelle
   app.post("/api/admin/auto-split", requireAuth, requireAdmin, async (req: AuthenticatedRequest, res: Response) => {
     try {

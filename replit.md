@@ -129,6 +129,15 @@ The application follows a typical RAG (Retrieval-Augmented Generation) pattern w
 
 ## Recent Updates (July 30, 2025)
 
+### Vector Store Optimization (July 30, 2025)
+- **PROBLÈME RÉSOLU** : L'assistant cherchait dans trop de données (oct 2023 - juil 2025), diluant la pertinence
+- **SOLUTION** : Nouveau Vector Store dédié aux données récentes 2025 uniquement (1MB vs 3MB)
+- **RÉSULTAT** : 8 chunks optimisés par mois (Jan-Juillet 2025) pour des réponses plus précises
+- **Vector Store ID** : vs_6892581ef0248191a0d41e08c039c698
+- Assistant mis à jour pour chercher uniquement dans les données récentes et pertinentes
+
+## Recent Updates (July 30, 2025)
+
 ### Document Processing Fixed (July 30, 2025)
 - Resolved issue with WhatsApp file update not being processed properly
 - New discussions from July 16-30, 2025 now integrated into knowledge base
