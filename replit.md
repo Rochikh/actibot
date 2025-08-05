@@ -137,7 +137,7 @@ The application follows a typical RAG (Retrieval-Augmented Generation) pattern w
   - Overlap de 5 messages entre chunks pour continuité
   - Métadonnées par chunk : date_start, date_end, participants, topics
   - 2320 chunks temporels générés vs 45 chunks thématiques précédents
-- **MISE À JOUR HEBDOMADAIRE** : Système automatique pour nouveaux exports WhatsApp
+- **MISE À JOUR FLEXIBLE** : Système automatique pour nouveaux exports WhatsApp (fréquence adaptable)
 - **RÉSULTAT** : Continuité temporelle préservée, recherche sémantique optimisée sur période complète (oct 2023 → jul 2025)
 
 ### Vector Store Optimization (July 30, 2025) - DÉPASSÉ

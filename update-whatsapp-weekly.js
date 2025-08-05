@@ -36,14 +36,14 @@ async function updateWhatsAppWeekly() {
 
 // Instructions d'utilisation
 console.log(`
-=== INSTRUCTIONS MISE À JOUR HEBDOMADAIRE ===
+=== INSTRUCTIONS MISE À JOUR WHATSAPP ===
 
 1. Exporter les nouvelles discussions WhatsApp
 2. Remplacer le fichier dans attached_assets/
 3. Exécuter: node update-whatsapp-weekly.js
 4. ActiBot sera automatiquement mis à jour
 
-Fréquence recommandée: Chaque lundi matin
+Fréquence: Selon tes besoins (chaque semaine, tous les 10 jours, etc.)
 Durée estimée: 5-10 minutes
 `);
 
