@@ -127,18 +127,21 @@ The application uses PostgreSQL with the following main tables:
 
 The application follows a typical RAG (Retrieval-Augmented Generation) pattern where user questions are matched against a knowledge base of processed documents, and the most relevant information is provided to the AI model for generating contextual responses.
 
-## Recent Updates (July 30, 2025)
+## Recent Updates (August 5, 2025)
 
-### Vector Store Optimization (July 30, 2025) - RÉSOLU ✅
-- **PROBLÈME IDENTIFIÉ** : L'assistant donnait des réponses génériques au lieu d'utiliser les discussions WhatsApp
-- **CAUSE** : Chunking chronologique inefficace + instructions assistant trop permissives
-- **SOLUTION FINALE** : 
-  - Chunking thématique intelligent (45 chunks par sujet : NotebookLM, ChristopheBatier, etc.)
-  - Instructions assistant strictes : EXCLUSIVEMENT données Vector Store
-  - Température réduite (0.1) pour plus de précision
-- **Vector Store ID** : vs_689258cf953c8191bb5a0825214099b3  
-- **RÉSULTAT** : Assistant cite maintenant dates, participants et contexte précis des vraies discussions
-- **TEST VALIDÉ** : Diagnostic montre que l'assistant trouve correctement Rochane (27/07/2025) pour le modèle suisse
+### Chunking Temporel Claude 4.0 Implémenté (Août 5, 2025) - ✅
+- **PROBLÈME RÉSOLU** : Chunking thématique cassait la continuité temporelle des conversations WhatsApp
+- **SOLUTION CLAUDE 4.0** : Chunking temporel avec métadonnées conversationnelles
+- **ARCHITECTURE** : 
+  - Chunks de 400-600 tokens maintenant le contexte conversationnel
+  - Overlap de 5 messages entre chunks pour continuité
+  - Métadonnées par chunk : date_start, date_end, participants, topics
+  - 2320 chunks temporels générés vs 45 chunks thématiques précédents
+- **MISE À JOUR HEBDOMADAIRE** : Système automatique pour nouveaux exports WhatsApp
+- **RÉSULTAT** : Continuité temporelle préservée, recherche sémantique optimisée sur période complète (oct 2023 → jul 2025)
+
+### Vector Store Optimization (July 30, 2025) - DÉPASSÉ
+- Remplacé par le système de chunking temporel plus efficace
 
 ## Recent Updates (July 30, 2025)
 
