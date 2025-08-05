@@ -138,6 +138,7 @@ The application follows a typical RAG (Retrieval-Augmented Generation) pattern w
   - Température réduite (0.1) pour plus de précision
 - **Vector Store ID** : vs_689258cf953c8191bb5a0825214099b3  
 - **RÉSULTAT** : Assistant cite maintenant dates, participants et contexte précis des vraies discussions
+- **TEST VALIDÉ** : Diagnostic montre que l'assistant trouve correctement Rochane (27/07/2025) pour le modèle suisse
 
 ## Recent Updates (July 30, 2025)
 
