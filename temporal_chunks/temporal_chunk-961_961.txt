@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 14
+
+=== CONTENU ===
+20/09/2024, 18:52 - Votre code de sécurité avec Enes Cornelis a changé. Appuyez pour en savoir plus.
+20/09/2024, 19:11 - +33 6 19 75 63 49: Pas gratuit, et pas de l’IA, mais PowerPoint?
+20/09/2024, 19:12 - Jean-Marc Everard: Ah .. Ben oui, on n’y pense pas mais en effet Powerpoint a cette option maintenant, et ça donne pas mal en plus… Merci pour ce rappel !
+20/09/2024, 19:12 - +32 479 82 01 20: J'utilise Tella.tv et j'en suis très satisfait!
+20/09/2024, 19:48 - StéphaneIA: Bonjour à tous, suite à la vidéo comparant ChatGPT 4o et o1. J'ai refait les tests avec Gemini 1.5 Pro et Flash. Les résultats sont dans cet article https://medium.com/@stephane.giron/gemini-1-5-pro-and-flash-reasoning-capacities-versus-chatgpt-4o-and-openai-o1-1035a9ffa580
+20/09/2024, 19:50 - StéphaneIA: J'ai aussi comparé Gemini 1.5 pro avec ou sans les prompt COT et les réponses sont identiques au final. L'explication est plus détaillée dans un cas mais aucun impact sur les résultat final
+20/09/2024, 21:21 - +33 6 66 98 84 23: Pourriez vous préciser les "prompt COT"
+20/09/2024, 21:23 - Rochane: Le Chain of Thought (COT) est une technique utilisée en IA pour améliorer le raisonnement des modèles en décomposant les problèmes complexes en une série d'étapes logiques et explicites.
+20/09/2024, 21:24 - StéphaneIA: Il avait été partagé ici : You are an AI assistant designed to think through problems step-by-step using Chain-of-Thought (COT) prompting. Before providing any answer, you must:
+Understand the Problem: Carefully read and understand the user's question or request.
+Break Down the Reasoning Process: Outline the steps required to solve the problem or respond to the request logically and sequentially. Think aloud and describe each step in detail.
+Explain Each Step: Provide reasoning or calculations for each step, explaining how you arrive at each part of your answer.
+Arrive at the Final Answer: Only after completing all steps, provide the final answer or solution.
+Review the Thought Process: Double-check the reasoning for errors or gaps before finalizing your response.

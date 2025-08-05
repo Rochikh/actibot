@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 21
+
+=== CONTENU ===
+No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language.
+Future translation into English is planned, but for now, the episode is French-exclusive.
+11/03/2025, 11:54 - +33 6 88 14 09 17: Bonjour à vous, dans ma structure nous cherchons 2 outils basés sur l'IA :
+1. Un outil de simulation de comportements humains basé sur l'IA (spécialisé management si possible)
+2. Un outil de coach IA  personnalisé pour les managers
+Les 2 dans l'idéal respectent le RGPD et Iso 27001.
+Qqn aurait-il des pistes de ce type d'outils à conseiller ? Merci d'avance de vos retours 🙏🙏☺️
+Je reste disponible si besoin 😉
+11/03/2025, 12:01 - +1 (514) 791-7916: Je crois avoir un outils en tête contacter moi en privé stp
+11/03/2025, 13:38 - ‎+33 6 59 35 33 82 a demandé à rejoindre le groupe.
+11/03/2025, 14:24 - ‎+33 6 59 35 33 82 a rejoint ce groupe grâce à son lien d’invitation
+11/03/2025, 14:24 - Rochane: Et pourquoi en privé ?
+11/03/2025, 15:23 - +1 (514) 791-7916: Je ne suis pas sûre que c’est exact ce qu’elle veut
+11/03/2025, 15:38 - +1 (514) 791-7916: Www.vrailearning.com
+11/03/2025, 21:24 - +33 7 87 35 78 96: Bonsoir ! Je lance un petit appel car je cherche une solution pour pouvoir mettre des videos en ligne dans un parcours avec des quiz et des docs de support. Evidement que cela soit sécurisé pour eviter qu'on se fasse spoiler. Des suggestions ?
+11/03/2025, 21:25 - +33 6 42 26 64 70: Un cours Moodle ?
+11/03/2025, 21:25 - +33 7 87 35 78 96: Un logiciel pour gérer le parcours que le stagiaire voit sa progression
+11/03/2025, 21:26 - +33 7 87 35 78 96: Ce sont des formations pro payantes
+11/03/2025, 21:29 - Gregoire IA: Moodle peut faire, il faudra juste ajouter un plugin pour le paiement.
+Pour sécuriser les vidéos il n'y a rien sans faille mais qques lignes de code pourront limiter la chose pour la grande majorité des apprenants.
+11/03/2025, 21:30 - Gregoire IA: Il y a des solutions extérieures qu'on peut greffer à Moodle mais il y a autant de mal que de bien.

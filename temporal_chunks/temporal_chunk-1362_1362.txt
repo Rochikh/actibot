@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 21
+
+=== CONTENU ===
+- Absence d'encadrement spécifique de l'IA
+- Transferts internationaux non sécurisés
+Recommandations prioritaires :
+1. Obtenir des garanties contractuelles d'OpenAI sur l'utilisation des données
+2. Réduire la durée de conservation des messages
+3. Préciser les finalités d'amélioration du service
+4. Documenter les garanties pour les transferts internationaux
+5. Anticiper la conformité avec l'AI Act
+30/11/2024, 12:39 - +34 683 61 41 61: Merci !
+30/11/2024, 13:25 - Fred IA: Pour le fun, le lien WhatsApp du père Noël dopé à L'IA : donnez lui votre texte et en retour, récupérez sa vidéo (gratuit, mais limité à un certain nombre de requêtes) 😀 https://api.whatsapp.com/send/?phone=33939404142&text&type=phone_number&app_absent=0 <Ce message a été modifié>
+30/11/2024, 13:53 - Votre code de sécurité avec ~ frederique a changé. Appuyez pour en savoir plus.
+30/11/2024, 14:10 - ‎+33 6 82 14 12 19 a demandé à rejoindre le groupe.
+30/11/2024, 15:05 - ‎+33 6 82 85 46 52 a demandé à rejoindre le groupe.
+30/11/2024, 16:03 - ‎+33 6 82 85 46 52 a rejoint ce groupe grâce à son lien d’invitation
+30/11/2024, 16:03 - ‎+33 6 82 14 12 19 a rejoint ce groupe grâce à son lien d’invitation
+30/11/2024, 17:51 - Nadia ER-RAJI: ßs§r
+30/11/2024, 17:51 - Nadia ER-RAJI: null
+30/11/2024, 17:56 - +33 6 71 11 12 91: Après NotebookLM (génération de text-to-podcast ultra rapide mais limité à 2 voix standards) et Playnote (avec davantage de formats et des options vocales variées dont le clonage de votre propre voix, par contre généré en 10 min.), c’est au tour d’ElevenLabs d’entrer dans la course des text-to-Podcasts.
+Le modèle d’Eleven Labs propose de transformer articles, PDF et ebooks en podcasts audio personnalisés via son application ElevenReader. Des voix IA réalistes animent le contenu. C’est disponible en 32 langues, excusez du peu.
+Source : https://iagenerative.substack.com/p/its-black-fraiday#media-25cd91e1-c977-4fe4-ad9e-edf4aaf1e9d5
+30/11/2024, 17:57 - Rochane: Excellent, j'attendais ça depuis longtemps

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 13
+
+=== CONTENU ===
+07/11/2023, 19:10 - +33 6 42 26 64 70: Bonjour à toutes et tous, sachez que si vous disposez d’un LMS Moodle pour la conception et diffusion de vos modules, vous pouvez y installer trois plugins gratuits utilisant l’API de votre compte ChatGPT (payant) : e premier permet de générer des questions type QCM corrigées a partir d’un corpus (texte), directement injectées dans votre banque de question et donc directement utilisables ensuite dans un test. Un second permet de générer au sein de l’éditeur de Moodle des images/illustration via Dall-E, elles aussi réutilisable. Enfin, le dernier met en place un chatbot conversationnel pre-prompté pour circonscrire ses réponses aux seules questions d’utilisation de Moodle (dimensions techniques ou pédagogiques). Belle soirée à toutes et tous.
+07/11/2023, 19:39 - Ahmadou Ba: J’aimerais bien suivre les activités de les élèves sur Google classroom. L’absence d’outils de tracking dans cette plate-forme est une vrai limite.
+Avez-vous une alternative pour suivre les activités des élèves dans cet outil.
+08/11/2023, 05:16 - +33 7 68 67 76 16: Juste une question de candide, à quoi ressemble un prompt ?
+08/11/2023, 05:23 - Guillaume CLEMENT: Un prompt c'est une consigne plus ou moins détaillé et précis. Plus il est structuré et fin plus la réponse en sera pertiente
+08/11/2023, 05:23 - +33 7 68 67 76 16: Merci
+08/11/2023, 05:24 - Guillaume CLEMENT: https://digiwize837-my.sharepoint.com/:i:/g/personal/gclement_digiwize_fr/EfEhBV1LLX1JiZGXeRLnX0MBgrDVnZtwxxET248I-qABfA?e=AUbx9A
+08/11/2023, 05:24 - Guillaume CLEMENT: Ça peut vous aider pour vos debut
+08/11/2023, 05:24 - Guillaume CLEMENT: S*
+08/11/2023, 05:25 - Guillaume CLEMENT: https://digiwize837-my.sharepoint.com/:i:/g/personal/gclement_digiwize_fr/EbuoSQMxMVNFqoSd4PGjM2EBJYLfDux9RnMDtupaPeMziQ?e=QgwKua
+08/11/2023, 05:26 - +33 7 68 67 76 16: Merci beaucoup.
+08/11/2023, 05:27 - Guillaume CLEMENT: Vous pouvez aussi allez voir Ludovic Salenne il est top sur youtube pour vulgariser chatgpt
+08/11/2023, 05:27 - +33 7 68 67 76 16: Super ! Merci beaucoup

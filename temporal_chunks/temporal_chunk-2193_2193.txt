@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 9
+
+=== CONTENU ===
+23/05/2025, 09:09 - ‎~ Hadrien est parti·e
+23/05/2025, 09:13 - Francois Bocquet: Dans un nouvel article, le philosophe britannique Andy Clark (auteur du livre Natural Born Cyborgs de 2003, voir le commentaire ci-dessous) propose une réfutation de l’anxiété omniprésente entourant les nouvelles technologies, en particulier l’IA générative, en recadrant la nature de la cognition humaine. Il commence par reconnaître des préoccupations familières : le GPS érode notre mémoire spatiale, les moteurs de recherche gonflent notre sens de la connaissance et des outils comme ChatGPT peuvent diminuer la créativité ou encourager la paresse intellectuelle. Ces peurs, observe Clark, reflètent d’anciennes inquiétudes, comme l’avertissement de Platon selon lequel l’écriture affaiblirait la mémoire, et découlent d’une hypothèse profondément enracinée mais erronée : l’idée que l’esprit est confiné au cerveau biologique. https://www.linkedin.com/posts/jonathan-boymal-448b5870_in-a-new-paper-british-philosopher-andy-activity-7331094414653554692-l3iP?
+23/05/2025, 09:38 - ‎~ Morgane Bencheikh a ajouté +33 7 82 91 54 24
+23/05/2025, 09:43 - +33 6 82 42 59 35: Bonjour 👋 Cela me fait penser à une question que j’aimerais creuser : celle de la veille. Quels outils IA utilisez vous ?
+23/05/2025, 10:59 - +33 6 62 46 04 14: NotebookLm, Notion
+23/05/2025, 11:22 - +33 6 85 03 31 84: Merci pour ce GPT;
+j’ai fait un essai :
+l’intégration dans ANKI n’est pas faisable directement par ce GPT ou j’ai raté quelque chose …?
+23/05/2025, 11:41 - +33 6 52 49 10 78: Je copie/colle les liens qui m’intéressent - quand je suis dans un phase de vieille - en partageant dans une auto-conversation Whatsapp. Après ça, je me suis aidé de ChatGPT4o-mini-high pour me créer un script (automatisation) qui me permet de générer des « fiches » en .md (markdown) que j’intègre dans mon « Vault » Obsidian. Truc de geek - que je viens d etester à l’instant. Ce qui pour le moment ne me satisfait pas, c’est que j’ai beaucoup de lien Linkedin (d’articles, de posts) que ma clé API GPT n’arrive pas à lire. Je vais investiguer. Si jamais quelq’un à une idée pour que GPT puisse accéder à des liens Linkedin je suis preneur !

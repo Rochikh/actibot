@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 8
+
+=== CONTENU ===
+25/11/2024, 12:50 - StéphaneIA: @41763722894 je suis intéressé par votre retour sur Gemini. Je travaille pour un revendeur Google workspace et même si tout n'est pas parfait on a de bons retours sur Gemini dans workspace
+25/11/2024, 13:39 - +41 76 372 28 94: Je lui ai demandé des trucs compliqué qu'il n'arrivait pas à faire. Alors je lui ai demandé des trucs simples qu'il n'arrivait toujours pas à faire. Après quoi j'ai arrêté mon test.
+Le truc simple c'était de transcrire le contenu de captures d'écran qui étaient dans mon doc. Ensuite, vu qu'il n'y arrivait pas, je lui ai juste demandé de me donner le dernier mot du doc qui était ouvert à côté. Idem : il a répondu à côté.
+Le truc compliqué c'était de me lister toutes les modifications réalisées par mes élèves sur leurs portfolios respectifs depuis la semaine dernière. Je n'ai pas osé lui demander de m'écrire une macro JavaScript pour le faire, mais peut-être que ça ça aurait marché ?
+Le gros soucis que j'ai avec TOUS les outils d'IA intégrés, c'est que je ne sais pas ce qu'ils sont capables de faire. Faudrait peut-être juste publier de temps en temps un short YouTube montrant une fonctionnalité ou un cas d'usage, pour que je capte les usages possibles ou les prompts qui marchent bien ?
+25/11/2024, 13:41 - +33 6 64 50 56 67: J’ai trouvé ça https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/microsoft-education/downloadables/flip-ms-edu.pdf
+25/11/2024, 13:47 - Jean-Marc Everard: Personnellement j’avais aussi testé gemini pro et j’étais aussi un peu déçu. je voulais qu’il collationne toutes les newsletter que je reçois quotidiennement sur l’IA dans ma boîte Gmail et en fasse un résumé. Il n’y est pas parvenu. Finalement, je l’ai fait avec Make. Comme le dit Christian, un des soucis est qu’on ne sait pas ce qu’iel est capable de faire ou pas…
+25/11/2024, 16:00 - +212 631-698223: Slt je suis entrain de preparer mon donctorat et je veux un outil IA pour la gestion du projet de doctorat   en unité de temps , vous avez des propositions svp ?!!

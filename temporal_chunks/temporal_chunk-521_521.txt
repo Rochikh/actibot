@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 12
+
+=== CONTENU ===
+•*Motivant* Les feedbacks en fonction de l’objectif, même s’ils ne sont pas d’une grande précision, me challengent sur mes postures et mes techniques de locuteur à améliorer.
+16/05/2024, 14:17 - +33 6 99 36 11 69: Merci pour ce feed-back hyper détaillé 🤖
+16/05/2024, 15:47 - Francois Bocquet: Du nouveau pour Gemini Éducation si vous utilisez Google Workspace Education : Google Gemini for Education has arrived! 🥳🎊🎉
+These tools combine the power of Google Gemini with data privacy protections and unique features for teachers.
+Get all the details here: bit.ly/3QNaCmi
+16/05/2024, 15:58 - Jacques BARATTI: je confirme Scribe est très bien c'est Opensource et RGPD
+16/05/2024, 16:01 - Francois Bocquet: Pour « être » RGPD encore faut il respecter parmi d’autres obligations celles exigées par l’art 13. Dans ce cas précis l’article 13 n’est pas respecté du tout ce qui rend le traitement non conforme et donc illégal. Le fait qu’un service utilisé de l’open source n’apporte aucune garantie quant au respect du RGPD.
+16/05/2024, 16:03 - Francois Bocquet: Source sur le site de la CNIL : https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3
+16/05/2024, 16:03 - Francois Bocquet: Article 13 - Informations à fournir lorsque des données à caractère personnel sont collectées auprès de la personne concernée
+16/05/2024, 16:05 - Jacques BARATTI: Merci François pour ces précisions. Si c'est OpenSource cela confère une certaine garantie il me semble pour l'article 13 je en connais pas...
+16/05/2024, 16:05 - +33 6 22 42 57 92: J'y ai accès depuis hier soir depuis un compte gratuit 🤷‍♂️ Grand Est de la France
+16/05/2024, 16:08 - Francois Bocquet: La garantie ne peut être apportée par le code disponible sur le dépôt puisque celui est modifiable et peut donc être installé avec d’autres fonctionnalités. Par ailleurs le code source ne peut préjuger des finalités de traitements ni des modalités d’information des personnes. Il est possible de procéder à des traitements illégaux avec un simple tableur de Libre Office ou avec un site web n’utilisant que du logiciel libre.

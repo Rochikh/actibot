@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 13
+
+=== CONTENU ===
+Bonjour, je partage ce retour très intéressant d'un café pédagogique organisé à l'EPFL autour de l' IA.
+24/11/2024, 10:10 - Votre code de sécurité avec +33 6 71 34 16 74 a changé. Appuyez pour en savoir plus.
+24/11/2024, 11:16 - Rochane: En avant-première pour vous !
+Je viens de finaliser un projet qui me tient à cœur : VoxFolio, un système qui permet à chaque apprenant·e de partager son savoir-faire... simplement avec sa voix ! Plus besoin d'écrire des rapports compliqués 😅
+Je partage avec vous la vidéo en exclu, avant sa diffusion sur les réseaux sociaux.
+Vos retours comptent beaucoup pour moi ! 🙏
+https://youtu.be/0HXpOp0yJLc
+24/11/2024, 11:55 - +41 76 372 28 94: L'idée est excellente !
+*Sur le fond* : https://voxfolio.com/ (est-ce que ce sera ton site web ?) est une très bonne initiative pour des portfolios audio. Lorsque j'étais en formation professionnelle (CFC suisses), c'est un outil qui m'aurait été vraiment très utile. Vu que la retranscription fait des erreurs (sueurs au lieu de super dans la démo du vélo), est-il possible de revenir à l'enregistrement d'origine ? Quid de la protection des données avec tous les outils différents qui sont utilisés ?
+*Sur la forme* : La musique me dérange. Elle me perturbe dans ma capacité à écouter ce que tu dis et n'apporte pas une information utile. Je sais que c'est une pratique courante, mais ce n'est pas une bonne pratique pour moi, spécifiquement pour mon mode de fonctionnement cognitif multitâches hyperactif interne. Il y a des craquements à un moment donné dans l'audio, peut-être que ça peut être supprimé avec Audacity ou autre logiciel de montage (ce n'est pas du tout mon domaine). Peut-être qu'il faudrait masquer des informations tels que appkXMzuDDiXHAxxU/tblw77k92gZckflSA par exemple pour ta table Notion.
+*Sur le prix* : si tu lances ce service en ligne, est-ce que ce sera payant, open source ? Comment envisages-tu la suite de ce projet ?
+Merci @33649535198 !
+24/11/2024, 12:12 - Rochane: Merci Christian pour ton feedback détaillé et constructif !

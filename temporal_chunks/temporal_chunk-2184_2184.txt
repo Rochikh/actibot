@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 15
+
+=== CONTENU ===
+20/05/2025, 11:38 - +32 475 86 01 57: Wow, canva Code c’est fou… Tant de possibilités s’ouvrent…
+https://borzeux.my.canva.site/cr-ation-d-un-jeu-d-exploration-spatiale-en-3d
+Juste pour jouer, 9 itérations à partir d’un exemple fourni par canva. Tout gratuit. Hébergé chez Canva. Pleins d’améliorations pourraient être apportées à cet exemple et je n’ai pas vérifié les infos.
+20/05/2025, 11:44 - +32 475 86 01 57: A voir sur ordi
+20/05/2025, 12:12 - +225 08 64 97 90: Ah OK
+20/05/2025, 12:58 - +32 475 86 01 57: Les menus ne sont pas responsives (pour le prix...)
+20/05/2025, 13:14 - Daniel Pappalardo: Je m'en sers pour répondre de manière guidée aux élèves. Sur la méthodologie etc. Ou dans les jeux pour programmer un personnage non joueur. L'avantage est justement de ne pas avoir recours à l'IA (mais on peut avec une API) de passer par la forge et l'appsedu donc d'être plus serein côté réglementation. Cela dit c'est un outil qui date, les chatbots pédagogiques sont encore utiles mais je m'en servais il y a deux ans, avec la démocratisation des IA ce type d'outils est très consommateur de temps de préparation.
+20/05/2025, 13:38 - ‎+33 6 74 39 90 60 a demandé à ajouter +33 7 45 19 34 36.
+20/05/2025, 13:42 - ‎+33 6 74 39 90 60 a demandé à ajouter +33 6 85 68 80 93.
+20/05/2025, 15:03 - ‎~ Christophe BAILLEUL a ajouté +33 7 45 19 34 36
+20/05/2025, 15:03 - ‎~ Christophe BAILLEUL a ajouté ~ Fanny
+20/05/2025, 18:27 - +33 6 85 68 80 93: Bonjour. (Je remercie Christophe de m’avoir ajouté à votre groupe, vos éclairages seront précieux.)
+Selon vous quelle est la meilleure IA pour générer des quizs (à partir d’un support, cours ou contenu partagé avec mes apprenants) pour une évaluation formatrice ?
+20/05/2025, 18:59 - Rochane: NotebookLM ( se base que sur le contenu),  Les modèles LLM comme Chat Gpt, Copilot, Claude, Mistral.peuvent le faire aussi puisque même dans leur version gratuite, ils acceptent de joindre des fichiers
+20/05/2025, 19:04 - +32 483 60 53 96: Chez nous pour ce cas d'usage specifique, on utilise wooflash et cest tres utilisé (1 etudiant sur 4)

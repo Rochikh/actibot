@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 9
+
+=== CONTENU ===
+27/12/2024, 08:38 - StéphaneIA: J'en vois 10?
+27/12/2024, 08:38 - +41 76 372 28 94: Dans le texte, c’est toujours la no 9 qui est référencée.
+27/12/2024, 08:40 - StéphaneIA: De mon point de vue ces technologies sont intéressantes pour monter vite en connaissances sur un sujet et travailler sur les idées et le plan mais jamais je les prendrai pour réponses finales
+27/12/2024, 08:41 - StéphaneIA: Certains disent que c'est un peu la limite de ces IA. Le soucis des hallucinations et le fait qu'ils génèrent des tokens fait que le résultat ne peut pas être complètement fiable
+27/12/2024, 08:47 - +41 76 372 28 94: Oui, c’est super important qu’on montre ces limitations aux élèves. Et aussi qu’on leur montre ce que O1 / O3 sont capables de faire… car c’est juste dingue au niveau des contradictions ! A la fois super humain et pas capable de nous comprendre. Il faut aussi les faire jouer à la fabrique de trombones (https://www.youtube.com/watch?v=ZP7T6WAK3Ow et https://www.decisionproblem.com/paperclips). Très important pour qu’ils comprennent les risques d’accorder de la confiance à une entité agentique non fiable (ce qui est arrivé à Apple Intelligence récemment https://www.tomsguide.com/ai/apple-intelligence/apple-faces-criticism-after-shockingly-bad-apple-intelligence-headline-errors) !
+27/12/2024, 08:51 - StéphaneIA: J'ai lu que 01 et 03 avait plus cette capacité de challenger ses réponses, intéressant. Mais vu le coût ça ne sera pas à la portée de tout le monde
+27/12/2024, 09:46 - +33 6 19 89 32 62: J’ai fait un article suite a la diffusion a grande échelle de la vidéo sur l’usine à trombones car pour des jeunes et un public non averti elle peut s’avérer trop partielle voire anxiogène.  https://www.linkedin.com/pulse/ia-entre-peur-fascination-et-besoin-de-lucidit%C3%A9-signe-distinctif-xupje?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
+27/12/2024, 10:42 - +33 6 19 89 32 62: Ps : désolée pour les fautes j’ai fait une dictée en vitesse
+27/12/2024, 11:09 - ‎+33 6 03 76 76 88 a demandé à rejoindre le groupe.

@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 9
+
+=== CONTENU ===
+12/02/2025, 07:23 - +33 6 66 98 84 23: Bonjour @Francois ,comme tu es expert en RGPD pourrais tu m'éclairer au sujet de l'utilisation de l'ia dans le domaine scolaire?
+Des collègues veulent faire travailler les élèves avec l'ia  et leur créer un compte avec le nom de domaine du lycée du style prénom.initiale du nom@....    cela est il autorisé? Le chef d'établissement semblent dire que oui mais je reste septique .Pourrais tu m'éclairer afin d'alerter ou pas la communauté?
+Merci
+Pierre-Henri
+12/02/2025, 08:00 - +41 76 372 28 94: Ben non, c'est pas ok du tout. Vous devriez héberger vous même l'IA pour être certain de ce qui est fait des données collectables (ce que j'ai choisi de faire pour donner accès à Claude et O3-Mini à mes élèves), ou bien alors signer une convention avec le fournisseur de l'IA que vous utilisez (chez nous c'est Copilot de Microsoft) qui remplit les points que @33662364404 nous explique très patiemment assez souvent.
+12/02/2025, 08:08 - +33 6 73 29 84 68: Attention, l’auto hébergement n’est aucunement LA solution. Quelle que soit le mode de déploiement retenu (SaaS souscrit en B2B avec sous-traitance en bonne et due forme, ou auto hébergement local par l’établissement) les dispositions liées au RGPD s’appliquent, et se doublent maintenant de celles du Règlement sur l’IA (RIA) : l’EPLE (par la voix de son représentant, le chef d’établissement) est seul décisionnaire en tant que Responsable de Traitement.
+12/02/2025, 08:08 - +33 6 73 29 84 68: J’avais écrit un court billet à ce sujet : https://www.linkedin.com/posts/benjamin-thily-0796a8306_ia-ria-daezployeur-activity-7274757671814103041-R4Fd <Ce message a été modifié>
+12/02/2025, 08:15 - Votre code de sécurité avec ~ Benjamin a changé. Appuyez pour en savoir plus.
+12/02/2025, 08:32 - +33 6 73 29 84 68: Oups, j’ai désinstallé WhatsApp et j’ai perdu toutes mes conversations… 😖 Pour ceux ici avec qui je discutais à côté, pourriez-vous me repasser un petit message pour réamorcer le fil de discussion ? Merci !! 🛟

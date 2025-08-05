@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 18
+
+=== CONTENU ===
+02/12/2024, 12:53 - Fred IA: Hier soir, Mac Lesggy a présenté son émission E=M6, sauf que ce n'était pas lui mais son avatar ! https://www.ozap.com/actu/ce-nest-pas-moi-qui-vous-parlais-pour-la-premiere-fois-m6-diffuse-une-bande-annonce-avec-un-avatar-de-mac-lesggy-fabrique-par-lintelligence-artificielle/647786
+02/12/2024, 16:44 - +33 6 25 14 08 75: <Médias omis>
+02/12/2024, 16:56 - Rochane: J'ai installé l'App Epoc et téléchargé le cours IA. Vraiment top ce type de contenu micro learning. Ça donne vraiment des idées. Merci pour le partage
+Tu ne sais pas avec quel outil auteur ils ont construit le dispositif ?
+02/12/2024, 16:57 - ‎+33 6 60 78 50 41 a rejoint le groupe à partir de la communauté.
+02/12/2024, 16:59 - Alix van Zeebroeck: <Médias omis>
+02/12/2024, 18:46 - +33 6 25 14 08 75: Je vais me renseigner…
+02/12/2024, 18:49 - +33 6 64 50 56 67: bonsoir normalement sur cette plateforme https://epoc.inria.fr
+02/12/2024, 18:56 - +41 79 258 90 36: Prix 100 EUR
+02/12/2024, 18:57 - ‎+32 472 41 64 94 est parti·e
+02/12/2024, 18:58 - +33 6 58 35 08 39: L’éditeur ePoc est gratuit et très facile à utiliser. Il est encore en cours de développement mais des améliorations sont d’ores et déjà au programme.
+02/12/2024, 18:58 - +33 6 58 35 08 39: https://epoc.inria.fr/editor/
+02/12/2024, 18:59 - +33 6 58 35 08 39: Installation facile et rapide, prise en main idem.
+02/12/2024, 18:59 - +33 6 58 35 08 39: Il y a actuellement 5 epocs dispos créés par l’inria Learning lab et vous êtes libres de créer et partager les votres 🤩
+02/12/2024, 19:01 - +33 6 19 89 32 62: Super malheureusement je ne peux pas à cette date. D’autres ateliers sont ils prévus début 2025 ?
+02/12/2024, 19:34 - ‎+33 7 89 89 17 66 a demandé à rejoindre le groupe.
+02/12/2024, 22:00 - ‎+33 7 89 89 17 66 a rejoint ce groupe grâce à son lien d’invitation
+03/12/2024, 07:08 - Jean-Marc Everard: Effectivement je trouve vraiment chouette et bien fait aussi. Très curieux d’en apprendre davantage sur cet outil apparemment open source ! Quand je pense que mon équipe et moi nous sommes cassés les dents sur un outil auteur de mobile Learning cher et pas pratique avant d’abandonner…😭

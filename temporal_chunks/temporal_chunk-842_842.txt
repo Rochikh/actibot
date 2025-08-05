@@ -1,0 +1,37 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 29
+
+=== CONTENU ===
+Scribe (CEMEA) : Transcription audio, gratuit et open source.
+Apolearn : LMS français intégrant l'IA.
+SafeBrain : Plateforme française d'IA sécurisée pour les entreprises.
+Jan.ai : Permet d'installer des LLMs hors ligne.
+PrivateLLM : Permet d'installer des LLMs hors ligne, payant.
+Skool.com : Plateforme d'apprentissage et de communauté en ligne.
+Circle.so : Plateforme de communauté en ligne.
+Whaller : Plateforme de communauté en ligne française, respectueuse du RGPD.
+Talkspirit : Plateforme de communication et de collaboration française, respectueuse du RGPD.
+Atolia : Plateforme de communication et de collaboration française, respectueuse du RGPD.
+JoinSecret : Plateforme d'accès à des outils en ligne à prix réduits.
+RESSOURCES
+Les Roch Dur : Site web avec de nombreuses ressources sur l'IA en éducation.
+Flint.media : Newsletter sur l'IA.
+Classpoint.io : Site web avec de nombreuses ressources sur l'IA en éducation.
+AI Pioneers : Projet Erasmus+ sur l'IA en éducation.
+Collimateur (UQAM) : Site web sur l'utilisation de l'IA en éducation.
+EduTech Expo : Salon sur les technologies éducatives.
+Eden Europe : Consortium européen sur l'apprentissage ouvert et numérique.
+ScriptByAI : Site web avec des plugins ChatGPT pour l'éducation.
+REMARQUES
+Cette liste n'est pas exhaustive.
+La mention d'un outil ne signifie pas qu'il est adapté à tous les besoins ou contextes.
+Il est important de vérifier la qualité, la fiabilité, l'éthique et la conformité RGPD de chaque outil avant de l'utiliser.
+23/08/2024, 11:34 - Clément Cahagne: Ca existe, c’est made in moi-même, et c’est dispo ici : https://pauuse.notion.site/Outils-IAG-et-usages-p-dagogiques-2143f93732ea4170ae933556d2c0c59e?pvs=4
+23/08/2024, 11:34 - Clément Cahagne: Retours, remarques, améliorations : une zone de commentaire est dispo en bas du doc 😉
+23/08/2024, 11:38 - Hoang: super merci!
+23/08/2024, 11:40 - Hoang: tu as créer ce site via tes Notes Notion c'est bien ca?
+23/08/2024, 11:40 - Rochane: Vraiment excellente cette boite à outils que j'avais un peu perdu de vue @33675775911 . Prochain Live, on en parle si tu veux bien 🙂

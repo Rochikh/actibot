@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 13
+
+=== CONTENU ===
+08/09/2024, 15:04 - +212 644-562660: Pas de taille maximale si je me rappelle bizn. Et meme si il y en avait, tu peux enregistrer en version vocale. Mon pc est costaud certes mais je pense que ca marche dans d'autres pc moins performants. Coté confidentialité, ca utilise l'api d'open ai pour la transcription moi j'ai pas de probleme avec ca mais à toi de voir ca repond à ton besoin
+08/09/2024, 15:06 - +212 644-562660: Tu peux rechecher ici d'autres alternatives ceci dit https://alternativeto.net/
+08/09/2024, 15:06 - Fred IA: Tu veux dire que via l'api d'openai, ça te génère aussi un compte rendu ?  (L'api est payant, non ?)
+08/09/2024, 15:09 - +212 644-562660: Ben non. Ca reste gratuit comme même. Le compte rendu j'utilise un un custom GPT à qui je donnes la transcription et ca me genere le compte rendu selon mon besoin à moi. Mais il est recommandé ici d'utiliser un prompt splitter car tu sais chat gpt à du mal à analyser une longue transcription
+08/09/2024, 15:11 - +212 644-562660: https://chatgpt-prompt-splitter.jjdiaz.dev/
+08/09/2024, 15:12 - Fred IA: Merci à toi, je vais tester ça 👍 Peut-être qu'une version mobile Android & ios sortira aussi, sait-on jamais
+08/09/2024, 16:17 - +33 6 34 15 77 84: Merciiii 😊
+08/09/2024, 16:33 - ‎Pierrick BRIAND a épinglé un message
+08/09/2024, 18:43 - Fred IA: Auriez vous une astuce pour retrouver facilement des prompts / conversations réalisés dans ChatGPT ?  Certes, ils sont listés dans la colonne de gauche, mais il n'y a pas de moteur de recherche et pas moyen de categoriser.. Donc si vous avez des astuces, je suis preneur, merci par avance 🙂 <Ce message a été modifié>
+08/09/2024, 18:44 - +33 6 72 75 43 48: Pareil 😂impossible de créer des dossiers
+08/09/2024, 18:45 - ‎+212 669-764440 est parti·e
+08/09/2024, 18:46 - Fred IA: (J'ai du mettre plus d'une heure à retrouver un prompt créé il y a quelques mois, donc, ce n'est pas très pratique de ce côté là)
+08/09/2024, 18:47 - Vincent DROUOT: Perso j’utilise une extension à Chrome qui permet d’avoir un moteur de recherche efficace et de créer des dossiers.

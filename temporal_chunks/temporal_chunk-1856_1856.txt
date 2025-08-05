@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 17
+
+=== CONTENU ===
+04/03/2025, 07:42 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+04/03/2025, 07:46 - Votre code de sécurité avec +33 6 74 05 09 80 a changé. Appuyez pour en savoir plus.
+04/03/2025, 07:53 - ‎+33 7 67 26 44 49 est parti·e
+04/03/2025, 07:58 - Votre code de sécurité avec +33 6 74 05 09 80 a changé. Appuyez pour en savoir plus.
+04/03/2025, 09:07 - +33 6 19 75 63 49: Bonjour, je ne crois pas avoir vu cela dans la discussion et je vous prie de m’excuser si cela a déjà été signalé, mais pour ceux qui s’intéressent aux agents AI (pas eu le temps de mon côté mais j’espère le trouver) Convergence a sorti un agent IA open source. Les résultats sur Coursera sont impressionnants je trouve (et inquiétants pour mes cours en ligne! Vraiment toute la pédagogie est à revoir!). Voici le lien https://convergence.ai/proxy_lite/
+04/03/2025, 09:17 - +44 7776 747507: Effectivement, je l'avais vu et confirme!
+04/03/2025, 09:20 - +32 483 60 53 96: Juste pour être sûr de comprendre le cas d'usage Coursera: on parle de completion de modules par le Proxy Lite, d'où la nécessité de revoir la pédagogie? Ou un autre cas d'usage ?
+04/03/2025, 09:21 - +32 483 60 53 96: Ou on parle de scrapping de contenus de cours en masse ?
+04/03/2025, 09:39 - +33 6 19 75 63 49: Je l’ai compris comme « suivre un cours » de même qu’ils demandent de trouver une recette ou un vol <Ce message a été modifié>
+04/03/2025, 09:40 - +32 483 60 53 96: Ok tres clair merci
+04/03/2025, 09:40 - +32 483 60 53 96: Coursera, Moodle, même guerre ?
+Je vais essayer
+04/03/2025, 09:40 - +33 6 19 75 63 49: (Je peux me tromper)
+04/03/2025, 09:40 - +33 6 19 75 63 49: Justement j’aimerais bien savoir pour Moodle!
+04/03/2025, 09:42 - +32 483 60 53 96: Et dernière question: la plus grande crainte c'est le suivi de cours, la réponse à des QCM simples et la validation de modules en mode "vus"
+Y a t il d'autres craintes de génération automatique de contenus ou autres ?
+04/03/2025, 11:53 - ‎~ Benjamin est parti·e

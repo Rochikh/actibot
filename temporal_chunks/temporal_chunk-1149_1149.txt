@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 579
+Messages: 8
+
+=== CONTENU ===
+28/10/2024, 10:31 - +41 76 372 28 94: Pas convaincu par la réponse de ChatGpt. Il ne mentionne même pas que nous sommes dans une logique de croissance exponentielle, ce qui, mathématiquement, signifierait doubler le nombre d'éoliennes et de panneaux solaires sur terre tous les 6 mois pour compenser la croissance juste en besoins énergétiques et sans compenser les énergies grises.
+Non, pour moi le seul espoir de la logique accélérationniste c'est qu'on fasse de tels progrès que la fusion soit rapidement maîtrisée grâce aux IA et que les GAFAM et les
+BATX soient contrôlés par un gouvernement mondial (en plus d'arrêter d'utiliser des pommes et des logiciels propriétaires dans nos écoles : mais ça c'est une goutte d'eau dans l'immensité de l'absurdité de notre société).
+28/10/2024, 12:09 - Francois Bocquet: On peut aussi augmenter le nombre de centrales nucléaires ou encore placer les data centers dans les pays ou l’energie hydraulique est sans limites. Pas obligé de mettre des panneaux solaires et des éoliennes 😉
+28/10/2024, 12:39 - Daniel Pappalardo: As-tu pensé à une classe renversée ? C'est le fait de faire faire le cours par les élèves pour développer leurs compétences et leurs capacités de réflexion dans la phase de conception. L'IA est super intéressante car tu les accompagnes en cours et leur montre que c'est bien un outil de conception. Je faisais ça avant l'IA avec les collégiens, je fais ça maintenant avec you.com (gratuit sans compte mais limité à ChatGPT 3.5) en limitant aussi leur accès avec un ou deux prompts selon le cours (pour ne pas abuser de l'outil et l'aspect environnemental aussi) Bien entendu ils ont tous les documents, un cahier des charges précis etc...
+28/10/2024, 12:58 - Rochane: Peux-tu nous partager ce cahier des charges ?, ça m'intéresse 🙂
+28/10/2024, 13:07 - Fred IA: Bonjour Daniel. Je n'ai pas regardé dans le détail mais j'ai l'impression que you.com permettrait de créer (gratuitement ?) des bots personnalisés, façon GPTs (?)
+28/10/2024, 13:19 - +33 6 28 06 83 96: Bonjour, je cherche pour une formation d'enseignants en éco-gestion un outil leur permettant de concevoir des scénari pédagogiques de 55 minutes qu'ils pourront ensuite étudier, critiquer, améliorer. Je cherche un assistant personnel à utiliser dans le cadre d'une formation.

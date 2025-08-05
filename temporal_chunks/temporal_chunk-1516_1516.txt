@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 20
+
+=== CONTENU ===
+Par avance merci a touti
+03/01/2025, 10:14 - Rochane: J'ai créé un bot dans ce sens, tu peux le tester
+scenariocreator.rochane.fr
+03/01/2025, 10:19 - +33 6 25 79 50 95: Merci bcp Rochane
+03/01/2025, 11:03 - estelle Duterage Drion IA: Je viens de le tester merci Rochane.
+Il est utile pour donner les orientations générales.
+03/01/2025, 11:18 - StéphaneIA: <Médias omis>
+03/01/2025, 11:22 - +33 6 25 79 50 95: Si d'autres personnes ont également des suggestions d'outils et/ou bot/GPT et/ou prompt, grand merci par avance pour vos généreux partages.
+De mon côté j'avais vu, mais pas encore testé deux solutions hélas  partielles :
+- un GPT blom transformer https://chatgpt.com/g/g-UYDr2DOCR-bloom-transformer
+- Un assistant sur hugging face Bloom learning https://huggingface.co/chat/assistant/65e5f65474d1e384bf74e920
+03/01/2025, 11:25 - +221 77 631 83 31: Bonjour Rochane et merci pour le partage je viens de créer des dossiers que je classe suivant les objectifs.
+03/01/2025, 11:30 - estelle Duterage Drion IA: https://www.linkedin.com/posts/marc-dufraisse_inutile-de-ma%C3%AEtriser-des-outils-compliqu%C3%A9s-activity-7280851139053424640-Z0Yy?utm_source=share&utm_medium=member_ios
+03/01/2025, 11:59 - Jacques BARATTI: Voici deux GPT créer par Clément CAHAGNE 1. rédaction d'objectifs pédagogiques : https://chat.openai.com/g/g-PFh8fqvJz-le-redacteur-by-pauuse; 2. Correcteur d'objectifs pédagogiques : https://chat.openai.com/g/g-f9PVJF4Of-l-affineur-by-pauuse. Les deux fonctionnent TB ! Merci Clément !!
+03/01/2025, 12:01 - +33 6 69 92 67 77: Merci je vais le tester dès ce week-end merci
+03/01/2025, 12:07 - ‎+33 6 20 44 17 00 est parti·e
+03/01/2025, 12:09 - +33 6 25 79 50 95: Merci beaucoup Jacques je vais également tester tout ça prochainement.
+J'avais d'ailleurs vu Clement Cahagne l'évoquer lors d'une récente webconf qu'il animait.
+PS : @tous prêtez une oreille à son chouette podcast https://www.rdventerredigitale.com/podcasts
+03/01/2025, 16:09 - estelle Duterage Drion IA: Comment générer des activités depuis vos cours stockés sur moodle

@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 8
+
+=== CONTENU ===
+17/01/2025, 15:12 - +33 6 42 26 64 70: L’intérêt de Lucie réside dans sa conception apparemment « véritablement open source » et entraînée avec des données centrées Education et Edtech.
+« Le voyage de LUCIE a commencé en juin 2023 lorsque LINAGORA a décidé de lancer la communauté OpenLLM France, réunissant des contributeurs (>900 membres en janvier 2025) autour de l'objectif de construire une IA générative ouverte alignée sur les valeurs européennes communes. En février 2024, cette communauté s'est transformée en OpenLLM Europe, visant à connecter et renforcer les initiatives européennes pour des modèles génératifs d'IA ouverts et éthiques. Pour aller plus loin dans cette vision, LINAGORA a dirigé le consortium OpenLLM France**, formé avec 11 partenaires de la communauté, pour répondre à l'appel à projets "Communs Numériques dans le domaine de l'IA Générative". Désormais lauréat France 2030, le consortium s'engage dans une mission de deux ans débutant fin 2024 pour créer des communs d'IA générative ouverts, avec un accent particulier sur l'éducation et le secteur EdTech. L'étape suivante est survenue fin 2023, lorsque LINAGORA a initié l'entraînement de LUCIE avec le soutien de la communauté et particulièrement du GENCI (Grand Équipement National de Calcul Intensif) pour l'accès au supercalculateur Jean Zay. Aujourd'hui, en janvier 2025, la sortie de LUCIE marque une étape importante dans la livraison d'un modèle d'IA véritablement open source, éthique et efficace pour l'Europe et au-delà. ».
+17/01/2025, 16:41 - Francois Bocquet: Le « efficace «  m’interpelle … pour le moment aucun benchmark ne semble consultable. Après que ce soit français et payé par des subventions publiques c’est incontestable. Pour le open source il faudra voir ça…
+17/01/2025, 16:45 - +33 6 71 11 12 91: Je lui ai posé cette question :
+"Explique-moi comme à un  profane éduqué ce qu'est Lucie, l'assistante IA française que tu prétends être."
+Sa réponse :
+"</pre> #L"
+Je dois être un profane pas assez éduqué pour comprendre sa réponse, je suppose...

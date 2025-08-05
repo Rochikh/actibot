@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 11
+
+=== CONTENU ===
+- D'après la complexité de votre projet cela peut prendre quelques minutes ou plusieurs heures. Mais ce n'est pas grave puisque votre projet continue à se construire sur l'ordinateur virtuel Manus. Il faut juste de temps en temps revenir sur le site car si Manus a un doute ou une questions sur votre projet, elle vous posera des questions avant de continuer. Un vrai chef de projet ce Manus :D
+- Dans les projets que j'ai testé : Un site internet immobilier, des analyses de données, un site pour une autrice, ...
+- Le plus bluffant est le fait que l'agent IA Manus rentre vraiment dans les sites, les plateformes et s'y retrouvent très facilement. Il vous demande juste au début que vous preniez la main sur l'ordinateur virtuel Manus et entrer vos identifiants et votre mot de passe sur le site que vous voulez qu'il gère et ensuite il reprend la main.
+23/03/2025, 07:47 - Rochane: Exceptionnelle la newsletter aujourd'hui de Benoît Raphaël où il relate une confrontation IA vs Humain
+https://generationia.flint.media/p/comment-j-ai-defie-un-prix-goncourt-avec-l-intelligence-artificielle-claude-herve-le-tellier-chatgpt?_bhlid=240b5398c1c02686c472536503c2d9e36872b680&last_resource_guid=Post%3A89617e9b-bf5e-4f39-9f6c-a36efad9d470&utm_campaign=comment-j-ai-defie-un-prix-goncourt-avec-l-intelligence-artificielle&utm_medium=newsletter&utm_source=generationia.flint.media
+23/03/2025, 11:36 - Votre code de sécurité avec ~ Emile OUEDRAOGO a changé. Appuyez pour en savoir plus.
+23/03/2025, 12:08 - +41 79 258 90 36: <Médias omis>
+23/03/2025, 15:38 - Gregoire IA: Voilà le lien de mon dernier carrousel LinkedIn pour revenir sur les fonctionnalités de NotebookLM... On en parlait ici cette semaine.
+https://www.linkedin.com/posts/aribautg_derni%C3%A8res-mises-%C3%A0-jour-de-notebooklm-que-activity-7309453502886432768-rxrB?utm_source=share&utm_medium=member_android&rcm=ACoAAAWVEhMBJrllmWvRVEKHUGEsR0uXU7SSff4
+La question qui se pose, pkoi parle-t-on si peu de cet outil ?
+23/03/2025, 17:39 - +33 6 03 06 04 34: Parce que personne n’en comprend la puissance d’analyse et qu’il faut de la donnée pour l’alimenter donc travailler avec d’autres outils

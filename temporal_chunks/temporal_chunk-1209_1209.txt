@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 12
+
+=== CONTENU ===
+09/11/2024, 22:57 - +33 6 19 75 63 49: Bonjour, je demande à mes étudiants de m’envoyer le lien de leurs conversations pour vérifier qu’ils interagissent bien avec ChatGPT (cours de langues) et corriger les hallucinations: l’année dernière nous leur proposions aussi Copilot mais nous n’avions jamais accès à la conversation, nous sommes donc repassés à ChatGPT. Cependant, j’ai une activité où cela me dérange: on leur demande de reproduire une image donnée et le but est qu’ils pratiquent la langue au fur et à mesure qu’ils corrigent et précisent le prompt. Pour l’instant on a gardé copilot et image creator mais cela veut dire obtenir le résultat et non le processus, à moins de leur demander de faire des captures. C’était censé être possible mais on n’a jamais résolu le problème.
+Donc: *connaissez-vous un moyen de partager une conversation dans laquelle on verrait tous les prompts de l’étudiant et toutes les images générées?* Tout cela gratuitement bien sûr!
+10/11/2024, 05:02 - Lucie: Bonjour Julie
+Sur Microsoft Designer (sur PC) ils ont une interface guidée ou l'apprenant peut remplir un framework avec des mots. Ce qui permet a l'apprenant de faire une capture d'écran de la logique utilisée. Ce n'est pas exactement ce que tu demandes mais c'est selon moi ce qui s'approche le plus d'une évaluation de la pensée critique qui est ce que tu recherches j'imagine
+10/11/2024, 06:31 - ‎+212 625-675934 a rejoint ce groupe grâce à son lien d’invitation
+10/11/2024, 06:32 - ‎+212 724-249574 a rejoint ce groupe grâce à son lien d’invitation
+10/11/2024, 06:32 - ‎+33 6 34 25 63 34 a rejoint ce groupe grâce à son lien d’invitation
+10/11/2024, 08:42 - ‎+32 486 29 51 57 est parti·e
+10/11/2024, 09:56 - +33 6 46 86 16 67: Merci pour la vidéo ! On conseille le RAG mais sans savoir que ça s’appelait comme ça 😃 ma, c’est plus clair, merci ! Quels sont tes top outils ?
+10/11/2024, 11:08 - +33 6 19 75 63 49: <Médias omis>
+10/11/2024, 11:10 - Lucie: <Médias omis>
+10/11/2024, 11:10 - Lucie: <Médias omis>

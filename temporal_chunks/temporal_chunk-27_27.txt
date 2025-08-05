@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 14
+
+=== CONTENU ===
+Pas que … si vous changez la langue par une thématique professionnelle vous avez le même résultat …
+Repenser l’enseignement est une obligation pour tirer parti de l’IA comme une opportunité ⁉️ <Ce message a été modifié>
+29/10/2023, 09:17 - +32 498 78 46 36: Je l'ai testé avec le russe en mode GPT4 vocal via l'app d'openai il y a quand même quelques couacs niveaux prononciations mais je suis certain que dans quelques mois ces couacs seront déjà de l'histoire ancienne.
+29/10/2023, 12:15 - Ahmadou Ba: Je viens de tester votre prompt, il est vraiment bon. Merci.
+29/10/2023, 14:32 - ‎+33 6 26 15 38 78 a rejoint le groupe à partir de la communauté.
+29/10/2023, 15:09 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 31/10 20h-21h :
+https://us06web.zoom.us/j/81276204849?pwd=5KLWiYAFf5xxwF3qT2IB5aPEAbbUUt.1
+Meeting ID: 812 7620 4849
+Passcode: 204873
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaitre de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+Je reposterai ce message mardi vers 13h et 18h pour les nouveaux inscrits.
+29/10/2023, 15:27 - Guillaume Singeot: Je viens de tester https://app.hourone.ai/ en version gratuite: on peut prendre un texte de max 3000 mots et en faire une video avec un.e présenteur ou trice virtuelle et une voix française. je n'ai pas bien compris la taille des images qu'on pouvait insérer.
+29/10/2023, 15:30 - Rochane: Il y a le plugin HeyGen de chat GPt qui le fait très bien et en plus sans inscription 🙂
+29/10/2023, 17:26 - Guillaume Singeot: Help : j'anime demain. Vous auriez une activité type "tour de table rapide" utilisant un outil d'Ia utilisé par l'animateur ? ( je ne les connais pas et ne connais pas leur acculturation numérique)

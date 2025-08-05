@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 11
+
+=== CONTENU ===
+26/06/2024, 14:07 - Céline Averseng: J'avoue que ce n'est pas encore parfait mais c'est bien meilleur que ce que j'ai obtenu après plusieurs itérations avec Chat GPT 4o... 🙏
+26/06/2024, 14:16 - +33 6 40 65 69 66: Bonjour, Oui j’ai travaillé à la fois sur ChatGPT en comparant 10 rapports d’étudiants avec des grilles d’évaluation très détaillée. Les 10 rapports étaient très bons, je n’ai pas été surprise d’avoir des bonnes notes. J’ai dû dialogué plusieurs fois avec Chat GPT pour rajouter des critères plus fins encore pour comparer les réponses des 10 rapports, me faire un classement et justifier sa réponse. Il a été de bon conseil et m’a permis de relire des passages clés pour affiner mon propre jugement.
+26/06/2024, 14:19 - +33 6 40 65 69 66: Parfois, si la grille est trop longue, ChatGPT se perd dans les détails. Il vaut mieux donner une grille complète puis revenir sur  des moyens de donner une réponse plus fine.
+26/06/2024, 14:49 - LIO: Mais la non utilisation du protocole d'exclusion des robots détectée ça devrait être vite corrigé non?
+26/06/2024, 14:51 - Rochane: Dommage car ça nous permettait de bypaser lee paywalls 😁
+26/06/2024, 14:51 - LIO: Ha mais oui^^^
+26/06/2024, 15:02 - +237 99148639: Bonjour la communauté, en dehors de Gamma, quel outil IA gratuit avez vous deja testé pour les presentations illustratives
+26/06/2024, 15:02 - Ahmadou Ba: Pour cela vous avez créer un GPT ou bien vous utilisez directement GPT 4o sur la plateforme. Je travaille sur un projet similaire mais je dois evaluer les échanges des etudiants dans une plateforme e-learning.
+26/06/2024, 15:02 - +237 99148639: Que pouvez vous me conseiller svp? Merci d'avance
+26/06/2024, 15:05 - Ahmadou Ba: c tout l'intérêt de perplexity si tout ce que l'on reproche est averé. Les bonnes informations sont payantes, donc si on a quelqu'un qui peut contourner ces protocoles c'est bon pour nous. Mais pas trop quand même. La recherche a un coup egalement qu'il faudra rentabiliser.
+26/06/2024, 15:06 - Ahmadou Ba: Canva est bon, et il y a les GTP aussi j'en ai vu pleins il faut faire un tour sur les GPT store

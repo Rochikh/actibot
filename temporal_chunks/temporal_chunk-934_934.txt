@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 20
+
+=== CONTENU ===
+13/09/2024, 21:00 - Francois Bocquet: You’re in control
+Your personal data is not used to train NotebookLM, so any private or sensitive information you have in your sources will stay private, unless you choose to share your sources with collaborators.
+13/09/2024, 21:51 - Votre code de sécurité avec Centre Richard a changé. Appuyez pour en savoir plus.
+13/09/2024, 22:54 - ‎+32 471 20 79 49 est parti·e
+14/09/2024, 13:14 - Pierrick BRIAND: Du nouveau chez Open AI
+OpenAI lance o1 un grand modèle de langage (LLM) apparement plus innovant :
+- Formé par apprentissage par renforcement
+- Utilise une "chaîne de pensée" pour résoudre des problèmes complexes
+- Excelle en mathématiques, sciences et programmation
+- Surpasse GPT-4 sur des tests avancés (83% vs 13% à l'Olympiade de Maths)
+- Disponible en deux versions : o1-preview et o1-mini
+- Accessible via ChatGPT Plus et l'API OpenAI
+Ceux qui teste nous dirons…
+14/09/2024, 13:33 - +33 6 58 17 88 27: Un début de réponse à ta question : https://www.youtube.com/watch?v=QTt1jnbvb0I
+14/09/2024, 13:56 - Pierrick BRIAND: Merci @33658178827 , je relève aussi que cette nouvelle version ne présente pas encore la plupart des fonctions qui rendent ChatGPT utile”…. Par exemple, il ne dispose pas d’accès au web., bref… Pour la plupart des besoins du quotidien, GPT-4o reste donc le modèle le plus performant. <Ce message a été modifié>
+14/09/2024, 15:15 - +33 6 75 41 23 05: Par contre sur le plan scientifique c’est bluffant. o1 m’a proposé des moyens de résoudre des problèmes de géophysique très pertinents
+14/09/2024, 15:16 - +212 644-562660: Même en matière de gestion de projet ca m'a bluffé
+14/09/2024, 20:14 - Pierrick BRIAND: Une démo pour le groupe ?
+14/09/2024, 20:14 - Pierrick BRIAND: Une démo pour le groupe ?
+14/09/2024, 20:39 - +212 644-562660: peut etre un jour Pierrick. Sinn les CPs ici essayez le si vous avez aucun probleme question securité, c assez facile à manier. Je recommende un prompt generator cela dit pour de bons resultats

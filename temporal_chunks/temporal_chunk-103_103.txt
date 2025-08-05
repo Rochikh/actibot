@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 15
+
+=== CONTENU ===
+22/11/2023, 10:27 - Rochane: J'aime beaucoup cette phrase de Philippe Mérieux Philippe Mérieux dans une récente tribune : "Le danger de ChatGPT n’est pas dans la fraude qu’il permet mais dans le rapport aux connaissances qu’il promeut "
+22/11/2023, 10:56 - +32 498 78 46 36: Il faut absolument faire passer l'inverse comme message et expliquer pourquoi il faut justement "mieux" réfléchir pour utiliser des IA génératives correctement et faire la part des choses dans les réponses données par une IA. C'est un chantier gigantesque mais c'est aussi pour ça que nous sommes là :D
+22/11/2023, 12:14 - Jacques BARATTI: 👍
+22/11/2023, 12:15 - +33 7 68 67 76 16: Je suis également néophyte et j'expérimente
+22/11/2023, 13:03 - +33 6 26 15 38 78: https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/ Bonjour à tout.te.s, je partage cette info découverte ce jour concernant le lancement de ce MOOC, sur Fun :)
+22/11/2023, 13:17 - Rochane: Quand vous jugez intéressant de mutualiser une ressource, c'est bien de la poster ici mais aussi sur bit.ly/iaedu10 🙂
+22/11/2023, 13:19 - Francois Bocquet: http://www.e-learning-letter.com/info_article/m/2630/5-mythes-de-l-intelligence-artificielle-en-formation-comme-ailleurs.html
+22/11/2023, 13:26 - +33 6 70 31 98 34: Bonjour
+Si vous souhaitez en savoir plus je suis à votre disposition …
+23/11/2023, 06:50 - +33 7 71 20 50 67: https://www.lebigdata.fr/openai-retour-sam-altman
+23/11/2023, 07:11 - Jean-Marc Everard: Une IA par jour est de retour sous une nouvelle forme http://uneIAparjour.fr . Merci Bertrand Fromet 👍🏻.
+23/11/2023, 07:13 - Rochane: Ce serait cool de la déposer dans notre banque bit.ly/iaedu10 🙂
+23/11/2023, 07:13 - Jean-Marc Everard: Ce message a été supprimé.
+23/11/2023, 07:14 - Jean-Marc Everard: Ok, je pensais qu’elle y était déjà. Je fais ça
+23/11/2023, 07:27 - Rochane: Concernant l'utilisation de chat GPt par les étudiant·e·s "Tout le travail du formateur et du tuteur est donc de lui expliquer l’importance d’apprendre des compétences transférables dans n’importe quel contexte plutôt que de seulement produire des résultats à court terme”. Bref, il faut privilégier une obligation de moyen à celle du résultat…"

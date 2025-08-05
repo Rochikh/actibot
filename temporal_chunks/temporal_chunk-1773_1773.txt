@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 13
+
+=== CONTENU ===
+13/02/2025, 20:44 - Rochane: Exactement
+13/02/2025, 20:47 - +33 6 52 73 73 42: Ça c'est plutôt très bien ! Et pr l'accent québécois (charmant au demeurant) ... j'ai essayé d'ajouter cette spécificité ds mon prompt ... pas vu trop de changement ! Une piste !?
+13/02/2025, 20:50 - Rochane: Il faut savoir que l'original étant en anglais, tout artifice pour passer par une autre langue ou accent, ce n'est pas natif ni naturel. Du coup, je crains que les astuces ne soient nombreuses <Ce message a été modifié>
+13/02/2025, 21:00 - +33 6 52 73 73 42: À suivre ... Merci pr tes (précieux) retours Rochane !
+13/02/2025, 22:07 - Votre code de sécurité avec ~ PL Systems unitronics France a changé. Appuyez pour en savoir plus.
+13/02/2025, 22:08 - Votre code de sécurité avec ~ PL Systems unitronics France a changé. Appuyez pour en savoir plus.
+13/02/2025, 22:17 - +44 7776 747507: Pour info, si des retours n'hésitez pas à partager: https://kyutai.org/2025/02/10/hibiki.html
+13/02/2025, 22:17 - +44 7776 747507: https://kyutai.org/2025/02/10/hibiki.html
+13/02/2025, 22:37 - Rochane: Quand une ressource est partagée, merci de donner quelques infos de quoi s'agit-il
+13/02/2025, 22:45 - +44 7776 747507: Voici la traduction du post du CEO de Kyutai "Il s'agit de 'Hibiki', un modèle de traduction simultanée de la parole vers le texte, qui supporte actuellement français>Anglais.
+Hibiki produit des traductions vocales et textuelles du discours d'entrée en temps réel, tout en préservant la voix du locuteur et en adaptant son rythme de manière optimale en fonction du contenu sémantique du discours source.
+Hibiki existe en deux tailles, la plus petite variante Hibiki-M fonctionne localement sur un iPhone 16 Pro. Toutes les infos, y compris les liens vers le code sur github et les poids sur huggingface, avec possibilité d'essayer le modèle sur son ordinateur portable:  https://kyutai.org/2025/02/10/hibiki.html <Ce message a été modifié>
+13/02/2025, 22:45 - Votre code de sécurité avec ~ Nico a changé. Appuyez pour en savoir plus.

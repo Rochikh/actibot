@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 19
+
+=== CONTENU ===
+01/02/2024, 16:40 - +33 6 22 14 03 93: Je vais voir, merci  👌
+02/02/2024, 08:48 - Rochane: <Médias omis>
+02/02/2024, 10:35 - Jacques BARATTI: l'extension Glasp sur Chrome fait la même chose, ça fonctionne très bien !
+02/02/2024, 17:06 - Jean-Marc Everard: Bonjour, pour des collègues d'autres SPF (Ministères), je suis à la recherche d'outils IA les plus utiles possibles pour le domaine de la formation et de l'apprentissage mais pour lesquels les données seraient relativement protégées. A part Mistral sur un serveur dédié (et à soi), je ne vois pas encore beaucoup d'alternatives. Je n'ai qu'une confiance raisonnable (pour ne pas dire faible) sur la non exploitation des données par Chat GPT Entreprise ou Team, dès lors en connaissez-vous d'autres que vous utiliseriez sur des données potentiellement sensibles ?
+02/02/2024, 17:08 - Rochane: @33768502488 a la solution
+02/02/2024, 17:10 - Jean-Marc Everard: OK, merci. est-ce que je peux la retrouver dans les messages précédents ? je vais remonter le fil dès que j'ai fini quelques tâches urgentes 😉. Déjà merci !
+02/02/2024, 17:10 - Rochane: Non, je pense qu'il va te répondre
+02/02/2024, 17:11 - Guillaume CLEMENT: Je suis la
+02/02/2024, 17:16 - Guillaume CLEMENT: Pour ceux que la peux intéresser il existe aujourd'hui cette plateforme https://www.safebrain.ai/
+Elle permets un accès sécurisé et permet une anonymisation des données propres Numéro de tel et mail en automatique
+Pour les nom propre le système est géré par une liste rouge
+02/02/2024, 17:17 - Jean-Marc Everard: Merci beaucoup Guillaume. Je transfère déjà ça à mes collègues et teste moi-même !
+02/02/2024, 17:17 - Guillaume CLEMENT: c'est made in France et elle permet un accès à plusieurs LLM dans l'abonnement. Cette solution s'adresse essentiellement a des entreprise aujourd'ui pas d'utilisateur individuel pour le moment.
+02/02/2024, 17:17 - Guillaume CLEMENT: Les LLM comprennent
+CHATGPT
+CLAUDE 2
+MYSTRAL
+et bientôt LLAMA hébergé en europe
+02/02/2024, 17:18 - Guillaume CLEMENT: Elle propose aussi une interface d'administration et l'entrainement d'agent IA par le biais du RAG

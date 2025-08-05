@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+02/04/2024, 19:51 - Vous avez supprimé +33 7 45 65 04 98
+02/04/2024, 20:08 - +33 6 70 46 13 52: J'étais en train de me dire que ça va trop vite et que je n'arrive plus à vous suivre 🤣
+Mais je vois qu'il y a eu un posteur fou 😁
+02/04/2024, 20:55 - Letizia ALLEGRINI: Pour les intéressés demain je participerai au webinaire du fun mooc IA pour et par les enseignants le thèmeles  usages de l IA en classe. L'occasion de présenter quelques exemples concrets de scénarios pédagogiques avec les chatbots du cycle 3 au lycée professionnel. Le lien : https://app.livestorm.co/inria-14/webinaire-mooc-ia-pour-et-par-les-enseignants?s=fb0f833a-ed7d-499f-affd-ef7eac9c721a
+02/04/2024, 22:15 - +33 6 79 52 83 80: Bonjour,
+Je souhaite créer un module e-learning avec l’IA. L’idée c’est de proposer un storyboard interactif  avec des vidéos, des cartes, des jeux de mémoire, des quiz, etc., sur le même site, et pouvoir l’exporter  pour le faire sur Google school . En connaissez vous peut être un site gratuit?
+02/04/2024, 22:24 - Rochane: nolej.ai (possibilité d'avoir 2 cours gratuits, je pense)
+02/04/2024, 22:27 - Thierry VANOFFE: Y a pas une IA pour modérer un groupe WhatsApps ? Tu as besoin de plus de modérateur @33649535198 ? Bon courage avec les trolls...
+02/04/2024, 22:27 - +33 6 51 43 08 14: Coassemble ressemble beaucoup à ispring et intègre l'IA.  C'est un outil auteur. A tester pour voir s'il répond à ce que vous cherchez. <Ce message a été modifié>
+02/04/2024, 22:28 - +33 6 75 41 23 05: Quiz Wizard (avec wooflash et Wooclap)
+02/04/2024, 22:29 - Rochane: Bonne idée, si des personnes veulent bien avoir la modération, contactez moi en privé svp
+02/04/2024, 22:31 - +33 6 51 43 08 14: Est ce que ce sera enregistré ?
+02/04/2024, 22:31 - +33 6 79 52 83 80: Je vais tester merci !
+02/04/2024, 22:32 - +33 6 79 52 83 80: Je vais teste merci !
+02/04/2024, 22:40 - Rochane: Pour voir les Replays sur livestorm, il faut s'inscrire même si on y va pas 🙂
+02/04/2024, 23:04 - Letizia ALLEGRINI: Oui 😀

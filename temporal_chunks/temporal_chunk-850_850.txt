@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 15
+
+=== CONTENU ===
+29/08/2024, 18:44 - Pierrick BRIAND: Bravo Rochane, sacré travail dit donc !
+29/08/2024, 18:53 - Pierrick BRIAND: Encore une bonne nouvelle
+OpenAI vient de dévoiler "SearchGPT", son propre moteur de recherche expérimental.
+L’outil est capable de non seulement trouver des informations sur internet, mais aussi de les résumer de manière claire et concise, et même de répondre à vos questions supplémentaires sur le sujet !
+Bien sûr, il ne s'agit encore que d'un prototype, mais cela montre l'évolution rapide de ces technologies !
+Rendez-vous sur le site d’Open AI : https://openai.com/index/searchgpt-prototype/ <Ce message a été modifié>
+29/08/2024, 18:54 - Gregoire IA: Quelle est la différence avec Perplexity ? Innovation ou alignement techno
+OpenAi est coutumière du techwashing....je me méfie 👁️
+29/08/2024, 18:57 - Pierrick BRIAND: SearchGPT et Perplexity utilisent probablement différentes sources d'information pour alimenter leurs résultats de recherche. Cela pourrait conduire à des variations dans la diversité et la pertinence des informations fournies. À voir… <Ce message a été modifié>
+29/08/2024, 18:59 - +212 644-562660: C accessible désormais? Ou est ce qu'ils viennent de réannoncer le tool plutôt? Car ca fait des mois qu'ils annocer la sortie de searchgpt, ainsi que d'autres, mais on attend encore. Moi perso j attends tjs le mode avancé de la fonctionnalité vocale
+29/08/2024, 19:03 - Pierrick BRIAND: Pour l’instant, comme je l’ai indiqué dans mes messages, il s’agit d’une version d’essai. Ce n’est pas accessible au grand public.
+29/08/2024, 19:05 - Pierrick BRIAND: Encore une info
+Gemini Google a fait peau neuve avec les Gems (Advanced), des extensions qui viennent booster ses capacités !
+Les Gems peuvent même servir de coach virtuel, que ce soit pour le sport ou pour apprendre le marketing…
+Même si cela se rapproche beaucoup de ce que fait déjà ChatGPT, je trouve que l’agent conversationnel est assez pertinent pour l’avoir essayé aujourd’hui. <Ce message a été modifié>

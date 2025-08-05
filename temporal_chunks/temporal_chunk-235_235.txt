@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 19
+
+=== CONTENU ===
+29/02/2024, 16:54 - Rochane: Et si dans ton prompt, tu écris "en français"
+29/02/2024, 16:54 - Agathe: En fait je n'ai rien demandé, je fais juste ma description en français et l'appli génère mes slides en français
+29/02/2024, 16:54 - Agathe: et me parle en français aussi
+29/02/2024, 16:54 - Guillaume Singeot: oui ça doit être ça.
+29/02/2024, 16:56 - +32 479 58 54 12: Par contre, je ne trouve pas d'infos sur les tarifs de cet outil 🤔
+29/02/2024, 16:57 - Guillaume Singeot: une fois le compte crée, il te te propose "upgrade" c'est là que tu vois 5 ($ ou €?) pour supprimer la marque
+29/02/2024, 16:58 - Agathe: L'abonnement est de 5€ par mois et il est proposé par un pop up quand on valide un cours
+29/02/2024, 16:59 - Agathe: Je vois qu'ils proposent aussi un LMS... je vais aller y jeter un ocup d'œil ;)
+29/02/2024, 16:59 - +32 479 58 54 12: Pas vu 🤔. Peut-être car je l'ai testé sur smartphone?
+29/02/2024, 17:00 - +32 479 58 54 12: 5 €, c'est pour rien 🤪
+29/02/2024, 17:03 - Agathe: Petit bémol pour moi, l'entreprise semble être de droit Australien, donc pays hors UE et non considéré comme adéquat pour le RGPD.
+Donc outils auteur = pas de problème / LMS = warning sur les données personnelles collectées et le traçage des cours
+Mais je sors du sujet de ce fil donc je referme ma parenthèse ;)
+29/02/2024, 17:08 - Guillaume Singeot: Non, non, c'est bien le sujet : quels outils IA respectent le RGPD ? (coté LMS : as tu essayé https://www.edapp.com/ marche aussi sur pc)
+29/02/2024, 17:10 - Agathe: Si c'est OK pour parler RGPD vous n'allez plus me faire taire ! 😁
+Blague à part je cherche toujours un LMS à la fois performant, ergonomique et respectueux des données.
+Je regarde edapp :)
+29/02/2024, 17:12 - Rochane: Apolearn @33672091809
+29/02/2024, 17:16 - Guillaume Singeot: @33681609994 tu peux le tester ici (Pierrick en parlera mieux que moi!) Bonjour à tous, petite information concernant une formation entièrement gratuite qui a pour objectif de rassembler une communauté de formateurs autour du thème de l’intelligence artificielle. La formation est accessible ici : https://academy.apolearn.com/classroom/29444/

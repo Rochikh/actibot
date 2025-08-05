@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 14
+
+=== CONTENU ===
+25/09/2024, 16:04 - ‎+33 6 10 66 00 70 est parti·e
+25/09/2024, 16:52 - +33 6 70 02 97 35: Bonjour, j’ai une petite question s’il vous plaît. Si je crée un GPT avec ChatGPT-4 sans l’API, est-ce que je peux le partager avec des personnes qui n’ont pas la version payante ?
+25/09/2024, 16:54 - Fred IA: Bonjour. Oui mais ils seront limités en nombre d'utilisation (3 ou 4 sollicitations de mémoire)
+25/09/2024, 16:54 - Ahmadou Ba: oui les GPT sont accessibles pour les versions gratuites qui peuvent l'utiliser. Vous pouvez les deposer dans le store ou les partager à l'aide d'un lien.
+25/09/2024, 16:59 - Ahmadou Ba: qu'entendez vous par sollicitation de mémoire ?  Moi mes GPT sont accessibles, j'en avais créé pour mes élèves pour les aider à revisrr j'ai jamais eu de retour d'inaccessible. Je crois que le nombre de requêtes pour GPT 4o était de 15 par heure gratuitement et je crois c'est valable pour les GPT qui utilisent le même modèle
+25/09/2024, 17:03 - +33 6 70 02 97 35: <Médias omis>
+25/09/2024, 17:04 - Fred IA: Je reformule : si un utilisateur gratuit de chat gpt questionne un GPTs, il ne peut le faire qu'un nombre limité de fois ; et de mémoire, c'était assez peu (mais il faudrait retester pour avoir le nombre exact)
+25/09/2024, 17:10 - Ahmadou Ba: Testez ce lien pour voir si vous parvenez à y acceder, c'est que le problème se situe a votre niveau.
+https://chatgpt.com/g/g-Rt3ZQuBls-assistant-enseignant <Ce message a été modifié>
+25/09/2024, 17:10 - +33 6 70 02 97 35: Oui ça fonctionne
+25/09/2024, 17:10 - +33 6 70 02 97 35: <Médias omis>
+25/09/2024, 17:12 - Ahmadou Ba: Donc verifie la co figuration de votre GPT, cela doit être, un probléme a votre niveau si vous ne parvenez pas à acceder à votre GPT, mettez le à jour.
+25/09/2024, 17:13 - +33 6 70 02 97 35: Ok ☺️ merci
+25/09/2024, 17:14 - Ahmadou Ba: C'est un assistant pour concevoir des fiches pédagogiques pour l'élémentaire, il est entrain selon les curricula de l'education de base en vigueur au Sénégal, pour ceux qui voudrez le tester.

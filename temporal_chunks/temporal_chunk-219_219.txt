@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 15
+
+=== CONTENU ===
+19/02/2024, 16:28 - +689 87 78 58 86: Merci beaucoup, je vais lui envoyer un MP
+19/02/2024, 16:29 - Rochane: J'ai testé un gpt qui s'appelle my veilleuse et c'est pas mal mais je ne sais pas si tu  as accès aux réponses https://chat.openai.com/share/8edab277-6e26-4664-8d8c-af352fe9ad9a
+19/02/2024, 16:36 - Guillaume Singeot: https://www.impact-ai.fr/fr/ et en particulier https://www.impact-ai.fr/app/uploads/2021/06/IMPACTAI_-LIA-ET-LEDUCATION.pdf
+19/02/2024, 18:27 - ‎+33 6 29 17 18 95 a rejoint le groupe à partir de la communauté.
+19/02/2024, 18:52 - Pierrick BRIAND: Bonjour à tous, petite information concernant une formation entièrement gratuite qui a pour objectif de rassembler une communauté de formateurs autour du thème de l’intelligence artificielle. La formation est accessible ici : https://academy.apolearn.com/classroom/29444/
+20/02/2024, 09:55 - +33 6 22 14 03 93: Bonjour à tous,
+Est ce que quelqu’un peu m’expliquer comment faire une synthèse d’une video Youtube avec TchatGPT ?
+Merci : )
+20/02/2024, 09:58 - Rochane: Bonjour, si tu as chat gpt 4, tu peux aller sur le gpt ( à partir du store) video summarizer et mettre ton lien de ta vidéo. Si tu n'as pas chat gpt4, tu peux utiliser l'extension chrome NoteGpt( 15 résumés gratuits par mois)🙂
+20/02/2024, 11:09 - Jacques BARATTI: Ou l'extension Glasp sur chrome elle donne la transcription et le résumé de vidéos YouTube sans limites à ma connaissance
+20/02/2024, 11:19 - +212 644-562660: Bonjour à tous, J’aimerai bien un outil IA qui puisse organiser les idées d’un document quelconque en une carte mentale. Merci d’avance
+20/02/2024, 11:26 - +33 6 76 04 48 20: Mis à part le gain de temps, est-ce qu’un tel outil ne serait pas contreproductif en nous soustrayant la compréhension et l’analyse du document ?
+20/02/2024, 11:26 - +33 6 20 35 46 24: https://theresanaiforthat.com/s/carte+mentale/
+20/02/2024, 11:27 - +33 6 20 35 46 24: j'en aitesté aucune par contre <Ce message a été modifié>
+20/02/2024, 11:31 - +33 6 76 38 15 71: My lens fait frise chronologique et carte mentale

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 17
+
+=== CONTENU ===
+18/12/2024, 19:28 - +33 6 49 84 08 41: Moi j'enregistre la vidéo sur Teams, je récupère le texte via Stream et je le colle dans NotebookLM
+18/12/2024, 19:28 - +33 7 86 18 83 63: Copilot
+18/12/2024, 19:29 - +33 6 49 84 08 41: Très efficace
+18/12/2024, 19:57 - Sébastien Place: Microsoft Copilot 365
+18/12/2024, 20:01 - François JOURDE: Je ne sais plus quel coût de licence suppose Microsoft Copilot 365, mais dans un environement Education de Microsoft on peut aussi, comme cela a été évoqué, uploder l'enregistrement audio dans Word online qui se chargera de la transcription.
+18/12/2024, 20:16 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+18/12/2024, 20:45 - +33 6 25 79 50 95: Autre partage, une itw de Lucie Dhorne (intervenue également dans cette communauté et lors d'un live animé par Rochane)
+https://www.managementdelaformation.fr/interviews/2024/12/10/lucie-dhorne-meconnaissance-ia-formation/amp/
+18/12/2024, 20:55 - +33 6 25 79 50 95: Et à propos de l'étude de Statice citée dans l'article voici les résultats sous la forme d'une infographie claire.
+Cette étude aurait été réalisé avant l'été 2024 auprès de 9 OF croisant les réponses de 651 apprenants et 223 formateurs.
+https://www.canva.com/design/DAGQcvLzqVU/uRu_21R6wIseUAGhNyYGFg/view?utm_content=DAGQcvLzqVU#1
+18/12/2024, 20:57 - +33 6 25 79 50 95: A noter qu'un second volet d'étude sera publié (courant 2025 ?) sur les usages de l'IA en formation
+https://www.stratice.fr/la-grande-enquete-stratice-sur-les-usages-de-lia-en-formation/
+18/12/2024, 21:05 - +33 6 25 79 50 95: Et pour finir l'Office parlementaire d'évaluation des choix scientifiques et technologiques a publié un rapport : ChatGPT et après ? Bilan et perspectives de l'intelligence artificielle
+https://videos.senat.fr/video.4893460_67501cc7c4a7f.chatgpt-et-apres--le-futur-de-l-ia
+Rapport et synthèse téléchargeables ici
+https://www.assemblee-nationale.fr/dyn/17/organes/delegations-comites-offices/opecst/actualites/chatgpt-et-apres-bilan-et-perspectives-de-l-intelligence-artificielle

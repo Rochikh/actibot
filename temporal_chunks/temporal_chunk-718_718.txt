@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 13
+
+=== CONTENU ===
+13/07/2024, 14:36 - +33 7 63 58 01 55: Bonjour, question un peu hors sujet mais quand même un peu liée à l'IA : je cherche un outil (pas nécessairement d'IA) qui permet de guider une personne pour identifier les tâches qu'elle fait au quotidien dans son travail. L'idée étant de lister ces tâches de manière aussi précise et exhaustive que possible pour pouvoir ensuite voir là où des outils d'IA générative pourraient aider les personnes à effectuer leurs tâches.
+13/07/2024, 14:47 - Vincent DROUOT: Perso j’ai opté pour Airtable (l’Excel du futur) 😌
+13/07/2024, 14:55 - +32 479 94 80 38: Scribe (cemea)
+13/07/2024, 15:01 - Rochane: Vous avez supprimé ce message
+13/07/2024, 15:27 - +33 7 66 30 56 52: https://goblin.tools mais je crois que c’est seulement en anglais
+13/07/2024, 15:29 - +33 7 63 58 01 55: Ça me va, merci ☺️
+13/07/2024, 15:43 - Fred IA: Merci beaucoup, je vais tester 😀
+13/07/2024, 15:44 - Fred IA: Merci également ! À tester 👍
+13/07/2024, 21:26 - +33 6 07 82 01 91: <Médias omis>
+14/07/2024, 10:48 - Ludovic IA: Hello, j'ai une question à teneur éducative donc je me dis que je suis au bon endroit:) . Une amie à moi, dans le cadre de projets éducatifs autour du jeu qu'elle mène dans des établissements primaires, réalise des courtes vidéos montrant des enfants en train de jouer pour expliquer les grands principes de ces jeux. Elle utilise ces vidéos pour ces interventions avec des enseignants.
+Protection de l'enfant oblige, elle ne veut pas afficher les visages des enfants filmés et les remplace actuellement par des classiques smileys. On entend donc les enfants parler, mais derrière un smiley statique, ce qui n'est pas terrible.
+Connaîtriez-vous un outil IA qui serait capable sur une vidéo de détecter un visage en train de parler, de lui substituer un visage artificiel, de suivre les mouvements de l'enfant et que ce visage soit capable de formuler les mêmes phrases que l'enfant dont le visage est dissimulé ? Le tout automatiquement bien sûr.
+14/07/2024, 11:46 - Rochane: Peut être ?

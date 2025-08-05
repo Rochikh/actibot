@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 14
+
+=== CONTENU ===
+01/10/2024, 13:24 - +33 6 38 05 86 57: C'est une belle arnaque, lisez les commentaires en dessous du deal!
+https://www.dealabs.com/bons-plans/1minai-lifetime-subscription-chat-gpt-leonardo-ai-2871474
+01/10/2024, 14:39 - Jean-Marc Everard: Bon en fait j'ai souscrit à l'offre un peu "pour voir". Je ne dirais pas que c'est une arnaque parce qu'il y a effectivement moyen de générer simultanément images, posts etc. sur différents LLM's. Ce qui est vrai c'est que 1 million de tokens par mois c'est très faible car si on génère des images ou vidéos ça va vite. Perso j'ai pris 2 millions de tokens par mois et ça me permet par exemple de tester les réponses de différents modèles en même temps. On "gagne" aussi 15K token chaque fois qu'on se reconnecte. Mais bon, c'est vraiment pour une entrée en matière. Si vous avez déjà des abonnements sur chat GPT au autre, ce ne sera pas d'une grande utilité. <Ce message a été modifié>
+01/10/2024, 14:38 - ‎+33 6 74 63 07 39 a demandé à rejoindre le groupe.
+01/10/2024, 14:44 - Jean-Marc Everard: mon commentaire plus bas Pierrick car j'ai souscrit à l'offre depuis environ 2 semaines...
+01/10/2024, 15:07 - ‎+33 6 74 63 07 39 a rejoint le groupe à partir de la communauté.
+01/10/2024, 15:19 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 47 70 40 52.
+01/10/2024, 15:51 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 59 35 23 38.
+01/10/2024, 15:52 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 37 53 53 37.
+01/10/2024, 15:52 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 27 55 60 41.
+01/10/2024, 15:53 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 21 01 62 15.
+01/10/2024, 15:54 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 7 50 49 43 75.
+01/10/2024, 16:27 - +33 6 15 79 19 04: Bonjour. La fonction podcast de notebooklm est vraiment intéressante et puissante je trouve. Le fait qu'elle soit disponible qu'en anglais pour l'instant, avez-vous trouvé une astuce pour avoir le rendu traduit en français ?
+01/10/2024, 16:36 - Rochane: Pdftoaudio sur huggingface mais qualité moindre

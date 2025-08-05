@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+17/06/2024, 21:08 - Vincent DROUOT: @33620971883 Oui en effet il y a des prompts très bien pensés, réalisés par ce couple d’Universitaire.
+Je remets le lien ci-dessous.
+Je les ai testés en demandant simplement de répondre en français, et c’est une magnifique ressource :
+17/06/2024, 21:08 - Vincent DROUOT: https://www.moreusefulthings.com/prompts
+17/06/2024, 21:10 - Rochane: Dans le scénario que j'ai mis en haut, il y a justement une activité où on leur demande, par groupes, de choisir un sujet et de comparer 3 prompts différents: 1 prompt simple ( à la moteur de recherche), 1 autre plus élaboré avec RCT et 1 dernier avec RCT+ questions sur le contexte avant qu'il réponde+ éventuellement un exemple. La différence entre les outputs est criante et ils en prennent conscience 🙂 <Ce message a été modifié>
+18/06/2024, 05:53 - Votre code de sécurité avec +33 7 71 11 68 32 a changé. Appuyez pour en savoir plus.
+18/06/2024, 08:14 - Vincent DROUOT: Pour les férus de RAG et qui veulent en plus éliminer 80% des réponses non appropriées (il en reste toujours encore beaucoup malgré un RAG), il y a Pongo :
+18/06/2024, 08:14 - Vincent DROUOT: https://www.joinpongo.com/
+18/06/2024, 10:16 - Francois Bocquet: Tout depend des objectifs de la séance :
+1- comment ça fonctionnent les IA ?
+2- comment on l’utilise les IA ?
+3- quelles conséquences +et - de l’utilisation des IA
+Ça fait 3 sujets bien différents (parallèle avec la voiture : comment fonctionne un turbo ou une boîte de vitesse, comment on conduit, comment on respecte le code de la route). Sinon il y a des pistes dans ce document sur l’éducation à l’éthique https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit y compris avec Teachable Machine
+18/06/2024, 10:43 - zp: un prof avait fait l'exercice à l'envers cad il avait présenté un résultat ( dessin, video, text...) et il avait demandé que l'on trouver les prompts pour aboutir à ce résultat.. j'ai trouvé cela intéressant... après qu'est ce que cela veut dire '' une formation IA? on peut donner plusieurs réponses...

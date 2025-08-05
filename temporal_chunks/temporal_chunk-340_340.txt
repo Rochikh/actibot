@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 15
+
+=== CONTENU ===
+27/03/2024, 19:49 - +33 6 30 37 99 76: On ne sait vraiment plus où donner de la tête tellement ça avance vite... 😁😁
+27/03/2024, 20:12 - Rochane: Ce qui est cool, c'est que avec le lien de AI studio Google et un vpn us, on peut faire les mêmes tests gratuitement
+27/03/2024, 22:24 - ‎+966 55 562 1488 a rejoint le groupe à partir de la communauté.
+27/03/2024, 22:24 - +966 55 562 1488: null
+28/03/2024, 06:22 - Votre code de sécurité avec ~ Youssef a changé. Appuyez pour en savoir plus.
+28/03/2024, 08:16 - ‎+33 6 09 56 84 42 a rejoint le groupe à partir de la communauté.
+28/03/2024, 13:58 - +31 6 86390930: null
+28/03/2024, 19:22 - ‎+966 55 562 1488 est parti·e
+29/03/2024, 05:46 - ‎+687 86.70.96 a été remplacé par +33 6 76 46 38 05
+29/03/2024, 07:58 - Rochane: Une intelligence artificielle qui réagit aux émotions et qui peut parler de vive voix a été développée par la startup Hume. Cette IA, appelée Evi, intègre une intelligence émotionnelle qui lui permet de détecter les émotions de son interlocuteur et d'y répondre de manière adaptée [[1]](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/).
+Evi utilise la reconnaissance et la synthèse vocale pour tenir des conversations naturelles à l'oral. Elle est capable d'analyser les émotions dans la voix de son interlocuteur et d'adapter sa réponse en conséquence, en utilisant un ton similaire [[1]](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/).
+Cependant, il est important de noter que cette technologie est encore limitée à l'anglais pour le moment [[1]](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/).
+---
+Learn more:
+1. [Bluffant : cette intelligence artificielle parle de vive voix et réagit à vos émotions](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/)

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 11
+
+=== CONTENU ===
+09/02/2024, 08:24 - Jean-Marc Everard: Merci déjà pour ces infos sur Gemini, je vais tester aujourd’hui. C’est vrai que jusque là j’étais moyennement convaincu mais s’il y a du changement c’est p-e bien. Il ne faut pas oublier que petit à petit on va être victime de biais cognitifs comme ceux de familiarité et de confirmation qui vont nous faire préférer ce qu’on maîtrise déjà…
+09/02/2024, 08:26 - Guillaume CLEMENT: C'est un risque @32496968742
+09/02/2024, 08:44 - Ahmadou Ba: Je suis d'avis, je l'ai tester hier, il est bon et en plus il permet d'insérer des images et des fichiers dans le prompt. Mais également constater que les liens des sites fournis ne sont pas toujours bons.
+09/02/2024, 09:04 - Thierry VANOFFE: normal il a testé en français et le service arrive en France dans moins d'un mois, faut utiliser la version anglaise pour voir le vrai potentiel, en tout cas c'est au niveau de chat GPT 4 pour info à ce jour...
+09/02/2024, 10:25 - ‎+33 6 45 48 92 22 a rejoint le groupe à partir de la communauté.
+09/02/2024, 14:39 - ‎+33 6 32 89 07 43 a rejoint le groupe à partir de la communauté.
+09/02/2024, 17:57 - Rochane: J'ai appris un truc dans un Mooc, à mettre dans les Custom Instructions qui permet de générer un lien pour préparer le mail à être envoyé à partir de son client messagerie, sauf que chez moi le lien hypertexte n'est pas cliquable. Quelqu'un peut tester "Whenever I ask you to create an email, also add a mailto link under it with:[Send Email](mailto:[email-address]?[subject]=[subject-text]&[body]=[body-text])"
+09/02/2024, 18:11 - Rochane: 🤣 https://kulturegeek.fr/news-304518/insolite-utilise-chatgpt-discuter-plus-5000-femmes-tinder-ca-marche
+10/02/2024, 13:21 - +33 6 86 72 33 98: Bonjour, connaissez-vous une IA pour élaborer des CV? Merci pour ce groupe et pour les partages et la générosité de tous ses membres! 🙏
+10/02/2024, 13:24 - +33 6 86 72 33 98: Jusqu'à présent, j'utilise Canva mais peut être y en a t'il d'autres?
+10/02/2024, 13:33 - Rochane: https://resumake.io/generator/skills

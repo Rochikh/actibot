@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 16
+
+=== CONTENU ===
+31/10/2023, 22:34 - Rochane: Ben ouais, ça m'arrive souvent après 3 heures d'usage
+31/10/2023, 22:43 - Lucie: Sauf que là j'ai commencé il y a 20 min.
+31/10/2023, 22:44 - Lucie: et ça ne m'étais jamais arrivée cette temporisation
+01/11/2023, 09:43 - Jean-Marc Everard: Très bon titre !
+01/11/2023, 10:04 - +33 6 16 19 22 64: https://www.linkedin.com/pulse/google-dropped-game-changing-feature-revolutionary-chatgpt-nouri-ip4uc?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
+01/11/2023, 11:39 - Ahmadou Ba: Bonjour,
+Finalement qu'est ce que l'on retient: la Digipad ou le Padlet pour ajouter les ressources qu'on a envi de partager. Ou bien doit-on publier dans les deux murs
+01/11/2023, 12:55 - Luc deleplanque: Bonjour ... oui la question n'est pas tranchée... le sondage n'a pas beaucoup de votant et reste équilibré... Mais c'est surtout une question encore ouverte car nous n'avons pas encore finalisé la procédure et les outils pour permettre une véritable capitalisation des échanges et avoir une recherche et un accès rapide aux éléments récoltés. Je pense revenir avec un questionnaire plus précis et complet qui nous permettra d'avancer sans devoir recommencer ... 😉 Merci pour cette relance @221774242616 Ahmadou
+01/11/2023, 13:03 - Ahmadou Ba: Merci, j'ai ajouté une ressource : l'outil Forefront qui permet d'accéder à Claude et ChatGPT et même de créer son propre assistant virtuel.
+Padlet n'est pas gratuit mais a le mérite d'avoir une application sur smartphone, la Digipad offre toutes ses fonctionnalités et est gratuit.
+01/11/2023, 13:06 - +33 7 85 94 69 69: Forefront il marche pas
+01/11/2023, 13:09 - Ahmadou Ba: <Médias omis>
+01/11/2023, 13:10 - Ahmadou Ba: Essayez ce lien encore pour voir: https://www.forefront.ai/app/chat/new
+01/11/2023, 13:26 - +32 479 44 06 71: Est-ce que j'aurai la chance de rencontrer certains à Ludovia Belgique ?
+01/11/2023, 13:28 - +32 484 68 10 13: Moi 🤣🤣🤣
+01/11/2023, 13:32 - Rochane: Vous nous ferez un compte rendu si vous voulez bien et notamment sur la partie IA 🙂

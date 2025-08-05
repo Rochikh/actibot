@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 22
+
+=== CONTENU ===
+Adrien : Copilot, ton nouveau collègue virtuel
+Christian : ChatGPT-O1 pour tous les élèves (promis, pas de triche aux exams)
+Lucie : Un plan comptable version prompt
+Grégoire : Les IA génératives, tes nouvelles assistantes de production vidéo
+Thierry : Coder c'est bien, décoder c'est mieux !
+Prépare ton cerveau et ta bonne humeur, on va faire chauffer les neurones et décoder la matrice ensemble !
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+13/10/2024, 10:08 - Vous avez épinglé un message
+13/10/2024, 10:13 - Rochane: Mise à jour du bot actibot.carrd.co
+13/10/2024, 10:13 - ‎+33 6 29 57 01 12 a demandé à rejoindre le groupe.
+13/10/2024, 10:20 - ‎+33 6 73 95 20 81 a demandé à rejoindre le groupe.
+13/10/2024, 10:29 - ‎+33 6 73 95 20 81 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 10:29 - ‎+33 6 29 57 01 12 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 12:05 - Fred IA: <Médias omis>
+13/10/2024, 12:09 - Zaragoza JUAN JOSÉ IA: Merci, beaucoup de débat dans le milieu scolaire, éducatif ... Bel outil
+13/10/2024, 12:20 - Zaragoza JUAN JOSÉ IA: ZARSCIENCES: https://www.youtube.com/playlist?list=PLuVhlp7Hw8bo0MG4-caVIdsIOKn6Qka79
+13/10/2024, 12:20 - Rochane: Explique stp l'intérêt de cette chaîne 🙂
+13/10/2024, 12:25 - Zaragoza JUAN JOSÉ IA: Bonjour ... Avec des collègues enseignants, on écrit de petites histoires , pour introduire  certains chapitres des cours de sciences. On crée des leçons types, avec questionnaires à l'appui. Certains élèves se joignent aussi à l'aventure ... Ludique et expérimental. Écrire des histoires pour introduire des concepts scientifiques peut vraiment captiver l'intérêt des élèves.
+13/10/2024, 12:25 - Zaragoza JUAN JOSÉ IA: En utilisant divers outils numériques
+13/10/2024, 12:29 - Zaragoza JUAN JOSÉ IA: Enseignement secondaire
+13/10/2024, 12:41 - Zaragoza JUAN JOSÉ IA: Et aussi d'autres textes, pour d'autres matières ( poésies en français, textes d'introduction philosophie  ... ).

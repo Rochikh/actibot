@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 567
+Messages: 15
+
+=== CONTENU ===
+03/11/2023, 11:01 - Jacques BARATTI: <Médias omis>
+03/11/2023, 11:04 - Ahmadou Ba: Je dois le tester ce magic shool.
+03/11/2023, 11:14 - Lucie: Oui c'est la ressource que je vous ai transmise en visio cette semaine sur le résumé de son cours Coursera
+03/11/2023, 11:14 - Lucie: Ça ne m'inspire pas
+03/11/2023, 16:08 - Rochane: L'article discute l'intégration de l'IA comme ChatGPT dans les salles de classe et son impact sur l'intégrité académique. Il souligne des questions clés comme la définition de la triche, l'ajustement des pratiques pédagogiques traditionnelles, et comment préparer les élèves à un avenir avec l'IA. Il propose également une réflexion sur l'utilisation responsable de l'IA pour améliorer l'apprentissage, tout en soulignant la nécessité d'attendre les directives officielles avant d'intégrer l'IA dans les salles de classe québécoises
+https://ecolebranchee.com/ia-en-classe-qu-est-ce-qui-est-de-la-triche-qu-est-ce-qui-est-correct/
+03/11/2023, 17:04 - +32 498 78 46 36: Plusieurs sources disent que la prochaine màj de chatgpt+ aura la fonction "My GPT" qui permettra de créer et personnaliser plusieurs agents conversationnels en parallèle mais aussi de les partager... Sans besoin de passer par un plugin.
+https://x.com/DataChaz/status/1720166003160580176?t=xqDepLfp4QVHrYPC6VO9ew&s=08
+03/11/2023, 17:50 - +33 7 71 20 50 67: https://youtu.be/VTJMOtnq-tA?si=ulqoAQaBOBgFIhg7
+03/11/2023, 17:53 - +41 79 276 46 84: 99.- le livre réalisé en 10 minutes avec des IA ? ^^
+03/11/2023, 17:55 - Rochane: Pour les bonnes pratiques du groupe et de la communauté, ce serait bien de donner un petit résumé ou aperçu des liens que l'on partage 🙂
+03/11/2023, 18:19 - Ahmadou Ba: <Médias omis>
+03/11/2023, 18:20 - Ahmadou Ba: Qui a des tutos sur Airtable des trucs brf qui puisse m'aider à une prise en main rapide de l'Outil.
+03/11/2023, 18:29 - +33 7 71 20 50 67: null
+03/11/2023, 18:30 - Luc deleplanque: Mieux qu’un tuto… demande à Gpt d’évaluer ton niveau/besoin sur les BdD en général et AirTable en particulier… puis il te fera un plan d’approche de l’outil avec les procédures dont tu as besoin pour ta création … avec 2 ou 3 vidéos sur YouTube… dans 3 heures, tu seras opérationnel 😉 et tu as déjà une très bonne vidéo ci plus haut 😃

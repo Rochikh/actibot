@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 23
+
+=== CONTENU ===
+L'exemple du L33t sp34k est plutôt amusant, mais pas vraiment une hallucination, c'est vrai, juste du délire total 😀.
+02/04/2025, 22:02 - +33 6 50 00 76 38: Hello, je ne connais pas, tu pourrais expliquer ? 😊
+02/04/2025, 22:02 - +33 6 52 73 73 42: Merci ! 🙏
+02/04/2025, 22:03 - +33 6 52 73 73 42: @Cathy : ta question est pour ?
+02/04/2025, 22:04 - +33 6 50 00 76 38: Désolée pour l’hallucination dont tu parles avec le nombre de r dans strawberry
+02/04/2025, 22:09 - +33 6 52 73 73 42: Demande à une IA combien de lettres "r" sont comprises dans le mot strawberry … tu verras !
+02/04/2025, 22:15 - StéphaneIA: What is bigger 9.11 or 9.9?
+02/04/2025, 22:15 - StéphaneIA: Généralement ça marche
+02/04/2025, 22:18 - +33 6 52 73 73 42: ... sauf chez Mistral (lorsque la question est posée en Français)
+02/04/2025, 22:19 - +33 6 52 73 73 42: <Médias omis>
+02/04/2025, 22:19 - +33 6 52 73 73 42: @Cathy : alors ?!
+02/04/2025, 22:22 - +33 6 71 11 12 91: Là c'est triché ! En anglais c'est 9.9 et en français c'est 9.09 ! 😀
+02/04/2025, 22:23 - +33 6 52 73 73 42: Ah m*rde !! (voilà un bon exemple de rédaction de prompt ! 😅)
+02/04/2025, 22:24 - +33 6 52 73 73 42: C'est mieux en effet !
+02/04/2025, 22:24 - +33 6 52 73 73 42: <Médias omis>
+02/04/2025, 22:27 - +33 6 50 00 76 38: Ben .. « Le mot “strawberry” contient 3 lettres “r”. »
+02/04/2025, 22:29 - +33 6 50 00 76 38: Non plus ça marche pas.. 🤪
+02/04/2025, 22:32 - +33 6 52 73 73 42: <Médias omis>
+02/04/2025, 22:33 - +33 6 50 00 76 38: Quel modèle?
+02/04/2025, 22:33 - +33 6 52 73 73 42: Celui sans compte
+02/04/2025, 22:34 - +33 6 50 00 76 38: Pas d’hallucination avec ChatGPT plus version 4o 😉
+02/04/2025, 22:38 - +33 6 52 73 73 42: Je me doute bien mais je cherche des hallucinations faciles à "montrer"
+02/04/2025, 22:43 - +33 6 50 00 76 38: As tu interrogé une ia sur les hallucinations d’une autre ia? Je n’ai pas vérifié, mais par ex demander à ChatGPT de te donner des exemples de prompts qui génèrent des hallucinations chez mistral .. tu en penses quoi? <Ce message a été modifié>

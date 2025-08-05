@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 14
+
+=== CONTENU ===
+14/02/2024, 19:31 - +32 479 44 06 71: Comme toi 😉
+14/02/2024, 19:36 - +32 484 68 10 13: Hoooo je te renvoie le compliment 🥰
+15/02/2024, 06:36 - +689 89 60 06 24: Un thread twitter/X sur la création de CV <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Pas besoin de PAYER pour les créateurs de CV.<br><br>ChatGPT peut créer un CV instantanément.<br><br>Je vais vous montrer comment faire en 4 étapes (100% gratuites) :</p>&mdash; Alex Noubeyou (@AlexNoubeyou) <a href="https://twitter.com/AlexNoubeyou/status/1757492390976266689?ref_src=twsrc%5Etfw">February 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+15/02/2024, 07:10 - Rochane: Merci pour le partage Fabrice, notre ami François Boquet l'a partagé juste au dessus 🙂
+15/02/2024, 07:28 - Lucie: Je reposte ce message ici. Je vous prie de faire attention aux effets d'annonce. Pour être plus claire : cet outil ne fait pas mieux qu'un bon prompt sur GPT. A moins que vous souhaitiez payer pour un CV au design des années 90. L'usage est intéressant, l'outil pas du tout <Ce message a été modifié>
+15/02/2024, 07:30 - +689 89 60 06 24: Ah, désolé du doublon. C’est d’ailleurs par son retweet que je l’ai découvert
+15/02/2024, 09:39 - +33 6 20 35 46 24: Bonjour est ce que qu’un ici utilise Poe.com dans sa version payante et savez-vous si cela permet d’utiliser toutes les fonctionnalités et api de chat gpt 4 ?
+15/02/2024, 09:41 - Rochane: Je suis en train de tester perplexity qui fait tout ça 🙂
+15/02/2024, 09:42 - +33 6 20 35 46 24: Je suis très intéressé par ton retour du coup
+15/02/2024, 09:52 - Rochane: https://youtu.be/M4R7IjUounI?feature=shared
+15/02/2024, 09:52 - +33 6 20 35 46 24: excellent je suis justement en train de la regarder7
+15/02/2024, 09:59 - +34 618 97 47 94: Bonjour à tous,
+Merci pour tout ces partages, c’est intéressant de voir comment et quels outils vous utilisez le plus.
+Je m’appelle Gaëlle Collas, expatriée à Barcelone, je vais donner une formation sur l’intégration de l’IA dans l’éducation du 18 au 22 mars à Barcelone.

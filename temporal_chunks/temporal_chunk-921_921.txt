@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 10
+
+=== CONTENU ===
+11/09/2024, 17:41 - +33 6 85 03 31 84: 100% d’accord, vue la qualité de certains outils !!
+C’était juste pour info
+11/09/2024, 17:43 - Rochane: Merci pour cette réflexion et on n'a pas manqué de le dire lors du dernier live. Parlons des *usages avant les outils et partageons les pratiques et les valeurs ajoutées pédagogiques.* On est tous d'accord que l'outil est juste au service de la pédagogie mais attention à condition que cette dernière change 🙂 <Ce message a été modifié>
+11/09/2024, 17:45 - Gregoire IA: tout à fait, gros travail de gestion du changement et je me fais reprocher cette approche pas plusieurs...enseignants qui veulent tout de suite savoir COMMENT sans avoir identifier le QUOI et encore moins le POURQUOI
+11/09/2024, 17:45 - Ahmadou Ba: Avec plaisir, je rédige un mémoire sur l'adoption des TE axée sur l'usage de l'IA par les enseignants. Mais les premiers résultats sont tous dans cette direction. L'IA c une sorte de couteau suisse pour eux. J'aimerais continuer à creuser le sujet. Oui discuter de ça me plairai bien.
+11/09/2024, 17:47 - Rochane: Je vous partage un article que j'ai rédigé sur ce sujet
+https://www.innovation-pedagogique.fr/article11255.html
+11/09/2024, 17:47 - +212 644-562660: Ben que dire du open source alors? Tout n'est pas que du Saas vous savez
+11/09/2024, 17:48 - Gregoire IA: Merci bcp, je vais lire ca dès que possible
+11/09/2024, 17:51 - +33 6 58 05 52 13: Bonjour à  tous, ayant besoin de travailler  avec les formateurs sur les progressions pédagogiques ...avec peu de temps alloué à  ce travail j ai cherché une IA qui pouvait nous faire gagner du temps . Finalement je suis entrain de tester DIFFIT qui semble répondre à plusieurs exigences : indications de sources par rapport au contenu proposé et possibilité de vérifier et modifier le contenu généré , gain de temps, plusieurs niveaux  scolaires en possibilité, activités générées facilement  avec des templates intégrés. Le seul hic  est la difficulté à modifier les titres anglais en français , peut être lié  à  la version d essai... Si certains d entre vous avez travaillé avec cet IA , tous vos retours sont les bienvenus 🙏

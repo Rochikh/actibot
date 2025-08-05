@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 14
+
+=== CONTENU ===
+06/03/2025, 22:35 - Laurent The Cure: je suis en cours d'élaboration de mon SPD
+06/03/2025, 22:36 - Gregoire IA: H5p est une bonne alternative si on ne veut pas aller avec des logiciels auteurais attention pour le suivi des apprentissages. C'est assez faible. Pour ça que je préfère rester avez Test... Moins beau mais tellement plus aidant pour le.suivi des traces d'apprentissage
+06/03/2025, 22:37 - +33 6 42 26 64 70: H5P pour le côté sexy et intégrable dans les pages, et Test pour le sommatif
+06/03/2025, 22:38 - Gregoire IA: Il faut vérifier si vous avez besoin de gérer des groupes de travail. Certaines versions de Moodle ont maintenant besoin  d'installer le plugin pour créer les groupes
+06/03/2025, 22:38 - +33 6 42 26 64 70: Ne pas non plus passer à côté des open badges qui fonctionnent très bien pour la valorisation et motivation
+06/03/2025, 22:39 - Gregoire IA: H5P fait 100% de ce que 90% des utilisateurs d'articulate font 🫢😅
+06/03/2025, 22:39 - +33 6 42 26 64 70: Plugin choix de groupe pas mal aussi pour laisser la liberté aux utilisateurs de faire eux même leur groupe
+06/03/2025, 22:40 - ‎+33 6 70 48 42 75 a demandé à ajouter +33 6 20 37 24 33.
+06/03/2025, 22:40 - +33 6 42 26 64 70: « choix de groupe »
+06/03/2025, 22:41 - +33 6 42 26 64 70: Et si moins de 50 utilisateurs, vous pourrez utiliser l’application Moodle gratuitement qui s’est beaucoup améliorée ces dernières années
+06/03/2025, 22:41 - Gregoire IA: Mon chouchou serait : progression, l'apprenant voit ce qui est attendu de lui et pour quand
+Le prof lui voit qui a fait quoi bcp plus simplement qu'avec les rapports Moodle
+06/03/2025, 22:42 - Laurent The Cure: je suis bien conscient que mon premier Moodle ne sera pas parfait et complet (comme n'a pas été parfait mon premier site wordpress… je me suis amélioré ensuite).  Pour rappel il s'agit d'une "simulation" d'une demande, d'où ma méconnaissance du nombre de participants par exemple. MAis j'ai l'avantage de faire ce que je veux
+06/03/2025, 22:42 - +33 6 42 26 64 70: Plus efficace pour ce qui est de l’utilisation via mobile et évite la connexion à chaque utilisation ainsi que les notifications

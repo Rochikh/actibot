@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 18
+
+=== CONTENU ===
+Il a fait une formation à ce sujet (je n'ai plus le prix en tête, mais c'était très peu cher).
+Je ne retrouve pas où est la formation, mais si intéressé·e, vous pouvez lui demander ( https://www.linkedin.com/in/benoitraphael/ )
+03/03/2025, 05:53 - Rochane: 49 euros
+03/03/2025, 08:17 - +33 7 87 35 78 96: <Médias omis>
+03/03/2025, 08:18 - +33 7 87 35 78 96: Voilà la source https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/
+03/03/2025, 08:37 - +41 76 372 28 94: Même pas vrai ! Dans mon gestionnaire de mot de passe j’ai plus d’un millier de sites enregistrés, sans compter les 400 apps android, les 400 apps iOS et les logiciels que j’utilise sur mes ordis. Ça fait beaucoup beaucoup plus que ceux qui sont listés ici ! 😭 <Ce message a été modifié>
+03/03/2025, 08:46 - +33 6 34 15 77 84: ah ok merci
+03/03/2025, 09:10 - Seb from Wooclap: Suite à la visio de jeudi dernier
+Pour ceux qui sont intéressés d'être beta testeur des nouvelles fonctionnalités IA de Wooclap, n'hésitez pas à vous inscrire ici
+https://sites.google.com/wooclap.com/wooagentslab?usp=sharing
+03/03/2025, 09:14 - StéphaneIA: Gemini il a une grosse fenêtre en entrée mais an sortie ça reste 8000 tokens. C'est pour cela qu'il est très bon pour intégrer une grosse quantité de donnée et ensuite répondre aux questions, faire des résumés etc...
+03/03/2025, 09:30 - +33 6 34 15 77 84: merci
+03/03/2025, 11:48 - ‎~ Marie-Edith est parti·e
+03/03/2025, 17:06 - +33 6 43 60 12 59: <Médias omis>
+03/03/2025, 17:06 - +33 6 43 60 12 59: Est-ce que passer à la version payante va me permettre de lever cet obstacle ? Je n'arrive pas à comprendre sur le site de Claude...
+03/03/2025, 17:07 - +32 483 60 53 96: Oui en partie
+03/03/2025, 17:08 - +32 483 60 53 96: Quand tu crees un document ecrit par exemple ca cree un artefact de texte par exemple ; et plus tu prompts, plus tu peux ajouter des parties dans le meme "artefact" Je fais ca tres souvent
+03/03/2025, 17:08 - +32 483 60 53 96: Moi je nai pas de probleme de limites

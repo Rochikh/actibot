@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 16
+
+=== CONTENU ===
+13/11/2024, 09:16 - +33 6 59 35 23 38: Très bonne journée
+13/11/2024, 09:16 - +32 479 82 01 20: Avec plaisir
+13/11/2024, 09:17 - +32 479 82 01 20: A toi aussi Rémi 🙌
+13/11/2024, 09:17 - +33 6 24 10 13 66: Hello à tous, de passage au salon Educatec aujourd'hui, des stands / confs à recommander en lien avec l'IA et l'enseignement supérieur ? :)) belle journée à tous !
+13/11/2024, 09:41 - Rochane: Hello, j'assiste à un colloque sur l'enseignement des langues avec l'IA et les 70 participant·e·s sont francophones et anglophones. Je suis impressionné par la traduction en temps réel par une IA. Elle se fait dans les deux langues textuellement à l'écran MAIS aussi par audio en installant juste une app et en rentrant un code. Franchement bluffé par la qualité. On a de la chance que @33687100167 , le directeur de l'organisation est dans la communauté. Je vous partagerai les informations sur ce dispositif qui peut intéresser du monde 🙂
+13/11/2024, 09:42 - +33 6 88 57 53 04: Bonjour Rémi
+Une collègue d'anglais m'a montré quelque chose du genre élaboré (en 3 clics et un prompt très sommaire) avec Mizou.
+Le retour est intéressant sur la prononciation notamment. Je positionnement par rapport au cecrl est également donné à l'issue de l'échange. D'après ma collègue, c'est légèrement sur évalué.
+L'étudiant n'a pas besoin de créer de compte et doit "juste" mettre un pseudo qu'il choisit.
+Cela reste un usage non conforme au rgpd il me semble.
+La console prof permet de réécouter les productions orales de chaque participant
+13/11/2024, 09:44 - +33 6 59 35 23 38: Merci beaucoup Simon. J'irai y jeter un œil.
+13/11/2024, 09:56 - ‎+32 496 96 12 10 est parti·e
+13/11/2024, 09:59 - +221 76 598 97 25: super alors
+13/11/2024, 10:01 - +221 76 598 97 25: je pense a comment intégrer l'IA dans l'évaluation des enseignants apprentissages dans la formation professionnelle dans des métiers comme mécanique auto. que me suggérez vous?
+13/11/2024, 10:01 - +221 76 598 97 25: aussi ya tu une IA très pratique pour créer du contenu vidéo court en open source

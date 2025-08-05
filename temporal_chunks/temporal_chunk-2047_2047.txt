@@ -1,0 +1,41 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 33
+
+=== CONTENU ===
+03/04/2025, 11:35 - Rochane: Non non et soit le qrcode soit ce lien
+https://chat.whatsapp.com/Bpy9TORsbJ3LMKL4y6nBkj
+03/04/2025, 11:36 - +33 6 19 89 32 62: Merci
+03/04/2025, 14:05 - +33 6 50 00 76 38: Tu me diras?
+03/04/2025, 15:40 - +33 6 50 00 76 38: Hello tout le monde, je viens de rejoindre le groupe, merci Rochane pour l’invitation!
+J’aimerais mieux comprendre vos expériences et usages. Voici quelques questions pour celles et ceux qui ont envie de partager.
+Et pour faciliter la lecture et les réponses, je propose cette petite structure (n'hésitez pas à copier/coller) :
+1️⃣ Quel(s) modèle(s) d'IA utilisez-vous principalement ? (ChatGPT, Claude, Gemini, Midjourney, etc.)
+2️⃣ Changez-vous de modèle selon vos besoins spécifiques ? Si oui, dans quels cas ?
+3️⃣ Vos cas d'usage principaux (pro/perso) ?
+4️⃣ Votre domaine d'activité/métier ?
+5️⃣ Des retours ou astuces à partager sur d'autres IA génératives ?
+Merci à tous!
+Cathy
+03/04/2025, 15:45 - +1 (514) 791-7916: Tu peux faire un Poll ici aussi
+03/04/2025, 15:45 - +1 (514) 791-7916: <Médias omis>
+03/04/2025, 15:55 - +33 6 50 00 76 38: Bonne idée, ce soir alors car pas le temps maintenant.
+03/04/2025, 15:56 - Rochane: Je commence à te répondre 😏
+1️⃣ Quel(s) modèle(s) d'IA utilisez-vous principalement ? (ChatGPT, Claude, Gemini, Midjourney, etc.)
+J'ai beaucoup de LLM car j'aime bien tester
+Chat GPT Plus
+Claude Pro
+Mistral pro ( merci Free abonnement 1 an gratuit)
+You.com avec tous les modèles ( abonnement gratuit 1 an)
+Gemini pro ( lié à mon compte Google workspace)
+Et notebook lm pour le RAG
+En gros, je ne paye que Chat Gpt et Claude
+J'avais midjournay mais j'ai arrêté
+Et j'ai replit.com pour le vibcoding
+2️⃣ Changez-vous de modèle selon vos besoins spécifiques ? Si oui, dans quels cas ?
+En gros, pour la rédaction et les projets qui ne nécessitent pas Internet : Claude
+Pour la recherche approfondie : Deepseek, Claude et Chat gpt + maintenant Gemini 2.5 pro
+3️⃣ Vos cas d'usage principaux (pro/perso) ?

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 596
+Messages: 11
+
+=== CONTENU ===
+16/05/2024, 16:49 - ‎+33 6 49 25 14 53 a rejoint le groupe à partir de la communauté.
+16/05/2024, 17:03 - Fabien IA: Avec plaisir @33699361169 merci pour ton message
+16/05/2024, 17:14 - Guillaume Singeot: PDF interactif avec une Table des Matières afin de mieux appréhender le texte final du Règlement européen sur l’IA; Il est noté dans le descriptif "Notre pdf est destiné à devenir un outil particulièrement utile pour tous les praticiens et les passionnés de la réglementation européenne sur l’IA.". Cependant, ça ne me parait ni pratique ni passionnant ...😜 https://ai-regulation.com/ai-act-en-francais-avec-table-des-matieres-interactive/
+16/05/2024, 18:39 - +33 6 19 29 82 01: Non RGPD
+16/05/2024, 20:17 - Francois Bocquet: Ben si ! Ça nécessite d’avoir inscrit le traitement au registre et d’avoir signé les contrats adéquats tout comme avec Office 365 Éducation. On parle bien ici de l’utilisation d’un domaine Éducation valide par le chef d’établissement et inscrit au registre des traitements de celui ci.
+16/05/2024, 20:17 - Francois Bocquet: C’est d’ailleurs tout l’avantage d’utiliser Workspace ou O365 en établissement scolaire ou en centre de formation.
+16/05/2024, 20:32 - Ahmed Yagoubu: Je souhaiterais savoir comment digitaliser une formation ?
+16/05/2024, 21:24 - Jacques BARATTI: pouvez-vous donner le lien pour se connecter ?
+16/05/2024, 22:41 - +33 6 19 29 82 01: Alors il faut en discuter avec les Drane car on nous a interdit d'utiliser Google Educ ou l'offre de Microsoft. On a quand même un stockage hors UE donc non RGPD
+16/05/2024, 22:49 - Francois Bocquet: Le RGPD ne s’oppose pas du tout à des stockage hors UE. Il y a même une liste de pays adéquats qui intègre depuis juillet 2023 les USA. Il n’y a donc pas de problèmes de ce côté là. Cette argument est bien une infox. Ensuite il est possible de proposer des arguments militants ou protectionnistes pour empêcher les utilisateurs d’utiliser autre chose que les ENT…
+16/05/2024, 22:51 - Francois Bocquet: A ce jour et tant que l’EN ne propose pas de LLM avec des connexions passant par le DSI des ENT ou du GAR aucun service d’IA n’est utilisable en contexte scolaire sauf ceux accessibles depuis un compte Édu Microsoft ou Google Workspace ou des abonnements pro chez Adobe ou Canva. Aucun abonnement perso n’est utilisable en conformité RGPD en usage professionnel dans l’éducation en France.

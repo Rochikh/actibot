@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 19
+
+=== CONTENU ===
+26/04/2024, 10:51 - ‎+216 58 454 374 a rejoint le groupe à partir de la communauté.
+26/04/2024, 10:56 - +216 58 454 374: Ce message a été supprimé.
+26/04/2024, 10:57 - Rochane: J'imagine que c'est la réponse à Dominique ?
+26/04/2024, 11:00 - +33 6 99 36 11 69: Bonjour à tous, ma plus grosse difficulté est le prompt, c’est vraiment un art et je comprends mieux l’expression « prompt engineering » 😅
+Ma question est : savez vous où je pourrais trouver une bibliothèque de prompt pour différents types d’activités (marketing, création de contenu, ventes, ingénierie pédagogique,…)
+26/04/2024, 11:03 - Rochane: Tu as juste en haut les bonnes pratiques d'Open ai en ce qui concerne les prompts. Et sinon, je te propose de t'abonner à la ressource de Ludovic Salenne dans laquelle il partage des centaines de peompts catégorisés justement par secteur
+26/04/2024, 11:05 - +33 6 99 36 11 69: Ah super, merci beaucoup@33649535198
+26/04/2024, 11:06 - +32 479 58 54 12: Non rien à voir.
+26/04/2024, 11:09 - Rochane: Merci de préciser à quoi correspond vos partages 🙂
+26/04/2024, 11:34 - +33 6 76 04 48 20: Effectivement, ça fluidifierait les échanges, d’autant plus que je suis dans la même recherche que Dominique Moraux, et le document envoyé en réponse ne me semble pas être adapté… ou alors je ne le comprends pas 😥
+26/04/2024, 11:37 - ‎+216 58 454 374 est parti·e
+26/04/2024, 14:17 - +31 6 85386407: null
+26/04/2024, 14:29 - +33 6 76 04 48 20: De quoi s’agit-il ?
+Un groupe sur la finance ?
+26/04/2024, 14:30 - Rochane: Oups, bot
+26/04/2024, 14:31 - +33 6 76 04 48 20: C’est aussi ce que j’ai pensé 😉
+26/04/2024, 14:42 - +33 6 76 04 48 20: J’ai cherché partout où j’ai pu… (moteurs de recherche, métamoteurs, ChatGPT…) rien trouvé encore…
+26/04/2024, 14:51 - Ahmadou Ba: Si tu as un compte Reddit, tu peux egalement t'abonner a pleins de communauté qui partagent des ressources dont des prompts qui peuvent être adaptés en fonction des contextes et des besoins.
+Mais à vrai dire je préfère les écrire moi même et les ajuster au fil de la discussion comme ça on fini par avoir la main.

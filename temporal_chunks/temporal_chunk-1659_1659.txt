@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 19
+
+=== CONTENU ===
+https://generationia.flint.media/p/deepskeek-ia-gratuite-chine-reasoning-model?_bhlid=1c16df9857097dd58598da72fe616a42706e6eb4&utm_campaign=deepseek-la-petite-ia-chinoise-qui-surpasse-chatgpt&utm_medium=newsletter&utm_source=generationia.flint.media
+26/01/2025, 10:07 - Francois Bocquet: C’est pas faux mais remplace donc Chine par USA et relis le texte ;-) Ça fonctionne très bien !
+26/01/2025, 10:09 - +32 498 78 46 36: Bonjour,
+J'ai fait une recherche via l'actibot sans succès donc je me permet de revenir vers vous. Est-ce qu'il y a certain.e.s d'entre vous qui ont pu tester concrètement ChatGPT Operator ?
+J'aimerais savoir qu'est-ce que vous lui avez demandé de faire concrètement ? Si ça a fonctionné, ce que vous en pensez, etc.
+(J'ai vu la vidéo de Ludo Salenne mais j'aimerais avoir des retours d'autres personnes que des youtubeurs, même si j'aime bien Ludo 😁)
+Bonne journée <Ce message a été modifié>
+26/01/2025, 10:22 - +33 6 13 43 58 18: Bonjour à tous 👋🏻
+Je viens de découvrir _Raphael AI_ 👌🏻 📸
+👉🏻un générateur d'images gratuit et illimité (qui utilise FLUX.1-Dev.)
+*Aucune inscription nécessaire, aucune limite.*
+Bref, l’idéal pour utiliser rapidement et facilement en classe 👨🏻‍🎓
+https://raphael.app/fr
+26/01/2025, 10:27 - Rochane: Excellent cet outil et j'ai remarqué que l'output est meilleur en anglais (assez fidèle au respect du texte ) . Merci pour le partage 🔝
+26/01/2025, 11:06 - +33 6 72 75 43 48: Merci j’ai testé sympa en effet 👍
+26/01/2025, 11:11 - +33 7 63 58 01 55: À propos de Chine, je viens de tomber sur ce document : "Critiques chinoises des LLMs"
+https://www.linkedin.com/posts/ctkraft_chinese-critiques-of-llms-ugcPost-7288730154929958913-wVhM?utm_source=share&utm_medium=member_android
+26/01/2025, 11:12 - +33 7 63 58 01 55: Synthèse par ChatGPT :
+Le document "Chinese Critiques of Large Language Models" explore les critiques formulées par des chercheurs chinois sur les modèles de langage à grande échelle (LLMs) et leur capacité à atteindre l'intelligence artificielle générale (GAI). Voici une synthèse des points principaux :

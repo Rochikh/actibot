@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 13
+
+=== CONTENU ===
+De plus, il est catastrophiste sans donner aucune piste (le retour à l evaluation orale me semble le minimum)
+Écrit par un dépressif (Argument ad hominem 😁)?
+Ou rédigé pour titiller le système limbique grâce à la peur?
+03/07/2025, 07:05 - +32 475 86 01 57: Intéressant oui. Excellent, non.
+03/07/2025, 07:07 - +32 498 78 46 36: Il faut aller voir la partie 1/2 aussi, ça sera moins doomer, j'ai oublié de la coller
+03/07/2025, 07:07 - +32 498 78 46 36: https://danslesalgorithmes.net/2025/06/24/ia-et-education-1-2-plongee-dans-liapocalypse-educative/
+03/07/2025, 08:26 - Rochane: Moi je trouve que cet article met efficacement en lumière la crise de sens et d’autonomie provoquée par l’IA dans l’éducation.
+Par contre, Il néglige les bénéfices pédagogiques potentiels d’une intégration réfléchie de l’IA
+03/07/2025, 09:29 - Daniel Pappalardo: https://share.google/fnKPhagSb5ptOHor9 Article intéressant qui au-delà de savoir, si le contexte est plus important que le prompt, ou une partie du prompt importante (d'après l'article on glisse de penser la demande à penser la démarche pour obtenir un résultat) ce que nous faisons tous plus ou moins, est de mettre des mots clairs et des notions simples pour les interactions humains machines surtout dans le cadre de la création d'agents. Avec une infographie qui peut être utile. L'article original de Philip Schmid (en anglais) : https://www.philschmid.de/context-engineering <Ce message a été modifié>
+03/07/2025, 10:07 - ‎Perrine a demandé à ajouter +33 7 84 50 78 97.
+03/07/2025, 10:42 - +33 6 62 05 94 71: Une étude intéressante sur l'IA... dans sa gratuité https://www.blogdumoderateur.com/etude-monde-utilise-ia-personne-paye/
+03/07/2025, 11:12 - Pierrick BRIAND: IApocalypse est un argument fort qui positionne immédiatement le point de vue de l’auteur. C’est un peu stigmatisant. L’article ne mentionne pas les efforts et les techniques mis en œuvre par les utilisateurs des IAG en contexte.
+03/07/2025, 11:30 - +33 6 62 05 94 71: Dans la foulée, Yoshua Bengio crée une ONG LoiZéro https://yoshuabengio.org/fr/2025/06/03/presentation-de-loizero/

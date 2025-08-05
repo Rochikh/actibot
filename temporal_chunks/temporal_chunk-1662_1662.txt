@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 14
+
+=== CONTENU ===
+Le rapport recommande aux États-Unis de diversifier leurs investissements en IA et d'étudier de près les recherches chinoises.
+En conclusion, l'approche chinoise, bien qu'influencée par les mêmes défis techniques que l'Occident, repose sur une stratégie étatique axée sur la diversité des solutions, offrant potentiellement un avantage dans la course à la GAI.
+26/01/2025, 11:14 - +33 7 63 58 01 55: J'ai pas l'impression d'apprendre grand chose si ce n'est cette évolution vers des modèles "hybrides", mêlant plusieurs modèles (techniquement, ça reste un peu flou pour moi et certains outils sont peut-être déjà sur cette voie). À voir ce que ça donne(ra) en pratique...
+26/01/2025, 11:14 - +41 76 372 28 94: Attention pour un usage en classe : je viens de tester en enlevant « sécurité du contenu » ça peut générer des images NSFW of for school plutôt…
+26/01/2025, 11:24 - +33 6 43 60 12 59: Impressionnant l'évolution de Deepseek en quelques semaines ... La place Tiananmen, située au cœur de Pékin, en Chine, est devenue le symbole d'un événement tragique survenu en **1989** : le **massacre du 4 juin**, souvent appelé **"massacre de Tiananmen"** en Occident. Cet événement marque un tournant dans l'histoire moderne de la Chine. Voici ce qui s'est passé :
+---
+### **Contexte**
+1. **Mouvement étudiant et démocratique** :
+- Au printemps 1989, des étudiants, des intellectuels et des travailleurs chinois se rassemblent sur la place Tiananmen pour réclamer des réformes politiques, économiques et sociales.
+- Les manifestants demandent plus de démocratie, la fin de la corruption au sein du Parti communiste chinois (PCC) et des libertés individuelles.
+2. **Mort de Hu Yaobang** :
+- Le mouvement est déclenché par la mort de **Hu Yaobang**, un ancien secrétaire général du PCC considéré comme un réformateur. Ses funérailles, le 15 avril 1989, deviennent un catalyseur pour les manifestations.
+3. **Occupation de la place Tiananmen** :
+- Les manifestants occupent la place pendant plusieurs semaines, attirant des centaines de milliers de personnes. Une statue symbolique, la **"Déesse de la Démocratie"**, est érigée en hommage à leurs revendications.

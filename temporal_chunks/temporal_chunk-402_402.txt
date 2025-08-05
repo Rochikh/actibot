@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 10
+
+=== CONTENU ===
+11/04/2024, 11:57 - +33 6 49 84 08 41: Ça me paraît colossal comme sujet 😳
+11/04/2024, 11:58 - +32 484 68 10 13: Même le ton des voix generatives, je vous invite à regarder la proportion de voix masculines et féminines et le ton employé ( frendly, calme ,naturel)
+11/04/2024, 11:58 - +33 6 49 84 08 41: Passionnant mais colossal
+11/04/2024, 11:58 - +32 484 68 10 13: Et professionnel j 'ai oublié
+11/04/2024, 12:00 - +32 484 68 10 13: Les femmes sont souvent associées à frendly et calm et tu as plus de ton professionnel pour les hommes
+11/04/2024, 12:14 - +33 7 80 84 58 72: null
+11/04/2024, 12:35 - +33 6 49 84 08 41: Petit coq à l'âne... J'essaie depuis quelques jours d'adapter certains prompts proposés par @33672091809 à mon contexte d'exercice, peuplé de collègues éducateurs qui ne sont pas forcément recrutés sur la base de leurs compétences pédagogiques... Et qui par conséquent sont en demande d'accompagnement.
+Bref, pour présenter de manière plus graphique ChatGPT comme un assistant pédagogique, je viens de voir que ChatGPT permettait l'utilisation des emojis... Et je trouve que ça rend pas mal du tout ! Je vous montre ça :
+11/04/2024, 12:36 - +33 6 49 84 08 41: <Médias omis>
+11/04/2024, 13:23 - +32 487 80 81 16: Bonne journée à tous, je souhaitais partager avec vous que je suis professeur d’adultes en Promotion Sociale et j’ai des adultes très motivés qui viennent en classe après le travail (ou qui sont au chômage) et qui veulent apprendre l’espagnol. Cependant, par exemple, dans les cours que je donne dans notre bachelier de Relations Publiques (avec des adolescents de 20 ans), je dois interdire aux étudiants l’usage d’ordinateurs, de tablettes et de mobiles, car sinon, un groupe de vaches frisonnes me prêterait plus d’attention. Et cela me semble paradoxal qu’à une époque où nous travaillons pour voir les opportunités et pour découvrir et développer quelles sont les possibilités offertes par l’Intelligence Artificielle, nous soyons contraints d’interdire l’utilisation de la technologie afin d’éviter qu’ils soient utilisés pour tricher dans la classe de langue. Ouroboros time!!

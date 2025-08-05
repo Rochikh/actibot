@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 7
+
+=== CONTENU ===
+06/01/2025, 23:22 - +33 6 19 89 32 62: Et en lui demandant successivement par petite étapes ? Du style « écris en premier 5 questions fermées en mode vrai faux, puis 10 fermées une bonne réponse, et enfin 10 ouvertes? » parfois quand on scinde les étapes il comprend mieux.
+06/01/2025, 23:25 - Laurent The Cure: Je pourrais @33619893262 , mais il me semblait pas trop compliqué de respecter ces instructions simples. L'idée est de m'éviter de devoir rétravailler le résultat en compilant les questions, les mélangeant...
+07/01/2025, 06:55 - Jean-Marc Everard: Merci pour ta réponse, oui je pense que c’est ce phénomène que j’ai observé même si c’est textuel et pas chiffré chez moi :l’IA généralise l’info et la lisse. C’est sans doute un point d’attention. Dans mon exemple ce n’est pas trop grave sauf que ça jette le discrédit sur la partie pourtant intéressante du résultat.
+07/01/2025, 07:05 - Jean-Marc Everard: C’est d’ailleurs un point que j’essaie d’aborder dans mes formations : comment adopter l’IA en restant conscient de ses limites actuelles inhérentes à son fonctionnement sans pourtant passer à coté de ses avantages (ne pas jeter le bébé avec l’eau du bain). Évidemment pas toujours évident avec tout le monde mais intéressant car cela oblige à entraîner notre esprit critique. Et ça, ça fait du bien dans tous les domaines. 😉👍🏻
+07/01/2025, 07:07 - +32 498 78 46 36: Avez-vous essayé avec o1 ? Car j'avais aussi ce problème avec notebooklm et chatgpt 4o pour des simulations de planning (comme vous, il prenait des décisions sur ma valeur des heures). Avec o1, il a nettement moins tendance à le faire
+07/01/2025, 08:34 - Clotilde IA: Je pourrai essayer une prochaine fois. Merci
+07/01/2025, 09:42 - +33 6 19 89 32 62: Oui mais si ensuite tu lui dis . Après, compile le tout pour que l’apprenant ait des questions de style aléatoire ? Je sais que cela fait faire des points intermédiaires mais l’IA fonctionne un peu en mode neuro atypique (je connais ! 🙃) donc ça aide souvent à avoir de meilleurs résultats !

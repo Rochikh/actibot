@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 18
+
+=== CONTENU ===
+Steve
+06/01/2024, 20:41 - Ahmadou Ba: Ah j'ai fais le test et j'ai eu un bon score je crois
+06/01/2024, 20:41 - +41 76 693 61 59: Tu as pas vu le résultat à la fin ?
+06/01/2024, 20:44 - Rochane: Attention, un bon score IA signifie un bad score empreinte carbone 😁 <Ce message a été modifié>
+06/01/2024, 20:45 - Ahmadou Ba: J'ai tout vu même la belle photo de profil et la publicité qui l'accompagne🤣
+06/01/2024, 20:47 - Ahmadou Ba: C'est clair apparemment la génération est energivore.
+06/01/2024, 20:47 - Jacques BARATTI: <Médias omis>
+06/01/2024, 20:47 - Jacques BARATTI: <Médias omis>
+06/01/2024, 20:49 - +41 76 693 61 59: Faut que je fasse passer le test à greta thunberg pour voir 😂
+06/01/2024, 20:50 - Jacques BARATTI: <Médias omis>
+06/01/2024, 20:50 - Jacques BARATTI: <Médias omis>
+06/01/2024, 21:16 - Jacques BARATTI: je veux t'envoyer un message privé je n'ai pas ton tel
+06/01/2024, 21:37 - +41 76 693 61 59: Bien sûr sans problème
+07/01/2024, 18:08 - +32 498 78 46 36: https://youtu.be/iVYP2lyreAA Si vous voulez tester des LLM en mode hors-ligne (Mistral, Llama) il est possible d'en installer sur n'importe quel PC grâce à https://jan.ai
+07/01/2024, 22:27 - Rochane: Franchement, pas très convaincu par cette solution car à part générer quelques lignes de code, je n'ai rien vu d'extra dans ses exemples. Un peu logique, tu as un logiciel de 4 go, sans connexion à internet, comment veux tu avoir ta base de connaissances qui doit être basée sur des milliards de paramètres. Sans oublier la nécessité d'avoir de CPU de très grande qualité qui coûtent 200 K euros....
+07/01/2024, 22:33 - +32 498 78 46 36: C'est justement cette déconnexion d'internet couplée au fait qu'il tourne en local sur une machine que je trouve intéressante. Après je je n'ai pas testé 😉
+08/01/2024, 07:51 - Rochane: Vous avez supprimé ce message
+08/01/2024, 07:52 - Rochane: https://www.ladn.eu/tech-a-suivre/pensez-vous-que-lia-va-exterminer-lhumanite-calculez-votre-pdoom/ La “probability of doom” (probabilité de catastrophe) est la nouvelle métrique à la mode chez les tech bros

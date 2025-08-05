@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 18
+
+=== CONTENU ===
+27/02/2025, 09:37 - Amadou GuisséIA: Connaissez-vous d'autres IA capables de faire la même chose ?
+27/02/2025, 09:46 - Amadou GuisséIA: Je ne parle pas de l'efficacité .Je veux savoir si vous connaissez une IA capable de faire la même chose <Ce message a été modifié>
+27/02/2025, 09:54 - Francois Bocquet: Nous vivons aujourd’hui dans un monde où l’ #IA transforme la manière dont nous testons et évaluons nos #élèves. Les outils d’IAGen ont bouleversé l’ #évaluation, apportant des possibilités passionnantes mais aussi des défis.
+Miriam Wun • Singapore Institute of Technology @timeshighered.bsky.social  https://bsky.app/profile/tirotg.bsky.social/post/3lj5h3xzhkc25
+27/02/2025, 10:28 - +33 7 87 35 78 96: je viens de tester avec Perplexity tu peux générer un PDF (commande Exporter) .. avec leur logo
+27/02/2025, 11:15 - Amadou GuisséIA: Merci beaucoup beaucoup 👍🏿
+27/02/2025, 11:17 - Amadou GuisséIA: L'avantage avec Word, est que modifier et corriger le document.
+27/02/2025, 11:52 - Votre code de sécurité avec +32 472 66 65 92 a changé. Appuyez pour en savoir plus.
+27/02/2025, 11:59 - +33 6 74 39 90 60: <Médias omis>
+27/02/2025, 12:00 - +33 6 74 39 90 60: <Médias omis>
+27/02/2025, 12:02 - +33 6 72 75 43 48: Merci pour ce gros et beau travail 🙏
+27/02/2025, 12:02 - +33 7 87 35 78 96: Ilovepdf permet de récupérer un word
+27/02/2025, 12:10 - +33 6 74 39 90 60: Je vais être très honnête c'est l'outil qui travail bien
+27/02/2025, 12:12 - +32 498 78 46 36: https://www.clubic.com/actualite-555192-le-bittorrent-de-l-ia-est-arrive-exo-permet-a-votre-raspberry-pi-de-rivaliser-avec-les-supercalculateurs.html
+À investiguer
+27/02/2025, 12:17 - Francois Bocquet: J’adore le titre qui parle de Raspberry Pi et l’illustration qui montre deux clusters de 4 macmini M2 ou M3 a 5500€ piece ;-)
+27/02/2025, 13:03 - +33 6 86 63 43 38: Bonjour à toutes et tous 🙂
+Je relance mon appel à volontaires dans le cadre de mon mémoire de recherche. Je cherche des ingénieur·e·s pédagogiques prêt·e·s à partager leur expérience lors d’un entretien.

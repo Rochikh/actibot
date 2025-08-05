@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 9
+
+=== CONTENU ===
+Le plan promptable cartonne en formation, les apprenants l'adore.
+09/11/2024, 14:38 - +33 6 34 15 77 84: Vraiment Lucie c’est une super idée il est top Je suis ravie de mon achat 🤗
+09/11/2024, 15:54 - Fred IA: Un outil ia qui semble bien noté et qui est multiusage (dont modèle gpt) pour 40$ oneshot, accès à vie, pas testé personnellement : https://www.stacksocial.com/sales/1minai-pro-plan-lifetime-subscription?aid=a-dtjfdnkj Si certains connaissent, preneur de retex
+09/11/2024, 16:04 - +32 479 82 01 20: je me méfierais tout de même des "Lifetime Deal". Faire des call API d'une IA n'est pas gratuit. J'ai dû mal à comprendre le business model derrière. 😊
+09/11/2024, 16:17 - Daniel Pappalardo: Je l'utilise. En fait y a un nombre de crédits disponible par mois qui peut être vite consommé selon les modèles utilisés (par exemple chat GPT4 turbo coûte 3x plus que la version 4o mini) la génération de texte ou d'image etc. Il n'y a pas de clé API et pas d'accès plein à d'autres fonctions des IA génératives (voix ...) Cela dit c'est assez pratique quand on a une faible consommation par jour. Cela permet aussi de générer plusieurs résultats de différentes IA gen avec un prompt pour les comparer. Après il y a des produits similaires gratuits pour les faibles quantités ou presque. Donc sans être une arnaque ce n'est pas non plus l'offre du siècle. Mais je ne me suis pas senti spolié par le prix.
+09/11/2024, 16:20 - +32 479 82 01 20: Merci pour ton REX Daniel! 😊
+09/11/2024, 16:20 - Rochane: Je ne sais pas pourquoi l'outil note diamonds n'est pas souvent évoqué alors que justement, on y trouve tous ces LLM gratuitement....
+09/11/2024, 16:21 - +33 6 20 97 18 83: J'utilise Ninjachat ai, qui est aussi multiusage. Propose la possibilité de travailler avec tous les grands modèles de LLM  simultanément avec un seul prompt.
+Le seul inconvénient c'est qu'il n'y a pas de possibilité de rectifier le prompt si besoin ou encore de discuter sur le résultat avec les modèles pour affiner le résultat.

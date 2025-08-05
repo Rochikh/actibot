@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 12
+
+=== CONTENU ===
+01/10/2024, 11:22 - ‎+32 492 85 81 22 a ajouté ~ Morgane LOUBRIS
+01/10/2024, 11:23 - +32 479 58 54 12: Non. C'est surtout son process qui a changé. Il cherche beaucoup plus en profondeur ce qui explique qu'il ne peut pas fournir la reponse en 1/4 de seconde. Ma question c'est  surtout sur le fait qu'il dit " je reviendrai vers vous" mais il ne le fait pas
+01/10/2024, 11:43 - ‎+33 6 64 48 37 32 a demandé à rejoindre le groupe.
+01/10/2024, 11:45 - +33 7 87 35 78 96: Et lui demander ou il en est ne sert à rien ?
+01/10/2024, 12:11 - Pierrick BRIAND: Bonjour à tous, je vous invite à découvrir sans que je vous le présente vraiment une offre mutualisée d’accès à des outils d’intelligence artificielle. L’offre semble très alléchante, je reste prudent mais cependant je suis très curieux de profiter du retour d’expérience de certains d’entre vous. Voici le lien que vous devriez Visiter pour mieux comprendre ce que je cherche à vous partager aujourd’hui : https://www.stacksocial.com/sales/1minai-pro-plan-lifetime-subscription?aid=a-4o3tekwt <Ce message a été modifié>
+01/10/2024, 12:20 - Ahmadou Ba: A mon niveau, il bloque carrément et refuse de répondre sans possibilité de régénérer jusqu'a ce que je réactualise.
+01/10/2024, 12:23 - Jacques BARATTI: Avez vous essayé "continue" ?
+01/10/2024, 12:29 - Mickaël: Déjà rencontré en effet. Il bloque et ne revient jamais.
+01/10/2024, 12:30 - +32 479 58 54 12: Si je lui redemande il me dit qu'il n'a rien trouvé ou commence à repondre mais ne va pas jusqu'au bout.
+Par exemple, je lui ai demandé d'analyser les sites d'une cinquantaine d'entreprises. En insistant beaucoup il le fait pour la première et après je dois chaque fois lui dire "continue" pour qu'il passe à la suivante. ( je sais, vous allez me dire que je devrais automatiser mais ce n'est pas vraiment la solution si on le fait une seule fois)
+01/10/2024, 12:32 - Jacques BARATTI: La solution est sans doute de segmenter la demande...
+01/10/2024, 12:39 - +32 479 58 54 12: Oui, ll y a toujours des alternatives. Mais ma question est surtout : avez-vous déjà ete dans le cas qu'il vous dise " je reviendrai vers vous" et est-il vraiment revenu vers vous et de quelle manière ?

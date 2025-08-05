@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 17
+
+=== CONTENU ===
+12/12/2023, 10:25 - Guillaume Singeot: <Médias omis>
+12/12/2023, 10:26 - Rochane: Juste en dessous cette capture 🙂
+12/12/2023, 10:26 - Rochane: Ici
+12/12/2023, 10:29 - Ahmadou Ba: J’ai voulu m’inscrire hier mais ils demandaient bcp d’informations personnelles pour participer à une formation même si c gratuit
+12/12/2023, 10:47 - Guillaume Singeot: je viens de finir mon inscription (la formulation des dernières questions me laissait penser qu'il fallait être inscrit pour y répondre). Je me suis inscris sur leur Moodle et j'imagine que maintenant il faut que j'attende une validation de leur part (je n'ai accès à aucun cours et je ne vois pas le lien de la conférence de demain).
+12/12/2023, 10:47 - Rochane: @32496531494 fait partie de l'organisation
+12/12/2023, 10:48 - Ahmadou Ba: Ah cela doit être ça, alors. Merci 🙏
+12/12/2023, 15:44 - ‎+33 6 74 03 79 35 a rejoint le groupe à partir de la communauté.
+15/12/2023, 09:12 - Rochane: Hello, un truc tout a fait nouveau chez speechki. Il est possible depuis aujourd'hui de cloner sa voix en lui donnant des fichiers de votre voix ou d'une autre et de générer un audio avec votre propre voix à partir d'un texte. Si quelqu'un fait l'expérience, ce serait bien de partager 🙂
+15/12/2023, 11:52 - Laurent The Cure: bonjour à tous. Je viens ENFIN de recevoir la notification. je suis maintenant "upgraded" 🤩🤩
+15/12/2023, 11:57 - Ahmadou Ba: Félicitations.
+Il est vraiment puissant. Et les productions de qualité.
+J’ai créé deux GPT un pour m’aider dans les activités de formation et un autre pour mes activités en tant qu’enseignant.
+15/12/2023, 11:57 - Laurent The Cure: hâte de pouvoir tester tout ce qui a déjà été présenté #frustrationterminée
+15/12/2023, 11:59 - +32 470 11 45 36: Interessant. Tu serais d’accord de nous exposer celui que tu a fais pour l’enseignement ?
+15/12/2023, 12:03 - Ahmadou Ba: Oui pas de soucis mais g mis mes GPT privé. Je vais envoyer les actions :
+15/12/2023, 12:05 - Ahmadou Ba: Voici les instructions que j'ai mis:

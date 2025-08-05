@@ -1,0 +1,39 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 31
+
+=== CONTENU ===
+👉 Programme complet et final ici : https://lnkd.in/e5tbGtvS
+👉 Journée de recherche à suivre en ligne dès 10h30 sur https://lnkd.in/eSHD_4yr
+Belle journée
+19/11/2024, 09:51 - +33 6 25 14 08 75: Bonjour, j’ai un challenge à relever : je dois transformer un plan d’une petite ville (format Google earth) , en plan thème «  parc d’attraction, fête de village…) . L’idée serait de fournir un plan original à mes apprenants pour se rendre à un événement… au lieu de fournir un plan traditionnel pour s’y rendre, je veux leur proposer un plan en lien avec mon événement (ambiance fête de village/fête foraine ) si vous me trouver un outil qui peut me faire ça, je vous dis d’avance UN GRAND MERCI car je galère un peu…
+19/11/2024, 09:55 - Rochane: Google Earth Studio me semble comme étant l'outil le plus adapté pour ton projet :
+Il va te permettre de personnaliser entièrement la carte avec des repères et des formes, d'ajouter des informations contextuelles (textes, images, vidéos)
+Je pense même que tu peux créer une narration interactive et immersive et exporter ton résultat final
+19/11/2024, 09:58 - Rochane: Tiens, j'ai demandé à perplexity qui me donne la démarche
+Étapes de création
+1. Préparation du fond de carte
+Importez votre plan de ville depuis Google Earth1
+Définissez la zone exacte que vous souhaitez transformer
+Ajustez le niveau de zoom approprié
+2. Personnalisation thématique
+Pour créer une ambiance "fête foraine", ajoutez26:
+Des icônes de manèges et attractions
+Des zones colorées pour les différents espaces (restauration, jeux, spectacles)
+Des pictogrammes festifs (ballons, guirlandes, chapiteaux)
+Des repères pour les points d'intérêt principaux
+3. Éléments d'information
+Intégrez2:
+Les horaires des animations
+Les emplacements des stands
+Les zones de stationnement
+Les points de rendez-vous
+Les itinéraires recommandés
+Alternatives
+Si Google Earth Studio ne vous convient pas, vous pouvez utiliser35:
+Umap (gratuit et open source)
+Click2Map (interface simple)
+Scribble Maps (personnalisation poussée)

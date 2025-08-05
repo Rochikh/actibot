@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 589
+Messages: 6
+
+=== CONTENU ===
+20/03/2025, 10:57 - Francois Bocquet: Important : un service hébergé aux USA peut être utilisé de façon conforme au RGPD et un service hébergé en France n’offre pas nécessairement les garanties necessaires pour que les traitements soient conformes au RGPD. restons pragmatiques ;-)
+20/03/2025, 11:01 - +33 7 87 35 78 96: Mais ne soyons pas naifs ! Chine > USA > Europe > France … C'est plus simple quand c'est local
+20/03/2025, 11:01 - +33 7 84 33 02 62: Merci pour ce retour ; je croiserai avec les infos partagées lors de la démo que j’aurais prochainement. S’il y a des infos que vous voulez connaître, dites les moi et je veillerai à poser les questions si possible
+20/03/2025, 11:05 - Francois Bocquet: L’avantage d’un Team GPT c’est que l’on peut rendre les traitements conformes au RGPD si c’est un usage en contexte scolaire ou de formation professionnelle. En effet dans ces cas le contrat doit être passé avec OpenAI et l’institution. Celle ci est responsable de traitement et OpenAI sous traitant au sens du RGPD. Seul ce type de contrat permet de signer un accord de sous traitance (DPA en anglais) qui est ABSOLUMENT NÉCESSAIRE pour que les traitements soient conformes. Les contrats entre un individu et OpenAi ne peuvent amener à des traitements conformes en contexte scolaire ou de formation. Ils doivent être réservés à des usages personnels (ou pour un travailleur indépendant) pour être conformes.
+20/03/2025, 11:22 - Vincent DROUOT: à nouveau, attention, nous parlons de 2 produits differents, Team GPT et ChatGPT Team, sont 2 entreprises différentes
+20/03/2025, 12:40 - Francois Bocquet: Oui J’ai bien compris. La possibilité d’un contrat a avec clauses de sous traitance existe bien chez OpenAI. Je n’ai pas vérifié chez TeamGPT. Pro Tips : si un éditeur vous propose une console pour administrer vos utilisateurs alors il a dû prévoir sa situation de sous traitant et il sera possible de rendre les traitements conformes. Si le compte est crée directement par l’utilisateur et qu’il n’y a pas de console d’administration de compte alors par design le service est conçu pour que l’éditeur soit responsable de traitement et il n’est pas possible de l’utiliser légalement (en dehors d’un usage personnel et non professionnel sauf si l’on est travailleur indépendant et que l’on se limite au traitement de ses propres données.

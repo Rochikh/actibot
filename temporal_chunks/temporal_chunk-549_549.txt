@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 21
+
+=== CONTENU ===
+27/05/2024, 13:31 - Fred IA: <Médias omis>
+27/05/2024, 13:31 - +33 6 76 04 48 20: Bien vu ! Il semble que j’étais bien sur la version 4.o
+Ceci étant, quelques incohérences tout de même : en cliquant sur la possibilité de switcher on déclenche une réponse de l’IA longue comme le bras pour expliquer ce que montre la photo + le fait que la version ne soit pas mentionnée comme c’était le cas aux débuts de la 4.o
+27/05/2024, 13:33 - +32 479 82 01 20: Avez-vous essayé en créant un compte OpenAI avec mot de passe ? Sans connexion SSO. Le mail avec +1 est un alias lié compte principal donc c'est normal que Google ne le retrouve pas.
+27/05/2024, 13:37 - Fred IA: Merci beaucoup @32479820120 c'est exactement ça, ça fonctionne 👍
+27/05/2024, 13:39 - Fred IA: Cette page est en effet accessible mais lorsqu'on essaie de discuter avec un gpts, on est invité à prendre un compte payant. Je pense donc qu'il va falloir continuer à patienter
+27/05/2024, 13:40 - Fred IA: (En tout cas, sur mon compte)
+27/05/2024, 13:44 - +32 479 56 05 93: Petite question une IA pour la traduction ?
+27/05/2024, 13:45 - Rochane: Deepl 🙂
+27/05/2024, 15:32 - +33 6 76 04 48 20: <Médias omis>
+27/05/2024, 15:33 - Rochane: Teste l'autre licence 🙂
+27/05/2024, 15:33 - +33 6 76 04 48 20: Je vais essayer, effectivement
+27/05/2024, 15:48 - ‎+33 6 78 56 89 35 a été ajouté·e
+27/05/2024, 15:48 - ‎+33 6 78 56 89 35 a rejoint le groupe à partir de la communauté.
+27/05/2024, 16:12 - ‎+33 6 81 17 24 04 a été ajouté·e
+27/05/2024, 16:12 - ‎+33 6 81 17 24 04 a rejoint le groupe à partir de la communauté.
+27/05/2024, 16:13 - Fred IA: Juste par curiosité, ce message est apparu au bout de combien de requêtes de gpt-4o ? Merci par avance
+27/05/2024, 16:16 - +33 6 76 04 48 20: Eh bien justement… moins d’une dizaine de requêtes.
+C’est ce qui m’a surpris.
+27/05/2024, 16:17 - +32 498 78 46 36: Bizarre d'être downgradé du 4-o vers le 3.5 sans passer par le 4.
+27/05/2024, 16:18 - +33 6 76 04 48 20: C’est cohérent : le 4.o se situe entre le 3.5 et le 4

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 16
+
+=== CONTENU ===
+26/03/2024, 20:44 - +33 7 85 84 60 78: Je vais essayer dès ce soir. J'ai téléchargé Praktika une IA pour m'entrainer en anglais. J'ai à peine eu le temps de tester que tout est payant. En plus, les sujets proposées ne m'intéressent pas réellement. Avec Chat GPT on parle de mes sujets. C'est vraiment top. <Ce message a été modifié>
+26/03/2024, 21:07 - Ahmadou Ba: Au finish ChatGPT est vrai couteau suisse, avec la création des GPT, vous avez une alternative à toutes ces solutions payantes.
+26/03/2024, 21:11 - +33 7 63 58 01 55: Crédits à @33649535198 😊
+26/03/2024, 23:04 - +33 7 85 84 60 78: Je viens tout juste de tester. C'est bluffant
+26/03/2024, 23:22 - +33 6 49 84 08 41: https://korben.info/jan-open-source-chatgpt-alternative-hors-ligne-personnalisable.html
+26/03/2024, 23:23 - +33 6 49 84 08 41: Very interesting ✌🏼
+26/03/2024, 23:32 - Lucie: J'ai fait des démonstrations de cet usage dans mon livre "l'IA pour la formation" pour ceux qui l'ont acheté
+27/03/2024, 00:38 - Yvelines: Oui! 🤩
+27/03/2024, 00:39 - Ahmadou Ba: Pour mettre ce Chatgpt local, il faut recourir au codage ou bien ?
+27/03/2024, 06:43 - +33 7 45 53 79 24: null
+27/03/2024, 07:14 - Rochane: Quelle page exactement ? Je ne la retrouve pas 🙂
+27/03/2024, 07:23 - Pierrick BRIAND: L'installation de l'outil Jan, semble plutôt destinée à un public avec une certaine expertise technique, notamment les développeurs et les utilisateurs avancés souhaitant une alternative à ChatGPT. Jan supporte divers modèles d’IA et systèmes d’exploitation, il propose des fonctionnalités avancées comme un serveur REST pour les API.
+27/03/2024, 07:24 - +33 6 22 42 57 92: On pourrait avoir les références stp ?
+27/03/2024, 07:33 - +33 6 64 17 58 42: https://www.saintrapt.com/livre-lia-pour-la-formation-par-lucie-dhorne/
+27/03/2024, 08:33 - +33 6 25 76 08 81: Superbe livre que je conseille vivement …
+27/03/2024, 09:04 - Lucie: Merci @33625760881 . Face à la recrudescence des faux livres générés par l'IA sur Amazon , j'aimerais beaucoup si vous avez lu mon livre et que vous l'avez trouvé utile que vous lui donniez un peu de force sur Amazon en partageant votre avis dessus. Ça m'aide dans l'algo amazon et ça aide les futurs lecteurs. L'IA pour la formation. ❤️ https://amzn.eu/d/9fDXwIQ

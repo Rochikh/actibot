@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 610
+Messages: 20
+
+=== CONTENU ===
+</diapositive1>
+<diapositive2>
+Titre : [Titre de la diapositive]
+Contenu : [Brève description du contenu de la diapositive]
+Visuel : [Suggestion d'élément visuel, le cas échéant]
+</diapositive2>
+[Continuez pour toutes les diapositives]
+</plan>
+Après avoir présenté le plan, fournissez une brève explication de la façon dont votre plan adhère à la méthode PASTOR et aborde efficacement le sujet donné dans la durée spécifiée.
+Commencez votre réponse maintenant, en commençant par le plan de la présentation.
+20/01/2025, 21:43 - +44 7776 747507: Waw, de quoi bien préparer sa présentation, merci  Rochane.
+20/01/2025, 21:56 - Votre code de sécurité avec ~ Sacha a changé. Appuyez pour en savoir plus.
+20/01/2025, 22:00 - Votre code de sécurité avec ~ Sacha a changé. Appuyez pour en savoir plus.
+20/01/2025, 22:01 - +33 6 71 11 12 91: Et on passe le résultat à la moulinette de napkin.ai pour avoir les visuels... 😃
+20/01/2025, 22:02 - Rochane: Je l'ai testé plutôt sur gamma app
+20/01/2025, 22:14 - Rochane: Le résultat avec la variable sujet: IA et Éducation
+Durée : 20 min
+https://gamma.app/docs/Lintelligence-artificielle-a-lecole-un-avenir-prometteur-8cdgw7m4ag62qf8
+21/01/2025, 08:02 - Jean-Marc Everard: Livre en libre accès, en anglais bien qu'issu en partie de l'Université Cote d'Azure, de Alex Urmeneta et Margarida Romero : https://link.springer.com/book/10.1007/978-3-031-55272-4. Ca couvre tout ce que j'aime, autrement l'usage responsable des IA pour améliorer les apprentissages (tout en centrant ceux-ci sur l'humain). Ca couvre également tous les niveau d'éducation depuis K-12 jusqu'à la formation professionnelle.
+*Résumé introductif* via NotebookLM : Ce livre explore l'intégration de l'intelligence artificielle (IA) dans l'éducation, en examinant divers aspects : l’impact de l’IA sur l’apprentissage et l’enseignement, les perspectives des étudiants et des enseignants, les défis éthiques et les opportunités offertes par l’IA pour un apprentissage personnalisé et inclusif. Il présente des études de cas, des initiatives internationales et des écosystèmes régionaux qui promeuvent l'alphabétisation en IA et une approche axée sur l’humain. L'accent est mis sur la collaboration homme-machine, la créativité, et l'importance de la formation des enseignants à l'utilisation responsable de l'IA. Enfin, le livre plaide pour une éducation centrée sur l'humain, intégrant l'IA de manière éthique et responsable.

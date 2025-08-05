@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 18
+
+=== CONTENU ===
+18/01/2025, 15:50 - +33 6 99 86 52 93: null
+18/01/2025, 16:04 - +32 479 82 01 20: Telegram peut-être ? (Je ne sais pas si c'est mieux mais bon) 😊
+18/01/2025, 16:07 - Rochane: 2 milliards, par mois, d'utilisateurs pour WhatsApp VS 950 millions pour Telegram
+18/01/2025, 16:12 - +33 6 28 55 82 18: On peut aussi lui spécifier en français
+18/01/2025, 16:19 - +33 6 71 11 12 91: Je ne pense pas qu'on dépasse les 950 millions d'utilisateurs sur ce groupe 😉
+18/01/2025, 17:22 - +33 6 03 06 04 34: Perso je suis fan de Discord mais je sais que certaines personnes ont bcp de mal à s’y plier
+18/01/2025, 17:22 - +33 6 03 06 04 34: Non pareil
+18/01/2025, 17:25 - Rochane: C'est une question de proportion car si tu migres ce groupe sur Telegram, je pense qu'on ne sera pas plus de 300.... 😁
+18/01/2025, 17:29 - +221 76 598 97 25: je l'utilise souvent.
+18/01/2025, 17:30 - Ahmadou Ba: Oui nous pouvons être 10 mille ici mais le groupe vraiment actif en terme d'interaction ne depasse pas  100 .😅 pour dire juste que dans les groupes deux personnes actifs suffisent pour en faire un groupe animé.
+Mais a vrai avec le bot mis en place cela compense largement l'absence de fil de discussion a mon avis.
+18/01/2025, 17:31 - +33 7 83 62 43 52: Je suivrai ce groupe s'il va sur signal ou telegram e. De fait, je le quitterai lorsque je quitterai WhatsApp. Peut-être pas demain, mais bientôt j'espère :-)
+18/01/2025, 17:32 - ‎+33 6 43 70 28 33 est parti·e
+19/01/2025, 00:04 - ‎+216 92 761 504 est parti·e
+19/01/2025, 09:40 - Rochane: ÉVÉNEMENT : RDV le 30 janvier à 20h pour un live exceptionnel d'1h !
+Heure de début de l’événement : 1738263600000
+Événement annulé : false
+Description de l’événement : *Au programme :**Estelle* : Une plateforme API + IA pour propulser les jeunes talents *Jean-Marc* : Découverte des nouveautés NotebookLM, l'outil IA révolutionnaire de 2024*Christian* : Peut-on confier l'enseignement de la programmation à une IA ? *Grégoire* : Retour sur une année d'intégration des IAG dans l'enseignement *Yannick* : Modèle ABC Learning Design et IA pour des pédagogies diversifiées *Sébastien* : Ressources IA en Open Access, prêtes à être réutilisées

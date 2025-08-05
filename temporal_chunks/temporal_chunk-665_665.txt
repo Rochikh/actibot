@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 16
+
+=== CONTENU ===
+21/06/2024, 22:51 - ‎+212 654-133552, +32 497 10 24 65 et ‎1 autres est parti·e
+22/06/2024, 13:17 - Yann-Ael: Bonjour à tou.te.s, je me permets de partager ici un outil que je viens de mettre en ligne et qui permet de résumer des vidéos: https://vi-su.app/beta - il me semble que des demandes ont déjà été faites ici pour ce genre d’outil. La différence avec les autres outils du genre est l’ajout de screenshots dans le résumé (qui sont cliquables), ce qui rend le résumé plus engageant/facile à retenir je trouve. N’hésitez pas à tester (limité à deux résumés par jour) et faire part de vos suggestions!
+22/06/2024, 13:20 - Yann-Ael: Note: je l’utilise de mon côté surtout pour résumer des contenus pédagogiques type cours/tutoriels (ce qui permet d’avoir les slides dans le résumé)
+22/06/2024, 14:20 - ‎+33 6 22 06 78 56 est parti·e
+22/06/2024, 16:01 - Pierrick BRIAND: @32498571928 c’est toi qui l’a développé ?
+22/06/2024, 16:08 - Yann-Ael: Oui, je détaille brièvement ici la démarche: https://vi-su.app/about
+22/06/2024, 16:25 - +33 6 88 57 53 04: Bonjour
+Je trouve l'outil efficace. Merci pour le partage.
+En tant qu'enseignant et formateur, sous ce format, je ne pense pouvoir m'en servir que très à la marge... pour que ce soit plus fonctionnel, l'accès à la retranscription et la possibilité de demander un résumé plus ou moins détaillés conviendraient davantage à mes objectifs pédagogiques.
+A travers cette 2e fonctionnalité, ce nouvel outil apporterait une réelle plus value sur nolej.
+Merci encore pour le développement et le partage de cet outil
+22/06/2024, 16:54 - Yann-Ael: Merci pour le feedback. C’est une fonctionnalité que je souhaiterais développer, je vous tiendrai informé si j’y parviens.
+22/06/2024, 18:31 - +33 6 14 16 68 64: Est-ce que ça s'appuye sur le soustitre ou tu analyse vraiment la vidéo ?
+22/06/2024, 18:59 - +33 6 52 49 10 78: Lien de l'enquête en question ?
+22/06/2024, 20:58 - +33 7 63 58 01 55: Elle est épinglée en haut de la conversation ☝🏻
+22/06/2024, 21:06 - Vous avez ajouté Ferey, Ludovic IA et +32 473 56 48 57

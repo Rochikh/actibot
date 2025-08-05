@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 555
+Messages: 18
+
+=== CONTENU ===
+30/11/2024, 20:57 - +33 6 66 98 84 23: J'ai testé pour imager mes cours et faire des fiches bilan. Pas mal !
+30/11/2024, 20:57 - Vincent DROUOT: J’ai compilé avec l’aide Perplexity les recommandations techniques pour pouvoir faire tourner un LLM en local.
+30/11/2024, 20:57 - Vincent DROUOT: https://www.perplexity.ai/page/les-ordinateur-portable-adapte-2B.__mBpQ.2NkvOeV2JSQQ
+30/11/2024, 20:58 - Vincent DROUOT: Perso, j’utilise GPT4ALL sur mon Macbook Pro M1 Max avec 32 Go de RAM. Installation très facile, et un large choix de modèle LLM.
+Cela fonctionne bien, mais je trouve la performance et la qualité des réponses moins bonne qu’un ChatGPT 4o ou un Claude 3.5 Sonnet via leur chat en ligne. Mais au moins, mes discussions sont privées 😎
+30/11/2024, 21:22 - ‎+216 97 510 891 a demandé à rejoindre le groupe.
+30/11/2024, 22:47 - +33 6 86 63 43 38: Merci
+30/11/2024, 22:52 - Oumayma: Bonsoir
+Gemini n'est pas comme avant elle ne donne pas un exopsé bien détaillé et schématisé
+Connesez vous pour qoui s'il vous plaît
+30/11/2024, 23:05 - ‎+216 97 510 891 a rejoint ce groupe grâce à son lien d’invitation
+30/11/2024, 23:10 - ‎+213 661 96 97 18 a demandé à rejoindre le groupe.
+01/12/2024, 03:34 - ‎+213 661 96 97 18 a rejoint ce groupe grâce à son lien d’invitation
+01/12/2024, 06:02 - Denis: Un peu de détente https://cursus.edu/fr/32309/quand-les-anciens-mythes-eclairent-lintelligence-artificielle
+01/12/2024, 08:30 - +33 6 60 20 86 76: Ce message a été supprimé.
+01/12/2024, 08:57 - Rochane: Pour celles et ceux qui s'intéressent à l'évolution de l'IA et aux dernières news, cette vidéo montre les limites des modèles d'IA actuels. L'approche du "scaling" est remise en question. Le Dino World model est présenté comme une alternative prometteuse, il privilégie l'adaptabilité et la planification plutôt que la simple mémorisation de données
+https://www.youtube.com/watch?v=L449Qrc0U4k
+01/12/2024, 10:35 - +33 6 72 75 43 48: Bonjour j’accueille un jeune en stage prochainement et sa mission sera de créer un blog .. avez-vous des recommandations d’outil gratuit et facile pour la prise en main ? J’ai pensé à WordPress ou Wix ? Que pensez vous de Gamma en IA ? Merci pour votre aide bon dimanche Michèle

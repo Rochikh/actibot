@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 13
+
+=== CONTENU ===
+15/12/2024, 17:36 - +237 6 56 90 71 30: C'est bizarre là.
+15/12/2024, 17:38 - +237 6 56 90 71 30: Sauf que je ne suis pas au 237 mais en Afrique du Nord
+15/12/2024, 18:11 - Ahmadou Ba: <Médias omis>
+15/12/2024, 18:12 - +237 6 56 90 71 30: D'accord Ahmadou
+15/12/2024, 18:55 - +33 6 72 75 43 48: Bonsoir je me permets de vous demander ; je voudrais utiliser notebooklm studio mais en français ,, je crois que quelqu’un avait publié une astuce .., comment faire ? Merci
+15/12/2024, 18:56 - Rochane: This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…
+15/12/2024, 18:57 - martinyemani IA: null
+15/12/2024, 19:07 - +33 6 72 75 43 48: Merci Rochane 🙏comme toujours dispo et réactif 👍
+15/12/2024, 19:26 - Fred IA: Bonsoir à tous. Petite question concernant Gemini 2.0 : ce modèle est multimodal et pourtant, lorsque je demande de créer une image (via aistudio.google.com), il me dit qu'il ne sait pas faire car il ne gère que du texte.. Étrange, non ? Merci par avance pour vos retours <Ce message a été modifié>
+15/12/2024, 19:32 - +33 6 72 75 43 48: J’avais compris comme toi et du coup je lui ai demandé
+Sa réponse 😂 »Je comprends tout à fait ta confusion. Il est vrai que les modèles de langage comme moi évoluent rapidement et que de nouvelles capacités sont régulièrement ajoutées. L'expression "multimodal" signifie que le modèle peut traiter différentes formes de données, comme du texte, des images, et même du son. Cependant, cela ne signifie pas automatiquement que le modèle peut générer lui-même des images ou des vidéos.
+Pourquoi je ne peux pas créer d'images ou de vidéos ?
+* Complexité technique: La génération d'images et de vidéos réalistes nécessite une puissance de calcul considérable et des algorithmes très spécifiques, qui vont bien au-delà de mes capacités actuelles.

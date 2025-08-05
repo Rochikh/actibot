@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 17
+
+=== CONTENU ===
+26/04/2025, 17:33 - Adrien Bock IA: merci ! est-ce que certains ont déjà vu une diférence de qualité de retranscription de notes avec Mistral? je trouve qu’il retranscrit mieux que chat les notes papiers
+26/04/2025, 17:58 - Rochane: Oui c'est son point fort : l'ocr
+26/04/2025, 19:26 - +41 79 258 90 36: peut-il scanner par OCR des pages en chinois et traduire en français? <Ce message a été modifié>
+26/04/2025, 19:29 - +32 479 82 01 20: https://mistral.ai/news/mistral-ocr
+26/04/2025, 19:29 - +32 479 82 01 20: D'après la documentation il est multilingue 😊
+26/04/2025, 19:29 - +32 479 82 01 20: Donc a tester
+26/04/2025, 21:42 - +212 644-562660: L'API est gratuite non?
+26/04/2025, 21:49 - +32 479 82 01 20: <Médias omis>
+26/04/2025, 21:51 - +212 644-562660: Pas cher du tout
+26/04/2025, 21:52 - +32 479 82 01 20: Oui vraiment pas
+26/04/2025, 21:53 - +212 644-562660: Merci pour le tuyeau l'ami 😄
+26/04/2025, 21:54 - +32 479 82 01 20: avec plaisir mon homonyme 😊
+26/04/2025, 23:36 - Votre code de sécurité avec +33 6 29 57 01 12 a changé. Appuyez pour en savoir plus.
+26/04/2025, 23:59 - +33 6 88 57 53 04: https://www.blogdumoderateur.com/chatgpt-destruction-planete-merci/
+Cet article du BDM examine si l'utilisation de ChatGPT, même pour des interactions simples comme dire « merci », a un impact environnemental significatif. Il met en lumière les défis liés à l'évaluation de la consommation énergétique des IA génératives et questionne leur empreinte écologique globale.
+27/04/2025, 00:16 - Rochane: L'article exagère l'impact environnemental de ChatGPT. Les estimations récentes montrent qu'une requête consomme environ 0,3 watt-heure, soit dix fois moins que les 3 watt-heures initialement avancés. Cette consommation est comparable à celle d'une recherche Google classique, et non "60 fois supérieure". L'article confond également l'entraînement des modèles (très énergivore mais en une fois) avec l'utilisation quotidienne (inférence)
+27/04/2025, 00:29 - +33 6 71 11 12 91: Non, l'article mentionne bien les 2 sources :

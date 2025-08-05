@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 19
+
+=== CONTENU ===
+13/05/2024, 21:52 - Rochane: et tu l'as en temps réel comme la démo de la conf ?
+13/05/2024, 21:52 - Yvelines: Oui, oui, via l'application comme dans la démo
+13/05/2024, 21:53 - Yvelines: Nope! Il y a toujours le délai! Je viens de vérifier la vidéo
+13/05/2024, 22:01 - Yvelines: C'est bizarre parce que les fonctionnalités et performances sont élargies mais ce n'est pas en temps réel 🤔
+13/05/2024, 22:02 - Rochane: oui Ludo est en train de faire les tests en direct https://www.youtube.com/watch?v=EkkzBPsVeZU
+13/05/2024, 22:10 - Rochane: https://youtu.be/y5bW9V8R_es?feature=shared
+Un résumé rapide de 11 min ici de toutes les nouveautés ( ça vous évitera de regarder plus haut 🙂)
+14/05/2024, 03:14 - ‎+32 479 94 80 38 a demandé à rejoindre le groupe.
+14/05/2024, 11:53 - +34 618 97 47 94: Connaîtriez vous un outil ou un process pour
+Créer un ensemble de documents et présentations avec la même structure et même format avec seulement le texte qui change.
+J’aimerais tout organiser depuis un tableau où autre type de documents et que les présentations du cours et notes/exercices à part puissent être créés de façon automatique avec le même format
+14/05/2024, 12:01 - +262 692 05 20 05: On peut faire ça avec CANVA version pro
+14/05/2024, 12:05 - +34 618 97 47 94: As tu un exemple du processus complet? J’imagine que c’est avec doc et transformer en présentation?
+14/05/2024, 12:07 - +262 692 05 20 05: Doc + création Blocs (qui est dans la barre à gauche de l'écran design formes, etc..)
+Et tu importes un csv ou tu copie-colles un tableau de données. Canva a dû publier un tuto.
+14/05/2024, 16:52 - +33 6 49 84 08 41: <Médias omis>
+14/05/2024, 17:04 - Rochane: En fait, pour l'instant, il n'y que les comptes payants qui ont Gpt 4o 🙂
+14/05/2024, 17:06 - +33 6 22 42 57 92: Apparemment la génération de vidéos n'est pas dispo dans la version gratuite, peut-être réservé à la version payante ? Avec également la taille et le nombre de fichiers à importer ?
+14/05/2024, 17:19 - +33 6 49 84 08 41: Merci

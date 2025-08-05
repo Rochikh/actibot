@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 9
+
+=== CONTENU ===
+10/01/2025, 23:49 - Votre code de sécurité avec ~ Milady Coco a changé. Appuyez pour en savoir plus.
+11/01/2025, 09:05 - Votre code de sécurité avec ~ Milady Coco a changé. Appuyez pour en savoir plus.
+11/01/2025, 09:50 - Rochane: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/
+Diffbot a récemment dévoilé un modèle d'IA révolutionnaire basé sur son Knowledge Graph (graphique de connaissances) contenant un trillion de faits. Ce modèle vise à améliorer la précision des informations et à réduire les "hallucinations" souvent produites par les IA. Contrairement aux modèles traditionnels, il utilise une approche appelée Graph Retrieval-Augmented Generation (GraphRAG), qui permet de consulter des données en temps réel, constamment mises à jour, au lieu de se limiter à des ensembles de données pré-entraînés.
+Construit sur la base du modèle LLaMA 3.3 de Meta, ce modèle surpasse des concurrents comme ChatGPT et Google Gemini dans des tests portant sur la récupération d'informations en temps réel et la précision académique. Diffbot met également l'accent sur l'open source, la personnalisation et l'efficacité énergétique, ce qui en fait une solution attrayante pour les entreprises cherchant une IA précise, responsable et respectueuse de la confidentialité
+11/01/2025, 10:05 - +33 6 28 06 83 96: Bonjour, je cherche une IA gratuite capable de synthétiser plusieurs pdf en même temps. Vous avez un conseil ? Je me disais que je pouvais fusionner les pdf et n'en mettre qu'un dans chat pdf mais je pense qu'il y a une limite dans la version que j'utilise mais sinon d'autres idées ? Merci belle journée à tous
+11/01/2025, 10:07 - Rochane: Notebooklm, incontestablement avec possibilité de mettre 50 sources par notebook
+11/01/2025, 10:08 - +33 6 28 06 83 96: ah cool merci @33649535198
+11/01/2025, 10:38 - Laurent The Cure: Bonjour, j'ai testé notebook comme le conseille @33649535198, mais je n'ai pas été satisfait des résultats qu'il donnait pour la création de quiz de révision. Je préfère utiliser jenova.ai qui est certes payant (15$) mais qui repond mieux à mes demandes et besoins.

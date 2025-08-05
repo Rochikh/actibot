@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 21
+
+=== CONTENU ===
+28/12/2023, 18:42 - Lucie: <Médias omis>
+28/12/2023, 21:51 - Votre code de sécurité avec Luc deleplanque a changé. Appuyez pour en savoir plus.
+30/12/2023, 09:18 - +32 498 78 46 36: <Médias omis>
+30/12/2023, 10:24 - Rochane: <Médias omis>
+01/01/2024, 10:05 - Rochane: https://youtu.be/WNP98jHtToQ?feature=shared Que c'est cool de démarrer l'année sur ce type de vidéo 😁
+02/01/2024, 17:23 - Rochane: J'ai suivi cette formation sur chat gpt et je confirme que le guide est juste énorme ainsi que les 9 vidéos sur le prompting
+J'en parlerai lors de notre prochain live du 9 janvier
+https://link.mail.beehiiv.com/ss/c/RimHzSNytVv84VenVlDjxGUP1wdiRhYK8PsGCpL6wZRoecL8JpNPsk6vAC5vz5FCwfK9o0QoSGOlbjd9WhJM8W7x95JKoQCoU1ArJODnOqN8swnQmvPU-a0zaVENyedHeOLs8EZSl9DEPQ4N-g7nisgVz_Ye0kDUV0aI_5yGMOYfWJPILSLa28Z9YYzBu9oaLS7wyhBpCeYVygXqM8Pp6kgYthOysX8rrPlLDZ9wJhSNmQTChZRJ7bCUsOZUsjcm/42e/4sOCaXhzQFq5CfVZX-WtFA/h8/8kqLHgRf37ZqI7zK0c62sOpdeV0Gujwr2njL0xy8Xd0 <Ce message a été modifié>
+02/01/2024, 17:25 - Laurent The Cure: je vais étudier cela. Merci pour le partage
+02/01/2024, 19:11 - Lucie: Flint les BOT ?
+02/01/2024, 19:12 - Rochane: Yes
+03/01/2024, 16:52 - Laurent The Cure: <Médias omis>
+03/01/2024, 16:52 - Laurent The Cure: <Médias omis>
+03/01/2024, 16:53 - Laurent The Cure: mon prompt.
+"tu es dessinateur d'animé. génère une image d'une tortue NInja façon dessin animé. Elle a les yeux verts, un large sourire, et porte un bandeau sur le front. LE bandeau est de couleur bleu roy avec écrit au milieu du front "ALLEZ l'OM" en blanc."
+03/01/2024, 16:54 - Laurent The Cure: il a évidement refusé de mettre le logo plutôt que le texte pour des raisons de droit d'auteur
+03/01/2024, 16:58 - +33 6 75 41 23 05: Bonjour
+Essayez de séparer chaque lettre par un espace. Parfois ça améliore le texte sur image.
+03/01/2024, 16:59 - Laurent The Cure: je tente merci
+03/01/2024, 17:00 - Laurent The Cure: <Médias omis>
+03/01/2024, 18:30 - Thierry VANOFFE: peut etre qu'en 2024 ça changera le texte correctement écrit... En tout cas c'est super courant les fautes d'ortho et les lettres manquantes...

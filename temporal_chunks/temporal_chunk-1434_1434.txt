@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 590
+Messages: 11
+
+=== CONTENU ===
+17/12/2024, 21:24 - ‎+33 7 57 02 28 21 est parti·e
+17/12/2024, 21:27 - Francois Bocquet: Je maintiens ma position : petite ou grande les directeurs des écoles sont responsables de traitement et doivent désigner un DPO. Ils doivent tenir des registres et doivent mettre en œuvre les démarches préalables. Si vous êtes in prestataire ou un fournisseur alors vous êtes sous traitant au sens du RGPD et devez proposer un DPA pour permettre au responsable d’être en conformité. Si cela n’est pas fait, alors il ne peut y avoir de conformité RGPD. Je le rappelle : un outil n’est jamais conforme seul un traitement peut être conforme ou non.
+17/12/2024, 21:29 - Francois Bocquet: Non. L’article 28 s’applique au traitement mis en œuvre par le responsable de traitement avec ses sous traitant de rang 1. Ceux ci doivent aussi appliquer les exigences de cet article avec leurs propres sous traitants de rang 2. C’est une obligation légale.
+17/12/2024, 21:43 - Francois Bocquet: La réglementation ne dit absolument qu’il y a un seuil financier pour s’appliquer. Elle s’applique même pour un projet gratuit. Le DPO n’est pas toujours obligatoire mais le règlement s’applique même s’il n’y a pas de DPO (cependant je recommande très fortement la désignation d’un DPO pour tout organisme de formation ou école privée. Pour le public c’est réglé car c’est obligatoire.
+17/12/2024, 22:51 - ‎+212 631-698223 a demandé à ajouter +212 638-407858.
+17/12/2024, 23:04 - Votre code de sécurité avec ~ Ki a changé. Appuyez pour en savoir plus.
+18/12/2024, 06:05 - Votre code de sécurité avec ~ Ki a changé. Appuyez pour en savoir plus.
+17/12/2024, 23:30 - +33 6 64 76 54 01: Pour info ce défi  : « L’IA au service de la performance éducative » lancé par EdTech France
+https://www.linkedin.com/posts/orianneledroit_demoes-edtech-ia-activity-7274683759906504704-w7Fg?utm_source=share&utm_medium=member_ios
+18/12/2024, 06:06 - ‎~ Ki a ajouté +212 638-407858
+18/12/2024, 07:24 - +33 6 64 50 56 67: bonjour, un gpt qui fait des podcasts. En français les voix ont un accent américain marqué. Créé à partir d'un document pdf. https://chatgpt.com/g/g-673b663bab688191ab443607cb4e06f4-podcast-gpt-by-wondercraft-ai le lien vers le podcast, je n'arrive pas à m'inscrire et du coup pas possible encore de le télécharger. https://www.wondercraft.ai/gpt/bd50a6ca-8042-4c2f-b6ce-2a37f054dbc3

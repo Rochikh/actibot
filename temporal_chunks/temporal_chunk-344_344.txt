@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 642
+Messages: 12
+
+=== CONTENU ===
+Chez Apolearn AI, nous poursuivons le développement de notre formation intitulée « Maîtriser l’IA pour la formation ». Pour rappel, elle est entièrement gratuite.
+Un sujet revient très souvent dans nos recherches sur l’utilisation de l’IA en contexte éducatif : il s’agit de la correction des devoirs réalisés par les apprenants.
+Nous imaginons que, dans le groupe, certains se sont penchés sur la question. Ont-ils trouvé des méthodes et des outils ? Auraient-ils des conseils à formuler à la communauté sur ce point ?
+30/03/2024, 09:36 - +32 484 68 10 13: Moi j inutilise le mode vocal de l application Chat Gpt 😅
+30/03/2024, 09:54 - Ahmadou Ba: Il m'arrive de donner des exercices réactionnelles à mes élèves via google classrooom, en corrigeant les productions des élèves j'utilise l'extension Quilbot, un correcteur d'orthographe, il peut aider à paraphraser pour reformuler certaines phrases. C'est très pratique pour les travaux collaboratifs des élèves et améliorer leurs productions qui par la suite pourra servir de supports pédagogiques. En utilisant quilbot, je ne concentre mieux sur le contenu, je ne suis pas distrait par la mauvaise expression et led fautes des élèves. Ça me fait gagner du temps.
+Je ne sais si cela répond à votre question.
+J'avais fait un post la dessus sur LinkedIn récemment.
+30/03/2024, 09:55 - Ahmadou Ba: https://www.linkedin.com/pulse/innovation-p%25C3%25A9dagogique-en-sciences-humaines-le-trio-dynamique-ba-py51e
+30/03/2024, 09:58 - Pierrick BRIAND: Merci Ahmadou, je mets ton article dans notre liste de lecture.
+30/03/2024, 09:59 - Rochane: Vous avez supprimé ce message
+30/03/2024, 10:06 - Votre code de sécurité avec +33 6 30 89 95 98 a changé. Appuyez pour en savoir plus.
+30/03/2024, 10:15 - Rochane: Perso, j'ai donné un module sur l'innovation pédagogique aux Masters Ingénierie Pédagogique Multimédia et les travaux que je leur ai demandé de rendre, il s'agissait de PDF assez volumineux. J'ai utilisé l'IA ( Claude 2 à l'époque) pour m'aider à trouver une grille de critères d'évaluation puis j'ai corrigé complètement un travail en donnant tout mon avis avec les critères générés à l'IA. Puis, les PDF suivants, je mettais les travaux dans l'IA pour avoir une première approche mais je revenais systématiquement sur les corrections pour voir s'il n'y a pas eu d'hallucinations. Il faut être très vigilant car pour la moindre inattention, on peut avoir des remarques des étudiants. J'avoue que l'IA m'a aidé beaucoup dans la correction même si je ne faisais pas confiance à 100% <Ce message a été modifié>

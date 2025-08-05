@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+Si vous connaissez un autre outil qui permet ça, ça pourrait être bien.
+31/10/2023, 16:18 - Guillaume Singeot: ça dépend des ressources (taille, nature) mais j'ai utilisé Trello en mode gratuit avec un système de couleur légendé utilisant les étiquettes
+31/10/2023, 16:21 - Luc deleplanque: Je suis assez d'accord avec toi sur la problématique de recherche ... la BdD peut être générée sur base du Post dans  le Mur (qui est accessible par un lien spécifique) en suite les mots ou tags peuvent faire l'objet de remarques au poste. La  chose restant à savoir qui et comment, le fait... 😉 Je pense que AirTable est plus dans la logique de BdD mais les Tags (plus limités) de Trello restent une option aussi 👐
+31/10/2023, 16:23 - Luc deleplanque: Nous pourrions mettre en place un groupe / atelier pour automatiser l'opération avec Make... qu'en pensez-vous... ⁉️
+31/10/2023, 16:24 - Rochane: Effectivement Airtable est un outil très flexible et l'on peut passer un formulaire ouvert à toutes et à tous pour déposer des URL ou des documents pour être affichés selon plusieurs vues
+31/10/2023, 16:25 - Rochane: Je propose qu'il y ait un petit groupe pour étudier toutes les solutions possibles pour améliorer la mutualisation et pour ne pas polluer ce groupe <Ce message a été modifié>
+31/10/2023, 16:27 - Luc deleplanque: SONDAGE  :
+Souhaites-tu participer à un atelier pour concevoir une gestion plus ou moins automatisée des infos partagées par le groupe ?
+OPTION  : Oui, je veux en faire partie (‎7 votes)
+OPTION  : Pas pour l'instant (‎2 votes)
+OPTION  : Non merci (‎1 vote)
+31/10/2023, 16:27 - Rochane: S'il y a des gens qui souhaitent participer à la réflexion d'un outil de mutualisation, ça se passe ici https://chat.whatsapp.com/JD6US5u4gxwEi0eZAZg4bg
+31/10/2023, 17:29 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 31/10 20h-21h :
+https://us06web.zoom.us/j/81276204849?pwd=5KLWiYAFf5xxwF3qT2IB5aPEAbbUUt.1
+Meeting ID: 812 7620 4849
+Passcode: 204873

@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 7
+
+=== CONTENU ===
+02/03/2025, 08:47 - Rochane: J'aime beaucoup ce classement suggéré par Benoît Raphaël
+Claude est un chatbot élégant et parfaitement conçu. Il dispose du meilleur modèle d’IA pour la créativité, la rédaction, le code, l’analyse de données (à égalité avec ChatGPT) et l’exploration (“dialogue engineering”). Le plus ? Son mode “artifact” te permet de réaliser des infographies interactives, des petits jeux super jolis ou d’éditer du texte. Le moins ? Il ne peut pas (encore) surfer sur le web.
+ChatGPT est peut-être plus intéressant si tu débutes. Il est bon en synthése et a de bonnes capacités de rédaction. Il peut aussi aller sur Internet, ce qui n’est pas (encore) le cas de Claude et peut générer des images (pas top). Il dispose aussi d’un éditeur (Canvas) qui te permet de corriger tes textes. En bref, il est plus polyvalent. Et son modèle iconique (GPT-4o) maîtrise parfaitement les outils à sa disposition.
+Grok est un modèle trés puissant (raisonnement, recherche approfondie sur le web, code…), mais le chatbot manque encore d’outils pour le rendre polyvalent. Gros avantage : tu n’as pas besoin d’abonnement pour en profiter. Autre point notable (ou énervant, selon ta vision du personnage) : son créateur (Elon Musk) a un agenda politique affiché, ce qui n’est pas le cas de ses concurrents. Son IA est donc légèrement plus… décomplexée.
+Mistral : moins bon que les 3 précédents, mais trés polyvalent (recherche web, analyse de données, assistants) même si le modèle a parfois un peu du mal à piloter ses outils. Il peut aussi générer des images (très jolies). En fait, la principale raison qui me fait le placer dans ce top 4, c’est qu’il est français et que c’est bien de soutenir un chatbot français. Eh oui, choisir un chatbot c’est aussi de la (géo)politique !
+02/03/2025, 08:58 - Lucie: Il y a Glasp aussi. Le plugin chrome qui affiche les SRT a droite et qui propose aussi des liens avec chatGPT pour une analyse directe
+02/03/2025, 09:06 - +33 6 12 44 18 63: Ce message a été supprimé.

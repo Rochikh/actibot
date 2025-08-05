@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 584
+Messages: 13
+
+=== CONTENU ===
+07/11/2024, 11:13 - +33 7 66 23 46 45: Hola commu !
+Merci pour toutes les infos postées ici qui sont très utiles et les échanges riches.
+Je recherche un outil d'IA gratuit et efficace qui transformerait des pages de notes manuscrites en notes numériques. Auriez-vous testé et approuvé quelque chose de ce genre ? Peut-être que GPT le fait bien finalement ? Pardon si la question a déjà été éludée auparavant, je suis arrivée il y a peu dans le groupe et n'ai pas l'historique.
+Merci et belle journée à toutes et tous 😉
+07/11/2024, 11:15 - Clément Cahagne: La fonction intégrée dans ChatGPT « Describe » fait ça très bien. Couplé à un assistant GPTs pour calibrer la mise en forme du rendu par exemple, c’est plutôt pratique. J’ai développé un GPTs comme cela pour un client : il entre le type de document souhaité en sortie parmi 3 formats pré-enregistrés; puis il envoie ses notes manuscrites (écriture de médecin acceptée) et ça ressort de belles choses 🙂
+07/11/2024, 11:49 - ‎+33 6 80 25 63 41 a demandé à ajouter +33 6 47 43 13 81 et +33 6 69 64 59 44.
+07/11/2024, 12:44 - ‎+33 6 62 78 15 04 a ajouté ~ Pascal Dehut
+07/11/2024, 12:44 - ‎~ Li a ajouté +33 6 47 43 13 81
+07/11/2024, 12:44 - ‎~ Li a ajouté +33 6 69 64 59 44
+07/11/2024, 12:46 - Rochane: L’UNESCO met en place un cadre de compétences (pdf de 80 pages en anglais) en IA pour préparer nos élèves à devenir des citoyens créatifs et responsables dans l'ère numérique. #Éducation #IA
+https://unesdoc.unesco.org/ark:/48223/pf0000391105
+07/11/2024, 12:47 - Rochane: le GPT que tu as développé est public ? Et sinon, c'est quoi exactement cette fonction Describe ? Comment on l'active ?
+07/11/2024, 12:54 - Clément Cahagne: Non, le GPT développé est malheureusement privé. Je vais voir si j'ai le temps de récupérer les informations et éventuellement d'en faire un GPT public en anonymisant toutes les parties qui peuvent être relatives au client pour qui j'ai développé. J'appelle la fonction *describe*, la fonction qui analyse les images dans ChatGPT. C'est peut-être un abus de langage. Je ne suis pas sûr que ça s'appelle exactement comme ça ! Mais bon, en gros, le principe, c'est de lui donner une image, un texte, un scan ou n'importe quoi, et de lui demander de réécrire les textes qu'il y a dessus, ou d'analyser les images si besoin, ou les schémas, par exemple

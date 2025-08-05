@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 20
+
+=== CONTENU ===
+26/03/2025, 22:50 - +33 6 19 89 32 62: Sur un ça a été mieux mais pas sur l’autre donc j’ai modifié avec juste les voyants et j’ai remis du texte par dessus !!! Comme en bricolage j’ai bidouillé  au final !
+27/03/2025, 06:37 - +32 475 86 01 57: Canva?
+27/03/2025, 06:51 - Rochane: <Médias omis>
+27/03/2025, 06:55 - ‎+33 6 70 46 13 52 est parti·e
+27/03/2025, 08:54 - +32 479 29 01 81: Vivement ce soir !
+Merci !
+27/03/2025, 09:00 - estelle Duterage Drion IA: Antonin un grand merci pour ce partage !
+27/03/2025, 09:20 - +33 6 19 89 32 62: Oui Canva
+27/03/2025, 09:21 - +33 6 19 89 32 62: Je vais tout faire pour mais je serai en voiture . Hâte !
+27/03/2025, 09:45 - +33 6 25 79 50 95: Bonjour Jean-Marc et à tous
+C'est Pareto rigolo : 20 % abouti 80% adopté.
+Trêve de plaisanterie NotebookLM vient d'ajouter une fonctionnalité fort intéressante pour ceux qui affectionnent les cartes mentales.
+Sauf que je ne l'ai pas encore vu dans mon Notebook.
+@tous :  l'avez vous ?
+https://m.youtube.com/watch?v=CxZ-XcQ9PvU
+27/03/2025, 09:56 - +32 475 86 01 57: Bof… https://www.linkedin.com/posts/bareau-antonin-6a698649_une-ia-pour-se-souvenir-de-respirer-jadore-activity-7309603155233644544-E_5s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApJ8F4BHTAXdH6ZAX0-2eqrx41HJ7Bb3ZU
+27/03/2025, 09:58 - Jean-Marc Everard: Dans le notebookLm lié à mon workspace Google (payant) oui, sur mon compte gratuit, non. Mais il semble que certaines personnes avec des comptes gratuits ont quand même accès à la fonctionnalité. Du coup je ne sais pas très bien ce qui détermine qu'on l'aie ou pas.
+27/03/2025, 10:09 - +33 6 25 79 50 95: Merci Jean-Marc
+C'est la lotterIA :-)
+27/03/2025, 10:14 - Francois Bocquet: C’est tout simplement le plan de déploiement sur les comptes (lié à leur ancienneté par exemple ou autre critères). Google fait toujours ça pour tous ses services pour gérer les pics de charge liés au moment de la découverte de la fonctionnalité que tout le monde essaye en meme temps. Sur les consoles d’administration pour les services pro l’administrateur a le choix des rythmes de déploiements en fonction des unité d’organisation de son annuaire. Ça va donc venir pour tout le monde étalé sur une période de 2 à 4 semaines.

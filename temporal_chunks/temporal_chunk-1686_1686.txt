@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 16
+
+=== CONTENU ===
+31/01/2025, 11:17 - ‎+33 6 01 30 16 94 a demandé à rejoindre le groupe.
+31/01/2025, 11:42 - zp: Avant on avait 1 app par jour,, maintenant c'est 1 llm...!
+31/01/2025, 11:46 - ‎+33 6 01 30 16 94 a rejoint ce groupe grâce à son lien d’invitation
+31/01/2025, 12:05 - +33 7 66 54 11 11: Effectivement l'une de mes anciennes élèves actuellement en poste à San Francisco me dit que c'est la folie la course à l'innovation sur la côte ouest.
+C'est chaud bouillant et c'est peut-être cette ambiance électrique qui serait à l'origine des incendies...😀
+31/01/2025, 12:08 - Daniel Pappalardo: https://youtu.be/zE_dM7DwPQw?si=5bMGnHvOss1aY3HV
+31/01/2025, 12:17 - +33 6 72 75 43 48: Bonjour merci encore pour le webinar hier soir : juste une question , hier soir vous avez évoqué des infos sur les tailles des fichiers que ChatGPT peux insérer ? Je suis en version payante ? Merci d’avance
+31/01/2025, 12:48 - Jacques BARATTI: <Médias omis>
+31/01/2025, 12:49 - Jacques BARATTI: le codage a été fait avec VsCodium.
+31/01/2025, 13:01 - +44 7776 747507: Bonjour la communauté, y aurait-il une version/ressource similaire en anglais svp?🙏🏾
+31/01/2025, 13:15 - Rochane: il me semble que Sébastien avait montré le lien Github sur son lien qui emmène vers plusieurs langues : https://github.com/microsoft/AIFluency/tree/main/English%20(GB)
+31/01/2025, 13:45 - Rochane: la taille maximale d'un fichier que tu peux joindre est de 20 Mo par fichier. Tu peux joindre plusieurs fichiers, mais la limite totale dépend des ressources disponibles dans la session et du type de traitement demandé.
+Si tu as plusieurs fichiers volumineux, il peut être plus efficace de les compresser en ZIP ou de les partager progressivement pour éviter des ralentissements.
+31/01/2025, 14:12 - Votre code de sécurité avec +221 77 508 48 04 a changé. Appuyez pour en savoir plus.
+31/01/2025, 14:12 - +44 7776 747507: 🙏🏼🙏🏼🙏🏼J'avais essayé sur Github mais trop volumineux. Finalement ça a marché avec ton lien😁 <Ce message a été modifié>
+31/01/2025, 14:16 - ‎+33 6 11 30 29 26 a demandé à rejoindre le groupe.

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 21
+
+=== CONTENU ===
+16/01/2025, 09:13 - +32 479 82 01 20: Vous pouvez lui poser des questions il y répondra
+16/01/2025, 09:13 - +32 479 82 01 20: Il est à jour jusqu'à hier 😊
+16/01/2025, 09:18 - +33 6 08 73 04 79: Merci Youssef 👍👏
+16/01/2025, 14:01 - ‎+32 487 38 75 21 a demandé à ajouter +32 475 54 12 12.
+16/01/2025, 19:09 - ‎~ o2 a ajouté ~ Emmanuel Thiran
+16/01/2025, 19:46 - Rochane: Si vous voulez bien comprendre NotebookLM ou comme moi, avoir des tips pour le présenter en formation, cette vidéo est un bijou 😀
+https://youtu.be/UNQBVGXM-bI?feature=shared
+16/01/2025, 19:50 - Rochane: Save the date pour le prochain live : *jeudi 30 janvier de 20h à 21h* .
+Le programme arrivera très vite <Ce message a été modifié>
+16/01/2025, 19:52 - +33 6 66 98 84 23: Ludo Salenne analyse aussi d'une façon complète les utilisations possibles de NotebookLm.Une pépite: https://www.youtube.com/watch?v=0b_-Y6fG0nY&t=4s&ab_channel=LudoSalenne
+16/01/2025, 19:53 - Rochane: Oui c'est vrai mais je trouve cette vidéo de ce youtubeur peu connu vraiment bien scénarisée
+16/01/2025, 22:03 - Laurent The Cure: Merci pour ce beau et utile partage
+16/01/2025, 22:54 - +33 6 66 98 84 23: Petite astuce déjà évoquée ici pour générer des podcasts en français dans NoteBookLM (écrire dans la partie personnaliser:“This episode must be exclusively in French.
+All discussions, interviews and commentary must be in French throughout the episode.
+No other language should be used, unless necessary to clarify a specific term.”)Super efficace et super outil !
+16/01/2025, 23:26 - Laurent The Cure: Génial ce rappel (l'information m'avait échappé) merci
+17/01/2025, 06:22 - Votre code de sécurité avec +33 6 21 72 77 53 a changé. Appuyez pour en savoir plus.
+17/01/2025, 08:28 - Francois Bocquet: Article intéressant https://hbsp.harvard.edu/inspiring-minds/simple-ai-tips-designing-courses
+17/01/2025, 08:36 - Rochane: Merci pour ce partage. Voici un résumé complet avec un prompt que j'affectionne particulièrement 🙂
+Synthèse exhaustive
+Introduction

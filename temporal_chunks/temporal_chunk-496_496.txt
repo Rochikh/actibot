@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 22
+
+=== CONTENU ===
+En résumé, cette enquête montre que les enseignants sont plus enthousiastes que les étudiants vis-à-vis de l'utilisation de l'IA dans l'éducation, et que les étudiants les plus investis sont ceux qui utilisent le plus l'IA pour améliorer leur apprentissage dans le contexte post-pandémique
+https://prn.to/3wxvOFE
+07/05/2024, 10:53 - +237 6 90 60 45 17: <Médias omis>
+07/05/2024, 11:42 - +33 6 23 84 29 25: Bonjour je recherche un site pour analyser commenter un document pdf
+07/05/2024, 11:47 - Francois Bocquet: L’IA pervasive avance vite (exemple avec Google Workspace) ! https://video.twimg.com/ext_tw_video/1787751244674576384/pu/pl/cm4GddHSxhyKf1Cz.m3u8?tag=12&container=cmaf
+07/05/2024, 12:01 - Rochane: https://landing-dhubu4nd1-humata.vercel.app/
+07/05/2024, 12:49 - ‎+33 6 83 91 79 36 a rejoint le groupe à partir de la communauté.
+07/05/2024, 12:59 - ‎+33 6 83 91 79 36 est parti·e
+07/05/2024, 17:03 - ‎+33 6 45 57 91 89 a rejoint le groupe à partir de la communauté.
+07/05/2024, 17:46 - +212 658-518929: Bonjour ! Il me semble avoir vu dans cette conversation un outil permettant de créer un chatbot personnalisé où on peut choisir le llm sous jacent. Cela dit quelque chose a quelqu’un ? Merci 🙏
+07/05/2024, 17:49 - Letizia ALLEGRINI: Opengpt ?
+07/05/2024, 18:02 - Rochane: Poe.com ?
+07/05/2024, 18:05 - +212 658-518929: Yes ! Merci 🙏
+08/05/2024, 12:04 - LIO: Bonjour le lien ne fonctionne pas
+08/05/2024, 12:05 - Rochane: Exact
+08/05/2024, 12:46 - Francois Bocquet: Ça fonctionne sur Chrome sur mon iPhone :-(
+08/05/2024, 12:46 - Francois Bocquet: https://video.twimg.com/ext_tw_video/1787751244674576384/pu/pl/cm4GddHSxhyKf1Cz.m3u8?tag=12&container=cmaf
+08/05/2024, 12:47 - Francois Bocquet: Peut être essayer avec https://video.twimg.com/ext_tw_video/1787751244674576384/pu/pl/cm4GddHSxhyKf1Cz.m3u8
+08/05/2024, 12:47 - Rochane: <Médias omis>
+08/05/2024, 12:47 - Francois Bocquet: Ah :-(
+08/05/2024, 12:48 - Francois Bocquet: Fonctionne aussi sur Firefoxx sous iOS
+08/05/2024, 12:49 - Francois Bocquet: Ça présente les fonctionnalités Gemini intégrée dans les différents outils de la suite Workspace de Google

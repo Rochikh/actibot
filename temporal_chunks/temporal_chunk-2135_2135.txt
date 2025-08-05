@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 19
+
+=== CONTENU ===
+30/04/2025, 13:39 - ‎+33 7 64 25 81 50 a demandé à rejoindre le groupe.
+30/04/2025, 14:38 - Votre code de sécurité avec ~ Sylvie Steppé a changé. Appuyez pour en savoir plus.
+30/04/2025, 15:44 - Laurent The Cure: j'ai adopté (et payé) Heygen. Cela répond absolument à mon besoin ! Merci encore
+30/04/2025, 15:46 - +32 498 78 46 36: https://labs.google/lll/fr
+Une autre sortie de Google mais toujours en version beta, Little Language Lessons pour apprendre une langue uniquement sur des sujets qui nous intéressent
+30/04/2025, 16:14 - ‎+33 7 64 25 81 50 a rejoint ce groupe grâce à son lien d’invitation
+30/04/2025, 18:30 - Votre code de sécurité avec ~ Cabinet CGP a changé. Appuyez pour en savoir plus.
+30/04/2025, 19:19 - ‎~ Cabinet CGP est parti·e
+30/04/2025, 19:32 - ‎Aristide Konan a demandé à rejoindre le groupe.
+30/04/2025, 19:39 - Jean-Marc Everard: NotebookLM reste définitivement (pour quelques semaines encore au moins 😜) mon application d'IA préférée. Google AI studio, Firebase AI, NotebookLM, Gemini 2.5, Little Language lessons,... Je ne sais pas vous, moi personnellement j'ai l'impression que Google est en train de sortir la grosse artillerie et coiffe beaucoup de monde au poteau en ce moment.
+30/04/2025, 19:41 - estelle Duterage Drion IA: Little language lessons ? Je connais pas
+30/04/2025, 19:42 - ‎+596 696 11 07 99 a demandé à rejoindre le groupe.
+30/04/2025, 19:43 - +33 6 52 73 73 42: Cf le post de @32498784636 juste au-dessus !
+30/04/2025, 20:42 - ‎+596 696 11 07 99 a rejoint ce groupe grâce à son lien d’invitation
+30/04/2025, 20:42 - ‎Aristide Konan a rejoint ce groupe grâce à son lien d’invitation
+30/04/2025, 20:43 - Aristide Konan: Bonsoir à tous et à toutes merci de m'avoir accepté.
+30/04/2025, 20:48 - Rochane: Tout à fait !
+J'ai bien aimé la méthode de ludo Salenne dans sa dernière vidéo du jour :
+Il prend une thématique importante, il génère 3 articles dans 3 LLM différents : OpenAI l'américain O3 en deepresearch, Qween3 le chinois en research et Mistral le français.

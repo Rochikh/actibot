@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 546
+Messages: 18
+
+=== CONTENU ===
+03/03/2024, 09:21 - Rochane: <Médias omis>
+03/03/2024, 09:28 - Rochane: <Médias omis>
+03/03/2024, 09:32 - Pierrick BRIAND: Bonjour Rochane, c’est la seconde fois que j’entends parler de cette méthode. Je vais l’inscrire dans la liste des notions à développer sur notre formation. Cependant, il serait utile de l’expliquer avec un cas concret dans notre domaine. Par exemple améliorer la génération de contenus pédagogiques.
+03/03/2024, 09:34 - Pierrick BRIAND: Une vidéo sous forme de tutoriel serait pertinente pour bien expliquer cette méthode. On y travaille ensemble ?
+03/03/2024, 09:35 - Rochane: Exactement, mais le concept me paraît un peu complexe dans le cadre d'une formation. Peut être à travers un exemple simple mais il faut également la tester et montrer sa valeur ajoutée 🙂
+03/03/2024, 09:41 - Jacques BARATTI: @rochane pour le GPT c'est whimsical Diagrams?
+03/03/2024, 09:47 - Rochane: Exactement
+03/03/2024, 09:52 - Jacques BARATTI: il est intéressant pour organiser graphiquement des idées, merci Rochane
+03/03/2024, 09:53 - Rochane: Oui, je l'utilise beaucoup en formation et notamment pour expliquer des concepts complexes
+03/03/2024, 10:03 - Jacques BARATTI: @rochane ton lien renvoie vers un article qui décrit la méthode CRAG, comment l'utiliser pratiquement ?
+03/03/2024, 10:04 - Rochane: https://chat.openai.com/share/0386426a-50ad-420b-912a-e352b207f158
+03/03/2024, 10:06 - Rochane: Je suis en train de la tester avec un autre sujet en utilisant le prompt idéal de cette conversation
+03/03/2024, 10:07 - Jacques BARATTI: si j'ai bien compris on mobilise la méthode CRAG à partir de ce qui est écrit dans le prompt ?
+03/03/2024, 10:08 - Rochane: Oui, on améliore la génération de texte par correction des informations récupérées
+03/03/2024, 10:25 - +32 479 58 54 12: Génial Whimsical, je ne connaissais pas 🙂
+03/03/2024, 10:41 - +33 6 84 84 42 61: https://www.thats-ai.org/fr-CH
+03/03/2024, 10:41 - +33 6 84 84 42 61: Jamais inutile de rappeler tout ça !
+03/03/2024, 10:50 - Jacques BARATTI: J'ai créé un GPT pour utiliser la méthode CRAG (proposée par Rochane !) il est disponible ici (https://chat.openai.com/g/g-MTr2mTF8u-utiliser-la-methode-crag)

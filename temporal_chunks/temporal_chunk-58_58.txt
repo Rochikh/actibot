@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 682
+Messages: 15
+
+=== CONTENU ===
+07/11/2023, 09:45 - +33 7 68 67 76 16: Bonjour, je découvre l'IA. Je souhaiterais soumettre aux lycéens un quizz.
+Pour cela je recherche une IA qui générerait des anecdotes, canulars, rumeurs, faits, opinions, informations... Et les lycéens devraient cocher les bonnes réponses.
+Auriez-vous des idées à me suggérer SVP?
+07/11/2023, 09:51 - Rochane: Quoi, tu as déjà la nouvelle interface ?
+07/11/2023, 09:56 - Rochane: Bonjour, rien qu'avec Chat GPT, tu peux faire ça mais il faut bien travailler son prompt si on veut avoir un résultat exploitable. Sinon, la ressource partagée en haut https://lesrochdur.com/ia-box-education/ est vraiment une mine d'or 🙂
+07/11/2023, 09:57 - +33 7 68 67 76 16: Merci beaucoup
+07/11/2023, 12:22 - +33 6 63 72 18 15: Tu peux aussi regarder sur MagicSchool school ou wooflash ( en le retravaillant )
+07/11/2023, 12:50 - +33 7 85 94 69 69: C’est quoi ?
+07/11/2023, 12:50 - Rochane: Le problème de wooflash, non seulement il faut avoir un abonnement payant mais les apprenant·e·s aussi doivent s'identifier sur la plateforme
+07/11/2023, 18:13 - Son: Quizizz permet aussi de créer des quiz grâce à l'IA. Et là, pas besoin d'abonnement ni d'identification !
+07/11/2023, 18:17 - +237 6 99 02 51 84: Quizizz est très intéressant, sauf que la version gratuite donne accès juste à quatre ou cinq types de questions
+07/11/2023, 18:19 - Ahmadou Ba: Quizizz permet également d’importer des questions à partir de Google Forms
+07/11/2023, 18:21 - Ahmadou Ba: Il y a également un module complémentaire de Google Forms qui fonctionne avec l’ia. La version peut générer jusqu’à 50 questions. Tu précises le thème et le niveau des élèves et le nombre de questions et il te crache un questionnaire.
+07/11/2023, 18:22 - Ahmadou Ba: L’atout principal de quizizz comme Quizlet et Kahoot! C d’organiser des compétitions entre élèves où vous même vous pouvez jouer. C ludique et pédagogique. Très bon pour les révisions.
+07/11/2023, 19:10 - +33 6 42 26 64 70: Bonjour à toutes et tous, sachez que si vous disposez d’un LMS Moodle pour la conception et diffusion de vos modules, vous pouvez y installer trois plugins gratuits utilisant l’API de votre compte ChatGPT (payant) : e premier permet de générer des questions type QCM corrigées a partir d’un corpus (texte), directement injectées dans votre banque de question et donc directement utilisables ensuite dans un test. Un second permet de générer au sein de l’éditeur de Moodle des images/illustration via Dall-E, elles aussi réutilisable. Enfin, le dernier met en place un chatbot conversationnel pre-prompté pour circonscrire ses réponses aux seules questions d’utilisation de Moodle (dimensions techniques ou pédagogiques). Belle soirée à toutes et tous.

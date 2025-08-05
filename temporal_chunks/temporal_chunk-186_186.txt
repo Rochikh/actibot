@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 22
+
+=== CONTENU ===
+CHATGPT
+CLAUDE 2
+MYSTRAL
+et bientôt LLAMA hébergé en europe
+02/02/2024, 17:18 - Guillaume CLEMENT: Elle propose aussi une interface d'administration et l'entrainement d'agent IA par le biais du RAG
+02/02/2024, 17:19 - Guillaume CLEMENT: Si besoin d'une présentation n'hésitez pas 😉
+02/02/2024, 17:19 - Jean-Marc Everard: OK, en étant garanti que l'entreprise derrière safebrain elle-même n'a pas accès aux prompts ?
+02/02/2024, 17:20 - Jean-Marc Everard: ou aux réponses d'ailleurs...
+02/02/2024, 17:27 - Guillaume CLEMENT: Je suis partenaire Safebrain, donc j'ai un accès, j'ai eu a travailler en collaboration avec eux sur un RAG et il a fallu que je déverrouille a 2 niveau et transmettre le lien de la conversation pour qu'ils y aient accès et que l'on puissent bosser ensemble
+02/02/2024, 17:27 - Guillaume CLEMENT: c'est hébergé en France et selon le preco RGPD
+02/02/2024, 17:30 - Jean-Marc Everard: Ok merci bcp. Je transmettrai à mes collègues 👍🏻
+02/02/2024, 19:55 - Votre code de sécurité avec +32 496 42 84 33 a changé. Appuyez pour en savoir plus.
+02/02/2024, 20:17 - Votre code de sécurité avec +33 6 87 86 78 87 a changé. Appuyez pour en savoir plus.
+03/02/2024, 09:31 - ‎+33 7 86 01 11 31 a rejoint le groupe à partir de la communauté.
+03/02/2024, 11:40 - Votre code de sécurité avec ~ ✌🏽🙌🏽 a changé. Appuyez pour en savoir plus.
+03/02/2024, 11:54 - ‎+212 661-506780 a rejoint le groupe à partir de la communauté.
+03/02/2024, 15:22 - +33 6 22 14 03 93: Bonjour à tous
+Je suis potentiellement intéressé par une formation python en distanciel  pour développer mes connaissances.
+03/02/2024, 15:23 - +33 6 22 14 03 93: Que me recommandez vous comme école ?
+Merci 🙏
+03/02/2024, 15:23 - +33 6 67 08 30 12: Je sais qu'il y a un mooc de dispo sur fun Mooc concernant le python mais je ne sais pas ce que ça vaut. En attendant c'est gratuit et ça peut à mon avis donner de bonnes bases
+03/02/2024, 15:24 - Rochane: Exactement, j'ai pensé à la même chose sur LinkedIn Python A-Z™: Python For Data Science With Real Exercises!- Discount Course

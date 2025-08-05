@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 12
+
+=== CONTENU ===
+Tomlinson, B., Black, R. W., Patterson, D. J., & Torrance, A. W. (2024). The carbon emissions of writing and illustrating are lower for AI than for humans. Scientific Reports, 14(3732). https://doi.org/10.1038/s41598-024-54271-x
+---
+Learn more:
+1. [L'impact de l'intelligence artificielle sur l'environnement](https://www.wechamp-entreprise.co/impact-intelligence-artificielle-environnement/)
+2. [Quels effets l'intelligence artificielle (IA) peut-elle avoir sur l'environnement ? | Le Conseil économique social et environnemental](https://www.lecese.fr/actualites/quels-effets-lintelligence-artificielle-ia-peut-elle-avoir-sur-lenvironnement)
+3. [Intelligence artificielle | Un impact environnemental monstre | La Presse](https://www.lapresse.ca/affaires/economie/2023-06-03/intelligence-artificielle/un-impact-environnemental-monstre.php)
+12/04/2024, 11:42 - Francois Bocquet: Autre limite : de plus en plus de data centers sont alimentés par de l’énergie renouvelable qui n’émet que très peu de CO2. Cela amène donc un énorme biais dans ces évaluations :-(
+12/04/2024, 11:43 - +33 6 51 43 08 14: S'ils se basent uniquement sur la génération je peux aisément le croire mais je ne sais pas s'ils prennent en compte le coût enviromental lié aux machines qui servent à étiquetter les données et l'entraînement des IA qui a mon avis est colossal.
+12/04/2024, 11:43 - Francois Bocquet: C’est pas faux !
+12/04/2024, 11:49 - Ahmadou Ba: J'avais un article sur les references fournies par les IA mais apparemment il y a un taux de fictivité extremment elevé surtout si les références fournies sont en français. La plus part des liens fournies par Gemini ne sont valides par contre copilot qui puise directement sur les articles en ligne donne souvent de bons resultats. Donc les sources sont souvent à verifier
+12/04/2024, 11:59 - ‎+33 6 76 46 38 05 est parti·e
+12/04/2024, 12:09 - Clément Cahagne: Ils ne se basent pas que sur la requête unique, mais sur l’entrainement du modèle également : voir la partie RESULTATS / AI WRITING

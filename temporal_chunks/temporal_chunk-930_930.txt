@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 11
+
+=== CONTENU ===
+Ressource interessante sur le nouveau modèle, même si c en anglais essayez de regarder c bluffant les cas d'usages qu'il utilise
+12/09/2024, 23:04 - +212 644-562660: Bemole à garder en tête, y a une limite d'utilisation de 30 messages par semaine
+12/09/2024, 23:04 - +32 499 94 71 24: je peux te partager les slides du programme si tu veux.... j ai participé au webinaire de lancement...a+
+13/09/2024, 00:09 - ‎+33 6 19 75 63 49 a demandé à rejoindre le groupe.
+13/09/2024, 06:50 - Jean-Marc Everard: Ah oui, avec grand plaisir ! Je suis en train de constituer une offre de formations sur différents thèmes liés à l’IA, l’inclusion et la sobriété numérique. Pas facile de mettre tout cela ensemble mais j’espère y arriver. Ça devrait sortir très prochainement (enfin j’espère). Je pense vraiment qu’il y a différents publics, parfois un peu laissés pour compte, qu’il faut sensibiliser à ces problématiques pour les armer, les équiper sera moins martial, pour le monde de demain (ou au mieux après-demain). Donc merci déjà !
+13/09/2024, 07:22 - ‎+33 6 19 75 63 49 a rejoint ce groupe grâce à son lien d’invitation
+13/09/2024, 07:35 - +32 479 58 54 12: Même avec l'abonnement payant ? 🤔
+13/09/2024, 07:51 - +33 6 72 75 43 48: Bonjour Rochane je reprend le fil des conversations après 48 h « d’absence » du coup j’en perd le sens 😌de quel outil parle tu ? Est ce en français possible ? Merci
+13/09/2024, 07:54 - Rochane: Hello Michele, notebooklm de Google ont mis hier une fonctionnalité nouvelle : se basant sur 1 ou plusieurs sources déposées, ça te génère un audio podcast avec une conversation entre deux IA sur le contenu des sources uniquement. Pour l'instant, ce n'est qu'en anglais
+13/09/2024, 08:03 - +33 6 72 75 43 48: Super merci 🙏 bonne journée
+13/09/2024, 08:33 - Jean-Marc Everard: Oh 😮. Il faut que j’essaie ça! Je suppose que ça fonctionne mieux si les sources sont en anglais aussi ? Parlant de notebooklm, savez s’il peut supporter des sources bilingues dans le document lui-même ? Genre, des Arrêtés royaux (Belgique)? J’ai un cas d’usage intéressant mais je crains que ça ne demande beaucoup de préparation en amont…

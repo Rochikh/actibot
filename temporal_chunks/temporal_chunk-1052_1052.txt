@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 11
+
+=== CONTENU ===
+Remember to base your analysis solely on the characteristics of the text itself, without making assumptions about the author's identity or background.
+10/10/2024, 14:09 - ‎~ Youssef est parti·e
+10/10/2024, 14:13 - JulienIA: Prompt generator ? 😜
+10/10/2024, 14:16 - Pierrick BRIAND: Ce message a été supprimé.
+10/10/2024, 14:17 - +33 6 42 26 64 70: Pour Moodle, tu peux commencer par t’inscrire sur Moodle.org et les autres communautés comme Moodle users ou HQ qui sont très actives. Le forum de Moodle.org est une mine d’or. Pour ce qui est des modules elearning, si ton ingénierie est bonne, tu pourras l’appliquer dans Moodle, car sa force est de pouvoir tout faire ;) Enfin, je te conseille de tout de suite partir avec sa dernière version en 4.5 car elle apporte deux fonctionnalités très attendues : les sous-sections (un niveau de plus pour la scénarisation de ton parcours) et surtout l’intégration sans son « core » de l’IA (il faut par contre connecter avec API ta plate-forme à ton prestataire IA comme OpenAI par exemple). Ainsi la génération de textes, d’images, de résumés, là génération de questions ou une assistance IA, etc…se fait directement dans Moodle. Bon courage et en passant, très bon choix :-)
+10/10/2024, 14:19 - +33 6 70 02 97 35: Salut 👋, moi j’ai une petite question le nombre maximum de comptes qu’on peut créer pour un abonnement chatgpt team ? Merci
+10/10/2024, 14:20 - Pierrick BRIAND: *Des nouvelle du côté de ChatGPT 4 one*
+Renaud Dékode présente ChatGPT 4o with Canvas :  https://youtu.be/xg4jAHwCS8E?si=gOMs586ADl8zhDjB
+10/10/2024, 14:21 - Pierrick BRIAND: Bonjour !
+Pour l'abonnement ChatGPT Team, il est possible d'ajouter entre 2 et 149 utilisateurs.
+10/10/2024, 14:30 - Hoang: si j'ai bien compris, c'est un prompte qu'on copie colle dans ChaGPT avec notre Text à tester dans la partie dédiée. J'ai fais deux tests, une lettre de motivation créer et retravaillé avec l'IA, des paroles de musiques écrite entièrement moi-même. Résultat : mes paroles = 85/100 écrite par l'IA, la lettre de motivatop, = 70/100, Conclusion, je suis en fait une IA qui s'en rend pas compte et qui discute avec un humain nommé chatgpt

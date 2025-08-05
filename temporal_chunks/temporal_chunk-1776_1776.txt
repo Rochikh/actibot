@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 7
+
+=== CONTENU ===
+14/02/2025, 08:27 - Jean-Marc Everard: Mon retour se situe entre les commentaires précédents 🙂 : pour moi ça a parfois très bien fonctionné si ce n'est qu'effectivement quoique je fasse (nos ami·e·s IA podcaters) repassent systématiquement à l'anglais. Après ma question ça mouline pas mal et souvent le début de la réponse est très vague et imprécis, avant de reprendre sur le contenu avec du coup un ton non interactif. Comme dit Grégoire, c'est bien une bêta mais que je trouve quand même prometteuse si on envisage la répidité des progrès faits.
+14/02/2025, 08:46 - +33 7 87 35 78 96: Merci Rochane,
+Je trouve les explications du fondateur d'OVH intéressantes et claires.
+80% du cout d'un data center pour IA c'est l'achat des cartes ! 20% pour la construction.
+L'intérêt de passer sur les superchips c'est que la distance entre les cartes est réduite et c'est le facteur limitant pour avoir une bonne efficacité, donc avec les super cartes de dernière generation le datacenter fonctionne beaucoup mieux. Mais, car il y a un mais la puissance habituelle par rack ou par baie ne suffit plus. De 20Kw on passe à 120 KW ou 240 KW dans le même espace et là faire passer de l'air ne suffit plus pour refroidir il faut de l'eau. Voilà pourquoi les ventes des dernières super cartes de NVDIA sont en forte hausse, et pourquoi il faut des datacenters refroidis à l'eau. La bonne nouvelle c'est qu'ils sont plus efficaces malgré l'aspect monstre énergivore.
+Autre point à noter : bien distinguer la phase de mise au point du modèle qui exige une capacité de calcul colossale de la phase d'utilisation. D'après lui l'inférence peut se faire avec des unités plus petites qui peuvent être localisées près des utilisateurs (on pourrait aussi penser les localiser là où l'energie est verte et le refroidissement  plus facile un pays froid avec de l'hydro électricité par ex;)
+Voilà le post :https://www.linkedin.com/posts/octave-klaba-3a0b3632_depuis-quelques-jours-on-entend-beaucoup-activity-7294997565928861698-SEJ5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACdRy8BHdbfWMdxMSGbJuDJREQZR7hXc7M

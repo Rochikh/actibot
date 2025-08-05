@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 596
+Messages: 6
+
+=== CONTENU ===
+Très efficace lorsque bien intégré dans le déroulé (briefing, et surtout débriefing)
+24/06/2025, 07:39 - Francois Bocquet: Très intéressant mais je m’interroge sur le terme employé « être vigilant sur les données ». Ce n’est pas identique à « respecter le RGPD et respecter le RIA ». C’est d’ailleurs rappelé par la CNIL. Respecter le RGPD tant pour les enseignants que pour les responsables de traitement ce n’est pas seulement être vigilant : c’est d’abord appliquer toutes les mesures préalables exigées par ces règlements et cela dès maintenant. Se limiter à une « vigilance » ne peut être suffisant, ne pas mettre en œuvre les mesures préalables est constitutif d’un délit. Je sais que ça n’arrange personne et que ça oblige les responsables à mettre à disposition les services et traitements adaptés pour les enseignants et pour les élèves mais c’est un passage obligé pour respecter les obligations légales. Être vigilant n’est pas suffisant pour que la loi soit respectée. Et c’est la première chose indiquée dans le texte : les traitements doivent respecter le RGPD et le RIA. À discuter si nécessaire…
+24/06/2025, 07:53 - +32 498 78 46 36: Avec quels outils fais-tu cela ?
+24/06/2025, 08:10 - Letizia ALLEGRINI: Tout a fait d'accord le principe était de réaliser une infographie avec les grands principes mais pour apporter des précisions la version pdf à un lien cliquablevqui renvoie sur la faq de la cnil. L'article publié sur linkedin le précise également 😀
+24/06/2025, 08:17 - Francois Bocquet: Le principal soucis de la formule c’est que ça permet à chacun d’affirmer qu’il est vigilant et que par conséquent ça suffit et que le problème du cadre légal est réglé. Par ailleurs indiquer que les services grand public peuvent être utilisés est contraire à l’application du RGPD. Et la c’est une grosse erreur du cadre. Seul des services contractualisés par les responsables de traitement peuvent être utilisés y compris par des enseignants. C’est pour cela que tant que des services d’IA ne seront pas accessibles à travers le GAR et les ENT ou via les espaces professionnels des enseignants, le RGPD ne pourra pas être respecté et les responsables de traitements seront en situation délictuelle (relire le site de la CNIL : https://www.cnil.fr/fr/les-sanctions-penales)
+24/06/2025, 09:26 - +33 6 66 98 84 23: Bonjour, on a bien rendez-vous ce soir pour la visio ?

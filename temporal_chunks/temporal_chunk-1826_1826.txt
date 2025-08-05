@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 11
+
+=== CONTENU ===
+26/02/2025, 06:14 - Votre code de sécurité avec +41 76 596 03 15 a changé. Appuyez pour en savoir plus.
+26/02/2025, 06:16 - ‎+32 479 57 79 65 a rejoint ce groupe grâce à son lien d’invitation
+26/02/2025, 07:12 - Jean-Marc Everard: Encore une fois le Dr. Philippa Hardman revient avec une étude de l’impact des outils Gen AI sur l’apprentissage (sourtout autodidaxie). En l’an 2000 nous étions quelques-uns à attirer l’attention sur la nécessité d’avoir un bon dispositif de formation à distance avec l’apprenant au centre pour qu’un elearning soit efficace, il semble que ce soit pareil avec les outils Gen Ai généralistes comme ChatGPT : https://open.substack.com/pub/drphilippahardman/p/the-impact-of-gen-ai-on-human-learning?r=q4nlg&utm_medium=ios
+26/02/2025, 09:09 - +32 479 56 05 93: Quel est le meilleur outil pour créer un dialogue vocal avec l'IA?
+26/02/2025, 09:38 - +32 479 82 01 20: Le meilleur je ne sais pas mais j'en ai testé 3. ElevenLabs, Vapi et Synthflow. Pour la facilité de prise en main je dirais Synthflow. 😊
+26/02/2025, 09:38 - +32 479 56 05 93: Merci
+26/02/2025, 10:08 - +33 6 85 03 31 84: aucun de ces 3 outils n'est gratuit pour créer un dialogue, même basique, apparemment …
+Je me trompe ?
+26/02/2025, 10:14 - +33 6 20 97 18 83: Bonjour joel,
+pour avoir utilisé ElevenLabs pour mes cours d'anglais pour la  création de support audio, il n'était  pas possible de créer le dialogue avec deux voix de façon instantané. Il m'a fallu créer des audios pour les répliques de chaque interlocuteur puis rassembler le tout avec une autre IA de montage vidéo (Veed.io) , pour éditer le son car je ne maitrise pas l'outil de montage audio Audacity.  Peut être qu'il existe un outil qui permette la distinction des interlocuteurs.
+26/02/2025, 10:23 - +33 6 25 23 04 30: ElevenLabs permettait de faire une vidéo test gratuite (environ 1min), sur la base de « crédits ». Nous avons utilisé cette option pour tester, avant de passer sur une option payante. Je ne connais pas les autres outils

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 19
+
+=== CONTENU ===
+La politique de confidentialité de DeepSeek collecte une large gamme de données, y compris des données personnelles sensibles telles que les données d'identification, les données d'interaction avec les chatbots, les données de paiement, etc.
+**📝 Explication:**
+DeepSeek collecte des données à partir de plusieurs sources, y compris les informations fournies directement par l'utilisateur, les données collectées automatiquement (comme les adresses IP, les identifiants de périphériques, etc.) et les données provenant de tiers (comme les partenaires publicitaires et les réseaux sociaux).
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs européens devraient s'inquiéter de la large gamme de données collectées, car cela peut entraîner une utilisation excessive de leurs données personnelles, ce qui est contraire au principe de minimisation prévu par le RGPD.
+---
+#### 2. Examiner la durée de conservation
+**⚠️ Constat:**
+La politique de confidentialité indique que les données sont conservées "tant que nécessaire pour fournir les services et pour les autres finalités décrites dans la politique de confidentialité", sans préciser de durées de conservation spécifiques.
+**📝 Explication:**
+La durée de conservation des données n'est pas clairement définie, ce qui peut être problématique en termes de conformité au RGPD, qui exige que les données soient conservées pendant une durée appropriée.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs ne savent pas pendant combien de temps leurs données seront conservées, ce qui peut les exposer à des risques de violation de leur vie privée si les données sont conservées plus longtemps que nécessaire.
+---
+#### 3. Identifier les finalités de traitement et leur légitimité
+**⚠️ Constat:**
+Les finalités de traitement sont diverses, allant de la fourniture des services à la sécurité, en passant par la publicité et l'analyse.
+**📝 Explication:**
+Les finalités de traitement sont largement définies et peuvent inclure des activités qui ne sont pas directement liées à la fourniture des services, comme la publicité ciblée.

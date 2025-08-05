@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 22
+
+=== CONTENU ===
+26/05/2024, 21:14 - +32 479 82 01 20: pas encore chez moi
+26/05/2024, 21:29 - +32 479 82 01 20: <Médias omis>
+26/05/2024, 21:40 - Rochane: <Médias omis>
+26/05/2024, 21:43 - ‎+32 484 69 70 93 a rejoint le groupe à partir de la communauté.
+27/05/2024, 09:53 - ‎+33 6 27 83 22 20 est parti·e
+27/05/2024, 11:02 - Rochane: Si tu veux avoir chat Gpt 4o en illimité gratuitement
+1- tu crées une adresse Gmail :  *toi@gmail.com* (ou tu utilises la tienne)
+2- Tu te crées un compte gratuit sur Openai
+3- tu utilises GPT 4o et quand tu termines ton quota
+4- tu t'inscris sur Open ai avec d'autres adresses Gmail :  *toi+1@gmail.com*
+*toi+2@gmail.com* .....(sans les créer) Sachant que la vérification du mail arrive toujours sur toi@gmail.com et donc inutile  de créer une nouvelle adresse mail 🙂 <Ce message a été modifié>
+27/05/2024, 11:13 - +33 6 49 84 08 41: Ah oui pas mal
+27/05/2024, 11:14 - +33 6 49 84 08 41: Le *+1* n'est pas pris en compte c'est ça ? Comment ça marche ?
+27/05/2024, 11:16 - +32 479 82 01 20: Il est pris en compte comme étant une nouvelle adresse mail. Mais dans les faits ça arrive dans ta mailbox principale
+27/05/2024, 11:24 - +33 6 49 84 08 41: Merci... Intéressant tout ça
+27/05/2024, 12:14 - +33 6 76 04 48 20: <Médias omis>
+27/05/2024, 12:16 - Rochane: Vérifie à la fin de la réponse si tu n'as pas la possibilité de switcher sur 4o
+27/05/2024, 13:31 - Fred IA: <Médias omis>
+27/05/2024, 13:31 - +33 6 76 04 48 20: Bien vu ! Il semble que j’étais bien sur la version 4.o
+Ceci étant, quelques incohérences tout de même : en cliquant sur la possibilité de switcher on déclenche une réponse de l’IA longue comme le bras pour expliquer ce que montre la photo + le fait que la version ne soit pas mentionnée comme c’était le cas aux débuts de la 4.o
+27/05/2024, 13:33 - +32 479 82 01 20: Avez-vous essayé en créant un compte OpenAI avec mot de passe ? Sans connexion SSO. Le mail avec +1 est un alias lié compte principal donc c'est normal que Google ne le retrouve pas.
+27/05/2024, 13:37 - Fred IA: Merci beaucoup @32479820120 c'est exactement ça, ça fonctionne 👍

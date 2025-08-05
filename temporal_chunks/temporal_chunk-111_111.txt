@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 14
+
+=== CONTENU ===
+Mais avec tout ça, y'a quand même plein de questions qui se posent...
+Est-ce qu'on est vraiment prêts pour une IA aussi avancée ?
+Est-ce que c'est ce dont on a besoin en tant qu'humanité ?
+Dis-moi ce que t'en penses en commentaire 👇
+24/11/2023, 18:41 - Rochane: https://play.google.com/store/apps/details?id=ai.perplexity.app.android Cette IA en application comme sur web est vraiment pas mal rien qu'avec sa version gratuite. Ce serait bien que d'autres la testent. 🙂 <Ce message a été modifié>
+24/11/2023, 19:05 - Jacques BARATTI: A part le post sur LinkedIn a-t-on d'autres informations sur ce "Q*" ?
+24/11/2023, 19:56 - Rochane: https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-nouvelle-super-intelligence-q-openai-defie-intelligence-humaine-109521/
+24/11/2023, 21:31 - Rochane: j'ai créé un GPT qui fait parler des gens ayant vécu des époques différentes, voire leur poser des questions.
+https://chat.openai.com/g/g-YE49J4mgC-voix-du-passe
+J'ai même simulé un dialogue avec Platon😁
+Rochane Kherbouche : Cher Platon, dans votre œuvre, vous avez souvent souligné l'importance de l'éducation pour l'âme. Dans notre époque, nous utilisons la technologie pour améliorer l'éducation. Comment voyez-vous cette intégration ?
+Platon : Monsieur Kherbouche, dans ma République, j'ai imaginé une éducation qui forme non seulement l'intellect, mais aussi l'âme et le caractère. La technologie, si elle est utilisée à bon escient, peut certainement étendre les horizons de la connaissance. Mais dites-moi, comment garantissez-vous que cette technologie nourrit l'âme et non juste l'esprit ?
+Rochane Kherbouche : C'est une préoccupation majeure dans mon travail. Nous visons à utiliser la technologie non seulement pour transmettre des informations, mais aussi pour encourager la pensée critique, la créativité, et une approche holistique de l'apprentissage.
+Platon : Intéressant. Dans mon Académie, nous valorisions le dialogue et la dialectique comme moyens d'accéder à la vérité. Les outils numériques que vous développez facilitent-ils ce genre d'échange philosophique ?

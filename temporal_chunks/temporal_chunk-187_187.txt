@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 14
+
+=== CONTENU ===
+Je suis potentiellement intéressé par une formation python en distanciel  pour développer mes connaissances.
+03/02/2024, 15:23 - +33 6 22 14 03 93: Que me recommandez vous comme école ?
+Merci 🙏
+03/02/2024, 15:23 - +33 6 67 08 30 12: Je sais qu'il y a un mooc de dispo sur fun Mooc concernant le python mais je ne sais pas ce que ça vaut. En attendant c'est gratuit et ça peut à mon avis donner de bonnes bases
+03/02/2024, 15:24 - Rochane: Exactement, j'ai pensé à la même chose sur LinkedIn Python A-Z™: Python For Data Science With Real Exercises!- Discount Course
+https://www.linkedin.com/pulse/python-a-z-data-science-real-exercises-discount-course-ymwmc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+03/02/2024, 16:18 - +33 6 14 90 22 14: Il y a des cours libre d'accès qui sont plutôt bien réalisés sur https://openclassrooms.com/fr/courses
+Il y a des module dur python et autre langage de programmation
+03/02/2024, 16:33 - +212 658-518929: https://www.lewagon.com/fr/data-science-course
+J’ai suivi cette formation. C’est assez poussé. Env. 350h. Ça passe sans prerequis en python en étant bien motivé.
+03/02/2024, 16:34 - +212 665-149535: Gratuite
+03/02/2024, 16:34 - +212 658-518929: Non. C’est payant et assez cher en effet. Mais la qualité est excellente. Pour avoir quelques bases, une formation gratuite suffit. Pour explorer de nouvelles perspectives professionnelles, il faut aller plus loin. Tout dépends du projet et des objectifs recherchés. <Ce message a été modifié>
+03/02/2024, 17:46 - Rochane: L'adoption de l'Artificial Intelligence Act (AI Act) par les membres de l'Union européenne marque une étape significative dans la régulation de l'intelligence artificielle (IA) à l'échelle mondiale. Voici les points clés de cette nouvelle législation :
+Adoption unanime: Le 2 février, les Vingt-Sept ont unanimement approuvé l'AI Act, une législation pionnière destinée à réguler l'utilisation de l'IA au sein de l'UE. Cette approbation unanime témoigne d'un large consensus sur la nécessité de contrôler le développement et l'application de l'IA.

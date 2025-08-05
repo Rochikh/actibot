@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 14
+
+=== CONTENU ===
+27/09/2024, 09:57 - +33 6 66 98 84 23: Bonjour, auriez vous le lien pour le webinaire d'aujourd'hui 14h et quels seront les thèmes abordés. Merci
+27/09/2024, 10:14 - +33 6 85 03 31 84: Ce ne serait pas du au fait que ta vidéo YT n’est pas publique?
+(J’ai eu ce genre de pb avec d’autres outils équivalents)
+27/09/2024, 10:15 - Rochane: Non, elle est publique, les sous-titres apparaissent et d'autres outils arrivent à la résumer
+27/09/2024, 10:27 - StéphaneIA: Pour résumer les vidéos YouTube généralement je copie colle la transcription depuis YouTube dans Gemini et je lui dis de résumer.
+27/09/2024, 10:59 - Hoang: Oui c’est sympa au début mais j’aurais aimé l’analyse de la voix (par exemple pour améliorer notre élocution ou même le chant), ou l’analyse visuel en temps réel comme montré il y a quelques mois, après pour brainstormer c’est pas mal
+27/09/2024, 11:29 - Pierrick BRIAND: Et en cas d’absence de transcription, je vous conseille cet outil : https://downsub.com/
+27/09/2024, 11:41 - Rochane: Tu es sûr Pierrick que downsub le fait sans transcription ?
+27/09/2024, 14:12 - ‎+216 29 167 622 est parti·e
+27/09/2024, 14:09 - Hoang: Petit reportage sur le deepfake et le danger de la démocratisation de l’accès aux outils IA : https://youtu.be/QWQxaP0MJdM?si=rt9GvjT1JwQRm_XQ
+Pour ma part ce type de danger existait déjà bien avant la démocratisation de l’ia par des personnes habile dans les outils photomontage. Néanmoins avec la facilité et la gratuité de l’utilisation de ces outils, le lambda peut maintenant aussi devenir un potentiel arnaquer ou menacer via des deepfakes afin de se venger d’une personne….
+27/09/2024, 14:11 - +33 6 15 79 19 04: C'est la question que je me posais ce matin : j'ai voulu faire "parler" une photo de Georges Clooney, mais hora m'a bloqué en me disant que la photo était celle d'une célébrité !
+27/09/2024, 14:14 - Hoang: Il y a un outil que tu peux télécharge en local : face fusion
+27/09/2024, 14:14 - Hoang: J’ai testé avec Keanu Reeve et ça a fonctionné pour moi 😆, ok peut également le faire pour des vidéos

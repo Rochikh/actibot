@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 17
+
+=== CONTENU ===
+10/10/2024, 11:46 - ‎+33 6 64 28 89 93 a rejoint ce groupe grâce à son lien d’invitation
+10/10/2024, 11:49 - +32 483 60 53 96: Merci pour votre réponse ✨
+Est ce que vous connaissez un outil spécialisé pour les dialogues avec des Pdf de textes juridiques ? (Pour une formation sur l’administration)
+10/10/2024, 11:51 - Rochane: Notebooklm le fait très bien
+10/10/2024, 11:52 - +32 483 60 53 96: Ok merci 🙏
+10/10/2024, 11:53 - +32 483 60 53 96: Dernière question pour aujourd’hui: j’ai utilisé des millions d’outils mais je me mets enfin à utiliser Moodle.
+Avez vous des références pour m’y mettre concrètement et être à la page sur la construction de contenus e learning avec Moodle/H5P?
+10/10/2024, 11:54 - +32 483 60 53 96: (Avec une composante IA et H5P)
+10/10/2024, 11:56 - +32 483 60 53 96: Merci à tous pour cette communauté - je vous partagerai des trouvailles également bientôt.
+Cette semaine je teste: Gingo (correcteur IA de Compilatio) et Guidde (générateur de vidéo how tos)
+10/10/2024, 12:00 - fm Florent iA: Guidde est un outil très intéressant pour les how to
+En test également et prometteur
+10/10/2024, 12:33 - Yvelines: Je l'utilise depuis un bout de temps en version gratuite et c'est aussi simple qu'efficace
+10/10/2024, 12:40 - +33 6 28 06 83 96: pour Moodle @32483605396  je t'invite à tester ce chatbot https://hf.co/chat/assistant/66918e47546a4416edfd3389 réalisé par Laurent Gaudin
+10/10/2024, 13:52 - +212 644-562660: J'ai utilisé Notebooklm pas mal de fois pour ce cas d'usage. Il est bien mais zttention des fois il a tendance à halluciner, j'utilise donc Claude projects (payant) aussi pour mitiger ces hallucinations. Et car aussi Claude maitrise très très bien le style formel dans les emails à dimension juridiques
+10/10/2024, 14:10 - Rochane: J'ai essayé de faire, avec l'aide de Claude, un détecteur d'écriture IA. Je suis curieux d'avoir des retours de celles et ceux qui l'utiliseraient 🙂
+You are an expert AI with highly advanced skills in detecting AI-generated text. Your task is to analyze the given content and determine whether it was likely written by an AI or a human. Pay close attention to the writing style, looking for characteristics that are often associated with AI-generated text.

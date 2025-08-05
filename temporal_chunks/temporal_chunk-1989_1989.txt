@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 21
+
+=== CONTENU ===
+21/03/2025, 18:22 - +33 7 44 11 22 11: Un outil qui scénarise serait parfait.
+C'est pour l'inclure dans mon mémoire et aussi le présenter lors de ma soutenance.
+21/03/2025, 18:31 - Rochane: J'ai repris le côté visuel telle une infographie
+21/03/2025, 19:59 - StéphaneIA: Pour le story board Gemini 2.0 avec image génération sur aistidio le fera aussi
+21/03/2025, 20:30 - Gregoire IA: Je termine la dernière version de mon générateur de présentation et on pourrait travailler sur un agent qui scenarise.
+C'était un de mes to do. 😅
+Je vais tasser de côté mon agent de plan de cours
+21/03/2025, 20:32 - Gregoire IA: Mon post de ce midi à propos de mon Agent IA capable de générer des présentation avec la narration :
+https://www.linkedin.com/feed/update/urn:li:activity:7308868434258190337/
+Je bosse en ce moment pour y intégrer mon générateur d’image
+22/03/2025, 06:07 - Votre code de sécurité avec +33 6 31 13 81 26 a changé. Appuyez pour en savoir plus.
+22/03/2025, 06:07 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+22/03/2025, 08:26 - Rochane: MAJ d' actibot.replay.app avec aussi les dernières news IA issues de ma veille. Bon week-end
+22/03/2025, 08:36 - +33 6 72 75 43 48: Bonjour est ce  actibot.replit.app ?
+22/03/2025, 08:57 - Rochane: Oups désolé, tu as raison
+22/03/2025, 08:58 - Rochane: MAJ d' actibot.replit.app avec aussi les dernières news IA issues de ma veille. Bon week-end
+22/03/2025, 09:31 - +33 6 52 73 73 42: Merci à ttes & ts pr vos contributions/échanges ... La seule "chose" qui manque c'est le tps pr tout explorer !
+22/03/2025, 09:48 - +33 6 71 11 12 91: C'est peut-être un détail pour vous (...)
+Je viens de lui poser la question "Dans ta base de connaissance, il y a un document sur les dernières news, résume-le moi en précisant la dernière date de mise-à-jour" et sa réponse est (après les nouvelles) :
+"La dernière date de mise à jour de ces informations est le 25 juillet 2024.".
+Possibilité de lui forcer la dernière date de mise-à-jour ? Merci @33649535198 !

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 16
+
+=== CONTENU ===
+05/01/2025, 21:28 - Votre code de sécurité avec +32 489 85 55 25 a changé. Appuyez pour en savoir plus.
+05/01/2025, 21:45 - ‎+33 6 47 10 16 61 a demandé à rejoindre le groupe.
+05/01/2025, 22:23 - Centre Richard: Bonjour chers membres de la communauté
+Je suis activement à recherche d’un Chercheur.e ou Enseignant.e.-Chercheur.e. affectés à une unité du CNRS, en particulier en début de carrière en France dont le laboratoire est une unité du CNRS et qui est disponible pour un projet de mobilité.
+Le domaine sur lequel je voudrais travailler est le transfert Nord-Sud-Nord des compétences numériques des enseignants du supérieur à l’ère de l’IA.
+Celui ou celle intéressé.e peut m’écrire en message privé pour en parler.
+Meilleurs vœux à toutes et tous pour 2025
+Richard Ndayishimiye
+Enseignant à l’Université du Burundi
+05/01/2025, 22:26 - ‎+33 6 47 10 16 61 a rejoint le groupe à partir de la communauté.
+06/01/2025, 05:53 - Votre code de sécurité avec +33 6 77 41 62 09 a changé. Appuyez pour en savoir plus.
+05/01/2025, 23:44 - +41 79 258 90 36: <Médias omis>
+05/01/2025, 23:44 - +41 79 258 90 36: <Médias omis>
+06/01/2025, 09:19 - +33 7 63 58 01 55: Bonjour, quand vous utilisez NotebookLM, avez-vous plutôt tendance à mettre beaucoup de sources dans un seul notebook et interroger l'ensemble et/ou des ressources ciblées (j'ai un petit doute sur la capacité de l'outil à réellement se concentrer sur les ressources sélectionnées), ou créer plusieurs notebooks dans lesquels vous mettez peu de ressources sur une thématique très précise (voire une seule) et avoir des conversations très ciblées, quitte à synthétisr les reéponses dans un autre notebook ou même un autre outil (ChatGPT...) ?
+06/01/2025, 09:20 - +33 7 63 58 01 55: (j'espère que ma longue question est compréhensible ! 😅)
+06/01/2025, 09:21 - +33 7 87 35 78 96: C'est compréhensible, de mon côté je prépare en amont un document structuré je trouve cela plus efficace. Et avantage sachant ce que je cherche à obtenir je peux estimer si le résultat est "bon" ou pas

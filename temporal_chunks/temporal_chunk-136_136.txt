@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 22
+
+=== CONTENU ===
+- Évaluer les changements de manière systématique :
+- Mesurez les performances avant et après les modifications.
+- Comparez les sorties du modèle avec des références de qualité supérieure.
+19/12/2023, 01:09 - ‎+54 9 11 3587-4127 est parti·e
+19/12/2023, 11:39 - ‎Sel MEH a rejoint le groupe à partir de la communauté.
+19/12/2023, 23:10 - ‎+33 6 20 39 29 65 a rejoint le groupe à partir de la communauté.
+20/12/2023, 19:10 - +32 498 78 46 36: Ce n'est pas encore la panacée mais on peut maintenant archiver les chats sur chatgpt (peu importe la version) 😉
+https://www.linkedin.com/posts/openai_you-can-now-archive-your-chats-in-chatgpt-activity-7143283889850003456-QO3a?utm_source=share&utm_medium=member_android
+20/12/2023, 20:03 - Rochane: Ouf
+20/12/2023, 20:50 - Ahmadou Ba: C très malin de leur part. Ils auront des données pour continuer à entraîner leurs GPT
+21/12/2023, 07:49 - Votre code de sécurité avec +33 6 25 76 08 81 a changé. Appuyez pour en savoir plus.
+21/12/2023, 07:50 - Votre code de sécurité avec +33 6 25 76 08 81 a changé. Appuyez pour en savoir plus.
+21/12/2023, 23:51 - Ahmadou Ba: Je viens de tester le code interpretor de GPT pour l'analyse de données mais il est très puissant et donne des recommandations fort utiles.
+22/12/2023, 11:11 - Rochane: https://octogo.ai/fr/.     Plus de 1000 sites sur l'IA 👍
+22/12/2023, 13:15 - Ahmadou Ba: Bonjour,
+22/12/2023, 13:17 - Ahmadou Ba: J'ai créé un GPT pour m'aider à faire ma veille et trouver des outils et des informations sur les  TICE
+https://chat.openai.com/g/g-X8Xv3MF64-veille-pedagogique-assistant
+vous pouvez le tester, vos suggestions pour son amélioration sont les bienvenues.
+22/12/2023, 15:27 - Rochane: Top, vraiment bien, je l'ai un peu titillé à la fin😁 https://chat.openai.com/share/dbf7647b-883e-4649-aba3-ee89c5423e25
+22/12/2023, 15:45 - Laurent The Cure: tu as martyrisé in GPT... pas joli ça ! 🤣
+22/12/2023, 15:50 - Ahmadou Ba: Franchement vous l’avez malmené 🤣 mais il s’est quand même bien défendu.
+22/12/2023, 15:50 - Ahmadou Ba: Intéressant cela confirme l’idée que le secret se trouve dans un bon prompt. Merci bcp pour ce retour

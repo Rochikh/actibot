@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 19
+
+=== CONTENU ===
+23/08/2024, 10:56 - Rochane: Oui, tu as videohighlight qui est excellent en te permettant d'avoir la transcription totale mais aussi les points clés.... ( Tu as 10 heures en gratuit par mois)
+23/08/2024, 11:04 - +33 6 29 17 18 95: Ahhh magnifique
+23/08/2024, 11:04 - +33 6 29 17 18 95: Merci beaucoup 🙌🏼
+23/08/2024, 11:11 - Hoang: Avec tous ses outils, il nous faudrait un document ou une plate-forme qui liste tout par thème, il y en a tellement 😅
+23/08/2024, 11:15 - zp: Si vous maîtrisez des outils n'hésitez pas à les rajoutez sur qanat.ai en précisant que vous pouvez donnez des formations....
+23/08/2024, 11:18 - +33 6 74 95 95 60: Je cherche un outil gratuit et ergonomique de Text-to-speech qui accepte des fichiers assez gros et qu’on peut utiliser sur le téléphone portable (l’idée est d’écouter des textes pendant mon footing 😂). Vous en connaissez ? <Ce message a été modifié>
+23/08/2024, 11:22 - Rochane: Voici tous les outils évoqués à ce jour, dans cette communauté, extraits avec Gemini Pro 1.5 :
+CHATBOTS/LLMs
+Chat GPT (3.5, Plus, 4, 4o, 4o-mini, Edu, Enterprise) : IA générative de texte très polyvalente, abonnements gratuits et payants, création de chatbots personnalisés (GPTs).
+Claude.ai (Sonnet, Opus) : IA générative de texte concurrente de Chat GPT, se focalisant sur l'éthique et la sécurité.
+Bard (Google) : Chatbot de Google, intégré aux services Google.
+Bing Chat (Microsoft) : Chatbot de Microsoft, intégré au moteur de recherche Bing et à Windows.
+Mistral (Large, Large 2) : LLM français open source, performant en génération de code et calcul.
+Gemini (Google) : LLM multi-modal de Google, capable de traiter texte, images et audio.
+Llama (Meta) : LLM open source de Meta, utilisé dans divers services.
+InternLM : LLM chinois, performant en mathématiques et avec large fenêtre de contexte.
+BlueGPT : Plateforme française proposant divers LLMs, interface en français.
+Moshi : Assistant vocal français, développé par Xavier Niel.
+Grok : IA d'Elon Musk, génération d'images avec personnalités publiques.

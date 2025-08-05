@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 9
+
+=== CONTENU ===
+08/09/2024, 14:01 - Francois Bocquet: Enfin il faut informer correctement les utilisateurs finaux en respectant les obligations des articles 13 et 14
+08/09/2024, 14:01 - Francois Bocquet: Et oui c’est du boulot ;-)
+08/09/2024, 14:55 - +32 486 98 03 36: Puis-je me permettre de partager avec vous, une conférence de jeunes qui vont parler de leurs métiers de développeur en sciences au services du citoyen. Jeunes et moins jeunes sont les bienvenus. Cette expérience inédite à pour vocation d'être inspirante https://www.stementiel.be/conference/
+08/09/2024, 14:59 - Fred IA: Merci pour l'info, top !  Du coup, plus de problème de confidentialité avec cet outil puisque tout se passe en local 👍 Est ce que le pc doit être costaud pour traiter la transcription ou bien une configuration "bureautique" suffit elle ? Pour donner un ordre d'idée, combien de temps de traitement pour un fichier audio équivalent à 2h de réunion ?  Y'a une taille maximale pour le fichier audio ? Un grand merci
+08/09/2024, 15:04 - +212 644-562660: Pas de taille maximale si je me rappelle bizn. Et meme si il y en avait, tu peux enregistrer en version vocale. Mon pc est costaud certes mais je pense que ca marche dans d'autres pc moins performants. Coté confidentialité, ca utilise l'api d'open ai pour la transcription moi j'ai pas de probleme avec ca mais à toi de voir ca repond à ton besoin
+08/09/2024, 15:06 - +212 644-562660: Tu peux rechecher ici d'autres alternatives ceci dit https://alternativeto.net/
+08/09/2024, 15:06 - Fred IA: Tu veux dire que via l'api d'openai, ça te génère aussi un compte rendu ?  (L'api est payant, non ?)
+08/09/2024, 15:09 - +212 644-562660: Ben non. Ca reste gratuit comme même. Le compte rendu j'utilise un un custom GPT à qui je donnes la transcription et ca me genere le compte rendu selon mon besoin à moi. Mais il est recommandé ici d'utiliser un prompt splitter car tu sais chat gpt à du mal à analyser une longue transcription
+08/09/2024, 15:11 - +212 644-562660: https://chatgpt-prompt-splitter.jjdiaz.dev/

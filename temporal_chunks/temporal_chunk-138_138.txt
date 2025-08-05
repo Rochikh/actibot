@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 19
+
+=== CONTENU ===
+24/12/2023, 10:45 - Thierry VANOFFE: Inscription faite ! Merci Rochane. J’ai parcouru quelques billets de blog. Vraiment très bien fait et instructif. Merci pour ce cadeau 🎁
+24/12/2023, 10:50 - Laurent The Cure: Inscrit Également merci pour le partage
+24/12/2023, 13:44 - Rochane: https://youtu.be/0q-TC4JTPK8?feature=shared J'adore le concept et le scénario de ces vidéos. Le gars, il a intégré une vraie IA (Personnage nommé ADA) et il lui pose des questions et récupère ses réponses qu'il remet dans ElevenLab. J'aime beaucoup son humour et sa façon de ne pas trop se prendre la tête 😏
+24/12/2023, 18:04 - Thierry VANOFFE: Est ce que qqn connaît une bonne ia : audio to text ? L’idée est de faire de la dictée vocale en marchant et de retrouver le texte ensuite dans le cloud 😉
+24/12/2023, 18:09 - Rochane: Tu as essayé transcript.lol ?
+24/12/2023, 18:09 - Jacques BARATTI: Pour du Speech to txt j'ai utilisé Scribe-cemea (https://scribe.cemea.org/) c'est gratuit et RGPD. la transcription est un peu longue (au moins le temps de l'audio)
+24/12/2023, 18:09 - Rochane: C'est pas une blague
+24/12/2023, 21:29 - ‎Hadjer a rejoint le groupe à partir de la communauté.
+26/12/2023, 10:37 - Votre code de sécurité avec ~ Emmanuelle Mendes a changé. Appuyez pour en savoir plus.
+27/12/2023, 15:44 - Rochane: https://generationia.flint.media/p/generer-images-coherentes-avec-dall-e-3-seed
+27/12/2023, 16:38 - Votre code de sécurité avec Luc deleplanque a changé. Appuyez pour en savoir plus.
+27/12/2023, 18:02 - Votre code de sécurité avec +33 7 85 04 14 98 a changé. Appuyez pour en savoir plus.
+28/12/2023, 14:00 - Rochane: <Médias omis>
+28/12/2023, 14:02 - Lucie: J'ai fait le même post en détaillé tu sais @rochane ?
+28/12/2023, 14:03 - Lucie: <Médias omis>
+28/12/2023, 14:03 - Rochane: Exactement, j'ai pensé à toi en le lisant
+28/12/2023, 14:16 - Ahmadou Ba: <Médias omis>
+28/12/2023, 14:17 - Rochane: Pourquoi tu ne mets pas le lien direct de la présentation ?
+28/12/2023, 14:18 - Ahmadou Ba: le voici https://gamma.app/public/Strategies-pour-Prompt-GPT-ystfl1dsf1gzkqq

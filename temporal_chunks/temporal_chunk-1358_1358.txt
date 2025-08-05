@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 624
+Messages: 16
+
+=== CONTENU ===
+30/11/2024, 08:47 - ‎+33 6 73 53 45 40 a demandé à rejoindre le groupe.
+30/11/2024, 09:34 - Jean-Marc Everard: Merci Rochane, est-ce que d’autres obtiennent aussi un accent plutôt québécois en Français ? Est-ce que vous connaissez un hack ou prompt pour avoir quelque chose de plus continental même si personnellement j’adore l’intonation canadienne…
+30/11/2024, 09:38 - ‎+33 6 73 53 45 40 a rejoint ce groupe grâce à son lien d’invitation
+30/11/2024, 09:39 - Rochane: Franchement, j'ai pas trop remarqué mais je ne suis pas fort dans la détection d'accent
+30/11/2024, 09:46 - Jean-Marc Everard: C’était peut-être dû au fait que le plupart des sources étaient en anglais et que du coup certains termes étaient prononcés avec un accent anglais ?
+30/11/2024, 10:13 - ‎+33 6 28 55 82 18 a demandé à rejoindre le groupe.
+30/11/2024, 10:33 - +213 770 60 32 81: Bonjour Rochane merci pour le partage.
+30/11/2024, 10:37 - +33 6 50 57 17 44: Passe le bonjour à Gérard !
+30/11/2024, 10:38 - +216 99 466 304: Merci, j'ai essayé cette IA, c'est génial ! 🙏
+30/11/2024, 10:49 - ‎+33 6 28 55 82 18 a rejoint ce groupe grâce à son lien d’invitation
+30/11/2024, 12:10 - +33 6 19 89 32 62: Super podcast merci pour le partage @33649535198 J’ai été  très intéressée par l’approche d’évaluation des processus, c’est passionnant.
+30/11/2024, 12:33 - +34 683 61 41 61: Pour ceux que ça intéresse, voici le retour de Lareponse.tech concernant une éventuelle utilisation de VERA par des mineurs :
+Question :
+Pourriez-vous me donner s'il vous plait me donner plus de détail  sur le respect des données à caractère personnel lors de l'utilisation de VERA ? Peut-on conseiller l'usage de VERA à des mineurs et qu'adviennent les données des utilisateurs (associées à leur numéro de téléphone) surtout si des requêtes sont envoyées à des LLM ?
+Réponse :
+Côté DCP, nous ne collectons pas les numéros de téléphone : ils transitent uniquement quelques secondes sur nos serveurs pour envoyer les réponses de Vera puis sont supprimés. Seule une empreinte cryptée est conservée dans notre base afin d'assurer le bon fonctionnement des échanges. Les données de conversation ne sont donc pas associées directement aux numéros de téléphones dans notre base de données, en revanche ces dernières peuvent contenir des données à caractère personnel si l’utilisateur en mentionne pendant sa conversation avec Vera. Quant aux sous-traitants (Twilio et OpenAI notamment), tout est expliqué dans notre Politique de confidentialité.

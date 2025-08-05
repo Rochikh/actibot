@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 12
+
+=== CONTENU ===
+30/10/2023, 17:52 - +1 (514) 231-2798: Est-ce qu’il est toujours fonctionnel ? J’aimerais bien essayer chatgpt4
+30/10/2023, 17:56 - +1 (514) 231-2798: Ça marche plus ! S’il y a quelqu’un qui a un code d’invitation d’essai ça serait très apprécié
+30/10/2023, 19:16 - Rochane: <Médias omis>
+30/10/2023, 23:06 - +41 79 276 46 84: L'abonnement vaut largement les 20 dollars par mois si on prend en compte le temps gagné et le gain de performance.
+Je suis surpris à quel point beaucoup de personnes hésitent énormément à faire cet investissement.
+31/10/2023, 00:10 - +1 (514) 231-2798: Je compte faire l’abonnement dans le futur ,mais je suis présentement en congé maternité j’avais juste envie de le tester et le faire plus tard 😄
+31/10/2023, 05:45 - +33 7 85 94 69 69: Vraiment GPT4 il est incroyable je l'utilise vraiment pour tout
+31/10/2023, 08:40 - Lucie: Bonjour à tous. Si certains sont intéressés pour créer des planches de personnages avec Gpt4 je partage mes prompts ici : https://www.linkedin.com/posts/luciedhorne_ia-formation-innovationpaezdagogique-activity-7123804255324381184-d2jE?utm_source=share&utm_medium=member_android Et je sors un livre sur "Former avec l'IA" en janvier (le livre sera en vente au Learning Technologies 2024 avec un jeu de cartes pour apprendre à prompter)
+31/10/2023, 10:42 - +32 498 78 46 36: Ceux qui ont un abo ChatGPTPlus, est-ce que vous avez déjà la possibilité d'intégrer les PDF dans vos prompts ? Il me semble que le déploiement se fait étape par étape car perso je ne l'ai pas encore ...
+31/10/2023, 10:44 - Rochane: Tu peux le faire en activant data analysis ou le plugin AskYourPDf mais dans cette solution, il faut que la pdf soit en ligne ou hébergé dans le cloud ou carrément déposé dans le site Ask your pdf 🙂
+31/10/2023, 10:46 - +32 498 78 46 36: Merci Rochane, je vais voir cela, j'avais cru comprendre que l'intégration avec pdf était devenue native pour GPT4
+31/10/2023, 10:46 - Rochane: Oui effectivement, j'ai entendu ça hier mais ça n'est pas encore déployé chez moi

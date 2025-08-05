@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 16
+
+=== CONTENU ===
+30/05/2024, 07:06 - Pierrick BRIAND: Merci @33611028249 pour l’information.
+C’est donc une très bonne nouvelle pour les créateurs de GPT ! Maintenant, tous les utilisateurs de ChatGPT Free peuvent utiliser les GPT du store.
+On estime à plus de 100 millions le nombre de personnes qui pourront voir votre travail si vous avez rendu votre GPT public.
+Vos apprenants auront donc bien accès au store et à votre GPTs. Imaginez les avancées pédagogiques dans l’utilisation de ChatGPT avec des groupes d’apprenants !
+Mais attention : les GPT utilisent un nouveau modèle, GPT-4o donc vérifiez que votre GPTs fonctionne bien avec. Open AI annonce qu’il peut y avoir des problèmes sur certains GPTs.
+Personnellement, j'aurais apprécié qu'il y ait un contrôle d'accès aux GPT pour en limiter l'usage aux apprenants. Cela permettrait une utilisation plus encadrée dans un contexte pédagogique. <Ce message a été modifié>
+30/05/2024, 08:13 - +32 484 68 10 13: Pour ma part non , mais pas encore eu le mail qui me l affirmait à suivre
+30/05/2024, 08:16 - Clément Cahagne: Le lien a changé, désolé pour le petit soucis : https://pauuse.notion.site/Outils-IAG-et-usages-p-dagogiques-2143f93732ea4170ae933556d2c0c59e
+30/05/2024, 08:37 - +33 6 81 36 11 13: Bonjour,  je veux bien un lien pour créer un GPTs .
+30/05/2024, 08:39 - Rochane: Je pense qu'avec la version gratuite de Gpt 4o, il est possible d'utiliser les Gpt mais pas d'en créer
+30/05/2024, 08:51 - +33 6 81 36 11 13: ok merci
+30/05/2024, 10:05 - Pierrick BRIAND: l'UE classe l'éducation comme un domaine à "haut risque" du fait de l'IA. Je vous invite à consulter les derniers articles de ma veille pour en savoir plus.
+https://readermode.io/@pierrickbriand
+30/05/2024, 10:13 - Rochane: c'est quel article exactement ?
+30/05/2024, 10:14 - +33 6 81 36 11 13: https://www.unesco.org/en/digital-education/artificial-intelligence celui là je pense
+30/05/2024, 10:42 - Francois Bocquet: Le haut risque concerne sans doute l’usage de l’Ia pour les feedbacks automatisés, les évaluations sommatives et les classifications amenant aux orientations ou groupes de niveau.

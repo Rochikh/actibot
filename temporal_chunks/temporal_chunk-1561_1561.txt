@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 7
+
+=== CONTENU ===
+10/01/2025, 15:27 - +44 7776 747507: J'ai posé la question à ChatGPT (o1), et voici la réponse: "D’un point de vue purement fonctionnel, l’ajout de « merci » (ou d’expressions polies similaires) n’est pas strictement nécessaire pour les performances. Le modèle traite les promptes en fonction du contenu linguistique, du contexte et des instructions données. Une phrase polie comme « merci » ne modifie généralement pas la qualité ou l’exactitude de la réponse."
+Cependant, les gens incluent souvent un langage courtois par habitude ou par préférence, en particulier lorsqu’ils conversent avec ChatGPT d’une manière plus « humaine ». Ce langage poli peut aider à maintenir un ton courtois, mais il n’a pas d’impact sur la façon dont ChatGPT interprète ou génère ses réponses. En fin de compte, l’ajout de « merci » à votre invite est votre choix : si cela vous semble plus naturel ou respectueux, cela ne nuira à rien, mais ce n’est pas nécessaire pour que le modèle fonctionne efficacement.
+10/01/2025, 15:29 - StéphaneIA: Merci @447776747507 c'est intéressant. De mes recherches et lecture j'avais vu que quand on fait ce genre de chose le LLM va avoir tendance à détaillé sa réponse pour apporter plus de précision, ce qui est intéressant dans certains contextes. Personnellement dans un article j'avais comparé les résultats sur des questions d'un test de QI en mettant un prompt type COT et un prompt normal. J'ai constaté que cela avait eu peu d'effet sur la réponse finale mais par contre en COT la réponse était plus détaillée. Pour la compréhension le détails c'est bien mais si on veut juste le résultat final alors pas trop d'intérêt. C'est pour cela que je questionne ces méthodes, est ce que juste en ajoutant "détaille ta réponse on aurait pas le même type de résultat ?
+10/01/2025, 15:30 - +44 7776 747507: Merci @33688213252 très intéressant!
+10/01/2025, 15:49 - Rochane: Le bot scenario Creator a été amélioré en UX
+https://scenariocreator.rochane.fr/
+10/01/2025, 16:14 - ‎+33 7 82 75 61 47 a demandé à rejoindre le groupe.

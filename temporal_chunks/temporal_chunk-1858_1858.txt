@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 600
+Messages: 6
+
+=== CONTENU ===
+04/03/2025, 09:42 - +32 483 60 53 96: Et dernière question: la plus grande crainte c'est le suivi de cours, la réponse à des QCM simples et la validation de modules en mode "vus"
+Y a t il d'autres craintes de génération automatique de contenus ou autres ?
+04/03/2025, 11:53 - ‎~ Benjamin est parti·e
+04/03/2025, 11:56 - +33 6 42 26 64 70: Je peux sans doute vous éclairer…mais serait-il possible de préciser ce que vous souhaiteriez savoir ? J’avoue ne pas avoir vraiment cerner la demande ;)
+04/03/2025, 12:11 - +33 6 19 75 63 49: Quand je vois « Coursera » (et je peux avoir mal interprété) je me dis que cela va être la même chose dans les cours en ligne sur Moodle. Je suppose qu’un agent IA pourra répondre à des exercices à réponses fermées: QCM avec texte ou image, appariement, textes lacunaires, sur Quiz et H5P etc. sur de la compréhension détaillée de textes en langue étrangère, même si pour l’instant les IA ne sont pas capables de générer les questions du type qui nous intéresse (car il n’y a que du repérage, pas de compréhension si de discrimination auditive). Ou ce que ça donne quand l’agent répond, dans une activité où on demande à l’étudiant d’avoir une interaction avec une IA qui joue un rôle donné et de nous envoyer le lien de la conversation(ça devient kafkaesque). Ou de créer un CV original avec une mise en forme originale (sans doute facile). Ou de remplir une dictée (est-ce que l’agent peut écrire?). Ou d’évaluer une production faite par l’IA, de la modifier, et de nous envoyer la conversation assortie d’une auto-évaluation. Ou de faire un escape game sur Genially ou Storyline. Je crois qu’il ne va plus rester que la vidéo (les étudiants s’enregistrent) avec autorisation d’utiliser l’IA, c’est ce qu’on fait déjà mais c’est le résultat d’un parcours qui passe par les QCM et ces activités, ça marche mais ce n’est pas satisfaisant pour un cours de langues de n’avoir qu’une série de « performances orales créatives » évaluées, et je bloque pour inventer de nouvelles formes de pédagogie dans les cours en ligne, avec un centrage sur ce qui fait sens pour l’étudiant (captif) tout en permettant d’apprendre une langue étrangère. Les agents signent-ils la mort du e-learning? <Ce message a été modifié>
+04/03/2025, 12:21 - +33 6 19 75 63 49: (Je précise que je n’y connais rien du tout en agents je raconte peut être n’importe quoi!) <Ce message a été modifié>

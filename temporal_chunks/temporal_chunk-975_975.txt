@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 617
+Messages: 6
+
+=== CONTENU ===
+24/09/2024, 11:48 - +33 7 63 58 01 55: Après, je me demande qui s'interdit réellement d'utiliser les outils d'IA générative (ou cherche des alternatives) pour cette raison. J'ai parfois l'impression qu'on se donne bonne conscience en mentionnant cet aspect mais sans forcément que ça se traduise par des actes concrets.
+C'est vrai au niveau individuel (et peut-être pas si grave ?), c'est beaucoup plus problématique au niveau des organisations et établissements...
+J'avoue que je ne suis pas tout à fait au clair sur cette question.
+24/09/2024, 11:52 - Jean-Marc Everard: En effet. Mais ces obligations dépendant du pays où les IA sont utilisées, j'imagine que les auteurs ne sont pas rentrés dans tous les cas de figure. Mais en effet, les réglementations locales, nationales ou supra-nationales comme dans le cas du RGPD s'appliquent, avec bientôt l'IA act dont il convient de préparer l'entrée en application progressive. Il y a aussi une autre chose qu'ils évoquent à peine : on se dirige vers des arbitrages à faire en terme d'allocation de ressources et notamment de l'électricité. Lorsque la plupart des secteurs actuellement émetteurs de carbone se tourneront vers l'électrification, la production ne permettra probablement pas de continuer tous les usages actuels de la même façon qu'aujourd'hui (je veux dire sans centrale émettrice). Que va-t-on priviliégier ? Les data-centers ? Le transport ? L'industrie ? Etc... Mais le respect des données personnelles est bien sûr un point sensible, surtout si cela touche des mineurs, notamment en contexte scolaire.
+24/09/2024, 12:14 - Francois Bocquet: Pas d’accord car les sujets éthiques sont différents des sujets juridiques et souvent le débat éthique précède le débat juridique. Quand une loi existe il n’est pas envisageable pour des agents publics de la violer et ce quel que soit le sujet réglementé. Actuellement je pense que les promoteurs et utilisateurs pionniers font l’autruche par rapport aux questions légales qui concernent autant les enseignants/formateurs dans l’exercice de leur fonction que les élèves/apprenants. Pas simple…
+24/09/2024, 12:17 - Francois Bocquet: Effectivement mais cela concerne tous les pays européens, la Grande Bretagne et la Suisse (qui a une réglementation proche) plus tous les pays si les services sont proposés par une organisation en Europe (concerne donc les services utilisés dans dans les établissements français a l’étranger si services issus de l’Europe).

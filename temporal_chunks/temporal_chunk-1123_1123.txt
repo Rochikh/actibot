@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 21
+
+=== CONTENU ===
+*Réponse 1::feedback 1
+Réponse 2::feedback 2
+Réponse 3::feedback 3
+Réponse 4::feedback 4
+Pour les autres outils H5P il doit également y avoir un formatage texte correspondant.
+24/10/2024, 18:11 - Mapidubost ( Associé d'Antoine): https://www.e-charlemagne.com/index.php/k2r2-assistant-pedagogique/ k2r2 génére des activités H5P
+24/10/2024, 18:12 - ‎+32 495 94 18 86 est parti·e
+24/10/2024, 18:15 - +33 6 18 66 76 61: Edtake AI aussi exporte en H5P https://app.edtake.ai/signin
+24/10/2024, 18:23 - +55 11 94241-1993: Bonjour , je cherche une banque des prompts pour les enseignants svp .
+24/10/2024, 18:27 - martinyemani IA: J’ai testé nolej.io : il transforme un contenu brut en éléments interactifs de micro-apprentissage en quelques minutes dans le format interactive book de H5P. Fantastique !!
+24/10/2024, 18:28 - martinyemani IA: La ressource ci-après, prise sur ce forum pourrait vous être utile il me semble
+PROMPT INGENIERING
+https://docs.google.com/document/d/1O-QgIsW5UtMYjW5SFV9nF9vPnZb2J-dZ5849lT6PWFw/edit?tab=t.0#heading=h.gm7o0du88nbs
+24/10/2024, 19:15 - martinyemani IA: Bonjour à toutes et tous. Est-il prouvé que l’IAG n'hallucine pas lorsqu’il utilise votre matériel source pour générer du contenu ?
+24/10/2024, 19:19 - ‎+237 6 97 15 58 93 a demandé à rejoindre le groupe.
+24/10/2024, 19:26 - +32 477 78 78 50: Non puisque le fonctionnement de l’IA est basé sur un calcul de probabilité ou de prédiction. Elle peut donc commettre des erreurs quelque soit le contenu sur lequel nous lui demandons de travailler
+24/10/2024, 19:36 - martinyemani IA: Merci
+24/10/2024, 19:37 - ‎+237 6 97 15 58 93 a rejoint ce groupe grâce à son lien d’invitation
+24/10/2024, 19:39 - Rochane: J'ai l'impression que si on est dans le RAG ( sources internes apportées par l'utilisateur), les hallucinations sont beaucoup moindre. Typiquement, le cas de Notebook LM
+24/10/2024, 19:40 - +237 6 56 90 71 30: Exactly 👍🏾
+24/10/2024, 19:53 - +41 79 326 51 40: https://www.linkedin.com/posts/kirthigan_on-peut-d%C3%A9sormais-cr%C3%A9er-autant-de-voix-que-activity-7254857488599048193-jUC2?utm_source=share&utm_medium=member_android

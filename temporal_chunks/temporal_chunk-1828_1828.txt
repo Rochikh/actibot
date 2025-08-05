@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 19
+
+=== CONTENU ===
+Création d'un nouveau chapitre intitulé "parler du travail".
+https://youtu.be/B462j4e7Ejo?list=PL1kwzIBb7kHGSBNHEEA0zg5hAycR5cGLT
+26/02/2025, 10:24 - +33 6 85 03 31 84: merci pour ces précisions, Hélène;
+ce genre de manip, que tu expliques, c'est ce que j'aimerais éviter, si possible (je suis trop paresseux pour ça 😉)
+en fait, comme je le disais hier après avoir un peu testé Eleven Labs :
+Visiblement, il faut le niveau de souscription Starter (5$/mois) qui permet de générer 1 dialogue en utilisant le modèle Podcast qui permet de définir 2 voix distinctes ".
+comme je n'ai pas, pour le moment, acheté ce niveau de souscription, je n'ai pas pu tester la façon dont le texte à "TTSer" doit être formatté pour permettre à l'outil d' associer correctement chacune des phrases du dialogue avec la voix qui convient.
+26/02/2025, 10:35 - +33 6 85 03 31 84: ah super !
+Je viens de tester, et malgré mon faible niveau en néerlandais 😉, j'ai pu faire un test équivalent à ce qui est présenté dans cette vidéo, et ça marche;
+les voix que j'ai choisi, vite fait, ne sont pas top pour des voix françaises (Adam, et Sarah, pour info), mais, ça peut faire l'affaire et il y en a pas mal d'autres.
+un grand merci ! <Ce message a été modifié>
+26/02/2025, 10:36 - +32 2 211 16 26: Ça fonctionne dans plusieurs langues, c'est vraiment rapide et assez facile
+26/02/2025, 10:53 - +33 6 85 03 31 84: et on peut mettre plus de 2 voix, aussi :
+je viens de tester avec 4 voix différentes (Adam et Sarah sont des voix visiblement québécoises, j'ai rajouté George et Eric qui sonnent plus de française)
+(pour mémoire, le lien d'accès à ce service ElevenLabs pour ceux qui n'ont pas regardé la vidéo YT en néerlandais :
+https://elevenlabs.io/app/studio) puis on clique sur "Start from scratch") <Ce message a été modifié>
+26/02/2025, 11:22 - +41 79 258 90 36: Ce message a été supprimé.
+26/02/2025, 12:05 - Votre code de sécurité avec ~ Mus Deramchia a changé. Appuyez pour en savoir plus.
+26/02/2025, 12:05 - Votre code de sécurité avec ~ Mus Deramchia a changé. Appuyez pour en savoir plus.

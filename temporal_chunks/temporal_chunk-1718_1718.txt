@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 14
+
+=== CONTENU ===
+Il faudrait voir qui participe et surtout qui vient écouter.
+05/02/2025, 22:21 - ‎+352 661 354 647 a demandé à rejoindre le groupe.
+06/02/2025, 02:08 - ‎+216 95 233 049 a demandé à rejoindre le groupe.
+06/02/2025, 07:27 - +33 6 24 33 06 13: Je confirme Stellia très intéressant mais ils ne prennent que de gros clients
+06/02/2025, 07:29 - +33 6 24 33 06 13: Bonjour
+Pour ma part très intéressée mais pas sure que le projet que je porte soit encore suffisamment mature pour le présenter
+06/02/2025, 07:32 - +33 6 24 33 06 13: Bonjour Katia
+Je serais intéressée, tu peux me contacter en MP si tu veux
+06/02/2025, 08:45 - Rochane: # Synthèse exhaustive
+OpenAI a récemment annoncé une initiative majeure visant à renforcer la confidentialité et la conformité réglementaire des données pour ses utilisateurs européens. Ce document présente l'introduction de la **résidence des données en Europe**, une nouvelle fonctionnalité destinée aux entreprises utilisant **ChatGPT Enterprise** et l'**API OpenAI**. Cette initiative répond aux exigences strictes de l'Union européenne en matière de protection des données, notamment le Règlement général sur la protection des données (RGPD).
+### Objectif principal
+L'objectif principal de ce document est d'annoncer le lancement de la résidence des données en Europe. Cette fonctionnalité permet aux entreprises de stocker et de traiter leurs données exclusivement dans des **centres de données situés en Europe**, garantissant ainsi une conformité accrue avec les régulations locales et une meilleure protection des données sensibles.
+### Nouveautés annoncées
+OpenAI a introduit la possibilité pour les clients de ChatGPT Enterprise et de l'API OpenAI de choisir la résidence des données en Europe. Cela signifie que toutes les données générées ou traitées par ces services seront hébergées dans des infrastructures situées sur le sol européen. Cette mesure s'inscrit dans une stratégie plus large visant à répondre aux préoccupations des entreprises concernant la confidentialité et la sécurité des données.

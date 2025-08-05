@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 12
+
+=== CONTENU ===
+06/03/2024, 08:35 - Fred IA: Bonjour à tous !  Pour info, la sortie de la version 3 de Claude est annoncée 🙂 Avec à priori 3 outils,  plutôt dédiés à l'entreprise. https://www.anthropic.com/news/claude-3-family
+06/03/2024, 08:40 - Rochane: La politesse facilite les interactions humaines, et il semble que cela soit également le cas avec les intelligences artificielles génératives comme ChatGPT.
+Des chercheurs ont constaté que les modèles d'IA générative sont plus performants lorsque les requêtes sont formulées de manière polie, urgente ou importante.
+Demander à un modèle de "respirer profondément" peut améliorer ses résultats pour résoudre des problèmes mathématiques difficiles.
+Une équipe d'Anthropic a réussi à empêcher son chatbot Claude de faire de la discrimination en lui demandant gentiment de ne pas le faire.
+Certains utilisateurs prétendent que donner un pourboire à ChatGPT permet d'obtenir de meilleurs résultats dans la génération de code.
+Les requêtes émotionnelles manipulent les mécanismes de probabilité sous-jacents des modèles pour activer des parties qui ne seraient pas normalement sollicitées.
+Les modèles attribuent des probabilités élevées aux séquences fréquentes vues pendant l'entraînement. Être poli signifie formuler les demandes de manière à correspondre au schéma de conformité appris.
+Cela ne signifie pas que le modèle développe des capacités de raisonnement ou émotionnelles similaires à celles d'un humain, ce ne sont que des calculs.
+Les requêtes émotionnelles peuvent également être utilisées à des fins malveillantes pour contourner les règles d'alignement de ces modèles.
+06/03/2024, 08:47 - +33 6 51 43 08 14: Ce message a été supprimé.
+06/03/2024, 08:51 - +33 6 51 43 08 14: Y-t-il une référence qui traite de l'impact des requêtes émotionnelles sur les réponses de l'IA ? Car ayant déjà lu ça j'ai testé et je n'ai pas vu de différence et j'ai même posé la question à l'IA elle même si sa réponse pouvait être impactée par des formules de politesse ou cette demande de réparation profonde et la réponse était négative et bien argumentée. Par contre j'ai n'ai pas essayé pour le caractère urgent et important de la requête

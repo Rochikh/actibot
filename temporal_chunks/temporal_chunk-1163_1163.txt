@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 10
+
+=== CONTENU ===
+02/11/2024, 08:52 - ‎+213 557 02 11 46 a rejoint le groupe à partir de la communauté.
+02/11/2024, 12:21 - Votre code de sécurité avec +33 6 64 41 15 81 a changé. Appuyez pour en savoir plus.
+02/11/2024, 12:22 - +212 644-562660: pouvez vous partager le lien vers le depot Github du projet?
+02/11/2024, 13:29 - Fred IA: https://github.com/4nd4ny/EduChat-o1/
+02/11/2024, 13:29 - Votre code de sécurité avec ~ Ouarda- وردة‎ a changé. Appuyez pour en savoir plus.
+02/11/2024, 13:39 - Votre code de sécurité avec ~ Ouarda- وردة‎ a changé. Appuyez pour en savoir plus.
+02/11/2024, 17:06 - +689 87 78 58 86: Bonsoir Christian, avez-vous pu rediscuter de la conformité au RPGD avec @33662364404 depuis vos dernières modifications ?
+02/11/2024, 17:25 - Francois Bocquet: Attention de bien faire la différence entre logiciel et traitement. Aucun logiciel n’est conforme au RGPD. C’est le traitement de DCP qu’il faut analyser. Quand le traitement (hébergement et administration du logiciel)est assuré par un prestataire externe, celui ci doit être sous traitant et suivre les obligations de l’article 28. Quand le service est assuré par le responsable de traitement lui même celui ci doit mettre en œuvre des démarches préalables pour que le RGPD soit respecté. Un enseignant ne peut être responsable de traitement. Attention donc avant de diffuser des allégations de conformité. La mise en œuvre d’un même logiciel peut être conforme dans l’établissement A et complément illégal dans l’établissement B !
+02/11/2024, 17:32 - +689 87 78 58 86: Tout à fait, merci pour ces précisions @33662364404 . Je me souviens de vos premières discussions avec Christian concernant son projet. Je me demandais juste si vous aviez eu l'occasion d'en rediscuter et peut-être d'élaborer un "protocole" à suivre pour un enseignant qui voudrait déployer sa solution en établissement tout en respectant le cadre du RGPD.
+02/11/2024, 17:37 - +33 6 66 98 84 23: Sur l'académie de Toulouse on nous propose de travailler avec DuckDuckgo AI Chat ou Vittascience qui seraint plus conforme...

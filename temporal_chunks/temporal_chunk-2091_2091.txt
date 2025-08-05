@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 16
+
+=== CONTENU ===
+J'ai un cas concret : du texte chatgpt, scinder en 5 "slides" pour créer un carroussel linkedin, que je compte générer via canva.
+Me manque l'intermédiaire où je peux juste copier-coller ce texte chatgpt quelque part dans Canva pour qu'il me génère un carrousel avec ma typo, charte graphique de marque, et que je n'ai "plus qu'à" modifier les icônes ou images éventuelles etc.
+Avez-vous l'impression que c'est faisable aujourd'hui ? J'ai un peu joué avec Canva pro, mais il me propose des templates, rien de lié à ma charte graphique qui est pourtant bien complétée sur le compte pro...)
+Donc si vous avez une approche moins manuelle, je suis preneur ! <Ce message a été modifié>
+17/04/2025, 13:09 - +216 25 000 725: Vous pouvez consulter cette vidéo qui vous donnera les étapes à suivre pour avoir un Podcast en français : https://youtu.be/oaxELBXTAp8
+17/04/2025, 13:48 - +41 79 326 51 40: Ça ne fonctionne plus avec cette astuce,  malheureusement.
+17/04/2025, 14:09 - +33 6 52 73 73 42: As-tu essayé avec Gamma !?
+17/04/2025, 14:10 - Céline Averseng: <Médias omis>
+17/04/2025, 14:10 - Imane IA: Ce message a été supprimé.
+17/04/2025, 14:12 - Céline Averseng: Voici le Genially source : https://view.genially.com/666ef942bae9a8001443f03a/interactive-content-les-iag-comment-ca-marche
+17/04/2025, 14:12 - +41 79 326 51 40: j'ai justement utilisé celui-ci, refait 5 fois, et toujours en anglais… alors qu'avant j'avais à chaque fois une version en français.
+17/04/2025, 14:13 - +33 7 80 42 87 32: Bonjour, j'ai eu les mêmes échecs aujourd'hui après plusieurs essais..
+17/04/2025, 14:21 - +32 496 25 51 91: je vais enquêter merci pour la proposition
+17/04/2025, 18:34 - Thierry VANOFFE: Hello la compagnie, avec mon collègue Ahmet on a présenté les nouveautés de Google sur l'IA qui ont été annoncées la semaine dernière (Cloud Next). Vous allez voir les progrès sur la génération de vidéos, d'images, de sons ou encore de logiciels avec l'IA.
+Passage en revue de :
+Veo2, Gemini 2.5 flash, Imagen3, Gemini 2.5 PrO, Lyria, chirp3, Live Api, Tpu Ironwood, agent IA, Adk, Firebase Studio...

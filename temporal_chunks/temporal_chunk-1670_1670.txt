@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 19
+
+=== CONTENU ===
+27/01/2025, 17:22 - +212 665-149535: Ce message a été supprimé.
+27/01/2025, 17:52 - +41 79 258 90 36: J'ai reçu l'info suivante aavec https://platform.deepseek.com/usage
+Due to large-scale malicious attacks on DeepSeek's services, registration may be busy. Please wait and try again. Registered users can log in normally. Thank you for your understanding and support.
+27/01/2025, 17:54 - +41 79 258 90 36: Je viens de me connecter avec une gmail avec login <Ce message a été modifié>
+27/01/2025, 18:04 - +41 79 258 90 36: octogo.ai ne connait pas deepseek
+27/01/2025, 18:38 - +44 7776 747507: <Médias omis>
+27/01/2025, 19:02 - +33 6 19 89 32 62: Merci @33649535198 Est ce que l’on d’entre vous a tenté ce qu’il propose : le mettre en privé sur son ordi ? Est ce que c’est très complexe à mettre en place ?
+27/01/2025, 19:03 - Clément Cahagne: Via LM Studio il parait que non, mais bon.. C’est des tech qui disent ça sûrement 😉
+https://alain.goudey.eu/side/2025/01/27/comment-je-fais-fonctionner-un-deepseek-r1-en-local-sur-mon-ordinateur-avec-lm-studio/
+27/01/2025, 19:04 - Clément Cahagne: Autre point : il existe des softs qui permettent de faire de l’IA locale, comme Jan.AI par exemple, mais pas de DeepSeek pour l’instant je pense
+https://jan.ai/
+27/01/2025, 19:46 - Ahmadou Ba: <Médias omis>
+27/01/2025, 19:49 - +32 498 78 46 36: C'est le côté ultra dangereux des LLM : À force cela deviendra du révisionnisme dans la tête de certains 🙄😱.  « Monsieur ça ne s'est jamais passé ce que vous dites, la preuve l'IA n'en parle jamais et refuse d'en parler  »
+27/01/2025, 20:01 - +33 6 74 39 90 60: c'est un des enjeux du connectivisme
+développée l'esprit critique de nos élèves
+D'où la nécessité d'enseigner comment utiliser l'IA plutôt que de l'interdire alors même que aujourd'hui les apprenants utilisent plus que les formateurs
+Ainsi développer une culture d'utilisation raisonnée et critique
+27/01/2025, 20:02 - +33 6 74 39 90 60: développer
+27/01/2025, 20:24 - Francois Bocquet: C’est bien du même niveau ! Le patron de l’éditeur décide de ce qui est acceptable ou pas et peut manipuler à l’envie les générations en Chine, aux USA mais aussi en Europe et même en France

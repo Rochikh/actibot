@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 594
+Messages: 11
+
+=== CONTENU ===
+Je pense que l'IA va grandement m'aider dans cette création d'activité, et de toutes les façons, ma curiosité me pousse à creuser le sujet.
+06/01/2024, 09:45 - ‎+33 6 88 57 53 04 a rejoint le groupe à partir de la communauté.
+06/01/2024, 10:58 - ‎+33 6 87 72 32 30 a rejoint le groupe à partir de la communauté.
+06/01/2024, 12:28 - ‎+33 6 13 87 82 16 a rejoint le groupe à partir de la communauté.
+06/01/2024, 19:40 - +212 658-518929: Bonsoir ! Je suis Mathieu. Prof de math et conseiller pédagogique second degré. Actuellement en reconversion pour devenir datascientist. Je cherche à développer des solutions en ML ou DL pour des problématiques du secteur éducatif.
+Actuellement, je planche sur un modèle qui permettrait de générer de façon (semi) automatique les commentaires de bulletins des enseignants. L’idée est  de s’assurer d’avoir des commentaires de bonne qualité tout en réduisant significativement le temps alloué à cette tâche. Bonne idée ou pas d’après vous ?
+06/01/2024, 19:43 - Francois Bocquet: Tout ce qui touche autour du feedback de qualité est une bonne idée. 👍
+06/01/2024, 19:43 - Rochane: Bienvenue Mathieu ! Super projet. Si pas trop confidentiel, je suis curieux de comprendre comment tu comptes t'y prendre lors de notre prochain live de mardi 9 janvier à 20h 😊 <Ce message a été modifié>
+06/01/2024, 19:49 - +33 6 86 57 88 00: Bonsoir à tous.
+A mon tour de me présenter. Je suis Fanny, étudiante en MASTER2 IMP en distanciel à Lille (élève de Rochane : salut Rochane!). Et sinon, dans la vraie vie, je suis prof de math en collège, tout récemment débauchée en tant de principale adjointe faisant fonction. Et aussi maman solo de 4 gnomes (ça compte aussi comme job, non?). Je suis sur ce groupe car Rochane a bien fait son job et m'a convaincu que non, l'IA, c'est pas (que) le côté obscure de la force (Good job! 👏). Voilà, voilà...
+06/01/2024, 19:56 - +212 658-518929: @33649535198 : j’ai la chance d’avoir de la data (la partie confidentielle). Le reste c’est un peu de stats, de la classification et du nlp. L’idée c’est qu’un enseignant puisse à partir des notes brutes, et de quelques keywords bien choisis, d’obtenir ses commentaires. Je pense utiliser un modèle de deep learning pre entraîné et le finetuner sur mes données. Je ne suis pas sur de pouvoir vous rejoindre mardi. Si je peux, je serai là. <Ce message a été modifié>

@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 8
+
+=== CONTENU ===
+02/07/2025, 10:01 - Francois Bocquet: Ça n’est pas exact. La conformité RGPD des suites bureautiques Google et Microsoft avec des contrats B2B est avérée depuis de nombreuses années. Ces services disposent de toutes les certifications ISO nécessaires et sont même certifiées HDS (hébergement des données de santé) par le Ministère de la santé français. Elles disposent des contrats et avenants conformes à l’article 28 du RGPD. A condition que les mesures préalables obligatoires soient mise en œuvre ces services sont conformes alors que l’utilisation de services grand public ne peut jamais l’être.
+02/07/2025, 10:02 - Daniel Pappalardo: Oui j'ai reprécisé.
+02/07/2025, 10:02 - Francois Bocquet: En revanche il ne fait utiliser que des services professionnels avec les contrats adéquats. Ils se reconnaissent facilement. Seuls les services dont les comptes d’accès sont créés par l’administrateur du service au sein de l’institution peuvent être conformes.
+02/07/2025, 10:03 - Francois Bocquet: En clair si vous utilisez professionnellement des services Google avec un compte en gmail.com alors ça ne peut être conforme au RGPD. Idem pour CoPilot…
+02/07/2025, 10:04 - Francois Bocquet: Et c’est la même chose pour Anthropic, Mistral, Poe, OpenAI, Deepseek,… seuls les comptes pros administrés par votre institution peuvent être conformes pour un usage professionnel (missions à exercer dans le cadre de vos fonctions).
+02/07/2025, 10:06 - Francois Bocquet: Pour résumer et si vous vous préoccupez du RGPD et du RIA (mais sans vous préoccuper de « souveraineté » qui ne repose sur aucun cadre juridique) n’utilisez que des comptes professionnels sur des services fournis par votre institution. Tous les autres comptes vous amènent à des traitements qui sont à date illégaux.
+02/07/2025, 10:09 - Daniel Pappalardo: C'est très bien que tu le précises et merci pour la richesse et la qualité (comme toujours) de ton intervention !
+02/07/2025, 15:12 - ‎+56 9 6644 8380 a demandé à rejoindre le groupe.

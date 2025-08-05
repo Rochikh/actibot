@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+https://www.linkedin.com/posts/corentin-pinel-88029a250_ce-r%C3%A9seau-ma-beaucoup-apport%C3%A9-cest-le-activity-7188456468025614337-ChAp?utm_source=share&utm_medium=member_ios
+23/04/2024, 15:42 - +33 6 89 06 86 68: Je l'ai effectivement vu sur Youtube il utilise CrewAi pour developper des agents qui comuniquent entre eux ( https://www.crewai.com ) un agent est spécialisé dans une tache, cela permet de pouvoir automatiser des flux de façon plus pertinente.... on s'eloigne un peu du sujet du groupe mais c'est vrai que c'est intéressant de developper ce genre de concept en local sans etre dependant de telle ou telle platforme... le probleme de tout ces outils c'est d'avoir un vrai cas d'usage... la techno avance plus vite que les implementations réellement impactante je trouve...
+23/04/2024, 15:50 - Rochane: Si tu veux nous faire une démo le jour du live et sinon, je la ferai avec plaisir 😁
+23/04/2024, 15:53 - +34 618 97 47 94: Selon moi pour toute Tech, chacun y verra l’usage qui lui correspond en lien avec la simplicité d’usage (ou non) pour soi même et ses apprenant.
+Dans mon cas il est multiple: ça ne permet d’avoir une équipe d’assistants qui travaillent sur différentes tâches et projets en parallèle mais en pouvant faire un suivi global. Je vais réfléchir à un cas d’usage qui puisse être intéressant pour le groupe. Si vous avez des idées n’hésitez pas!
+23/04/2024, 16:28 - Rochane: https://www.lacreme.ai/
+Ce que j'aime bien avec ce site, on trouve facilement un outil répondant à un besoin
+23/04/2024, 16:44 - +33 6 76 38 15 71: https://www.edhuman.org/post/l-ia-au-service-de-la-conception-universelle-des-apprentissages-cua
+23/04/2024, 16:45 - +33 6 76 38 15 71: On retrouve magic school
+23/04/2024, 17:02 - Yvelines: https://www.scoop.it/topic/pedagogie-2/p/4152441502/2024/04/22/guide-ia-enseignement-unige?utm_medium=social&utm_source=linkedin
+23/04/2024, 17:46 - +33 7 63 58 01 55: Ce message a été supprimé.
+23/04/2024, 17:52 - Votre code de sécurité avec ~ Amal Mahious a changé. Appuyez pour en savoir plus.

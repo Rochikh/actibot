@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 15
+
+=== CONTENU ===
+16/09/2024, 18:37 - Amadou GuisséIA: Bonjour
+Est-ce qu'un peut faire la même avec Moodle ?
+16/09/2024, 18:57 - +216 25 000 725: Oui c'est possible. Mais cette fois il faut penser à générer le fichier XML moodle. Voici le vidéo qui vous explique les étapes  https://youtu.be/NG1H6bA-tqQ?si=XiLnHAkWG3giAX-o
+16/09/2024, 19:09 - ‎+33 6 88 84 60 60 a rejoint ce groupe grâce à son lien d’invitation
+16/09/2024, 19:13 - Rochane: Reponse d'ActiBot, le chat de la communauté 🙂
+Salut et bienvenue dans la communauté WhatsApp IAréna Educative ! 🎉
+Concernant ta question sur une IA capable de fournir une traduction simultanée en live lors de séminaires, il existe plusieurs options intéressantes. Par exemple, TurboScribe est mentionné comme un outil qui peut transcrire et sous-titrer automatiquement des cours, ce qui pourrait s'avérer utile pour des séminaires. De plus, Microsoft propose un add-in gratuit "Translator for PowerPoint" qui permet de traduire facilement des diapositives en plusieurs langues, ce qui peut également aider lors de présentations.
+Cependant, pour une traduction audio en temps réel, les solutions peuvent être plus limitées et souvent plus coûteuses. Des outils comme ElevenLabs et HeyGen permettent des traductions audio, mais les coûts peuvent être prohibitifs.
+Il est donc recommandé de tester ces options et de voir laquelle répond le mieux à tes besoins et à ton budget. N'hésite pas à partager tes retours avec la communauté ! 😊
+16/09/2024, 19:16 - Rochane: Réponse d'ActiBot
+Salut et bienvenue dans la communauté WhatsApp IAréna Educative ! 😊
+Pour répondre à ta question, voici quelques outils d'IA qui pourraient t'intéresser pour créer des avatars dans des modules e-learning, en plus de HeyGen :
+Fliki : Permet de créer des vidéos à partir de texte et offre une version gratuite.
+HourOne : Crée des vidéos avec des présentateurs virtuels, disponible avec des options gratuites.
+Murf : Génère des voix à partir de texte, avec des options gratuites, et est bien noté pour sa qualité.

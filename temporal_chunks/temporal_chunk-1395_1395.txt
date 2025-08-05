@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 10
+
+=== CONTENU ===
+Poe est en effet excellent car il permet de travailler avec plusieurs modèles de langage et de comparer les réponses mais si on en sait plus sur les objectifs on pourrait te recommander peut être encore autre chose 😉
+11/12/2024, 07:36 - ‎+41 79 798 48 05 est parti·e
+11/12/2024, 07:53 - +33 6 64 47 07 94: Question de candide. Pour toutes ces évaluations que vous réalisez, utilisez vous un peu compare ia pour avoir une idée du coût de la manip ?
+11/12/2024, 08:35 - Rochane: Si tu n'as pas de réponse c'est que c'est non 😁
+11/12/2024, 08:38 - +33 6 59 35 23 38: Bonjour à tous. J'ai un besoin très spécifique et me demandais si quelqu'un connaîtrait un outil d'IA permettant d'y répondre. J'ai un nombre important de vidéos pédagogiques, non interactives, dont la forme est celle d'une sorte de powerpoint animé, avec des textes et des images apparaissant au fur et à mesure. Je voudrais extraire des captures d'écran de chaque moment significatif, c'est-à-dire concrètement de chaque moment où une diapo est complète, juste avant le passage à la suivante. Il faudrait donc que l'outil "comprenne" que le slide est complet et en fasse un snapshot avant que le suivant soit lui aussi complet, et ainsi de suite. Merci par avance pour vos suggestions.
+11/12/2024, 08:43 - Rochane: Essaie screenapp.io
+11/12/2024, 09:09 - ‎+33 6 60 76 02 35 a demandé à rejoindre le groupe.
+11/12/2024, 09:28 - Ahmadou Ba: https://www.linkedin.com/posts/tirotg_mizou-une-application-dia-pour-cr%C3%A9er-des-activity-7272346939172564992-tB_E?utm_source=share&utm_medium=member_android
+11/12/2024, 09:29 - Ahmadou Ba: Article sur une application créatrice de Chatbot. Très intéressant.
+11/12/2024, 09:33 - +33 6 19 75 63 49: Merci. L’idée est d’automatiser la création d’analyse de sites pédagogiques. Je vais rentrer une grille d’analyse de contenu pédagogique, ensuite le GPT pose des questions sur la ressource untel et la collègue y répond, ensuite le GPT rédige une fiche, et ainsi de suite avec les mêmes questions pour toutes les ressources. Je fais des choses similaires avec mes GPTs quand je crée des exercices du même format. Je vais tester Poe, merci!

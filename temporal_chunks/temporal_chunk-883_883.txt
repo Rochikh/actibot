@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 13
+
+=== CONTENU ===
+07/09/2024, 13:13 - Ahmadou Ba: https://typeset.io/
+Est un bon outil de recherche, de même https://elicit.com/
+Et les liens renvoient aux sites ou article de même perplexity, mais ChatGPT et gemini crée bcp de référence fictive qui ne point sur nul part. Mais on peut toujours verifie les sources via google scholar.
+07/09/2024, 13:39 - Clément Cahagne: Bonjour Hélène. Dans quel domaine fais tu de la recherche ? J'ai testé récemment scispace pour de la recherche scientifique : pas mal
+07/09/2024, 14:20 - +33 6 20 97 18 83: Bonjour @33675775911, C'est plutôt pour apporter des ressources à une collègue qui travaille avec ses étudiants de master sur la méthodologie de recherce documentaire. Certains de ses étudiants veulent recourir à l'IA pour effectuer leur recherche documentaire et ma collègue souhaite les  éclairer sur  les avantages et limites de ces outils. Et pourquoi pas les diriger sur des outils acceptables pour de la recheche documentaire. Elle recherche donc de la ressource en la matière. Je me suis dis que je pourrai peut-être lui trouver de la ressource dans la communauté ici.
+07/09/2024, 14:21 - +33 6 20 97 18 83: Merci @221774242616.
+07/09/2024, 14:36 - Votre code de sécurité avec +33 6 30 62 73 82 a changé. Appuyez pour en savoir plus.
+07/09/2024, 14:37 - ‎+33 6 65 22 17 81 a rejoint ce groupe grâce à son lien d’invitation
+07/09/2024, 14:55 - +33 6 26 19 30 26: Bonjour. Connaissez vous des outils (IA ou sans IA) pour réaliser des enquêtes en ligne et analyse des résultats, en ajoutant des scores et des questions conditionnelles selon le score ?
+Je connais Limesurvey mais je le trouve limité sur l'analyse des résultats.
+Merci pour vos réponses!
+07/09/2024, 14:58 - Rochane: L'idéal est d'utiliser un outil classique comme Google forms ou Microsoft forms et analyser la feuille de calculs en sortie sur des outils LLM comme Chat Gpt ou autre 🙂 <Ce message a été modifié>
+07/09/2024, 15:00 - Clément Cahagne: Ou Tally ! Que je trouve absolument génial personnellement. Avec analyse des réponses via export en csv + Claude 👌 <Ce message a été modifié>

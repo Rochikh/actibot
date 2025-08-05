@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 12
+
+=== CONTENU ===
+07/01/2024, 18:08 - +32 498 78 46 36: https://youtu.be/iVYP2lyreAA Si vous voulez tester des LLM en mode hors-ligne (Mistral, Llama) il est possible d'en installer sur n'importe quel PC grâce à https://jan.ai
+07/01/2024, 22:27 - Rochane: Franchement, pas très convaincu par cette solution car à part générer quelques lignes de code, je n'ai rien vu d'extra dans ses exemples. Un peu logique, tu as un logiciel de 4 go, sans connexion à internet, comment veux tu avoir ta base de connaissances qui doit être basée sur des milliards de paramètres. Sans oublier la nécessité d'avoir de CPU de très grande qualité qui coûtent 200 K euros....
+07/01/2024, 22:33 - +32 498 78 46 36: C'est justement cette déconnexion d'internet couplée au fait qu'il tourne en local sur une machine que je trouve intéressante. Après je je n'ai pas testé 😉
+08/01/2024, 07:51 - Rochane: Vous avez supprimé ce message
+08/01/2024, 07:52 - Rochane: https://www.ladn.eu/tech-a-suivre/pensez-vous-que-lia-va-exterminer-lhumanite-calculez-votre-pdoom/ La “probability of doom” (probabilité de catastrophe) est la nouvelle métrique à la mode chez les tech bros
+08/01/2024, 09:45 - ‎+33 6 82 23 97 12 a rejoint le groupe à partir de la communauté.
+09/01/2024, 18:51 - Rochane: Chèr·es ami·es,
+J'ai le plaisir de vous inviter à notre prochain live mensuel qui aura lieu le mardi 9 janvier de 20h à 21h. Ce sera l'occasion pour notre communauté de se retrouver et d'échanger en direct sur les dernières actualités et innovations en IA et en éducation.
+Pour participer, deux options s'offrent à toi :
+En visioconférence via ce lien : https://meet.google.com/wsf-snkf-kcu
+Par téléphone en composant le +33 1 87 40 47 62 puis en saisissant le code d'accès 299 438 459# (d'autres numéros sont disponibles via ce lien : https://tel.meet/wsf-snkf-kcu?hs=5)
+Lors de cette session, tu es invité·e à partager avec le groupe un outil, une méthode, ou une pratique inspirante en rapport avec l'IA ou l'éducation. Pour proposer un sujet, il te suffit de m'envoyer un message privé et je l'ajouterai à l'ordre du jour. Tu peux aussi sans forcément partager 🙂

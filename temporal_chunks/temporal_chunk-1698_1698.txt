@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 547
+Messages: 14
+
+=== CONTENU ===
+01/02/2025, 19:58 - StéphaneIA: Je ne serai dire si openai est meilleur ou pas de même pour Google même si en travaillant beaucoup avec eux je sais qu'ils apportent une attention particulière a la législation. Les autres des fois ce n'est pas le cas tout le temps.
+Mistral j'aimerai bien travailler plus avec leur API mais pour les moment je la trouve moins rapide et sur certains sujets la sortie texte est moins bonne.
+01/02/2025, 19:59 - +32 483 60 53 96: Merci pour vos partages 🤗
+01/02/2025, 20:02 - StéphaneIA: Sur ce point de mon côté j'y vois aussi une certaine philosophie. Déontologiquement je ne veux pas forcément cautionner, avis perso. De toute façon maintenant je préfère payer qu'elle centimes avec les API et comme cela je suis couvert. Je testerai deepseek mais juste pour voir.
+01/02/2025, 20:04 - StéphaneIA: Mais vraiment j'espère que Mistral reprendra le travail deepseek pour faire un model européen de premier niveau.
+Vu la tournure que ça prend la maîtrise d'un model de haut niveau va devenir une arme technologique.
+01/02/2025, 20:11 - +32 498 78 46 36: Je sors un peu du contexte purement IA (même si tout est imbriqué) mais vu que ça parle parfois RGPD ici voici le fingerprinting de Google qui semble vouloir contourner les règles des cookies pour quelque-chose de plus pernicieux. Date d'entrée en vigueur le 16/02 mais je ne sais pas si c'est le cas pour l'Europe aussi...
+https://lareclame.fr/google-fingeprinting-cookies-tiers-donnes-utilisateurs-308681 <Ce message a été modifié>
+01/02/2025, 21:12 - ‎+32 496 87 29 98 est parti·e
+01/02/2025, 21:59 - Gregoire IA: Ils ne sont surtout pas en avance, leur modèle est d'intégrer ce qui a fait ses preuves ailleurs avant.
+02/02/2025, 05:01 - Votre code de sécurité avec +216 52 553 835 a changé. Appuyez pour en savoir plus.
+02/02/2025, 06:44 - ‎+33 6 01 64 33 57 est parti·e
+02/02/2025, 07:58 - +33 6 28 55 82 18: Hello à tous
+Dans le cas d’une installation de DeepSeek en local, étant donné que je dois changer d’ordinateur, je passe sur un Mac mini m4 pro, vaut-il mieux investir dans de la ram et passer de 24 à 48 Go ou de grappiller quelques cores sur le gpu ?. Le neural engine restant le même …

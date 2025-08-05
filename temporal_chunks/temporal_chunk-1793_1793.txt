@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 13
+
+=== CONTENU ===
+16/02/2025, 21:09 - Votre code de sécurité avec ~ Sandra a changé. Appuyez pour en savoir plus.
+16/02/2025, 23:00 - +33 6 33 38 60 24: <Médias omis>
+16/02/2025, 23:00 - +33 6 33 38 60 24: Vu sur Linkedin
+16/02/2025, 23:14 - Ahmadou Ba: avez testé cet outil https://typeset.io/ai-writer
+16/02/2025, 23:15 - Ahmadou Ba: Typeset.io est une plateforme en ligne qui propose un outil d'écriture assistée par intelligence artificielle (IA). Cet outil, appelé AI Writer, est conçu pour aider les utilisateurs à rédiger, éditer et formater des documents académiques, des articles de recherche, et d'autres types de contenus écrits. Il offre des fonctionnalités telles que la génération de texte, la correction grammaticale, la suggestion de style, et la mise en forme automatique selon les normes académiques. L'objectif est de simplifier le processus d'écriture et d'améliorer la qualité des documents produits.
+16/02/2025, 23:16 - Ahmadou Ba: il me parait enorme, j'ai fait un tour. Il peut aider a ecrire meme des articles, l'outil de  recherche est bon aussi
+16/02/2025, 23:16 - Clément Cahagne: Je l'utilise souvent pour de la veille scientifique. La partie ai writer est un "plus" mais la fonction principale est la rechervhe augmentée hyper efficace. Dans mes domaines du moins. Regarde aussi consensus ou elicit dans le même style
+16/02/2025, 23:28 - Ahmadou Ba: Merci beaucoup, elicit je connais j'ai deja testé mais consensus je ne connais pas encore. Je vais voir cela.
+Je faisais une combinaison elicit + notebook. L'un pour trouver des ressources l'autre pour faire du RAG. Mais apparemement perplexity et notebook font l'affaire egalement.
+17/02/2025, 10:55 - +33 6 62 05 94 71: Du nouveau chez Perplexity https://www.numerama.com/tech/1906129-perplexity-lance-gratuitement-cette-fonction-quopenai-fait-payer-200-e-par-mois.html
+17/02/2025, 14:12 - ‎~ REVOLia est parti·e
+17/02/2025, 14:18 - ‎Adrien Bock IA a demandé à ajouter +33 6 79 76 84 25.
+17/02/2025, 15:29 - Rochane: Introduction

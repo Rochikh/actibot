@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 16
+
+=== CONTENU ===
+https://www.stratice.fr/la-grande-enquete-stratice-sur-les-usages-de-lia-en-formation/
+18/12/2024, 21:05 - +33 6 25 79 50 95: Et pour finir l'Office parlementaire d'évaluation des choix scientifiques et technologiques a publié un rapport : ChatGPT et après ? Bilan et perspectives de l'intelligence artificielle
+https://videos.senat.fr/video.4893460_67501cc7c4a7f.chatgpt-et-apres--le-futur-de-l-ia
+Rapport et synthèse téléchargeables ici
+https://www.assemblee-nationale.fr/dyn/17/organes/delegations-comites-offices/opecst/actualites/chatgpt-et-apres-bilan-et-perspectives-de-l-intelligence-artificielle
+18/12/2024, 21:25 - Rochane: 30 EUR par mois et si tu prends Microsoft copilot studio qui aide à créer des agents, c'est 200 EUR par mois <Ce message a été modifié>
+18/12/2024, 21:33 - Votre code de sécurité avec ~ Michele a changé. Appuyez pour en savoir plus.
+18/12/2024, 21:37 - François JOURDE: Pour une école, par licence ?
+18/12/2024, 21:38 - Rochane: Pour nous, organisme de formation. @32479823712 , tu peux confirmer ?
+18/12/2024, 22:00 - Rochane: ‎Chat Gpt.vcf (fichier joint)
+18/12/2024, 22:00 - Rochane: Vous pouvez rajouter Chat Gpt à vos contacts WhatsApp 😁
+18/12/2024, 22:28 - Sébastien Place: Copilot Studio est une licence par Tenant à 2400 euros en annuel. Elle ne nécessite pas de licencier par utilisateur et permet de créer des agents sur différentes sources internes ou externe et de les rendre disponible à des membres de l'institution ou à des personnes externes.
+18/12/2024, 23:11 - Ahmadou Ba: <Médias omis>
+18/12/2024, 23:11 - Ahmadou Ba: Trés drôle, sa réponse
+19/12/2024, 08:22 - +34 683 61 41 61: Dicte.ai a annoncé récemment cette nouvelle fonctionnalité pour les visioconférences
+19/12/2024, 08:36 - +33 6 68 00 29 68: Bonjour à tous je n’ai pas tout suivi, donc vous avez peut-être déjà partagé cet article bien sourcé sur l’IA générative et l’éducation je le met la au cas ou : https://blog.talan.com/2024/11/12/apprentissage-adaptatif-et-au-dela-comment-lintelligence-artificielle-faconne-leducation/ <Ce message a été modifié>

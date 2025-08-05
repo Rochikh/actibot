@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+20/09/2024, 15:53 - Rochane: Besoin de vérifier des infos ? 🤔 La Réponse Tech a lancé un numéro WhatsApp dédié ! 📲 Ecrivez au +33974991295 pour vérifier des faits  #VérificationDesFaits #InfosFiables https://wa.me/33974991295
+20/09/2024, 15:57 - +212 644-562660: vous connaissez des tools pour faire des enregistrements avec notre visage qui apparait en miniature dans un coin de la vid, on dit screencastomatic il semble
+20/09/2024, 16:04 - +33 6 85 18 84 20: Il y a Loom : https://www.loom.com/
+20/09/2024, 16:11 - Clément Cahagne: https://www.rdventerredigitale.com/post/episode-74-loom
+20/09/2024, 16:12 - +33 6 49 95 38 23: Obs
+20/09/2024, 16:13 - +33 6 49 95 38 23: https://obsproject.com/fr
+20/09/2024, 16:14 - +33 6 49 95 38 23: https://www.reddit.com/r/LocalLLaMA/comments/1fk05n3/obs_virtual_camera_open_webui_video_chat_mode/?show=original
+20/09/2024, 18:26 - Jean-Marc Everard: Oui OBS fonctionne bien et est gratuit mais prise en main demande un peu de pratique. Screencastomatic fonctionne bien aussi, sans doute plus facile, et puis encore plus simple (surtout pour l’édition) mais payant, il y a camtasia.
+20/09/2024, 18:28 - +216 25 000 725: Je vous recommande activepresenter il est gratuit, complet et très simple même à partir de la première utilisation
+20/09/2024, 18:52 - Votre code de sécurité avec Enes Cornelis a changé. Appuyez pour en savoir plus.
+20/09/2024, 19:11 - +33 6 19 75 63 49: Pas gratuit, et pas de l’IA, mais PowerPoint?
+20/09/2024, 19:12 - Jean-Marc Everard: Ah .. Ben oui, on n’y pense pas mais en effet Powerpoint a cette option maintenant, et ça donne pas mal en plus… Merci pour ce rappel !
+20/09/2024, 19:12 - +32 479 82 01 20: J'utilise Tella.tv et j'en suis très satisfait!
+20/09/2024, 19:48 - StéphaneIA: Bonjour à tous, suite à la vidéo comparant ChatGPT 4o et o1. J'ai refait les tests avec Gemini 1.5 Pro et Flash. Les résultats sont dans cet article https://medium.com/@stephane.giron/gemini-1-5-pro-and-flash-reasoning-capacities-versus-chatgpt-4o-and-openai-o1-1035a9ffa580

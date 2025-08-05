@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 8
+
+=== CONTENU ===
+25/10/2023, 22:13 - Rochane: Ce document présente diverses façons d'utiliser ChatGPT dans un contexte éducatif, notamment pour trouver et rassembler du contenu pour les leçons, structurer des plans de cours, proposer des outils technologiques, générer des discussions, créer des exercices, aider à la recherche, et explorer des concepts. Il suggère que ChatGPT peut être un outil précieux pour la génération d'idées, l'exploration de concepts, et la facilitation de l'apprentissage personnalisé​​
+https://blog.classpoint.io/fr/comment-utiliser-chatgpt-comme-un-pro-100-exemples-de-chatgpt-dans-les-ecoles-avec-des-exemples-que-vous-pouvez-copier/#chat-gpt-examples-for-research-brainstorming-and-information-gathering
+25/10/2023, 22:15 - +33 6 01 42 09 49: Intéressant merci
+26/10/2023, 00:59 - ‎+1 (438) 878-2818 est parti·e
+26/10/2023, 06:52 - Larissa: Salut tout le monde, merci Rochane pour cette belle initiative. J'aurai une question pour tout le monde. Je suis à la recherche d'un LMS "light" où les participants ne se loggent pas mais peuvent regarder du contenu et puis répondre à des questions (multiple choice etc) pour que je puisse voir s'ils ont bien compris le contenu diffusé. Ile devront mettre leurs noms que à ce moment là avec un code propre à la personne. Donc rien serait derrière un Login Wall mais resterait traceable. Des idées? Merci à toutes et à tous.
+26/10/2023, 07:05 - Rochane: Bonjour Larissa mais est-ce qu'un bête Google form ne répondrait pas à ce besoin ? Pas obligation de se loguer, on peut insérer du contenu avant les questions, la première question peut être leur nom. Et on peut suivre les résultats sur un Google sheets <Ce message a été modifié>
+26/10/2023, 07:06 - Larissa: Salut Rochane! J'aimerai avoir une page avec la ou les vidéos et directement les questions par après....pour le UX...si je dois rediriger les participants vers deux sites différents, pas idéal. Vimeo ne le permet pas je crois.
+26/10/2023, 07:07 - Larissa: Mais ton idée pourrait marcher si je crée un Google Site avec des pages pour chaque Learning Unit qui inclut un embedded video et un Google Forms dessous.

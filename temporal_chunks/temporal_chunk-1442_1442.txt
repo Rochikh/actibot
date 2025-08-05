@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 19
+
+=== CONTENU ===
+19/12/2024, 10:39 - estelle Duterage Drion IA: Cc suis preneuse d’un article sur l’IA symbolique si vous avez merci
+19/12/2024, 11:21 - +213 770 60 32 81: Ce message a été supprimé.
+19/12/2024, 11:40 - +33 6 25 79 50 95: Open AI est intelligent :-)
+Faciliter davantage l'accès à ChatGPT pour développer l'habitude et le réflexe chez les utilisateurs qui ne penseront plus aux autres agents conversationnels.
+Curieux de savoir comment Méta  accueille et pourrait encourager ce type d'initiative qui viendra détourner l'usage de leur LLM.
+Et plus globalement comment allons nous continuer à prendre de la distance dans cette course aux annonces et nouveautés qui entretiennent l'IA washing ?
+Quand le sage montre la lune, l'idiot regarde le doigt :-)
+19/12/2024, 11:50 - estelle Duterage Drion IA: https://edtechactu-com.cdn.ampproject.org/c/s/edtechactu.com/outils-collaboratifs/chatbots-pourquoi-les-integrer-en-classe/amp/
+19/12/2024, 11:53 - François JOURDE: Merci. L'image d'illustration de l'article, évidemment, est un peu décevante si on conçoit l'apprentissage comme une interaction sociale.
+19/12/2024, 12:14 - +33 7 63 58 01 55: https://hal.science/hal-04046674v1
+19/12/2024, 13:55 - Perrine: [pour les fans d'éducation ouverte: Patrice Thiriet en direct https://studio.youtube.com/video/DXTkgm9AWWw/livestreaming parle beaucoup de @33785744116]
+19/12/2024, 13:59 - Adrien Bock IA: Tu peux avoir une retranscription par écrit, absolument fidèle à ce que tu as dit oralement avec Microsoft Copilot
+19/12/2024, 14:44 - +33 7 86 18 83 63: Es-tu sur de la nature de ce compte ? Chatgpt n'a pas officiellement communiqué là-dessus
+19/12/2024, 14:46 - +32 479 82 01 20: <Médias omis>
+19/12/2024, 14:46 - +32 479 82 01 20: c'est bien officiel 😊
+19/12/2024, 16:25 - +33 7 86 18 83 63: Merci
+19/12/2024, 16:25 - +33 7 86 18 83 63: C un cadeau de l avent
+19/12/2024, 17:25 - +33 6 49 84 08 41: Hello,
+Je cherche à analyser puis exploiter les résultats d'un questionnaire Microsoft Forms qui figurent donc dans un fichier Excel...

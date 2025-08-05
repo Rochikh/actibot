@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 561
+Messages: 16
+
+=== CONTENU ===
+20/10/2024, 13:26 - Rochane: N'hésite pas à regarder sur le bot et tu trouveras tout ce qui a été partagé à ce sujet activité.carrd.co
+Je l'ai fait et regarde sa réponse 🙂
+Vous : Bonjour à tous, Je cherche une application pour transcrire des entretiens. Merci
+Salut et bienvenue dans la communauté WhatsApp IAréna Educative ! 🎉
+Pour ta recherche d'une application pour transcrire des entretiens, voici quelques recommandations :
+Dicte : C'est une application mobile qui permet de transcrire des réunions et des notes avec une précision presque 100%. Elle est axée sur la confidentialité et est disponible en version bêta. Pour l'essayer, tu peux t'inscrire sur leur site : https://app.dicte.ai.
+Speechnotes : Une application Android qui utilise la technologie Whisper d'OpenAI pour transcrire automatiquement des fichiers audio en texte.
+Plaud Note : Un dictaphone au format carte de crédit qui enregistre et transcrit grâce à l'IA, incluant des fonctionnalités de résumé.
+TurboScribe : Cet outil convertit l'audio et la vidéo en texte avec une grande précision et propose des options de sous-titrage.
+Descript : Bien que limité en version gratuite, cet outil est très efficace pour la transcription audio et vidéo.
+N'hésite pas à tester ces options et à partager ton retour avec la communauté ! 😊
+20/10/2024, 13:28 - +33 6 34 46 44 99: null
+20/10/2024, 13:34 - ‎+33 6 18 66 76 61 a demandé à rejoindre le groupe.
+20/10/2024, 13:35 - ‎+33 6 18 66 76 61 a rejoint ce groupe grâce à son lien d’invitation
+20/10/2024, 13:57 - Jean-Marc Everard: C’est bon à savoir quand on évolue dans un environnement bilingue comme moi. Il est bon pour le néerlandais de Belgique ? Pas trop d’accent de nos voisins du nord?
+20/10/2024, 14:09 - Jean-Marc Everard: Comme François, j’avais été assez impressionné par K2R2, surtout par leur approche complète et pensée de façon séquentielle mais en suivant une approche de conception assez habituelle. Je ne sais pas ce que donnent les résultats visuellement par contre. je suis justement en train de tester ses concurrents (Nolej et Edtake) sur un cas concret pour pouvoir comparer. Du coup @33785744116 sais-tu comment on peut avoir un accès démo à K2R2 ? Sachant que je ne suis pas leur public cible ^^.

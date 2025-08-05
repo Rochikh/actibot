@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 554
+Messages: 14
+
+=== CONTENU ===
+13/10/2024, 14:49 - ‎+33 6 50 95 11 98 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 15:03 - Yvelines: Salut tout le monde! Je viens de soumettre un logigramme en jpeg à ChatGPT with Canvas pour en extraire les données essentielles et demander des suggestions d'amélioration. Jusque là c'est passé sans embûche, mais j'ai maintenant besoin de réutiliser les données et recommandations formulées pour créer une version améliorée du logigramme. J'ai essayé d'implémenter sur Lucidchart avec la fonction IA mais le résultat est très approximatif. Sur Miro j'ai juste la possibilité d'importer un fichier CSV, ça ne m'aide pas vraiment. Est-ce que quelqu'un aurait une idée pour que je puisse arriver à mes fins ? 🤞🚀
+13/10/2024, 15:07 - ‎+33 6 24 26 51 55 a demandé à rejoindre le groupe.
+13/10/2024, 15:08 - Ahmadou Ba: Essayer d'utiliser les GPT il y a qui crée de bonnes cartes conceptuelles
+13/10/2024, 15:10 - ‎+33 6 24 26 51 55 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 15:15 - ‎+33 6 70 01 78 58 est parti·e
+13/10/2024, 15:19 - Yvelines: Tu en as un à me conseiller en particulier?
+13/10/2024, 15:19 - Rochane: Whimesical
+13/10/2024, 15:25 - Ahmadou Ba: Tu peux essayer https://chatgpt.com/g/g-qVw4nmAcR-dessiner-un-logigramme ou Mermaid pour voir. Le premier j'ai jamais vraiment tester. Vous pouvez essayer et nous faire un retour.
+13/10/2024, 15:32 - Yvelines: Merci, je vais tester!
+13/10/2024, 15:51 - ‎+33 6 25 35 13 62 a demandé à rejoindre le groupe.
+13/10/2024, 16:30 - ‎+33 6 25 35 13 62 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 18:03 - +33 6 77 84 11 24: Des testeurs de https://www.lebigdata.fr/decouvrez-notre-test-de-chapple-ai-lavenir-de-la-creation-numerique ?
+13/10/2024, 20:02 - +33 6 19 75 63 49: « La startup d’Etat "Compar:IA" - au sein de la direction interministérielle du numérique (DINUM) - propose un site gratuit pour confronter les résultats fournis par différentes IA à une même question. Il calcule aussi le coût environnemental de chaque requête. »https://www.francetvinfo.fr/replay-radio/nouveau-monde/toutes-les-intelligences-artificielles-ne-se-valent-pas-faites-en-vous-meme-l-experience_6807529.html#xtor=CS2-765

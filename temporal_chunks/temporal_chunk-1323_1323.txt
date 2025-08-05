@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 570
+Messages: 12
+
+=== CONTENU ===
+J'ai compris dans tes explications que l'IA analyse ce que déclare la personne et identifie des compétences. Sur quelle base de compétences les déclarations sont-elles analysées ? Un référentiel fourni en amont ?
+Autre question : entre l'enregistrement audio et les compétences, se trouve la transcription. Quel intérêt y vois-tu ?
+Merci et bravo !
+24/11/2024, 17:40 - +221 76 598 97 25: merci bcp très utile
+24/11/2024, 17:41 - +221 76 598 97 25: ya t'il une IA qui permet de générer un rapport automatique d'une réunion ou d'une conférence sans prendre notre. autrement dit peut on enregistrer les interventions des participants et en faire un rapport
+24/11/2024, 17:43 - Ahmadou Ba: Ils sont nombreux, noota le faisait tres bien mais sa version gratuit est limité a quelques heures d'enregistrement
+24/11/2024, 17:47 - Rochane: Merci Martine,
+Je pense que c'est un outil qui n'est pas complètement une évaluation puisqu'il s'appuie sur du décalaratif même si ça joue beaucoup sur la metacognition. La compétence est souvent reliée au learning outcomes et ça pourrait être le produit de l'apprenant·e.
+Quant à la transcription qui est du texte, j'y vois un gros intérêt pour l'enseignant·e pour qui c'est plus facile de consulter du texte que de l'audio de tout le monde et en plus de mutualiser ces informations sur le pdf généré ou la base de données airtable.
+La prochaine amélioration serait justement de fournir à l'IA d'Openai plus de connaissances comme des grilles de compétences ou des critères d'évaluation mais techniquement, il faudrait passer par les modules assistants d'Openai 😀
+24/11/2024, 18:07 - Francois Bocquet: https://www.lebigdata.fr/vous-etes-nul-avec-lia-anthropic-lance-cet-outil-genial-pour-ameliorer-vos-prompts
+24/11/2024, 18:34 - +33 6 05 07 94 31: Merci Rochane, je demande souvent à mes étudiants un écrit réflexif après avoir réalisé un travail écrit. L'écrit réflexif est dans mon cas un travail écrit. Il me semble que ce serait intéressant de recueillir leur oral. En plus des compétences    qui se dégagent de l'écrit, d'autres apparaîtront grâce à l'oral. Si l'IA m'aide à les analyser, c'est le top avec un sacré gain de temps. Je pense déjà aux nouvelles maquettes de formation dans lesquelles nous devrons évaluer par compétences 😉

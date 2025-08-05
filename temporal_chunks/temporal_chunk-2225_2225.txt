@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 17
+
+=== CONTENU ===
+05/06/2025, 07:31 - Clément Cahagne: Du scrollytelling, on adore, merci Christophe !!
+05/06/2025, 07:37 - Rochane: Je crois pas, il faut le contacter
+05/06/2025, 10:28 - Yann-Ael: Plusieurs ressources et idées d’activités pour les jeunes (jusque 15 ans) ici https://www.educonetimpact.com/accueil - https://www.educonetimpact.com/se-questionner/10-lintelligence-artificielle
+05/06/2025, 14:14 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+05/06/2025, 14:43 - Votre code de sécurité avec +33 6 37 67 45 67 a changé. Appuyez pour en savoir plus.
+05/06/2025, 18:50 - ‎~ Me est parti·e
+05/06/2025, 19:02 - Votre code de sécurité avec +32 478 56 95 84 a changé. Appuyez pour en savoir plus.
+05/06/2025, 20:24 - Batier Christophe: Les collègues d’#IA4Sup se sont lâchés sur le teaser du machon IA prévu à Lyon le mercredi 18 juin
+https://youtu.be/GxoRHi3p9gE?si=vuFkg7vIludaYhsp
+05/06/2025, 20:48 - Perrine: Suno?
+05/06/2025, 20:49 - Gregoire IA: oui ? ca fait un an que je le pratique, tu as besoin de qqchose ?
+05/06/2025, 21:09 - Clotilde IA: Dites, les pros du RGPD, j’ai besoin de votre lumière. Dans cette vidéo, quand Ludo confie son CRM à ChatGPT Autopilote d’une part, et qu’il autorise l’utilisation de ces données pour améliorer les prochains modèles d’autre part, ça pose un problème, non ? Voir à 18’33 ´´
+https://youtu.be/6xK8Pc-C6k4?si=wVZxDcNjkqqoXsTT
+05/06/2025, 21:58 - Rochane: Oui j'ai vu et il a été honnête en disant qu'il active mais a montré comment désactiver l'entraînement sur ses données
+05/06/2025, 22:00 - Clotilde IA: Mais du coup, enfreindrait-il le RGPD? (Je suis dans sa base de données 😅)
+05/06/2025, 22:03 - Gregoire IA: lol... du coup oui 😛
+mais sans vouloir s'acharner sur ce genre d'influenceur, s'il a activé l'option que qques minutes ca ne suffit pas pour que les données soient parties... ou ce serait vraiment un coup à pas de bol (pour lui) que le robot de ChatGPT se soit rué pour analyser sa Bd ! <Ce message a été modifié>

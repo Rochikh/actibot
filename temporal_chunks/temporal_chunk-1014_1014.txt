@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 11
+
+=== CONTENU ===
+30/09/2024, 19:49 - Ahmadou Ba: C'est presque des prix prohibitifs pour les particuliers. Pour les pays du sud, cela va encore creuser l'écart dans l'accès au savoir.🥲
+30/09/2024, 19:55 - ‎+229 60 82 81 66 a rejoint le groupe à partir de la communauté.
+30/09/2024, 19:57 - Vous avez supprimé +229 60 82 81 66
+30/09/2024, 20:03 - Thierry VANOFFE: Salut la compagnie. Demain Google Gemini summit sur Paris. Comptez sur moi pour vous faire un rapport détaillé des annonces officielles. On attend la sortie en français de Gemini for Google Workspace dans les prochains instants. À suivre ! Sortie également de notre magazine Numerimag consacré à Gemini !
+30/09/2024, 20:40 - Jean-Marc Everard: https://www.actuia.com/actualite/ia-et-enseignement-superieur-les-attentes-des-etudiants-selon-le-digital-education-council/ article sur l'usage de l'IA dans l'enseignement supérieur. Fait marquant, une énorme majorité d'étudiants utilise l'IA au quotidien mais s'estime malgré tout mal armée pour entrer dans un mode du travail en cohabitation avec l'IA. Résumé via NotebookLM : Attentes des Étudiants Concernant l'IA dans l'Enseignement Supérieur
+Source: Extrait de "IA et enseignement supérieur : les attentes des étudiants selon le Digital Education Council" (IA4Business.fr)
+I. Introduction: L'IA, un élément incontournable de l'enseignement supérieur
+Ce chapitre présente les résultats d'une enquête menée par le Digital Education Council auprès de 3800 étudiants, soulignant l'adoption massive de l'IA dans l'éducation, mais aussi les défis et inquiétudes qui persistent quant à son intégration efficace.
+II. Adoption massive de l'IA par les étudiants
+Cette section détaille l'utilisation croissante de l'IA par les étudiants (86%), avec ChatGPT en tête, principalement pour la recherche d'informations et la synthèse de documents. Malgré cette adoption, un manque de compétences et de préparation au monde professionnel dominé par l'IA est observé.
+III. Défis et inquiétudes des étudiants face à l'IA

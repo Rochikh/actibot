@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 581
+Messages: 18
+
+=== CONTENU ===
+09/04/2025, 09:41 - Clément Cahagne: Bonjour à tous ! Je vous partage mon dernier article de blog dans lequel je parle d'une utilisation en mode atelier collaboratif d'un gpts. Objectif : cocreer une carte d'empathie d'un apprenant type
+Je partage le lien de l'article, et dans l'article, le lien du GPTs
+https://www.pauuse.fr/march-dump
+A vos retours si vous testez ! <Ce message a été modifié>
+09/04/2025, 09:48 - +33 6 64 47 07 94: Bonjour. J'ai le projet d'utiliser lmstudio pour expérimenter en mode standalone, sans connexion. Avez vous une préconisation de machine voire modèle qui tiendrait la route pour monter et évaluer différents moteur possibles depuis lmstudio ?
+09/04/2025, 10:39 - Rochane: Comme la solution Actibot n'était pas disponible en GPT pour les comptes gratuits au moment de sa création, nous la testons aujourd'hui https://chatgpt.com/g/g-67f61147bfd48191b0e17e00df83d594
+Dites moi si c'est plus pratique 🙂
+09/04/2025, 11:09 - +32 475 86 01 57: Top ça! Tu nous expliquerais rapidement comment tu as fait?
+09/04/2025, 11:09 - +32 475 86 01 57: Justement je cherchais qqch…
+09/04/2025, 11:13 - +32 475 86 01 57: Par contre j’ arrive pas à l’ épingler 🫢
+09/04/2025, 11:15 - +32 475 86 01 57: Ca fonctionne au top!
+09/04/2025, 14:07 - +33 6 71 11 12 91: 'tite question...
+Je lui ai demandé : "Quelles sont les dernières nouvelles enregistrées sur ce bot cette semaine ?"
+et sa réponse est : "Semaine du 28 octobre au 31 octobre" (+ le détail des infos)
+C'est ma question qui n'est pas claire, sa date max qui est fin octobre dernier, ou j'ai 5 mois 1/2 d'avance sur mon calendrier ? 😂
+09/04/2025, 14:08 - +33 6 71 11 12 91: Sinon, avoir le bot directement dans le menu de mon ChatGPT, c'est top ! Merci @33649535198 !
+09/04/2025, 14:12 - Rochane: je pense qu'il n'a pas forcément la notion de date et quand tu lui dis cette semaine, il suffit qu'il ait vu cette semaine (octobre) et il s'appuie dessus
+09/04/2025, 14:18 - +33 6 71 11 12 91: C'était donc la 1ère option : mon prompt n'était pas clair ! En effet, en demandant "Quelles sont les dernières nouvelles enregistrées sur ce bot dans la période du 1 au 8 avril 2025 ?", il a l'air de me donner une réponse beaucoup plus juste (je n'ai pas vérifié info par info, mais j'en vois plusieurs qui sont bien dans les discussions, donc merci !)

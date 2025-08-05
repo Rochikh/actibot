@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 552
+Messages: 12
+
+=== CONTENU ===
+# 4. Passages particulièrement problématiques
+{{Données personnelles sensibles : "Cette catégorie d'informations personnelles concerne des sujets tels que les données sur des dossiers médicaux confidentiels, les origines raciales ou ethniques, les convictions politiques ou religieuses, ou la sexualité."}}
+{{Collecte généralisée : "Nous collectons ces informations lorsqu'un service Google contacte nos serveurs depuis votre appareil (...) Si vous utilisez un appareil Android sur lequel des applications Google sont installées, votre appareil contacte régulièrement les serveurs Google"}}
+{{Conservation des données : "Nous conservons certaines données jusqu'à ce que vous les supprimiez de votre compte Google (...) Nous conservons également certaines données plus longtemps si nécessaire"}}
+{{Partage des données : "Nous transmettons des informations personnelles à nos sociétés affiliées et à d'autres sociétés ou personnes de confiance qui les traitent pour notre compte"}}
+Explication: Ces CGU présentent des risques significatifs en termes de protection des données personnelles et de respect de la vie privée des utilisateurs européens. La collecte massive de données, combinée à un manque de transparence sur leur utilisation et leur conservation, ainsi qu'à des mécanismes de consentement discutables, soulève des questions importantes de conformité avec le RGPD.
+16/11/2024, 14:50 - +212 690-281034: Bonjour s'il vous plait Pouvez-vous me suggérer des sites gratuits et intéressants pour les voix offs ?
+16/11/2024, 14:51 - +33 6 49 45 01 44: Vidnoz est pas mal (3 minutes gratuites par jour)
+Preneuse d'autres suggestions j'imagine qu'il y a des choses bien sympas que je ne connais pas <Ce message a été modifié>
+16/11/2024, 14:54 - +212 690-281034: ok je vais le tester merci beaucoup
+16/11/2024, 14:59 - Fred IA: Webinaire IA et Éducation, ce lundi 18/11, 17h30 à 18h30 : https://www.mlfmonde.org/ia-education/
+16/11/2024, 15:03 - Francois Bocquet: Intéressant mais sur quel type de compte as tu fait l’exercice ? Sur un compte en gmail.com B2C ou sur un domaine professionnel ? Si c’est la seconde solution l’analyse si elle est correcte me paraît effectivement poser de graves problèmes

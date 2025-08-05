@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 17
+
+=== CONTENU ===
+11/11/2024, 19:11 - Fred IA: <Médias omis>
+11/11/2024, 19:12 - Fred IA: Merci 👍
+12/11/2024, 07:14 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+12/11/2024, 09:37 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+12/11/2024, 12:03 - Votre code de sécurité avec +32 493 87 42 05 a changé. Appuyez pour en savoir plus.
+12/11/2024, 12:28 - +33 6 99 15 13 77: Bonjour Grégoire,
+Cette vidéo est vraiment bien construite. C'est fait avec uelle application? je connais peu Notebook LM mais il ne me semble pas que l'on peut faire tout cela avec cet outil..?
+12/11/2024, 13:17 - Vincent DROUOT: Après le succès de Notebook LM, Google récidive en cherchant à inventer l’Education 2.0 avec une plateforme de connaissances baptisée Learn About.
+Boostée par l’IA mais aussi pensée pour créer de l’engagement et de l’interaction.
+Pas encore disponible en France par contre.
+12/11/2024, 13:17 - Vincent DROUOT: https://learning.google.com/experiments/learn-about/signup <Ce message a été modifié>
+12/11/2024, 13:19 - Vincent DROUOT: Au lieu de simplement vous lancer des faits (comme le fait Gemini), Learn About vous guide à travers des sujets tels que "pourquoi les flamants roses ?" Ou « qu'est-ce qui cause les tremblements de terre ? » Avec du contenu interactif, des sujets suggérés et des images/vidéos... le tout pour vous aider à comprendre réellement ce que vous apprenez.
+Voici ce qui le rend différent de votre recherche Google ou de votre chat GPT typique :
+Interactif : Il semble prédire tout ce que vous pourriez vouloir savoir avant même d'avoir à demander.
+Adaptable : Vous pouvez simplifier. Vous pouvez aller plus loin. Vous pouvez obtenir des images. Vous pouvez demander plus d'informations ou demander des sujets connexes.
+C'est vraiment amusant : l'interface ressemble plus à envoyer des SMS à un ami intelligent qu'à surfer sur le Web.
+12/11/2024, 13:51 - +33 6 71 11 12 91: Avec un VPN, je me suis basé à New York. J'ai posé cette question simple : "I'd first like to ask you if I can ask my questions in French, since I'm more fluent in this language?"

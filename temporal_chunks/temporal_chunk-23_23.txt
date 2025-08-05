@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 11
+
+=== CONTENU ===
+27/10/2023, 17:16 - Guillaume Singeot: Et oui,  Rochane 👍 ce fameux prompt!  Mais je suis Rouennais (donc Normand donc Français) donc par principe je râle, je critique, je me contredis...surtout à la veille d'un weekend! 😊 .Totalement d'accord avec Ahmadou : l'idée me m'était pas venue de poser la question à l'IA. ça pose des questions sur nos propres compétences et notre devenir professionnel (ça y est! je râle tout seul sur la réforme des retraites! Vivement la prochaine grève... 😜)
+27/10/2023, 17:23 - Ahmadou Ba: Ne seriez vous pas sénégalais par hasard, les râleurs et les grévistes c'est par ici. 🤣
+27/10/2023, 19:04 - Karim BS: Salut Rochane. C’est Karim (Bureau & Services). Si tu fais bien référence à HeyGen, alors je suis très intéressé 🤩🤩🤩
+27/10/2023, 19:20 - Rochane: Non pas heygen, je garde la surprise 😁
+27/10/2023, 19:49 - +33 7 44 72 54 02: Research Rabbit est une application web, elle utilise l’ia pour vous aider à trouver et organiser la bibliographie. Elle permet de visualiser les articles qui vous intéressent dans un graphique interactif, montrant les liens entre eux et les auteurs les plus influents. https://www.researchrabbit.ai/
+27/10/2023, 19:59 - +1 (514) 231-2798: Connaissez-vous des outils IA pour faire des belles présentations orales ?
+27/10/2023, 20:01 - Rochane: Tu veux dire des outils qui génèrent des présentations hors PowerPoint ?
+27/10/2023, 20:02 - +1 (514) 231-2798: Ouiiiii
+27/10/2023, 20:04 - Rochane: Quand ce n'est pas linéaire et quand c'est interactif, c'est difficile de partir d'un texte pour avoir un genially par exemple. Par contre, il ya des plugins dans Chat GPT qui génèrent des PPT...
+27/10/2023, 20:12 - +237 6 99 02 51 84: Les outils IA répondent généralement favorablement à nos demandes, il suffit d'écrire le bon algorithmique. Je l'ai constaté en utilisant Poe qui est un VPN pour chatgpt et bard. Maintenant pour obtenir un résultat satisfaisant il faut combiner plusieurs IA
+27/10/2023, 20:15 - Guillaume Singeot: Pour les présentations j'ai mis ça de côté, pas encore testé, https://www.decktopus.com/

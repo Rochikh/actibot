@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 10
+
+=== CONTENU ===
+13/07/2025, 08:25 - Francois Bocquet: Jan : l’assistant IA local et open source qui remplace ChatGPT https://www.justgeek.fr/jan-assistant-ia-local-140030/
+13/07/2025, 08:59 - +33 6 72 75 43 48: Merci François pour vos nombreuses publications 🙏une question : à force d’utiliser de nombreuses IA je me demande si pour installer Jan il faut une certaine puissance d’ordinateur ? Je projeté d’en changer mais j’avoue être perdue .. avez vous des conseils en la matière ( je suis formatrice et anime beaucoup à distance, en plus d’utiliser plusieurs IA ) merci <Ce message a été modifié>
+13/07/2025, 10:00 - Francois Bocquet: D’après la doc plus on dispose de RAM et plus la CPU/GPU est puissante mieux c’est. Mais il semble possible de le faire tourner avec des configurations pas trop puissantes
+13/07/2025, 10:46 - Jean-Marc Everard: Merci François. As-tu des retours sur Jan? Ils parlent d’extensions… y a-t-il par exemple des connecteurs vers n8n à ta connaissance ? Je pense que l’IA locale est la voie à prendre pour l’Europe…
+13/07/2025, 11:33 - +32 483 60 53 96: J'ai testé Jan en comparant gpt4all, lm studio et Msty : jai fait un tableau comparatif pour recommander un outil pour les chercheurs à la rentrée
+Mon préféré cest Msty personnellement et LM studio sera celui recommandé avec un guide d'utilisation accès recherche
+Apres on reste sur un usage non-agentique
+Et ca depend toujours du matériel (puissance calcul de l'ordinateur accessible) ; souvent les chercheurs ont des ordinateurs quand meme assez puissants donc ca va
+13/07/2025, 11:53 - +32 483 60 53 96: Ca demande une documentation mise à jour régulièrement pour leur conseiller les bons modèles à utiliser (ilz ne font pas de veille eux mêmes sur les modeles)
+Le mieux est de déployer un modèle au niveau de l'institution ou partagée entre les institutions pour un public précis (exemple chercheurs ou administration) : cimme par exemple un modele petit ollama ou modele Mistral small recent ; ya aussi le modèle Google N3 qui recemment est intéressant à utiliser en local ; sinon un modèle de raisonnement deepseek R1 en local est un bon choix parfois en local (cest ce que j'ai vu de plus utilisé dans les universités)

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 13
+
+=== CONTENU ===
+05/12/2024, 07:27 - +33 6 08 67 53 65: Bsoft - Bienvenue formation, mais c’est pas gratuit …
+05/12/2024, 07:29 - +33 6 72 75 43 48: Merci je les connais ceux là en effet mais je tente le gratuit 😉
+05/12/2024, 07:29 - +33 6 46 86 16 67: Bonjour à tous ! Je vois beaucoup de monde autour de Mizou. Ok y a du sympa… mais je n’ai pas l’effet wahoo. Par exemple j’ai testé pour qu’il assiste mes élèves dans l’écriture d’un mail. Il ne réagit pas trop quand j’écris vazy ou wesh, et finit par donner ce qu’il faut écrire. Y en a ici qui sont emballés ++ pour savoir si je m’accroche ? Merci 😆
+05/12/2024, 10:16 - ‎+221 77 516 37 15 a demandé à ajouter +221 77 451 54 67.
+05/12/2024, 10:17 - ‎+221 77 516 37 15 a demandé à ajouter +221 77 106 20 10.
+05/12/2024, 10:36 - +33 6 25 79 50 95: Bonjour à tous
+J'ai testé dans Notebook LM une "conversation approfondie" pour générer un podcast audio en Français (merci à Rochane pour le hack prompt)
+C'est vraiment intéressant et je trouve le potentiel pédagogique génial pour aiguiser son sens critique seul avant de pouvoir échanger en groupe (façon classe inversée) en comparant la source d'origine avec le podcast.
+Question pratique à ceux qui maîtrisent Notebook LM : est-il possible d'afficher le script du podcast, le modifier puis générer une deuxième version de podcast ?
+05/12/2024, 10:37 - +33 6 19 89 32 62: Bonjour à tous, petite question comment structurez vous toutes votre veille et vos projets ? Est ce que certains utilisent Notion ou Obsidian ? Je pense faire un doublon des deux et une partie sur NotbookLM mais j’ai l’impression que ça fait un peu « usine à gaz » 🫣
+05/12/2024, 10:59 - +32 477 78 78 50: On me posait exactement la même question ce matin. Est-il possible de corriger ou modifier le podcast et merci à Rochane pour le hack 👍 <Ce message a été modifié>
+05/12/2024, 11:22 - martinyemani IA: Via un moyen détourné on pourrait créer podcast vidéo et, ensuite générer le transcript à l'aide de highlight vidéo
+05/12/2024, 11:32 - +33 6 25 79 50 95: Autre partage, voici une sélection de guides sur l'IA (dont celui du Louvin learning Lab).

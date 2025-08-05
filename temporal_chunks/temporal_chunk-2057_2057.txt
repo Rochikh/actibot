@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 15
+
+=== CONTENU ===
+06/04/2025, 09:34 - StéphaneIA: Pour ce genre de besoin et de création de we app est ce que vous avez testé Gemini 2.5 avec le mode Canva sur Gemini.google.com
+06/04/2025, 09:35 - StéphaneIA: Je me suis fait une application pour suivre des frais de voyage avec une couche d'analyse des factures avec Gemini API en 10 minutes. Je l'ai un peu aidé sur le code apps script pour la gemini API avec function calling et comment utiliser un objet fichier dans le formulaire mais sinon il a tout fait <Ce message a été modifié>
+06/04/2025, 09:36 - StéphaneIA: <Médias omis>
+06/04/2025, 09:45 - Jean-Marc Everard: Hello, on a eu la même intuition mais j’ai moins peaufiné la réalisation : développement de l’esprit critique et attention aux différents types de biais : réalisé entièrement avec Manus en un prompt d’une centaine de mots. Cela doit bien sûr être amélioré et le suivi n’est pas encore au point (j’ai dépensé tous mes crédits gratuits) mais voici un résultat en quelques minutes donc : https://wiekmslf.manus.space. Encore sur Manus, je termine le site et changerai d’adresse par la suite. Bon dimanche ☀️
+06/04/2025, 09:47 - Jean-Marc Everard: J’ai la même impression que toi @15144328040. En plus surtout front end ok mais back end pas du tout au point.
+06/04/2025, 10:35 - ‎+33 6 87 95 09 42 est parti·e
+06/04/2025, 14:12 - Cyrille CARTERET: <Médias omis>
+06/04/2025, 14:17 - +33 6 77 84 11 24: Ideogram.ai ?
+06/04/2025, 14:28 - Jacques BARATTI: null
+06/04/2025, 15:15 - StéphaneIA: <Médias omis>
+06/04/2025, 18:42 - +32 498 78 46 36: Soit j'ai été inattentif soit OpenAI vient de sortir un GPT appelé "Monday" un peu sarcastique ...
+https://chatgpt.com/g/g-67e595af0a408191b84ee532fca12cd1-monday/c/67f2ae7b-9d08-800b-976a-3ea2b78857d9 <Ce message a été modifié>
+06/04/2025, 18:43 - ‎+216 23 694 327 est parti·e
+06/04/2025, 19:00 - +33 6 07 14 45 01: Oui c'est un test lancé il y a 4 ou 5 jours. Pas très utilisable dans la pratique mais démontre une capacité à changer un style
+06/04/2025, 23:24 - Votre code de sécurité avec +32 493 87 42 05 a changé. Appuyez pour en savoir plus.

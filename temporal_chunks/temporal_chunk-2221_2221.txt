@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 603
+Messages: 16
+
+=== CONTENU ===
+04/06/2025, 17:20 - +237 6 90 60 45 17: https://univ-reims-fr.zoom.us/meeting/register/ejRaAPskSsmuTCs5DDx7hQ
+04/06/2025, 17:23 - Thierry VANOFFE: Qqn a des infos précises, sérieuses sur l'impact de l'ia sur l'environnement ? Je suis preneur de vos liens. Un grand merci
+04/06/2025, 17:38 - Rochane: Très instructif
+https://generationia.flint.media/p/impact-carbone-ia-mythe-realite-climat-chatgpt-comparer
+04/06/2025, 17:56 - Alix van Zeebroeck: Et quelqu’un aurait une ressource / animation Genially sur ce même thème de l’impact des IA sur l’environnement pour des élèves du secondaire (12-17 ans) ?
+04/06/2025, 17:58 - Gregoire IA: L'article est assez complet mais je regrette que le positionnement soit à chaque fois le même : on mesure les impacts de l'IA mais on n'est pas en mode solution, dire qu'il ne faut plus utiliser l'IA (quid un usage raisonné et raisonnable) n'est pas non plus une approche des plus constructive car irréaliste et tout le monde le sait... Effet Autruche ?
+J'avais publié une présentation sur l'exploitation de la pollution des IAGen. Je regrette que nos influenceurs et autres top voices LinkedIn publient uniquement sur des sujets faciles. <Ce message a été modifié>
+04/06/2025, 18:41 - +33 6 66 98 84 23: Bonsoir, le lien ne fonctionne pas !
+04/06/2025, 18:41 - +33 6 66 98 84 23: Bonsoir, pourrais tu donner les références de tes publications?Merci
+04/06/2025, 18:42 - Batier Christophe: https://youtu.be/RUeaFTsoorw
+04/06/2025, 18:47 - +33 6 66 98 84 23: Cet événement est il accessible en distanciel ? Le programme a l'air très riche et intéressant !
+04/06/2025, 18:53 - Batier Christophe: Oui c'est en ligne
+mais il me semble qu'il faut s'inscrire pour avoir le lien du live
+et ça se passe par ici
+https://app.smartsheet.com/b/form/d4b5422002d54569b3866cbc41148dea
+04/06/2025, 19:21 - Fred IA: Bonsoir. Sur ChatGPT Plus, j'essaie de créer une nouvelle tâche, l'objectif étant d'être automatiquement notifié chaque jour par mail d'actualité sur des domaines particuliers. En passant par le module dédié (en haut à droite de l'interface depuis le menu contextuel), il n'y a apparemment pas de bouton "nouvelle tâche". Et en demandant de créer une tâche via une conversation avec gpt, il me répond que l'automatisation ne fonctionne actuellement pas (même réponse depuis assez longtemps).. Donc impossible de la créer. Quelqu'un aurait il réussi ?  Merci par avance

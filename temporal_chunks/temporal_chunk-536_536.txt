@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 15
+
+=== CONTENU ===
+22/05/2024, 11:11 - Aïcha Elouali: Quand l’IA s’invite dans notre cerveau. Tout le monde a entendu parler du projet de Musk
+Voici un aperçu :
+https://youtu.be/aM0rPb80eTc?si=O62NEjCssFDByhnN
+22/05/2024, 11:37 - Votre code de sécurité avec +33 6 23 84 29 25 a changé. Appuyez pour en savoir plus.
+22/05/2024, 15:28 - Rochane: Petite astuce pour ceux qui payent différents outils en ligne. Avec un abonnement sur JoinSecret, vous pouvez avoir de nombreux outils sur plusieurs années. Ca vaut le détour  https://www.joinsecret.com/?r=86e50b4ffbfd
+22/05/2024, 16:06 - ‎+32 486 64 80 97 a rejoint le groupe à partir de la communauté.
+22/05/2024, 19:14 - +33 6 25 79 50 95: Merci pour ce partage, mais comment cela fonctionne concrètement ?
+22/05/2024, 19:17 - +32 479 82 01 20: Vous payez une redevance annuelle et Secret vous donne accès à des deals et des ristournes négocier par eux
+22/05/2024, 19:18 - Rochane: On paye environ 80 EUR une seule fois et en mode premium, on peut avoir des crédits de 1000 dollars pour airtable, 6 mois à chat Gpt plus et des dizaines d'autres outils. Tu n'es pas obligé de renouveler ton abonnement l'année suivante 🙂
+22/05/2024, 19:18 - Ahmadou Ba: Une petite infographie interessante. Quelqu'un demandait des IA pour faire des synthèses. Il peut des trucs interessant
+https://www.linkedin.com/posts/anthony-quinchon_voici-8-outils-ia-pour-taider-dans-la-prise-activity-7198921777018773504-Y2w3?utm_source=share&utm_medium=member_android <Ce message a été modifié>
+22/05/2024, 19:56 - +33 6 25 79 50 95: Merci Rochane pour ces précisions, c'est plus clair en effet
+22/05/2024, 19:57 - +32 479 82 01 20: Cela a un peu augmenté je pense...c'était 149 dollars quand j'ai créé mon compte récemment
+22/05/2024, 20:11 - +33 6 25 79 50 95: Ayant rejoint depuis peu la communauté, il me semble  avoir lu dans un des post et/ou entendu dans un de vos  précédentes webconfs : comment créer un RAG ?
+Pourriez-vous m'éclairer par exemple sur le robot conversationnel gratuit qui le permettrait : chatgpt, claude, mistral, hugging chat ?

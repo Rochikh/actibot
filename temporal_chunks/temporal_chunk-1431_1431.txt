@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 16
+
+=== CONTENU ===
+17/12/2024, 20:51 - +33 6 65 65 01 37: Whisper
+17/12/2024, 20:51 - Fred IA: Vibe (https://thewh1teagle.github.io/vibe/) <Ce message a été modifié>
+17/12/2024, 20:52 - +33 6 71 11 12 91: Et je me répète (pas forcément sur ce groupe), quid de l'énergie consommée qui est, selon les sources, entre 10 et 20 fois plus d'électricité (et donc de CO² en faisant un gros raccourci) pour une requête IA par rapport à un moteur de recherche (qui n'est pas forcément Google !)
+17/12/2024, 20:53 - +33 7 86 18 83 63: On développe des solutions SaaS conformes RGPD si votre école en a besoin
+17/12/2024, 20:54 - Nadia ER-RAJI: @5511942411993 TURBOSCRIBE.
+17/12/2024, 20:57 - Francois Bocquet: Intéressant ! Pourriez vous nous indiquer un lien sur votre site vers le DPA proposé aux responsables de traitement et aussi un exemple de DPIA réalisé par un de vos clients ? Un grand merci d’avance.
+17/12/2024, 20:58 - +33 6 19 04 48 10: DPIA ? svp..
+17/12/2024, 21:00 - Francois Bocquet: Le terme anglais pou AIPD soit « analyse d’impact pour la protection des données », démarche préalable obligatoire dès lors que 2 critères parmi neuf sont cumulés pour un traitement. DPIA = data procès sing impact assesment
+17/12/2024, 21:05 - +33 7 86 18 83 63: On traite avec des petites écoles.  On ne nous demande pas cela.
+C'est plutôt pour des clients du secteur de la santé où c'est nécessaire.
+17/12/2024, 21:07 - Francois Bocquet: De quel type d’école s’agit il ?
+17/12/2024, 21:08 - Francois Bocquet: Et pour quel usage ?
+17/12/2024, 21:08 - ‎Salah-Eddine est parti·e
+17/12/2024, 21:10 - +33 7 86 18 83 63: École d'enseignement supérieur _ secteur privé
+17/12/2024, 21:10 - +33 7 86 18 83 63: Intégration de logiciels pour  la gestion des étudiants et le développement des cours avec l'IA
+17/12/2024, 21:11 - Francois Bocquet: L’article 28 du RGPD rend obligatoire un accord de sous traitance entre un responsable de traitement et un prestataire -> https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4 donc engager un traitement sans respecter cette obligation le rend directement non conforme quel que soit le domaine d’application :-(

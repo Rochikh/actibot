@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 10
+
+=== CONTENU ===
+06/01/2024, 19:43 - Francois Bocquet: Tout ce qui touche autour du feedback de qualité est une bonne idée. 👍
+06/01/2024, 19:43 - Rochane: Bienvenue Mathieu ! Super projet. Si pas trop confidentiel, je suis curieux de comprendre comment tu comptes t'y prendre lors de notre prochain live de mardi 9 janvier à 20h 😊 <Ce message a été modifié>
+06/01/2024, 19:49 - +33 6 86 57 88 00: Bonsoir à tous.
+A mon tour de me présenter. Je suis Fanny, étudiante en MASTER2 IMP en distanciel à Lille (élève de Rochane : salut Rochane!). Et sinon, dans la vraie vie, je suis prof de math en collège, tout récemment débauchée en tant de principale adjointe faisant fonction. Et aussi maman solo de 4 gnomes (ça compte aussi comme job, non?). Je suis sur ce groupe car Rochane a bien fait son job et m'a convaincu que non, l'IA, c'est pas (que) le côté obscure de la force (Good job! 👏). Voilà, voilà...
+06/01/2024, 19:56 - +212 658-518929: @33649535198 : j’ai la chance d’avoir de la data (la partie confidentielle). Le reste c’est un peu de stats, de la classification et du nlp. L’idée c’est qu’un enseignant puisse à partir des notes brutes, et de quelques keywords bien choisis, d’obtenir ses commentaires. Je pense utiliser un modèle de deep learning pre entraîné et le finetuner sur mes données. Je ne suis pas sur de pouvoir vous rejoindre mardi. Si je peux, je serai là. <Ce message a été modifié>
+06/01/2024, 19:57 - +212 658-518929: @33686578800 : super parcours ! Et oui maman solo de 4 enfants, c’est clairement un job. Bravo !!
+06/01/2024, 20:00 - Rochane: Fanny, que de bons souvenirs cette petite aventure " Masterienne" Content de te voir parmi nous 😊
+06/01/2024, 20:13 - +33 6 86 57 88 00: Je suis avec vous en mode furtif depuis longtemps. Et je vous lis avec plaisir. Mais comment vous dire qu'avec mon boulot, les marmots et mon mémoire, mon usage de CHATGPT se résume pour le moment beaucoup à un :
+" - Mamaaaaannnn, tu peux relire mon rapport de staaaaaggge?
+- Po le temps. Demande à CHATGPT!"

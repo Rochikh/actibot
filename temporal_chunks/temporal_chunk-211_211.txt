@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 18
+
+=== CONTENU ===
+15/02/2024, 19:09 - Guillaume Singeot: https://moodle.com/fr/solutions/moodlecloud/  Moodle en version cloud et gratuite?
+15/02/2024, 19:11 - Ahmadou Ba: Ah bon merci, j'avais installé Moodle en local pour faire mes test, mais je ne savais pas qu'on pouvais le déployer en ligne gratuitement.
+15/02/2024, 19:17 - Enes Cornelis: https://x.com/openai/status/1758192957386342435
+OPENAI sort un modele VIDEO, c’est INCROYABOE
+15/02/2024, 19:18 - Guillaume Singeot: Version limitée dans le temps (1 mois de mémoire) et sur la taille des fichiers qu'on peut déposer. Sinon, https://moodlebox.net/fr/
+15/02/2024, 19:19 - Rochane: <Médias omis>
+15/02/2024, 19:25 - Ahmadou Ba: Il est intéressant celui-là. Merci
+15/02/2024, 19:26 - Ahmadou Ba: je vais celui inchallah et vous revenir
+15/02/2024, 19:28 - Jean-Marc Everard: Mince, moi qui voulais l’acheter. Encore moyen de le trouver en librairie en Belgique ?
+15/02/2024, 19:28 - Lucie: C'est Amazon ;) il n'y a jamais de rupture :)
+15/02/2024, 21:36 - ‎LIO a rejoint le groupe à partir de la communauté.
+16/02/2024, 09:38 - Rochane: https://youtu.be/HD0JxlFCLDY?feature=shared Notre ami @33768502488 qui se fait interviewer 👍 <Ce message a été modifié>
+16/02/2024, 12:20 - Guillaume Singeot: Bonjour ;) je cherche (désespérément) à reproduire l'image qui est ici : https://fr.scribd.com/document/697633971/escalier-pedagogique avec un outil d'IA. j'ai essayé avec plusieurs outils et ça ne marche jamais. Quelqu'un aurait une piste ?
+16/02/2024, 12:23 - Rochane: Tu as essayé le gpt canva voire dans Canva  directement ? <Ce message a été modifié>
+16/02/2024, 12:24 - Rochane: Dans canva directement
+16/02/2024, 12:25 - Guillaume Singeot: Oui et je ne me sort pas. avec Canva, avec gpt et avec les deux ensemble :(
+16/02/2024, 12:33 - +33 6 34 01 06 77: Bonjour, peut-être essayer avec adobe firefly? Il y a la possibilité également de sélectionner une partie de l’image générée et la changer
+16/02/2024, 12:34 - Guillaume Singeot: je vais donc explorer Firefly plus que je ne l'ai fait actuellement. Merci!

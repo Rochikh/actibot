@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 10
+
+=== CONTENU ===
+12/11/2023, 14:56 - ‎+54 9 11 3217-2289 a rejoint ce groupe grâce à son lien d’invitation
+12/11/2023, 18:31 - Jacques BARATTI: Bonsoir  premier GPT sur les Pédagogies Actives à l'université : https://chat.openai.com/g/g-VsV2PSkXc-les-pedagogies-actives-a-l-universite. merci pour vos retours !
+12/11/2023, 18:32 - Jacques BARATTI: Et voila le deuxième : https://chat.openai.com/g/g-zmyBS1v5k-assistance-et-tutorat-automatises-pour-etudiants
+12/11/2023, 18:34 - Rochane: Excellent 👍, tu veux le présenter probablement jeudi à notre prochain meeting ?
+12/11/2023, 18:38 - Jacques BARATTI: Pourquoi pas mais une fois que l'on a compris comment les faire il n'y a pas grand chose à dire ! Ce qui me parait plus intéressant ce serait les retours d'utilisateurs : a) quel plus value par rapport à l'utilisation de ChatGPT (dans les 2 cas j'ai ajouté des documents)  ? b) faut-il un compte ChatGPT plus pour y accéder ? c) quel coût facturé au concepteur en fonction des requêtes effectuées par les personnes qui ont le lien ?
+12/11/2023, 18:48 - Jacques BARATTI: Pour apprendre à faire un GPT visionner la vidéo de Ludo Salene https://youtu.be/MqdCmS7CRPQ (durée 42 min mais facile à comprendre et très bien faite)
+12/11/2023, 20:20 - Laurent The Cure: Merci beaucoup pour ce partage.. C'est très intéressant à regarder
+13/11/2023, 16:45 - Jacques BARATTI: Pour la question b) la réponse semble être : il faut un compte OpenAI avec ChatGPT4 ! Ce qui restreint beaucoup l'intérêt du bot, les utilisateurs potentiels n'ayant pas nécessairement un compte chatGPT4 ! Donc c'est réservé à quelques privilégiés...
+13/11/2023, 16:51 - Rochane: Je crois qu'il est possible de passer par l'API et embeder ton bot dans un site. Par contre, les interactions seront payées par le ou la propriétaire du compte <Ce message a été modifié>
+13/11/2023, 16:52 - +32 498 78 46 36: Je pense que c'est temporaire. Openai ouvrira l'utilisation des GPT's une fois que leur "GPTStore" sera en ligne. Patience et longueur de temps...

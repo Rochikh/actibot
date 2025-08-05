@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 18
+
+=== CONTENU ===
+Et j'ai replit.com pour le vibcoding
+2️⃣ Changez-vous de modèle selon vos besoins spécifiques ? Si oui, dans quels cas ?
+En gros, pour la rédaction et les projets qui ne nécessitent pas Internet : Claude
+Pour la recherche approfondie : Deepseek, Claude et Chat gpt + maintenant Gemini 2.5 pro
+3️⃣ Vos cas d'usage principaux (pro/perso) ?
+Beaucoup pro : scénarisation de formations, automatisation et codage, veille ( perplexity en gratuit m'aide aussi)
+4️⃣ Votre domaine d'activité/métier ?
+Responsable TICE et activité complémentaire dans le digital learning et l'IA
+5️⃣ Des retours ou astuces à partager sur d'autres IA génératives ?
+Je teste en ce moment Manus et Qwen qui sont vraiment bluffants
+03/04/2025, 15:56 - Rochane: Non mais pas de questions ouvertes <Ce message a été modifié>
+03/04/2025, 16:22 - +33 6 50 00 76 38: À la rigueur si ça va à tous, je propose de répondre dans le fil puisque questions ouvertes. Merci Rochane. J’ignore tout de qwen je vais regarder!
+03/04/2025, 16:36 - +41 76 372 28 94: Je ne suis pas certain que ce soit une bonne idée sur le fil de discussion. Essayez Google Form plutôt. Nous sommes quand même 990 sur ce groupe. Même si vous n'avez que 5% de participation, ça ne va pas être très agréable pour nous... Sans parler d'Actibot...
+03/04/2025, 16:48 - ‎~ Hoorelbeke Christelle est parti·e
+03/04/2025, 16:54 - +33 6 71 11 12 91: ou mieux que Google forms : framaform (https://framaforms.org/abc/fr/), Open source et sans récupération de données par Google ! (Ou Notion, ...)
+03/04/2025, 17:36 - Rochane: Après, n'importe quelle IA, tu lui files les questions de Cathy, elle te génère directement le script de Google forms qui sera créé directement 😁
+03/04/2025, 18:23 - +32 475 86 01 57: Ptit genially sans prétention pour éduquer les collègues profs à l’IA le plus rapidement possible. Support de présentation en présence ou à distance asynchrone pour ceux qui pouvaient pas être là.
+https://view.genially.com/67ea5b72f6345c68766291fd/interactive-content-le-choix-dune-ia

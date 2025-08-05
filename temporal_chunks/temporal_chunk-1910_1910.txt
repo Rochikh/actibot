@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 10
+
+=== CONTENU ===
+06/03/2025, 22:01 - +33 6 64 47 07 94: Je plussois pour moodle et h5p. Voir aussi une demo edtake qui peut être un super coup de main. Blue button pour les confs s'intègre bien aussi. C'est riche mais digeste.
+06/03/2025, 22:04 - Ahmadou Ba: Bjr,
+Avez vous testé le modele 4.5 ? Je l'ai bcp utilisé aujourdhui et il me reste 25 requêtes à utiliser avant le 12 mars pour la prochaine mise a jour. Mais j'avoue que je ne suis pas bluffé. 4o est même meilleure pour les taches habituelles.
+06/03/2025, 22:09 - +33 6 42 26 64 70: Carrément ! Et pour bbb (dont la dernière version est top) il est même dans le core aussi maintenant…gratuit pour une utilisation limité. Sinon, monter un serveur bbb est plutôt accessible et ensuite effectivement très simple à intégrer.
+06/03/2025, 22:19 - Laurent The Cure: merci pour vos réponses. J'en ai bien pris note. J'ai installé la version 4.5.2+ et rien d'autre. ni même tenté de créer quoi que ce soit. Je vous l'ai écrit; je débute en Moodle. Je parlais de Moodle et d'AI pour ne pas être hors sujet de ce groupe, mais aussi par réel but de création d'une formation sur le thème.
+06/03/2025, 22:24 - Laurent The Cure: j'ai stoppé l'installation de H5P sur vos conseils
+06/03/2025, 22:24 - +33 6 42 26 64 70: J’avoue ne pas vraiment cerner votre objectif…vous souhaitez créer une formation, ok sur quoi exactement ? Pouvez vous préciser davantage ?
+06/03/2025, 22:25 - Laurent The Cure: À l'issue de la formation de 5 heures, les participants seront capables d'intégrer de manière pertinente et éthique les outils d'intelligence artificielle dans la conception de leurs programmes de formation, en utilisant au moins 3 outils différents de génération de contenu (texte, image, autre), tout en maintenant un regard critique sur les résultats produits. <Ce message a été modifié>
+06/03/2025, 22:26 - +33 6 42 26 64 70: Ok c’est plus clair…et vous voulez qu’un LMS soit le support de cette formation.
+06/03/2025, 22:27 - Laurent The Cure: je souhaitais faire d'une pierre deux coups étant donné que durant mon stage, je vais utiliser un LMS pour la 1ere fois. je voulais donc comprendre le fonctionnement d'un LMS, et faire mon retour d'expérience au groupe

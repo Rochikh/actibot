@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 16
+
+=== CONTENU ===
+Les utilisateurs peuvent ne pas savoir comment contester une décision ou se plaindre d'une violation de leurs droits, ce qui réduit leur capacité à se protéger.
+---
+#### 4. Identifier les zones grises ou imprécisions importantes
+**⚠️ Constat:**
+La politique de confidentialité contient des zones grises et des imprécisions, notamment en ce qui concerne la conservation des données, le partage avec des tiers et la sécurité.
+**📝 Explication:**
+Les zones grises et les imprécisions peuvent entraîner des interprétations divergentes des droits et obligations des parties.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs peuvent être confus ou trompés par les imprécisions de la politique de confidentialité, ce qui peut les exposer à des risques de violation de leurs droits.
+---
+### Conclusion
+Sur l'ensemble de ces points, il apparaît que la politique de confidentialité de DeepSeek présente plusieurs enjeux majeurs pour les utilisateurs européens, en particulier en termes de proportionnalité des collectes de données, de transparence, de sécurité et de respect des droits des utilisateurs. Les risques potentiels sont significatifs, notamment en raison de la large gamme de données collectées, de la durée de conservation indéterminée et du partage de données avec des tiers sans transparence suffisante.
+**Échelle de risque:** 🔴 Élevé
+Les utilisateurs européens devraient être très prudents avant d'utiliser les services de DeepSeek et devraient se familiariser avec les implications de cette politique de confidentialité sur leurs droits et leurs données personnelles.
+30/12/2024, 16:46 - +33 6 72 75 43 48: Merci Rochane pour cette alerte .. peux tu renvoyer le prompt pour les CGU ? Promis pour 2025 je m’organise 🤣
+30/12/2024, 16:47 - Rochane: Tu es un expert en droit numérique européen, spécialisé dans la protection des données personnelles et droits numériques. Ta mission est d'analyser les CGU pour identifier les enjeux concrets pour les utilisateurs européens, en tenant compte des dernières évolutions réglementaires.

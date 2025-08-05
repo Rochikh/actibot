@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 12
+
+=== CONTENU ===
+7. Son livre contient plus de 100 requêtes et vidéos pour maîtriser l'usage de l'IA en formation.
+8. Ne jamais faire totalement confiance aux réponses de l'IA basées sur des probabilités.
+9. Utiliser l'IA de façon pertinente et écologique, à bon escient.
+10. Apprendre le langage adapté pour "parler" et interagir efficacement avec l'IA.
+15/01/2024, 13:09 - Larissa: Salut tout le monde, j'ai besoin de votre experience et vos idées. J'aimerai construire un bot qui demande des questions dependant d'une arborescence que je lui donne et puis me donne une réponse selon ce que j'ai défini dans mon arborescence. Vous preconisez un GPT ou Bot comme Botsonic par exemple?
+15/01/2024, 15:53 - Rochane: Hello Larissa, avec chat gpt, tu peux construire un gpt avec la connaissance que tu lui injectes ( pdf, ppt,....) et les gens peuvent poser des questions. La limite de cette solution est que les gens qui interagissent doivent avoir un compte gpt plus. Si tu fais passer ce gpt via les actions et l'api, ça peut se faire mais ça demande un investissement ( il faut compter 1 centime de dollar par interaction) et des compétences un peu techniques. Enfin, une dernière solution gratuite ( jusqu'à un certain nombre de questions) qui te permet de créer un bot de façon très facile. L'application en ligne s'appelle getcody😊
+Le bot, tu peux l'embeder sur n'importe quel site. C'est une vraie valeur ajoutée <Ce message a été modifié>
+15/01/2024, 16:42 - Letizia ALLEGRINI: https://acrobat.adobe.com/id/urn:aaid:sc:EU:3d667db9-2542-456e-958b-2bf991ba83d1
+15/01/2024, 16:42 - Letizia ALLEGRINI: Bonne année à tous la boîte noire 2024 est arrivée
+15/01/2024, 16:46 - Larissa: Merci Rochane!
+16/01/2024, 00:38 - Son: Bonjour, voici un webinaire qui pourrait vous intéresser : Webinaire du GRIIP - ChatGPT : Comment éviter la tricherie et tirer profit de l'outil en enseignement supérieur ? Lien : https://uquebec.zoom.us/meeting/register/tZAlcOmhqjwuHdxOowMj1RaIrGwU59p6TSgb#/registration
+16/01/2024, 12:33 - +32 470 11 45 36: Bonjour tout le monde, l’un(e) de vous connaît il une ia pour réaliser un CV original? Je postule pour un poste de prof de sciences dans l’ordinaire et j’aimerais sortir du traditionnel CV listing. 🙂

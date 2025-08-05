@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 703
+Messages: 6
+
+=== CONTENU ===
+07/03/2025, 10:10 - +33 6 42 26 64 70: Cher*
+07/03/2025, 10:15 - +33 7 84 33 02 62: Ok alors j’avais mal compris le point initial. Tes infos sont exactes ; c’est une solution que l’on déploie actuellement : les contenus de la plateforme sont parsées pour la partie bot et la solution est implémentée avec un LMS autre que Moodle.
+07/03/2025, 10:40 - Francois Bocquet: Minute RGPD ;-) : aucune solution ni aucun logiciel est « RGPD » ; seuls les traitements sont conformes ou non au RGPD. Il fait donc d’abord identifier qui est responsable du traitement et donc qui est responsable de la conformité. Cas n°1 : l’éditeur du service passe un contrat avec l’utilisateur, c’est un contrat de type B2C (business to consumer)-> l’éditeur est donc responsable de traitement. Ce contrat n’est pas utilisable en contexte d’éducation ni de formation.
+Cas n°2 : l’éditeur passe un contrat avec une organisation (rectorat, ministère, établissement d’éducation ou de formation). C’est un contrat B2B (business to business) et les utilisateurs n’ont pas besoin de passer un contrat avec l’éditeur. L’éditeur est alors « sous traitant » au sens du RGPD et le contrat comporte des clauses de sous traitance exigées par l’article 28. C’est la seule solution pour garantir la conformité pour un établissement scolaire ou un organisme de formation tant pour les salariés que pour les apprenants.
+Donc un traitement « RGPD » doit avoir fait l’objet d’un audit préalable m, disposer d’un contrat B2B avec accord de sous traitance, faire l’objet d’une inscription aux registres des traitements et des sous traitants, d’une information claire et accessible pour les personnes concernées par le traitement produite par le responsable de traitement. Enfin celui ci est organisé pour répondre aux demandes d’exercice des droits. Pour conclure et en dehors du cas particulier des formateurs indépendants il faut vraiment se méfier des allégations des services et autres « solutions » d’être « RGPD ». Au mieux un service présente toutes caractéristiques permettant au responsable de traitement de mettre en œuvre la conformité rapidement (contrat et accord de sous traitance (DPA) disponibles, workflow pour l’exercice des droits documenté, garanties contractuelles, architecture du traitement des données avec indications sur la sécurité et sur la minimisation des traitements, désignation d’un DPD, représentation en Europe si entreprise hors UE, liste des sous traitants de rang 2 et 3, documents nécessaires à la réalisation d’une AIPD, etc…). Bonne journée !
+07/03/2025, 10:50 - +33 6 42 26 64 70: Merci @33662364404 …je suis désolé, je ne voulais pas semer le doute, je suis (grâce à tes interventions) bien informé du leure « Conforme RGPD" (en tant que prestataire sous-traitant) trop souvent mal utilisé et à des fins marketing.

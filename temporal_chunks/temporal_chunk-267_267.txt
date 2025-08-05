@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 18
+
+=== CONTENU ===
+05/03/2024, 20:34 - ‎+1 (514) 709-1726 a rejoint le groupe à partir de la communauté.
+05/03/2024, 20:34 - Votre code de sécurité avec +33 6 87 72 32 30 a changé. Appuyez pour en savoir plus.
+05/03/2024, 20:43 - +33 6 51 43 08 14: Bonsoir. J'ai découvert il y a quelques jours l'existence d'IA ontologiques. Est ce que certains d'entre vous en connaissent ? Des articles ? Liens ? Explications ? Merci d'avance
+05/03/2024, 20:47 - Rochane: Hello, Perplexity est l'IA appropriée pour ce type de question. Elle te fournit pas mal de sources 🙂 https://www.perplexity.ai/search/Bonsoir-Jai-dcouvert-lHJ87zMIQ0OQu5hW2Wt2QA?s=m
+05/03/2024, 21:33 - ‎+33 6 68 11 13 03 a rejoint le groupe à partir de la communauté.
+05/03/2024, 21:40 - ‎+237 6 90 60 45 17 a rejoint le groupe à partir de la communauté.
+05/03/2024, 21:40 - +33 6 22 14 03 93: Merci @33649535198
+J’ai déjà testé des plugins sur gpt (j’ai la version payante) mais les résultats ne sont pas probants pour le moment.
+Le mot « cognition » sort « connition » malgré mes demandes de correction .
+En bref je cherche LE bon plugin gpt ou un autre outil.
+Question 2 tu geres tes communautés sur WhatsApp uniquement ?
+05/03/2024, 21:40 - +237 6 90 60 45 17: Bonsoir et merci de l'accès au groupe
+05/03/2024, 21:41 - ‎+33 6 68 11 13 03 est parti·e
+06/03/2024, 08:35 - Fred IA: Bonjour à tous !  Pour info, la sortie de la version 3 de Claude est annoncée 🙂 Avec à priori 3 outils,  plutôt dédiés à l'entreprise. https://www.anthropic.com/news/claude-3-family
+06/03/2024, 08:40 - Rochane: La politesse facilite les interactions humaines, et il semble que cela soit également le cas avec les intelligences artificielles génératives comme ChatGPT.
+Des chercheurs ont constaté que les modèles d'IA générative sont plus performants lorsque les requêtes sont formulées de manière polie, urgente ou importante.
+Demander à un modèle de "respirer profondément" peut améliorer ses résultats pour résoudre des problèmes mathématiques difficiles.
+Une équipe d'Anthropic a réussi à empêcher son chatbot Claude de faire de la discrimination en lui demandant gentiment de ne pas le faire.

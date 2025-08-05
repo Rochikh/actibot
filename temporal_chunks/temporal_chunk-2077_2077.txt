@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 556
+Messages: 14
+
+=== CONTENU ===
+13/04/2025, 14:33 - +1 (438) 738-6828: <Médias omis>
+13/04/2025, 19:30 - Francois Bocquet: Anthropic lance Claude for Education, une IA qui aide les élèves à développer leur esprit critique
+Claude for Education ne se contente pas de faire les devoirs à la place des étudiants. Elle aide les enseignants à créer des grilles d'évaluation et à fournir des commentaires.
+https://www.zdnet.fr/actualites/anthropic-lance-claude-for-education-une-ia-qui-aide-les-eleves-a-developper-leur-esprit-critique-411352.htm
+13/04/2025, 20:02 - +33 6 72 75 43 48: Je recherche une IA qui pourrait retranscrire un webinar réalisé sur une app livestorm ? Quelqu’un pourrait m’aider ?
+13/04/2025, 20:08 - Vincent DROUOT: Perso, sur Livestorm moi je telecharge l’enregistrement (MP4), ensuite j’extrais l’audio du fichier video pour avoir un fichier audio uniquement (MP3) puis j’envoie ce fichier dans Podium qui va retranscrire (tres bonne qualité de retranscription multilingue et multi-intervenant) et cette plateforme produit aussi un résumé et une liste de moments clés, et aussi un fichier de soutitrage (SRT) :
+13/04/2025, 20:08 - Vincent DROUOT: https://hello.podium.page/?via=vdrouot
+13/04/2025, 20:11 - +33 6 72 75 43 48: Merci Vincent et pou télécharger en mp4 tu utilises quoi ?
+13/04/2025, 20:27 - +32 498 78 46 36: Quand le multi-intervenants est un peu désordonné (voix qui se superposent, hésitations, rapidité de débit d'un des intervenants, etc) est-ce que la transcription fonctionne bien ?
+J'ai déjà essayé de transcrire une réunion Teams avec l'outil intégré et  quelle catastrophe ! (en meme temps je suis en Belgique et on ne lésine pas sur les accents 😁) <Ce message a été modifié>
+13/04/2025, 20:28 - +32 475 86 01 57: Copilot est vraiment à la ramasse...
+13/04/2025, 21:45 - +33 7 85 94 69 69: On est d'accord
+13/04/2025, 22:31 - Votre code de sécurité avec ~ Morgane Bencheikh a changé. Appuyez pour en savoir plus.
+14/04/2025, 07:31 - Vincent DROUOT: Oui… je donne des formations sur Copilot Pro et Copilot M365, sur le papier c’est beau (la théorie et les arguments marketing) mais dans la pratique la puissance n’y ai pas du tout !! C’est très décevant. Sans parler de la médiocrité du design des PowerPoint… 🤪

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 17
+
+=== CONTENU ===
+et encore, plus celle-ci est longue, plus le risque d’oubli est important. Attention quand tu copies/colles de longs documents.
+28/07/2024, 20:16 - +33 6 77 84 11 24: Si je ne m'abuse on peut activer ce paramètre de mémorisation dans chatGpt non ?
+28/07/2024, 20:20 - Rochane: La fonction mémoire existe effectivement dans les plans teams pour l'instant et elle permet mémoriser les informations que tu lui demandes de faire. Dans d'autres conversations, elle tient compte effectivement de ces passages qui sont d'ailleurs accessibles dans les paramètres 🙂
+28/07/2024, 20:22 - Vincent DROUOT: Oui tout à fait ✅ elle est même accessible pour la version payante ChatGPT Plus à 20$ (pas que la version Team)🙏
+28/07/2024, 20:22 - Vincent DROUOT: <Médias omis>
+28/07/2024, 20:22 - Rochane: Pas chez moi en France encore alors. Merci Vincent pour l'info 🙂
+28/07/2024, 20:28 - Vincent DROUOT: Ah oui, en effet, je suis en Inde là et je l’ai de disponible, mais plus du tout lorsque j’active mon VPN avec une IP française…
+28/07/2024, 20:28 - Vincent DROUOT: “Le 22 juillet 2024, OpenAI a étendu la disponibilité de la fonction Mémoire aux abonnés ChatGPT Plus, à l'exception de ceux situés en Europe et en Corée”
+29/07/2024, 11:47 - Votre code de sécurité avec Pierrick BRIAND a changé. Appuyez pour en savoir plus.
+29/07/2024, 11:52 - Votre code de sécurité avec Pierrick BRIAND a changé. Appuyez pour en savoir plus.
+29/07/2024, 12:38 - Votre code de sécurité avec +33 6 23 84 29 25 a changé. Appuyez pour en savoir plus.
+29/07/2024, 17:00 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+29/07/2024, 17:57 - Pierrick BRIAND: Meta vient de sortir Llama 3.1, une version améliorée de son modèle de langage d'IA. 🤖
+Les +
+- 3 tailles disponibles (8 à 405 milliards de paramètres) pour s'adapter à vos besoins.
+- Excellente en traduction multilingue et raisonnement complexe. Idéal pour des projets éducatifs innovants !
+- Modifiable et adaptable à des projets spécifiques, rappel c’est de l’Open-source . 🛠️

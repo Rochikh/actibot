@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 18
+
+=== CONTENU ===
+05/01/2024, 15:11 - +33 7 64 08 12 10: Le résultat est plutôt bon mais le message a atterri directement dans les spams
+05/01/2024, 15:37 - +32 498 78 46 36: <Médias omis>
+05/01/2024, 15:40 - Rochane: Oui, j'ai vu ça. J'ai l'impression que s'il y a des mots en anglais, il perd le fil et part en free style 😂
+05/01/2024, 15:45 - Lucie: C'est fait. J'ai posé une vraie question reçue suite à ma formation IA pour le collège de Paris. On va voir comment le bot s'en sort
+05/01/2024, 15:47 - Rochane: Hahaha t'as pas posé de question IA et malgré ça il t'a répondu 😉
+05/01/2024, 15:48 - Lucie: Comment ça une question d'IA? Tu veux dire que ton dataset est que de l'IA ?
+05/01/2024, 15:49 - Lucie: Oui franchement la réponse est pas mal du tout. Mon apprenante aurait encore été paumée je pense suite à sa réponse mais il n'a pas répondu à côté. Use case cool
+05/01/2024, 15:49 - Rochane: Dans le prompt du module chat gpt, pour l'orienter, je lui ai dit que tu vas recevoir des questions sur l'ia
+05/01/2024, 15:51 - Lucie: C'est dans la formation Flint que tu as vu ça ?
+05/01/2024, 15:52 - Lucie: Si c'est le cas je vais la faire car j'adore les uses cases de Bot
+05/01/2024, 15:52 - Rochane: Non non, je l'avais fait à l'époque pour un feedback des enquêtes de satisfaction par le texte et j'ai eu l'idée de l'audio avec l'aide de l'ia que j'ai challengée 😉
+05/01/2024, 15:54 - Rochane: Un autre use case pour tes évaluations 😁 https://tally.so/r/mOG707
+05/01/2024, 15:54 - Lucie: attends je vais t'envoyer un truc que j'ai fait avec un outil gratuit que je trouve mieux que Tally
+05/01/2024, 15:57 - Lucie: Un petit extrait pris de mon livre 🤫
+05/01/2024, 15:58 - Lucie: En tout cas si tu postes sur IN dis le j'irais te soutenir j'aime bien le usecase.
+05/01/2024, 15:58 - Rochane: C'est déjà fait 😁
+05/01/2024, 15:59 - Lucie: Ce message a été supprimé.
+05/01/2024, 16:19 - Jacques BARATTI: Bravo Rochane ! Je viens juste de découvrir les possibilités offertes par "Make" surtout avec, comme tu l'as fait, un couplage avec ChatGPT. Un nouveau monde à explorer

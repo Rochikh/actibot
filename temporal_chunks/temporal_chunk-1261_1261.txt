@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 19
+
+=== CONTENU ===
+17/11/2024, 17:32 - Clément Cahagne: Tu as sans doute raison sur le multi tâche. Ma vision du prompt (en tout cas celle que j’ai appris dans les cours de l’Université Vanderbilt), c’est d’écrire 1 prompt par micro tâche. Donc je suis biaisé et en effet, je ne tiens pas compte de cette possibilité, mais je vais modifier les instructions tu as raison.
+Je vais améliorer tout ça 😉
+17/11/2024, 20:21 - Votre code de sécurité avec +32 497 54 26 11 a changé. Appuyez pour en savoir plus.
+17/11/2024, 20:23 - +216 25 000 725: Bonsoir
+Avez vous une idée sur un outil ia gratuit  pour convenir un texte docx en pptx. Merci
+17/11/2024, 20:27 - Ahmadou Ba: Vous voulez dire convertir. Gamma ou slideAi le fait tres bien
+17/11/2024, 20:27 - +41 76 372 28 94: Gamma.app a une version gratuite.
+17/11/2024, 20:27 - +216 25 000 725: J'ai testé gamma mais pas vraiment
+17/11/2024, 20:28 - +216 25 000 725: Je vais essayé slideai
+17/11/2024, 20:28 - Ahmadou Ba: Oui il propose un plan gratuit
+17/11/2024, 20:29 - +216 25 000 725: Pas vraiment gratuit ;-)
+17/11/2024, 20:31 - Pierrick BRIAND: Merci @33675775911
+17/11/2024, 20:31 - Ahmadou Ba: Vous pouvez generer jusqu'a 8 diapos gratuitement sur Gamma, il y a juste des fonctionnalite qui sont bloquées.
+17/11/2024, 20:48 - +961 3 381 351: <Médias omis>
+17/11/2024, 20:48 - +961 3 381 351: https://gamma.app/fr/pricing
+17/11/2024, 20:50 - +961 3 381 351: Par la suite, chaque diapo supplémentaire générée avec IA c 5 crédits et chaque illustration 10 crédits
+17/11/2024, 21:26 - Rochane: Oui mais à l'inscription, tu as 400 et si tu parraines quelq'un, tu as 200 de plus et ton filleul aussi
+17/11/2024, 21:30 - +961 3 381 351: J'ai pu obtenir les crédits supplémentaires une seule fois quand j'ai tout épuisé (j'avais zéro crédit). J'ai pu obtenir 1000 crédits. Depuis, j'ai invité beaucoup de personnes (comme collaborateurs ou pour avoir un compte), je n'ai obtenu aucun crédit. Mais, je n'ai pas encore épuisé tous les crédits. <Ce message a été modifié>
+17/11/2024, 21:32 - Rochane: Attention pour que le parrainage fonctionne, les gens avec qui tu partages le lien, ce dernier, tu le retrouves dans la partie parrainage

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 15
+
+=== CONTENU ===
+17/10/2024, 09:05 - +33 6 72 75 43 48: Ok merci bonne journée
+17/10/2024, 09:05 - ‎+33 6 82 86 64 33 a demandé à rejoindre le groupe.
+17/10/2024, 09:26 - +33 6 49 84 08 41: Merci pour le Replay... Perso j'ai adoré l'intervention de @33685126055 que j'ai trouvée absolument passionnante
+17/10/2024, 09:40 - ‎+33 6 82 86 64 33 a rejoint le groupe à partir de la communauté.
+17/10/2024, 10:00 - +33 7 84 33 02 62: Pour l’avoir suivie : tout à fait avec une précaution : pour que les échanges soient de qualité et constructifs, il est préférable que les participants aient été acculturés au fonctionnement d’une IA  et qu’ils aient bien conscience des objectifs poursuivis lors d’une fresque pour ne pas créer de déception
+Perso j’ai bcp apprécié et ai programmé deux sessions pour une cinquantaine d’intervenants de l’Ensgt Sup <Ce message a été modifié>
+17/10/2024, 10:03 - +33 6 72 75 43 48: Super Nadia merci tu es formatrice pour adulte ?
+17/10/2024, 10:06 - +33 7 84 33 02 62: J’accompagne les formateurs et intervenants dans l’évolution de leurs pratiques pédagogiques pour faire court. Une centaine d’intervenants et staff pédagogique des écoles vont être formés et accompagnés à l’utilisation éclairée ;) de l’Ia dans l’enseignement durant 3 jours ; c’est dans ce cadre que j’ai programmé une fresque <Ce message a été modifié>
+17/10/2024, 10:08 - +33 6 72 75 43 48: Super merci pour toutes ces explications… 3 jours sacré programme 👍! Au plaisir bonne journée
+17/10/2024, 11:03 - +41 76 372 28 94: Pour ceux qui n’ont pas pu suivre en direct le live de mardi soir, voici les sources du projet permettant de donner accès à ChatGPT-o1 à tous vos élèves moyennant le financement d’une clé API. https://github.com/4nd4ny/EduChat-o1/
+17/10/2024, 11:05 - +237 6 94 96 87 43: Bonjour à toutes et à tous.
+Pouvez-vous me conseiller une formation gratuite sur l'IA pour les nuls ?
+17/10/2024, 11:06 - Pierrick BRIAND: Bonjour,
+Apolearn Academy est là pour vous aider !
+https://academy.apolearn.com/catalog <Ce message a été modifié>

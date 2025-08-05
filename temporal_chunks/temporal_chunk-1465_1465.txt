@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 18
+
+=== CONTENU ===
+24/12/2024, 12:55 - Votre code de sécurité avec +32 486 30 88 22 a changé. Appuyez pour en savoir plus.
+24/12/2024, 15:50 - ‎+33 6 08 16 52 75 a demandé à rejoindre le groupe.
+24/12/2024, 16:49 - ‎+33 6 08 16 52 75 a rejoint ce groupe grâce à son lien d’invitation
+24/12/2024, 16:50 - Rochane: Pour des transcripts d'audios, sur aistudio.google.com, avec ce prompt, ça marche très bien
+*Generate audio diarization, including transcriptions and speaker information for each transcription, for this interview. Organize the transcription by the time they happened.* <Ce message a été modifié>
+24/12/2024, 17:03 - +32 483 60 53 96: #tests outils pour le supérieur
+Si certain:e:s enquêtent des solutions comme LM studio, Anything LLM et/ou Jan pour une utilisation de chatbot en local, je suis très ouvert à vos retours.
+Mon avis pour l’instant: À vrai dire, pour 60% des usages de personnel admin et un premier usage de RAG (offline), je trouve ça vraiment qualitatif et suffisant, avec un modèle comme Chocolatine ou Mistral Instruct 7B.
+Note: j’ai ajouté mon API key Mistral et je l’utilise uniquement quand j’ai besoin de quelque chose de plus complexe, et c’est vraiment parfait comme ça.
+Si vous êtes curieux des tests et retours sur les aspects pédagogiques que je vais réaliser avec ces outils, réagissez avec un emoji et je ferai suivre la documentation aux intéressé:e:s.
+Joyeux Noël à tous et toutes
+24/12/2024, 17:04 - +33 7 86 18 83 63: Je suis intéressé par la solution
+24/12/2024, 17:48 - +221 76 125 29 15: Bonjour chers collègues.
+Je travaille sur une recherche sur les aides dans les MOOC (les aides apportées par les tuteurs et les pairs ; les aides intégrées dans les dispositifs de type MOOC et les aides générées par l’IA).
+Je veux faire l’encodage du corpus de données par rapport à des grilles catégorielles d’aides déjà élaborées à l’aide des IA ChatGPT, Perplexity et Claude.
+Mes problèmes :
+-	Parfois ChatGPT 3.5 est saturé
+-	Perplexity fonctionnait au début de l’encodage que j’avais commencé mais il me demande un abonnement

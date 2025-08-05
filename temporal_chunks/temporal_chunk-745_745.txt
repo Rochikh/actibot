@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 22
+
+=== CONTENU ===
+26/07/2024, 10:10 - Batier Christophe: Bill Gates en parlait dans son blog debut juillet
+https://www.gatesnotes.com/My-trip-to-the-frontier-of-AI-education?WT.mc_id=20240709100000_Khan-Academy-Network_BG-EM
+26/07/2024, 10:22 - Rochane: Waw super projet !
+Content @33785744116 que tu nous aies rejoints. 😁
+26/07/2024, 10:22 - Clément Cahagne: https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education?lng=fr&geo=fr
+A voir : sur Khanmigo justement 😉
+26/07/2024, 10:24 - Rochane: Article payant mais perplexity arrive toujours à rentrer 😁
+https://www.lemonde.fr/economie/article/2024/07/26/openai-lance-le-test-d-une-version-de-chatgpt-integrant-des-sources-de-presse_6258419_3234.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default
+OpenAI, l'entreprise à l'origine de ChatGPT, vient de lancer une phase de test pour une nouvelle version de son célèbre agent conversationnel intégrant des sources d'information provenant de la presse. Cette initiative, annoncée le jeudi 25 juillet 2024, marque une évolution significative dans le domaine de l'intelligence artificielle et de l'information.
+Voici les principaux points à retenir de cette annonce :
+## Fonctionnalités de la nouvelle version
+- **Intégration de sources médiatiques** : ChatGPT pourra désormais accéder à des articles de presse récents pour fournir des réponses actualisées.
+- **Transparence des sources** : Les réponses seront accompagnées de liens vers les articles originaux, permettant aux utilisateurs de vérifier les informations.
+- **Mise à jour continue** : Contrairement à la version actuelle limitée à des données jusqu'à 2022, cette nouvelle mouture sera constamment mise à jour.
+## Partenariats médiatiques
+OpenAI a conclu des accords avec plusieurs grands groupes de presse, notamment :
+- American Journalism Project
+- Axios
+- Le Monde
+- Politico
+- Reuters
+Ces partenariats visent à assurer la qualité et la fiabilité des informations fournies par ChatGPT.

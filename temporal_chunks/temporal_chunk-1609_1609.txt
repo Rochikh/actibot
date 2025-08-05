@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 16
+
+=== CONTENU ===
+21/01/2025, 09:28 - ‎+33 6 81 88 18 95 a demandé à rejoindre le groupe.
+21/01/2025, 11:55 - ‎+33 6 25 26 03 02 a demandé à rejoindre le groupe.
+21/01/2025, 12:31 - +32 478 83 05 13: Bonjour à tous
+Merci @33649535198 et aux actifs pour tous vos partages.
+Je viens avec une question d'ordre légal/éthique. Je travaille dans un centre de formation technique. Lors d'une formation synchrone à distance, un participant a enregistré le formateur à son insu avec une AI en ligne et fourni à tous les participants la retranscription de tout le contenu.
+Qu'en est-il alors de la propriété intellectuelle ?
+Est-il possible de se protéger de telles pratiques ?
+J'imagine que certains parmi vous ont déjà réfléchi à la question- seriez-vous d'accord de me partager le fruit de vos réflexions ?
+Merci d'avance
+21/01/2025, 12:37 - +33 6 20 35 46 24: Je ne epux pas repondre sur le coté legal/ ethique mais a l'université beaucoup d'éléves font de meme pour faciliter leur prise de note. c'est un peu différent de votre cas car vous etes un OF a but commercial donc je suppose que la crainte soit la réutilisation/ revente de la formation ( entre autres)
+21/01/2025, 12:46 - +41 79 258 90 36: De nombreux programmes aussi existent qui enregistrent tout ou une partie de l'écran depuis longtemps.
+21/01/2025, 12:54 - +32 478 83 05 13: Est-ce que le fait de ne pas avoir l'accord préalable de l'orateur constitue une violation du RGPD ?
+21/01/2025, 12:55 - +33 6 58 35 08 39: Ah mon sens oui, la voix étant une donnée personnelle.
+21/01/2025, 12:59 - +33 6 58 35 08 39: https://www.cnil.fr/fr/les-bases-legales/consentement
+21/01/2025, 13:07 - Francois Bocquet: Ce n’est pas seulement une question liée au RGPD mais aussi au droit d’auteur et au droit de la vie privée. Une autorisation explicite est nécessaire pour toute captation pour rediffusion indépendamment RGPD.
+21/01/2025, 13:08 - Francois Bocquet: Ici ce n’est pas le sujet. Le consentement pour le RGPD est l’un des critères de liceite qui est seulement obligatoire si traitement marketing ou traitement de données de santé

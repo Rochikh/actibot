@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 6
+
+=== CONTENU ===
+29/03/2025, 08:57 - Francois Bocquet: En même temps cette eau est recyclée. Le soucis c’est quand elle est potable et donc en concurrence avec un usage pour les humains mais ça n’est pas le cas dans les data centres
+29/03/2025, 08:58 - Francois Bocquet: Utiliser l'IA avec les élèves est une arme à double tranchant. L'IA peut être un puissant outil d'apprentissage, mais lorsque les élèves l'utilisent pour remplacer l'apprentissage au lieu de l'enrichir, des problèmes apparaissent. Le défi est d'aider les élèves à considérer l'IA comme un accélérateur d'apprentissage plutôt qu'un raccourci.
+https://payhip.com/Rows2Cols/blog/how-can-i-do-it-a-journey-through-google-apps-and-gscript/using-ai-summary-activity
+29/03/2025, 09:09 - +41 76 372 28 94: Le lien et le site payhip semblent HS. J’ai trouvé ça sur FaceBook, en lien avec l’article : « Et si vos élèves apprenaient à utiliser l’IA comme un outil plutôt qu’un raccourci ? En classe, le résumé devient un excellent prétexte pour explorer l’intelligence artificielle de façon critique et constructive. Le parcours proposé invite les élèves à comparer leurs propres résumés à ceux générés par l’IA, à identifier les forces et limites de l’outil, puis à affiner leur travail à l’aide d’une grille de vérification. Une belle manière de développer à la fois leur pensée critique et leur autonomie. ». Nous sommes vraiment obligés de repenser nos pratiques. Combien de discussions avez-vous à ce sujet dans vos écoles respectives ? Moi je trouve que je n’en ai pas assez avec mes collègues enseignants… Tout va tellement vite, qu’il faudrait une cellule de veille technologique pour repenser l’école tous les 6 mois, afin de s’adapter aux évolutions ! En Suisse, je pense que ce n’est pas 6 mois, mais 6 ans (!) le cycle d’amélioration des plans d’études…? Autant dire qu’il y aura quelques années de trouble entre les attentes des enseignants et les réalités des élèves. <Ce message a été modifié>
+29/03/2025, 09:12 - Francois Bocquet: Voici l’article :
+UTILISATION DE L'IA : ACTIVITÉ RÉCAPITULATIVE

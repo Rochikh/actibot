@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 17
+
+=== CONTENU ===
+- en ayant fait ca on est déjà dans une consommation importante et on est à 20 prompts facile en tout.
+- il est important au départ de savoir ce qui est nécessaire dans la communication finalement, pourquoi faire 35 pages quàd on peut faire un bon article en 12 par exemple ?
+- alternatibe: utiliser antidode ou grammarly ou jenni ai pour citer des passages.
+02/03/2025, 19:51 - Rochane: Franchement top vos propositions JMB et Robin, tout le monde apprend !
+02/03/2025, 19:51 - +32 483 60 53 96: A préciser que dans la méthodologie de travail du papier, l'usage de l’ia doit etre signalée pour écriture assistée et augmentatiô de texte sur les passages précis. Je garderai la trace de la conversation avec un simple cmd A et copier/coller fans un format txt. Et je le source.
+Aussi j'utiliserai Claude 3.7  personnellement
+02/03/2025, 19:53 - +33 6 34 15 77 84: waooo merci je vais essayer top réponse vraiment merci ☺️
+02/03/2025, 19:54 - +32 483 60 53 96: Alors merci pour ca. Question: comment vous vous assurez de l'écriture d'un texte long? Car on va être limite dans le nombre de tokens output généré non? J'imagine ca dépend de l'outil.
+02/03/2025, 19:56 - +33 6 34 15 77 84: waooo merci ☺️ merci vraiment pour cette top réponse
+je vais tenter tout ça
+02/03/2025, 19:57 - +33 6 34 15 77 84: exactement vraiment merci ☺️
+02/03/2025, 20:02 - +32 483 60 53 96: Enfin si on reste sur de loutil ia: Un outil alternatif pour l'ecriture d’un essai ou livre c'est d'utiliser Relevance ai (donc un contenu long j'imagine)
+Ca va mettre 2hà implémenter car il y a beaucoup de prompts/agents à faire communiquer ensemble, mais il y a moyen j'imagine de créer un agent chapitre avec leur p’ateforme multi agent:.- un agent contrôle editorial global qui est chef de:
+- un copywriter qui crée un style précis de la manière d'écrire et de citer les sources
+- un coach d'écrivain correcteur
+- un coach orthographe et lisibilité correcteur
+Ces trois agents discutent donc dans l'ordre avec des sous agents écrivain:

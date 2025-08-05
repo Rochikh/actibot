@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 13
+
+=== CONTENU ===
+https://fr.news.yahoo.com/starter-pack--le-cri-dalarme-de-thomas-pesquet-sur-les-consequences-de-cette-mode-liee-a-lia-093949042.html
+12/04/2025, 09:53 - +33 6 85 83 27 68: Vrai ???
+Parce que moi aussi j’avais bien envie de le faire mais…
+12/04/2025, 10:28 - +33 6 32 22 97 21: Il est important aussi de sensibiliser à l’impact de cette « mode » :
+https://www.linkedin.com/posts/annemariecuinier_stop-aux-starter-packs-m%C3%AAme-si-c-activity-7316728036165378048-1OJo?utm_source=share&utm_medium=member_ios&rcm=ACoAAALgK08BNitHwxybGcpcoDl3Yd-X79Mkd90
+12/04/2025, 10:35 - Votre code de sécurité avec +33 6 34 01 06 77 a changé. Appuyez pour en savoir plus.
+12/04/2025, 10:46 - +33 6 52 73 73 42: Je suis assez étonné de la soudaine "prise de conscience", "levée de bouclier" (appellez cela comme vous voulez !) face aux trend en lien avec l'IA et la (sur)consommation énergétique ! J'ai l'impression que tt le monde découvre que la génération d'images, vidéos ... est énergivore +++ <Ce message a été modifié>
+12/04/2025, 10:47 - Clément Cahagne: Heureusement que des posts linkedin avec images et texte générés par ia sont la pour nous faire prendre conscience de ça. Ouf. 🫢
+12/04/2025, 10:59 - +33 6 82 42 59 35: Je trouve intéressant de garder en tête l’idée de privilégier l’IA plutôt à des fins pro et d’essayer d’être plus sobre sur le côté purement  fun (même si c’est vraiment drôle de se voir en starter pack et que ça fait du bien de se marrer un peu 😉)
+12/04/2025, 12:16 - Jacques BARATTI: Est-ce que quelqu'un a testé ce GPT qui utilise la méthode ARIA pour évaluer à l'ère de l'IA ? Je le trouve très intéressant lien = https://tinyurl.com/7hr76dz6
+12/04/2025, 12:17 - Rochane: Pas compris à quoi ça sert ?
+12/04/2025, 12:23 - Jacques BARATTI: Ca analyse une méthode d'évaluation dans un contexte donné et te propose des pistes de solutions
+12/04/2025, 12:24 - +33 6 64 50 56 67: Vous avez vous passer https://enzostvs-deepsite.hf.space qui permet de publier un site à partir de prompts ?

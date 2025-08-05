@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 19
+
+=== CONTENU ===
+07/01/2025, 13:17 - Ahmadou Ba: 😅 ils ne plaisantent pas les chinois.
+07/01/2025, 13:18 - Sébastien Place: Merci beaucoup Rochane pour le partage !
+07/01/2025, 13:25 - Rochane: Toi avec ta casquette Microsoft, tu ne pourras pas le mettre dans notebooklm.google.com pour générer un podcast mais on peut te le faire 😁
+07/01/2025, 14:38 - ‎Adrien Bock IA a demandé à ajouter +32 473 35 22 65.
+07/01/2025, 14:55 - ‎+43 664 9605094 a demandé à rejoindre le groupe.
+07/01/2025, 15:05 - +44 7776 747507: En plus, je ne sais pas si ça existe dans la version en français, mais il y a maintenant possibilité d'interagir en live pendant/dans le podcast généré!
+07/01/2025, 15:07 - +213 770 60 32 81: Merci beaucoup c'est tres gentil de ta part
+07/01/2025, 15:10 - +44 7776 747507: Merci @33649535198 et @32479823712 .
+Je ne vois pas de resources/mentions sur ChatGPT, ou je me trompe?! <Ce message a été modifié>
+07/01/2025, 15:13 - +242 05 027 3138: Bonjour la communauté, merci beaucoup pour l'ajout
+07/01/2025, 15:14 - ‎Adrien Bock IA a ajouté +32 473 35 22 65
+07/01/2025, 15:14 - ‎+43 664 9605094 a rejoint le groupe à partir de la communauté.
+07/01/2025, 15:14 - Rochane: C'est exclusivement Microsoft ce produit 😀
+07/01/2025, 15:16 - +44 7776 747507: Donc Copilot exclusivement; je comprends mieux (étrange puisqu'aussi 'contibuteur' à OpenAI!)
+07/01/2025, 15:25 - +216 25 000 725: Bonjour
+J'ai trouvé une astuce qui permet de faciliter la création des formulaires des enquêtes en ligne via Google forms et mistral https://youtu.be/PhjrDykFchk
+07/01/2025, 15:42 - Sébastien Place: Seul le module 5 présente Copilot. Les autres modules sont totalement agnostiques d'un point de vue technologique.
+07/01/2025, 15:43 - +44 7776 747507: Je veux dire, j'étais étonnée de ne pas voir de ChatGPT alors que c'est largement utilisée?!
+07/01/2025, 16:27 - Jean-Marc Everard: Sans vouloir tempérer l'enthousiasme et si c'est la fonctionnalité que j'ai utilisée il y quelques semaines (avec l'abonnement), ça ne retient quand même que disons vraiment quelque élément d'un template quand on lui soumet. Mais je vais refaire une tentative, j'ai peut-être été un peu vite...

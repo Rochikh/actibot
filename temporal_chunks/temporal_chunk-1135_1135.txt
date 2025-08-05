@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 9
+
+=== CONTENU ===
+27/10/2024, 17:15 - Ahmed Yagoubu: Oui , c est fort important
+27/10/2024, 17:37 - +33 6 67 99 76 47: Ce message a été supprimé.
+27/10/2024, 22:06 - Gregoire IA: Si ça peut vous aider : https://youtube.com/@novagogie?si=RIz-XZ3ntumJqmeQ
+27/10/2024, 22:07 - Gregoire IA: Je travaille sur une nouvelle forme d'évaluation à partir de ce que NotebookLM permet de faire.
+27/10/2024, 22:27 - +33 6 19 75 63 49: Hâte d’en savoir plus. Dans ma discipline (langues) et avec mes dispositifs (cours asynchrones en ligne) l’évaluation des productions des étudiants de niveau débutant / intermédiaire en langue dite générale (non spécialisée) est problématique. l’AI Assessment Scale, même celle qui est adaptée aux langues (de spécialité) est difficilement applicable. Dans une prochaine évaluation de l’écrit nous avions prévu de donner à des intermédiaires les résultats de ChatGPT4 (qui ne lisait pas les vidéos à réinvestir) pour qu’ils fassent mieux (avec un peu de créativité: ils doivent faire une brochure), mais depuis j’ai testé NotebookLM et je ne pense pas qu’ils réussissent à faire mieux pour le texte… et il faut que je trouve qqch d’ici décembre! 😱 L’année dernière nous avions travaillé sur le processus avec les avancés: on fournissait le résultat de ChatGPT (3.5 à l’époque), et ils devaient l’évaluer et s’auto-évaluer et nous montrer quelles améliorations ils avaient effectuées pour avoir une dissert « parfaite », en nous envoyant le lien de la conversation, mais ici encore les fichiers vidéos sur lesquels ils devaient s’appuyer pour leurs analyses étaient plus difficilement lisibles, et le 3.5 manquait encore de nuance et de profondeur. Bref, help! 😉 <Ce message a été modifié>
+27/10/2024, 22:56 - +33 6 61 87 35 92: Merci !
+27/10/2024, 23:07 - Rochane: Les étudiant·e·s combinent les meilleurs éléments de plusieurs textes IA pour créer leur propre production (une sorte de brochure)
+Ou alors
+Ils évaluent et améliorent le texte IA en suivant des critères simples pour produire un meilleur résultat.

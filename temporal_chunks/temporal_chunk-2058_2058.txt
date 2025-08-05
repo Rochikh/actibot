@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 15
+
+=== CONTENU ===
+06/04/2025, 18:42 - +32 498 78 46 36: Soit j'ai été inattentif soit OpenAI vient de sortir un GPT appelé "Monday" un peu sarcastique ...
+https://chatgpt.com/g/g-67e595af0a408191b84ee532fca12cd1-monday/c/67f2ae7b-9d08-800b-976a-3ea2b78857d9 <Ce message a été modifié>
+06/04/2025, 18:43 - ‎+216 23 694 327 est parti·e
+06/04/2025, 19:00 - +33 6 07 14 45 01: Oui c'est un test lancé il y a 4 ou 5 jours. Pas très utilisable dans la pratique mais démontre une capacité à changer un style
+06/04/2025, 23:24 - Votre code de sécurité avec +32 493 87 42 05 a changé. Appuyez pour en savoir plus.
+06/04/2025, 23:30 - Votre code de sécurité avec +32 493 87 42 05 a changé. Appuyez pour en savoir plus.
+07/04/2025, 10:30 - +33 6 20 35 46 24: oui mais monomaniaque ce gpt. dommage c'est sympa d'avoir du repondant en face mais pas quand c'est le mode unique et par défaut..
+07/04/2025, 10:35 - +32 489 24 76 78: Alors que ça collapse pas mal, et pas qu'en bourse, petite sélection depuis mon periscope perso, avec un prisme IA, Medias et Enseignement, puisque c’est un peu mon boulot, des infos, des articles et des podcasts qui ont ralenti mon scroll le mois dernier.
+J’en profite pour vous remercier pour tous les liens géniaux et les retours d’expériences que vous partagez tous et toutes ici-même. C’est vraiment d’une richesse incroyable !
+En espérant que ça vous plaise. Dites-moi ce que vous en avez pensé et n'hésitez pas à la recommander à vos potes, à vos boss ou vos gosses, c'est selon 😎🚀
+https://da.van.ac/first-learn-the-rules-black-monday-edition/
+07/04/2025, 10:46 - +33 6 11 92 56 43: Bonjour. Pourriez-Vous me conseiller un ou des outils IA  pour créer des formules et mieux exploiter Excel
+07/04/2025, 10:48 - +33 6 52 73 73 42: Copilot est désormais intégré ds la solution Office.
+07/04/2025, 10:54 - +33 6 11 92 56 43: Merci
+07/04/2025, 10:55 - +32 498 78 46 36: Cela dépend de ce que l'on veut dire par intégration. Pour l'avoir réellement intégré dans Excel, il faut une licence particulière (et payante). sinon il faudra utiliser son fichier Excel en l'ouvrant via Edge et ouvrir le Copilot intégré à Edge.

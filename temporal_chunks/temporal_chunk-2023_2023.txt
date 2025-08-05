@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 642
+Messages: 8
+
+=== CONTENU ===
+29/03/2025, 16:58 - Votre code de sécurité avec +33 7 89 95 07 26 a changé. Appuyez pour en savoir plus.
+29/03/2025, 16:59 - ‎~ Jean-Philippe a ajouté ~ Jimy - Kissima
+29/03/2025, 17:01 - Rochane: Vous avez supprimé ce message
+29/03/2025, 17:05 - +33 6 19 29 82 01: Le problème c'est que le ministère met beaucoup de temps à mettre en place des solutions correctes.
+29/03/2025, 17:06 - +33 6 19 29 82 01: C'est comme si on avait dû attendre Apps Éducation pour utiliser des cloud et autres, c'est absurde ce décalage. Je suis d'accord pour temporiser et avoir une approche éthique mais il y a un retard actuellement des réponses du national.
+29/03/2025, 17:07 - +33 6 19 29 82 01: Ça a été le cas dans les TraAM où on nous demande de tester pour ensuite ne pas publier ce qui a été produit car c'est pas conforme mais une fois l'expérimentation menée. C'est absurde.
+29/03/2025, 17:10 - +33 6 19 29 82 01: Et ne parlons pas des gouffres des politiques entre académies.
+29/03/2025, 17:37 - Daniel Pappalardo: Sans parler de la formation de nos élèves à l'usage, aux dangers, à la responsabilisation et à l'éthique de l'IA... Je les trouve quand même sacrément consommateurs sans qu'ils se posent la moindre question sur les processus qu'il y a derrière, je ne parle même pas des demandes faites à l'IA. Je fais avec mes élèves des points précis sur l'art du prompt, le travail en amont d'une production IA et comment rester concepteur... On peut d'ailleurs rester RGPD sans soucis en faisant une démonstration sans qu'ils ne pratiquent ou via les outils mis à disposition dans l'ENT comme par exemple vittascience. Cela à d'ailleurs été longuement évoqué ici. Pour les formations auprès des collègues c'est la même chose, on intervient avec une collègue pour expliquer les processus, les prompts, comment l'intégrer dans une conception pédagogique, l'usage des chatbots dans les évaluations etc. Sans pour autant sortir du cadre légal. Après cela dépendra de l'usage qu'en font les collègues. Pour travailler avec Canopé France sur un magister IA, on est encore bloqués juridiquement pour le droit à l'image d'une production faite par IA. Tout cela prend du temps mais j'ai, peut être naïvement, l'impression de passer du savant un peu fou il y a deux ans, à une forme de normalité autour de la prise de conscience des enjeux d'un tel outil.  L'essentiel maintenant, comme il a été longuement dit sur cet espace de partage, est de faire évoluer les pratiques pédagogiques. Sans quoi les devoirs maisons ne seront plus faits par nos élèves mais par IA par exemple.

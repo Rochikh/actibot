@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 19
+
+=== CONTENU ===
+23/01/2025, 14:20 - Adrien Bock IA: Un avocat utilisant l’IAG dispo qques minutes pour 2-3 questions?
+23/01/2025, 15:25 - ‎+33 6 86 26 57 40 a demandé à rejoindre le groupe.
+23/01/2025, 16:34 - ‎+212 700-150296 a demandé à ajouter +212 610-589582.
+23/01/2025, 16:43 - +33 6 89 90 65 23: Ce message a été supprimé.
+23/01/2025, 16:44 - ‎+212 700-150296 a ajouté +212 610-589582
+23/01/2025, 16:44 - ‎+33 6 86 26 57 40 a rejoint le groupe à partir de la communauté.
+23/01/2025, 16:44 - ‎+33 6 31 87 68 27 est parti·e
+23/01/2025, 17:10 - +41 79 258 90 36: Test pdf scientifique français sur "Absorption des minéraux". Podcast Français de 6,31 min . Répété pour sortie en Allemand: reçu en anglais de 9,47 min. Contenu de bonne qualité. Semble préférer l'Anglais. A suivre. <Ce message a été modifié>
+23/01/2025, 18:49 - Cyrille CARTERET: Hello les membres
+Je viens de tester GOOGLE AI STUDIO
+(aistudio.google.com) qui présage une futur manière d'apprendre pour nos apprenants avec la possibilité de donner des yeux à GEMINI et échanger en live et à l'oral avec lui.
+le franKais est encore un peu difficile (il n'aime pas trop les cédilles)
+mais c'est plutôt bluffant.
+Avez vous déjà essayé ?
+Pensez vous que c'est le début de la fin des tutos vidéos pour apprendre
+Je vous mets le lien vers ma démo.
+https://youtu.be/bqDLp8p5ejQ
+23/01/2025, 18:57 - Daniel Pappalardo: J'ai testé en formation de personnels enseignants ils étaient émerveillés. J'ai fait faire les corrections d'activités avec mes élèves et on a réalisé ensemble des tutos avec. En anglais il est encore plus monstrueux... C'est aussi un tueur de devoirs maisons (mais je n'en donne presque jamais donc ...) <Ce message a été modifié>
+23/01/2025, 20:05 - Rochane: Perso, je l'ai testé aussi sur de nombreux cas d'usages mais l'expérience qui m'a le plus impressionné, c'est pour la veille de mes flux RSS. J'ouvre la page et je lui demande de me résumer et parfois je lui demande des explications sur des notions C E bluffant 🤣

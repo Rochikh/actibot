@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 575
+Messages: 11
+
+=== CONTENU ===
+01/01/2025, 20:55 - Rochane: NotebookLM fait du text to speach?
+01/01/2025, 20:55 - +41 79 258 90 36: Essayer aussi le Prompt IA Expert https://chatgpt.com/g/g-6758715ce570819195cffefb313f377f-hg-prompt
+01/01/2025, 20:56 - +33 6 71 11 12 91: indirectement, en créant le podcast, mais ce n'est peut-être pas la solution ici... Tout dépend de ce que l'on cherche à reproduire.
+01/01/2025, 21:13 - +33 6 69 98 28 93: Des témoignages mis en audio pour des élèves pour une CO
+01/01/2025, 21:28 - +33 6 19 75 63 49: Bonjour! Les réponses m’intéressent! J’en fait avec elevenlabs mais l’intonation n’est pas toujours la bonne, connaissez-vous un moyen d’améliorer cela? (sur l’intonation des questions par exemple, ou simplement des fins de phrases) merci!
+01/01/2025, 21:34 - Rochane: Il me semble que dans eleven labs, tu peux jouer sur la ponctuation stratégique comme ? et !..., tu as aussi le réglage stabilité/clarté et aussi les balises avancées SSML (pas sûr du nom)
+01/01/2025, 21:35 - Rochane: https://voices.directory/pages/elevenlabs-basics <Ce message a été modifié>
+01/01/2025, 21:58 - +33 6 19 75 63 49: Merci Rochane! Au top! Pour la ponctuation c’est déjà ce que je fais et ça ne marche pas à tous les coups. Je testerai Style la prochaine fois que j’aurai besoin d’un audio.
+01/01/2025, 22:12 - +33 6 19 89 32 62: Bon il y a encore du travail !!! Mais très belle année 2025 à tous 🎉🍾🥂https://youtu.be/2I81HiTtB-4?feature=shared
+01/01/2025, 22:18 - +41 79 258 90 36: Bravo pour ce clip bien fluide monté en combien de temps ? Avec quels outils svp ?
+01/01/2025, 22:25 - +33 6 19 89 32 62: Merci . Je n’ai pas compté le temps ! C’est du temps d’autoformation un peu tous les soirs depuis 15 jours 😝😂 . iMovie pour le montage final . Les images finalement générées par ia de freepick avec prompt de chat gpt (j’ai pas mal affiné surtout pour coco chanel). Puis transformation vidéo avec freepik aussi car avec HailuoAi ça partait dans tous les sens 😜 musique libre de droit Pixabay. Voix Eleven Labs en voice to voice (j’ai enregistré ma voix puis demandé une voix IA en amélioration) par contre ce n’est pas toujours top non plus … plein de cafouillages et encore des erreurs apparentes sur les images mais on avance 💪💪💪 Bref je vous souhaites une année remplie de bacs à sable !

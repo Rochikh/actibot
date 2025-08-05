@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 23
+
+=== CONTENU ===
+17/10/2024, 11:05 - +237 6 94 96 87 43: Bonjour à toutes et à tous.
+Pouvez-vous me conseiller une formation gratuite sur l'IA pour les nuls ?
+17/10/2024, 11:06 - Pierrick BRIAND: Bonjour,
+Apolearn Academy est là pour vous aider !
+https://academy.apolearn.com/catalog <Ce message a été modifié>
+17/10/2024, 11:08 - +237 6 94 96 87 43: Merci bien 🙏🏼
+17/10/2024, 11:39 - +33 6 75 50 01 00: Hello! Je cherche une IAG qui permettrait de transcrire un podcast en ligne, si possible gratuite.
+17/10/2024, 11:42 - Nadia ER-RAJI: <Médias omis>
+17/10/2024, 11:43 - Nadia ER-RAJI: Turboscribe
+17/10/2024, 11:43 - Nadia ER-RAJI: <Médias omis>
+17/10/2024, 11:45 - Nadia ER-RAJI: https://turboscribe.ai/
+17/10/2024, 11:45 - +33 6 75 50 01 00: Merci Nadia,, Le hic c'est qu'il n'est pas téléchargeable. Tu as déjà essayé sans télécharger ?
+17/10/2024, 11:46 - Nadia ER-RAJI: désolée pour les audios je pensais que c'était dans un autre groupe 🙂
+17/10/2024, 11:46 - Nadia ER-RAJI: c'est à dire pas téléchargeable ?
+17/10/2024, 11:46 - Nadia ER-RAJI: le podcast ?
+17/10/2024, 11:47 - Nadia ER-RAJI: as tu un lien pour ce podcast ?
+17/10/2024, 11:47 - Nadia ER-RAJI: il est sous quel format du coup
+17/10/2024, 11:47 - +33 6 75 50 01 00: Je ne dispose que de liens
+17/10/2024, 11:50 - +33 6 88 84 60 60: Avec un lien ça marche aussi, j'ai déjà testé avec une vidéo YouTube
+17/10/2024, 12:17 - Ahmadou Ba: Descript est bon tres bon et installable en local et prend des lignes. Mais l nombre d'heure de transcription est limité dans l plan gratruit.
+17/10/2024, 17:01 - +41 79 258 90 36: J'ai testé un fichier vidéo de 14 min en mp4 qui a été convertit en 2 minutes en PDF, doc, txt, mp3 et même traduit d'allemand en français en TXT. D'autres formats sont aussi disponibles. <Ce message a été modifié>
+17/10/2024, 18:01 - ‎+33 6 88 14 09 17 a demandé à rejoindre le groupe.
+17/10/2024, 18:18 - +33 7 84 33 02 62: Référentiels de compétences IA de l’UNESCO pour les enseignants et les apprenants | Bonjour, avez-vous trouvé une version française de ces 2 référentiels ? Je vais à un moment donné les passer dans une appli de traduction automatique mais j’aurais préféré une version plus officielle.

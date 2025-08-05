@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 13
+
+=== CONTENU ===
+- Réfléchit sur ce qui est perdu lorsqu'on remplace des actions informelles par des actions automatisées.
+- Discute pourquoi et comment un enseignant adopterait l'IA.
+- S'interroge sur le rôle de l'enseignant dans l'interprétation, la complétion, ou la régulation des actions de l'IA.
+3. **Interactions IA - savoirs**:
+- Questionne la marge de manœuvre de l'IA pour prendre des décisions en ce qui concerne les contenus à enseigner.
+- Évalue le niveau de complexité et de justesse des contenus modélisés par l'IA.
+Le triangle formé par les flèches indique que les trois composantes (Apprenant, Enseignant, Savoirs) sont en interaction continue avec l'IA, soulignant l'importance de chaque relation pour informer et améliorer l'utilisation de l'IA dans l'éducation.
+04/11/2023, 10:53 - +33 6 63 72 18 15: Bonjour à tous, je serais intéressée par des articles de chercheurs sur l'utilisation de l'IA en formation, voire appliquée à une réflexion sur l'évolution de l'enseignement. est-ce que vous prévoyez une colonne sur l'outil collectif ( notice?) .
+04/11/2023, 10:57 - Lucie: Bonjour,  un article que je trouve excellent : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995
+04/11/2023, 10:58 - +33 6 63 72 18 15: MErci !
+04/11/2023, 11:26 - Karim BS: Magnifique 💯
+04/11/2023, 11:35 - +33 6 16 19 22 64: Adaptation du triangle pédagogique proposé par J. Houssaye. La principale critique faite à ce modèle initialement, c’est qu’il est très acontextuel ( moment historique , culture, ressources…) et à l’époque déjà on lui reprochait de ne pas intégrer la notion de « TICE » avec lesquelles les composantes du triangle sont de plus en plus en interaction. Ainsi, l’ajout de l’IA comme composante dans ce modèle est très intéressant, maintient on peut se poser la question si il ne faut pas remplacer la notion « d’enseignant/formateur » par une autre? certain dispositifs sont pensés sans facilitation « humaine » après programmation et fonctionnent.
+04/11/2023, 12:54 - Lucie: Ce n'est pas une recherche mais ce contenu est très complet et de source fiable : https://www.ai4t.eu/book/ia-pour-les-enseignants--un-manuel-ouvert-1/about-this-book?path=index

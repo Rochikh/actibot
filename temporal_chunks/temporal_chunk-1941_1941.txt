@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 10
+
+=== CONTENU ===
+10/03/2025, 20:31 - Francois Bocquet: Si ce sont des applications installées sur les ordinateurs et pas des services en ligne il n’y a pas de problemes. Si ce sont des services en ligne surtout nécessitant la création d’un compte alors il faut vérifier si le traitement est inscrit au registre. C’est la seule chose qu’un enseignant peut (et doit) faire.
+10/03/2025, 20:36 - +33 6 69 98 28 93: Merci beaucoup je voulais proposer une alternative mais je vais en rester au rappel des usages numériques
+10/03/2025, 21:57 - +44 7776 747507: Que voici: https://www.linkedin.com/posts/activity-7297562036648005633-OZXe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACfL6QB2Y9CTVxCUIUAqiufouMFoFyKgRQ
+N.B: L'étude dont je fais référence n'est finalement pas celle mentionné par Rochane du Wharton School, mais une autre plus récente en Suisse
+10/03/2025, 21:57 - +44 7776 747507: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5082524
+10/03/2025, 22:17 - Votre code de sécurité avec +33 7 63 74 10 73 a changé. Appuyez pour en savoir plus.
+11/03/2025, 08:10 - +33 7 61 63 06 10: Salut à tous,
+Dans le cadre de mes fonctions, je vais animer une conférence de 1h30 à destination de lycéens sur le thème : Comment l’intelligence artificielle générative peut vous aider à réussir.
+Je prévois d’aborder brièvement l’histoire de l’intelligence artificielle avant d’expliquer son fonctionnement, en mettant en avant ses limites (biais, hallucinations) et contraintes (cout environnemental, protection de données...). J’insisterai particulièrement sur la nécessité de faire preuve d’esprit critique face aux résultats obtenus.
+En tant que père de cinq enfants de 6 à 21 ans, j’utilise personnellement l’IA pour les accompagner dans leurs études, notamment avec ChatGPT (et autres modèles), qui permet de générer des QCM, des textes à trous, des fiches de révision ou encore de reformuler des textes à partir de leurs cours. J’exploite également Perplexity pour approfondir des recherches sur différents sujets.

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 12
+
+=== CONTENU ===
+Je cite: on veut être le logiciel le plus sécurisé et facile d’utilisation pour dialoguer avec des LLM.
+Il avait également quelques exemples d’universités qui l’utilisaient en cours de méthodologie pour faire une initiation à l’ia aux etats unis. <Ce message a été modifié>
+21/01/2025, 19:03 - +32 483 60 53 96: Sujet détection IA : Les balises posées chez nous (UCLouvain) recommandent de ne pas s'appuyer sur l’option des outils de détection de production IA. Par contre l'usage de détection de plagiat reste très important.
+Exemple: il y a eu une détection de plagiat sur un groupe 7 élèves qui avaient poser le même prompt sur le même modèle avec la même idée sur un petit travail personnel de communication, il a eu une détection de plagiat entre les travaux. Trop similaire. La raison: ils ont eu une introduction à l’IA à l’heure juste avant et ils ont fait la même manipulation.
+21/01/2025, 19:06 - +32 483 60 53 96: Sujet détection IA : on préconise le re-questionnement du dispositif d'évaluation, mais aussi le principe de transparence (citer et exoliquer sa methode avec l’ia) et de conservation des traces pour le travail rendu, au cas où il y a une demande  explicite de l’enseignant.
+Le seul cas qui peut faire sanction c’est si l’étudiant avoue par lui-meme un usage totalement dépendant d’une IA generative.
+Qu'en pensez vous ?
+21/01/2025, 19:13 - Francois Bocquet: A mon avis il manque une confrontation IRL avec évaluation de la pertinence du raisonnement et de références à l’oral. L’aveu ne me parait pas éthique ni suffisant :-(
+21/01/2025, 19:31 - +32 483 60 53 96: Oui évidemment, avec une confrontation IRL
+21/01/2025, 19:32 - +32 483 60 53 96: Tout à fait
+21/01/2025, 19:57 - +32 483 60 53 96: Par là je veux dire qu’il va surement avoir très peu de sanctions.
+La clarification des fiches descriptives des cours avec les usages autorisés est la clé, ainsi que l'adaptation des évaluations. Mais il faut déjà pouvoir former les enseignants et intégrer des acquis d’apprentissage aussi dans certains cours liés aux IA.

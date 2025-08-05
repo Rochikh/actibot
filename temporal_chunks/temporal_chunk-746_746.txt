@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 18
+
+=== CONTENU ===
+- Axios
+- Le Monde
+- Politico
+- Reuters
+Ces partenariats visent à assurer la qualité et la fiabilité des informations fournies par ChatGPT.
+## Implications pour l'industrie des médias
+Cette initiative soulève des questions importantes pour l'avenir du journalisme et de l'information :
+- **Rémunération des éditeurs** : OpenAI prévoit de rémunérer les éditeurs en fonction de l'utilisation de leurs contenus, bien que les détails de ce modèle économique restent à préciser.
+- **Évolution du rôle des médias** : Cette collaboration pourrait redéfinir la manière dont les informations sont consommées et distribuées à l'ère de l'IA.
+## Enjeux et défis
+Plusieurs défis se présentent avec cette nouvelle approche :
+- **Lutte contre la désinformation** : L'intégration de sources fiables vise à combattre la propagation de fausses informations.
+- **Protection des droits d'auteur** : La question de l'utilisation équitable des contenus journalistiques par l'IA reste un sujet de débat.
+- **Évolution des modèles économiques** : Les médias devront s'adapter à cette nouvelle forme de distribution de leurs contenus.
+Cette initiative d'OpenAI représente une étape importante dans l'évolution des agents conversationnels et pourrait avoir un impact significatif sur la manière dont nous accédons à l'information à l'avenir. Elle souligne également l'importance croissante de la collaboration entre les entreprises technologiques et les médias traditionnels dans l'écosystème numérique actuel.
+26/07/2024, 10:26 - Mickaël: Est-ce que quelqu'un aurait des références sur les usages réels de Khanmigo ? Derrières les conférences Ted et les vidéos promotionnelles depuis plus d'un an (+ quelques articles très généraux dans les médias US), j'ai l'impression que l'outil reste à l'état de promesse et n'est pas encore opérationnel.
+26/07/2024, 10:27 - Mickaël: <Médias omis>
+26/07/2024, 10:31 - Clément Cahagne: Tous les développements de bot ai sur des plate-forme type moodle sont (pour l'instant) des développements spécifiques qui ne verront à priori pas le jour pour le commun des mortels. J'ai des collègues qui ont fait ça récemment : c'est du sur mesure pour leur plate-forme

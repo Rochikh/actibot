@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 7
+
+=== CONTENU ===
+26/06/2024, 09:31 - Céline Averseng: Est-ce que vous avez des retours sur le duel Chat GPT 4o - Perplexity ? Je dois renouveler ma licence et j'hésite entre les deux. Pour la partie génération de quiz que j'ai assez longuement testé, les deux sont assez performants, mais pour le reste, je ne sais pas.
+26/06/2024, 10:04 - Jean-Marc Everard: L’avantage de perplexity est que l’on peut choisir le modèle, soit ChatGPT 4O, Claude 3.5 sonnet ou Claude 3 opus (ou un modèle propre à Perplexity basé sur Llama 3). Néanmoins, à l’usage j’ai l’impression que ses retours ne sont pas tout à fait identiques à ceux faits directement par ChatGpt même quand on choisit son modèle. Néanmoins, s’il ne fallait en garder qu’un, dans l’état actuel je choisirais perplexity. En vrai, perso je vais garder les 2 abonnements parce que je souhaite bénéficier rapidement de ChatGPT next quand il sortira 😉.
+26/06/2024, 10:06 - Rochane: Pareil que Jean Marc, les assistants de openai m'aident beaucoup dans les automatisations et pour des recherches rapides, Perplexity est d'un grand secours..
+26/06/2024, 10:17 - Céline Averseng: Merci pour vos retours !
+26/06/2024, 13:32 - Ludovic IA: Déjà, merci beaucoup pour ta réponse, qui m'a mis un doute bienvenu :) Donc oui Perplexity donne bien ses sources et des liens vers ses sources (par ex https://www.perplexity.ai/search/Vrifie-ces-informations-KjcsUY1yQpq0Z13d40MaAw#0 ). Mais avec un gros bémol puisqu'il interprète à sa sauce les sources d'informations qu'il trouve. Il tient donc des affirmations que sa source ne confirme pas de façon aussi claire. Perplexity reste à mon avis un bon outil pour le fact-checking mais avec un process un peu plus long: je génère un texte via une IA générative -> j'en fais vérifier le passage dont je ne suis pas certain par Perplexity -> je vérifie la source donnée par Perplexity pour m'assurer que ce dernier a bon
+26/06/2024, 13:46 - LIO: Perplexity donne les sources mais ce qu'elle en sort n'est pas précis.
+Elle ne renvoie pas vers des passages de textes ou citations.

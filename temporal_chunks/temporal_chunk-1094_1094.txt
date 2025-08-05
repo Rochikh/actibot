@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 17
+
+=== CONTENU ===
+19/10/2024, 18:51 - +216 25 000 725: Ça je le connais. C'est pour le scénario et pas le contenu
+19/10/2024, 18:51 - Rochane: Oui, sur l'assistant OpenAI et je peux encore ajouter pour l'améliorer
+19/10/2024, 18:52 - Gregoire IA: alors vas-y avec preview, les autres versions de GPT ne sont pas les plus performantes (sans quoi vas y avec Claude et Gemini pour les exercices comme je te disais)
+19/10/2024, 18:59 - +32 471 13 93 15: Essaie avec gamma.app
+19/10/2024, 19:00 - +32 471 13 93 15: Pour ça Natural Reader est pas mal 🤗
+19/10/2024, 19:03 - Gregoire IA: ElevenLabs sans aucune comparaison possible
+outre le fait de synthetiser sa propre voix leur catalogue est très bon, voix d'homme comme de femme : je produis mes video avec Heygen qui fonctionne aussi avec ElevenLabs mais pour les Podcast je fais directement avec ElevenLabs (ma voix est une coche meilleure) https://youtu.be/rstyGsxZhxU
+19/10/2024, 19:04 - +32 471 13 93 15: Ça dépend pour quelle langue. Natural Reader est meilleur pour le néerlandais 😉
+19/10/2024, 19:11 - Rochane: Non Grégoire, ici notebooklm te génère des podcasts à partir des ressources que tu lui injectes. Le concept est différent
+19/10/2024, 19:24 - +216 25 000 725: J'ai trouvé cette solution pour créer des cartes mentales d'une manière très simple https://youtu.be/Je2ynkgXzrY
+19/10/2024, 19:25 - Rochane: Essaie napkin ou le Gpt whimesical ou mylens.ai
+19/10/2024, 19:43 - Francois Bocquet: Regarde K2R2 du côté de e Charlemagne. Ça m’a paru assez bluffant. Je dois le tester en détail. https://www.e-charlemagne.com/index.php/assistant-k2r2/
+19/10/2024, 20:11 - +33 6 47 00 06 69: Je n arrive pas à savoir si il fait un abonnement pour le tester...
+19/10/2024, 21:49 - Batier Christophe: K2r2 est payant mais on  peut avoir des accès de demo
+Voici la présentation du service qu´on a enregistré la semaine derniere
+https://youtu.be/jlM9Z4SVFMo?si=jwBi8d8HWvstYswV
+19/10/2024, 21:59 - Rochane: Christophe, tu penses que l'on peut l'inviter à un de nos lives pour nous montrer cette solution ? <Ce message a été modifié>

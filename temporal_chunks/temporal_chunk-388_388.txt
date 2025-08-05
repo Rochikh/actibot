@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 586
+Messages: 8
+
+=== CONTENU ===
+08/04/2024, 20:07 - ‎+32 497 29 18 25 a rejoint ce groupe grâce à son lien d’invitation
+09/04/2024, 03:54 - Votre code de sécurité avec Meltem a changé. Appuyez pour en savoir plus.
+09/04/2024, 07:36 - Rochane: 😢 Le boom des intelligences artificielles génératives est un phénomène qui connaît une période de progrès rapides dans le domaine de l'intelligence artificielle (IA). Cependant, derrière cette révolution technique se cache un travail souvent précaire et peu rémunéré effectué par des travailleurs invisibles [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).
+- Des travailleurs appelés "annotateurs" sont indispensables pour analyser de grandes quantités de données qui servent à entraîner les algorithmes d'IA tels que ChatGPT ou Midjourney.
+- Ces annotateurs sont souvent précaires et faiblement rémunérés. Ils doivent lire et analyser des textes parfois choquants ou dérangeants, ce qui peut avoir un impact négatif sur leur bien-être mental [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).
+- Le travail des annotateurs est essentiel pour préciser au logiciel ce qui pose problème dans les données, afin qu'il ne reproduise pas de contenus inappropriés ou illégaux.
+- Ce travail humain est indispensable dans toute la chaîne de production de l'IA et ne peut pas être automatisé [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).
+De plus, le boom des intelligences artificielles génératives nécessite une quantité colossale de données annotées. Pour cela, les entreprises font appel à des travailleurs indépendants dans des pays à faibles revenus, où les coûts de main-d'œuvre sont moins élevés [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).

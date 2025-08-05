@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 12
+
+=== CONTENU ===
+16/02/2024, 14:08 - Jacques BARATTI: je teste un peu mieux...
+16/02/2024, 14:14 - Jacques BARATTI: @guillaume parmi les 3 liens donnés par Laetitia il y a opengpt qui est un site opensource pour créer des assistants (comme HuggingChat) mais  on peut déposer des fichiers (ce que ne propose  pas HuggingChat. je vais tester
+16/02/2024, 14:16 - Guillaume Singeot: super! je veux bien un retour sur les compétences techniques à mobiliser pour s'en servir!
+16/02/2024, 14:30 - Letizia ALLEGRINI: Pas de compétences techniques particulières tout est écrit dans l'article même un non initié peut y parvenir 😀 on est sur le début des chatbots opensource alors il y a encore quelques instabilités mais c'est pas mal du tout. Sinon encore gratuit pour le moment Mizou est vraiment facile d'accès
+16/02/2024, 14:32 - +212 644-562660: Tout pareille pour moi :D En fait, je pense qu’il y’a un lien épinglé en haut de la messagerie du groupe où presque toutes les recommendations déjà mentionnées y sont méticuleusement classées . Le voici: https://airtable.com/appWoeEJR0yuDnEI6/shr6Q7amGkhbAf8hS
+16/02/2024, 14:34 - +33 6 20 35 46 24: genial. et merci j'avais pas fait attention
+16/02/2024, 14:40 - +212 644-562660: Je t en prie David
+16/02/2024, 14:58 - Guillaume Singeot: pour info (je ne sais pas si c'est ouvert au public en septembre 2024) https://www.unesco.org/fr/weeks/digital-learning
+16/02/2024, 16:15 - Guillaume Singeot: <Médias omis>
+16/02/2024, 17:45 - +33 6 52 49 10 78: Crazy. Merci pour le partage !
+16/02/2024, 19:48 - Votre code de sécurité avec +33 6 17 16 08 06 a changé. Appuyez pour en savoir plus.
+16/02/2024, 19:50 - Jacques BARATTI: J'ai testé le premier lien (openGPT) c'est assez facile à prendre en main, on peut effectivement uploader des fichiers pdf (apparemment pas des images exact Laetitia ?). Une fois créé on obtient le lien accessible à tous. En voici un sur les pédagogies actives (https://opengpts-example-vz4y4ooboq-uc.a.run.app/?shared_id=990a17db-9992-42aa-8e0a-70a4358bf960). Par contre je n'ai pas trouvé comment les modifier une fois sauvegardés, est-ce possible @Laetitia ?

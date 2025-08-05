@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 22
+
+=== CONTENU ===
+Je cherche une application qui est capable d'afficher/générer 1 image ou 1 photo à partir d'une description faite en mode audio exclusivement et non pas en mode texte;
+Bon, c’est un peu ce que fait la recherche Google depuis longtemps quand on lui parle, mais il ne génère pas l’image et je ne veux qu’1 seule image en résultat (ce serait pour aider à bien prononcer les mots en français, sous forme ludique)
+(à cette même question, ChatGPT n’a pu me suggérer que de combiner 1 appli Speech-to-Text avec 1 appli Text-to-Image);
+Merci
+21/07/2024, 10:06 - Rochane: La recherche vocale de Google images, ça ne peut pas convenir ?
+21/07/2024, 10:12 - +33 6 85 03 31 84: C’est mieux que rien, oui,mais
+je ne souhaite qu’1 image affichée en grand sur un smartphone de préférence;
+il faut que ce soit simple et rapide ,
+Et la recherche Google ne génère pas vraiment d’images du genre un chat avec des oreilles bleues et des poils rouges … <Ce message a été modifié>
+21/07/2024, 10:13 - Rochane: L'application chat Gpt ( version pro) via l'audio permet de générer des images <Ce message a été modifié>
+21/07/2024, 10:14 - ‎+91 94442 29090 a rejoint ce groupe grâce à son lien d’invitation
+21/07/2024, 10:15 - ‎+32 475 37 41 75 est parti·e
+21/07/2024, 10:24 - +33 6 85 03 31 84: Ok, merci pour l’info 👍🏽,
+(Je n’ai pas la version pro pour le moment)
+Bizarre qu’il ne me l’ait pas signalé quand je lui ai posé la question :
+https://chatgpt.com/share/ac9aee61-1b53-4404-b720-a7d21b7f1ce0 <Ce message a été modifié>
+21/07/2024, 13:53 - +33 6 20 69 82 20: null
+21/07/2024, 14:10 - Votre code de sécurité avec +212 634-169534 a changé. Appuyez pour en savoir plus.
+21/07/2024, 17:32 - +32 479 58 54 12: J'ai déjà constaté souvent que Chatgpt "se connaît très mal" et donne des réponses fausses quand on l'interroge sur ses propres fonctionnalités. Perplexity y répond mieux 😄
+21/07/2024, 22:56 - +33 6 49 84 08 41: Très intéressé
+22/07/2024, 03:40 - +237 54717211: Ce message a été supprimé.
+22/07/2024, 09:01 - ‎+32 496 08 00 12 est parti·e

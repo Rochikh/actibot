@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 20
+
+=== CONTENU ===
+09/10/2024, 14:41 - Ahmadou Ba: Je n'ai pas bien, Quelle est la différence entre cette plateforme et celle de ChatGPT
+09/10/2024, 14:43 - +41 76 372 28 94: Le playground c'est le côté développeur du site web d'OpenAI. Parfait pour faire des tests.
+09/10/2024, 14:44 - ‎+33 6 31 20 64 87 a rejoint ce groupe grâce à son lien d’invitation
+09/10/2024, 14:44 - ‎+33 6 07 45 11 00 a demandé à rejoindre le groupe.
+09/10/2024, 14:46 - ‎+33 6 07 45 11 00 a rejoint ce groupe grâce à son lien d’invitation
+09/10/2024, 14:48 - +34 683 61 41 61: Bonjour, je n'arrive pas a retrouver un très bon article en français publié récemment qui reprenait les principaux résultats de l'enquête réalisée par Google sur les risque de l'IA (notamment sur l'usurpation d'identité).
+Auriez-vous la référence s'il vous plait ?
+09/10/2024, 14:54 - Rochane: Liquid AI, une start-up issue du MIT, a développé une nouvelle architecture d'IA appelée Liquid Foundation Models (LFM). Cette technologie offre des performances similaires à GPT tout en utilisant moins de ressources. Leurs modèles LFM-1B, LFM-3B et LFM-40B ont montré des résultats impressionnants lors de tests. Ils rivalisent avec des concurrents plus volumineux
+https://www.lebigdata.fr/liquid-ai-cette-noucelle-ia-qui-surpasse-gpt
+09/10/2024, 14:54 - ‎+212 669-959307 est parti·e
+09/10/2024, 14:55 - Rochane: Perso, je ne vois pas de quoi tu parles ?. J'ai essayé le bot mais ça n'a rien donné
+09/10/2024, 14:57 - ‎+33 6 63 90 26 82 est parti·e
+09/10/2024, 14:59 - ‎+33 6 21 89 15 18 a demandé à rejoindre le groupe.
+09/10/2024, 15:10 - ‎+33 6 21 89 15 18 a rejoint ce groupe grâce à son lien d’invitation
+09/10/2024, 15:22 - ‎+966 56 202 4806 est parti·e
+09/10/2024, 17:17 - ‎+33 6 75 33 06 16 a demandé à rejoindre le groupe.
+09/10/2024, 17:27 - ‎+33 6 75 33 06 16 a rejoint ce groupe grâce à son lien d’invitation
+09/10/2024, 17:39 - +34 683 61 41 61: <Médias omis>
+09/10/2024, 17:40 - Rochane: Claude, aistudio.google ou Chat Gpt
+09/10/2024, 18:30 - ‎Zaragoza JUAN JOSÉ IA a demandé à rejoindre le groupe.

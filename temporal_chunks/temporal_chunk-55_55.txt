@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 13
+
+=== CONTENU ===
+04/11/2023, 10:57 - Lucie: Bonjour,  un article que je trouve excellent : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995
+04/11/2023, 10:58 - +33 6 63 72 18 15: MErci !
+04/11/2023, 11:26 - Karim BS: Magnifique 💯
+04/11/2023, 11:35 - +33 6 16 19 22 64: Adaptation du triangle pédagogique proposé par J. Houssaye. La principale critique faite à ce modèle initialement, c’est qu’il est très acontextuel ( moment historique , culture, ressources…) et à l’époque déjà on lui reprochait de ne pas intégrer la notion de « TICE » avec lesquelles les composantes du triangle sont de plus en plus en interaction. Ainsi, l’ajout de l’IA comme composante dans ce modèle est très intéressant, maintient on peut se poser la question si il ne faut pas remplacer la notion « d’enseignant/formateur » par une autre? certain dispositifs sont pensés sans facilitation « humaine » après programmation et fonctionnent.
+04/11/2023, 12:54 - Lucie: Ce n'est pas une recherche mais ce contenu est très complet et de source fiable : https://www.ai4t.eu/book/ia-pour-les-enseignants--un-manuel-ouvert-1/about-this-book?path=index
+04/11/2023, 12:56 - +33 6 63 72 18 15: Merci beaucoup Lucie !
+04/11/2023, 13:36 - ‎David Corona a rejoint le groupe à partir de la communauté.
+04/11/2023, 17:31 - +237 6 99 02 51 84: Je pense que tout dépend aussi de la question que l'élève demande à l'IA. S'il construit un raisonnement par rapport à sa question et récupère les éléments de réponse de l'IA, pour construire sa réponse ce n'est plus du plagiat à mon sens
+04/11/2023, 17:32 - +237 6 99 02 51 84: On devrait aussi éduquer les apprenants à indiquer le protocole établi pour chercher sa solution
+04/11/2023, 19:33 - Votre code de sécurité avec Gaylord Luypaert a changé. Appuyez pour en savoir plus.
+04/11/2023, 19:57 - Rochane: Claude.ai disponible dans 95 pays (mais pas la France ni la Belgique)
+https://www.anthropic.com/claude-ai-locations#:~:text=You%20can%20access%20Claude,Bissau%20Guyana%20Honduras%20India
+04/11/2023, 21:49 - ‎+352 691 397 315 a rejoint le groupe à partir de la communauté.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 15
+
+=== CONTENU ===
+15/09/2024, 18:26 - ‎+32 488 02 00 97 est parti·e
+16/09/2024, 13:23 - Rochane: Un astrophysicien utilise le modèle "o1" d'OpenAI pour recréer en quelques minutes un code qui lui avait pris 10 mois à développer. Cette démonstration illustre l'impact potentiel de l'IA sur la programmation et la résolution de problèmes scientifiques, suscitant l'intérêt des développeurs et CTO.
+https://www.youtube.com/watch?v=M9YOO7N5jF8
+16/09/2024, 13:34 - +33 6 74 05 09 80: Je suis tombé sur la même vidéo. Sûrement la meilleure démonstration des capacités de ce nouveau modèle
+16/09/2024, 13:36 - +216 25 000 725: Je partage avec vous cette vidéo qui permet aux utilisateurs de H5P et de ChatGPT de générer des évaluations en d'une manière simple et rapide et l'intégrer directement à H5P  https://youtu.be/a-x3BiCX5d4?si=1zxH43GNvsMUXOF6
+16/09/2024, 17:53 - ‎+33 6 88 84 60 60 a demandé à rejoindre le groupe.
+16/09/2024, 18:11 - +32 477 78 78 50: Bonjour
+La question a peut-être déjà été posée et peut-être m’a-t-elle échappé: connaissez-vous une IA capable de fournir une traduction simultanée en live lors de séminaires ? Et à un prix abordable ? Déjà merci pour vos retours
+16/09/2024, 18:17 - +33 6 72 75 43 48: Bonjour je recherche un outil IA équivalent à synthesia … je souhaite faire parler des avatars dans des modules e learning . Connaissez vous des outils autre que heygen qui font le job avce une version fermium ? Merci 🙏
+16/09/2024, 18:20 - +33 6 72 75 43 48: Dans le même esprit si vous avez des recos quant à des outils IA pour faire des BD rapidement 😉
+16/09/2024, 18:37 - Amadou GuisséIA: Bonjour
+Est-ce qu'un peut faire la même avec Moodle ?
+16/09/2024, 18:57 - +216 25 000 725: Oui c'est possible. Mais cette fois il faut penser à générer le fichier XML moodle. Voici le vidéo qui vous explique les étapes  https://youtu.be/NG1H6bA-tqQ?si=XiLnHAkWG3giAX-o
+16/09/2024, 19:09 - ‎+33 6 88 84 60 60 a rejoint ce groupe grâce à son lien d’invitation
+16/09/2024, 19:13 - Rochane: Reponse d'ActiBot, le chat de la communauté 🙂

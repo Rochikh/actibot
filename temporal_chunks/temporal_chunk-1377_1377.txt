@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 25
+
+=== CONTENU ===
+Il est également passionnant de le tester avec des images d'art et d'apprendre à décrire les médias visuels par le biais de dénotations et de connotations. Un tel outil pourrait contribuer à l'enseignement de l'éducation aux médias.
+04/12/2024, 20:06 - Rochane: ÉVÉNEMENT : Live Visio
+Heure de début de l’événement : 1734030000000
+Événement annulé : false
+Description de l’événement : Hey ! Tu veux finir l'année en beauté ? Rejoins-nous le 12 décembre de 20h à 21 h (heure Paris) pour le dernier live de 2024 !
+Au menu :
+*François Jourde* te dévoile comment évaluer avec l'IA en s'appuyant sur une infographie
+*Luis Galindo* partage son expérience sur l'IA dans l'apprentissage des langues
+On parle IA responsable avec *Nicolas Blanchon*
+Et  Martin du groupe Bot Builders de la communauté nous raconte l'aventure de la création d'un chatbot en équipe (groupe créé ici dans la communauté)
+Tu ne veux pas rater ça ! À jeudi prochain😄
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+04/12/2024, 20:08 - Vous avez épinglé un message
+04/12/2024, 22:04 - Nadia ER-RAJI: ÉVÉNEMENT : Masterclass IA - 5 cas d'usage pour optimiser son business.
+Heure de début de l’événement : 1734429600000
+Événement annulé : false
+Description de l’événement : Voici le lien pour s'inscrire et recevoir le replay si vous ne pouvez pas être présent.
+https://tinyurl.com/3w3u8kr4.
+Nom du lieu de l’événement : En direct sur Linkedin
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+04/12/2024, 22:05 - Nadia ER-RAJI: Merci à Rochane de me permettre de publier aussi ma prochaine Masterclass si les cas d'usage vous intéresse.
+04/12/2024, 22:06 - Nadia ER-RAJI: et la nouvelle fonctionnalité est effectivement top sur whatssap.
+05/12/2024, 00:09 - +33 6 25 79 50 95: https://evenement.simplon.co/meta
+05/12/2024, 00:20 - +33 6 25 79 50 95: Pour les curieux et curieuses d'IA souhaitant s'initier à l'IA, un atelier sera gracieusement animé mardi prochain à Saint Ouen.

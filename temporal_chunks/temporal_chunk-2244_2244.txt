@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 546
+Messages: 17
+
+=== CONTENU ===
+14/06/2025, 22:49 - ‎~ Sébastien GARCIA a ajouté +33 6 80 65 93 31
+15/06/2025, 06:44 - Alix van Zeebroeck: https://www.linkedin.com/posts/uclouvain_uclouvain-ia-intelligenceartificielle-activity-7339227529850855424-QiKD?utm_source=share&utm_medium=member_android&rcm=ACoAAACPGkoBasEMhMep9c2p_mEDqq2L678501w qui a déjà testé cette IA éducative en milieu académique  instructo.be ? Des avis ?
+15/06/2025, 07:35 - Clotilde IA: <Médias omis>
+15/06/2025, 07:45 - estelle Duterage Drion IA: Idem
+15/06/2025, 08:06 - +32 498 78 46 36: Ça fonctionne ici mais si j'étais mauvaise langue je pourrais dire que c'est un NotebookLM dégradé. Ceci dit cela reste une chouette initiative que cela soit créé par des jeunes pour des jeunes 👏
+15/06/2025, 14:48 - +41 79 258 90 36: Cela fonctionne chez moi aussi.
+https://www.linkedin.com/company/instructobe/
+15/06/2025, 16:10 - ‎+32 497 41 79 13 a demandé à rejoindre le groupe.
+15/06/2025, 17:43 - ‎+32 497 41 79 13 a rejoint ce groupe grâce à son lien d’invitation
+15/06/2025, 19:57 - +32 475 86 01 57: Bof... c est sympathique mais, si on creuse un peu, ce sont juste des wraper non?
+Ils créent un ux mais tout est déjà faisable avec une ia généraliste...
+Qu est ce qui est le mieux au niveau de l éducation (d universitaires en plus...)? Proposer une solution premachee (en prenant une com au passage) ou apprendre aux gens à utiliser une ia généraliste?
+Pour moi c est la 2, sans aucune hésitation!
+16/06/2025, 09:25 - ‎+1 (226) 309-4012 a demandé à rejoindre le groupe.
+16/06/2025, 11:49 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+16/06/2025, 10:04 - +33 6 66 98 84 23: On a besoin des 2.Tout le monde ne fonctionne pas au même rythme. C'est comme le vélo, d'abord avec les petites roulettes puis petit à petit on prend confiance et on se lance. Pareil pour l'IA. L'essentiel c'est d'y aller !
+16/06/2025, 10:37 - Jean-Marc Everard: Je suis assez d’accord avec cela. Et puis j’apprécie que l’initiative viennent d’étudiants. Toute chose qui peut participer à un usage plus réflexif de l’IA est intéressant selon moi. Et puis on peut voir cela comme un MVP appelé à s’améliorer avec des itérations.

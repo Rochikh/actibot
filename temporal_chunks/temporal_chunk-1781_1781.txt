@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 17
+
+=== CONTENU ===
+Le prompt optimisé (que je pourrai copier-coller pour démarrer une nouvelle conversation)
+14/02/2025, 11:46 - +213 558 04 82 89: Merci .
+Des prompts dans le cadre de la recherche scientifique ?
+14/02/2025, 12:31 - +32 498 36 80 15: Bonjour,
+Je souhaiterais créer un nouveau PPT en extrayant des informations de 3 autres PTT.
+Que puis-je utiliser?
+D’avance, merci pour ta réponse.
+14/02/2025, 12:40 - Rochane: L'idéal serait de fusionner les 3 ppt pour en faire un et ensuite aller sur gamma app pour en créer un nouveau à partir du ppt fusionné
+14/02/2025, 12:46 - Nadia ER-RAJI: Gamma est bluffant. j'adore...celui la aussi est pas mal https://www.popai.pro/
+14/02/2025, 13:07 - Ahmadou Ba: Une petite question, quand on va demarrer une nouvelle discussion avec le prompt optimisé gardera-t-il en mémoire le dialogue precedent
+14/02/2025, 13:09 - Rochane: non justement, il faut mettre ce prompt à la fin de la discussion pour lancer la nouvelle
+14/02/2025, 13:11 - Ahmadou Ba: Ok dans la même discussion alors, dans ce cas ce prompt sert surtout à s'assurer la coherence des échanges.
+14/02/2025, 13:12 - Nadia ER-RAJI: ou petite astuce que j'utilise souvent reprendre ton premier prompt et rééditer ta demande avec la réponse faite, ça affine la réponse aussi
+14/02/2025, 13:14 - Nadia ER-RAJI: sur chatgpt, utilise aussi le mode projet, qui peut correspondre aussi à un même sujet...ça aide considérablement aussi les réponses..
+14/02/2025, 14:19 - ‎+33 6 62 69 48 29 a demandé à rejoindre le groupe.
+14/02/2025, 14:59 - +32 486 98 03 36: Étant over... je vous suis mais en voyeuriste. Donc  voyant toute les envolée lyrique sur notebook lm j ai demandé à les deux petits stagiaires jeunes de tester les synthèses de nos dossiers sur chagpt et notebooklm Ils me disent que chatgpt est plus précis identifié mieux la structure et fait moins de fautes. Nous avons raté qque chose ? Tout le monde semble aimer tellement notebook lm pour le moment  ?
+14/02/2025, 15:00 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.

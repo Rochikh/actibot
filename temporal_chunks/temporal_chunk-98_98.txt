@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 8
+
+=== CONTENU ===
+18/11/2023, 21:42 - Rochane: Merci ! Je l'ai partagée à chat vision et il me donne ça.  Ce visuel semble être une brochure ou une affiche promotionnelle pour un produit ou service nommé "Stellia". Il est présenté comme une IA éthique qui décuple les connaissances. La brochure met l'accent sur l'accompagnement des apprenants et l'outillage des enseignants, suggérant une utilisation dans le contexte éducatif. Elle présente une interface utilisateur avec des fonctionnalités telles que la recherche d'images, de textes, de vidéos, de pages web, d'audio, et de PDF. De plus, elle mentionne la personnalisation de l'apprentissage et l'intelligence artificielle.
+La brochure semble expliquer comment cette IA peut aider dans le domaine de l'éducation, avec des ressources liées, des réponses avec sources, des résumés, des passages de documents, des exercices, des questions et réponses liées, ainsi que des concepts et des extraits vidéo liés. Cela suggère une plateforme éducative complète qui utilise l'IA pour fournir un contenu personnalisé et engageant. Il est également indiqué que l'IA de Stellia génère automatiquement votre assistant personnel, ce qui implique une fonctionnalité d'assistance virtuelle.
+19/11/2023, 07:28 - +32 498 78 46 36: Oui il existait déjà en tant que plugin mais je regrette que le document Canva ne soit pas généré directement à l'intérieur du chatbot
+19/11/2023, 15:52 - Rochane: Vous avez supprimé ce message
+19/11/2023, 20:30 - Rochane: Un GPT qui cherche des GPTs, c'est une idée que j'ai eue et qui doit probablement avoir été réalisée par d'autres. Je vous présente donc Chercheur⋅euse GPT, iel recherche et partage les meilleurs GPT publics correspondant aux mots-clés fournis, en fournissant des informations concises et des liens directs
+https://chat.openai.com/g/g-nBoOihBM5-chercheur-euse-gpt
+19/11/2023, 21:53 - Jacques BARATTI: Superbe idée !
+20/11/2023, 10:26 - Jacques BARATTI: J'ai testé, apparemment le GPT ne donne pas des liens pour se connecter directement aux GPTs d'OpenAI. Est-ce exact ?

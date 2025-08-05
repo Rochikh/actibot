@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 14
+
+=== CONTENU ===
+Vient à point qui sait attendre !
+Ayé je viens de le voir apparaitre dans mon NotebookLM
+C'est top !
+27/03/2025, 11:28 - ‎+33 6 79 76 84 25 est parti·e
+27/03/2025, 12:13 - +41 76 372 28 94: Oui et non... Balance IA/IH : le problème c'est quand je n'ai clairement plus le niveau de ce que je leur demande de faire. Ce n'est pas le fait que je ne puisse pas apprendre, mais surtout le fait que je ne peux pas apprendre pour ce soir ce qui nécessiterait une dizaine d'années d'expérience et que elles savent déjà, à quelques confabulations près (ce que je ne pourrais de toute façon probablement pas détecter). Je dis ça car je prépare le cours de demain et je galère sur quasiment chaque concept que l'IA me propose d'expliquer aux élèves... Bref, ce n'est pas aujourd'hui que je deviendrai ingénieur réseau (je suis ingénieur en développement logiciel) et pourtant c'est le niveau que j'atteins grâce aux IA pour décider de quoi mettre dans le plan d'étude (chose que les gens qui auraient dû le faire n'ont pas fait correctement)... pour le cours d'informatique de demain... Sans les IA, j'aurais dû faire comme l'an passé : c'est à dire donner un cours nul, inutile et pas intéressant. J'espère pouvoir faire mieux demain (ça va pas être trop compliqué de faire mieux 😇). Un grand merci à Gemini 2.5 et ChatGPT 4.5 au passage, car elles sont sur ce coup plus pertinentes que Claude 3.7. <Ce message a été modifié>
+27/03/2025, 17:11 - +33 6 25 79 50 95: Ou de la pensée magique (augmentée par l'IA :-)
+27/03/2025, 19:01 - Rochane: Rdv dans une heure pour notre Live du mois 😉
+27/03/2025, 19:08 - Votre code de sécurité avec +32 475 21 53 10 a changé. Appuyez pour en savoir plus.
+27/03/2025, 19:56 - Francois Bocquet: Rappel de l’URL pour accèder au live -> bit.ly/iaedu2024
+27/03/2025, 20:03 - +33 6 52 73 73 42: Let's gooooo !
+27/03/2025, 20:03 - +33 6 52 73 73 42: L'enregistrement à commencé !
+27/03/2025, 20:08 - Rochane: https://zenodo.org/records/14962090
+La présentation du live
+27/03/2025, 20:18 - Francois Bocquet: Politiques encadrant l’IA générative en recherche universitaire

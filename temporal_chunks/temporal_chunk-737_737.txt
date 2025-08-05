@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 14
+
+=== CONTENU ===
+4. **Coursera** : Utilise l'IA pour aider à la création de cours en ligne.
+5. **Edmodo** : Fournit des outils pour le développement de plans de cours et de contenu éducatif interactif.
+Avez-vous un besoin spécifique ou un type particulier de fichier pour lequel vous recherchez de l'aide?
+22/07/2024, 20:36 - +33 7 81 77 51 50: Merci pour votre retour
+22/07/2024, 20:50 - +33 7 81 77 51 50: Le but de la manœuvre est de présenter une maquette pédagogique d'une formation d'un métier en forte évolution, donc j'ai une ébauche que je dois " faire évoluer" pour qu'elle réponde aux besoins du marché actuel ....
+Donc j'ai une note d'opportunités, un référentiel et un benchmark d'autres formations...en pièce jointe que présente à notre cher GPT  🤭.... mais le résultat proposé par son Altesse ne se démarque pas trop du lot proposé  ... Je dois ne pas savoir comment bien lui prompter l'idée 😓
+22/07/2024, 20:54 - Rochane: Il faut lui partager tout d'abord les documents en lui expliquant le contexte sans poser ta question au préalable. Une fois que tu as compris qu'il a compris ce que tu veux, ne lui demande pas l'output directement mais plutôt un plan et ensuite tu commences à itérer point par point. N'oublie pas de lui donner un rôle d'expert pédagogique avec une compétence spécifique par rapport à la demande
+22/07/2024, 20:56 - +33 7 81 77 51 50: Merci pour l'astuce, je vais essayer
+22/07/2024, 20:58 - +33 6 77 41 62 09: Bonsoir, je te conseille de lui transmettre les documents un à un en écrivant « peux-tu me faire une synthèse de ce document, relève les éléments importants, puis dis lui que pour le projet tu vas lui envoyer d’autres documents et de te prévenir dès qu’il est prêt à les recevoir. Ainsi de suite, de manière à ce qu’il les assimiles correctement
+22/07/2024, 21:03 - +33 7 81 77 51 50: Donc si j'ai bien compris :
+Je lui affecte un rôle
+Lui donne les documents un par un en lui demander de synthétiser....etc
+Lui expliquer le contexte et voir s'il a compris
+Lui demander un plan

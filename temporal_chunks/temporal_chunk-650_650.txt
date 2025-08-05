@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 20
+
+=== CONTENU ===
+17/06/2024, 14:10 - ‎+33 6 67 81 59 56 a demandé à rejoindre le groupe.
+17/06/2024, 14:12 - ‎+33 6 67 81 59 56 a rejoint le groupe à partir de la communauté.
+17/06/2024, 14:12 - ‎+33 6 40 64 78 69 a rejoint le groupe à partir de la communauté.
+17/06/2024, 14:23 - ‎+33 6 07 16 70 19 a demandé à rejoindre le groupe.
+17/06/2024, 14:23 - ‎+33 6 07 16 70 19 a demandé à rejoindre le groupe.
+17/06/2024, 14:48 - ‎+33 6 37 67 45 67 a demandé à rejoindre le groupe.
+17/06/2024, 14:49 - ‎+33 6 66 56 87 96 a demandé à rejoindre le groupe.
+17/06/2024, 16:40 - +33 6 49 25 14 53: <Médias omis>
+17/06/2024, 16:42 - Karim BS: Salut Thomas,
+Avec la version gratuite tu as un accès limité …
+Tu dois attendre le renouvellement de tes « crédits », j’ignore si cela se fait dès minuit passé ou après une période de 24 heures?
+Quelqu’un pour infirmer/confirmer mes dires?
+17/06/2024, 16:43 - +33 6 49 25 14 53: Salut Karim, merci pour l’info ! J’ai en effet utilisé tous mes crédits mais c’était la semaine dernière, je n’ai pas utilisé ChatGPT depuis 48h+
+17/06/2024, 16:44 - +32 498 78 46 36: Pour l'affiche des gpts dans le menu de gauche j'ai parfois cela avec la version payante, un ou deux refresh et souvent ça rentre dans l'ordre
+17/06/2024, 16:45 - +32 498 78 46 36: Pas 24h normalement
+17/06/2024, 16:45 - +33 6 62 95 45 08: Ouii effectivement, il faut attendre le renouvellement de notre crédit. Pour ma part, se sont quelques heures d’attentes, mais non 24h.
+17/06/2024, 16:46 - +33 6 49 25 14 53: <Médias omis>
+17/06/2024, 17:00 - +33 6 49 25 14 53: Bon – après création d’un nouveau compte tout est revenu dans l’ordre. J’ai à nouveau accès aux GPTs et à ChatGPT 4-o sur mon nouveau profil. Curieux ! 🤨
+17/06/2024, 19:25 - +41 79 326 51 40: Bonjour, je souhaiterais préparer, pour la prochaine année scolaire, une séquence pédagogique dédiée à l'ia pour des étudiants du lycée (informatique comme discipline obligatoire, donc abordable quelle que soit la section choisie).
+J'aurais 2 questions à vous soumettre :

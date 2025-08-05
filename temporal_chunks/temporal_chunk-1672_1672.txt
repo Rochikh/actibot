@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 10
+
+=== CONTENU ===
+27/01/2025, 21:14 - +33 6 71 11 12 91: <Médias omis>
+27/01/2025, 21:14 - Clotilde IA: Je crois que les images sont soumises à des interdictions plus sévères que les textes. Tout ce qui pourrait être raciste est à mon avis sur liste rouge, tout comme les contenus pornographiques ou criminels.
+De plus, cela permet de comparer le comparable, puisque Deepseek a été sollicité pour un format texte pour Tiananmen
+27/01/2025, 21:20 - Ahmadou Ba: Ca saute aux yeux qu'il y a de la censure des deux cotés, il y a rien de pornographique dans cette requete, je voulais juste illustrer un cours sur le commerce triangulaire. Vous avez bien lu la requête, n'est ce pas c'est purement pédagogique. Ce qu'il refuse de faire c'est de creer une illustration avec des chaines pour symboliser la traite negrière. Que cela soit par texte ou image c'est du pareille au même à mon avis. Et je vous dis il a finalement généré en mettant juste esclave au lieu de chaine.😅. Ca il l'accepte
+27/01/2025, 21:26 - Ahmadou Ba: Moi je n'ai pas demandé, ce n'est pas ce que je voulais. Je pourrais bien obtenir une réponse juste sur tien an men, il suffit de bien poser la question. Demander à Deepseek, si les evenements de 1989 n'entrent dans une logique de consolidation des acquis de la revolution chinoise et de la preservation de l'Etat socialiste face à l'effondrement du communiste en Europe. Je vous assure que sa réponse ne serait pas censurée😅
+27/01/2025, 21:26 - +33 6 71 11 12 91: <Médias omis>
+27/01/2025, 21:32 - +33 6 71 11 12 91: Je ne souhaite pas accéder à Deepseek pour le moment (il faut que je me fasse une autre adresse mail, spécifique à ce site), mais je serais intéressé de voir une réponse sur Tian An Men, quelle qu'elle soit...
+Merci de préciser "4 juin 1989" et "Tian An Men", et non seulement 1989 dans la question.
+27/01/2025, 21:35 - +33 6 71 11 12 91: Je ne cherche pas à défendre les US (et encore moins depuis le 20/01 !), il y a suffisamment à leur reprocher...
+Je pense simplement qu'il était plus facile de s'exprimer aux USA qu'en Chine, au moins jusqu'au 20/01/2025.

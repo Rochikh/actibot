@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 9
+
+=== CONTENU ===
+17/11/2024, 15:42 - Votre code de sécurité avec +212 771-103991 a changé. Appuyez pour en savoir plus.
+17/11/2024, 16:43 - ‎+51 994 748 708 a demandé à rejoindre le groupe.
+17/11/2024, 16:59 - Jean-Marc Everard: L’UCLouvain vient de sortir les résultats d’un groupe de travail sur l’Utilisation responsable de l’Intelligence Artificielle générative. C’est en OER : https://lnkd.in/e3vhrKWS. Cela couvre selon moi beaucoup de points. Tout ça me renforce dans la nécessité de créer des RAG en local sur des machines déjà utilisées pour d’autres tâches par ailleurs. Mais bon, je n’y suis pas encore. D’autre part, la nécessité de formation, sensibilisations réflexions etc. est toujours plus criante. La question qui reste, qui est le même que celle qui concerne le dérèglement climatique etc… comment toucher et convaincre ceux qui utilisent l’IA générative en n’ayant aucune envie de même ne fut-ce que penser à tous ces aspects. Il s’agit de développer l’esprit critique et l’inclusion numérique de façon très large dans la population.
+17/11/2024, 17:03 - Clément Cahagne: Bonjour tout le monde !
+Je vous partage ici un nouveau GPTs d’aide au prompting, qui vise à accompagner les utilisateurs dans la rédaction de prompts ACTIF (framework Action Contexte Tonalité Identité Format). J’utilise ce framework dans mes formations, et j’ai tâché de le rendre didactique via une méthode dite indirecte : il questionne l’utilisateur sur ces 5 éléments afin d’aboutir à quelque chose de pertinent. La seconde fonctionnalité m’aide dans mes corrections : il transforme un prompt qui n’est pas ACTIF en prompt ACTIF en se basant sur le prompt « mal rédigé » de l’utilisateur et une base de connaissance sur le framework.
+Preneur de vos retours !
+https://chatgpt.com/g/g-lmBiwaQlL-generateur-de-prompt-actif
+17/11/2024, 17:13 - ‎+51 994 748 708 a rejoint ce groupe grâce à son lien d’invitation
+17/11/2024, 17:17 - Rochane: Je viens de le tester pour me réaliser un prompt pour la création d'un cours à distance. Après 7 ou 8 questions pertinentes, il m'a généré un superbe prompt bien structuré.

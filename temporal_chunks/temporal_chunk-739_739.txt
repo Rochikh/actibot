@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 13
+
+=== CONTENU ===
+23/07/2024, 05:52 - Votre code de sécurité avec ~ Alban a changé. Appuyez pour en savoir plus.
+23/07/2024, 09:50 - Jean-Marc Everard: En effet ! L’astuce proposée par Rochane devrait également donner de très bons résultats. Si on veut un contenu qui sorte un peu du lot, il faut aussi demander à ChatGPT ou m’UA utilisée d’être créative et innovante, probablement à chaque itération. Mais du coup il faut bien recardées par la suite car il peut se montrer « trop » créatif 😉.
+23/07/2024, 10:30 - Nadia ER-RAJI: Bonjour à tous
+Oui pour permettre à ChatGPT d'être créatif. Il y'a une astuce qui consiste également à  indiquer la température, paramètre dispo sur la version payante. Entre 0,7 et 1, vos réponses seront plus imprévisibles et créatives. Ce qui veut dire  que le modèle à plus de liberté de choisir des mots moins courants ou des associations plus inhabituelles. A tester...
+23/07/2024, 10:34 - Rochane: Il me semblait que l'on pouvait le faire uniquement sur le playground, non?
+23/07/2024, 10:53 - +33 6 40 65 69 66: Interessantes conclusions du Prof. Rotillon sur la difficulté des Humains à penser par eux-mêmes et l’absence d’esprit critique même à Bac +5.
+https://www.xerficanal.com/economie/emission/Gilles-Rotillon-Chat-GPT-ne-fait-que-refleter-a-pensee-dominante-meme-sur-l-environnement_3752892.html?utm_source=sendinblue&utm_campaign=&utm_medium=email
+23/07/2024, 14:17 - Aïcha Elouali: Vaste débat…
+23/07/2024, 15:12 - ‎Batier Christophe a demandé à rejoindre le groupe.
+23/07/2024, 16:08 - ‎Batier Christophe a rejoint le groupe à partir de la communauté.
+23/07/2024, 16:20 - Francois Bocquet: Bienvenue à Christophe Batier !
+23/07/2024, 17:24 - Pierrick: Bienvenu Christophe bcp d’informations pertinentes et récentes ici qui croisent le travail AI4T merci a Rochane !!!👍
+23/07/2024, 19:33 - Rochane: J'espère que toutes les écoles et universités organiseront des ateliers d'esprit critique. Cet exercice renforce les compétences analytiques, améliore la compréhension des limites de l'IA, et encourage son utilisation comme outil complémentaire plutôt que comme source unique d'information....

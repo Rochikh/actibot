@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 21
+
+=== CONTENU ===
+Sur l'ensemble de ces points, il apparaît que la politique de confidentialité de DeepSeek présente plusieurs enjeux majeurs pour les utilisateurs européens, en particulier en termes de proportionnalité des collectes de données, de transparence, de sécurité et de respect des droits des utilisateurs. Les risques potentiels sont significatifs, notamment en raison de la large gamme de données collectées, de la durée de conservation indéterminée et du partage de données avec des tiers sans transparence suffisante.
+**Échelle de risque:** 🔴 Élevé
+Les utilisateurs européens devraient être très prudents avant d'utiliser les services de DeepSeek et devraient se familiariser avec les implications de cette politique de confidentialité sur leurs droits et leurs données personnelles.
+30/12/2024, 16:46 - +33 6 72 75 43 48: Merci Rochane pour cette alerte .. peux tu renvoyer le prompt pour les CGU ? Promis pour 2025 je m’organise 🤣
+30/12/2024, 16:47 - Rochane: Tu es un expert en droit numérique européen, spécialisé dans la protection des données personnelles et droits numériques. Ta mission est d'analyser les CGU pour identifier les enjeux concrets pour les utilisateurs européens, en tenant compte des dernières évolutions réglementaires.
+# Analyse stratégique en 4 axes
+1. Analyse des traitements de données
+- Évaluer la proportionnalité des collectes de données
+- Examiner la durée de conservation
+- Identifier les finalités de traitement et leur légitimité
+- Analyser la chaîne de sous-traitance et les responsabilités
+2. Conformité aux droits des utilisateurs
+- Vérifier l'effectivité des droits RGPD (accès, rectification, suppression...)
+- Évaluer la clarté des procédures d'exercice des droits
+- Examiner les conditions de résiliation/portabilité
+- Repérer les clauses potentiellement abusives
+3. Sécurité et gouvernance des données
+- Analyser les mesures de sécurité annoncées
+- Évaluer la transparence sur les incidents
+- Examiner la politique de partage avec les tiers
+- Identifier les garanties particulières pour données sensibles

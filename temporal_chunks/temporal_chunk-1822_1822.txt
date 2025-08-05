@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 16
+
+=== CONTENU ===
+24/02/2025, 21:54 - Adrien Bock IA: C’est pour « lire le texte «  ( ce qui nécessite la vision ) ou « rédiger le texte » ?
+24/02/2025, 21:55 - Jean-Marc Everard: Rédiger le texte ici. Ce que n’importe quelle llm peut faire mais ce serait qqch de plus spécialisé dans une écriture de qualité
+24/02/2025, 21:55 - Adrien Bock IA: En français ?
+24/02/2025, 21:56 - Jean-Marc Everard: Oui, et néerlandais si possible
+24/02/2025, 21:59 - +41 79 258 90 36: ChatGPT propose Jasper AI, Writesonic, Scolarius, TextHelp, ClearText, Grammarly, Hemingway Editor et Antidote. Chacune ayant ses spécialités.
+24/02/2025, 21:59 - Adrien Bock IA: en français, Mistral étant entrainé sur une base de données francophone, il est vivement conseillé. Quand on demande à des professionnels du drtoit, ils utilisent largement plus Mistral et honissent chatgpt ( dont la base de données est américaine)
+24/02/2025, 22:02 - Jean-Marc Everard: Ok, merci beaucoup. Je pense que Claude même si américain et plutôt pas mal non plus. Je pensais qu’il y avait peut être des applications avec des modèles déjà customisés mais c’est vrai qu’on leur le faire soi-même ! Merci 🙏
+24/02/2025, 22:03 - Adrien Bock IA: La base de données de Claude reste US
+Je n’ai d’ailleurs jamais compris pourquoi cette IA écrit « bien »
+Mais compare avec Mistral… le language soutenu de Mistral est assez « unique »
+Et en variétés linguistiques ( du meilleur au pire), le Grok est assez fou car il est débridé
+24/02/2025, 22:05 - Jean-Marc Everard: Ok. Et j’aime bien mistral de toute façon. 👍🏻. Grok j’avoue que je m’en méfie un peu mais plutôt à cause de l’homme qui est derrière…
+24/02/2025, 22:10 - Adrien Bock IA: Teste le style et pousse le dans ses retranchements… c’est bcp moins rigide que chatgpt
+24/02/2025, 22:58 - +33 7 88 34 34 08: Ce message a été supprimé.
+25/02/2025, 05:52 - Votre code de sécurité avec ~ frederique a changé. Appuyez pour en savoir plus.
+25/02/2025, 06:59 - Jean-Marc Everard: Ok merci du conseil. De toute façon c’est toujours un aller-retour IA-humain.

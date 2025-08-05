@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 16
+
+=== CONTENU ===
+21/04/2025, 18:26 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+22/04/2025, 08:21 - ‎+32 485 04 15 31 est parti·e
+22/04/2025, 07:34 - +32 498 78 46 36: Bonjour,
+Connaissez-vous des outils IA pour faire des bots avec fichiers dans des bases de connaissance autre que les GPT et POE ? 🙄 J'essaie de trouver un outil gratuit qui ferait ça, sans limitation d'interactions mais je sèche... à nouveau 😁
+22/04/2025, 08:03 - +33 6 31 69 61 40: J'avais tenté de tester meetcody.ai à un moment 😉, ça me semblait adapté pour une base de connaissances interne mais j'ai lâché car j'avais l'impression que c'était pas simple d'utilisation.
+Je suis aussi preneuse d'autres outils similaires 😁
+22/04/2025, 08:12 - +225 08 64 97 90: Hello, je suis sur le projet actuellement de mettre en place une IA spécialisés dans l'exploration des données d'une base de données d'entreprise au format postgresql avec openchat. Il y a t il quelqu'un qui aurait de la ressources sur ce sujet ?
+22/04/2025, 09:31 - Rochane: Il existe en ligne des plateformes auxquelles tu peux t'adresser en langage naturel comme **Multi-Agent Postgres Data Analytics**, qui permet de poser des questions à une base de données PostgreSQL. **OpenChat AI** est également une plateforme utile pour créer des chatbots spécialisés dans l'analyse de données
+22/04/2025, 09:53 - +225 08 64 97 90: Sisi, je cherche de la documentation sur le sujet. Je suis Data Engineer et je cherche à mettre en place une plate-forme de ce type.
+22/04/2025, 09:54 - +225 08 64 97 90: Afin de faire des analyses sur des bases de données Odoo ERP (des bases PGSQL)
+22/04/2025, 10:04 - Votre code de sécurité avec ~ Eleonore a changé. Appuyez pour en savoir plus.

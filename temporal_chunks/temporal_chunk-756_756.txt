@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 21
+
+=== CONTENU ===
+27/07/2024, 21:56 - ‎~ Ouarda- وردة‎ a été ajouté·e
+27/07/2024, 21:56 - ‎+33 6 99 30 71 44 a rejoint le groupe grâce à votre invitation
+27/07/2024, 22:36 - ‎Denis a été ajouté·e
+27/07/2024, 22:35 - ‎Denis a rejoint le groupe grâce à votre invitation
+28/07/2024, 09:14 - Votre code de sécurité avec ~ Ouarda- وردة‎ a changé. Appuyez pour en savoir plus.
+28/07/2024, 13:14 - ‎+32 479 78 14 48 a été ajouté·e
+28/07/2024, 13:14 - ‎+32 479 78 14 48 a rejoint le groupe grâce à votre invitation
+28/07/2024, 15:34 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+28/07/2024, 17:44 - Votre code de sécurité avec +33 6 23 84 29 25 a changé. Appuyez pour en savoir plus.
+28/07/2024, 18:11 - Votre code de sécurité avec +212 634-169534 a changé. Appuyez pour en savoir plus.
+28/07/2024, 20:13 - Rochane: Extrait d'une newsletter
+❝
+*Est-ce que ChatGPT personnalise ses réponses en fonction de ce qu'il a "appris" de nous lors de nos échanges précédents ?*"
+La réponse est *NON*
+aucun intérêt à “dire” quelque chose à un modèle pour l’”entraîner” pour tes conversations futures. Rien ne t’empêche de le faire mais c’est juste une perte de temps.
+les modèles de langage n’ont pas de mémoire ou alors très très courte : la conversation en cours.
+et encore, plus celle-ci est longue, plus le risque d’oubli est important. Attention quand tu copies/colles de longs documents.
+28/07/2024, 20:16 - +33 6 77 84 11 24: Si je ne m'abuse on peut activer ce paramètre de mémorisation dans chatGpt non ?
+28/07/2024, 20:20 - Rochane: La fonction mémoire existe effectivement dans les plans teams pour l'instant et elle permet mémoriser les informations que tu lui demandes de faire. Dans d'autres conversations, elle tient compte effectivement de ces passages qui sont d'ailleurs accessibles dans les paramètres 🙂
+28/07/2024, 20:22 - Vincent DROUOT: Oui tout à fait ✅ elle est même accessible pour la version payante ChatGPT Plus à 20$ (pas que la version Team)🙏
+28/07/2024, 20:22 - Vincent DROUOT: <Médias omis>

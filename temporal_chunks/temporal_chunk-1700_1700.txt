@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 13
+
+=== CONTENU ===
+02/02/2025, 08:57 - +41 76 372 28 94: A mon avis 64Gb serait probablement mieux, car tu ne peux partager toute la RAM avec les GPU et avec 48Gb tu ne peux pas allouer 40Gb aux GPU, or, lorsque je fais tourner DeepSeek-R1-Distill-Llama-70B-Q4_0-GGUF sur mon ordi, il a besoin de 40Gb de RAM à lui tout seul. Sinon les CPUs ne sont pas sollicités lors de l’inférence : avec l’application LM Studio c’est bel bien les GPU qui sont sollicités et non les ANE (Apple Neural Engines = NPU), contrairement à ce que je pensais. Il semblerait que Core ML soit du coup mieux programmé, mais je n’ai pas encore pris le temps de l’essayer.
+02/02/2025, 10:14 - +33 6 28 55 82 18: En résumé pour faire tourner une IA en interne il lui faut une machine avec un processeur moyen, beaucoup de ram et une grosse carte graphique (Nvidia c’est plus efficace)
+On est donc sur un pc sur mesure
+02/02/2025, 11:16 - +33 6 71 11 12 91: +
+02/02/2025, 11:46 - Adrien Bock IA: je cherche à diversifier mes sources d’informations pour une formation IA/IAG à destination des inspecteurs pédagogiques
+que me conseillez-vous ?
+Merci d’avance !
+02/02/2025, 11:46 - +41 76 372 28 94: Ça tourne sur un ordi portable : les Mac Mini M4 Pro sont donc suffisant (et on trouve des Mac Studio M2 Ultra d’occasion parfaitement adaptés également). Dans tous les cas il faut casser sa tirelire 😀La solution la plus économique étant encore d’utiliser une clé API et les serveurs d’OpenAI ou d’Anthropic, qui garantissent dans ce cas de ne pas utiliser vos données pour l’entrainement des nouveaux modèles (vos données sont stockées 30 jours maxi sur leurs serveurs).
+02/02/2025, 15:05 - +32 479 56 05 93: Bonjour, jeudi au webinaire une personne a parlé d'une  conférence sur l'apprentissage des langues et l IA
+02/02/2025, 17:09 - Rochane: Une conférence et des ateliers que j'ai animés lors d'un rassemblement d'inspecteurs en Belgique.
+Voici les contenus 😉
+bit.ly/cfipIA
+02/02/2025, 17:28 - Mickaël: Et rien sur l'éducation, ni sur l'enseignement... 🤬

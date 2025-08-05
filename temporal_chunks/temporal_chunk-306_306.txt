@@ -1,0 +1,37 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 593
+Messages: 29
+
+=== CONTENU ===
+18/03/2024, 20:41 - Rochane: GPt whimesical
+18/03/2024, 20:42 - Yvelines: Xmind ai ou chatmind qui peut être exporté sur le logiciel gratuit xmind
+18/03/2024, 20:43 - Ahmadou Ba: Merci bcp
+18/03/2024, 20:43 - +33 6 51 43 08 14: Bonsoir. Avec des collègues nous devons réaliser des focus groupes avec des élèves sur un projet de recherche. Nous devons transcrire les échanges mais nous ne pouvons pas filmer. Une IA qui nous permettrait de transcrire en fonction des registres de la voix seulement à partir des enregistrements audio pour savoir quel interlocuteur a dit quoi ?
+18/03/2024, 20:44 - +33 6 51 43 08 14: Merci pour votre retour
+18/03/2024, 21:21 - +33 6 19 29 82 01: Chatgpt en markdown puis tu copies dans markmap
+18/03/2024, 21:25 - Rochane: Ce que j'ai pu trouver avec Perplexity:                       Vook.ai
+Transcription rapide et précise grâce à l'IA
+Différenciation automatique des voix/intervenants
+Prise en charge de 6 langues dont le français
+Tarifs à partir de 3€/heure d'audio
+Amberscript
+Transcription avec séparation des intervenants
+Édition collaborative des transcriptions
+Prise en charge de nombreuses langues
+Tarifs à partir de 0,10€/minute
+Sonix
+Diarisation audio incluse
+Transcription multilingue
+Nombreux formats d'export (txt, pdf, srt, etc.)
+Tarifs à partir de 10$/heure
+Services de transcription en ligne
+Certains services en ligne proposent également la transcription avec diarisation, comme :
+Rev.com
+Transcriptions manuelles ou automatiques
+Diarisation incluse pour identifier les intervenants
+Prise en charge de plus de 30 langues
+Tarifs à partir de 0,25$/minute pour la transcription automatique
+18/03/2024, 21:28 - +33 6 69 92 67 77: Question qui préoccupe du monde actuellement. J ai effectué des tests . Trois textes écrits en 1995, 1999 et 2005 les trois comportent des passages écrits par de l’AI!! Ensuite j’ai testé des consignes écrites par des enseignants dans 60% une partie était généré par de l’AI alors que ce n’était pas le cas. Chatgpt par exemple peut être utilisé pour savoir si le texte est compréhensible. Lui demander si telle partie est suffisamment clair…Ensuite reformuler , de se réapproprier les idées. J ai testé les logiciels pour détecter mes propres écrits gptzero détecte aucun plagiat alors pour d’autre outils je suis à 78% écrit par un humain. Alors que j’ai écrit sans AI.

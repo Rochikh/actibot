@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 15
+
+=== CONTENU ===
+22/08/2024, 16:24 - +32 479 94 80 38: Super, merci ! Donc ici les données sont safe ?
+22/08/2024, 16:45 - Ahmadou Ba: Ah si l'on peut faire confiance à openAi qui nous assure que nos données ne seront pas utilisées pour entrainer leurs modèles. Oui on peut dire que c safe mais on ne peut rien garantir les IA ne sont pas transparentes dans ce domaine et dans bien des cas aussi.
+22/08/2024, 16:49 - ‎+33 6 33 75 30 50 a rejoint ce groupe grâce à son lien d’invitation
+22/08/2024, 19:15 - Rochane: https://about.ideogram.ai/2.0
+Nouveau Ideogram 2.0 avec un modèle amélioré et de nouveaux styles d'image, un contrôle des couleurs, une application iOS et une API. Il excelle dans le rendu du texte, le réalisme et la cohérence des images, tout en proposant une recherche d'images générées.
+22/08/2024, 22:22 - +237 6 56 90 71 30: Le logiciel *Nvivo* dans sa version 15 intègre l'IA.
+Il y a la possibilité de solliciter 15 jours d'essai gratuit.
+22/08/2024, 22:25 - ‎+212 656-392694 est parti·e
+23/08/2024, 06:59 - Rochane: Cognition et surtout Éthique : voilà les deux mamelles du monde à venir.
+Il est dit et redit que l’IA va faire disparaître des métiers mais que d’autres vont émerger, des métiers nouveaux, tout basés sur la maîtrise de la programmation et donc nécessitant des capacités cognitives nouvelles.
+J’éprouve quant à cela une vraie inquiétude sur la capacité des générations à venir à franchir le gap.
+Quand je lis cet article sur la retouche d’image possible à tout un chacun, mon inquiétude grandit. Ceux qui auront cette techno dans leur poche sauront-ils tous en capacité d’en mesurer l’impact ?
+Et du coup j’en arrive à l’éthique : il va nous falloir lever une armée de pédagogues….
+23/08/2024, 06:59 - Rochane: https://www.lemonde.fr/pixels/article/2024/08/22/la-retouche-de-photos-par-ia-du-google-pixel-9-impressionne-et-inquiete_6290385_4408996.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default
+23/08/2024, 10:09 - +33 7 66 54 11 11: Il est clair qu'il faut s'y retrouver dans cette pléthore d'outils avec des usages dans tous les sens.

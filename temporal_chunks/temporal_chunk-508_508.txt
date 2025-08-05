@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 16
+
+=== CONTENU ===
+13/05/2024, 20:49 - +33 6 75 41 23 05: Dall-e3 dans la version gratuite ou pas ?
+13/05/2024, 20:49 - Rochane: Vous avez supprimé ce message
+13/05/2024, 20:55 - Rochane: Mais il me semble que dans Copilot de Microsoft, oui
+13/05/2024, 21:20 - +33 6 76 04 48 20: Il y aura sûrement des avantages à avoir la version payante, mais dans un premier temps je pense qu’un des intérêts majeurs à cette gratuité réside dans la vulgarisation de l’outil et par voie de conséquence le fait que nous éduquions l’IA d’Open AI à pas de géants (il ne faut pas oublier leur course contre la montre et surtout contre Google)
+13/05/2024, 21:24 - Rochane: À l'instant, pour ceux qui ont la version payante, on a accès à gpt 4o sans vpn. Pareil pour l'App 🙂 <Ce message a été modifié>
+13/05/2024, 21:38 - Rochane: Incroyable, le 4o gratuit est connecté à internet, il permet d'uploader des fichiers et a accès au store des GPTs <Ce message a été modifié>
+13/05/2024, 21:43 - +33 6 58 12 88 07: Idem de mon côté. Par contre l interaction par la voix naturelle ne fonctionne pas encore pour moi .
+13/05/2024, 21:43 - Rochane: exact, moi non plus
+13/05/2024, 21:45 - Vincent DROUOT: Ce message a été supprimé.
+13/05/2024, 21:48 - +33 6 75 41 23 05: « Système en surcharge » pour l’instant
+13/05/2024, 21:51 - Yvelines: On vient de le tester à l'oral pour un dialecte marocain (darija). On obtient un résultat en arabe, mais certaines phrases sont totalement en darija. Le résultat est nettement supérieur à ce qu'on obtenait précédemment 🤩
+13/05/2024, 21:52 - Rochane: et tu l'as en temps réel comme la démo de la conf ?
+13/05/2024, 21:52 - Yvelines: Oui, oui, via l'application comme dans la démo
+13/05/2024, 21:53 - Yvelines: Nope! Il y a toujours le délai! Je viens de vérifier la vidéo
+13/05/2024, 22:01 - Yvelines: C'est bizarre parce que les fonctionnalités et performances sont élargies mais ce n'est pas en temps réel 🤔
+13/05/2024, 22:02 - Rochane: oui Ludo est en train de faire les tests en direct https://www.youtube.com/watch?v=EkkzBPsVeZU

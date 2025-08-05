@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 24
+
+=== CONTENU ===
+#tâche
+Génèrer 10 questions pour une enquête sur les rapport que les adolescents ont avec l’IA.
+#Contraintes
+Les élèves entre en seconde dans l’enseignement français.
+L’objectif est d’obtenir des données sur leur utilisation  des IA génératives dans leurs usages scolaires et personnels.
+L’objectif est aussi d’obtenir des données sur leur avis subjectif concernant la pertinence de l’IA générative
+#Algorithme
+1.Génère ces 10 questions.
+2.Evalue les en terme de pertinence et d’intérêt en leur donnant une note sur 10.
+3.Améliore les jusqu’à obtenir une liste de 10 questions avec des scores minimum de 9/10
+A tester
+05/05/2025, 12:01 - +32 475 86 01 57: Après, ça dépend du modèle de langage utilisé…
+(Et y a surement des choses à améliorer pour que ça corresponde plus à tes besoins)
+05/05/2025, 12:10 - +33 6 62 05 94 71: ok, merci, je vais tester
+05/05/2025, 13:08 - Votre code de sécurité avec ~ Nabil Gasmi a changé. Appuyez pour en savoir plus.
+05/05/2025, 13:40 - Votre code de sécurité avec ~ Nabil Gasmi a changé. Appuyez pour en savoir plus.
+05/05/2025, 14:09 - +33 6 72 75 43 48: Bonjour quel outil recommandez vous pour détecter les contenus générés par les IA ?
+05/05/2025, 15:14 - +32 475 86 01 57: Un dé à 6 faces... ou une pièce de monnaie.
+Les détecteurs d IA sont, pour l instant, des parasites numériques... Le hasard est meilleur qu eux.
+Sans deconner: aucun.
+05/05/2025, 15:15 - +33 6 72 75 43 48: Ok merci Antonin
+05/05/2025, 16:00 - Sébastien Place: Certains indices peuvent éveiller un soupçon (notamment sur les modèles GenAI américains) mais ils ne sont pas fiables pour établir un usage clair et précis de l'IA générative : utilisation de l'espace insécable, tiret long (pas l'underscore) au lieu du tiret classique ... Mais c'est contournable quand les utilisateurs sont au courant et vigilants (en évitant le pur et bête copier-coller).
+05/05/2025, 16:23 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+05/05/2025, 16:31 - +32 498 78 46 36: Sur un document avec titre, sous-titres ... l'IA Gen (surtout ChatGPT, Gemini et Claude) met trop souvent des majuscules partout. Ex:

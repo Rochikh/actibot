@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 606
+Messages: 6
+
+=== CONTENU ===
+1. ChatGPT Edu : ChatGPT Edu est une version de ChatGPT développée spécifiquement pour les étudiants, les enseignants et les chercheurs universitaires [[1]](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html). Elle offre un accès à GPT-4o, le dernier modèle de langage développé par OpenAI. Ce modèle est considérablement amélioré par rapport aux versions précédentes, notamment en ce qui concerne l'interprétation du texte, la programmation, les mathématiques, l'analyse de jeux de données et l'accès à Internet.
+2. Limites de messages : ChatGPT Edu offre des limites de messages plus élevées que la version gratuite de ChatGPT [[1]](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html). Cela permet aux utilisateurs universitaires d'interagir plus fréquemment avec le modèle et d'obtenir des réponses plus détaillées.
+3. Personnalisation : Les universités peuvent créer des versions personnalisées de ChatGPT, appelées GPTs, en utilisant leurs propres données [[1]](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html). Ces versions personnalisées peuvent être partagées au sein des espaces de travail universitaires, ce qui permet une utilisation plus spécifique et adaptée aux besoins de chaque établissement.
+4. Utilisation des données : OpenAI assure que les conversations et les données provenant de ChatGPT Edu ne seront pas utilisées pour entraîner les modèles d'OpenAI [[1]](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html). Cela garantit la confidentialité des échanges et des informations partagées dans le cadre de l'utilisation de ChatGPT Edu.
+5. Utilisation dans l'enseignement et la recherche : Plusieurs universités, dont Wharton, l'Arizona State University et Columbia, ont déjà expérimenté l'utilisation de ChatGPT Enterprise dans leurs programmes d'enseignement et de recherche [[1]](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html). Par exemple, des étudiants en MBA à Wharton ont utilisé un GPT entraîné sur des documents de cours pour leurs travaux de réflexion finaux, tandis que l'Arizona State University a utilisé des GPTs personnalisés pour des conversations en allemand avec des étudiants apprenant la langue.
+Sources :

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 17
+
+=== CONTENU ===
+15/06/2024, 09:03 - ‎+33 6 08 03 60 50 a rejoint le groupe à partir de la communauté.
+15/06/2024, 09:03 - ‎+33 6 85 03 31 84 a rejoint le groupe à partir de la communauté.
+15/06/2024, 11:54 - ‎+33 6 68 25 80 60 a demandé à rejoindre le groupe.
+15/06/2024, 15:59 - ‎+33 7 81 77 51 50 a demandé à rejoindre le groupe.
+15/06/2024, 21:41 - +33 6 42 26 64 70: Bonjour à toutes et tous, dans la dernière visio, une carte mentale sur IA et RGPD extrêmement complète et précise est utilisée (d’ailleurs un grand bravo au concepteur et présentateur, c’est du super boulot). Serait-il possible d’en obtenir le lien ou une copie ? En vous remerciant 🙏
+15/06/2024, 21:47 - LIO: <Médias omis>
+15/06/2024, 21:48 - ‎+33 7 81 77 51 50 a rejoint le groupe à partir de la communauté.
+15/06/2024, 21:48 - ‎+33 6 68 25 80 60 a rejoint ce groupe grâce à son lien d’invitation
+15/06/2024, 21:49 - +33 7 81 10 74 61: 👍🏻🙏🏻
+15/06/2024, 21:49 - Francois Bocquet: https://mm.tt/app/map/3291537686?t=ksXxAkfOEC
+15/06/2024, 21:50 - Francois Bocquet: Librement duplicable et modifiable
+15/06/2024, 21:50 - Francois Bocquet: Je peux aussi faire des ajouts si souhaité
+15/06/2024, 22:04 - Yvelines: Top, merci!
+15/06/2024, 22:06 - +33 6 88 57 53 04: Super ressource, merci François.
+On gagnerait à l'afficher davantage dans les écoles et eple (avec un accompagnement des collègues de la communauté éducative, pas que prof)
+15/06/2024, 22:07 - +33 6 72 75 43 48: Merci beaucoup mais je n’arrive pas à l’ouvrir 😉il me demande de mettre à jour mon navigateur ?
+15/06/2024, 22:11 - Francois Bocquet: Le gros soucis c’est que la responsabilité de respecter le RGPD n’incombe pas aux enseignants mais aux seuls chefs d’établissement ou aux DASEN pour le primaire (même pas les IEN).  La seule chose à indiquer aux enseignants c’est de vérifier que le traitement qu’ils souhaitent mettre en œuvre est possible c’est à dire soit il est inscrit au registre des traitements (on peut le consulter) soit il n’y a pas de données à caractère personnel (par anonymisation par regroupement d’utilisateurs ou utilisation d’un proxy).

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 14
+
+=== CONTENU ===
+c’est un sujet récurrent, les IAG peuvent expliquer certains concepts mais ne les comprennent absolument pas
+09/01/2025, 16:19 - +33 6 19 89 32 62: Je partage. Je suis polie pour conserver justement mon humanité. Mais c’est un sujet passionnant !
+09/01/2025, 17:19 - +33 6 62 83 20 00: impressionnant, à la vitesse ou cela évolue on n'aura plus bientôt besoin ni de formateurs ni de concepteurs de contenus, tu veux t'informer ou te former sur un sujet tu te mets juste devant un écran ou tu mets ton casque virtuel et tu embarques dans le monde de l'IA, tout le contenu sera construit à la volée et auto-adapté à la progression de l'apprenant.
+09/01/2025, 17:24 - +33 6 71 11 12 91: Ça, c'est la théorie.
+La différence entre la théorie et la pratique, c'est que en théorie, c'est la même chose, mais en pratique, non... 😉
+09/01/2025, 18:08 - ‎+44 7473 851271 est parti·e
+10/01/2025, 10:35 - Rochane: https://flint.podia.com/formation-ia-images-art-midjourney-flux-ideogram?coupon=IMAGES30ABONNESSERIEFINAL&utm_source=generationia.flint.media&utm_medium=newsletter&utm_campaign=decouvre-tout-ce-que-j-ai-appris-sur-la-generation-d-images-avec-l-ia&_bhlid=2c43355f5654be341168428af3fe4631c7b294ff
+Formation pour créer des images avec l'IA proposée par l'excellent Benoît Raphaël
+10/01/2025, 11:15 - martinyemani IA: Bonjour à tous et toutes.
+Pouvez-vous m'indiquer des liens vidéos montrant un enseignant en situation de classe.
+La vidéo aura pour but d'analyser les pratiques de classe. Merci
+10/01/2025, 11:17 - Pierrick: Bonjour le centre Alain Savary à bcp de ressources de ce type  :  https://centre-alain-savary.ens-lyon.fr/CAS/thematiques/LECTURE-ECRITURE/pp-comprehension/canevas-denseignement-visibileo/videos-de-classe
+10/01/2025, 14:46 - +44 7776 747507: @15144328040, @33688213252 et...J'ai trouvé cette étude: Large Language Models Understand and Can Be Enhanced by Emotional Stimuli  https://arxiv.org/pdf/2307.11760
+La question est peut-on considérer la politesse comme un 'emotional stimulus'? <Ce message a été modifié>

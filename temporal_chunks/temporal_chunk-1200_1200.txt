@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 583
+Messages: 9
+
+=== CONTENU ===
+07/11/2024, 19:24 - +33 6 71 11 12 91: Je suis quelque peu dubitatif sur cet article, qui dit d'une part "En fait, nous ne comprenons pas bien les processus de décision interne des grands modèles de langage." et ailleurs "En regardant dans les états internes des algorithmes, nous constatons qu’ils savent ce qui est vrai et qu’ils ont choisi de dire délibérément quelque chose de faux".
+On ne comprend pas mais on comprend tout, cela me rappelle la rhétorique de Trump, une référence dans la vérité scientifique (alternative)...
+Machiavel, je te vois ! 😂
+07/11/2024, 19:44 - ‎+33 6 82 82 74 21 a ajouté +33 7 57 02 28 21
+07/11/2024, 19:50 - Rochane: J'ai lu dans un autre article que les chercheurs combattent les mensonges des IA via la détection d'anomalies, l'explicabilité des systèmes, des tests rigoureux et un encadrement réglementaire strict des modèles à haut risque.
+07/11/2024, 20:31 - +41 76 372 28 94: J'avais entendu l'histoire de Cicéro et du jeu web Diplomatie dans la vidéo de Ego "l'horreur existentielle de l'usine à trombones" (à partir de la minute 24). C'est bluffant. Toute la vidéo d'ailleurs...
+08/11/2024, 06:26 - Jean-Marc Everard: C’est une super ressource, merci beaucoup !
+08/11/2024, 07:02 - +33 6 46 86 16 67: Merci à vous pour les pistes, je vais creuser mais oui clairement très dubitative aussi et même plutôt déçue de la revue qui pour cet article n’est pas dans l’explicable mais une espèce de croyance…. ? Un ressenti pas très clair c’est pourquoi j’avais besoin de partager et de vous lire :) merci !
+08/11/2024, 09:05 - Jean-Marc Everard: Bonjour, je trouve que l'article est globallement intéressant. La vidéo sur l'horreur existancielle de l'usine à trombonne est très bien aussi. Ce qui me frappe à ce stade, est que l'IA adopte des choix que l'on trouve constestables (même si les mêmes choix sont faits par des millions d'humains tous les jours) parce qu'on lui demande de performer, d'optimiser etc... Est-ce que ça n'interroge pas davantage sur les questions à poser à l'IA ou les demandes "raisonnables" à lui faire tout autant que sur les stratégies qu'elle adopte ? La vrai compétence du futur sera la capacité à problématiser correctement et à poser les bonnes questions. Dans 2001 l'Odyssée de l'espace, "HAL" dérape parce ce qu'il est soumi à une injonction paradoxale.

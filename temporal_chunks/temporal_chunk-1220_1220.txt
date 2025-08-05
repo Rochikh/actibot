@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 17
+
+=== CONTENU ===
+12/11/2024, 15:01 - +33 7 63 58 01 55: Ce message a été supprimé.
+12/11/2024, 15:03 - +33 6 26 19 30 26: Bonjour, j'ai une question concernant les voix IA : avez-vous des astuces pour générer des voix avec les bonnes intonations? merci!
+12/11/2024, 15:03 - +33 7 63 58 01 55: Ce message a été supprimé.
+12/11/2024, 15:07 - ‎+33 6 33 82 72 43 a demandé à rejoindre le groupe.
+12/11/2024, 15:20 - +33 7 86 61 52 66: Narakeet est bon ! 👍🏻
+12/11/2024, 15:31 - +33 6 19 75 63 49: Bonjour, avec LM notebook avez-vous fait d’autres formats que ce qui est proposé dans la page d’accueil? Je voudrais faire une synthèse de 6 documents (textes et vidéos) en les réorganisant plutôt qu’un résumé document par document, et quand je mets un prompt la réponse est complètement à côté (en podcast c’est bien mais ce n’est pas ce que je veux). Merci! <Ce message a été modifié>
+12/11/2024, 15:31 - ‎+33 6 33 82 72 43 a rejoint ce groupe grâce à son lien d’invitation
+12/11/2024, 15:32 - Rochane: Tu ne peux pas sélectionner les 6 sources simultanément avant ?
+12/11/2024, 15:39 - +33 6 19 75 63 49: Ah non c’est bon j’ai trouvé, merci! Il faut que je me penche sur les prompts pour LMnotebook en revanche, ses premiers jets à l’écrit ne sont pas terribles! Merci!
+12/11/2024, 15:56 - Jean-Marc Everard: Bonjour Leny, très bonne question et justement Grégoire nous en parlera dans le Live de ce soir, pour lequel je remettrai le lien dans cette discussion d'ici 2 heures environ. Stay Tuned 😉
+12/11/2024, 15:58 - martinyemani IA: You are welcome 🙂
+12/11/2024, 15:58 - +33 6 99 15 13 77: Ah merci Jean-Marc,
+Le live est donc vers 18h? (je dois prévoir)
+12/11/2024, 16:00 - Jean-Marc Everard: Ah non non, il est à 20 h, heure de Paris/Bruxelles (GMT+1) mais j'enverrai déjà un rappel, et puis encore juste avant démarrer
+12/11/2024, 16:01 - +33 6 99 15 13 77: Ah ok, effectivement il faut que je m'organise et quelle durée? (désolé..)
+12/11/2024, 16:01 - Jean-Marc Everard: 1h environ
+12/11/2024, 16:05 - +33 6 99 15 13 77: Ok très bien, merci Jean-Marc 😊

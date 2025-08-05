@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 12
+
+=== CONTENU ===
+03/01/2025, 16:18 - Clément Cahagne: Et encore merci Arnaud pour la mise en lumière de rdventerredigitale.com le podcast qui décrypte l'actualité des outils digitaux du monde de la formation !
+03/01/2025, 16:22 - Jacques BARATTI: Super merci, je teste et te fais un retour !
+03/01/2025, 17:02 - +213 661 96 97 18: Je viens d’essayer et les résultats sont interessants, j’ai même essayé avec une consigne en anglais mais le résultat était en français ( possibilité de traduction?)
+03/01/2025, 17:04 - Rochane: Demande-lui de te répondre en anglais ?
+03/01/2025, 17:10 - Jacques BARATTI: Bonjour Clément, je viens de tester ton GPT voici des premiers retours : 1. Il pose les bonnes questions à l'utilisateur ; 2. Les phrases données permettent de bien rédiger son propre prompt. J'ai été un peu surpris par la présence de 2 phases seulement (j'en attendais 5 !) mais les 2 phases incluent les 5 termes de la méthode ACTIF donc acte. Le prompt généré est long (avec des paragraphes) mais de qualité (j'ai pris une exemple que je connais bien pour avoir une base de comparaison). Il me donne dans la foulée le plan de cours (je ne l'avais pas demandé !) qui est aussi très bien. Donc globalement grosse satisfaction. Je sais qu'on peut diffuser librement le lien, merci à toi !  Jacques/Shi-Ka-She
+03/01/2025, 17:10 - +213 661 96 97 18: C’est ce que je viens de faire , parfait mais comment perfectionner les résultats de n posant une autre question sur le même projet ?
+03/01/2025, 17:47 - Clément Cahagne: J'ai forcé le français dans mon prompt, tu dois pouvoir le contraindre quand même comme propose Rochane
+03/01/2025, 18:27 - +213 661 96 97 18: Merciii
+03/01/2025, 22:22 - Votre code de sécurité avec +32 475 21 53 10 a changé. Appuyez pour en savoir plus.
+03/01/2025, 22:36 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+03/01/2025, 22:36 - ‎+34 633 18 91 77 a demandé à rejoindre le groupe.
+04/01/2025, 08:44 - ‎+33 7 86 52 45 76 a demandé à rejoindre le groupe.

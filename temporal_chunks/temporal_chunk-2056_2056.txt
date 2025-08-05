@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 13
+
+=== CONTENU ===
+App creator de Poe est dans la meme lignée, à ne pas faire attention on peut manger son crédit mensuel en une semaine 😛
+05/04/2025, 22:41 - +33 6 72 75 43 48: Ludovic Salenne a publié une vidéo sur deepsite
+05/04/2025, 22:52 - Gregoire IA: oui mais je ne vois pas ce point de detail
+05/04/2025, 22:52 - Gregoire IA: mn analyse est d'ailleurs un peu plus nuancée
+06/04/2025, 09:15 - +32 475 86 01 57: De ce que j en ai perçu, mais je peux me tromper, deep site fait "juste" du front end html et CSS. Après, si on veux rendre fonctionnel, faut coder.
+Tous ces outils sont faits pour les codeurs, le vibe coding est une arnaque qui fait de jolie vidéo youtube.
+Pour l instant. <Ce message a été modifié>
+06/04/2025, 09:17 - +32 475 86 01 57: Vibe coding et pas vide coding mais le lapsus est intéressant 😁
+06/04/2025, 09:34 - StéphaneIA: Pour ce genre de besoin et de création de we app est ce que vous avez testé Gemini 2.5 avec le mode Canva sur Gemini.google.com
+06/04/2025, 09:35 - StéphaneIA: Je me suis fait une application pour suivre des frais de voyage avec une couche d'analyse des factures avec Gemini API en 10 minutes. Je l'ai un peu aidé sur le code apps script pour la gemini API avec function calling et comment utiliser un objet fichier dans le formulaire mais sinon il a tout fait <Ce message a été modifié>
+06/04/2025, 09:36 - StéphaneIA: <Médias omis>
+06/04/2025, 09:45 - Jean-Marc Everard: Hello, on a eu la même intuition mais j’ai moins peaufiné la réalisation : développement de l’esprit critique et attention aux différents types de biais : réalisé entièrement avec Manus en un prompt d’une centaine de mots. Cela doit bien sûr être amélioré et le suivi n’est pas encore au point (j’ai dépensé tous mes crédits gratuits) mais voici un résultat en quelques minutes donc : https://wiekmslf.manus.space. Encore sur Manus, je termine le site et changerai d’adresse par la suite. Bon dimanche ☀️
+06/04/2025, 09:47 - Jean-Marc Everard: J’ai la même impression que toi @15144328040. En plus surtout front end ok mais back end pas du tout au point.

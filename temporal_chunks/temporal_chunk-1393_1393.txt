@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 610
+Messages: 16
+
+=== CONTENU ===
+10/12/2024, 16:43 - ‎~ Anne Delannoy a ajouté ~ Ève
+10/12/2024, 16:43 - ‎+33 7 86 18 83 63 a rejoint ce groupe grâce à son lien d’invitation
+10/12/2024, 17:57 - Jean-Marc Everard: OK merci. A priori j'ai l'intention d'aller à Learning Technologies cette année mais une grande partie de mon équipe souhaite également y aller donc on verra.
+10/12/2024, 18:08 - Gregoire IA: Je profite qu'on parle des colloques, j'aimerais bien venir en France en 2025 pour assister a certains mais cela ne peut se faire qu'à la condition de participer, présentation, atelier ou pannel
+Qqun.e saurait me dire s'il existe un.site qui liste tout ce qui se fait... Avec idéalement les dates pour soumettre des choses.
+Ça fait 3 ans que je manque les échéances pour le learning show 😅
+10/12/2024, 19:19 - +33 6 66 98 84 23: Il faut refiler la scène avec de nouveau artistes 🥲
+10/12/2024, 19:58 - +32 479 94 80 38: Nolej : j’ai le mail du « responsable de la stratégie commerciale » avec qui on a fait un Call quand on pensait à prendre une licence institutionnelle (ce qui ne s’est finalement pas fait). Mais je ne sais pas si j’ai le droit de la poster ici ?
+10/12/2024, 19:59 - Rochane: Envoie lui en privé c'est mieux. C'est ce que j'ai fait aussi
+10/12/2024, 20:01 - ‎+33 6 50 70 63 31 est parti·e
+10/12/2024, 20:04 - Jean-Marc Everard: Bonjour Grégoire, pour le Learning Show à mon avis tu peux déjà soumettre des idées. Je pense que le programme définitif se fait un peu plus tard (avril ? Pas certain...) mais s'il y a des adresses de contacts sur le site je pense que tu peux proposer des choses.
+10/12/2024, 21:22 - Ahmadou Ba: bonsoir,
+Qui a une idée pour faire generer à une ia le même personnage en plusieurs photos avec des postures differentes.
+10/12/2024, 21:23 - Clément Cahagne: Midjourney et le tag --cref
+10/12/2024, 21:25 - +33 6 71 11 12 91: Ou l'utilisation de LoRas pour entrainer un sous-modèle de Flux ou Stable Diffusion. Différents sites permettent d'accéder à ces modèles
+10/12/2024, 21:53 - +33 6 19 75 63 49: Bonjour, je voudrais ouvrir un GPT pour une collègue et pour des étudiants mais elle va/ils vont être rapidement limité.e.s en nombre de requêtes avec un compte gratuit il me semble. Connaissez-vous des moyens de rendre un équivalent de GPT accessible en illimité? Je suis abonnée à Claude aussi: je n’ai pas encore pris le temps d’explorer mais je suppose que le problème sera le même. Merci! <Ce message a été modifié>

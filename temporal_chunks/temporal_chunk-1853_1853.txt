@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 14
+
+=== CONTENU ===
+02/03/2025, 20:21 - +33 6 34 15 77 84: mai’s je vais essayer les premières propositions 😉☺️
+02/03/2025, 20:21 - +32 483 60 53 96: Un outil payant? Tu comptes utiliser quel outil?
+02/03/2025, 20:23 - +33 6 34 15 77 84: non j’ai déjà chat gpt en payant non les toutes premières propositions
+02/03/2025, 21:22 - StéphaneIA: Reorganiser du texte si c'est déplacer des sections mot pour mot alors ça me paraît impossible à 100%. Le sujet des tokens en output a été soulevé et donc ça sera forcément du travail par morceau. Les decompositions évoquées ci-dessus sont de bonnes idées.
+Ensuite si il faut du mot pour mot alors c'est impossible car une ia générative génère du texte de manière statistique donc jamais ellevne "déplacera" des sections de textes. Si il ne faut pas toucher le texte original alors demander comment ont peut réorganiser les textes et déplacer à la main ok sinon faire demander à l'IA de proposer une nouvelle organisation et après de générer les sections morceaux par morceaux mais ce ne sera plus le texte original.
+02/03/2025, 21:23 - +33 6 34 15 77 84: ok je comprends mieux Merci beaucoup ☺️
+02/03/2025, 21:37 - +41 79 258 90 36: Ce message a été supprimé.
+02/03/2025, 21:38 - +41 76 372 28 94: Moi j’essayerai aussi de demander à Gemini : c’est lui qui a la plus grande mémoire de travail de tous.
+02/03/2025, 22:29 - +33 6 71 11 12 91: Juste au cas où, Benoist Raphaël a publié un livre écrit à partir de différents agents IA. (https://generationia.flint.media/p/comment-ecrire-un-roman-en-7-jours-avec-chat-gpt-ia)
+Il a fait une formation à ce sujet (je n'ai plus le prix en tête, mais c'était très peu cher).
+Je ne retrouve pas où est la formation, mais si intéressé·e, vous pouvez lui demander ( https://www.linkedin.com/in/benoitraphael/ )
+03/03/2025, 05:53 - Rochane: 49 euros
+03/03/2025, 08:17 - +33 7 87 35 78 96: <Médias omis>
+03/03/2025, 08:18 - +33 7 87 35 78 96: Voilà la source https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/

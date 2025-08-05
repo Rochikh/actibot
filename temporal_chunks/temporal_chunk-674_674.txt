@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 14
+
+=== CONTENU ===
+📖 Ce livre est plus qu'une simple histoire. C'est une aventure éducative qui vise à démystifier l'IA pour les jeunes lecteurs, tout en les amusant. Une lecture parfaite à partager avec vos enfants pour leur faire découvrir cette technologie.
+✨ Disponible dès maintenant ! 👉 https://amzn.eu/d/0gIn5sj6
+Bonne lecture à tous !
+25/06/2024, 16:28 - Yvelines: https://www.linkedin.com/posts/simon-duguay_tutoriel-comment-faire-gratuitement-une-activity-7211088668512419841-N97S?utm_source=share&utm_medium=member_android
+25/06/2024, 17:05 - Guillaume Singeot: <Médias omis>
+25/06/2024, 17:06 - Guillaume Singeot: Quel talent !
+25/06/2024, 18:13 - Votre code de sécurité avec +33 7 83 16 44 23 a changé. Appuyez pour en savoir plus.
+26/06/2024, 07:39 - Rochane: Attention, perplexity peut dire des bêtises d'après cette étude
+https://intelligence-artificielle.developpez.com/actu/359548/Une-etude-revele-que-le-moteur-de-recherche-base-sur-l-IA-Perplexity-invente-des-informations-a-partir-de-rien-et-debite-des-absurdites-il-procede-aussi-subrepticement-a-l-extraction-des-donnees-des-sites/
+26/06/2024, 07:41 - Vous avez épinglé un message
+26/06/2024, 08:07 - +33 6 37 67 45 67: null
+26/06/2024, 09:10 - Ludovic IA: Oui, Perplexity est une autre "bullshit machine", il n'y a toujours pas d'IA générative ayant le sens de la véracité. Néanmoins, le gros plus de Perplexity, c'est qu'il donne les sources de ses affirmations, donc ça permet d'ajouter une étape de vérification des sources essentielles pour du fact-checking. Le vrai challenge étant que Perplexity est assez doué, comme toutes les IA, pour te faire croire qu'il dit la vérité même s'il n'en sait rien. Ajouter systématiquement dans ses requêtes à Perplexity un " Si tu ne trouves pas de source fiable permettant de valider ces informations, dis le" permet de contrebalancer en partie ce problème.
+26/06/2024, 09:24 - +33 6 88 57 53 04: Perplexity ne donne pas les sources mais des sources connexes je crois.
+J'ai creusé plusieurs fois ses "sources" sans y trouver les éléments précis qu'il mettait dans sa réponse.

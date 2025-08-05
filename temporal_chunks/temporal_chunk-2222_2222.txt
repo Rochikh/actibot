@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 19
+
+=== CONTENU ===
+04/06/2025, 18:53 - Batier Christophe: Oui c'est en ligne
+mais il me semble qu'il faut s'inscrire pour avoir le lien du live
+et ça se passe par ici
+https://app.smartsheet.com/b/form/d4b5422002d54569b3866cbc41148dea
+04/06/2025, 19:21 - Fred IA: Bonsoir. Sur ChatGPT Plus, j'essaie de créer une nouvelle tâche, l'objectif étant d'être automatiquement notifié chaque jour par mail d'actualité sur des domaines particuliers. En passant par le module dédié (en haut à droite de l'interface depuis le menu contextuel), il n'y a apparemment pas de bouton "nouvelle tâche". Et en demandant de créer une tâche via une conversation avec gpt, il me répond que l'automatisation ne fonctionne actuellement pas (même réponse depuis assez longtemps).. Donc impossible de la créer. Quelqu'un aurait il réussi ?  Merci par avance
+04/06/2025, 19:29 - +33 6 83 63 14 89: Apparement c'est encore sur une version beta les tâches sur ChatGPT+
+04/06/2025, 19:35 - Rochane: Attention, ça ne marche que sur la version Web et autre chose, il faut être sur le modèle 4o pour voir le bouton
+04/06/2025, 19:37 - Rochane: Notre administrateur Anthony de l'autre grosse communauté
+*Big big big urgence !* 🚨
+Un formateur disponible sur Namur en Belgique (ou qui peut s’y rendre) pour une formation IA demain de 7h pour des coordinateurs de réseau (niveau débutant) ?
+Rémunération = 1 000 € (plus que prévu étant donné l’urgence !), je rémunère directement en fin de journée après la formation !
+Merci d’avance !
+04/06/2025, 19:38 - Fred IA: Merci de ta réponse.. C'est pourtant ce que j'ai fait.. <Ce message a été modifié>
+04/06/2025, 19:39 - +33 6 72 75 43 48: Je ne l’ai plus non plus 😉
+04/06/2025, 19:41 - Anthony Quinchon: Mercii Rochane !
+N’hésitez pas à venir me DM si intéressé !
+04/06/2025, 20:20 - Rochane: Save the date: prochain live le mardi 24 juin à 20h, heure Paris. Programme alléchant en vue 😁
+04/06/2025, 21:27 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+04/06/2025, 21:36 - Rochane: New! Désormais, il est possible de partager vos NotebookLM publiquement, idem pour les podcasts

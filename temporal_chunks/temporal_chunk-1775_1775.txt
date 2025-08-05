@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 592
+Messages: 9
+
+=== CONTENU ===
+13/02/2025, 22:50 - +44 7776 747507: N.B: Mon avis personnel > L'innovation c'est bien, l'apprentissage (notamment de l'anglais) et l'autonomie c'est encore mieux. Non à la dépendance technologique! (ça reste un super produit).
+14/02/2025, 05:22 - Votre code de sécurité avec ~ Nico a changé. Appuyez pour en savoir plus.
+14/02/2025, 08:20 - Jean-Marc Everard: J'ai le même souci avec certains de mes contacts. Une chose qui a fonctionné à un moment a été de changer de Browser et prendre Chrome. Vous pouvez peut-être essayer ?
+14/02/2025, 08:22 - Jean-Marc Everard: Même commentaire que mes prédécesseurs : très bon outil pour de la gestion collaborative de projets en mode agile, c'est-à-dire avec décomposition et attributions de tâches. Depuis je suis plutôt passé sur MIRO qui est un tableau partagé avec lequel il y a moyen de créer un tas d'espaces différents de collaboration, dont des Kanban.
+14/02/2025, 08:27 - Jean-Marc Everard: Mon retour se situe entre les commentaires précédents 🙂 : pour moi ça a parfois très bien fonctionné si ce n'est qu'effectivement quoique je fasse (nos ami·e·s IA podcaters) repassent systématiquement à l'anglais. Après ma question ça mouline pas mal et souvent le début de la réponse est très vague et imprécis, avant de reprendre sur le contenu avec du coup un ton non interactif. Comme dit Grégoire, c'est bien une bêta mais que je trouve quand même prometteuse si on envisage la répidité des progrès faits.
+14/02/2025, 08:46 - +33 7 87 35 78 96: Merci Rochane,
+Je trouve les explications du fondateur d'OVH intéressantes et claires.
+80% du cout d'un data center pour IA c'est l'achat des cartes ! 20% pour la construction.
+L'intérêt de passer sur les superchips c'est que la distance entre les cartes est réduite et c'est le facteur limitant pour avoir une bonne efficacité, donc avec les super cartes de dernière generation le datacenter fonctionne beaucoup mieux. Mais, car il y a un mais la puissance habituelle par rack ou par baie ne suffit plus. De 20Kw on passe à 120 KW ou 240 KW dans le même espace et là faire passer de l'air ne suffit plus pour refroidir il faut de l'eau. Voilà pourquoi les ventes des dernières super cartes de NVDIA sont en forte hausse, et pourquoi il faut des datacenters refroidis à l'eau. La bonne nouvelle c'est qu'ils sont plus efficaces malgré l'aspect monstre énergivore.

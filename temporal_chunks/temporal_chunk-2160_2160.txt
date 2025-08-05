@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 619
+Messages: 12
+
+=== CONTENU ===
+Deuxième exemple, pour un niveau plus élémentaire dans un cours de Relations Publiques. Il s’agissait de réviser le vocabulaire lié à la nourriture, aux restaurants et aux événements d’entreprise. J’ai créé un restaurant fictif à Bruxelles, Casa Luismi, et construit un examen autour de ce lieu : une compréhension écrite sur l’histoire du restaurant, illustrée ; une compréhension orale dans laquelle une artiste (générée par IA) parle de ses plats préférés ; et enfin, une expression écrite où les étudiants doivent rédiger une critique sur TripAdvisor, en mobilisant les contenus vus en cours.
+Je pense que c’est une voie possible — et stimulante — de ce que l’on peut faire avec l’IA en classe. Dans mon cas, il s’agit de l’enseignement du FLE, mais je suis convaincu que ces approches sont transposables à bien d’autres disciplines.
+06/05/2025, 11:08 - +32 487 80 81 16: <Médias omis>
+06/05/2025, 11:08 - +32 487 80 81 16: <Médias omis>
+06/05/2025, 11:08 - +32 487 80 81 16: <Médias omis>
+06/05/2025, 11:09 - +32 487 80 81 16: <Médias omis>
+06/05/2025, 11:52 - +33 6 70 16 18 20: C'est franchement bluffant !
+06/05/2025, 12:42 - Rochane: Est-ce que quelqu'un veut bien se réunir avec des acteurs pédagogiques en langues, basés en Autriche pour faire une réunion/démo des outils IA. La réunion sera en français ou anglais, en ligne et non rémunérée.
+Merci de me répondre en MP
+Une idée de leur projet
+https://www.ecml.at/en/ECML-Programme/Programme-2024-2027/AI-for-language-education
+06/05/2025, 13:19 - Céline Averseng: Au niveau de l'approche par compétences, j'ai créé un GPT's très simple qui m'a beaucoup aidé pour mon master Systèmes d'Informations et Contrôle de Gestion. Voici le prompt : "Ce GPT est un assistant spécialisé dans l'ingénierie pédagogique et l'analyse des blocs de compétences. Il est conçu pour aider les responsables de formation, en particulier dans le cadre de masters tels que le Master Management des systèmes d'information Parcours Systèmes d'information et Contrôle de Gestion, à analyser et organiser les blocs de compétences pour les formations de Master 1 et Master 2. Il peut analyser des textes descriptifs, identifier les compétences clés, proposer des regroupements cohérents en blocs de compétences, et aider à rédiger ou structurer les intitulés et descripteurs associés. L'assistant adopte une approche méthodique et claire, en posant des questions précises si nécessaire pour compléter les informations ou préciser les attentes."

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 11
+
+=== CONTENU ===
+12/02/2025, 08:32 - +33 6 73 29 84 68: Oups, j’ai désinstallé WhatsApp et j’ai perdu toutes mes conversations… 😖 Pour ceux ici avec qui je discutais à côté, pourriez-vous me repasser un petit message pour réamorcer le fil de discussion ? Merci !! 🛟
+12/02/2025, 08:34 - +33 6 70 15 09 80: Test fil de discussion
+12/02/2025, 09:25 - Daniel Pappalardo: Pour comprendre le Context caching de Gemini et augmenter la rapidité des LLM sur des tâches répétitives avec le CAG plutôt que le RAG (et savoir ce que sont les deux) https://youtu.be/yiSpFWS4HVQ?si=SbwT8Z4O_z3PqJX_ <Ce message a été modifié>
+12/02/2025, 09:27 - ‎+32 498 27 03 57 a demandé à rejoindre le groupe.
+12/02/2025, 12:16 - +33 6 49 84 08 41: Bonjour tout le monde,
+Le *sommet sur l'IA* s'est d'abord imposé à moi hier de manière quelque peu... "glacée" puisque le trafic a été complètement interrompu hier sur l'autoroute A6 pour laisser passer des convois présidentiels 🥶 (j'étais en scoot).
+👉🏼 Plus sérieusement, je n'y étais pas et n'ai pas encore eu le temps de me pencher sur les contenus. Toutefois, 2 éléments s'imposent à moi ce matin :
+1️⃣ L'humiliation assez violente infligée par le vice président US qui a ouvert le bal en déclarant que l'IA était l'apanage des USA et que Trump entendait bien que cela reste ainsi... Après quoi il a purement et simplement quitté le sommet 😱 (source : Quotidien).
+2️⃣ L'apparition de *Hiatus*, une coalition composée d’une diversité d’organisations de la société civile française qui entendent résister au déploiement massif et généralisé de l’IA. Vous trouverez son manifeste fondateur ici : https://hiatus.ooo/
+‼️ Désolé de faire une fois de plus le rabat-joie, mais il me paraît *important* de relayer ces initiatives non pour mettre un coup de frein à cette communauté, mais pour permettre à celles et ceux qui le souhaiteraient de faire un "pas de côté" sans s'engouffrer corps et âme dans un tunnel à une seule issue.
+Nous sommes (techno)pédagogues, ce qui signifie (de mon point de vue) que nous avons une responsabilité dans ce que nous transmettons à nos apprenants, a fortiori lorsqu'ils s'agit d'enfants ou de jeunes.

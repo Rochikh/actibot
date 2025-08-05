@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 19
+
+=== CONTENU ===
+https://www.pauuse.fr/gpts-formation
+19/06/2025, 12:41 - Votre code de sécurité avec +33 6 60 98 89 03 a changé. Appuyez pour en savoir plus.
+19/06/2025, 14:43 - Gregoire IA: Cela fait depuis 1 an qu'on vend l'idee là où je suis. Les early adopters en sont très satisfaits pour leurs cours
+19/06/2025, 15:00 - +32 475 86 01 57: J avais fait le même genre de gpt dans une formation sur le prompting par bloc, c est un super usage.
+Malheureusement, il faut rapidement un compte gpt payant pour l utilisateur. Cela diminue l utilité dans mon contexte. Jusqu à ce que copilot se mette à faire des choses interressante...
+19/06/2025, 15:02 - Clément Cahagne: Je ne comprends pas les limites d’usage en mode gratuit. Elles bougent tout le temps j’ai l’impression non ?
+19/06/2025, 15:03 - +32 475 86 01 57: J ai l impression qu elles changent selon le traffic
+19/06/2025, 15:03 - Clément Cahagne: Je crois aussi
+19/06/2025, 15:42 - Rochane: ÉVÉNEMENT : 🚨 SAVE THE DATE ! 🚨
+Heure de début de l’événement : 1750788000000
+Événement annulé : false
+Description de l’événement : Hey la team IA !
+On se retrouve mardi 24 juin de 20h à 21h (heure de Paris) pour un nouveau live  — ton rendez-vous mensuel préféré qui te fait aimer l'IA ou t'en méfier
+Au programme : des invité·e·s en or, de l’IA à toutes les sauces, et des questions qui piquent juste ce qu’il faut.
+Voici le casting de rêve pour cette session :
+🌟 Luis — Il démarre fort avec une présentation sur l’IA en classe : usages concrets, idées qui claquent et astuces pour briller en salle des profs (ou en visio, c’est pareil).
+🌟 Jessy — Il te montre comment l’IA peut booster la création d’e-learning avec une expérience apprenant·e encore meilleure. Plus rapide, plus malin !
+🌟 Adrien — Il va te montrer comment l’IA peut t’aider à générer du contenu e-learning sans y laisser ta santé mentale (ou ton week-end).
+🌟 Sandrine — Elle va nous remettre les idées au clair sur le numérique responsable (oui, même avec l’IA, tu peux être sobre… et cool).

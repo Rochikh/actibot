@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 17
+
+=== CONTENU ===
+27/09/2024, 14:09 - Hoang: Petit reportage sur le deepfake et le danger de la démocratisation de l’accès aux outils IA : https://youtu.be/QWQxaP0MJdM?si=rt9GvjT1JwQRm_XQ
+Pour ma part ce type de danger existait déjà bien avant la démocratisation de l’ia par des personnes habile dans les outils photomontage. Néanmoins avec la facilité et la gratuité de l’utilisation de ces outils, le lambda peut maintenant aussi devenir un potentiel arnaquer ou menacer via des deepfakes afin de se venger d’une personne….
+27/09/2024, 14:11 - +33 6 15 79 19 04: C'est la question que je me posais ce matin : j'ai voulu faire "parler" une photo de Georges Clooney, mais hora m'a bloqué en me disant que la photo était celle d'une célébrité !
+27/09/2024, 14:14 - Hoang: Il y a un outil que tu peux télécharge en local : face fusion
+27/09/2024, 14:14 - Hoang: J’ai testé avec Keanu Reeve et ça a fonctionné pour moi 😆, ok peut également le faire pour des vidéos
+27/09/2024, 14:16 - +33 6 15 79 19 04: J'ai l'intention de faire une visio "café numérique" pour mes formateurs, je voulais que ça soit Georges qui les invite, what else ? 😅
+27/09/2024, 14:22 - ‎+32 486 69 67 20 est parti·e
+27/09/2024, 14:27 - +221 76 125 29 15: Bonjour chers collègues. J'ai 6 vidéos à transcrire. J'ai utilisé Sonix.ai mais malheureusement cette IA transcrit pour 30 minutes en essai. De plus la fidélité du verbatim laisse à désirer.
+Est-ce qu'il y des IA qui peuvent transcrire intégralement des vidéos de façon très fidèle ?
+27/09/2024, 14:28 - Rochane: Tu veux dire récupérer la transcription ?
+27/09/2024, 14:29 - +221 76 125 29 15: Oui
+27/09/2024, 14:29 - Rochane: Videohighlight
+27/09/2024, 14:31 - +221 76 125 29 15: <Médias omis>
+27/09/2024, 16:41 - +33 6 49 95 38 23: Ce message a été supprimé.
+27/09/2024, 17:28 - ‎+33 6 49 25 14 53 est parti·e
+27/09/2024, 17:34 - +33 6 49 95 38 23: Whisper https://github.com/openai/whisper
+27/09/2024, 19:43 - Adrien Bock IA: Salut à tous, je suis en train de tourner les vidéos pour faire une formation sur Microsoft Copilot. Qui est intéressé pour regarder les résultats? Je vous préviens, c’est du lourd…

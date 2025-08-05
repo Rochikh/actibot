@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+17/12/2024, 18:53 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+17/12/2024, 19:17 - François JOURDE: "C’est donc bien le traitement qui définit le risque et jamais le logiciel lui-même" - à graver en lettres d'or... <Ce message a été modifié>
+17/12/2024, 19:27 - Francois Bocquet: Oui il faut le répéter : un logiciel ou une application ne peut « etre RGPD » ou pas. Seul le traitement importe. Et j’en profite pour ajouter qu’un logiciel libre n’impacte que très peu la conformité RGPD (seulement par le fait que son code est auditable mais comme il est modifiable ce n’est pas nécessairement le code rendu disponible qui est finalement exécuté !). On lit souvent : c’est libre donc conforme au RGPD -> prudence, prudence…
+17/12/2024, 20:48 - Fred IA: Bonsoir. Pour info, ChatGPT Search est désormais disponible depuis ce jour pour les utilisateurs gratuits de ChatGPT.. Une bonne nouvelle pour tester 🙂 Certains évoquent la fin de Google avec cette mise à disposition de Search à tous les utilisateurs. J'aimerais avoir votre avis à ce sujet.. Si Google est remplacé par ChatGPT, que fait on des hallucinations de l'IA, qui va générer des fausses news.. (?)
+17/12/2024, 20:51 - +55 11 94241-1993: Bonsoir, vous auriez quoi comme app ou sites pour retranscrire des entretiens ?
+Gratuit dans la mesure du possible ou payant .
+C’est pour le mémoire de mes étudiants
+17/12/2024, 20:51 - +33 6 65 65 01 37: Whisper
+17/12/2024, 20:51 - Fred IA: Vibe (https://thewh1teagle.github.io/vibe/) <Ce message a été modifié>
+17/12/2024, 20:52 - +33 6 71 11 12 91: Et je me répète (pas forcément sur ce groupe), quid de l'énergie consommée qui est, selon les sources, entre 10 et 20 fois plus d'électricité (et donc de CO² en faisant un gros raccourci) pour une requête IA par rapport à un moteur de recherche (qui n'est pas forcément Google !)
+17/12/2024, 20:53 - +33 7 86 18 83 63: On développe des solutions SaaS conformes RGPD si votre école en a besoin
+17/12/2024, 20:54 - Nadia ER-RAJI: @5511942411993 TURBOSCRIBE.

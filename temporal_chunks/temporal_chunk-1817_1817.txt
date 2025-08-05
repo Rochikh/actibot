@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+23/02/2025, 15:21 - +33 6 62 83 20 00: ou je connais Gamma et les limites même en payant (50 slides) sont vite atteintes
+23/02/2025, 15:38 - +33 6 62 83 20 00: et Gamma ne sait pas extraire les images des documents sources pour les intégrer dans les slides générées
+23/02/2025, 15:39 - +33 6 71 11 12 91: Tu as essayé napkin.ai ?
+23/02/2025, 15:41 - +33 6 62 83 20 00: oui j'ai testé mais idem napkin ne fait que générer des visuels et chart à partir de textes mais ne sait pas recomposer avec des images réelles
+23/02/2025, 15:46 - +33 6 62 83 20 00: En tant que formateurs on a déjà nos supports de formation en ppt avec textes et visuels qu'on a travaillé et ce qu'on a besoin souvent c'est générer à partir de ces supports un module avec quelques critères de personnalisation
+23/02/2025, 15:55 - +33 7 66 54 11 11: As-tu essayé Nolej ?
+23/02/2025, 16:15 - +41 79 326 51 40: J'ai le même "soucis" que vous... je n'ai pas encore trouvé une solution performante
+23/02/2025, 16:17 - +33 6 62 83 20 00: oui, Nolej est pas mal pour la construction de cours à partir de docs pdf mais il ne sait pas traiter et restituer des images dans les cours générés
+23/02/2025, 16:17 - Francois Bocquet: Voir aussi K2r2
+23/02/2025, 16:18 - +33 6 62 83 20 00: pas encore essayé, est ce que tu sais s'il gère les images à partir des sources ?
+23/02/2025, 16:19 - +33 7 66 54 11 11: <Médias omis>
+23/02/2025, 16:20 - +33 7 66 54 11 11: Un extrait :
+La plasticité mentale, l'inévitable ambiguïté du langage humain, le rôle du temps et du tâtonnement dans le travail de clarification, l'impression d'évidence qui se dégage après coup...
+23/02/2025, 16:21 - +33 7 66 54 11 11: Cela éclaire mes lanternes concernant le deep learning
+23/02/2025, 16:31 - +33 7 66 54 11 11: Un autre extrait : "La fragilité de notre langage n'est que le reflet de ses soubassements neurologiques.
+Le sens que nous attribuons aux mots est de nature perceptive: nous savons reconnaître un éléphant mais nous ne pourrons jamais définir ce que c'est."

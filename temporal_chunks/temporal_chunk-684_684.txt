@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 13
+
+=== CONTENU ===
+28/06/2024, 08:12 - +33 6 49 84 08 41: Moi j'utilise Slidesgo.com, c'est gratuit... Je serais assez intéressé d'avoir votre retour par rapport à Gamma et Canva... À mon avis c'est moins performant, mais sait-on jamais
+28/06/2024, 10:05 - +222 46 48 18 36: Bonjour, voici un tableau comparatif des versions gratuites de Slidesgo, Canva et Gamma rendu par l'IA Perplexity : https://www.perplexity.ai/search/dresser-un-tableau-gfv9HW2yRGe9aGqbKPzbsg#0
+28/06/2024, 10:42 - +222 46 48 18 36: Perplexity résume cette comparaison par:
+"En résumé, Slidesgo et Canva offrent tous deux des versions gratuites avec un accès à de nombreux modèles et des options de personnalisation, tandis que Gamma se concentre davantage sur la génération de diapositives par IA et la création de diapositives de quiz."
+28/06/2024, 12:13 - +33 6 77 09 47 45: Bonjour, j'aurai besoin d'aide. Voilà, je veux créer des QCM avec une ia (chagpt ou autre) Je veux ensuite avec ce QCM en faire un fichier qui va être importable sur une plateforme qui accepte le format Moodle XML. Mais je n'y arrive pas. Donc help et merci. PS/ quizzwizard le fait, mais je veux passer directement par ia.
+28/06/2024, 12:14 - +961 3 381 351: https://www.questionwell.org/
+28/06/2024, 13:02 - ‎+32 492 85 81 22 a demandé à ajouter +33 6 26 86 79 90.
+28/06/2024, 13:53 - ‎+32 492 85 81 22 a ajouté +33 6 26 86 79 90
+28/06/2024, 15:46 - Teodorina Tiba: Bonjour, j'ai expérimenté plusieurs IA pour générer des questions type QCM avec des feedbacks formatifs, etc Chatgpt connaît la syntaxe XML Moodle mais il m'a produit un fichier XML par question.
+28/06/2024, 15:47 - +33 6 58 12 88 07: Bonjour , lui as tu ensuite demandé de les compiler en un seul fichier ?
+28/06/2024, 15:48 - Teodorina Tiba: La solution qui a été pour moi la plus satisfaisante a été chatgpt pour produire du code LaTeX compatible package Moodle pour LaTeX
+28/06/2024, 15:50 - Teodorina Tiba: Et après corrections et relecture j'ai généré mon XML Moodle avec le package moodle
+28/06/2024, 15:53 - Teodorina Tiba: Non car mon intérêt était de conserver une source lisible de ma banque de questions et de disposer aussi de texte scientifique correctement géré (d'où LaTeX)

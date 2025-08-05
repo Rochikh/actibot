@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 20
+
+=== CONTENU ===
+27/03/2025, 20:03 - +33 6 52 73 73 42: Let's gooooo !
+27/03/2025, 20:03 - +33 6 52 73 73 42: L'enregistrement à commencé !
+27/03/2025, 20:08 - Rochane: https://zenodo.org/records/14962090
+La présentation du live
+27/03/2025, 20:18 - Francois Bocquet: Politiques encadrant l’IA générative en recherche universitaire
+L’équipe de recherche estime que près de 30 % des scientifiques utilisent déjà des outils d’IA générative pour la rédaction de manuscrits et que 15 % le font pour la préparation de demandes de subventions.
+https://collimateur.uqam.ca/collimateur/politiques-encadrant-lia-generative-en-recherche-universitaire/
+27/03/2025, 20:19 - +33 6 52 73 73 42: 🤔
+27/03/2025, 20:26 - Clément Cahagne: « L’établissement de cadres réglementaires devient donc crucial » : c’est bien de s’en rendre compte 😅
+27/03/2025, 21:39 - +55 11 94241-1993: Bonjour , je rédige un memoire . Je cherche une IA qui soit capable de donner des résultats statistiques pour chaque item et une analyse à partir d’un tableau Excel . Est-ce que ça existe ? Quels sites ou IA proposezvous ?
+Je trouve que chatGPT nest pas assez précis .
+27/03/2025, 21:40 - Rochane: Claude 3.7 et Qwen (gratuit)
+27/03/2025, 21:42 - +33 6 15 76 15 51: S’il y a de grandes quantités de données à analyser, peut être cortext.net
+28/03/2025, 07:23 - +33 6 66 98 84 23: Bonjour,auriez vous le lien fonctionnel pour accéder à la carte Mindmeister proposé hier lors de live? Merci et bravo pour la qualité des échanges.
+28/03/2025, 07:49 - +213 558 04 82 89: Merci pour le partage.
+Je n'ai malheureusement pas pu participer hier au live!!
+Y'aurait- il une possibilité pour un enregistrement svp ?
+28/03/2025, 07:54 - +33 7 87 35 78 96: Idem mea culpa je n'ai pas pu assister à vos échanges. Période très dense entre l'audit Qualiopi et des sessions de formation à distance en horaires décalés …
+28/03/2025, 07:56 - +44 7776 747507: Même Excel (365) a des options/adds on intéressantes.
+28/03/2025, 08:19 - Rochane: *Lien du Replay*

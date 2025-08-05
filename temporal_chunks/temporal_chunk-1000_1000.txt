@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 16
+
+=== CONTENU ===
+28/09/2024, 12:39 - ‎+229 60 82 81 66 a demandé à rejoindre le groupe.
+28/09/2024, 12:45 - Fred IA: Génial ! Merci beaucoup pour ce retour 👍 L'outil est tellement puissant, je crains qu'il ne devienne payant prochainement.. Espérons que non <Ce message a été modifié>
+28/09/2024, 12:50 - +33 6 15 79 19 04: En parlant de notebooklm, il n'y a que moi qui n'arrive pas à me connecter à celui du défi de septembre ? Ça me met loading notebook et c'est tout !
+28/09/2024, 12:51 - ‎+229 60 82 81 66 a rejoint le groupe à partir de la communauté.
+28/09/2024, 16:56 - Francois Bocquet: J’ai tenté et l’on me demande un mot de passe
+28/09/2024, 16:56 - Francois Bocquet: Une adresse IP est une donnée à caractère personnelle dès lors qu’elle est utilisée par moins de 10 à 12 personnes.
+28/09/2024, 16:56 - Francois Bocquet: Personnel
+28/09/2024, 16:57 - Francois Bocquet: Il y a déjà de la jurisprudence
+28/09/2024, 16:57 - Francois Bocquet: Ensuite l’API est reliée à un compte (le tien) ce compte et tout ce qui est réalisé avec a un statut de données à caractère personnel
+28/09/2024, 16:58 - +41 76 372 28 94: Voilà, j'ai déverrouillé le site de nouveau pour 20 minutes.
+28/09/2024, 16:58 - Francois Bocquet: Et si tu permets aux élèves de se connecter pour conserver leur historique par exemple alors tout ce qui est fait en mode connecté relève de la donnée à caractère personnel.
+28/09/2024, 16:59 - Francois Bocquet: Seule solution conforme : utiliser le service sans connecter les utilisateurs et depuis une adresse ip partagée par un grand nombre d’utilisateurs
+28/09/2024, 17:03 - +41 76 372 28 94: <Médias omis>
+28/09/2024, 17:04 - Rochane: Pour ce projet, par qui est pris en charge le budget API d'Openai ?
+28/09/2024, 17:17 - +212 644-562660: ce serait chouette si tu pouvais nous dire combien ca te coute par mois pour maintenir ce projet
+28/09/2024, 17:20 - Ahmadou Ba: J'aimerais bien savoir entre l'abonnement à GPT et l'utilisation de l'API qu'est ce qui plus rentable  ?  L'API peut elle offrir tous les avantages de l'abonnement. Si vous avez une documentation qui fait la comparaison suis preneur.

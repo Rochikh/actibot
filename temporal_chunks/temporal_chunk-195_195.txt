@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 8
+
+=== CONTENU ===
+08/02/2024, 15:05 - Ahmadou Ba: ChatGPT a été incapable de me donner un resultat satisfaisant, il me renvoie toujours vers des sites web, alors que Copilot m'a automatiquement cracher le tableau avec les sources
+08/02/2024, 15:58 - Jacques BARATTI: d'une manière générale GPT4 est meilleur que les autres IA mais il y a des points spécifiques ou certaines IA sont plus performantes que GPT4. Difficile de savoir à priori surtout que le niveau de performance évolue rapidement !
+08/02/2024, 16:07 - Ahmadou Ba: En fait j'ai l'impression il est de plus en plus bridé et qu'il ne peut pas extraire les données sur les sites en ligne; il n'arrete pas de me renvoyer vers les sites pour plus ample information.
+08/02/2024, 16:08 - Jacques BARATTI: C'est certainement le LLM le plus utilisé au niveau mondial et suivant la demande il réduit ses performances pour permettre un accès à tous...
+08/02/2024, 16:11 - Ahmadou Ba: En pédagogie on en besoin de données fiables et rapidement, mais il vous tourne en rond pendant longtemps avant de données des réponses partielles. J'ai déjà un abonnement à GPT 4 mais franchement ça commence à être très limité. Je ne sais pas si vous avez fait ce constant.
+08/02/2024, 16:13 - Jacques BARATTI: oui idem, je suis "en pause" car j'ai atteins la limite des messages… Pour les sujets sur lesquelles je travaille j'ai testé d'autres IA (gratuites) avec des résultats moins bons
+08/02/2024, 16:25 - Rochane: Personnellement, je pense que chat gpt est le meilleur outil d'intelligence artificielle générative pour l'instant par rapport à aux autres. Maintenant, concernant ton prompt, je trouve qu'il est pas complet. Peut-être que tu devrais l'élaborer un peu plus, lui donner plus de contexte et puis aussi lui donner un rôle sur ce que tu n'as pas fait. Après, il y a peut-être aussi des GPTs  qui font ça de façon beaucoup plus précise. Avant de tirer des conclusions hâtives, je pense qu'il faut tester encore plus
+08/02/2024, 16:35 - Ahmadou Ba: Ce message a été supprimé.

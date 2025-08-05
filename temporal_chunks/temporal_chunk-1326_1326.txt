@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 23
+
+=== CONTENU ===
+24/11/2024, 21:04 - +212 631-698223: Je vais le tester merci énormément
+24/11/2024, 21:04 - Gregoire IA: Gamma est impressionnant si ton contenu PPT est simple.
+Napkin.pour des diagrammes
+24/11/2024, 21:05 - +212 631-698223: D'accord merci beaucoup
+24/11/2024, 21:16 - martinyemani IA: Appel à l'aide. Quel est le prompt le plus indiqué pour produire un podcast en français avec notebooklm. ? Merci
+24/11/2024, 21:17 - Rochane: Hosts are only allowed to speak French, no other language is permitted
+24/11/2024, 21:17 - Gregoire IA: Trop rapide 😅
+24/11/2024, 21:18 - Gregoire IA: J'en profite, comme NotebookLM ne memorise pas les prompts je les mets a chaque fois dans une note associée au dossier
+24/11/2024, 21:19 - Gregoire IA: Dans un webinaire j'indiquais le faire dans un Doc Google Drive mais c encore plus simple dans une note !
+24/11/2024, 21:19 - Rochane: Pas compris, tu fais quoi exactement ?
+24/11/2024, 21:19 - Gregoire IA: Je crée une note dans NotebookLM
+24/11/2024, 21:20 - Gregoire IA: Mes prompts ont parfois 5 consignes
+24/11/2024, 21:22 - martinyemani IA: Lesquels Grégoire ?
+24/11/2024, 21:30 - Gregoire IA: J'emmène mon fils à son match de soccer et je vous envoie des captures écrans
+PS : avez vous testez Guidde pour des tuto TI ?
+Cela me rappelle bcp des logiciels auteurs comme captivate
+24/11/2024, 22:59 - Gregoire IA: les prompts les plus souvent utilisés sont :
+Hosts are only allowed to speak French, no other language is permitted, french accent
+Hosts spoke with Gregoire from Novagogie who analyzed the document. Gregoire is a man, an educationnal designer and advisor for universities since more than 15 years.
+Gregoire never speacks only the 2 hosts during the dialogue.
+ps : je peux parfois avoir besoin de préciser comment prononcer une siglaison ou un acronyme, orienter la conversation vers un point que je veux aborder, etc.
+24/11/2024, 23:00 - Gregoire IA: <Médias omis>
+24/11/2024, 23:01 - Gregoire IA: note : le prompt doit etre remis pour chaque génération (bouton personnaliser), le laisser en Note ne suffit pas

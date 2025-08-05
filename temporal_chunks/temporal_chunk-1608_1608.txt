@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 12
+
+=== CONTENU ===
+20/01/2025, 22:14 - Rochane: Le résultat avec la variable sujet: IA et Éducation
+Durée : 20 min
+https://gamma.app/docs/Lintelligence-artificielle-a-lecole-un-avenir-prometteur-8cdgw7m4ag62qf8
+21/01/2025, 08:02 - Jean-Marc Everard: Livre en libre accès, en anglais bien qu'issu en partie de l'Université Cote d'Azure, de Alex Urmeneta et Margarida Romero : https://link.springer.com/book/10.1007/978-3-031-55272-4. Ca couvre tout ce que j'aime, autrement l'usage responsable des IA pour améliorer les apprentissages (tout en centrant ceux-ci sur l'humain). Ca couvre également tous les niveau d'éducation depuis K-12 jusqu'à la formation professionnelle.
+*Résumé introductif* via NotebookLM : Ce livre explore l'intégration de l'intelligence artificielle (IA) dans l'éducation, en examinant divers aspects : l’impact de l’IA sur l’apprentissage et l’enseignement, les perspectives des étudiants et des enseignants, les défis éthiques et les opportunités offertes par l’IA pour un apprentissage personnalisé et inclusif. Il présente des études de cas, des initiatives internationales et des écosystèmes régionaux qui promeuvent l'alphabétisation en IA et une approche axée sur l’humain. L'accent est mis sur la collaboration homme-machine, la créativité, et l'importance de la formation des enseignants à l'utilisation responsable de l'IA. Enfin, le livre plaide pour une éducation centrée sur l'humain, intégrant l'IA de manière éthique et responsable.
+21/01/2025, 08:10 - ‎+33 6 62 46 04 14 a demandé à rejoindre le groupe.
+21/01/2025, 08:36 - ‎+33 6 62 46 04 14 a rejoint ce groupe grâce à son lien d’invitation
+21/01/2025, 09:28 - ‎+33 6 81 88 18 95 a demandé à rejoindre le groupe.
+21/01/2025, 11:55 - ‎+33 6 25 26 03 02 a demandé à rejoindre le groupe.
+21/01/2025, 12:31 - +32 478 83 05 13: Bonjour à tous
+Merci @33649535198 et aux actifs pour tous vos partages.
+Je viens avec une question d'ordre légal/éthique. Je travaille dans un centre de formation technique. Lors d'une formation synchrone à distance, un participant a enregistré le formateur à son insu avec une AI en ligne et fourni à tous les participants la retranscription de tout le contenu.

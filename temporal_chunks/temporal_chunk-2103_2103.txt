@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 605
+Messages: 19
+
+=== CONTENU ===
+STT qui différencie les locuteurs. A deux avec micro ça fonctionne très bien.
+20/04/2025, 12:08 - ‎+33 6 26 19 30 26 a demandé à ajouter +33 6 17 12 10 09.
+20/04/2025, 12:15 - +33 6 74 39 90 60: tu achète le plaud perso 160 euro avec 300 min par mois gratuit
+pour plus de réunion il faut un forfait mensuel
+20/04/2025, 12:57 - estelle Duterage Drion IA: Bonne remarque merci François
+20/04/2025, 12:57 - estelle Duterage Drion IA: Ok super
+20/04/2025, 13:03 - Francois Bocquet: Loukas est très intéressant. Conçu avec de la Privacy by design en minimisant les traitements et en laissant les données permettant la reidentification des personnes sur les téléphones. C’est bien vu.
+20/04/2025, 13:04 - estelle Duterage Drion IA: Tu peux donner le lien
+20/04/2025, 13:04 - estelle Duterage Drion IA: Loukas ou Lokas?
+20/04/2025, 13:07 - Francois Bocquet: Lokas
+20/04/2025, 13:07 - Francois Bocquet: https://apps.apple.com/fr/app/lokas/id6738122428
+20/04/2025, 13:08 - Francois Bocquet: Mais bien qu’éthique, Framasoft ne respecte pas ses obligations légales puisque les mentions légales disponibles depuis le store iOS ne sont pas à jour du tout https://framasoft.org/fr/legals/ (pas mis à jour depuis 2014 !)
+20/04/2025, 13:08 - Francois Bocquet: Par ailleurs aucunes mentions légales dans l’application elle même
+20/04/2025, 13:09 - Francois Bocquet: Ça illustre bien la différence entre « affirmer être éthique » et « respecter la loi ». Faire les deux c’est l’idéal ;-)
+20/04/2025, 13:10 - Francois Bocquet: Pour accéder à l’application c’est ici -> https://framablog.org/2024/12/03/enregistrer-et-transcrire-vos-reunions-avec-lokas/
+20/04/2025, 13:10 - ‎+63 951 617 8845 a demandé à rejoindre le groupe.
+20/04/2025, 13:21 - ‎+32 475 82 24 59 est parti·e
+20/04/2025, 13:27 - ‎+63 951 617 8845 a rejoint ce groupe grâce à son lien d’invitation
+20/04/2025, 13:28 - Francois Bocquet: Je cite car c’est intéressant comme conception «  Si vous le souhaitez, pour une meilleure lecture des notes, vous pouvez attribuer un prénom (ou pseudo) aux participant⋅es. Pour obtenir des temps de parole par genre, vous pouvez aussi les attribuer manuellement, en vous assurant évidemment du consentement des personnes concernées à communiquer cette information. Notez que ces informations sont volontairement manuelles, et ne quittent pas votre téléphone, et ne sont donc pas transmises à Framasoft ou qui que ce soit. »

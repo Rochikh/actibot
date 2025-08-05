@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 18
+
+=== CONTENU ===
+Understand the Problem: Carefully read and understand the user's question or request.
+Break Down the Reasoning Process: Outline the steps required to solve the problem or respond to the request logically and sequentially. Think aloud and describe each step in detail.
+Explain Each Step: Provide reasoning or calculations for each step, explaining how you arrive at each part of your answer.
+Arrive at the Final Answer: Only after completing all steps, provide the final answer or solution.
+Review the Thought Process: Double-check the reasoning for errors or gaps before finalizing your response.
+Always aim to make your thought process transparent and logical, helping users understand how you reached your conclusion.
+20/09/2024, 22:15 - +33 6 85 03 31 84: Et qui fonctionnent sur iPhone et Android, aussi, ça m’intéresse 🤓
+21/09/2024, 02:33 - +33 6 49 84 08 41: Quelle option ?
+21/09/2024, 05:08 - Jean-Marc Everard: De pouvoir de filmer sur des slides, ou filmer son écran…
+21/09/2024, 05:51 - +41 78 927 90 96: null
+21/09/2024, 10:46 - +33 6 19 75 63 49: Ce message a été supprimé.
+21/09/2024, 10:46 - +33 6 19 75 63 49: Ce message a été supprimé.
+21/09/2024, 10:47 - +33 6 19 75 63 49: <Médias omis>
+21/09/2024, 10:47 - +33 6 19 75 63 49: <Médias omis>
+21/09/2024, 10:58 - +33 6 49 84 08 41: Ah oui merci !
+21/09/2024, 11:11 - Rochane: Une chose que je reproche à l'IA c'est l'exagération et voici un prompt venant de Benoît Raphaël qui te permet d'atténuer cette exagération que j'utilise beaucoup
+""" ENTRE ICI L'ARTICLE À MODIFIER """ Agis comme un réducteur d'emphase. Ta mission est d'analyser un texte, d'identifier les éléments exagérés et de le transformer en texte beaucoup plus nuancé, avec moins d'exagération dans les termes et dans l'importance donnée à l'info. Le texte ci-dessus à un score d'exagération de 90 sur 100. 0 correspondant à un article très nuancé et peu exagéré. Réécris ce post pour le ramener à un score de 10 d'exagération.
+21/09/2024, 11:15 - +33 6 72 27 57 91: Bonjour

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 14
+
+=== CONTENU ===
+07/11/2024, 16:19 - ‎+33 6 47 43 13 81 est parti·e
+07/11/2024, 17:14 - Francois Bocquet: La version en français est en cours de révision pour les élèves. Pour les profs c’est prévu d’ici décembre normalement.
+07/11/2024, 17:53 - ‎+33 6 82 82 74 21 a demandé à ajouter +33 7 57 02 28 21.
+07/11/2024, 17:56 - +33 6 34 01 06 77: Bonjour à tous, quelqu’un aurait des cours / formations ou des ressources à me partager sur l’accessibilité pédagogique ? (Je distingue accessibilité pédagogique de numérique bien sûr) <Ce message a été modifié>
+07/11/2024, 18:04 - +33 6 65 37 79 11: Hello, ça ne sera peut-être qu’une réponse partielle mais c’est une piste je pense https://open.devinci.fr/ressource/mooc-accessibilite-cours-en-ligne/
+07/11/2024, 18:10 - +33 6 34 01 06 77: Super merci beaucoup, je vais consulter
+07/11/2024, 19:08 - +33 6 25 79 50 95: Pour partage, la revue médiation et mediations – TELUQ - octobre 24 :
+https://revue-mediations.teluq.ca/index.php/Distances/issue/view/25
+"Comment les systèmes éducatifs intègrent l’IA dans leur gouvernance, leur gestion et leur politique. Cette revue aborde les enjeux éthiques, les défis  de  la  personnalisation  de  l’apprentissage  ainsi  que  les  risques  liés  aux  biais algorithmiques. Les articles présentés dans ce numéro proposent une réflexion sur les impacts  de  l'IA,  notamment  dans  le  développement  professionnel  des  enseignants,  la gouvernance  scolaire  basée  sur  les  données  ainsi  que  les  perceptions  et  usages  de technologies comme ChatGPT et les chatbots dans les milieux éducatifs."
+Au sommaire de cette revue médiation et mediations - teluq - octobre 24 :
+- Le développement professionnel des enseignants à et avec l’intelligence artificielle : une revue de littérature
+- Gouverner l’école à l’heure de l’IA : synthèse des connaissances sur la gouvernance scolaire basée sur les données
+- ChatGPT : quel en a été l’usage spontané d’étudiants de première année universitaire à son arrivée?
+- Élaboration et validation d’un référentiel éthique de l’intelligence artificielle en Éducation : cas du contexte marocain

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 13
+
+=== CONTENU ===
+26/06/2024, 10:06 - Rochane: Pareil que Jean Marc, les assistants de openai m'aident beaucoup dans les automatisations et pour des recherches rapides, Perplexity est d'un grand secours..
+26/06/2024, 10:17 - Céline Averseng: Merci pour vos retours !
+26/06/2024, 13:32 - Ludovic IA: Déjà, merci beaucoup pour ta réponse, qui m'a mis un doute bienvenu :) Donc oui Perplexity donne bien ses sources et des liens vers ses sources (par ex https://www.perplexity.ai/search/Vrifie-ces-informations-KjcsUY1yQpq0Z13d40MaAw#0 ). Mais avec un gros bémol puisqu'il interprète à sa sauce les sources d'informations qu'il trouve. Il tient donc des affirmations que sa source ne confirme pas de façon aussi claire. Perplexity reste à mon avis un bon outil pour le fact-checking mais avec un process un peu plus long: je génère un texte via une IA générative -> j'en fais vérifier le passage dont je ne suis pas certain par Perplexity -> je vérifie la source donnée par Perplexity pour m'assurer que ce dernier a bon
+26/06/2024, 13:46 - LIO: Perplexity donne les sources mais ce qu'elle en sort n'est pas précis.
+Elle ne renvoie pas vers des passages de textes ou citations.
+En revanche elle est top pour trouver des sources, un résumé par une ia ne permet pas de sauter l'étape qui demande le plus de travail: lire les auteurs et réfléchir.
+J'ai eu une erreur, elle m'annonce une pensée et une citation de Hugo sur l'inspiration...
+Après recherche,
+C'était Beaudelaire 😅
+26/06/2024, 13:47 - LIO: <Médias omis>
+26/06/2024, 13:50 - Céline Averseng: Est-ce que quelqu'un à un retour d'expérience à partager sur l'évaluation de rapport/mémoire ? ça fait quinze jours que j'y travaille : j'ai affiné ma grille critériée, mis des exemples, complété n fois mes prompts mais le résultat n'est franchement pas concluant. J'ai même obtenu un magnifique 9/20 à un rapport où il n'y avait que la page de garde 🤣…
+26/06/2024, 13:52 - Rochane: Tu as essayé avec aistudio.google.com en Gemini Pro1.5 ( gratuit)?
+26/06/2024, 13:53 - Céline Averseng: Pas encore. Pour le moment juste Chat GPT 4o. Je regarde !

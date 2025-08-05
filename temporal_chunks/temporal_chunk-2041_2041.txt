@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 25
+
+=== CONTENU ===
+Voici mes consignes :
+1. À ÉVITER :
+- Les participes présents (mots en -ant) comme transitions
+- Les expressions trop académiques ou impersonnelles comme : "crucial", "non seulement", "également", "mis en lumière", "bien que", "en conclusion", "en outre", "de plus", "par exemple"
+- Les verbes vagues : "pouvoir", "garantir", "préfigurer", "permettre", "optimiser", "faciliter"
+- Les doubles adjectifs ou adverbes consécutifs
+- Le vocabulaire technique non nécessaire
+2. NATUREL ET ÉQUILIBRÉ :
+- Varie la longueur des phrases sans exagération
+- Intègre 1-2 expressions idiomatiques ou tournures naturelles, sans en abuser
+- Ajoute une légère touche d'opinion personnelle, mais reste mesuré
+- Transforme les listes en paragraphes fluides
+- Propose des exemples concrets quand c'est pertinent
+- Si tu utilises une métaphore, qu'elle soit simple et naturelle, sans surcharge poétique
+3. CONSEILS D'ÉQUILIBRE :
+- Privilégie la clarté et la simplicité
+- Ne surcharge pas avec des figures de style
+- Garde l'authenticité : le texte doit sembler écrit par une personne ordinaire, pas par un poète
+- Adapte le ton au sujet et au contexte
+Voici le texte à transformer :
+[TEXTE GÉNÉRÉ PAR L'IA]
+02/04/2025, 17:24 - Ahmadou Ba: Ce prompt est très bon. Je l'ai pas encore testé vraiment, mais l'idée de l'integrer à mes prompts comme contraintes de production. Au lieu de mettre en aval de la réponse, pourquoi ne pas le mettre dès le début, comme contraintes.
+02/04/2025, 17:30 - Votre code de sécurité avec +225 0789582364 a changé. Appuyez pour en savoir plus.
+02/04/2025, 18:25 - Batier Christophe: Pour ceux que cela intéresse atelier en direct jusqu'à 19h sur l'intégration de l'IA dans Lumio dans le cadre des ludoviales
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTc2M2YxMTYtMzQzMS00Yjg2LTk0NDctNjViNzRhMWRkMzA0%40thread.v2/0?context=%7b%22Tid%22%3a%22afad3be2-b0d8-4512-acf4-2cc0111e2132%22%2c%22Oid%22%3a%223483ab22-299e-47b7-b786-c2b7e8906d69%22%7d <Ce message a été modifié>

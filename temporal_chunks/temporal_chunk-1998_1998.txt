@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 547
+Messages: 19
+
+=== CONTENU ===
+25/03/2025, 15:25 - Gregoire IA: et honnêtement, le rapport me donne les clés pour ajuster mon agent... on verra dans la démo à combien je descends 😛
+Donc, amis prof... comme on le dit de plus en plus : pas le choix que de faire évoluer les évaluations 😇
+25/03/2025, 15:31 - +33 6 89 54 90 68: Intéressant Grégoire, quel outil utilises-tu pour analyser ton texte généré ?
+25/03/2025, 15:31 - Gregoire IA: le mien 😛
+25/03/2025, 15:32 - Gregoire IA: un agent qui fait bosser Claude 3.7, DeepSeek et le Deep Search de Perplexity Sonar
+25/03/2025, 15:32 - Gregoire IA: il y a tout un processus de travail que je demande à mon agent, je peux intervenir sur chaque étape pour la corriger ou l'ajuster
+25/03/2025, 15:37 - +33 6 89 54 90 68: ah tu as un outil qui génère et un outils qui analyse ?
+25/03/2025, 15:39 - Gregoire IA: 2 en 1
+25/03/2025, 15:44 - Gregoire IA: je dois ajuster encore qques (minis) bug avant de la partager et quand le video est ok je vous la partage.
+25/03/2025, 15:52 - Gregoire IA: <Médias omis>
+25/03/2025, 16:12 - StéphaneIA: concernant la partie détection du texte rédigé par un LLM de part la nature des LLMs et leur fonctionnement je resterai très prudent sur le concept de détection. Un LLM n'analyse pas il génère du texte. Je n'ai rien vu de probant jusque maintenant et de par nature demander à LLM de vérifier cela ne me semble pas cohérent. Avis personnel.
+25/03/2025, 16:22 - Rochane: Tu voudrais pas nous mettre l'eau à la bouche ce jeudi lors du live ?
+25/03/2025, 16:42 - Gregoire IA: Ça devrait le faire, 20h pour vous ?
+25/03/2025, 16:45 - Rochane: Oui
+25/03/2025, 16:46 - Rochane: Ça me permet de rappeler que le programme est top. Inscrivez-vous au live de jeudi
+Message épinglé 👆
+25/03/2025, 16:53 - Rochane: Découvre les pictogrammes (comme les Creative Commons )pour l'IA générative à l'UQAC ! Utilise-les pour indiquer le niveau d'IA dans tes contenus.
+https://www.uqac.ca/ressourcespedago/iag/
+25/03/2025, 17:11 - +33 7 80 42 87 32: Effectivement très intéressant ! Il y a également Sherbrooke qui propose des balises indiquant le niveau d'autorisation de l'utilisation de l'IA que l'enseignant peut  utiliser dans ses consignes

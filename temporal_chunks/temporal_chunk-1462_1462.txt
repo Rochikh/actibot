@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 564
+Messages: 6
+
+=== CONTENU ===
+24/12/2024, 10:26 - +33 6 80 15 26 95: bonjour, robin et jean marc, si cela vous intéresse je peux vous montrer ce qu'on a mis comme agents pour des universités et des grandes écoles en place via nos outils IA K2R2 (Assistant Pédagogique et Tuteur et RH) mais c'est des produits commerciaux. Maintenant nous cherchons à monter un pilote en Belgique donc il y a peut-être des solutions à trouver. n'hésitez pas à me contacter si cela vous intéresse.
+24/12/2024, 10:37 - Francois Bocquet: A mon avis, pour respecter les obligations légales il n’y à aujourd’hui que 3 solutions : héberger soit même un service complet (en étant très vigilant sur le cadre contractuel des API utilisées), passer par un prestataire de type K2R2, Stellia ou Mistral avec contrat de sous traitance carré, utiliser des services inclus dans les suites bureautiques comme Google Workspace avec la famille Gemini ou Office 365 avec Copilot ou encore Adobe ou Canva si génération d’images. Tous les autres montages ne permettent pas de respecter les obligations RGPD :-(
+24/12/2024, 10:42 - Jean-Marc Everard: Merci bcp François, quand tu parles de contrat de sous traitance « carré » avec Google ou Microsoft, tu sous-entends des modifications de leurs clauses habituelles ? Même si je m’oriente plutôt vers la première solution, la deuxième pourrait être plus simple à brève échéance.
+24/12/2024, 10:45 - Francois Bocquet: Non les deux sont très bien encadrés depuis très longtemps à condition d’utiliser les services professionnels orientés éducation (et pas les comptes grand public). Il y a même des services gratuits qui permettent d’avancer très rapidement avec des gestions possibles pour certains utilisateurs. Et surtout l’avantage d’une intégration très forte avec la bureautique et les stockages de documents.
+24/12/2024, 10:51 - Jean-Marc Everard: Merci beaucoup, j’ai déjà un compte pro sur les 2 plateformes et les contacts pour avancer sur les aspects éducation donc même je garde une certaine réticence (les pays bas ont expérimenté des différences entre la confidentialité sur papier et puis réelle de grands groupes) je vais avancer par là. Merci des conseils 🙏. Et bonnes fêtes déjà !
+24/12/2024, 11:09 - +32 483 60 53 96: Merci des conseils et bonnes fêtes ! 🎄

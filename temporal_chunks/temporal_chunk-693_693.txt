@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 10
+
+=== CONTENU ===
+Merci d’avance pour votre partage !
+01/07/2024, 15:09 - +212 644-562660: la confidentialité va poser un tres tres gros probleme, dailleurs c un des problemes que j ai recontré moi même. Si tu veux de l interactivité dans tes slides, ben powerpoint me semble assez suffisant pour gamifier les modules. Ca va prendre du temps et de l’effort certes, mais croit moi ca vaudra pleinement le coup. Voici une des chaines sur youtube qui montrent comment gamifier avec powerpoint si ca t interesse  https://www.youtube.com/@oneskill_ppt
+01/07/2024, 15:12 - +212 644-562660: par contre tu peux utiliser coassemble et supprimer le training de leur cloud interne, apres avoir telecharger le fichier SCORM du training bien entendu. https://coassemble.com/courses
+01/07/2024, 15:15 - +33 6 79 52 83 80: Justement je voulais pas utiliser PowerPoint …… je vais regarder .
+01/07/2024, 15:49 - +32 493 87 42 05: J'ai testé du texte en connaissant les sources pour juste voir s'il me donnerait les vrais sources et ça tjs été bon. Mais bref j'emploie pas encore bcp.
+01/07/2024, 15:51 - +32 493 87 42 05: Gamma j'ai utilisé pour des PowerPoint puis pofiner j'étais contente du rendu mais côté confidentialité j'en ai aucune idée.
+01/07/2024, 16:04 - +212 644-562660: bluffante l app, on peut même créer des site à partir des presentation qu on génerer avec, ca me donne vraiment plein d idées à essayer. Merci beaucoup pour le tuyeau
+01/07/2024, 17:47 - ‎+32 465 81 15 72 a demandé à ajouter +216 95 590 145.
+01/07/2024, 19:45 - Votre code de sécurité avec +33 6 28 84 68 23 a changé. Appuyez pour en savoir plus.
+01/07/2024, 21:23 - Fred IA: Bonsoir. J'en profite pour rebondir sur la création de sites gamma : certains auraient ils par hasard des retours d'expériences à partager ? Notamment en terme de pérennité, type de contenu, quota maxi de dépôt de fichiers (?) (sous réserve que cela soit possible). Personnellement, j'avais rapidement testé en créant un site mais l'URL était détectée comme malveillante par avast sur mon pc. Par contre, sur smartphone, ça passait <Ce message a été modifié>

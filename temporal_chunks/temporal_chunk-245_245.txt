@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 16
+
+=== CONTENU ===
+01/03/2024, 11:01 - +33 6 22 14 03 93: Peut être que nous pourrions « externalisé » la formation de la plateforme ?
+01/03/2024, 11:02 - Francois Bocquet: On est d’accord. Pas assez carré pour des formations RGPD sauf si on est adepte du « faites ce que je dis mais pas ce que je fais » ;-)
+01/03/2024, 11:04 - Francois Bocquet: En communauté produit en Europe et en France il y’a Whaller   https://whaller.com/fr
+01/03/2024, 11:07 - Francois Bocquet: Sinon possible aussi d’installer Elgg sur un IaaS. C’est outil de communauté open source utilisé par l’INRIA par exemple https://elgg.org/
+01/03/2024, 11:09 - Francois Bocquet: Ça a dix ans mais c’est très bien maintenu, fonctionnel et facilement maîtrisable de À à Z
+01/03/2024, 11:10 - Guillaume Singeot: https://www.talkspirit.com/ et thttps://www.atolia.com/fr également (français, rgpd ok visiblement)
+01/03/2024, 11:20 - +33 6 22 14 03 93: Merci pour le partage @33662364404.
+Whaller ne correspond pas tout à fait à mes besoins mais c’est très intéressant de découvrir ce qui existe sur le marché.
+01/03/2024, 12:16 - Agathe: @33649535198 @33612461406 C'est OK pour moi quand vous voulez pour une présentation de Coassemble. Pouvez-vous me préciser quel est le format habituel (durée de la présentation, objectifs, …) ?
+01/03/2024, 12:19 - Guillaume Singeot: "Traditionnellement" il y a une visio par mois. Mais pour moi, tu fais ça comme tu veux et quand tu veux! A voir avec les 298 autres membres ;)
+01/03/2024, 12:20 - Rochane: On lance un sondage, pour la date, lundi prochain
+01/03/2024, 12:20 - Agathe: Si je peux m'intégrer dans la prochaine visio mensuelle ça me va bien :)
+Et sinon, sur la durée de la présentation ?
+01/03/2024, 12:21 - Rochane: Entre 5 et 10 minutes maximum
+01/03/2024, 17:16 - Jean-Marc Everard: Sinon, il y aussi easygenerator : https://www.easygenerator.com/fr/ Je ne l’ai pas encore testé mais il peut exporter en SCORM ou même xAPI.
+01/03/2024, 18:01 - Jacques BARATTI: Pour générer des qcm le plugin "texttoquestions" fonctionne avec l'API de ChatGPT (donc GPT4 turbo), il donne des questions avec feedback et les intègre directement dans la banque de questions de Moodle

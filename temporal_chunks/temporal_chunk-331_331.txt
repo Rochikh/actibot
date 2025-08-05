@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 18
+
+=== CONTENU ===
+24/03/2024, 22:44 - Yvelines: https://files.inria.fr/mecsci/classcodeIAI/pdf/fiches_pedagogiques/IAI_lexique.pdf
+24/03/2024, 22:47 - Yvelines: https://www.linkedin.com/feed/update/urn:li:activity:7169225196170592256?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7169225196170592256%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+25/03/2024, 06:33 - Votre code de sécurité avec +32 472 12 69 99 a changé. Appuyez pour en savoir plus.
+25/03/2024, 08:48 - Pierrick BRIAND: Ce message a été supprimé.
+25/03/2024, 10:33 - Pierrick BRIAND: Des services automatisés proposent d'écrire vos mémoires grâce à l'IA 😱 : https://www.radiofrance.fr/franceinfo/podcasts/aujourd-hui-c-est-demain/intelligence-artificielle-des-services-automatises-proposent-d-ecrire-vos-memoires-2871406
+25/03/2024, 10:53 - Francois Bocquet: J’obtiens un message d’erreur :-(
+25/03/2024, 10:53 - Francois Bocquet: <Médias omis>
+25/03/2024, 10:53 - Francois Bocquet: Une piste ?
+25/03/2024, 11:10 - Ahmadou Ba: C légale ça.
+25/03/2024, 11:11 - Lucie: Étonnant 😕
+25/03/2024, 12:06 - Pierrick BRIAND: Désolé @33662364404 , à vouloir éviter que le logo s’affiche dans le fil de discussion, j’ai fais pire que pire 😕
+Voici le bon lien :
+https://academy.apolearn.com/classroom/29444
+25/03/2024, 12:06 - Francois Bocquet: Un grand merci !
+25/03/2024, 12:07 - Pierrick BRIAND: C’est assez étrange, sur quel sujet et dans quelle langue ?
+25/03/2024, 12:08 - Pierrick BRIAND: Merci @33649535198 et @32473613983 pour les termes de l’IA. C’est vrai que nous n’évoquons pas beaucoup cela dans le fil de discussion de la communauté. Notez qu’il existe aussi des termes adaptés à un contexte éducatifs. Je vous propose d’en découvrir quelques-uns sur la formation « Maîtriser l’IA pour la formation » : https://academy.apolearn.com/classroom/29444
+25/03/2024, 12:54 - Yvelines: Merci @33672091809
+25/03/2024, 12:58 - Perrine: Pour les enseignants aussi https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/#:~:text=Les%20applications%20et%20technologies%20d,recommandation%20automatique%20de%20ressources%20%C3%A9ducatives.

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 11
+
+=== CONTENU ===
+21/04/2025, 09:00 - +33 6 34 15 77 84: Idem je suis très contente de Plaid qui permet non seulement de retranscrire toute réunion ou conversation téléphonique mais aussi de les résumer et ce de manière très fiable 🤗
+21/04/2025, 10:55 - Nicolas Deguerry: Je l'ai acheté lors de la campagne de crowdfunding et je l'utilise depuis décembre 2023. Cela simplifie énormément les transcriptions mais je ne suis pas aussi enthousiaste que certains quant au rendu. Je trouve Dicte, IA française citée par Rochane, beaucoup plus performant, notamment dans la gestion de locuteurs multiples. Au-delà de la transcription, Plaud est connecté à GPT-4o, Claude Sonnet 3.5 et 03-mini (en beta). Différents modèles de résumés sont proposés (conférence, questions/réponses, points clés, ...) mais on peut aussi créer ses propres prompts. Côté prix, différents tarifs sont proposés en fonction du quota de transcription. Je paie 7,49 euros par mois pour 1200 minutes.
+Côté hardware, le format carte plaqué au dos du téléphone est vraiment pratique. On peut aussi l'utiliser comme simple dictaphone et sunchroniser plus tard avec le tél.
+En résumé, je me porte mieux avec cet outil que sans, 😉, mais, dans mon expérience d'usage, des marges de progrès existent pour que je lui fasse entièrement confiance.
+21/04/2025, 11:07 - estelle Duterage Drion IA: Bonjour, je suis sur la carte mentale de Notebooklm et je voulais savoir si on pouvait la télécharger de façon interactive, mais j’ai l’impression que non. Merci pour votre confirmation.
+21/04/2025, 11:27 - Rochane: Non uniquement en PNG et c'est pas terrible
+21/04/2025, 12:15 - ‎+213 778 90 63 79 a demandé à rejoindre le groupe.
+21/04/2025, 12:15 - ‎+213 668 29 76 75 a demandé à rejoindre le groupe.
+21/04/2025, 13:37 - +33 7 87 38 87 69: https://turboscribe.ai/fr/
+Bonjour
+J'utilise TurboScribr depuis quelques temps pour retranscrire des enregistrements vidéo en texte. J'ai pris la version payante 120$/an. Cet outil fait gagner un temps énorme, reconnaît plusieurs locuteurs et ne fait quasiment pas d'erreur en version baleine.

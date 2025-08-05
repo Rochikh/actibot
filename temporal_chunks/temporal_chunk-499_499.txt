@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 21
+
+=== CONTENU ===
+Dans la réalité on est encore loin en France.
+Mon mémoire est sur l'ia et l'éducation
+Je traite de la créativité
+Puis de l ingenierie du prompt et je termine par la sujbectivation et l'individuation.
+Ma directrice de mémoire ne me comprends pas pourquoi je parle du prompt et je me sens seule au monde.
+J'ai pourtant bien cité Lucie, la distanciation, je croyais arriver naturellement vers le Sujet.
+Encore merci a tous.
+10/05/2024, 11:16 - Ahmadou Ba: C'est grave ce que vous dites. Puis-je partager dans mes groupes pour mes autres groupes pour alerter les amis.
+10/05/2024, 11:23 - +33 6 76 04 48 20: Si vous voulez, oui.
+Grave… je ne sais pas : il faut partir de l’idée que tout ce qui est sur Internet aujourd’hui est ouvert à tout le monde.
+Même le contenu de nos propres ordinateurs (qui aujourd’hui n’est pas connecté 24/24 ?).
+Aujourd’hui on nous vante la sécurité des passkeys, mais ce n’est qu’une question de temps…
+Le paradoxe « amusant » est que si on veut de la sécurité, il faut revenir au bon vieux carnet de notes et au stylo.
+10/05/2024, 11:44 - Vincent DROUOT: Oui, en effet, j’ai trouvé un tableau comparatif des messageries instantanées (WhatsApp, Telegram, Signal, etc…). C’est Signal qui est la plus sécurisée. Je viens de redemander à Perplexity de me faire un tableau à jour :
+10/05/2024, 11:44 - Vincent DROUOT: <Médias omis>
+10/05/2024, 11:45 - Vincent DROUOT: mais le pire n’est pas là…
+Les systèmes de notification (petits messages qui nous préviennent de l’arrivée d’un message, avec le début du message) ne sont pas sécurisés :
+10/05/2024, 11:45 - Vincent DROUOT: https://www.usine-digitale.fr/article/notif.N2202613
+10/05/2024, 12:12 - +32 477 45 68 37: Bonjour, si cela peut vous intéresser, nous venons de restructurer la partie "ressources" de l'IA box en sous-catégories pour faciliter les recherches https://lesrochdur.com/ia-box-education/ Beau we ensoleillé 🙂
+10/05/2024, 12:42 - +33 6 76 04 48 20: C’était une évidence !
+Qui parmi nous n’a jamais reçu de messages publicitaires suite à une conversation eue à proximité de son téléphone portable ?

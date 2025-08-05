@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 12
+
+=== CONTENU ===
+26/10/2023, 08:26 - Larissa: https://eden-europe.eu/2023-european-open-and-digital-learning-week-eodlw-education-in-the-digital-age-what-can-we-do-better-programme-announced/ - Je suis ce consortium aussi. Ils ont une semaine de séances en ligne bientôt avec des sessions sur l'IA en anglais.
+26/10/2023, 08:36 - ‎+33 6 15 20 18 94 a rejoint le groupe à partir de la communauté.
+26/10/2023, 09:09 - ‎Jean-Marc Everard a rejoint le groupe à partir de la communauté.
+26/10/2023, 09:35 - ‎+32 495 27 41 00 a rejoint le groupe à partir de la communauté.
+26/10/2023, 10:40 - Ahmadou Ba: Google Forms est bon bon pour ça mais s’il récupère les mails, il peut embêter les utilisateurs avec le captcha surtout s’il y a bcp de connexion en simultané et ça c démotivant. J’ai essayé Wooclap il est bon et puis vous pouvez partager des ressources indépendamment du quiz. Les élèves peuvent utiliser leur nom ou des pseudo.
+26/10/2023, 10:53 - +33 6 63 72 18 15: Peut-être Wooflash ?
+26/10/2023, 10:54 - +33 6 63 72 18 15: Bonjour à tous,                                                                 Est-ce que quelqu'un connaît ce LMS ? je suis en train de le tester en version free, pas de traçage des résultats possibles mais franchement c'est bluffant je trouve https://www.edapp.com <Ce message a été modifié>
+26/10/2023, 11:17 - Ahmadou Ba: Oui mais wooclap existe et peut importer des fichiers à partir de wooflash https://www.wooclap.com
+26/10/2023, 11:18 - ‎+32 497 91 17 24 a rejoint ce groupe grâce à son lien d’invitation
+26/10/2023, 11:54 - ‎+32 494 07 27 37 a rejoint le groupe à partir de la communauté.
+26/10/2023, 12:57 - Larissa: J'ai essayé Tally et le problème est qu'il ne me laisse pas lui dire quelles sont les bonnes réponses...c'est axé Sondage et Retour mais pas bonne réponse, mauvaise réponse. Je dois ajouter des conditional logic ce qui complique les choses. Même problème avec Google Forms.
+26/10/2023, 12:58 - ‎+32 471 59 75 84 a rejoint ce groupe grâce à son lien d’invitation

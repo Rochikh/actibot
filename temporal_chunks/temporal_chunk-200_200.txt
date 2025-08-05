@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 12
+
+=== CONTENU ===
+Une autre façon de procéder peut-être plus pragmatique serait de rentrer un CV dans ChatGPT, et de lui demander de l’interpréter ou de le reformuler.
+Une deuxième façon de procéder serait d’entrer chacune des expériences vécues pour lui demander la même chose, de même pour chacun des domaines de compétences, en lui demandant de les requalifier, de demander des adjectifs, qui puissent permettre de mettre la compétence en valeur.
+Il s’agit en fait d’utiliser l’IA comme un outil ((ce qu’elle est véritablement) plutôt que de lui demander de faire le travail à notre place.
+Qu’en pensez-vous ?
+10/02/2024, 19:11 - ‎+212 644-562660 a rejoint le groupe à partir de la communauté.
+10/02/2024, 19:26 - Céline Averseng: Tout à fait d'accord ! Je pense que c'est en effet la solution si on veut éviter de se retrouver avec des CV qui n'auront pas grand intérêt...
+10/02/2024, 19:33 - Rochane: Exactement et d'ailleurs tous ces outils qui font des présentations ou qui génèrent des CV sont programmés avec des préprompts qui vont dans ce sens.On peut très bien comme tu le dis procéder étape par étape en travaillant sur les expériences et en lui montrant des exemples, en insistant sur le style... Tout ça nécessite un travail soutenu mais le résultat est personnalisé et nettement meilleur que si on se laissait faire 🙂
+10/02/2024, 19:45 - +33 6 76 04 48 20: Effectivement, j’ai découvert l’IA depuis quelques semaines seulement dans le cadre de ma formation FPA.
+Je suis stupéfait de ce qu’elle permet, mais je m’aperçois que par réflexe j’ai eu tendance à l’utiliser comme un moteur de recherche haut de gamme (résultat que nous pouvons obtenir en consultant les metamoteurs) alors qu’en ayant ce travail soutenu pour reprendre ton expression, très juste à mon sens, on peut en obtenir beaucoup plus.
+Il est clair que nous avons du pain sur la planche 😜
+10/02/2024, 21:27 - ‎+58 414-0445031 est parti·e
+11/02/2024, 12:33 - Rochane: https://www.now.be/off/les-outils-ia-en-formation-de-la-conception-a-la-mise-en-oeuvre/ merci @32494186355

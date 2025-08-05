@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 12
+
+=== CONTENU ===
+26/06/2024, 15:02 - +237 99148639: Bonjour la communauté, en dehors de Gamma, quel outil IA gratuit avez vous deja testé pour les presentations illustratives
+26/06/2024, 15:02 - Ahmadou Ba: Pour cela vous avez créer un GPT ou bien vous utilisez directement GPT 4o sur la plateforme. Je travaille sur un projet similaire mais je dois evaluer les échanges des etudiants dans une plateforme e-learning.
+26/06/2024, 15:02 - +237 99148639: Que pouvez vous me conseiller svp? Merci d'avance
+26/06/2024, 15:05 - Ahmadou Ba: c tout l'intérêt de perplexity si tout ce que l'on reproche est averé. Les bonnes informations sont payantes, donc si on a quelqu'un qui peut contourner ces protocoles c'est bon pour nous. Mais pas trop quand même. La recherche a un coup egalement qu'il faudra rentabiliser.
+26/06/2024, 15:06 - Ahmadou Ba: Canva est bon, et il y a les GTP aussi j'en ai vu pleins il faut faire un tour sur les GPT store
+26/06/2024, 15:08 - +237 99148639: Ok j'y vais en courant
+26/06/2024, 15:19 - +33 6 40 65 69 66: J’utilise directement GPT4. J’avais les rapport en version pdf.
+26/06/2024, 15:20 - Rochane: Pas compris, tu mets un pdf dans Gpt 4 et tu récupères un ppt?
+26/06/2024, 15:31 - +33 6 40 65 69 66: non, je répondais à une question sur l’évaluation! sorry si les conversations se mélangent.
+26/06/2024, 16:12 - Ahmadou Ba: Ah d'accord, pourquoi ne pas entrainer un GPT avec la grille pour ensuite ne lui donner que les travaux à evaluer. Cela évite d'avoir à écrire de longues requête, le nombre d tokens est decompté sur l'entrée aussi. J'ai essayé un gpt avec premier critère à evaluer mais le rendu est assez bon.
+26/06/2024, 16:49 - +33 6 40 65 69 66: Oui c’est ce que j’ai fait. J’ai donné les critères puis les rapports à file. Il a fait également des comparaisons entre les rapports selon mes demandes spécifiques.
+26/06/2024, 17:32 - Fred IA: Le créateur de Dicte ai (encore merci Rochane, pour cette pépite 👍) : https://www.linkedin.com/posts/ciprianmelian_les-meilleurs-outils-dia-en-france-t%C3%A9moignage-activity-7210533967014313984-8I9C?utm_source=share&utm_medium=member_ios

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 19
+
+=== CONTENU ===
+05/10/2024, 14:20 - ‎+33 6 62 00 13 87 est parti·e
+05/10/2024, 14:24 - Fred IA: Un copier coller du texte brut dans gamma 🙂
+05/10/2024, 14:31 - Francois Bocquet: Les informations sont ici
+05/10/2024, 14:31 - Francois Bocquet: https://www.make.com/en/privacy-notice
+05/10/2024, 14:48 - Francois Bocquet: A priori c’est carré pour une relation B2C (contrat passe entre l’utilisateur final et l’éditeur) sous réserve d’avoir un représentant juridique en Europe (pas évident). Plus compliqué si contrat B2B entre une organisation et l’éditeur car explicitation nécessaire du rôle de sous traitant de l’éditeur qui n’est de fait plus responsable de traitement (pas indiqué dans les mentions légales).
+05/10/2024, 15:44 - +33 6 20 97 18 83: @33662364404 merci.
+05/10/2024, 15:45 - +33 6 49 95 38 23: Godot.
+05/10/2024, 15:51 - +33 6 49 95 38 23: A-t-il essayé Tesseract ?
+05/10/2024, 15:54 - +33 6 49 95 38 23: On peut faire de la programmation par flux ou par blocs.
+05/10/2024, 15:58 - ‎+33 6 99 86 52 93 a demandé à rejoindre le groupe.
+05/10/2024, 17:51 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+05/10/2024, 17:54 - ‎+33 6 99 86 52 93 a rejoint le groupe à partir de la communauté.
+05/10/2024, 17:55 - Rochane: Vidnoz AI est un outil de création vidéo IA avec avatars réalistes et voix synthétiques. Idéal pour l'éducation, il permet de créer du contenu pédagogique personnalisé. Le forfait gratuit offre 3 minutes de vidéo par jour, des avatars, des voix multilingues et des modèles, permettant d'expérimenter sans frais.
+https://fr.vidnoz.com/
+05/10/2024, 18:38 - +33 6 49 95 38 23: @33676381571 sinon il y a  ça https://github.com/Ucas-HaoranWei/GOT-OCR2.0
+05/10/2024, 20:47 - +33 6 49 84 08 41: Le site pdf24 m'a bien servi à moi, + correction des confusions après dans Mistral
+05/10/2024, 22:37 - +33 6 49 84 08 41: null
+05/10/2024, 23:02 - ‎+32 484 02 33 40 est parti·e
+06/10/2024, 09:30 - ‎+33 6 37 64 30 94 a demandé à rejoindre le groupe.

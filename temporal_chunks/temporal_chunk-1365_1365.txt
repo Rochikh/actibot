@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 16
+
+=== CONTENU ===
+01/12/2024, 06:02 - Denis: Un peu de détente https://cursus.edu/fr/32309/quand-les-anciens-mythes-eclairent-lintelligence-artificielle
+01/12/2024, 08:30 - +33 6 60 20 86 76: Ce message a été supprimé.
+01/12/2024, 08:57 - Rochane: Pour celles et ceux qui s'intéressent à l'évolution de l'IA et aux dernières news, cette vidéo montre les limites des modèles d'IA actuels. L'approche du "scaling" est remise en question. Le Dino World model est présenté comme une alternative prometteuse, il privilégie l'adaptabilité et la planification plutôt que la simple mémorisation de données
+https://www.youtube.com/watch?v=L449Qrc0U4k
+01/12/2024, 10:35 - +33 6 72 75 43 48: Bonjour j’accueille un jeune en stage prochainement et sa mission sera de créer un blog .. avez-vous des recommandations d’outil gratuit et facile pour la prise en main ? J’ai pensé à WordPress ou Wix ? Que pensez vous de Gamma en IA ? Merci pour votre aide bon dimanche Michèle
+01/12/2024, 10:40 - +32 479 82 01 20: Bonjour Michelle. Un blog connecté à votre site ? Il est sur quel outil votre site ?
+01/12/2024, 10:41 - +33 6 72 75 43 48: Pas forcément connecté à mon site car je prévois de modifier mon site prochainement .. je pensais créer une page de blog spécifique
+01/12/2024, 10:41 - +33 6 72 75 43 48: Les personnes seraient invitées à se connecter via un lien
+01/12/2024, 10:42 - +32 479 82 01 20: Donc avec login et mot de passe ?
+01/12/2024, 10:45 - ‎+216 98 557 907 a demandé à rejoindre le groupe.
+01/12/2024, 10:47 - +33 6 72 75 43 48: Hum bonne question … y a t il plus simple ?
+01/12/2024, 10:48 - ‎+216 98 557 907 a rejoint ce groupe grâce à son lien d’invitation
+01/12/2024, 10:48 - ‎+212 658-518929 est parti·e
+01/12/2024, 10:50 - +32 479 82 01 20: De manière générale un blog est public sans besoin d'y créer un compte et de s'y connecter. Vous pouvez rapidement en créer un avec WordPress.
+01/12/2024, 10:51 - +33 6 72 75 43 48: Ok top merci beaucoup
+01/12/2024, 10:51 - +32 479 82 01 20: Il sert surtout pour communiquer avec ses prospects et gagner en référencement sur les moteurs de recherche. Mais dans votre cas quelle sera l'utilité du blog ?

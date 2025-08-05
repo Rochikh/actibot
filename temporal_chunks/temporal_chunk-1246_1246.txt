@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 9
+
+=== CONTENU ===
+Pour enrichir cette discussion, je voulais vous partager une première expérimentation pédagogique que j’ai réalisée : la pédagogie inversée assistée par l’IA.
+Vous connaissez sans doute le principe de la pédagogie inversée : on fournit des supports de cours aux étudiants, qu’ils sont censés lire avant le cours. L’objectif est qu’en séance, le cours devienne une discussion sur les points qui les intéressent concernant ces supports.
+Dans la pratique, cependant, peu d’étudiants lisent réellement les supports. Cela aboutit souvent à une discussion limitée avec deux ou trois étudiants qui ont fait le travail, tandis que les autres tentent de suivre tant bien que mal.
+Avec la pédagogie inversée assistée par l’IA, j’intègre une approche inspirée de la méthode agile, basée sur des sprints et des pauses. Voici comment cela fonctionne :
+1.	Sprint de recherche d’informations : pendant le cours, les étudiants utilisent des outils comme ChatGPT, Search, ou Perplexity pour rechercher des informations en lien avec le sujet. Cela se fait en temps réel, avec une assistance de l’IA.
+2.	Mise en commun et synthèse : les informations collectées par les étudiants sont regroupées dans un document commun. L’IA intervient ensuite pour résumer ce contenu, éliminer les redondances et proposer une synthèse claire.
+3.	Pause et discussion : une fois la synthèse terminée, nous passons à un moment d’échange critique. Les étudiants discutent des informations trouvées, évaluent leur pertinence, et critiquent les apports de l’IA.
+Ce processus est particulièrement efficace. Les étudiants sont actifs : ils doivent lire, critiquer et participer à la discussion, ce qui favorise leur compréhension et leur appropriation des concepts.
+J'ai réalisé 10h de cours de cette manière avec une promo de 40 étudiants sur le sujet de l'ingénierie de projet jusqu'ici, les premières conclusions sont une perte de temps d'environ 20 à 30% pour traiter le sujet en revanche les résultats lors de l'exam sont probants 80% des notes sont supérieures à 16 et les étudiants manifestent une très bonne compréhension et intégration des concepts du cours.

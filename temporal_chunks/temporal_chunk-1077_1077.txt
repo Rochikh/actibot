@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 15
+
+=== CONTENU ===
+15/10/2024, 12:07 - Adrien Bock IA: Non je n’ai jamais entendu parler mais un feedback peut être intéressant
+15/10/2024, 12:08 - Adrien Bock IA: Le seul hic que j’ai avec notebooklm c’est le stockage des données
+15/10/2024, 12:13 - ‎Clément Cahagne a ajouté +33 6 24 10 13 66
+15/10/2024, 12:16 - Jacques BARATTI: Les données sont sur les serveurs de Google donc...
+15/10/2024, 13:12 - +33 6 13 43 58 18: Vous pouvez anonymiser les données de _Google Workspace for Education_ grâce à la société française iDruide, dont les serveurs sont en France.
+Ils sont même chaque année au salon Educ@Tech à côté du stand Google.
+https://idruide.com/
+Le souci, c’est que pour tout ce qui concerne l’IA, Google, OpenAI et les autres font tout pour garder l’accès à leurs données (le nerf de la guerre).
+15/10/2024, 13:13 - Rochane: pas encore possible de déposer des pdf mais c'est prometteur en écoutant les podcasts générés https://illuminate.google.com/home?pli=1
+15/10/2024, 13:16 - +225 0789582364: Bonjour Connaissez-vous une IA gratuite payante qui génère une vidéo à partir d'une image et d'un texte ?
+NB : l’image est un personnage célèbre
+Est-ce possible ?? J’ai testé lumalabs j’ai pas réussi
+15/10/2024, 13:16 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+15/10/2024, 13:22 - Jacques BARATTI: Ce n'est pas possible d'accéder au site pour le tester, je suis sur liste d'attente, par contre on peut écouter des podcasts de démonstration
+15/10/2024, 13:53 - Francois Bocquet: Rappel : ici ce n’est pas de l’anonymisation mais de la pseudonymisation (puisque c’est réversible). Attention aux allégations des entreprises. Par ailleurs l’usage des services d’IA de Google a partir de Workspace éducation est soumis à une licence qui indique que les données produites ne sont pas réutilisées pour entraîner des modèles et restent soumises au contrat général relatif à l’éducation. Le seul problème c’est que l’IA n’est contractuellement pas utilisable avec des élèves mineurs.

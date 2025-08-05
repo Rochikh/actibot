@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 573
+Messages: 16
+
+=== CONTENU ===
+13/11/2024, 09:12 - +32 479 82 01 20: Avec ElevenLabs par exemple pour cloner la voix
+13/11/2024, 09:13 - +33 6 80 25 63 41: Je suis dans le même dynamique que toi et avec la même envie 😊
+13/11/2024, 09:13 - +33 6 99 15 13 77: Effectivement, cette fonctin vocale de ChatGPT, dispo depuis quelques jours pour ma part est bien sympa. Je viens de faire un essai dans une discussion avec chatGPT a qui j'ai demandé de me corriger. il fait l'accompagnement avec joie.
+13/11/2024, 09:13 - +33 6 59 35 23 38: Oui, c'est d'ailleurs via ElevenLabs que Heygen (via une API) génère la voix de l'avatar
+13/11/2024, 09:14 - +32 479 82 01 20: Oui c'est ça
+13/11/2024, 09:14 - +33 6 59 35 23 38: Je trouve d'ailleurs que c'est le fait d'entendre sa propre voix prononcer parfaitement une langue qui constitue la plus-value la plus grande, la vidéo étant la cerise sur le gâteau
+13/11/2024, 09:14 - +32 479 82 01 20: Je suis d'accord 😊
+13/11/2024, 09:14 - +32 479 82 01 20: Bon challenge en perspective 🙌
+13/11/2024, 09:15 - +33 6 59 35 23 38: Merci pour ces conseils Youssef. Tu es aussi ingé péda ? Prof de langues ?
+13/11/2024, 09:16 - +32 479 82 01 20: Ni l'un ni l'autre 😅 Je suis consultant en automatisation et IA et je débute a peine dans la formation.
+13/11/2024, 09:16 - +33 6 59 35 23 38: Ok. Merci pour le partage d'idées en tout cas
+13/11/2024, 09:16 - +33 6 59 35 23 38: Très bonne journée
+13/11/2024, 09:16 - +32 479 82 01 20: Avec plaisir
+13/11/2024, 09:17 - +32 479 82 01 20: A toi aussi Rémi 🙌
+13/11/2024, 09:17 - +33 6 24 10 13 66: Hello à tous, de passage au salon Educatec aujourd'hui, des stands / confs à recommander en lien avec l'IA et l'enseignement supérieur ? :)) belle journée à tous !
+13/11/2024, 09:41 - Rochane: Hello, j'assiste à un colloque sur l'enseignement des langues avec l'IA et les 70 participant·e·s sont francophones et anglophones. Je suis impressionné par la traduction en temps réel par une IA. Elle se fait dans les deux langues textuellement à l'écran MAIS aussi par audio en installant juste une app et en rentrant un code. Franchement bluffé par la qualité. On a de la chance que @33687100167 , le directeur de l'organisation est dans la communauté. Je vous partagerai les informations sur ce dispositif qui peut intéresser du monde 🙂

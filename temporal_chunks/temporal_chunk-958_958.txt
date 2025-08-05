@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 16
+
+=== CONTENU ===
+20/09/2024, 12:54 - +33 6 12 31 43 41: J'ai testé de mon côté autrice un outil auteur assisté par l'IA. Quelqu'un connait ?
+20/09/2024, 13:04 - ‎+33 7 77 34 82 14 a demandé à rejoindre le groupe.
+20/09/2024, 13:21 - ‎+33 6 51 99 18 87 a rejoint ce groupe grâce à son lien d’invitation
+20/09/2024, 13:21 - ‎+33 7 77 34 82 14 a rejoint ce groupe grâce à son lien d’invitation
+20/09/2024, 13:24 - Rochane: C'est bête car à l'inscription, il nous est demandé de payer sans la possibilité de tester gratuitement
+20/09/2024, 13:27 - +33 6 12 31 43 41: Ça peut s'arranger je pense. Si ça t'intéresse, je vois ça avec mon interlocuteur. Je suis en phase de prise en main test. Je trouve que cet outil à un très bon potentiel mais je pourrais vous en dire plus dans quelques semaines.
+20/09/2024, 13:33 - +33 6 12 31 43 41: Tu peux contacter julien@autrice.ai
+20/09/2024, 13:46 - Alix van Zeebroeck: Hello ! Pour nettoyer un son façon baguette magique, je trouve que https://podcast.adobe.com/enhance le fait très bien avec l’aide de l’AI. Mais on a droit qu’à 7 jours gratuits.
+🤔 Connaissez-vous un outil aussi performant pour un traitement facile et rapide d’audios ?
+20/09/2024, 14:01 - Clément Cahagne: Auphonic
+20/09/2024, 14:01 - Clément Cahagne: https://www.rdventerredigitale.com/post/episode-82-auphonic
+20/09/2024, 14:02 - Clément Cahagne: Le meilleur 🙂
+20/09/2024, 14:15 - +212 644-562660: Y a Audacity aussi. D'ailleurs Clément l'utilise pour ses montages, c opensource
+20/09/2024, 14:41 - Clément Cahagne: Oui Auphonic me fait juste une passe sur la qualité globale mais je monte l’ensemble avec Audacity <Ce message a été modifié>
+20/09/2024, 14:47 - +212 644-562660: Ah j'étais pas au courant que t'étais aussi dans le groupe. Content de te voir ici. J'en profite pour dire que je suis un grand fan de votre podcaste toi et Olivier. Passe une tres bonne journée !!
+20/09/2024, 14:59 - Jean-Marc Everard: Malheureusement Audacity interdit chez nous pour des problèmes de sécurité. Mais je vais tester. Selon moi, Adobe podcast effectivement super mais malheureusement payant (et je ne suis même certain qu'il soit dans la suite Creative Cloud, je vais vérifier).

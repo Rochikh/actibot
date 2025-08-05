@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 11
+
+=== CONTENU ===
+17/12/2024, 21:08 - Francois Bocquet: Et pour quel usage ?
+17/12/2024, 21:08 - ‎Salah-Eddine est parti·e
+17/12/2024, 21:10 - +33 7 86 18 83 63: École d'enseignement supérieur _ secteur privé
+17/12/2024, 21:10 - +33 7 86 18 83 63: Intégration de logiciels pour  la gestion des étudiants et le développement des cours avec l'IA
+17/12/2024, 21:11 - Francois Bocquet: L’article 28 du RGPD rend obligatoire un accord de sous traitance entre un responsable de traitement et un prestataire -> https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4 donc engager un traitement sans respecter cette obligation le rend directement non conforme quel que soit le domaine d’application :-(
+17/12/2024, 21:14 - Jean-Marc Everard: Bonsoir, je vais peut-être avoir l’air un peu rabat-joie mais selon moi il vaut mieux utiliser les outils pour leurs points forts. Benoìt Raphael a montré il n’y a pas longtemps que les outils IA étaient bcp moins performants pour de la « simple » recherche booléenne sur le net. En plus, comme le dit JM, au niveau bilan carbone et ressources, il n’y a pas photo donc il faudrait plutôt envisager des usages spécifiques ou des cas d’usage ou une recherche augmentée par l’IA aurait un intérêt. Ceci dit, je pense que ce sera un travail général à réaliser que de mettre au point les usages raisonnés et raisonnables de l’IA.
+17/12/2024, 21:20 - Francois Bocquet: Alors le respect de l’article 28 est absolument nécessaire tout comme l’AIPD (art 35) est également obligatoire dans la plupart des cas voir https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4
+17/12/2024, 21:21 - +33 7 86 18 83 63: Je connais bien la réglementation.  Elle est pratiquée pour les projets à plusieurs millions. Je l'ai déjà fait quand il y a un DPO .
+Mais là on parle de projets pour des petites écoles. Et nos outils sont conformes RGPD.
+17/12/2024, 21:22 - +33 7 86 18 83 63: Ça s'applique à nos fournisseurs technologiques surtout.
+17/12/2024, 21:24 - ‎+33 7 57 02 28 21 est parti·e

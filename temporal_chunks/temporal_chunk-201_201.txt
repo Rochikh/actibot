@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 595
+Messages: 16
+
+=== CONTENU ===
+10/02/2024, 19:45 - +33 6 76 04 48 20: Effectivement, j’ai découvert l’IA depuis quelques semaines seulement dans le cadre de ma formation FPA.
+Je suis stupéfait de ce qu’elle permet, mais je m’aperçois que par réflexe j’ai eu tendance à l’utiliser comme un moteur de recherche haut de gamme (résultat que nous pouvons obtenir en consultant les metamoteurs) alors qu’en ayant ce travail soutenu pour reprendre ton expression, très juste à mon sens, on peut en obtenir beaucoup plus.
+Il est clair que nous avons du pain sur la planche 😜
+10/02/2024, 21:27 - ‎+58 414-0445031 est parti·e
+11/02/2024, 12:33 - Rochane: https://www.now.be/off/les-outils-ia-en-formation-de-la-conception-a-la-mise-en-oeuvre/ merci @32494186355
+11/02/2024, 12:35 - ‎+33 6 60 98 89 03 a rejoint le groupe à partir de la communauté.
+11/02/2024, 20:48 - ‎+34 618 97 47 94 a rejoint le groupe à partir de la communauté.
+12/02/2024, 12:39 - +33 6 76 04 48 20: C’est grâce à ce off que j’ai découvert votre whatsapp ! 👍
+12/02/2024, 16:53 - +33 6 22 14 03 93: Mince je suis absent… il y aura un replay ?
+12/02/2024, 17:00 - Rochane: Vous avez supprimé ce message
+12/02/2024, 17:01 - Rochane: Ca a déjà eu lieu, il faut s'inscrire et récupérer Replay. Enfin, si j'ai bien compris 🙂
+12/02/2024, 17:01 - Guillaume Singeot: il ne me sembla pas : https://www.now.be/tous-les-replays-du-off/   et il y a plein de choses intéressantes!
+12/02/2024, 21:37 - ‎+41 78 670 37 57 est parti·e
+14/02/2024, 11:44 - +32 497 91 17 24: Bonjour, 👋 quelqu’un a trouvé une solution pour utiliser Claude ? 🤗 J’ai vu la proposition de @33649535198 mais pas de numéro étranger de mon côté … 🥲bonne journée
+14/02/2024, 12:10 - +32 470 11 45 36: Et via perplexity ?
+14/02/2024, 12:14 - Jean-Marc Everard: Bonjour, une de mes collègues d'un autre organisme fédéral belge est à la recherche de personnes ou petites organisations capable de donner des formations en Français et en néerlandais sur les fondamentaux de l'IA, les évolutions attendues (je suppose les défis et enjeux aussi) et le prompt engineering. Je le ferais bien moi-même mais s'il y a beaucoup de sessions (je ne sais pas quelle est l'ampleur du public visé), j'ai peur que ce ne soit incompatible avec mon agenda et puis en interne au fédéral c'est souvent plus tricky. Ils ont déjà lancé un premier appel d'offre sans succès. Des idées ? Merci d'avance.

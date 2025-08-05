@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 16
+
+=== CONTENU ===
+29/06/2024, 13:35 - Votre code de sécurité avec +32 488 67 25 92 a changé. Appuyez pour en savoir plus.
+29/06/2024, 15:52 - Rochane: https://youtu.be/pEvs7nSkb2c?feature=shared
+🌟 Tout ce que l'on peut faire juste avec une extension chrome ( présentation,quiz, plan de cours...) En anglais... <Ce message a été modifié>
+29/06/2024, 16:33 - Votre code de sécurité avec ~ Valerie a changé. Appuyez pour en savoir plus.
+29/06/2024, 20:05 - +33 7 80 86 40 14: Bonjour tout le monde. Auriez-vous une astuce pour modifier le contenu d'une image de Google? J'aimerais savoir comment faire ça rapidement.Merci d'avance!
+29/06/2024, 20:10 - Fred IA: Bonjour Amal. Peut-être en utilisant Adobe Firefly avec possibilité de générer de nouveaux éléments ou au contraire, d'en supprimer, le tout rapidement 🙂https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo
+29/06/2024, 20:20 - +33 7 81 10 74 61: Est-ce que l'application peut permettre de faire des résumés 🫣 ?
+29/06/2024, 20:21 - Rochane: Oui
+29/06/2024, 20:27 - +33 7 80 86 40 14: Merci beaucoup
+29/06/2024, 20:30 - Fred IA: En complément, les données sont hébergées en Europe et c'est maxi 3h d'audio. Le fichier audio est stocké en local sur son terminal mobile et temporairement uploadé sur serveur pour le compte rendu. Il est tout de suite supprimé après avoir été réalisé (j'ai questionné le dev)
+30/06/2024, 07:43 - +33 6 76 04 48 20: Je suis un peu perdu dans la succession de messages…
+De quelle IA s’agit il dans ce dernier post ?
+30/06/2024, 07:47 - Rochane: Dicte.ai
+30/06/2024, 07:49 - +33 6 72 75 43 48: Bonjour je recherche des tutos en français pour apprehender les bénéfices à utiliser Copilote en version payante : tutos pour PowerPoint, Excel … quelqu’un peut il m’aider ? Les liens trouvés sur le net sont des présentations commerciales
+30/06/2024, 07:51 - Rochane: Je pense qu'avec Perplexity, tu peux trouver de bonnes sources
+https://www.perplexity.ai/search/bonjour-je-recherche-des-tutos-c9xMen7hRX.9cJ.izto5.w#0

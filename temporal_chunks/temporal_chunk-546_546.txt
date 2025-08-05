@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 16
+
+=== CONTENU ===
+24/05/2024, 13:30 - Francois Bocquet: En français ici https://fr.vittascience.com/ia/
+24/05/2024, 13:38 - +32 479 94 80 38: Mercii! je crois que c'est l'outil google. par contre, il va falloir que je me fasse une petit banque d'images pour le tester en formation ...
+24/05/2024, 13:41 - Francois Bocquet: J’ai un kit tout prêt ici https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit
+24/05/2024, 13:41 - Francois Bocquet: Avec jeu d’entraînement et jeu de test plus complément pour l’entraînement
+24/05/2024, 13:42 - Francois Bocquet: Et plein d’activités autour de l’éthique et de l’IA !
+24/05/2024, 13:46 - +32 479 94 80 38: magnifique, merci!
+24/05/2024, 14:04 - Yvelines: Génial, merci !
+24/05/2024, 14:09 - Francois Bocquet: J’ai aussi 24 livrets d’initiation à la data science et à l’IA pour les 8-12 ans au format PDF ici https://drive.google.com/drive/folders/1QidJLbP23NXdR40EAHiBFHwvbOu6kO3O utilisable via vidéo projecteur.
+24/05/2024, 14:24 - Rochane: excellente ressource qui montre un travail colossal ! Merci François
+24/05/2024, 14:29 - +212 644-562660: trop top ca
+24/05/2024, 15:50 - +33 6 75 41 23 05: Merci François, ce sera très utile
+24/05/2024, 18:25 - Votre code de sécurité avec +32 492 85 81 22 a changé. Appuyez pour en savoir plus.
+24/05/2024, 20:39 - Aïcha Elouali: https://youtu.be/dIMdjzhVk28?si=DUs0cYSrs9QiH86y
+24/05/2024, 22:00 - Francois Bocquet: J’ai amélioré la présentation des livrets sur la data science et l’IA pour les enfants -> c’est ici https://drive.google.com/drive/folders/1ufHxkrIbuAo9D_vRCCoUfF23a_kfT8N1?usp=sharing N’hésitez pas à me faire part de vos remarques sur les traductions. Je vais pas tarder à les diffuser largement sur X. Bon WE
+24/05/2024, 22:09 - +596 696 53 25 98: Merci! Très intéressée… je suis en Martinique, nous avons de gros besoins…
+25/05/2024, 14:43 - Fabien IA: Tiens, tiens, on me dit dans l’oreillette qu’il est question de ce groupe dans le dernier épisode de Nipédu 🤫 https://x.com/nipedu/status/1794293968077013257?s=46&t=mNM9n2qjvAxVSDuKVmAl9Q

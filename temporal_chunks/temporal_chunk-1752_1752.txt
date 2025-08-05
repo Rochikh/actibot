@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 605
+Messages: 18
+
+=== CONTENU ===
+12/02/2025, 00:13 - Gregoire IA: Et sur LinkedIn ce matin, ma présentation du jour était sur le guide du Québec pour une intégration éthique et légale de l'IA en éducation
+https://www.linkedin.com/posts/aribautg_r%C3%A9sum%C3%A9-critique-guide-du-quebec-sur-lia-activity-7294954764377751563-RSUp?utm_source=share&utm_medium=member_android&rcm=ACoAAAWVEhMBJrllmWvRVEKHUGEsR0uXU7SSff4 <Ce message a été modifié>
+12/02/2025, 00:14 - estelle Duterage Drion IA: J’écouterai cela demain matin
+Bravo pour ce formidable travail pour nous aider 🤩
+12/02/2025, 00:18 - +33 6 73 29 84 68: J’ai posté sur Linked In une analyse des lignes directrices de la commission européenne, visant à préciser l’interdiction dont font l’objet certains systèmes au titre de l’art. 5 du RIA.
+J’y vois 3 points-clés pour l’éducation :
+🎯1️⃣ open source (et expérimentation)
+🎯2️⃣ usage d'agents conversationnels (chatbots)
+🎯3️⃣ reconnaissance / inférence d'émotions
+12/02/2025, 00:20 - +33 6 73 29 84 68: 1️⃣ https://www.linkedin.com/posts/benjamin-thily-0796a8306_commission-publishes-the-guidelines-on-prohibited-activity-7293599120324263936-m3ok
+2️⃣ https://www.linkedin.com/posts/benjamin-thily-0796a8306_commission-publishes-the-guidelines-on-prohibited-activity-7293648455426584577-8Zlq
+3️⃣ https://www.linkedin.com/posts/benjamin-thily-0796a8306_commission-publishes-the-guidelines-on-prohibited-activity-7293656019321192448-hWrM
+12/02/2025, 06:07 - ‎+33 6 09 83 03 28 est parti·e
+12/02/2025, 07:23 - +33 6 66 98 84 23: Bonjour @Francois ,comme tu es expert en RGPD pourrais tu m'éclairer au sujet de l'utilisation de l'ia dans le domaine scolaire?
+Des collègues veulent faire travailler les élèves avec l'ia  et leur créer un compte avec le nom de domaine du lycée du style prénom.initiale du nom@....    cela est il autorisé? Le chef d'établissement semblent dire que oui mais je reste septique .Pourrais tu m'éclairer afin d'alerter ou pas la communauté?
+Merci
+Pierre-Henri
+12/02/2025, 08:00 - +41 76 372 28 94: Ben non, c'est pas ok du tout. Vous devriez héberger vous même l'IA pour être certain de ce qui est fait des données collectables (ce que j'ai choisi de faire pour donner accès à Claude et O3-Mini à mes élèves), ou bien alors signer une convention avec le fournisseur de l'IA que vous utilisez (chez nous c'est Copilot de Microsoft) qui remplit les points que @33662364404 nous explique très patiemment assez souvent.

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 13
+
+=== CONTENU ===
+La dépendance technologique est un risque réel.
+Dans une approche d'instrumentation, c'est ce que l'usage fait de ce que le LLM lui apporte qui modifierait sa façon d'apprendre.
+02/01/2025, 08:47 - ‎Ludovic IA est parti·e
+02/01/2025, 11:57 - +33 6 12 31 43 41: onjour à tous et très belle année 2025.
+Je suis consultante et ingénieure pédagogique. J'accompagne un organisme de formation qui avait un gros contrat avec Pitchboy, un outil de formation basé sur de l'IA conversationnelle. PitchBoy a déposée le bilan fin 2024 et je cherche aujourd'hui des alternatives.
+Est-ce que certains d'entre vous ont déjà expérimenté des bots conversationnels sur le modèle de chat GPT Voice ?
+02/01/2025, 13:15 - +33 6 69 98 28 93: Les voix "hot" me semblent plus fluides/naturelles....
+Par contre existe-t-il un moyen de passer d'un dialogue écrit à une conv audio? J'ai essayé avec notebook mais je cherche vraiment à transcrire une dialogue et non à obtenir un podcast
+02/01/2025, 13:26 - Jean-Marc Everard: Je trouve aussi que le résultat est très bien. J’ai fait une ligne du temps des technologies de communication depuis l’âge de pierre en images fixes et rien que pour ça j’ai un peu galéré, avec en plus des stéréotypes dont je n’ai pas eu tout de suite conscience.
+02/01/2025, 13:26 - Jean-Marc Everard: Donc bravo !
+02/01/2025, 13:40 - +33 6 19 89 32 62: Merci @32496968742 en effet on galère et il y a des stéréotypes (!) et sur Hailuo il me faisait n’importe quoi à chaque  milieu de vidéo (les hommes devenaient des femmes, coco chanel sortait une robe blanche de nulle part !)😜 je n’ai toujours pas compris pourquoi ! Pareil pour elevenlabs en voice to voice j’ai eu deux rendus très différents avec quasiment les mêmes enregistrements de base 🤓
+02/01/2025, 13:47 - Francois Bocquet: A découvrir : https://huggingface.co/spaces/drewThomasson/ebook2audiobook permet de transformer des EPUB en livres audio avec pas mal d’options ! (Pas encore testé)
+02/01/2025, 13:48 - Francois Bocquet: Et voici un service de traduction pour documents techniques avec tableaux et illustrations https://x-doc.ai/

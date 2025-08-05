@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 17
+
+=== CONTENU ===
+22/01/2025, 22:33 - +33 6 42 26 64 70: L’accès via le GAR est un sacré plus !! Vous en connaissez d’autres des prestataires IA qui sont validés par le GAR ? Je suis preneur !
+22/01/2025, 22:45 - Daniel Pappalardo: Oui mais pour être RGPD il faut une connexion via le GAR. Il est gratuit en mode découverte effectivement donc limite pour une classe de mémoire. Je sais que c'est un bon outil je fais aussi des formations TNE avec. Simplement je préfère rappeler que derrière la gratuité il y a un financement de l'etat. '
+22/01/2025, 22:46 - Daniel Pappalardo: Pas vraiment !
+22/01/2025, 22:47 - estelle Duterage Drion IA: GAR?
+22/01/2025, 22:47 - +33 6 42 26 64 70: Ok, merci @33673577832 pour cette pépite qui devrait bien simplifier la sensibilisation de nos élèves !
+22/01/2025, 22:48 - +33 6 42 26 64 70: Gestionnaire académique de ressource
+22/01/2025, 22:48 - Daniel Pappalardo: Bienvenue dans le monde des sigles 😇
+22/01/2025, 22:49 - +33 6 42 26 64 70: entrée nationale pour les éditeurs permettant un acces SSO à des outils proposés et RGPD compatible pour les élèves via leur compte Educonnect
+22/01/2025, 22:49 - +33 6 42 26 64 70: https://gar.education.fr/
+23/01/2025, 08:13 - +34 683 61 41 61: Depuis quelques jours, l'interface texte de Vittascience permet de tester le nouvel open LLM France Lucie-7B
+23/01/2025, 09:18 - Ahmadou Ba: Bonjour,
+Apparemment, claude est mieux que chatgpt en codage. Qui peut confirmer ou infirmer?
+23/01/2025, 09:28 - +41 76 372 28 94: Je confirme !
+23/01/2025, 09:30 - Rochane: J'aime aussi Gemini experimental 1206 sur ai studio
+23/01/2025, 10:35 - +33 6 49 84 08 41: <Médias omis>
+23/01/2025, 10:47 - +32 479 29 01 81: J’ai rédigé un plan de formation à partir d’un document PDF assez volumineux. J’ai donc dégagé des titres, des sous-titres, des sous-sous-titres, des alinéas d’une manière très structurée. Ça m’a pris trois journées entières ! Je possède maintenant un plan très précis et bien structuré.
+Je dois refaire le même travail pour une autre école. je possède donc un méga PDF avec tous les renseignements nécessaires, et je dois maintenant le structurer, comme le premier travail.

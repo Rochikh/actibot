@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 12
+
+=== CONTENU ===
+21/11/2024, 14:35 - Francois Bocquet: GNU est réservé au code source
+21/11/2024, 14:36 - Francois Bocquet: Mieux vaut utiliser « Licence Ouverte » ou CC By avec SA si tu veux que la réutilisation éventuelle reste libre également
+21/11/2024, 14:41 - +33 6 71 11 12 91: Belle illustration avec le Artips d'aujourd'hui : https://newsletters.artips.fr/eco/Rebond_Conso/ qui tombe à pic 😉
+21/11/2024, 15:14 - +41 76 372 28 94: Oui, je sais, mais c'était surtout pour illustrer l'esprit copyleft fort qui est assez unique. Après il y a aussi une version de GNU pour la documentation. J'ai retrouvé l'acronyme : c'est la GFDL. C'est donc l'opposé de CC0 qui maximise la garantie de liberté du produit en minimisant la liberté du distributeur. D'où la question de quelle liberté parle t'on ? Mais vu la réponse de @221774242616, je pense que CC-BY-SA serait approprié. En tout cas c'est celle que je choisis habituellement pour mes propres productions. Qu'en penses-tu Ahmadou ? Laquelle te semble adaptée à ton besoin de diffusion des supports de formation ?
+21/11/2024, 15:23 - +33 7 63 58 01 55: Bonjour, je souhaite créer un questionnaire pour sonder les pratiques d'étudiants d'université avec l'IA générative. Auriez-vous des exemples de questionnaires de ce type ? Ou même des publications qui font état des utilisations de l'IA génératives par des étudiants du supérieur ?
+21/11/2024, 15:28 - Clément Cahagne: <Médias omis>
+21/11/2024, 15:55 - +33 6 19 75 63 49: https://www.devinci.fr/le-pole-leonard-de-vinci-et-talan-publient-une-etude-edifiante-autour-de-limpact-des-ia-generatives-sur-les-etudiants/
+21/11/2024, 15:56 - +33 6 19 75 63 49: https://www.digitaleducationcouncil.com/post/digital-education-council-global-ai-student-survey-2024
+21/11/2024, 16:17 - +213 558 04 82 89: Bonjour, je souhaite traduire une vidéo de l'anglais en français. Auriez -vous un outil IA fiable ?
+21/11/2024, 16:17 - Rochane: HeyGen
+21/11/2024, 16:17 - Gregoire IA: Heygen le fait mais c payant
+21/11/2024, 16:18 - +213 558 04 82 89: Un outil gratuit svp ?

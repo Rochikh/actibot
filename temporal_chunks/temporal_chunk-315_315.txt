@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 10
+
+=== CONTENU ===
+22/03/2024, 10:04 - Jean-Marc Everard: <Médias omis>
+22/03/2024, 10:11 - Rochane: Mais là, tu avais présenté réellement ton message en français et HeyGen l'a traduit. C'est ça ?
+22/03/2024, 10:43 - Jean-Marc Everard: Non non, j'ai utilisé le générateur de Heygen pour le contenu, et il a utilisé l'avatar que j'avais fait pour animer tout ça. Moi je n'ai touché à aucun matériel, juste mon clavier pour écrire une seule phrase, le prompt.
+22/03/2024, 10:50 - Clément Cahagne: Vous pouvez cloner votre voix par ElevenLabs et l’intégrer via une API entre les deux outils. Eleven Labs : le meilleur sur les voix, HeyGen : le meilleur pour les vidéos. Le mix des deux est très très qualitatif, pour autant que les sources (audio et vidéo) soient de bonne qualité
+22/03/2024, 10:53 - +32 479 58 54 12: Ça je ne ferais pas quand même 😄 Il vaut mieux préparer son texte écrit, puis l'injecter, pour être sûr de ce que l'on va raconter 😉. Attention aussi à certaines interprétations. Par exemple en écrivant 1/2 dans le texte, il ne va pas bien le prononcer.
+22/03/2024, 10:56 - Jean-Marc Everard: Tout à fait d'accord mais j'ai noté quand même une amélioration des voix chez Heygen. Par contre, Elevenlab, et je ne sais pas pourquoi, commence à me donner un drôle d'accent quand le texte est long. Et je ne sais pas encore pourquoi.
+22/03/2024, 10:58 - Rochane: Souvent, si tu utilises un mot anglais dans ton contenu, il a tendance à partir en freestyle 🙂
+22/03/2024, 10:58 - Jean-Marc Everard: En effet, ici c'était pour le fun, sachant qu'il a écrit en mandarin (idéogrammes) et que je ne suis donc pas capable de savoir ce qu'il me fait dire 😉... Dangereux dans ce cas-ci. J'espère que je ne dis rien de grave.
+22/03/2024, 11:00 - Jean-Marc Everard: Je crois que c'est un ":" qui le fait partir en roue libre. Ce qui est étonnant est qu'à la fin il reprend le français. Très bizare. Il est possible qu'un des mots fr que j'ai écrit existe aussi en anglais et que du coup il soit parti en cacahouète.
+22/03/2024, 11:10 - Ahmadou Ba: Il n'est pas si intelligent que ça mais alors

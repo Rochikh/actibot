@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 21
+
+=== CONTENU ===
+01/05/2025, 08:54 - +33 6 72 75 43 48: Pareil 😂
+01/05/2025, 08:54 - Rochane: Tu peux les copier coller dans une page Google docs par exemple en tapant doc.new puis les enregistrer en pdf
+01/05/2025, 11:27 - Rochane: <Médias omis>
+01/05/2025, 12:13 - +33 6 03 06 04 34: De rien c’est un des plus performants actuellement et assez facile d’usage . Si vous avez pris un abonnement vous pouvez aussi l’utiliser dans Canva et vous pourrez faire votre propre double numérique et le faire parler dans toutes les langues.
+01/05/2025, 13:51 - Laurent The Cure: Je n'ai pas encore essayé l'intégration dans canva
+01/05/2025, 20:39 - +32 498 78 46 36: <Médias omis>
+01/05/2025, 20:46 - +33 7 66 54 11 11: J'ai testé le stream de studio ai et je le trouve médiocre.
+Il reste à affiner, il doit être en développement.
+Il fonctionnait mieux avant avec le francais maintenant qu'il peut parler français il est moins performant.
+En tout cas pour mes essais.
+Et vous ?
+01/05/2025, 20:56 - +32 498 78 46 36: Je ne l'ai pas encore poussé comme je le faisais avec Excel, je vois qu'il tourne toujours sur Gemini 20 flash
+01/05/2025, 20:56 - +32 498 78 46 36: 2.0
+02/05/2025, 06:31 - Votre code de sécurité avec +33 7 83 16 44 23 a changé. Appuyez pour en savoir plus.
+02/05/2025, 10:40 - Votre code de sécurité avec +33 6 03 30 35 85 a changé. Appuyez pour en savoir plus.
+02/05/2025, 13:22 - +33 6 34 15 77 84: Qui a essayé Canva AI? des retours? Est-ce que cela permet d’abandonner d’autres AI ou est-ce un outils complémentaire? Merci par avance à ceux qui ont pu le tester de nous faire un retour et bon week-end 🤗
+02/05/2025, 14:24 - +32 475 86 01 57: Outil complémentaire.
+02/05/2025, 17:47 - Votre code de sécurité avec +33 6 47 16 85 40 a changé. Appuyez pour en savoir plus.
+02/05/2025, 19:42 - Jean-Marc Everard: Pouvez-vous préciser comment l’utiliser dans Canva?
+02/05/2025, 19:58 - Laurent The Cure: Canva ai n'est toujours pas disponible pour moi
+02/05/2025, 19:58 - Votre code de sécurité avec ~ Adrien a changé. Appuyez pour en savoir plus.

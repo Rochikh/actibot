@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 14
+
+=== CONTENU ===
+23/03/2024, 15:24 - ‎+33 6 81 71 22 83 a rejoint le groupe à partir de la communauté.
+24/03/2024, 02:20 - ‎+33 7 85 84 60 78 a rejoint le groupe à partir de la communauté.
+24/03/2024, 11:55 - ‎+33 6 56 79 48 75 a rejoint le groupe à partir de la communauté.
+24/03/2024, 16:58 - Rochane: <Médias omis>
+24/03/2024, 17:45 - Yvelines: Cool ça ! Je me disais justement que ce serait sympa de créer un mini glossaire pour les débutants qui comprendrait aussi un mot sur les crédits etc.
+24/03/2024, 17:45 - Yvelines: Merci!
+24/03/2024, 21:46 - Mickaël: Merci pour ces conseils.
+Je me permets de relativiser un peu la fonction "Progresse dans une langue". ChatGPT est calibré pour comprendre gentiment ce qu'on lui dit, même quand on fait des fautes. Il induit le sens d'une phrase pour continuer la conversation. Il faut souvent passer par des prompts plus élaborés pour qu'il accepte de corriger quelques erreurs, et encore, il oublie souvent la consigne en cours de conversation. De plus, il n'est d'aucune aide sur l'accent et la prononciation car il ne travaille en fait qu'à partir de transcriptions textuelles (ce qu'il finit par avouer après plusieurs relances lui demandant de corriger la prononciation de certains mots).
+24/03/2024, 21:48 - Rochane: <Médias omis>
+24/03/2024, 22:44 - Yvelines: https://files.inria.fr/mecsci/classcodeIAI/pdf/fiches_pedagogiques/IAI_lexique.pdf
+24/03/2024, 22:47 - Yvelines: https://www.linkedin.com/feed/update/urn:li:activity:7169225196170592256?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7169225196170592256%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+25/03/2024, 06:33 - Votre code de sécurité avec +32 472 12 69 99 a changé. Appuyez pour en savoir plus.
+25/03/2024, 08:48 - Pierrick BRIAND: Ce message a été supprimé.
+25/03/2024, 10:33 - Pierrick BRIAND: Des services automatisés proposent d'écrire vos mémoires grâce à l'IA 😱 : https://www.radiofrance.fr/franceinfo/podcasts/aujourd-hui-c-est-demain/intelligence-artificielle-des-services-automatises-proposent-d-ecrire-vos-memoires-2871406

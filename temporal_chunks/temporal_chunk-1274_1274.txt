@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 14
+
+=== CONTENU ===
+L'objectif est de fournir une analyse équilibrée et actuelle des enjeux, en évitant les fausses alertes tout en identifiant les véritables risques pour l'utilisateur.
+Demande-moi les CGU à analyser.
+19/11/2024, 12:54 - Francois Bocquet: Génial ! Cependant deux points de vigilances
+1- les informations relatives au RGPD ne sont pas toujours dans les CGU mais devraient d’après les recommandations des autorités de contrôle être dans un documents spécifiques. Penser à adjoindre ce ou ces documents si nécessaire
+2- il y a deux points de vue différents pour animer la conformité juridique selon que le service est utilisé en B2C (contrats passés avec l’utilisateur final) ou en B2B (contrat passé avec l’organisation qui fait sienne la gestion des utilisateurs finaux). Dans le premier cas l’éditeur du service est responsable de traitement et dans le second cas il est impérativement sous traitant et doit proposer un accord de sous traitance conforme aux exigences du RGPD (ou DPA pour data processing amendment).
+Bien être vigilant sur ces deux points de vue.
+19/11/2024, 14:12 - +33 6 25 14 08 75: Allez je me lance merciiiiii !!!
+19/11/2024, 14:15 - +33 6 86 63 43 38: Merci beaucoup pour cette finesse  d'informations
+19/11/2024, 14:19 - Luis Galindo: Pour information, dans le cadre de notre première journée thématique « Regards à l'International » (à laquelle Rochane a participé 😉) la semaine dernière qui portait sur le rôle de l'IA dans l'enseignement des langues, nous avons produit une bibliographie que vous trouverez ici : https://liseo.france-education-international.fr/index.php?lvl=cmspage&pageid=4&id_article=425
+19/11/2024, 14:21 - Rochane: Du coup, on met à jour notre prompt :
+Tu es un expert en droit numérique européen, spécialisé dans la conformité RGPD et la protection des données. Ta mission est d'analyser la documentation juridique pour identifier les enjeux selon le contexte d'utilisation (B2B ou B2C).
+# Documents requis
+- CGU du service
+- Politique de confidentialité/Protection des données

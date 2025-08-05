@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 19
+
+=== CONTENU ===
+09/02/2025, 15:16 - +33 6 52 73 73 42: <Médias omis>
+09/02/2025, 15:17 - +33 6 33 38 60 24: Merci 🙏
+09/02/2025, 15:17 - Cyrille CARTERET: Je demande a Gemini de nettoyer la transcription...
+Et ça fait le job
+09/02/2025, 15:28 - Rochane: Pour notebook lm, parfois, quand les vidéos ont moins de 72 h, ça génère une erreur ou alors ça peut être aussi le fait que les sous-titres soient désactivés je crois
+09/02/2025, 15:31 - Rochane: Une vraie pépite cet article sur le deep research
+https://generationia.flint.media/p/deep-research-comment-l-intelligence-artificielle-bouleverse-la-recherche-sur-le-web-chatgpt
+09/02/2025, 15:35 - +33 7 83 62 43 52: Merci !
+09/02/2025, 15:40 - +33 6 52 73 73 42: Possible ! J'avais un message d'erreur en lien avec les sous-titres !
+09/02/2025, 16:50 - +44 7776 747507: Superbe article!
+Quelqu'un a essayé co-storm?
+09/02/2025, 17:18 - +33 7 63 58 01 55: <Médias omis>
+09/02/2025, 17:55 - Votre code de sécurité avec ~ Nat💫 a changé. Appuyez pour en savoir plus.
+09/02/2025, 18:16 - Francois Bocquet: Sommet sur l'IA à Paris : l'article à lire pour comprendre le fonctionnement de l'intelligence artificielle et les multiples enjeux qui l'entourent https://www.francetvinfo.fr/internet/intelligence-artificielle/sommet-sur-l-ia-a-paris-l-article-a-lire-pour-comprendre-le-fonctionnement-de-l-intelligence-artificielle-et-les-multiples-enjeux-qui-l-entourent_7054448.html#xtor=CS2-765-%5Bautres%5D-
+09/02/2025, 20:38 - Rochane: À partir de demain 😉:
+Pour activer Le Chat Pro (Mistral ) gratuitement pendant 12 mois, les utilisateurs de Free Mobile devront aller dans leur espace client, dans la rubrique Mes options. Ils pourront alors lier leur option à un compte Mistral, et en profiter sur le web ou dans l’application. <Ce message a été modifié>
+09/02/2025, 21:49 - ‎~ Adil est parti·e
+09/02/2025, 22:39 - +33 6 33 38 60 24: Vu sur un post sur linkedin : https://digipad.app/p/1109203/365078793e1df
+10/02/2025, 08:44 - Votre code de sécurité avec +221 77 508 48 04 a changé. Appuyez pour en savoir plus.

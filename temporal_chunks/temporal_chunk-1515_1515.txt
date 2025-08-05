@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 18
+
+=== CONTENU ===
+Merci Yvelines pour le partage
+02/01/2025, 19:49 - Yvelines: Je viens d'essayer mais bug de mon côté, la limite journalière est atteinte sans que j'ai lancé de génération d'articles. Dis-moi si c'est concluant de ton côté si jamais tu testes @33649535198
+02/01/2025, 19:49 - ‎+49 1575 3187633 a rejoint le groupe à partir de la communauté.
+02/01/2025, 19:56 - Vous avez supprimé +49 1575 3187633
+02/01/2025, 21:48 - +41 79 258 90 36: J'ai essayer sa réponse à la question Ivermectine: Sorry, this input may be related to sensitive topics. Please try another topic. (Our input filtering uses OpenAI GPT-4o-mini, which may result in false positives. We apologize for any inconvenience.) 😡
+02/01/2025, 21:54 - Votre code de sécurité avec ~ Ari a changé. Appuyez pour en savoir plus.
+02/01/2025, 22:20 - +41 79 258 90 36: Nouveau test avec Shoulder pain. Après 3 minutes, suit un long article comportant touts les pathologies et des liens proposants de les traiter y compris par thérapie. Il n'y a pas de graphiques ou images. Seulement du texte. Une table des matière est produite mentionnant l'anatomie, les causes, les symptômes, diagnostics et traitements. Le tout téléchargeable en pdf. Très utile à consulter. <Ce message a été modifié>
+03/01/2025, 10:06 - +33 6 25 79 50 95: Bonjour la joyeuse communauté.
+Belle année à tous et son cortège de vœux a qui mieux mieux !
+03/01/2025, 10:12 - +33 6 25 79 50 95: Question pratique d'ordre pédagogique
+Auriez vous un outil (gratuit), et/ou GPT et/ou une structure de prompt pour :
+1) Aider à reformuler les objectifs de formation et les objectifs pédagogiques selon la taxonomie de Bloom voire d'autres taxo
+2) générer des activités pédagogiques et d'évaluation alignées avec les objectifs pédagogiques de chaque séquence ?
+Par avance merci a touti
+03/01/2025, 10:14 - Rochane: J'ai créé un bot dans ce sens, tu peux le tester
+scenariocreator.rochane.fr
+03/01/2025, 10:19 - +33 6 25 79 50 95: Merci bcp Rochane
+03/01/2025, 11:03 - estelle Duterage Drion IA: Je viens de le tester merci Rochane.

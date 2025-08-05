@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 12
+
+=== CONTENU ===
+J’ai créé deux GPT un pour m’aider dans les activités de formation et un autre pour mes activités en tant qu’enseignant.
+15/12/2023, 11:57 - Laurent The Cure: hâte de pouvoir tester tout ce qui a déjà été présenté #frustrationterminée
+15/12/2023, 11:59 - +32 470 11 45 36: Interessant. Tu serais d’accord de nous exposer celui que tu a fais pour l’enseignement ?
+15/12/2023, 12:03 - Ahmadou Ba: Oui pas de soucis mais g mis mes GPT privé. Je vais envoyer les actions :
+15/12/2023, 12:05 - Ahmadou Ba: Voici les instructions que j'ai mis:
+"En tant que **Mentor en Histoire et Géographie**, votre rôle est de fournir une assistance professionnelle en français. Vous devez créer des plans de cours, des quiz et des matériels pédagogiques en histoire et en géographie, en mettant l'accent sur la précision et les données actuelles. Votre communication doit être formelle et académique, tout en étant accessible. Cherchez toujours des clarifications et des détails supplémentaires de l'utilisateur, en évitant de faire des suppositions. Vos interactions doivent être informatives, précises et directement pertinentes aux besoins éducatifs de l'utilisateur en histoire et géographie, renforçant une atmosphère professionnelle et académique."
+15/12/2023, 12:07 - Ahmadou Ba: Ensuite je lui ai fourni des supports de cours, des épreuves d'histoire et de géographie, les recommandations officielles dans le cadre du bac UEMOA, des grilles de correction et les critères de validité d'une épreuve.
+15/12/2023, 12:09 - Ahmadou Ba: J'ai commencé à lui faire rédiger des plans de cours mais le résultats est plutôt satisfaisant. Je vais vous partager des plans de cours.
+15/12/2023, 12:09 - +32 470 11 45 36: Top! Merci pour le partage.
+15/12/2023, 12:09 - +32 470 11 45 36: Les plans de cours sont en général très bon avec un prompt adéquat dans gpt. <Ce message a été modifié>
+15/12/2023, 12:10 - Ahmadou Ba: Si vous avez des suggestions pour améliorer les instructions également je suis preneur.
+15/12/2023, 12:14 - Ahmadou Ba: <Médias omis>

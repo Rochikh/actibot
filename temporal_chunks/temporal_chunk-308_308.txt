@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 21
+
+=== CONTENU ===
+18/03/2024, 21:56 - Ahmadou Ba: https://otter.ai/my-notes?r=%2Fmy-notes%3Futm_source%3Demail%26utm_medium%3Dcta%26utm_campaign%3DSignUp_Basic%26utm_term%3DUsageTip_OtterChat_WebSignUps&utm_source=email&utm_medium=cta&utm_campaign=SignUp_Basic&utm_term=UsageTip_OtterChat_WebSignUps
+18/03/2024, 21:58 - Ahmadou Ba: Il me parait bon Otter voice, il permet des enregistrements audio et de chatter sur vos enregistrements.
+18/03/2024, 22:00 - Ahmadou Ba: Je ne l'ai pas vraiment tester mais son interface semble offrir des fonctionnalités intéressantes. Il y a une limites de 300 min mensuelles
+18/03/2024, 22:15 - Ahmadou Ba: <Médias omis>
+19/03/2024, 08:08 - +33 6 14 16 68 64: https://www.linkedin.com/posts/yvan-demumieux_perplexity-vs-poe-vs-huggingchat-vs-bluegpt-activity-7175066122818347008-I1Sy?utm_source=share&utm_medium=member_android
+Un comparatif des alternatives à chatGPT
+19/03/2024, 09:38 - Lucie: Hello All, petit post sur la persistance des images IA MJ. Je sais que c'est un sujet qui intéresse beaucoup d'entre vous : https://www.linkedin.com/posts/luciedhorne_persistance-du-personnage-activity-7175757378238169088-Wjjz?utm_source=share&utm_medium=member_android
+19/03/2024, 10:32 - +33 6 51 43 08 14: Merci je vais tester
+19/03/2024, 21:18 - ‎+32 494 30 81 69 est parti·e
+19/03/2024, 21:27 - ‎+55 11 94241-1993 a rejoint le groupe à partir de la communauté.
+19/03/2024, 23:19 - ‎+34 625 25 93 75 a rejoint le groupe à partir de la communauté.
+20/03/2024, 07:36 - ‎+33 7 52 16 48 00 a rejoint le groupe à partir de la communauté.
+20/03/2024, 07:38 - +33 7 52 16 48 00: null
+20/03/2024, 07:38 - ‎+33 7 52 16 48 00 est parti·e
+20/03/2024, 08:11 - Vincent DROUOT: null
+20/03/2024, 08:11 - Vincent DROUOT: null
+20/03/2024, 08:12 - Vincent DROUOT: null
+20/03/2024, 08:12 - +32 479 58 54 12: null
+20/03/2024, 08:13 - Vincent DROUOT: null
+20/03/2024, 08:14 - Vincent DROUOT: null
+20/03/2024, 08:14 - Vincent DROUOT: https://theconversation.com/a-chatbot-willing-to-take-on-questions-of-all-kinds-from-the-serious-to-the-comical-is-the-latest-representation-of-jesus-for-the-ai-age-208644

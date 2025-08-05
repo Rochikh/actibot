@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 15
+
+=== CONTENU ===
+12/11/2024, 19:57 - Jean-Marc Everard: Petit rappel : nous nous retrouvons pour le live en suivant ce lien dans 2 minutes… https://bit.ly/3CmXwrq
+12/11/2024, 19:57 - Gregoire IA: merci, je suis dans la file d'attente ;-)
+12/11/2024, 19:57 - +33 6 26 04 96 40: Moi aussi
+12/11/2024, 22:17 - Votre code de sécurité avec +33 6 24 10 13 66 a changé. Appuyez pour en savoir plus.
+12/11/2024, 22:36 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+13/11/2024, 05:42 - +33 6 25 14 08 75: Arff je croyais que c’était aujourd’hui, je l’ai loupé 😭😭😭😭 dites moi que vous aller nous envoyer un replay 🙏🙏🙏🙏
+13/11/2024, 08:50 - Jean-Marc Everard: Bonjour Magali, oui oui on va envoyer le replay
+13/11/2024, 08:53 - +33 6 59 35 23 38: Bonjour à tous,
+13/11/2024, 08:55 - +33 6 59 35 23 38: Je vous sollicite car j'ai l'idée de développer un outil, sous forme d'un chatbot, qui remplirait un rôle de "coach personnel" dans le développement des compétences langagières en langue étrangère, plus spécifiquement sur la partie phonétique : prononciation, intonation, fluidité, etc...
+13/11/2024, 08:56 - +33 6 99 15 13 77: Bonjour Rémi, un beau challenge 😊
+13/11/2024, 08:57 - +33 6 59 35 23 38: Le chatbot serait capable d'écouter un discours, et de donner un diagnostic de conformité de ce qu'il a entendu avec un standard défini, de reprendre les passages incorrect ou peu conformes à une prononciation "parfaite"
+13/11/2024, 08:58 - +33 6 59 35 23 38: Savez-vous si quelque chose de la sorte existe, ou si des "briques constitutives" d'un tel produit existent ?
+13/11/2024, 08:59 - +33 6 59 35 23 38: Travaillant dans le supérieur (école d'ingénieurs) comme ingé pédagogique et prof de LV2, je pourrais essayer de monter un projet avec des étudiants pour construire le code car nous avons un département de Génie Informatique
+13/11/2024, 09:00 - +33 6 59 35 23 38: Et si des choses existent déjà (plutôt opensource, bien sûr) ce serait déjà pas mal pour commencer
+13/11/2024, 09:01 - +33 6 59 35 23 38: Merci ! C'est une idée que j'ai eue il y a déjà un certain temps, mais qui a été ravivée après avoir expérimenté l'app Heygen, qui permet de créer un avatar vidéo de soi-même ultra-réaliste

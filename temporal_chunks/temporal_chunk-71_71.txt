@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+10/11/2023, 07:48 - +32 498 78 46 36: <Médias omis>
+10/11/2023, 08:17 - Lucie: Enfin en GPT4 turbo !
+10/11/2023, 08:18 - Rochane: Moi aussi et je découvre la rapidité et toutes les possibilités
+10/11/2023, 08:24 - +32 496 42 84 33: C'était le sujet de la soirée sans Titre à l'Ee-Campus(Tournai )avec un avocat spécialisé sur la question ( Bertrand Vandevelde). En bref, les sociétés d'IA generatives sont dans leur droit avec la législation actuelle
+10/11/2023, 08:29 - +32 496 42 84 33: Il existe cependant des vraies questions par rapport à l'utilisateur. Nous sommes responsables des contenus par les IA generatives. Donc si on produit une œuvre proche d'un auteur, on pourrait avoir des soucis
+10/11/2023, 08:32 - +32 498 78 46 36: Merci ! Comme dirait une IA générative souvent dans l'emphase 😁 "C'est un sujet fascinant!" Est-ce que cette soirée a été enregistrée ? Ou avez-vous des ressources disponibles sur ce sujet ? <Ce message a été modifié>
+10/11/2023, 08:35 - +32 496 42 84 33: Malheureusement non et Bertrand Vandevelde ne souhaite pas diffuser ses slides
+10/11/2023, 08:36 - +32 496 42 84 33: J'avoue que je ne sais pas à quel point résumer une conférence est une atteinte au droit d'auteur ^^
+10/11/2023, 08:58 - Ahmadou Ba: J’ai pas très bien compris. Vous voulez dire que nous sommes responsables de ceux que produit ChatGPT pour nous mais cela peut porter atteinte au droit d’auteur parce que cela n’est pas notre production intellectuelle.
+10/11/2023, 09:01 - +32 496 42 84 33: Oui. C'est dans les conditions d'utilisation
+10/11/2023, 09:04 - Jean-Marc Everard: Ah non pas encore… faut-il juste attendre ou doit-on la demander ? Merci de la réponse dans tous les cas!
+10/11/2023, 09:15 - Ahmadou Ba: Ça c vraiment trop compliqué. Comment l’utiliser alors quand nous voulons produire des contenus : cours, supports, rapports, mémoires. Ça serait fastidieux de citer chaque prompt. Et ChatGPT peut citer un auteur sans que nous le sachions parce qu’il peut se tromper sur ses sources. Excusez moi mais cette question m’intéresse bcp

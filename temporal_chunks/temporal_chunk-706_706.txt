@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 19
+
+=== CONTENU ===
+07/07/2024, 10:12 - ‎+216 23 869 166 a demandé à ajouter +49 176 21724804.
+07/07/2024, 11:19 - Votre code de sécurité avec +33 6 26 15 38 78 a changé. Appuyez pour en savoir plus.
+07/07/2024, 15:07 - ‎+216 23 869 166 a ajouté +49 176 21724804
+07/07/2024, 21:56 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+08/07/2024, 07:19 - Rochane: InternLM 2.5 7B, développé par le Shanghai AI Laboratory (financé par le gouvernement chinois) est léger, vraiment plus fort en math que les autres modèles open source et à une large fenêtre de contexte de 1 million de tokens : https://github.com/InternLM/InternLM
+08/07/2024, 10:16 - +33 6 49 84 08 41: https://youtu.be/8TE-79Leu8Q?si=31xAM1eHK_ryxA5n
+08/07/2024, 10:32 - Ahmadou Ba: Bonjour,
+Tu l'as testé ?  fonctionne-t-il en local ou en ligne ?
+08/07/2024, 11:30 - Francois Bocquet: Nouvel outil pédagogique pour générer des images sans compte (utilisable avec des élèves !) https://fr.vittascience.com/ia/image-generate.php
+08/07/2024, 15:19 - Francois Bocquet: A regarder de près https://www.clubic.com/actualite-531801-minai-un-service-qui-rassemble-toutes-les-ia.html
+08/07/2024, 16:02 - +33 7 67 67 84 83: Hello, est-ce que vous avez des exemples de formation où de l’IA a été intégrée sur genially, qui vous ont scotché ? Je suis en manque d’inspiration
+08/07/2024, 16:10 - Guillaume Singeot: Je comprends mal: c'est un genialy créé avec de l'IA que tu cherches ?
+08/07/2024, 16:13 - +33 7 67 67 84 83: Non, un genially un peu innovant qui intégrerait d’autres fonctionnalités IA
+08/07/2024, 16:19 - Guillaume Singeot: Pas de mon coté.
+08/07/2024, 16:20 - ‎+32 474 33 68 77 est parti·e
+08/07/2024, 16:30 - Rochane: https://view.genial.ly/660e6ccdf62301001483be53
+https://view.genial.ly/659eaa13b7f7bb0014578c92/presentation-ia-et-unites-conversationnelles
+08/07/2024, 16:31 - +33 7 67 67 84 83: Merci !
+08/07/2024, 16:34 - Guillaume Singeot: @33662364404 dans la série "pas de création de compte" nous avons https://www.fillout.com/ai-quiz-maker qui crée des quiz.

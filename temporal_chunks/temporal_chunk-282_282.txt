@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 16
+
+=== CONTENU ===
+08/03/2024, 16:41 - Rochane: Seeker, le meilleur, à mon avis ( gratuit)
+08/03/2024, 16:42 - Fred IA: Merci !  Je testerai
+08/03/2024, 16:49 - fm Florent iA: Pb gpt : Il est nécessaire de se deloguer/reloguer
+Et ça repart <Ce message a été modifié>
+08/03/2024, 16:50 - Pierrick BRIAND: Changez de navigateur, je tourne sur Firefox et cela va mieux de mon côté.
+08/03/2024, 16:58 - ‎Rose Marie Iskandar a rejoint le groupe à partir de la communauté.
+09/03/2024, 08:47 - ‎+237 6 56 90 71 30 a rejoint le groupe à partir de la communauté.
+09/03/2024, 09:47 - Rochane: <Médias omis>
+09/03/2024, 09:49 - Pierrick BRIAND: Phase de test pour mon dernier GPT’s Générateur de leçons de cours sur la V4 de ChatGPT. Je vous invite à le tester et me faire part de vos suggestions d’amélioration.
+https://chat.openai.com/g/g-TgfxKipvF-generateur-de-lecons
+09/03/2024, 12:16 - Jacques BARATTI: J'ai fait un test il fonctionne assez bien, bravo ! Il me donne des objectifs avec des verbes de Bloom mais seulement pour 3 niveaux (comment sont-ils choisis ?) et propose un plan de cours assez cohérent. A la demande il fournit des détails sur chacune des parties du cours plus des "conseils à l'enseignant" (très belle idée !). Mon sujet était "le code génétique pour des étudiants de L1 en 2 h"
+09/03/2024, 13:01 - Pierrick BRIAND: Merci Jacques pour ce retour. J’ai nourri le GPT’s avec différentes ressources au format .PDF ou Word sur les taxonomies, les verbes d’action pour compléter les objectifs et différentes maquettes de cours. je vais regarder pourquoi il se limite à trois niveaux, mais je pense qu’il doit associer le niveau des étudiants (L2 ). <Ce message a été modifié>
+09/03/2024, 13:10 - Rochane: <Médias omis>
+09/03/2024, 13:11 - +32 479 58 54 12: Et quel est le prompt ? 😁
+09/03/2024, 13:11 - Pierrick BRIAND: Incroyable ! Il a réussi à récupérer l’ensemble des documents qui ont servi à créer ce GPT’s. Mais, tu n’as pas le prompt 😃 <Ce message a été modifié>
+09/03/2024, 13:12 - Rochane: Il est tout petit dans la capture d'écran

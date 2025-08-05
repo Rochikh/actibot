@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 643
+Messages: 10
+
+=== CONTENU ===
+24/09/2024, 07:49 - ‎~ Simon a ajouté +33 6 34 28 50 60
+24/09/2024, 10:43 - Jean-Marc Everard: Je viens de le poster sur LinkedIn : Excellent résumé de choses importantes à savoir et à prendre en compte de notre utilisation de l'IA. En seulement 10 points et quelques mots, quasiment tout y est pour moi (très résumé bien sûr mais "yapluka" creuser) :
+IA et éducation : 10 repères – Éducation, numérique et recherche : https://edunumrech.hypotheses.org/12695
+24/09/2024, 11:11 - ‎+33 7 83 63 26 78 est parti·e
+24/09/2024, 11:18 - Francois Bocquet: Il manque cependant un onzième point critique qui n’est pas compris dans le point éthique et qui concerne le respect des obligations légales et réglementaires et en particulier du RGPD pour un usage en contexte professionnel et scolaire. Tout utilisation non légale est bien évidemment prohibée.
+24/09/2024, 11:48 - +33 7 63 58 01 55: Pour moi, ça rentre dans le point 3 sur l'éthique, c'est vrai qu'ils auraient pu rajouter qq mots sur ce sujet.
+24/09/2024, 11:48 - +33 7 63 58 01 55: Après, je me demande qui s'interdit réellement d'utiliser les outils d'IA générative (ou cherche des alternatives) pour cette raison. J'ai parfois l'impression qu'on se donne bonne conscience en mentionnant cet aspect mais sans forcément que ça se traduise par des actes concrets.
+C'est vrai au niveau individuel (et peut-être pas si grave ?), c'est beaucoup plus problématique au niveau des organisations et établissements...
+J'avoue que je ne suis pas tout à fait au clair sur cette question.
+24/09/2024, 11:52 - Jean-Marc Everard: En effet. Mais ces obligations dépendant du pays où les IA sont utilisées, j'imagine que les auteurs ne sont pas rentrés dans tous les cas de figure. Mais en effet, les réglementations locales, nationales ou supra-nationales comme dans le cas du RGPD s'appliquent, avec bientôt l'IA act dont il convient de préparer l'entrée en application progressive. Il y a aussi une autre chose qu'ils évoquent à peine : on se dirige vers des arbitrages à faire en terme d'allocation de ressources et notamment de l'électricité. Lorsque la plupart des secteurs actuellement émetteurs de carbone se tourneront vers l'électrification, la production ne permettra probablement pas de continuer tous les usages actuels de la même façon qu'aujourd'hui (je veux dire sans centrale émettrice). Que va-t-on priviliégier ? Les data-centers ? Le transport ? L'industrie ? Etc... Mais le respect des données personnelles est bien sûr un point sensible, surtout si cela touche des mineurs, notamment en contexte scolaire.

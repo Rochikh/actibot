@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 14
+
+=== CONTENU ===
+Mais quand même beaucoup plus complexe car même le chat d'Openai sur WhatsApp ne l'ont pas fait en audio <Ce message a été modifié>
+26/12/2024, 15:34 - +32 479 29 01 81: Quelle ia me conseillez vous pour transformer un questionnaire avec réponses en texte continu ?
+26/12/2024, 15:39 - Amadou GuisséIA: Bonjour,
+J'ai essayé de créer un podcast (audio) via Notebook. Cela a fonctionné, mais malheureusement, c'est en version anglaise. Est-ce que cela signifie que les podcasts ne sont pas encore configurés en version française ? Est-ce également votre cas ?
+Merci <Ce message a été modifié>
+26/12/2024, 17:28 - ‎+221 77 106 20 10 est parti·e
+26/12/2024, 15:53 - Ahmadou Ba: @33649535198 avait posté un prompt pour avoir le podcast en français. Interroge le chatbot actibot pour voir.
+26/12/2024, 15:54 - +33 6 19 04 48 10: Si vous trouvez je suis preneur aussi svp 🙏
+26/12/2024, 15:56 - +32 479 82 01 20: This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…
+26/12/2024, 15:57 - +32 479 82 01 20: Vous avez une fonction recherche sur WhatsApp...n'hésitez pas à en abuser. 😊
+26/12/2024, 15:57 - Ahmadou Ba: This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language."
+26/12/2024, 15:58 - Ahmadou Ba: Oui et l'actibot aussi, il fait tout à merveille et avec des conseils aussi
+26/12/2024, 17:18 - +961 3 381 351: ChatGPT le fait dans la version gratuite et quand la conversation est terminée, il donne la transcription complète du dialogue avec la possibilité de réécouter. Je l'ai essayé en anglais et c'était parfait.
+26/12/2024, 17:22 - +961 3 381 351: Il fonctionne aussi en français et en arabe.

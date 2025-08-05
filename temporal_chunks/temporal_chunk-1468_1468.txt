@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 16
+
+=== CONTENU ===
+25/12/2024, 12:56 - François JOURDE: Je ne pense pas avoir les compétences de reproduire cela, mais auriez-vous un lien vers un tutoriel ?
+25/12/2024, 13:34 - +32 483 60 53 96: Alors je cherche à trouver des solutions qui sont accessibles à tous et toutes. C’est pour ça que LM studio et Jan sont très accessibles en no-code, juste 6 clicks du téléchargement à la première conversation en local.
+Si mes tests de prompt sont qualitatifs, je me lancerai dans des tutoriels (en français) en janvier. Ça dépend des résultats d’autres solutions. Je vous tiens au jus la dessus 👆
+25/12/2024, 13:35 - +32 483 60 53 96: Les profils à l’université sont très variés donc oui, l’ergonomie (et ease of use) est un des premiers critères pour nous !
+À savoir l’objectif premier de mes tests en ce moment ce sont pour des usages de llm (text to gen text) et des options de RAG (text to gen text). Le but n’est pas d’aller vers un outil qui fait tout en une fois mais qui peut s’adapter à des besoins spécifiques. <Ce message a été modifié>
+25/12/2024, 15:06 - ‎+33 7 45 43 23 09 a demandé à rejoindre le groupe.
+25/12/2024, 15:15 - ‎+33 6 48 12 87 78 a demandé à rejoindre le groupe.
+25/12/2024, 15:24 - ‎+33 7 45 43 23 09 a rejoint le groupe à partir de la communauté.
+25/12/2024, 15:25 - ‎+33 6 48 12 87 78 a rejoint ce groupe grâce à son lien d’invitation
+25/12/2024, 15:55 - +33 7 45 43 23 09: null
+25/12/2024, 17:30 - Jean-Marc Everard: EBonjour, en fait c’est très simple. Il y a très peu de code. Il faut juste être parfois patient parce que ça ne fonctionne pas toujours du premier coup. je crois que j’avais suivi ce tutoriel https://youtu.be/Tl0CQWYqRnU?si=7DoXrpd8p05bbg7p
+25/12/2024, 17:31 - Votre code de sécurité avec Batier Christophe a changé. Appuyez pour en savoir plus.
+25/12/2024, 17:42 - Votre code de sécurité avec Batier Christophe a changé. Appuyez pour en savoir plus.
+25/12/2024, 18:45 - Rochane: <Médias omis>
+25/12/2024, 20:02 - ‎+33 6 13 59 39 90 est parti·e
+25/12/2024, 20:57 - Votre code de sécurité avec +33 7 63 74 10 73 a changé. Appuyez pour en savoir plus.

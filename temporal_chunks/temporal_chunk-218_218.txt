@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 14
+
+=== CONTENU ===
+Je voulais juste savoir si vous connaissiez d’autres groupes ou réseaux à suivre absolument sur le sujet car tout cela m’intéresse. Merci 🙏
+19/02/2024, 14:17 - +237 99148639: Bonjour a tous, j'essaye d'avoir des articles sur  les usages d'IA en didactique professionnelle, mais visiblement je m'y prends pas bien ou il y'en a pas assez,  quelqu'un pour m'aider s'il vous plait
+19/02/2024, 16:02 - Guillaume Singeot: De ce type ? https://www.oecd-ilibrary.org/sites/4f0c23c5-fr/index.html?itemId=/content/component/4f0c23c5-fr#section-d1e17616-3407c575a2
+19/02/2024, 16:05 - +689 87 78 58 86: Bonjour à tous,
+Certains ont-ils déjà été sollicités par des collègues souhaitant utiliser des IA, génératives en particulier, tout en respectant au mieux le RGPD ? Si oui, quels conseils avez-vous pu leur donner ?
+19/02/2024, 16:05 - +689 87 78 58 86: Au passage, un grand merci pour tous les partages dans ce fil. Très enrichissant !
+19/02/2024, 16:08 - +237 99148639: Oui Guillaume merci c'est deja cela
+19/02/2024, 16:21 - Guillaume Singeot: <Médias omis>
+19/02/2024, 16:26 - Rochane: Oui @33768502488  a une solution sur mesure pour ce problème. Je le laisse rentrer en contact avec toi par MP
+19/02/2024, 16:28 - +689 87 78 58 86: Merci beaucoup, je vais lui envoyer un MP
+19/02/2024, 16:29 - Rochane: J'ai testé un gpt qui s'appelle my veilleuse et c'est pas mal mais je ne sais pas si tu  as accès aux réponses https://chat.openai.com/share/8edab277-6e26-4664-8d8c-af352fe9ad9a
+19/02/2024, 16:36 - Guillaume Singeot: https://www.impact-ai.fr/fr/ et en particulier https://www.impact-ai.fr/app/uploads/2021/06/IMPACTAI_-LIA-ET-LEDUCATION.pdf
+19/02/2024, 18:27 - ‎+33 6 29 17 18 95 a rejoint le groupe à partir de la communauté.
+19/02/2024, 18:52 - Pierrick BRIAND: Bonjour à tous, petite information concernant une formation entièrement gratuite qui a pour objectif de rassembler une communauté de formateurs autour du thème de l’intelligence artificielle. La formation est accessible ici : https://academy.apolearn.com/classroom/29444/

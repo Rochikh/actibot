@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 32
+
+=== CONTENU ===
+⚠️ **Manque de précision sur la durée de conservation**
+📝 La politique mentionne une conservation "aussi longtemps que nécessaire" sans durée précise
+💡 Impact : L'utilisateur ne peut pas anticiper la durée de conservation de ses données
+⚠️ **Collecte de données techniques extensive**
+📝 {{Collecte automatique de données techniques : système d'exploitation, navigateur, adresse IP, localisation générale}}
+💡 Impact : Tracking significatif de l'activité utilisateur sans réelle justification de nécessité
+## Bases légales et finalités
+⚠️ **Absence de mention des bases légales RGPD**
+📝 Les finalités sont listées mais sans rattachement aux bases légales (consentement, intérêt légitime, etc.)
+💡 Impact : Manque de transparence sur la légitimité des traitements
+# 2. Conformité aux droits des utilisateurs
+## Exercice des droits
+✅ **Droits RGPD clairement énoncés**
+📝 Accès, rectification, suppression, opposition, restriction, retrait du consentement
+💡 Impact : Utilisateur bien informé de ses droits fondamentaux
+⚠️ **Procédure d'exercice des droits peu détaillée**
+📝 Simple mention d'un contact email {{hello@mizou.com}} sans précision des délais de réponse
+💡 Impact : Risque de traitement non conforme aux délais RGPD (1 mois)
+## Clauses sensibles
+⚠️ **Clause de modification unilatérale problématique**
+📝 {{Users will be notified of significant changes, and your continued use of the Services signifies acceptance}}
+💡 Impact : Non-conformité potentielle avec l'exigence de consentement explicite
+# 3. Sécurité et gouvernance
+## Mesures de sécurité
+⚠️ **Description générique des mesures de sécurité**
+📝 Mention basique de {{encryption, access controls, incident response}} sans détails
+💡 Impact : Manque de transparence sur la protection effective des données
+## Transferts de données
+⚠️ **Absence d'informations sur les transferts hors UE**
+📝 Aucune mention des garanties pour les transferts internationaux
+💡 Impact : Risque de transferts non conformes au RGPD
+# 4. Points de vigilance spécifiques

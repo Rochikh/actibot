@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 10
+
+=== CONTENU ===
+10/09/2024, 18:12 - Hoang: Aussi j’ai eu un petit débat avec un collègue du secteur et j’aimerais votre avis, pour vous, l’automatisation tel que propose Make fait elle partie de la catégorie IA?
+10/09/2024, 18:14 - Amadou GuisséIA: Bonsoir les amis. J'aimerais aussi savoir s'il existe une thèse soutenue sur les IA en français. Merci
+10/09/2024, 18:16 - Rochane: Make qui existait avant l'avènement de l'IA comme Zapier ou tout autre outil d'automatisation est plutôt un outil no code. Mais, l'IA n'a fait qu'amplifier sa valeur ajoutée
+10/09/2024, 18:35 - +41 76 372 28 94: Moi je trouve pas que sa position est excessive. Je le trouve plutôt réaliste et lucide sur ce qui est train d'arriver. Ses conseils sont pertinents.
+C'est mon premier message sur ce groupe, alors je vais en profiter pour me présenter. Je programme depuis 44 ans. J'ai toujours enseigné en alternant jobs de développeur avec jobs d'enseignant. Aujourd'hui je suis enseignant en informatique à temps plein niveau bac Suisse. Je ne peux plus développer sans IA. Et peut-être que d'ici la fin de l'année je ne pourrais plus enseigner sans IA.
+Je suis chaque jour surpris par ce que les IA (surtout Claude) me permettent de faire et à quel point mes discussions avec elles sont plus riches qu'avec mes collègues de travail. Je ne sais pas si l'IAG sera possible (techniquement, financièrement et écologiquement parlant). Il y a six mois je n'y croyais pas du tout, mais aujourd'hui j'ai l'impression qu'ils vont y arriver rapidement (avant 2030 et peut-être déjà avec Orion ?).
+Pour finir, j'ai rencontré @33649535198 (et d'autres de ce groupe) sur un autre groupe animé par Benoît Raphaël (Flint).
+10/09/2024, 18:42 - ‎Benoit Groupe gPT a demandé à rejoindre le groupe.
+10/09/2024, 18:44 - ‎Benoit Groupe gPT a rejoint ce groupe grâce à son lien d’invitation
+10/09/2024, 19:02 - Rochane: Je la trouve excessive dans le sens où il n'évoque pas du tout le côté obscur de l'IA qui est pourtant un problème sérieux avec des défis comme  la présence de biais et d'inégalités, la nécessité d'explications et de transparence, et la menace de déplacement de travail et d'impact social....

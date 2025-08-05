@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 599
+Messages: 21
+
+=== CONTENU ===
+30/03/2025, 20:25 - Rochane: Super initiative Frédéric. Que penses-tu si tu nous faisais une présentation de ton projet lots du prochain live d'avril ?
+30/03/2025, 20:26 - +33 6 60 98 07 54: Ok . On va faire ça !
+30/03/2025, 20:28 - +33 6 81 41 67 96: Initiative intéressante -Un atelier ouvert à tous pour parler IA et Enseignement le mercredi 2 avril a 18.00 avec 2 invités , Edwige Dacheux prof agrege dans la formation professionnelle et Christophe Fournier Prof. des Universités, 👉 https://laurent-flores.notion.site/1bb3d0f474fd804cbea8c94846b0077b
+30/03/2025, 20:34 - Rochane: Je pense notamment à Consensus : Un moteur de recherche IA qui synthétise des informations à partir de millions d'articles scientifiques avec des réponses fiables et sourcées pour simplifier la recherche académique
+Par ailleurs, tu as Co- Storm une plateforme de l'université de Stanford avec de nombreux agents conversationnels qui peuvent générer des rapports de plusieurs pages gratuitement <Ce message a été modifié>
+30/03/2025, 20:43 - +33 6 19 75 63 49: Me again, est-ce qu’on peut faire plus que les 50 sources de notebookLM avec une autre IA?
+30/03/2025, 20:45 - Rochane: NotebookLM plus, 300 au lieu de 50
+30/03/2025, 20:55 - +33 6 19 75 63 49: Je voulais dire gratuit ;)
+Ok je vais y penser. Merci Rochane!
+30/03/2025, 20:58 - Cyrille CARTERET: Si vous voulez du gratuit.
+Donner moi vos sources.
+Je vous fait un notebook en éditeur....
+Il sera hébergé chez moi.
+Mais vous pourrez l'utiliser chez vous.
+C'est gratuit.
+Mais faut vouloir le faire 😁
+31/03/2025, 07:05 - Votre code de sécurité avec ~ F a changé. Appuyez pour en savoir plus.
+31/03/2025, 08:09 - +1 (281) 250-4532: null
+31/03/2025, 08:32 - Vous avez supprimé +1 (281) 250-4532
+31/03/2025, 09:13 - +32 475 86 01 57: Les ludoviales en ligne c’est mercredi et ça porte sur lIA et l’enseignement: https://www.ludoviales.com/
+31/03/2025, 09:32 - +32 475 86 01 57: J’ai fait la formation ci dessous pour mes collègues. pvsi en projet de développer les critères de choix d’une IA et les chatbots pédagogiques. Certains modules mériteraient d’être refait (Le premier en priorité, on sent trop l’ absence de plan de celui-là que j’ai refais à l’ arrache). Avec eux je fais une séance d’introduction et une séance de clôture en présentiel. Si vous en avez l’usage, vous pouvez la faire circuler, je ne prévois pas de la faire disparaitre.

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 562
+Messages: 6
+
+=== CONTENU ===
+21/11/2024, 12:32 - +33 6 59 35 23 38: Oulala, ça, c'est sûr...un vaste problème. ! A mon avis, ne pouvant éviter le raz-de-marée de l'IA, nous pouvons déjà au moins, en mutualisant nos pratiques, en rendre l'usage plus efficient, et donc économiser la quantité de calcul nécessaire à l'aboutissement d'un projet en partageant des prompts qui ont fait leurs preuves. Ensuite, des études comparant l'impact carbone de l'activité "classique" de l'enseignement des langues avec celui d'une pratique incluant l'usage de l'IA pourrait peut-être nous surprendre. C'est le fameux exemple du lave-vaisselle, plus vertueux en termes de gaspillage de l'eau. Mais je ne fais que supposer, il nous faut vraiment être vigilants !
+21/11/2024, 12:34 - +33 6 19 75 63 49: Bonjour Rémi, merci pour ton message. Je n’ai pas assez testé Mizou pour faire des retours dessus, puisque nous voulions récupérer les discussions des étudiants: ce qui nous intéresse, c’est le processus, et on peut le faire avec ChatGPT. C’est de l’évaluation formative MAIS nous voulons vérifier les hallucinations pour ne pas que les étudiants restent avec des erreurs. Donc cela ne nous dispense pas de corriger, mais cela leur donne un feedback immédiat et bien plus précis et on gagne quand même du temps. On veut aussi la preuve qu’ils bossent 😉 Je ne sais pas si Mizou peut donner un feedback aussi précis que ChatGPT4-o (qui s’est d’ailleurs amélioré depuis l’année dernière: moins d’erreurs dans les corrections grammaticales). Quand j’avais découvert et testé Mizou, il y avait des erreurs dans les corrections du français <Ce message a été modifié>
+21/11/2024, 12:46 - +33 7 84 33 02 62: Merci beaucoup pour ce retour ! Je pensais aussi à une utilisation pour une IA plus inclusive ! Je vais regarder cet aspect là
+21/11/2024, 12:47 - +33 6 19 75 63 49: Oui… mais il y a aussi le paradoxe de Jevons 😉 https://www.transitionsenergies.com/efficacite-energetique-paradoxe-de-jevons/#:~:text=Le%20paradoxe%20de%20Jevons%2C%20définit,une%20diminution%20de%20sa%20consommation%2C
+21/11/2024, 13:00 - +33 6 59 35 23 38: Copilot
+21/11/2024, 13:02 - +33 6 59 35 23 38: Oui, tu as raison, c'est ce que je connaissais comme "l'effet rebond" que dénonce Jancovivi. Merci pour le partage

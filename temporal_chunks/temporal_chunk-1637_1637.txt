@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 11
+
+=== CONTENU ===
+22/01/2025, 21:42 - +33 6 66 36 34 84: C'est un super outil pédagogique. Je l'utilise en formation pour:
+- la possibilité de visualiser les tokens avec leurs stats et de les modifier pour voir l'effet sur le texte généré
+- Créer une petite ia qui reconnaît deux catégories  d'images, l'entraîner, visualiser le réseau de neurones et tester sur de nouvelles images .. permet de sensibiliser aux erreurs et aux biais de l'IA
+22/01/2025, 21:56 - Daniel Pappalardo: Il est disponible dans le GAR un moyen de se connecter avec les identifiants  académiques des élèves dans la plateforme de l'ENT donc sous couvert de l'académie et du coup respectant le RGPd. C'est une application qui utilise ChatGPT pour créer et aider à apprendre la programmation. Y a aussi Wooflash qui utilise aussi ChatGPT pour faire des quizz avec une URL...
+22/01/2025, 22:09 - Daniel Pappalardo: Par contre il ''est pas gratuit il est disponible gratuitement pour les élèves et les enseignants sous forme de licences à activer en les demandant auprès des référents TNE dans son établissement. Les licences sont payées par l'état (autour de 150€ par an pour vitta science et sûrement similaire pour Wooflash)
+22/01/2025, 22:30 - +33 6 66 36 34 84: Pour l'outil génération de texte, on a  le choix entre plusieurs LLM. Je l'utilise gratuitement et sans création de compte.
+22/01/2025, 22:33 - +33 6 42 26 64 70: L’accès via le GAR est un sacré plus !! Vous en connaissez d’autres des prestataires IA qui sont validés par le GAR ? Je suis preneur !
+22/01/2025, 22:45 - Daniel Pappalardo: Oui mais pour être RGPD il faut une connexion via le GAR. Il est gratuit en mode découverte effectivement donc limite pour une classe de mémoire. Je sais que c'est un bon outil je fais aussi des formations TNE avec. Simplement je préfère rappeler que derrière la gratuité il y a un financement de l'etat. '
+22/01/2025, 22:46 - Daniel Pappalardo: Pas vraiment !
+22/01/2025, 22:47 - estelle Duterage Drion IA: GAR?
+22/01/2025, 22:47 - +33 6 42 26 64 70: Ok, merci @33673577832 pour cette pépite qui devrait bien simplifier la sensibilisation de nos élèves !

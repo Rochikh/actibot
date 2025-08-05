@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 20
+
+=== CONTENU ===
+https://chatgpt.com/share/710ce708-652d-4c6c-a31e-908e63ae8f97
+30/05/2024, 21:29 - +33 6 81 36 11 13: c'est un de mes élèves qui teste Perplexity pour moi sur l'écriture des prompt. je le fait avec ma classe sur chatGPT en fin de mois en 4ème. Sa question est : Comment faire comprendre à l'IA qu'il s'est trompé?. j'avoue que je ne sais pas quoi lui dire
+30/05/2024, 21:31 - +33 6 81 36 11 13: merci, je vois bien le rôle de chatGPT. Je vais bien m'amuser avec mes 4ème je crois.
+30/05/2024, 21:32 - LIO: Ce message a été supprimé.
+31/05/2024, 10:37 - +33 6 25 79 50 95: Merci Pierrick pour ton éclairage sur l'héritage du jeu (sélectif) de données ayant servi à entraîner Phi-3. La taille du LLM est une chose mais la qualité des données d'entraînement en est un autre, en effet. Par ailleurs je me doute que la solution locale sera moins satisfaisante que les LLM en ligne, mais l'idée d'une confidentialité (théorique) tout en contribuant à une forme de sobriété digitale donne envie d'essayer.
+Mais pour tester véritablement Phi-3 sur mon smartphone j'ignore :
+- Quels sont les prérequis techniques avant d'installer Phi-3 (puissance minimale processeur, mémoire, ...)
+- Comment concrètement installer Phi-3 sur mon smartphone Android.
+Merci par avance à celles et ceux qui pourront m'y répondre
+Arnaud le padawan néophyte :-)
+31/05/2024, 10:58 - Rochane: voilà une page pour le faire
+https://www.perplexity.ai/page/Tester-Phi3-sur-_3FiV_CBTKqx.uWWuIZQIw
+@33672091809 ce truc là est trop puissant😮
+31/05/2024, 11:01 - Pierrick BRIAND: Whaou, On tient un truc de dingue !
+31/05/2024, 11:07 - ‎+32 477 88 54 86 a demandé à ajouter +32 488 99 93 35.
+31/05/2024, 11:15 - ‎+33 6 08 11 80 55 a demandé à rejoindre le groupe.
+31/05/2024, 11:22 - ‎+33 6 81 02 18 07 a demandé à rejoindre le groupe.
+31/05/2024, 11:31 - ‎+32 486 46 29 06 a demandé à ajouter +32 483 39 60 69.
+31/05/2024, 11:35 - ‎+33 6 50 02 37 92 a demandé à rejoindre le groupe.
+31/05/2024, 11:57 - Pierrick BRIAND: https://www.linkedin.com/posts/pierrickbriand_ia-formation-whatsapp-activity-7202231880232960000-jKB9?utm_source=share&utm_medium=member_desktop

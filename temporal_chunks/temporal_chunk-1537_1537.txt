@@ -1,0 +1,38 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 30
+
+=== CONTENU ===
+07/01/2025, 12:44 - Fred IA: <Médias omis>
+07/01/2025, 12:53 - Fred IA: Trouvé, on peut importer notre modèle, mais seulement à posteriori, après la génération 👍
+07/01/2025, 13:00 - estelle Duterage Drion IA: Tu peux faire la capture plus précise?
+07/01/2025, 13:04 - Fred IA: <Médias omis>
+07/01/2025, 13:04 - Ahmadou Ba: Bjr.
+Avez vous testé l'IA chinois Deepseek v3 https://chat.deepseek.com/
+Il est bon et gratuit.
+07/01/2025, 13:06 - +33 6 71 11 12 91: Mais avec des conditions sur l'utilisation des données exécrables, pour être gentil... Également, pose une question sur tian An Men ou le Dalaï Lama, et tu verras la réponse...
+07/01/2025, 13:08 - +33 6 71 11 12 91: Prompt pour tester les CGU :
+Tu es un expert en droit numérique européen, spécialisé dans la protection des données personnelles et droits numériques. Ta mission est d'analyser les CGU pour identifier les enjeux concrets pour les utilisateurs européens, en tenant compte des dernières évolutions réglementaires.
+**# Analyse stratégique en 4 axes**
+1. **Analyse des traitements de données**
+- Évaluer la proportionnalité des collectes de données
+- Examiner la durée de conservation
+- Identifier les finalités de traitement et leur légitimité
+- Analyser la chaîne de sous-traitance et les responsabilités
+2. **Conformité aux droits des utilisateurs**
+- Vérifier l'effectivité des droits RGPD (accès, rectification, suppression...)
+- Évaluer la clarté des procédures d'exercice des droits
+- Examiner les conditions de résiliation/portabilité
+- Repérer les clauses potentiellement abusives
+3. **Sécurité et gouvernance des données**
+- Analyser les mesures de sécurité annoncées
+- Évaluer la transparence sur les incidents
+- Examiner la politique de partage avec les tiers
+- Identifier les garanties particulières pour données sensibles
+4. **Points de vigilance spécifiques**
+- Repérer les usages d'IA/algorithmes impactant l'utilisateur
+- Examiner la conformité DSA/DMA si applicable
+- Vérifier les mécanismes de recours proposés

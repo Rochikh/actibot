@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 16
+
+=== CONTENU ===
+03/02/2025, 18:28 - Votre code de sécurité avec ~ MR a changé. Appuyez pour en savoir plus.
+03/02/2025, 19:28 - Gregoire IA: Bien curieux d'en savoir plus.
+De mon côté je travaille sur la génération d'une grille d'évaluation sur la base du plan de cours, des objectifs d'apprentissage quid ceux visés par l'activité d'évaluation et les possibles documents annexes (mise en situation, études de cas,etc. Eux mêmes générés par une IA pour être alignés pédagogiquement)
+La grille permet alors d'évaluer les travaux et l'IA la complète avec commentaires et notes pour chaque critère.
+Le BOT travaille avec une base documentaire, les grilles sont générées puis ajoutées manuellement dans un second BOT. Mes compétences ne me permettent pas d'automatiser plus loin... Je pensais aller avec Make
+03/02/2025, 19:41 - +32 493 10 18 10: Intéressé également tu postes sur LI ?
+03/02/2025, 19:45 - Ahmadou Ba: C'est un excellent projet ficelé. Vous avez pensé utiliser Gemini, il est très bon pour tout ce qui est pédagogie. J'ai même l'impression que ces resultats sont meilleures qualités que chatgpt.
+03/02/2025, 19:51 - Gregoire IA: Oui Gemini est le meilleur pour les scénarios d'activités mais pas le plus efficace pour corriger. Grok ou GPT4o seraient encore les plus performants... Claude Haïku pour développer la grille.
+03/02/2025, 19:53 - Ahmadou Ba: Bon a savoir, vous avez un lien pour tester Groc, jamais essayer.
+03/02/2025, 19:53 - Gregoire IA: Deepseek sort du lot aussi mais je vous laisse voir mon post LinkedIn pour comprendre pkoi je l'écarte.
+J'attends.davoir accès à Qwen 😉
+03/02/2025, 19:54 - Gregoire IA: Je l'ai avec mon forfait sur Poe.com
+03/02/2025, 19:55 - Rochane: Groq c'est très rapide car n'utilise pas des GPU et Grok, c'est l'IA du facho Musk que tu trouves sur X gratuitement depuis 2 mois
+03/02/2025, 19:55 - Rochane: T'as pas accès à Qwen ? Moi je l'ai depuis la semaine passée en ligne 🤔
+03/02/2025, 19:57 - Ahmadou Ba: https://chat.qwenlm.ai/
+03/02/2025, 20:45 - Jean-Marc Everard: Grégoire, j’ai vu ton post LinkedIn là dessus mais de façon générale, tu recommanderais Poe en payant pour les bots?

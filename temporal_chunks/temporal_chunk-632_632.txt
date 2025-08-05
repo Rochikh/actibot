@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 21
+
+=== CONTENU ===
+TurboScribe offre une précision impressionnante, même avec des conditions acoustiques difficiles comme le bruit de fond ou les accents.
+Il dispose d'outils pour améliorer la qualité audio comme la restauration audio par IA et la prise en charge de formats haute qualité.
+TurboScribe permet de sous-titrer automatiquement les cours pour les rendre accessibles à tous, y compris en plusieurs langues.
+Il facilite la création de supports de révisions interactifs en générant une transcription enrichissable du cours.
+Les transcriptions permettent aux enseignants d'analyser et d'améliorer leurs pratiques pédagogiques.
+TurboScribe favorise la collaboration et le partage des connaissances, par exemple pour des projets de recherche internationaux.
+Il offre des transcriptions illimitées, l'identification des intervenants et l'export dans de nombreux formats.
+Une offre gratuite généreuse est disponible (3 transcriptions/jour de 30min max), ainsi qu'un abonnement à 10€/mois pour un accès illimité.
+https://outilstice.com/2024/06/turboscribe-transcription-audio-video-ultraprecis-polyglotte/
+13/06/2024, 20:19 - +33 6 34 15 77 84: Génial Merci ☺️
+13/06/2024, 21:03 - ‎+33 6 68 40 29 69 est parti·e
+13/06/2024, 21:25 - +33 7 56 86 00 33: Intéressant cette notion d’agentivité de l’enseignant. Tu fais un mémoire en quoi ?
+13/06/2024, 21:41 - ‎+33 6 11 19 82 78 est parti·e
+13/06/2024, 22:52 - ‎+212 684-402574 a demandé à rejoindre le groupe.
+14/06/2024, 07:28 - ‎+212 684-402574 a rejoint ce groupe grâce à son lien d’invitation
+14/06/2024, 08:10 - +33 6 71 84 16 51: Bonjour
+Est-ce que certains d’entre vous ont testé la génération de vidéo avec Luma ?
+J‘ai fait mon premier prompt. Le temps d’attente est très long pour voir un premier résultat. (J’attends depuis plus de 20 minutes sans résultat).
+14/06/2024, 08:16 - Rochane: Tu as essayé Dream machine --- Try it now?
+14/06/2024, 08:32 - ‎+33 6 87 38 31 24 a demandé à rejoindre le groupe.
+14/06/2024, 08:42 - +33 6 71 84 16 51: Oui et j‘attends toujours 🤣

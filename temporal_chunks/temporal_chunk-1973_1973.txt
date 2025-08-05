@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 19
+
+=== CONTENU ===
+19/03/2025, 12:18 - +33 7 86 18 83 63: C'est donc accessible par API ? Si c'est le cas c'est génial
+19/03/2025, 13:18 - +33 6 42 26 64 70: Enfin un protocole qui unifie et simplifie les connexion multiples API !
+https://itsocial.fr/logiciel-agilite/logiciel-agilite-articles/mcp-le-protocole-qui-comble-les-carences-des-api/
+19/03/2025, 13:20 - +33 6 42 26 64 70: Et quelqu’un dans ce groupe a-t-il déjà installé n8n sur un de ses serveurs ? Et si oui, quels sont les écueils rencontrés ? Merci 🙏
+19/03/2025, 13:41 - +32 479 82 01 20: J'ai installé n8n sur un serveur VPS (Hetzner) via Coolify et aucuns soucis! Cela se fait en quelques clics. Cloudron aussi est une bonne alternative à Coolify mais un peu plus cher.
+19/03/2025, 13:51 - +33 6 75 41 23 05: Hostinger bien aussi
+19/03/2025, 14:19 - +33 6 52 73 73 42: Bonjour, bonjour !
+Quelqu'un à-t 'il déjà testé Otio.ai (manifestement un outil qui s'apparenterait à NotebookLM).
+Si oui pour quels usages ?! Quels sont les retours ?
+Merci
+19/03/2025, 14:39 - +33 6 42 26 64 70: Ici comme Hostinzer c’est une offre intégrée ? Ou es tu passé par une installation manuelle ( et sur quel OS…moi ce serait sur Debian avec ou sans Plesk) car c’est la manuelle qui m’intéresse. Merci.
+19/03/2025, 14:40 - +32 479 82 01 20: Offre intégrée. Tu veux l'installer sur ta propre machine ou sur un serveur dans le Cloud ?
+19/03/2025, 14:41 - +33 6 42 26 64 70: Un VPS public cloud chez OVH déjà en place
+19/03/2025, 14:49 - ‎~ Marie-Perrine DROUMAGUET est parti·e
+19/03/2025, 15:51 - +32 479 82 01 20: Regarde Cloudron, Coolify ou Elest.io. Ils permettent de déployer assez facilement des apps OS comme n8n ou Baserow. La doc est assez bien faite!
+19/03/2025, 15:57 - +33 6 85 03 31 84: Je viens de tester sans Abonnement (avec Gemini 2.0 Flash) et ça marche;
+Voici un exemple de résultats :
+https://g.co/gemini/share/e02662616ef5
+19/03/2025, 16:02 - +33 6 85 03 31 84: En input, je lui ai fourni la réponse (en anglais) qu’il m’avait généré dans ce premier échange :

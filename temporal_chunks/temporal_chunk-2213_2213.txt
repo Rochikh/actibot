@@ -1,0 +1,36 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 28
+
+=== CONTENU ===
+30/05/2025, 14:02 - ‎+44 7424 941167 a demandé à rejoindre le groupe.
+30/05/2025, 14:12 - ‎+1 (236) 890-1753 a demandé à rejoindre le groupe.
+30/05/2025, 17:37 - +33 7 86 18 83 63: Hello
+Genspark est super long pour créer des présentations. Vous avez un équivalent plus rapide ?
+30/05/2025, 17:43 - +32 498 78 46 36: Gamma
+30/05/2025, 17:45 - ‎+1 (236) 890-1753 a rejoint ce groupe grâce à son lien d’invitation
+30/05/2025, 17:45 - ‎+44 7424 941167 a rejoint ce groupe grâce à son lien d’invitation
+30/05/2025, 20:35 - +33 7 86 18 83 63: Ça vaut le coût de l'acheter ? Pqe c'est vite atteint la limite
+30/05/2025, 21:34 - +98 937 357 3040: <Médias omis>
+31/05/2025, 07:33 - Alix van Zeebroeck: <Médias omis>
+31/05/2025, 07:57 - +1 (236) 890-1753: null
+31/05/2025, 09:15 - Vous avez supprimé +1 (236) 890-1753
+31/05/2025, 09:22 - Rochane: <Médias omis>
+31/05/2025, 09:24 - Clément Cahagne: Dans le dernier podcast CQLP, ils parlent de biais de confirmation. Sûrement un spectre intéressant à creuser pour la partie miroir
+31/05/2025, 09:25 - +33 6 89 33 49 33: Bien vu ! Très vrai
+31/05/2025, 09:57 - +33 6 84 84 42 61: Excellent !
+31/05/2025, 10:31 - martinyemani IA: Excellent! Un nom, le *triangle de Rochane* tel que le triangle de Houssaye en pédagogie
+31/05/2025, 10:32 - martinyemani IA: https://images.app.goo.gl/jUYfzTCKVgYD8PKT7
+31/05/2025, 11:38 - Rochane: Le nom du triangle ?
+Ctl C, Ctl IA🤣
+31/05/2025, 13:02 - +33 7 44 11 22 11: Une boussole numérique pour moi 🥰
+31/05/2025, 13:24 - Laurent The Cure: <Médias omis>
+31/05/2025, 13:38 - +33 6 71 11 12 91: Intéressant comme représentation, mais il me semble qu'il manque quelque chose.
+Ces trois cas correspondent à des patterns fréquents.
+Le "miroir" (recherche de validation) et la "prothèse" (délégation totale) sont très répandus.
+La "boussole" (guidance exploratoire) est moins fréquente (statistiquement, il me semble), mais beaucoup plus enrichissante.
+Principales faiblesses du modèle :
+- Confusion entre intention et résultat : Quelqu'un peut demander une "prothèse" (faire à sa place) mais obtenir un effet "boussole" si la réponse l'amène à réfléchir différemment.

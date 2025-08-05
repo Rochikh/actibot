@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 8
+
+=== CONTENU ===
+Une IA, même capable d'analyser des "signaux émotionnels", ne peut égaler cette intelligence situationnelle. Le processus d'apprentissage nécessite un accompagnement humain pour développer l'esprit critique et la mise en perspective des connaissances.
+Bref, remplacer les enseignants par des "guides" supervisant des ateliers après 2 heures d'apprentissage via l'IA est une approche qui nie la complexité de l'acte d'enseigner, vous l’avez compris, ça m’énerve
+23/12/2024, 09:42 - +33 6 20 97 18 83: @33628353450 Votre projet est fort intéressant et j'aimerais en savoir plus. Je suis Ingénieure pédagogique (pedagogie et outils numériques, notamment IA) et je porte une seconde casquette d'enseignante d'anglais. J'interviens en tant qu'enseignant dans un parcours de formation universitaire spécifique aux étudiants sportifs de haut niveau. La formation permet d'évaluer la mobilisation des connaissances et compétences. En contexte d'evaluation, les étudiants doivent démontrer leurs acquis en connaissance et compétence en vidéo. Par conséquent ce que vous proposez m'interpelle et j'aimerais en savoir plus.Est-ce que vous avez une plate-forme où vous communiquez sur le projet, sinon auriez-vous  temps pour échanger?
+23/12/2024, 09:49 - StéphaneIA: @33628353450 Si le projet repose essentiellement sur la vidéo, le seul modèle qui a ces capacités c'est le nouveau Gemini 2.0 Flash. En première intention vous pouvez faire des tests sur AI Studio en chargeant les vidéos à la main et en demandant par exemple si il y a des améliorations possibles ou si il peut catégoriser les grandes idées par exemple. Tout cela sera du prompt et est assez facile à tester sur aistudio.google.com. Si après il faut faire du conseil en live par exemple ce serait possible mais pour cela ce sera du développement.
+23/12/2024, 09:59 - Rochane: Le Chat Bot de la communauté vient d'être mis à jour
+actibot.carrd.co
+23/12/2024, 10:01 - +33 7 67 14 12 50: Ce message a été supprimé.
+23/12/2024, 10:16 - Francois Bocquet: Peut être regarder du côté de Vocacoach pour une partie de la question https://vocacoach.fr/ ?

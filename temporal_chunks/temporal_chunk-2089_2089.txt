@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 592
+Messages: 22
+
+=== CONTENU ===
+- Utilisez l'outil pour des tâches variées : rédaction de posts sociaux, plans de contenu, résumés, etc.
+- N'hésitez pas à modifier et personnaliser le texte généré
+## Limites à connaître
+- Version gratuite : limitée à 25 utilisations par mois
+- Version Pro/Équipe/Éducation : 250 utilisations par cycle de facturation
+- Maximum 1500 mots par requête et 2000 mots par réponse
+- Les informations peuvent être obsolètes (base de données limitée à mi-2021)[3]
+Pour des résultats encore plus personnalisés, n'hésitez pas à passer Canva en anglais, ce qui peut vous donner accès à des fonctionnalités supplémentaires qui ne sont pas encore disponibles en français[4].
+Citations :
+[1] Tutoriel ÉCRITURE MAGIQUE sur Canva - YouTube https://www.youtube.com/watch?v=wksCXxz2_bA
+[2] Tuto Canva avec la fonction écriture magique pour créer du contenu ... https://www.youtube.com/watch?v=NLHoeEKU6p0
+[3] Canva : 6 astuces pour utiliser l'outil Écriture magique - BDM https://www.blogdumoderateur.com/canva-astuces-utiliser-outil-ecriture-magique/
+[4] 4 astuces Canva qui vont révolutionner la création de tes formations ... https://www.passionformation.com/post/4-astuces-canva-qui-vont-r%C3%A9volutionner-la-cr%C3%A9ation-de-tes-formations-en-ligne
+[5] L'écriture magique sous Canva. Une alternative à Chat GPT https://www.youtube.com/watch?v=O7WaziBMvdE
+[6] Utilisez l'Écriture magique pour générer du texte - Centre d'aide Canva https://www.canva.com/fr_fr/help/magic-write/
+[7] Écriture magique : IA écrivaine génératrice de texte - Canva https://www.canva.com/fr_fr/ecriture-magique/
+[8] Utiliser Effet magique - Centre d'aide Canva https://www.canva.com/fr_fr/help/using-magic-morph/
+[9] Canva Docs : Traitement de texte en ligne, simple et gratuit https://www.canva.com/fr_fr/docs/
+[10] Ajouter un effet de texte sur Canva - Tutoriel - YouTube https://www.youtube.com/watch?v=8ud2049pV58
+17/04/2025, 11:18 - Laurent The Cure: Bonjour,
+bouteille à la mer….
+Existerait il une IA qui permettre de transformer une présentation interactive Genially en activité SCORM ? Je sais qu'il y a un moyen de simplement enregistrer la présentation en paquet SCORM, mais je n'ai pas les moyens de prendre un plan supérieur (payable uniquement à l'année, et sur mes fonds propres) sans même savoir si le résultat est bon. Alors je me dis que peut être l'IA va encore me sauver.

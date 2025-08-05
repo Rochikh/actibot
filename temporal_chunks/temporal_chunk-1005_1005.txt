@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 12
+
+=== CONTENU ===
+https://chatgpt.com/share/66f82da4-cd8c-800f-bda1-7771180f005f <Ce message a été modifié>
+28/09/2024, 18:47 - +41 76 372 28 94: 404 not found...
+28/09/2024, 18:48 - Rochane: <Médias omis>
+28/09/2024, 18:51 - ‎+33 6 83 01 48 77 a demandé à rejoindre le groupe.
+28/09/2024, 18:59 - ‎+33 6 77 76 67 12 a demandé à rejoindre le groupe.
+28/09/2024, 19:00 - +41 76 372 28 94: Pour l'instant c'est moi qui finance la clé API mais il n'y a que moi qui l'utilise (j'ai fini le site ce matin). Mais je réfléchis dejà à la suite, c'est à dire à l'ouvrir aux autres profs d'informatique dans d'autres établissements que le mien. Je n'ai pas encore de recul sur le coût réel, j'estime à la louche 1 Euro maxi la scéance de TP d'une heure et demi par élève. Je vous dirais quand je l'utiliserai intensivement.
+Sinon pour répondre a @221774242616, je trouve que l'abonnement offre plus de fonctionnalités sympa que playground ou qu'une clé API mise dans un logiciel tiers qui servirait d'interface.
+Merci beaucoup @33662364404 pour tes conseils éclairés : je sens que je vais rester comme ça pour le moment, à l'utiliser juste avec mes classes en attendant que l'école accepte de prendre un abonnement éducation pour tous les élèves... Mais je vais encore réfléchir pour essayer de comprendre la logique de cette loi, car j'imagine, en lisant ce que @33649535198 vient de partager, que si j'ajoute juste un bouton "se déconnecter" pour détruire son cookie et son accès gratuit à o1-preview, ça ne suffira pas pour être conforme ? <Ce message a été modifié>
+28/09/2024, 19:10 - ‎+33 6 77 76 67 12 a rejoint ce groupe grâce à son lien d’invitation
+28/09/2024, 19:10 - ‎+33 6 83 01 48 77 a rejoint ce groupe grâce à son lien d’invitation
+28/09/2024, 19:11 - ‎+590 690 45-5255 a demandé à rejoindre le groupe.
+28/09/2024, 20:02 - Hoang: je pensais qu'en payant l'abonnement ChatGPT, j'avais droit d'office à une clé API utilisable. Par exemple pour Make, est ce qu'il passe par l'API pour l'automatisation de contenu vers les réseaux sociaux ?

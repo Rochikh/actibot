@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 15
+
+=== CONTENU ===
+11/09/2024, 19:04 - Rochane: <Médias omis>
+11/09/2024, 19:29 - ‎+33 6 65 58 95 78 est parti·e
+11/09/2024, 19:58 - +1 (438) 225-3821: 🙂‍↔
+11/09/2024, 20:07 - Fred IA: Bonsoir. Un tout nouvel outil text to vidéo vient de sortir : l'IA se nomme minimax et permet d'obtenir des résultats quasi de même qualité que les exemples vus avec Sora. Le site est en chinois à priori mais l'astuce consiste à le traduire en français via Chrome. Entièrement gratuit (pour l'instant...) et résultats qui m'ont impressionné : https://hailuoai.com/video <Ce message a été modifié>
+11/09/2024, 20:13 - +33 7 63 58 01 55: Impressionnant 👍🏻
+11/09/2024, 21:10 - +33 6 86 63 43 38: Bonjour à tous,
+Je suis étudiante en Master en Sciences de l’Education.
+Mon mémoire de recherche traite de  l’efficacité des communautés de pratique dans l’intégration de nouvelles pratiques, en particulier l’IA générative, au sein des ingénieurs pédagogiques.
+Je recherche environ six volontaires pour participer à cette étude, anonymement, qui consistera en un premier échange oral, suivi par la tenue d’un journal de bord pour documenter votre expérience d’intégration de nouvelles technologies dans une communauté de pratique virtuelle.
+Votre contribution serait précieuse pour ma recherche. Et il me semble que notre communauté est LE terrain idéal 😇🙂
+Merci d’avance à vous,
+@33649535198 j’aurais besoin de ta participation si tu veux bien, en ta qualité « d’animateur » de la communauté 🙂
+12/09/2024, 07:22 - Hoang: 💡 **Dot – L’app IA locale pour interagir avec vos documents** : Dot est une IA locale qui permet de gérer des documents (PDF, Word, Excel) en toute sécurité sans envoyer de données sur le cloud. Elle utilise un modèle de langage pour analyser vos fichiers, en extraire des informations et répondre à vos questions. Vous pouvez interagir avec vos documents en utilisant des requêtes naturelles, tout en assurant la confidentialité de vos données. 📄🔒
+#IA #Confidentialité #Tech #OpenSource
+👉 [Découvrir Dot](https://korben.info/dot-app-ia-locale-interagir-documents.html)

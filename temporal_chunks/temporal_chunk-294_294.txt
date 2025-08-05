@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 16
+
+=== CONTENU ===
+13/03/2024, 11:34 - ‎+33 6 21 59 46 64 a rejoint le groupe à partir de la communauté.
+13/03/2024, 12:06 - +33 6 76 38 15 71: Merci beaucoup pour cette présentation. Je travaille chez Réseau Canopé m'autorisez vous à la présenter à mes collègues ? Éventuellement seriez vous intéressé pour présenter votre travail  ?
+13/03/2024, 17:52 - Rochane: Astuce 😁 Certains pays comme la France, la Belgique, ne peuvent pas avoir Claude.ai Je viens de tester un truc qui fonctionne : Je suis à Bruxelles ( en train d'attendre le train pour Lille), je me mets en navigation privée, je vais sur Claude.ai, je m'inscris avec une adresse mail, il m'envoie un code sur l'adresse mentionnée, je le rentre ( tout ça sans VPN), il me demande un numéro de téléphone et là, ça craint car dans la liste déroulante qu'il propose, ni la France, ni la Belgique n'y est. Sauf que dans le champ numéro de téléphone je tente+336.... , mon numéro quoi et je valide. Miracle, il m'envoie le code sur mon numéro français et roule Raoul 😁
+13/03/2024, 17:54 - Rochane: Si quelqu'un peut confirmer ?🙂
+13/03/2024, 17:54 - Rochane: Pour info, Claude vous permet d'analyser des images et des PDF
+13/03/2024, 17:55 - Vincent DROUOT: Actualité chaude :
+https://www.usine-digitale.fr/article/avec-l-adoption-de-l-ai-act-par-le-parlement-europeen-l-ue-jubile.N2209823
+13/03/2024, 17:57 - Jacques BARATTI: Oui ça fonctionne !!! L'astuce c'est de mette le + devant le 33 ! J'avais essayé mais sans le + 😭
+13/03/2024, 17:58 - +32 479 82 01 20: Unfortunately, Claude.ai is only available in certain regions right now. We're working hard to expand to other regions soon.
+Get notified when Claude is available in your region.
+13/03/2024, 17:58 - +32 479 82 01 20: Pas chez moi malheureusement
+13/03/2024, 17:58 - +32 479 82 01 20: 🥲
+13/03/2024, 17:58 - +32 479 82 01 20: Je suis a Bruxelles
+13/03/2024, 17:58 - Rochane: Utilise un vpn
+13/03/2024, 17:58 - +32 479 82 01 20: Je vais essayer
+13/03/2024, 17:59 - Rochane: Ben moi aussi. Tu es en navigation privée ?

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 539
+Messages: 18
+
+=== CONTENU ===
+05/08/2024, 15:19 - +33 6 19 29 82 01: Mizou permet des réponses en vocal
+05/08/2024, 15:20 - ‎+32 476 28 28 55 a demandé à rejoindre le groupe.
+05/08/2024, 15:21 - ‎+212 657-095113 a demandé à rejoindre le groupe.
+05/08/2024, 15:27 - ‎Cyril Divoul est parti·e
+05/08/2024, 15:33 - ‎+32 476 28 28 55 a rejoint ce groupe grâce à son lien d’invitation
+05/08/2024, 15:33 - ‎+212 657-095113 a rejoint ce groupe grâce à son lien d’invitation
+05/08/2024, 15:35 - +33 6 52 49 10 78: Hello tout le monde. À votre avis, existe-t-il-une solution (via plugin) pour faire à Obsidian, le même travail de NotebookLM ? Autrement dit, implémenter une IA conversationnelle qui va aller chercher dans toutes les notes, PDF et autres datas de son PKM [Personal Knowledge Management] ? Je suis assez fan de Notebook LM mais tout mon second cerveau est sur Obsidian. Merci par avance pour les tips éventuels ! [PS : Je ne basculerais pas sur Notion ;)]
+05/08/2024, 15:37 - ‎+33 6 82 85 84 93 est parti·e
+05/08/2024, 15:40 - ‎+212 662-045995 est parti·e
+05/08/2024, 15:50 - +33 6 70 57 72 80: Bonjour, j’ai testé POE, et charter.ia
+05/08/2024, 15:50 - +33 6 70 57 72 80: Ce message a été supprimé.
+05/08/2024, 15:51 - +33 6 70 57 72 80: Merci 🙏 je vais regarder
+05/08/2024, 15:52 - +33 6 19 14 60 08: Ce message a été supprimé.
+05/08/2024, 17:40 - Rochane: Pour nos nouveaux et nouvelles ces 2 derniers jours (nous sommes 831 à ce jour), voici un résumé de tout ce qui s'est dit depuis la naissance de cette communauté :
+Les 10 points qui résument les pratiques partagées par la communauté concernant l'IA et l'éducation :
+ChatGPT comme couteau suisse: La communauté utilise ChatGPT de manière intensive pour diverses tâches, notamment la génération de contenu, la traduction, la création de quiz, la rédaction de prompts, etc.
+L'importance du prompt engineering: La communauté souligne l'importance de bien formuler ses prompts pour obtenir des résultats pertinents et précis des IA.
+La recherche d'outils collaboratifs: La communauté s'intéresse aux outils qui facilitent la collaboration et le partage de ressources, comme Padlet, Airtable, et les Google Sites.

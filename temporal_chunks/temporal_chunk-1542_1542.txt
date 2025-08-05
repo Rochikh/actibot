@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 559
+Messages: 18
+
+=== CONTENU ===
+07/01/2025, 18:16 - ‎+41 77 484 25 33 a rejoint le groupe à partir de la communauté.
+07/01/2025, 18:27 - Francois Bocquet: Merci ! Attention : ce MOOC est avant tout destiné aux DPD/DPO et aux responsables de traitement et n’est pas adapté aux personnes concernées par les traitements. Il sera donc important de faire la part des choses. Guillaume Desgens est le magistrat qui est responsable du diplôme de DPD au CNAM et c’est une excellente référence.
+08/01/2025, 00:22 - +41 79 258 90 36: fun-moc propose des cours gratuits très intéressant permettant aussi de se resourcer. Il y a de nombreux cours sur l'IA voir https://www.fun-mooc.fr/fr/cours/?limit=21&offset=0&query=Intelligence%20artificielle%20
+08/01/2025, 09:39 - ‎+33 6 52 75 21 72 est parti·e
+08/01/2025, 11:01 - Yvelines: Merci pour cette vidéo! C'est très clair!
+08/01/2025, 12:47 - Votre code de sécurité avec ~ Joseph a changé. Appuyez pour en savoir plus.
+08/01/2025, 13:40 - Rochane: La version 2 d'actibot ( chatbot de la communauté) est désormais accessible à cette URL
+actibot.replit.app
+Il n'y a plus d'automatisation ( réalisée sur replit.com )et une interface plus épurée.
+Merci de me faire des retours si vous constatez des dysfonctionnements 😀
+08/01/2025, 13:41 - Vous avez changé la description du groupe
+08/01/2025, 13:44 - Ahmadou Ba: Il est cool et il garde en mémoire les dernières discussions. C'est une avancée majeure.
+08/01/2025, 13:45 - Ahmadou Ba: J'espère qu'il est RGPD 😅😅
+08/01/2025, 13:50 - Francois Bocquet: Faut lui poser la question
+08/01/2025, 13:50 - +213 770 60 32 81: Ce message a été supprimé.
+08/01/2025, 13:51 - Francois Bocquet: Et lire sa réponse : « Je ne peux pas répondre à cette question car je ne suis pas conçu pour traiter des informations personnelles ou gérer des données conformément au RGPD. Je suis ici pour t'aider avec des informations et des analyses sur des sujets comme l'IA dans l'éducation »
+08/01/2025, 13:52 - zp: Testé 👍
+08/01/2025, 13:52 - Francois Bocquet: Hehe ! Et je confirme ce bot n’est pas conforme au RGPD. D’abord il ne présente pas de mentions légales et ensuite il traite non seulement les DCP des utilisateurs du not mais également les DCP de ceux qui participent à la communauté via WhatsApp

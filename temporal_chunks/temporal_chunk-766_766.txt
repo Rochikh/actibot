@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 15
+
+=== CONTENU ===
+31/07/2024, 09:35 - Clément Cahagne: « ce qui pourrait potentiellement surpasser les capacités actuelles d'Adobe et de Gamma en matière de création de présentations assistée par IA. »
+Mouais… L’emphase sur l’utilisation du POURRAIT POTENTIELLEMENT est importante ici à mon sens.
+31/07/2024, 10:41 - +33 6 02 20 69 43: Je ne sais si c’est vraiment génial… à l’époque il y avait blueWillow, racheté et devenu payant par la suite…
+31/07/2024, 10:42 - +33 6 19 29 82 01: J'espère que le studio magique ne sera plus cher en effet.
+31/07/2024, 10:44 - Hoang: Si vous ne le faites pas par bonté, mettez les formes par pragmatisme. Source : Slate.fr https://search.app/DDdb5DPo2zdt7eBPA
+31/07/2024, 10:44 - +33 6 02 20 69 43: Damned, la dernière question m’a mise dedans :)
+31/07/2024, 11:23 - Pierrick BRIAND: <Médias omis>
+31/07/2024, 11:40 - Lucie: J'ai testé aussi @33672091809 et je reste sur Claude 3.5 sonnet aussi. Par contre il me tarde de voir les bots Gemini arriver.
+31/07/2024, 11:49 - Vincent DROUOT: La réponse est dans la liste des investisseurs de Perplexity où l’on trouve un certain Jeff Bezos en personne, qui leur donne un accès facile à Amazon Web Services (AWS), l’entreprise la plus grosse dans le secteur du Cloud Computing (et qui représente toujours 60% des bénéfices d’Amazon et qui héberge 50% des sites web et applis le plus utilisées au monde).
+Et en regardent l’hébergeur de Perplexity, et bien aucune surprise : AWS <Ce message a été modifié>
+31/07/2024, 11:49 - Vincent DROUOT: <Médias omis>
+31/07/2024, 12:50 - Hoang: Bonjour à tous! Je cherche un outil qui permet une automatisation de contenu pour insta et autre réseaux sociaux, l’objectif étant de nourrir du contenu régulièrement et automatiquement grâce à l’IA. J’avais vu une article dessus mais je ne retrouve plus ce lien…
+31/07/2024, 12:51 - Rochane: Make.com
+31/07/2024, 12:51 - Votre code de sécurité avec +33 6 23 84 29 25 a changé. Appuyez pour en savoir plus.
+31/07/2024, 12:53 - +32 479 82 01 20: Zapier ou Make 😊

@@ -1,0 +1,48 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 40
+
+=== CONTENU ===
+Les tiers ont accès aux données mais sont seulement « obligés de ne pas les divulguer ».
+📝 [Explication]
+Le RGPD exige des contrats contraignants avec les sous-traitants (art. 28). Aucune preuve de ces garanties n’est fournie.
+💡 [Impact]
+Les utilisateurs ne bénéficient pas de protections adéquates en cas de faille chez un tiers.
+2. Conformité aux droits des utilisateurs
+2.1 Effectivité des droits RGPD
+⚠ [Constat]
+Aucune procédure détaillée pour exercer les droits (accès, rectification, suppression).
+📝 [Explication]
+Le RGPD impose des modalités pratiques pour ces droits (art. 12-15). Le simple « contactez-nous » est insuffisant.
+💡 [Impact]
+Les utilisateurs ont des difficultés à exercer leurs droits, entrainant une faible effectivité.
+2.2 Clarté des procédures
+⚠ [Constat]
+Le lien vers les politiques de confidentialité des tiers est mentionné mais non fourni.
+📝 [Explication]
+L’absence d’accès direct aux politiques tiers empêche l’évaluation de leur conformité.
+💡 [Impact]
+Les utilisateurs ne peuvent pas vérifier les usages de leurs données par les sous-traitants.
+2.3 Conditions de résiliation/portabilité
+⚠ [Constat]
+Aucune mention de la portabilité des données ou des modalités de suppression après résiliation.
+📝 [Explication]
+Le RGPD impose la portabilité (art. 20) et la suppression facile (droit d’effacement, art. 17).
+💡 [Impact]
+Les utilisateurs risquent de ne pas pouvoir récupérer ou effacer leurs données facilement.
+2.4 Clauses potentiellement abusives
+⚠ [Constat]
+La clause « je ne peux garantir la sécurité absolue » déresponsabilise l’éditeur en cas de faille.
+📝 [Explication]
+Le RGPD impose une responsabilité objective (art. 24). Une telle déclaration est illusoire.
+💡 [Impact]
+Les utilisateurs ne bénéficient pas de recours en cas de violation.
+3. Sécurité et gouvernance des données
+3.1 Mesures de sécurité
+⚠ [Constat]
+Les mesures techniques et organisationnelles sont décrites comme « commercialement acceptables », sans précision.
+📝 [Explication]
+Le RGPD exige des mesures adaptées au risque (art. 32). La vagueité empêche l’évaluation.

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 17
+
+=== CONTENU ===
+06/08/2024, 22:39 - Samba BA: Ok c bien ça
+06/08/2024, 22:40 - Ahmadou Ba: non je pense pas que cela soit judicieux de faire cela, les ia sont superficielles et cela sautera aux yeux au premier regard. Utilise l'ia plutôt pour resumer synthetiser et explorer tes articles et creer des fiches de lecture plutôt
+06/08/2024, 22:41 - Gregoire IA: @221779093770 je pense à Perplexity, Consensus ou mon préferé : Elicit
+06/08/2024, 22:41 - Gregoire IA: ces outils donnent leurs sources et Elicit explique meme pkoi il indique les references qu’il propose
+06/08/2024, 22:42 - +237 6 56 90 71 30: J'ai demandé à Perplexity et je l'ai aidé avec ceux que je connaissais déjà. Voici quelques outils IA gratuits et payants qui peuvent aider à effectuer des revues de littérature :
+Outils gratuits
+Semantic Scholar
+Semantic Scholar est un moteur de recherche d'articles scientifiques qui utilise l'IA pour analyser et résumer le contenu des publications. Il peut aider à identifier rapidement les articles pertinents pour une revue de littérature.
+Iris.ai
+Iris.ai est un assistant de recherche basé sur l'IA qui aide à explorer la littérature scientifique. Il peut analyser un texte pour suggérer des articles connexes et visualiser les relations entre les concepts clés.
+Scholarcy
+Scholarcy est un outil qui résume automatiquement les articles scientifiques en mettant en évidence les points clés. Cela peut faciliter la lecture et l'analyse d'un grand nombre de publications pour une revue de littérature.
+Outils payants
+Metaxplo
+Metaxplo est une plateforme d'analyse de la littérature scientifique qui utilise l'IA pour cartographier les relations entre les concepts et les auteurs. Elle peut aider à identifier les tendances et les lacunes dans un domaine de recherche.
+Scite
+Scite est un outil qui analyse les citations d'articles scientifiques pour déterminer s'ils les supportent, les contredisent ou en font simplement mention. Cela peut être utile pour évaluer la qualité et la pertinence des articles pour une revue de littérature.

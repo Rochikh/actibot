@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 546
+Messages: 15
+
+=== CONTENU ===
+Les possibilités de mise en page sur Notion sont évidemment beaucoup plus limitées, mais la prise en main et le maintien sont très simples...
+Je dis ceci en utilisant les deux (Wordpress et Notion).
+(My 2 cents, comme on dit...)
+01/12/2024, 14:39 - +33 6 72 75 43 48: Merci pour vos conseils je retiens Notion aussi
+01/12/2024, 16:56 - Rochane: Pour celles et ceux qui se posent encore des questions sur quel outil IA aller et lequel acheter, je trouve cette vidéo très explicite et peut vous aider à faire votre choix. (Comme quoi, ce ne sont pas toujours qui ont le plus d'abonnés qui produisent les meilleures vidéos )
+https://www.youtube.com/watch?v=_qS0QJgsQeE
+01/12/2024, 17:06 - ‎+34 625 25 93 75 est parti·e
+01/12/2024, 17:32 - Jean-Marc Everard: Hello, je rebondis là-dessus. J’ai créé un wordpress (et je confirme le problème des hackers ou de spam, en quelques semaine j’en ai bloqué près de 2000 semble-t-il) dès lors, alors que je pensais l’utiliser pour ma newsletter aussi je pense me tourner vers un outils qui me permettrait de gérer aussi les adresses mails des inscrits sans trop les exposer aux hacker justement. Auriez-vous quelque chose à me proposer ?
+01/12/2024, 17:33 - StéphaneIA: Pour les newsletter medium propose cela mais j'ai crois que substack a plus d'options et c'est son cœur de métier.
+01/12/2024, 17:35 - +32 479 82 01 20: Substack ou Beehiiv. ConvertKit aussi mais jamais utilisé. 😊
+01/12/2024, 17:38 - Jean-Marc Everard: Oui je pensais à Substack aussi quand j’en ai vu l’utilisation par @32485321916 , mais je me demandais si je pouvais intégrer l’inscription à la Newsletter sur mon site facilement. Merci beaucoup pour le retour ! Je vais voir s’il y a des promotions « cybermonday » ;-)
+01/12/2024, 18:11 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+01/12/2024, 19:11 - Samba BA: Bonjour Cher réseau,
+Connaissez vous un logiciel AI traitant la lecture des textes en anglais.
+01/12/2024, 19:13 - +33 6 71 11 12 91: Je ne comprends pas très bien la question. N'importe quelle IA comprend très bien l'anglais, y compris Mistral Le Chat qui est français. Donc Claude, ChatGPT, Le Chat,...

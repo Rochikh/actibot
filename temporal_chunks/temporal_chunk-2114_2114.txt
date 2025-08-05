@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 18
+
+=== CONTENU ===
+22/04/2025, 22:30 - +213 661 96 97 18: Bonsoir , Svp est ce qu’on peux dire l’ère des intelligences artificielles ou utiliser le singulier surtout en pédagogie et comment justifier l’usage du pluriel si c’est le cas ? Merciii
+22/04/2025, 23:05 - +237 6 56 90 71 30: Bonsoir.
+Est-ce que quelqu'un connait une IA gratuite qui fait des organigrammes (charts) à partir d'une description textuelle?
+22/04/2025, 23:39 - Rochane: ChatGPT avec la nouvelle version génération d'image
+22/04/2025, 23:50 - +33 6 71 11 12 91: Récupéré dans ma base, mais je ne les ai pas testés personnellement...
+https://plot.ly/,
+Avec [Plotly](https://plot.ly/), vous pouvez importer vos données depuis [le cloud](https://www.codeur.com/blog/outils-collaboration-cloud/), un fichier Excel ou bien les importer manuellement afin de les transformer en de jolies représentations visuelles.
+Qu’il s’agisse de graphes, de tableaux de bord ou même de diaporamas, les possibilités sont nombreuses et la communauté de Plotly a crée un catalogue de modèles très variés.
+https://datahero.com/,
+DataHero est un outil idéal pour mieux comprendre votre data.
+Importez vos fichiers depuis n’importe quelle plateforme Cloud (Dropbox, Google Drive…) et passez-les dans le décodeur de données de DataHero.
+L’outil vous fera ensuite lui-même des recommandations de graphiques et de représentations adaptées à vos informations pour en faire ressortir des résultats pertinents.
+https://www.amcharts.com/,
+amCharts permet de créer aisément des dataviz 100 % mobile responsive pour les intégrer sur un site web.
+Graphes, diagrammes et cartographies peuvent être personnalisés à souhait, des couleurs à la mise en forme en passant par les animations.
+https://www.highcharts.com/,
+Highcharts se destine principalement au développeurs, qui y trouveront une solution pratique pour intégrer des data visualisations esthétiques et interactives sur un site web.
+Toutefois, l’outil dispose d’une fonctionnalité appelée Highcharts Cloud, pensée pour permettre à n’importe quel utilisateur de créer beaux diagrammes interactifs.

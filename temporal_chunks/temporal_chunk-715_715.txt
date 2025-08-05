@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+11/07/2024, 12:50 - Votre code de sécurité avec +33 6 34 46 31 43 a changé. Appuyez pour en savoir plus.
+11/07/2024, 13:57 - Rochane: les artefacts dans claude sonnet, c'est vraiment pas mal, voici un exemple que je vous présente sur une capsule vite fait 🙂
+https://www.tella.tv/video/rochanes-video-83fw
+11/07/2024, 13:56 - ‎+33 7 67 58 67 55 a rejoint le groupe à partir de la communauté.
+11/07/2024, 19:22 - Votre code de sécurité avec +32 476 66 57 34 a changé. Appuyez pour en savoir plus.
+11/07/2024, 20:26 - Votre code de sécurité avec +33 6 34 46 31 43 a changé. Appuyez pour en savoir plus.
+11/07/2024, 20:47 - Votre code de sécurité avec +33 6 34 46 31 43 a changé. Appuyez pour en savoir plus.
+11/07/2024, 20:49 - Votre code de sécurité avec +33 6 34 46 31 43 a changé. Appuyez pour en savoir plus.
+12/07/2024, 10:57 - +33 6 89 90 65 23: Plusieurs études montrent que ces outils de détection donnent des résultats aléatoires. Si la reconnaissance d'un texte produit par un humain n'est pas mauvaise, la reconnaissance d'un texte produit par une ia generative relève du hasard 50/50, sans parler de reformulations multiples via d'autres ia. Cf a ce titre l'étude que nous avons produite cette année: https://cnam.hal.science/LARAC/hal-04578682v1
+12/07/2024, 11:16 - +33 7 83 16 44 23: Bonjour, l'AI Act a été publié aujourd'hui. Pour un résumé de ce que contient l'AI Act : https://artificialintelligenceact.eu/fr/high-level-summary/
+12/07/2024, 13:17 - +33 7 63 58 01 55: Ça confirme l'impression que j'ai et les qq retours d'enseignants. Difficile de compter dessus et ça confirme donc également qu'il vaut mieux se concentrer sur d'autres modalités d'apprentissage et d'évaluation.
+12/07/2024, 13:56 - ‎~ Raphaël a été ajouté·e
+12/07/2024, 13:56 - ‎Pierrick BRIAND a ajouté ~ Raphaël
+12/07/2024, 20:53 - +32 493 87 42 05: Bsr tout le monde. En dehors de Luma Ai Est-ce qu'il  y aurait une autre IA qui transforme les images en vidéo ou les anime? Je voudrais réaliser des dessins animés pour enfants. Merci par avance pour vos retours.

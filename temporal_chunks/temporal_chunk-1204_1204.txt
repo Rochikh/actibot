@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 14
+
+=== CONTENU ===
+08/11/2024, 15:01 - ‎~ Eric a été ajouté·e
+08/11/2024, 15:00 - ‎Clotilde IA a ajouté ~ Eric
+09/11/2024, 09:21 - +33 6 34 15 77 84: Un post très intéressant qui nous rappelle combien il ne faut pas se fier totalement à l’IA même lorsqu’elle cite ses sources car elle peut là aussi nous berner… à méditer pendant ce long week-end ! 🤗 https://www.linkedin.com/posts/benoitraphael_vous-pr%C3%A9f%C3%A9rez-perplexity-et-chatgpt-%C3%A0-google-ugcPost-7260532502665048064-kkoJ?utm_source=combined_share_message&utm_medium=ios_app&utm_campaign=whatsapp
+09/11/2024, 09:24 - +33 6 34 15 77 84: Pareil j’ai acheté les 2 excellents Prenez aussi son PLAN PROMPTABLE TRÈS UTILE!@Lucie Merci pour ces écrits tellement précieux 🤗
+09/11/2024, 10:00 - +33 6 31 69 61 40: Hello tout le monde, est-ce que quelqu'un sait ce qui a changé dans Chatgpt video summarizer ? Avant (il y a 2 ou 3  mois) je pouvais simplement lui donner un lien YouTube et il me faisait un résumé complet de la vidéo.
+Mais là, j'ai essayé de refaire la même chose aujourd'hui et il me dit qu'il ne peut pas accéder aux vidéos YouTube.
+J'ai loupé quelque chose ?
+Vous avez remarqué la même chose de votre côté si vous utilisiez cet outil?
+09/11/2024, 10:02 - Rochane: Je n'ai pas cet outil mais si tu veux tester videohighlight ou carrément notebooklm, c'est pas mal aussi 🙂
+09/11/2024, 10:13 - ‎+33 7 67 67 84 83 est parti·e
+09/11/2024, 10:27 - Pierrick BRIAND: Le saviez-vous ?
+https://www.perplexity.ai/page/perplexity-operateurs-booleens-Y2r6hPQsRtqgP1QLXBt2yw
+09/11/2024, 10:39 - +33 6 31 69 61 40: Top merci Rochane, je vais tester ça 😁
+09/11/2024, 11:09 - Jean-Marc Everard: Bonjour, le sénat Français a publié un 3ème volet dans sa série de rapport sur IA et services publiques et celui-ci est centré sur IA et Education. J'avoue que je n'ai pas encore fini de le lire (ou le faire résumer 😉) mais le voici déjà https://www.senat.fr/rap/r24-101/r24-101-syn.pdf. A la très grosse louche : constat d'appropriation très inégale dans la communauté enseignante (face à un usage assez massif chez les étudiants en revanche) et donc nécessité de cadre et d'accompagnement.

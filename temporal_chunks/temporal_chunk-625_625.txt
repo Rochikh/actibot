@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 24
+
+=== CONTENU ===
+12/06/2024, 19:36 - ‎Teodorina Tiba a demandé à rejoindre le groupe.
+12/06/2024, 20:27 - +212 644-562660: Antropic met en avant un prototype générateur de prompt, interessant comme idée https://youtu.be/OkaplCDf7Ac?si=AyJ-PR7r-q9_Za6Q
+12/06/2024, 20:29 - ‎+689 87 79 40 17 a demandé à ajouter +689 87 72 88 66.
+12/06/2024, 20:30 - zp: https://www.linkedin.com/posts/maryammiradi_possible-replacement-of-prompt-hacking-graph-based-activity-7206613132205535234-jCfw?utm_source=share&utm_medium=member_android
+12/06/2024, 20:31 - ‎+689 87 79 40 17 a ajouté +689 87 72 88 66
+12/06/2024, 20:31 - ‎Teodorina Tiba a rejoint le groupe à partir de la communauté.
+12/06/2024, 20:31 - zp: pour les experts ( dont je ne fais pas parti) elle explique que le prompting peut changer...
+12/06/2024, 20:31 - Rochane: Merci de préciser toujours de quoi il s'agit quand vous partagez un lien 🙂
+12/06/2024, 20:32 - zp: pardons,, DSPy cherche a simplifier et automatiser / optimiser l'approche Prompt Eng avec le hacking Prompt qui cherchait a avoir des inge specialisee .
+DSPy renderait l'interaction avec les LLM plus robuste disons... voire  scalable, éliminant ainsi les tâtonnementsqu'on faisait sur les prompt.
+Voilà
+12/06/2024, 21:39 - Vous avez ajouté ‎‫أسماء 📿‬‎
+12/06/2024, 21:49 - ‎+33 6 37 28 05 42 a demandé à rejoindre le groupe.
+12/06/2024, 22:00 - ‎+33 6 07 71 04 12 a demandé à rejoindre le groupe.
+12/06/2024, 22:02 - Karim BS: Bonsoir la communauté,
+L’un.e d’entre-vous aurait-il eu vent d’ un outil/modèle (enfin) capable de générer des visuels avec du texte cohérent?
+Exemple: une infographie de l’IA.
+Merci pour vos retours,
+Belle soirée à toutes et tous.
+Karim <Ce message a été modifié>
+12/06/2024, 22:05 - +33 6 71 84 16 51: Oui https://docs.ideogram.ai/using-ideogram/getting-started/generating-images
+12/06/2024, 22:06 - +351 932 291 666: Pour mas et iOS lien AppStore : https://apps.apple.com/fr/app/whisper-transcription/id1668083311?mt=12
+Whsiper for Mac
+12/06/2024, 22:07 - Rochane: Infographie, difficile avec l'IA mais image avec texte, tu as ideogram qui est le plus fidèle.

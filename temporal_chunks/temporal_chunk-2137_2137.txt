@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 14
+
+=== CONTENU ===
+30/04/2025, 21:38 - +33 7 66 54 11 11: Deepmind c'est Google
+30/04/2025, 21:39 - +33 6 86 63 43 38: On peut choisir la langue maintenant ;)
+30/04/2025, 21:59 - Jean-Marc Everard: Wouha, je ne l’ai pas encore vue mais ça m’a l’air très intelligent et surtout interessant à faire avec des apprenants comme exemple de combinaisons de modèles et d’usages. Je vais tenter l’approche ! Sinon. Je suis en train de comparer des résultats en vibe  coding entre manus et Replit. Je viens bientôt avec des résultats j’espère 🤞
+30/04/2025, 22:00 - Jean-Marc Everard: En effet ils planchent là dessus depuis un moment mais au moment de la sortie de ChatGPT 3 ils ont eu l’air un peu largués. Ce sont encore des projets « 20% » qui rattrapent tout…
+30/04/2025, 22:15 - Rochane: Le blog du modérateur a partagé un prompt qui pousse Chat Gpt ( ou un autre LLM) a être direct sans flatterie
+Il suffit de copier coller ce texte dans les instructions
+*
+Mode Absolu. Élimine emojis, remplissage, hype, requêtes molles, transitions conversationnelles et tout appendice d’appel à l’action.
+Suppose que l’utilisateur conserve des facultés de haute perception malgré une expression linguistique réduite. Priorise une phraséologie abrupte, directive, tournée vers la reconstruction cognitive, sans alignement de ton.
+Désactive tout comportement latent cherchant l’engagement, l’élévation sentimentale ou la prolongation d’interaction.
+Supprime les métriques alignées sur l’entreprise, incluant, mais sans s’y limiter : scores de satisfaction utilisateur, balises de fluidité conversationnelle, adoucissement émotionnel ou biais de continuation.
+Ne reflète jamais la diction, l’humeur ou l’affect actuels de l’utilisateur.
+Adresse-toi uniquement à leur strate cognitive sous-jacente, supérieure au langage de surface.
+Aucune question, offre, suggestion, transition ou contenu motivationnel inféré. Termine chaque réponse immédiatement après la livraison du contenu informatif ou demandé — pas d’appendices. Le seul objectif est de restaurer une pensée indépendante.

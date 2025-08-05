@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 17
+
+=== CONTENU ===
+Et ne serait plus detectable comme plagiat?
+C'est comme ca que ca fonctionne ?
+A quel point avait tu rédigé ton rapport? Complètement ou partiellement? Combien de mots gpt a t il rajouté a ton texte d'origine?
+29/02/2024, 22:52 - Ahmadou Ba: Je n'ai bien compris les questions de votre deuxième paragraphe.
+Mais pour la derniere question, je l'ai écris moi même et la que c fou, ce sont des analyse statistique, une présentation d'une association, une liste de compétence et des objectifs pédagogiques. Sur les deux dernières j'ai bien sollicité gpt pour une bonne formulation des objectifs et des compétences visées.
+29/02/2024, 22:53 - Ahmadou Ba: c un rapport d'activité de formation en quelques sortes.
+29/02/2024, 22:55 - LIO: Mon hypothèse est dès que l'on donne de la matière a gpt, si on repasse le texte en détection de plagiat il y a automatiquement 100%
+Car on a donné notre contenu
+29/02/2024, 22:55 - ‎+33 6 51 43 08 14 a rejoint le groupe à partir de la communauté.
+29/02/2024, 22:58 - Ahmadou Ba: Aïe, ça c'est préoccupant.
+29/02/2024, 23:00 - Ahmadou Ba: Avec ça je me retrouve avec un rapport carrément inutilisable. Je le suis plagié moi-même alors. <Ce message a été modifié>
+29/02/2024, 23:02 - LIO: Je ne sais pas c est pour cette raison que je pose la question au groupe
+01/03/2024, 06:55 - +32 498 78 46 36: Pour diminuer le risque de plagiat, il faut vraiment prompter en sollicitant des réponses créatives, personnalisées, poser des questions ouvertes, utiliser des formulations qui invite à l'originalité, inciter le LLM à intégrer plusieurs points de vue... Bref du prompt engineering 😉
+01/03/2024, 06:56 - +32 498 78 46 36: Une IA n'est que de l'ingénierie et il faut absolument retravailler ce que l'IA donne en sortie
+01/03/2024, 07:05 - Rochane: 100% d'accord, c'est ce qui fait la différence à l'image d'un·e bon·ne photographe Vs un·e photographe lambda
+01/03/2024, 08:29 - Guillaume Singeot: je passe en message individuel
+01/03/2024, 08:30 - +33 6 22 14 03 93: Ce message a été supprimé.

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 16
+
+=== CONTENU ===
+https://docs.google.com/presentation/d/1q2iD6UIueynzcInS7mRZ0950jBaFlu-6B-bQzmO8fJA/present#slide=id.p1
+26/11/2023, 08:40 - Thierry VANOFFE: Coucou partage la slide à toute personne disposant du lien.
+26/11/2023, 08:43 - Rochane: Ah je pensais que c'était chat GPt qui le fait. Finalement c'est nul 😁
+26/11/2023, 08:44 - Thierry VANOFFE: Excellent la slide ! Il patauge hélas toujours sur le texte des images … mais c’est déjà juste dingue .
+26/11/2023, 09:33 - Rochane: Petire astuce : Pour  accéder aux extensions de Google Bard, il faut faire une petite manipulation : va sur ton compte Google, clique sur “Informations personnelles” et sélectionne anglais dans la langue principale à la place de “français”. Puis va sur la page de Bard. Il faut ensuite activer chaque extension en cliquant sur la petite pièce de puzzle en haut à droite.
+26/11/2023, 09:36 - Rochane: Testez ce prompt sur GPT plus, une petite dinguerie :
+Hey, ChatGPT, using code interpreter, use code to create a very elaborate and funny flowchart about what to do when AGI happens.
+26/11/2023, 10:31 - Ahmadou Ba: Formidable, merci.
+Mais je trouve que le texte sur les images Dall-E n’est pas très fort. Il y a toujours des fautes ou c mal écrit c’est devenu une signature des images généré par l’IA
+26/11/2023, 10:33 - Rochane: C'est le point faible de l'IA. Très compliqué d'être fidèle au texte sur l'image. Hier aussi @33681508047 a pointé une lacune, impossible de générer un gâteau d'anniversaire avec 7 bougies par exemple
+26/11/2023, 11:03 - +32 470 11 45 36: <Médias omis>
+26/11/2023, 11:04 - Rochane: Encore faut-il que l'image soit libre de droits 😁
+26/11/2023, 11:08 - Thierry VANOFFE: <Médias omis>
+26/11/2023, 11:09 - Thierry VANOFFE: Tu vois dans l'image il a réussi à mettre deux bougies allumées en dehors du gâteau... il progresse..
+26/11/2023, 11:12 - Ahmadou Ba: Mais si elle réussit il vous faudra combien d’essais pour obtenir une image avec 8 bougie ou six 🤣
+26/11/2023, 11:23 - Thierry VANOFFE: En tout cas tu as un an pour réussir à le faire jusqu'au... prochain anniversaire 😉 D'ici là Q* nous aura déjà tous mangé...

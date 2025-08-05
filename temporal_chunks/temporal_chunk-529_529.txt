@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 16
+
+=== CONTENU ===
+*Lucie* nous montrera son ingénieux dispositif de cartes pour apprendre à prompter efficacement afin de créer des images. Une technique à découvrir absolument !
+*Fabien* fera une présentation de l'outil Poised qui permet d'améliorer sa prise de parole en public grâce à une analyse vocale poussée, un feedback instantané, des rapports détaillés et des exercices personnalisés pour gagner en confiance. Indispensable pour tous les orateurs !
+*Xavier* fera une démo bluffante de son assistant personnel développé sur Dust et greffé sur sa base de connaissances. Vous pourrez comparer en direct les réponses de son assistant à celles de GPT4, Claude Opus, Mistral et Gemini Pro. Fascinant !
+*François* abordera les enjeux cruciaux du RGPD et de l'IA dans le domaine de l'éducation. Un sujet brûlant à ne pas manquer pour tous les acteurs du monde éducatif.
+Enfin, *Céline* nous expliquera comment créer des évaluations pertinentes avec l'IA, en générant des QCM, des questions calculées et des questions cloze. Elle comparera les bonnes pratiques et les résultats obtenus avec Wooflash, ChatGPT 3.5, ChatGPT 4 et Perplexity. Très utile pour optimiser vos évaluations !
+Notez bien ce rendez-vous dans vos agendas, ce live promet d'être riche en découvertes et en échanges. N'hésitez pas à partager l'information autour de vous, c'est ouvert à toutes et à tous !
+À très vite pour ce live
+Votre dévoué technopédagogue fan d'IA 😊 <Ce message a été modifié>
+17/05/2024, 18:15 - Fabien IA: Trop bien, merci @33649535198
+Hâte de vous y retrouver.
+17/05/2024, 18:16 - ‎+33 6 49 39 74 11 est parti·e
+17/05/2024, 18:38 - +33 6 19 29 82 01: Génial ! Est-ce que la visio sera enregistrée ? Je risque d'être à la maternité pour la naissance de ma petite 3eme.
+17/05/2024, 18:39 - Rochane: Oui 🙂
+17/05/2024, 19:08 - Jean-Marc Everard: Ça promet d’être hyper intéressant en effet ! Hâte
+17/05/2024, 20:40 - +33 6 19 29 82 01: Et est-ce que l'on peut retrouver quelque part les anciennes visios ?
+17/05/2024, 20:42 - Guillaume Singeot: Je regarde ça ce weekend.

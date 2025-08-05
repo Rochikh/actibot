@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 16
+
+=== CONTENU ===
+23/12/2024, 12:49 - ‎+216 22 610 392 a rejoint le groupe à partir de la communauté.
+23/12/2024, 12:50 - ‎+216 23 149 077 a rejoint le groupe à partir de la communauté.
+23/12/2024, 12:50 - ‎+216 92 339 856 a rejoint le groupe à partir de la communauté.
+23/12/2024, 13:12 - estelle Duterage Drion IA: Merci Pierrick pour ces conseils je suis en lien avec la fondation orange qui y voit un intérêt
+Et un incubateur pour tout cela car comme tu me le fais sentir avoir des idées, ça ne suffit pas derrière, il y a évidemment tout le champ technologique et le champ financier à prendre en compte donc il faut savoir s’entourer. Je vais étudier ce que tu m’as dit durant ces vacances et je te remercie beaucoup.
+On peut échanger en privé sur Apolearn.
+23/12/2024, 13:13 - estelle Duterage Drion IA: Merci j’y regarde 🤩
+23/12/2024, 13:14 - estelle Duterage Drion IA: Oui Hélène je vous recontacte
+23/12/2024, 13:33 - +33 6 77 78 84 93: Bonjour la team! Qui peut me dire qui a créé l’application Mizou (chatbot éducatif) et surtout avec quel corpus / quelles données ça fonctionne ?
+23/12/2024, 13:34 - +32 483 60 53 96: Hello en tant que conseiller pédagogique à l’uclouvain:
+Je cherche des témoignages et/processus d’intégration d’outils IA pour la création de chatbot (et autres usages), pour les enseignements, au niveau universitaire.
+Beaucoup de choses sont faites chez nous en formation et dans les équipes, et je souhaiterais rassembler un maximum de témoignages de pratiques à partager et à valoriser en ressources ouvertes 😊
+Q- Quel outil institutionnel avez-vous mis en place chez vous et comment l’avez-vous justifié ? Performance, sécurité, type de modèle LLM ? L’avez-vous développé en interne, si oui pourquoi ?
+23/12/2024, 13:36 - +32 483 60 53 96: Si vous contactez hamza@mizou.ai, je pense que vous aurez toutes vos réponses
+23/12/2024, 13:49 - +33 6 77 78 84 93: Merci Robin
+23/12/2024, 13:51 - +33 7 67 14 12 50: Bonjour, Je suis nouvelle et j'aimerais créer un bot pour mes étudiants. J'ai les idées mais est ce possible d'en créer un totalement gratuitement  svp ?

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 16
+
+=== CONTENU ===
+15/05/2025, 08:19 - +33 7 86 18 83 63: Merci. La transformation est vraiment bien
+15/05/2025, 08:40 - Votre code de sécurité avec +33 6 58 37 51 82 a changé. Appuyez pour en savoir plus.
+15/05/2025, 09:30 - +237 54717211: Bonjour . Qui a expérimenté un outil IA de conversion docx vers latex?
+15/05/2025, 11:11 - Rochane: Pour les habitué·e·s à la plateforme Google Ai studio, j'ai l'impression que ça a changé dans le sens où je ne retrouve plus les modèles de génération d'images 🤔
+15/05/2025, 13:11 - +41 79 326 51 40: Ça m'intéresse également.
+Pour l'instant j'ai fait du pdf à latex avec Claude ou chatGPT... mais on n'est pas à l'abri des erreurs... et des soucis avec les packages non importés... Si c'est un petit document, ça peut le faire, mais pour un polycopié plus conséquent, ça devient probablement une épopée...
+15/05/2025, 13:16 - +237 54717211: On peut donc découper  le document en plusieurs pdf
+15/05/2025, 13:57 - Céline Averseng: Je n'ai pas compris à quoi sert la roue 😅...
+15/05/2025, 13:59 - Céline Averseng: Est-ce que quelqu'un a des informations concernant la sortie de Superwhisper pour Windows ?
+15/05/2025, 14:04 - Rochane: Tu les mets en groupe, ils lancent la roue et essayent de trouver la définition du mot sachant que les définitions travaillées sont dans la page suivante
+Tout tourne autour de l'hybridation <Ce message a été modifié>
+15/05/2025, 14:08 - Rochane: https://www.presse-citron.net/la-professeur-na-meme-pas-lu-ce-que-jai-ecrit-des-etudiants-se-plaignent-des-profs-qui-utilisent-chatgpt/
+Il fallait s'y attendre et c'est vrai que l'on parle des étudiant·e·s et rarement les enseignant·e·s
+15/05/2025, 16:58 - +32 498 78 46 36: Connaîtriez-vous des personnes qui s'y connaissent en JEPA (Joint Embedding Predictive Architecture) et qui seraient capables de vulgariser cela ?
+15/05/2025, 18:36 - +41 79 326 51 40: Oui. Le soucis c'est de garantir une conversion dans erreur
+15/05/2025, 19:15 - +33 7 86 18 83 63: https://www.linkedin.com/posts/ounice-anache-ia-consulting-formation-productivite_bref-il-a-choisi-lia-au-lieu-de-moi-alors-activity-7328759645546659840-LZ7s

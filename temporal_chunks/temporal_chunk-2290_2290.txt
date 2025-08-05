@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 16
+
+=== CONTENU ===
+29/06/2025, 23:19 - +32 496 83 53 39: null
+30/06/2025, 06:17 - Rochane: Ah bien vu, je vais explorer. C'est bizarre car l'info, je l'ai eue sur le blog du modérateur qui est plutôt reconnu..
+https://www.blogdumoderateur.com/comment-utiliser-perplexity-whatsapp/ <Ce message a été modifié>
+30/06/2025, 06:38 - Rochane: Finalement, le deep research a montré que ce n'est pas un fake 🙂
+Sources : Le Blog du Modérateur détaille l’arrivée de Perplexity sur WhatsApp et ses fonctionnalités. De plus, le propre site de Perplexity confirme l’usage du domaine perplexity.com pour accéder à ses services. Enfin, un article de VICE souligne que WhatsApp a intégré Perplexity AI comme outil de fact-checking, prouvant qu’il s’agit d’un partenariat officiel et non d’un bot tiers inconnu.
+30/06/2025, 07:15 - +33 7 75 95 30 12: OK👍 Merci pour le "deep searching"🙂 <Ce message a été modifié>
+30/06/2025, 11:29 - Votre code de sécurité avec +33 7 86 71 98 79 a changé. Appuyez pour en savoir plus.
+30/06/2025, 13:53 - Jean-Marc Everard: Euh je ne la vois pas… mais je suis p-e amorti ?
+30/06/2025, 14:02 - +32 497 86 25 01: Je ne la retrouve plus non plus mais dans mes souvenirs c’était : Passer par un VPN US pour s’inscrire et avoir x mois gratuit si je ne me trompe pas
+30/06/2025, 14:24 - Jean-Marc Everard: Ok, merci Nicolas 🙏
+30/06/2025, 17:03 - Rochane: Cours complet ( en anglais) de 5 h , comment créer des agents IA avec n8n
+Le plus complet du marché et gratuit à mon avis
+https://youtu.be/geR9PeCuHK4?feature=shared
+30/06/2025, 17:04 - Gregoire IA: Je bugue sur ce sujet, si on pouvait organiser un atelier ce serait génial
+30/06/2025, 17:05 - Gregoire IA: Pas de pb pour développer des assistants mais les agents c'est autre chose et je n'arrive jamais à faire 😅
+30/06/2025, 17:11 - +32 498 78 46 36: J'ai créé un test de 7 questions afin d'obtenir son profil de maturité à l'IA, des points d'attention, et des pistes d'amélioration. Il est disponible sur mon Github en licence CC-BY-2.0, n'hésitez pas à le copier, l'améliorer etc ;)

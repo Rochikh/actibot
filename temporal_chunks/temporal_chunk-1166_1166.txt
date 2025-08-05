@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 6
+
+=== CONTENU ===
+02/11/2024, 17:25 - Francois Bocquet: Attention de bien faire la différence entre logiciel et traitement. Aucun logiciel n’est conforme au RGPD. C’est le traitement de DCP qu’il faut analyser. Quand le traitement (hébergement et administration du logiciel)est assuré par un prestataire externe, celui ci doit être sous traitant et suivre les obligations de l’article 28. Quand le service est assuré par le responsable de traitement lui même celui ci doit mettre en œuvre des démarches préalables pour que le RGPD soit respecté. Un enseignant ne peut être responsable de traitement. Attention donc avant de diffuser des allégations de conformité. La mise en œuvre d’un même logiciel peut être conforme dans l’établissement A et complément illégal dans l’établissement B !
+02/11/2024, 17:32 - +689 87 78 58 86: Tout à fait, merci pour ces précisions @33662364404 . Je me souviens de vos premières discussions avec Christian concernant son projet. Je me demandais juste si vous aviez eu l'occasion d'en rediscuter et peut-être d'élaborer un "protocole" à suivre pour un enseignant qui voudrait déployer sa solution en établissement tout en respectant le cadre du RGPD.
+02/11/2024, 17:37 - +33 6 66 98 84 23: Sur l'académie de Toulouse on nous propose de travailler avec DuckDuckgo AI Chat ou Vittascience qui seraint plus conforme...
+02/11/2024, 17:40 - Francois Bocquet: Non pas vraiment. Quoi qu’il en soit un enseignant seul ne peut décider de mettre en œuvre un traitement. Seuls le chef d’établissement ou le recteur ou le Ministre peuvent assumer cette responsabilité (en France).  Le responsable de traitement doit donc procéder à l’analyse d’impact sur la protection des données, inscrire le traitement aux registres obligatoires et diffuser l’information exigée aux personnes concernées. A ce moment seulement il est possible d’affirmer que le traitement est conforme.
+02/11/2024, 17:40 - Rochane: https://x.com/OpenAI/status/1851340615344406781?t=i6tNho1p7wRAXNpOTdPaxA&s=08
+Très bonne nouvelle, on va pouvoir retrouver facilement nos discussions sur Chat Gpt 👌

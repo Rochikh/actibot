@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 8
+
+=== CONTENU ===
+01/03/2024, 08:30 - +33 6 22 14 03 93: Ce message a été supprimé.
+01/03/2024, 08:32 - Agathe: J'ai juste décrit en une ligne le sujet du cours et à qui il s'adresse. Le résultat est très complet (même s'il y a des redondances) et graphiquement très agréable.
+Le plus c'est qu'ensuite on peut vraiment intervenir sur le fond comme sur la forme et ajouter ou modifier les éléments qu'on aurait voulu y voir :)
+01/03/2024, 09:21 - Ahmadou Ba: Oui mais quand tu produit ton propre texte et qu'il retouche ton texte et que ton texte devient du plagiat c inqietant, ou bien ce sont les logiciels anti-plagiat qui ne sont plus fiable a 100℅. Bon moi je suis entrain de travailler sur un rapport de stage a soutenir en fin d'année mais carrément j'hésite a le solliciter. Ensuite quand tu passe le texte a un détecteur de gpt comme zéro GPT tu t trouve avec 100℅ de ton texte surligné. Alors que bcp utilisés chztgpt pour des travaux académique équivaut à de la triche.
+Le problème avec les IA GEN c'est leur entraînement avec des données existantes alors lui il fait que mixer c qui déjà la. J'ai peur qu'il ne soit pas capable d'être vraiment original et créatif. Il lui arrivera toujours de vous pondre une idée ou une phrase existant déjà quelque part. C comme nous, nous plagions tout le temps les uns des autres à la différence que nous pouvons citer nos sources chatGPT ne cite pas c source dans c réponse.
+01/03/2024, 09:23 - Cyril Divoul: Perplexity cite les sources...
+01/03/2024, 09:26 - Ahmadou Ba: je l'ai testé hier mais je lui ai juste filé un de mes cours en lui demandant de ne pas le modifié, j'ai trouvé le travail très intéressant et il me propose même des quiz. Par contre l'intégration des image n'est pas top, elles ne sont pas bien contextualisé. C un concurrent sérieux de gamma surtout ils propose le déploiement sur un lms
+01/03/2024, 09:31 - Ahmadou Ba: Perplexity et copilot oui mais lui il ne génère pas il puise directement sur le web. Moi c outils je l'ai considère comme des outils de recherche. Si tu prends une réponse de perplexity que tu colle dans google il t sort directement la source Où la citation est extraite de même que quand on clique sur le lien. C'est pourquoi ChatGPT les dépasse de loin.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 15
+
+=== CONTENU ===
+- Ces travailleurs, souvent recrutés dans des pays comme les Philippines, Madagascar, le Kenya, le Venezuela ou le Pakistan, effectuent des tâches d'annotation pour des rémunérations très faibles, parfois seulement quelques centimes de dollar par tâche [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).
+- Malgré les conditions précaires, ce travail représente souvent un filet de sécurité précieux pour ces travailleurs dans des contextes économiques difficiles [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).
+---
+Learn more:
+1. ["Ils profitent de notre pauvreté" : derrière le boom des intelligences artificielles génératives, le travail caché des petites mains de l'IA](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html)
+2. [AI boom - Wikipedia](https://en.wikipedia.org/wiki/AI_boom)
+3. [Le boom des IA génératives](https://www.en-janvier.com/le-boom-des-ia-generatives/)
+09/04/2024, 09:05 - +33 6 49 84 08 41: C'était à prévoir
+09/04/2024, 10:10 - ‎+57 321 6037977 a rejoint le groupe à partir de la communauté.
+09/04/2024, 10:10 - +57 321 6037977: null
+09/04/2024, 10:25 - ‎+32 474 22 36 52 a rejoint ce groupe grâce à son lien d’invitation
+09/04/2024, 15:44 - ‎+32 474 71 74 96 a rejoint le groupe à partir de la communauté.
+09/04/2024, 17:23 - +33 6 49 84 08 41: Hello, je ne trouve plus le nom d'un service de chatbot dont il a été question dans certains webinaires, je crois qu'il commençait par *Open*... Une idée ?
+09/04/2024, 17:25 - Rochane: Moi je connais chatbase.co
+09/04/2024, 17:56 - ‎+33 6 46 89 36 24 a rejoint le groupe à partir de la communauté.

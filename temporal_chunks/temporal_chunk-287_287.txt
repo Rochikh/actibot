@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 564
+Messages: 17
+
+=== CONTENU ===
+10/03/2024, 20:56 - +33 6 70 46 13 52: Ne pas hésiter en cas de soucis à basculer sur "le chat" de mistral AI. Perso je le préfère à GPT 3.5. (J'ai une version gratuite)
+10/03/2024, 20:57 - Thierry VANOFFE: même soucis j'ai vidé le cache, les cookies et c'est reparti, et aussi j'ai désactivé les autres extensions chrome. Clique sur l'icone devant l'url pour supp les cookies, ça devrait aider.
+10/03/2024, 21:01 - Ahmadou Ba: C vrai qu'il est capricieux c temps ci. Pour les uns il marche avec edge, pour d'autres avec chrome. Moi il m'a lâché avec edge et fonctionne avec chrome.
+J'ai GPT 4 j'ai failli me désabonner mais quand il s'agit de rédaction, il les dépasse tous. Gemini, claude ils font tous des trucs merveilleuses mais GPT est au dessus je crois. J'ai pas encore tester mistral avez vous un lien pour mistral.
+10/03/2024, 21:05 - Thierry VANOFFE: Tout dépend du prompt et de la thématique, on ne peut pas dire que chat GPT surpasse ses rivaux tout le temps 😉
+10/03/2024, 21:06 - Ahmadou Ba: Ça c vrai. Vous avez raison.
+10/03/2024, 21:13 - +33 6 70 46 13 52: https://auth.mistral.ai/ui/login?flow=f9743fd6-b35a-41d8-a6b7-410e9e4c4e57
+10/03/2024, 21:13 - +33 6 70 46 13 52: Le lien pour mistral
+10/03/2024, 21:18 - Rochane: Ou ça avec Mistral large https://chat.mistral.ai/chat
+10/03/2024, 22:22 - Ahmadou Ba: Je viens de lui demander un plan de cours mais il est carrément bluffant. Il donne même les ressources bibliographiques
+10/03/2024, 22:36 - ‎+33 6 60 44 14 13 est parti·e
+11/03/2024, 02:06 - ‎+41 78 927 90 96 a rejoint le groupe à partir de la communauté.
+11/03/2024, 08:22 - Rochane: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 12 mars de 20h à 21h
+https://us06web.zoom.us/j/84168913250?pwd=KoCHaWXbSCxHbE7A7Fi0Cx0v6djxob.1
+ID de réunion: 841 6891 3250
+Code secret: 792017
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.

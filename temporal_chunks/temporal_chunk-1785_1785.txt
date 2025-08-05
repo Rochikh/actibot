@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 13
+
+=== CONTENU ===
+Mais j’avoue ne pas trop savoir comment aborder l’axe IA de manière synthétique et explicite en même temps. Avez-vous des exemples de chartes ou de documents semblables ? On parle ici de formation pour des professionnels
+15/02/2025, 14:36 - +33 6 22 65 42 40: Bonjour, si vous voulez de l'inspiration, je vous invite à aller voir sur le site de l'OCDE :
+https://oecd.ai/en/catalogue/overview
+15/02/2025, 14:37 - +33 6 22 65 42 40: Par ailleurs, j'ai fait un post LinkedIn à ce sujet : https://www.linkedin.com/posts/jeremie-kalonji_ia-responsable-activity-7296117246446227457-J-zW?utm_source=share&utm_medium=member_android&rcm=ACoAABNRzqcBtEao5qQ3NeSXUiSfOjmRqBDKjU8
+15/02/2025, 14:42 - Francois Bocquet: Interessé de savoir comment le cadre juridique d’usage des services d’IA est abordé avec les cadres de l’éducation. Je veux bien lire la documentation ou les supports de formation et en discuter si c’est utile. Le DPD académique est il associé à la démarche ? Merci d’avance
+15/02/2025, 14:50 - Luis Galindo: Ce message a été supprimé.
+15/02/2025, 14:55 - +44 7776 747507: Bonjour Christine,
+Je pense que tu peux également te référer aux travaux de l'UNESCO, et de l'UE, souvent omis mais qui insistent, notamment sur une IA éthique (j'ai relis un justement, mais pas directement e-learning). Si besoin, je peux également faire de la relecture.
+15/02/2025, 17:50 - Adrien Bock IA: Je suis en train de finaliser un comparatif de chaque LLM. Pour celui derrière NotebookLM, est-ce que vous savez précisément lequel c’est et quelle fenêtre de contexte ?
+j’ai creusé dans les ressources documentaires de Google mais sans succès actuellement
+15/02/2025, 18:21 - +33 6 71 11 12 91: https://huggingface.co/spaces/galileo-ai/agent-leaderboard
+15/02/2025, 18:26 - Adrien Bock IA: Merci. Et le modèle derrière NotebookLM, quel est-il ? ça me permet de mieux expliquer l’importance de la token window
+15/02/2025, 18:29 - +33 6 71 11 12 91: Dans le tableau, gpt-4o-2024-11-20 mais je n'ai pas fait de comparaison.

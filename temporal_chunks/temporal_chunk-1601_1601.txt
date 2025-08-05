@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 16
+
+=== CONTENU ===
+19/01/2025, 23:31 - +33 6 42 26 64 70: o3 donc ;-)
+19/01/2025, 23:33 - +33 6 42 26 64 70: Le petit nom de cette IA OpenAI à plus de 80% d’un cerveau 🧠 (o1 plafonnant à une 20 aine)…on aurait pu penser o2 mais, le nom est déjà pris !
+19/01/2025, 23:40 - +33 6 46 86 16 67: Ce message a été supprimé.
+19/01/2025, 23:49 - ‎+33 6 24 76 79 09 est parti·e
+19/01/2025, 23:48 - +41 76 372 28 94: Ça ne sera pas très utile pour moi. Un contexte infini comme Titan me serait beaucoup plus utile. Mais non @33642266470, je pensais pas O3 Pro, ni à ChatGpt 5, mais une IA de niveau 5.
+20/01/2025, 05:51 - Votre code de sécurité avec ~ M.Grill a changé. Appuyez pour en savoir plus.
+20/01/2025, 09:30 - +32 498 78 46 36: Est-ce que vous savez s'il y a un nombre limite d'interractions avec le stream realtime sur AI studio ?
+20/01/2025, 09:38 - Rochane: A priori, rien de mentionné en cherchant sur le forum mais beaucoup se plaignent des erreurs du style "Something went wrong, please restart the chat"
+20/01/2025, 10:19 - +33 6 42 26 64 70: Tant qu’il te reste des tokens…
+20/01/2025, 11:39 - +32 498 78 46 36: Pour AI Studio et le real streaming, je viens de faire quelques tests en anglais (je continuerai plus tard en français) pour qu'il me guide dans des fichiers Excel, dans des corrections de productions anglaises, ... c'est vraiment une vraie avancée ! Merci Rochane et les autres pour cette découverte !
+20/01/2025, 11:47 - +33 6 02 20 69 43: Pour ma démo, j’ai réalisé un questionnaire de licence de psycho.. j’ai eu 100% de bonnes réponses sans rien comprendre!
+Les prefs vont devoir se réinventer :) <Ce message a été modifié>
+20/01/2025, 12:25 - Votre code de sécurité avec +33 7 67 58 67 55 a changé. Appuyez pour en savoir plus.
+20/01/2025, 12:30 - +44 7776 747507: Bonjour, j'ai besoin d'aide concernant ChatGPT plus: peut-on rajouter un 'custom GPTs' à 'Projects'?
+20/01/2025, 13:02 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+20/01/2025, 14:26 - Rochane: Non, les deux fonctionnalités ne sont pas liées

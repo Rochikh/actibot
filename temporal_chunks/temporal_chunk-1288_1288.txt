@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 553
+Messages: 11
+
+=== CONTENU ===
+Je l'utilise maintenant tout le temps et c'est vraiment incroyable la qualité de ce qui en sort. Je vous conseille de tester
+À titre d'exemple, le message ci-dessus a été enregistré avec Wispr en à peu près 20 secondes. Il a retranscrit tout ça en à peu près deux secondes et il a même fait le formatage : aller à la ligne, mettre les points, etc. J’ai absolument rien corrigé ici
+https://www.flowvoice.ai/
+21/11/2024, 08:57 - +33 7 84 33 02 62: 270 ? Vertigineux !
+21/11/2024, 09:01 - Clément Cahagne: Je vois pas trop l’intérêt ici de lui dire « ne va pas sur le web » pour qu’il aille dans ses textes  de « mémoires d’entraînement » qui sont précisément… l’ensemble du web 🤣
+21/11/2024, 09:01 - +33 7 84 33 02 62: Bonjour Vous pouvez partager votre utilisation pour de la correction svp ? Très intéressée par votre expérimentation
+21/11/2024, 09:02 - Clément Cahagne: Oui, bien sûr. J'ai souvent à corriger des exercices faits par mes apprenants qui doivent faire des promptes, par exemple, sur ChatGPT. Je leur propose des modèles ou des méthodes, et moi, je corrige ensuite chaque exercice individuellement. Ça prend pas mal de temps, parce qu'il faut que j'analyse finalement l'ensemble de la discussion entre ChatGPT et l'apprenant. En général, ce que je faisais, c'est que je regardais la discussion, et une fois que j'avais regardé la discussion, je revenais sur ma plateforme de formation pour faire un commentaire. Je faisais pas mal d’allers-retours.
+Là, avec Wispr, j’ouvre un document à côté et je parle en fait directement à mon document en commentant les échanges entre l'apprenant et ChatGPT à l’oral. Donc, ça me permet de corriger ultra vite
+21/11/2024, 09:03 - Rochane: @33675775911 , tu pourrais en faire une petite démo lors de notre prochain live , probablement le 12 décembre ?
+21/11/2024, 09:04 - Clément Cahagne: Pas sûr d’être dispo ce jour là, y’a Apéro Pédago sur Paris 😉 Dès que j’en sais plus sur ma potentielle présence je te dis
+21/11/2024, 09:06 - Vincent DROUOT: La base d’entraînement des LLM sont principalement basés sur deux grosses bases de données de livres, appelées Book 1 et Book 2, c’est ce qui en fait l’intérêt. Les contenus internet ont été plus sélectifs. 🙂

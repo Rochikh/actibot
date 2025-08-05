@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 14
+
+=== CONTENU ===
+08/01/2025, 19:28 - +44 7776 747507: Il me semble avoir entendu une personne de OpenAI recommander des formules de politesses lors desbinteractions avec ChatGPT. Mais peut être que cela diffère d'un modèle à l'autre ?!
+08/01/2025, 19:29 - Gregoire IA: je te répondrais juste avec ce lien 😉
+https://youtu.be/_sVeOvllmTg?si=YHBbdFxDE2JlGEze
+08/01/2025, 19:30 - Gregoire IA: OpenAI cherche à créer une dépendance affective
+08/01/2025, 19:42 - +33 7 63 58 01 55: J'ai entendu ça, effectivement. Et je crois que des études vont aussi dans ce sens 🤔
+08/01/2025, 19:43 - Gregoire IA: on en rediscute, les études font reference au ton
+08/01/2025, 19:51 - StéphaneIA: J'irai dans le sens de Grégoire un LLM est un outil et dans son fonctionnement on lui donne des instructions et même si le chat fait penser à une conversation son job est de générer des tokens en fonction des instructions. Faire de longues phrases et utiliser les formules de politesse aura plutôt tendance à le faire détailler ses réponses ce qui est intéressant par rapport à son besoin mais ne le rend pas meilleur.
+08/01/2025, 20:24 - +33 6 49 84 08 41: https://youtu.be/ZP7T6WAK3Ow?si=TU9TqGua7hidc-qb
+Dans le même genre... j'avais ouvert cette vidéo dans un onglet à la suite de je ne sais plus quelle lecture, et je suis retombé dessus ce soir.
+Franchement, ça vaut le coup.
+08/01/2025, 20:26 - +33 6 49 84 08 41: ben justement... dans la vidéo ci-dessus, il explique qu'être poli avec une IA serait utile puisque cela l'orienterait vers des sources où les convenances est de mise plutôt que vers d'autres sources plus sulfureuses, type Twitter
+08/01/2025, 20:41 - +33 7 63 58 01 55: Parfois je parle à mon ordi avec autorité et il marche bcp mieux après ! 😝
+(que celui ou celle qui n'a jamais fait ça me jette la première pierre...)
+08/01/2025, 20:41 - +33 7 63 58 01 55: Plus sérieusement, je suis tout à fait d'accord, mais je pense à des mots comme "merci", "stp" et peut-être "bonjour" plutôt que des formules de politesse à rallonge comme à la fin de courriers formels ou des formulations ampoulées, qui effectivement alourdissent sans doute inutilement les prompts. D'ailleurs, d'un point de vue syntaxique, la rédaction de prompts est intéressante. <Ce message a été modifié>

@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 22
+
+=== CONTENU ===
+09/04/2024, 10:25 - ‎+32 474 22 36 52 a rejoint ce groupe grâce à son lien d’invitation
+09/04/2024, 15:44 - ‎+32 474 71 74 96 a rejoint le groupe à partir de la communauté.
+09/04/2024, 17:23 - +33 6 49 84 08 41: Hello, je ne trouve plus le nom d'un service de chatbot dont il a été question dans certains webinaires, je crois qu'il commençait par *Open*... Une idée ?
+09/04/2024, 17:25 - Rochane: Moi je connais chatbase.co
+09/04/2024, 17:56 - ‎+33 6 46 89 36 24 a rejoint le groupe à partir de la communauté.
+09/04/2024, 18:11 - ‎+33 7 80 84 58 72 a rejoint le groupe à partir de la communauté.
+09/04/2024, 18:19 - ‎+33 6 17 70 40 43 a rejoint le groupe à partir de la communauté.
+09/04/2024, 20:53 - Yvelines: Moi Droxy.ai et HuggingFace...
+09/04/2024, 20:54 - Yvelines: https://www.facebook.com/share/p/HjKYfoxbaW3EmBBi/
+10/04/2024, 07:34 - Rochane: <Médias omis>
+10/04/2024, 07:35 - +237 6 56 90 71 30: https://unesdoc.unesco.org/ark:/48223/pf0000386693
+10/04/2024, 07:36 - Rochane: Merci de préciser à quoi correspond l'URL que vous postez 🙂
+10/04/2024, 07:36 - +237 6 56 90 71 30: Bonjour à tous. Je partage ce lien vers le guide de l'UNESCO pour l'utilisation de l'IA générative en éducation.
+Le Guide est en anglais.
+La version française n'est pas encore disponible.
+10/04/2024, 07:42 - +33 6 35 32 61 27: OpenGPT peut être ? (C’est un chatbot sur mesure à créer. Il faut le télécharger sur GitHub et le paramétrer) <Ce message a été modifié>
+10/04/2024, 07:56 - +33 6 49 84 08 41: C'est ça merci !!
+10/04/2024, 07:56 - +33 6 35 32 61 27: Mais de rien ! ☺️
+10/04/2024, 08:57 - Vous avez remplacé le nom du groupe "Dialogue IA & Pédagogie" par "Ai-Dialogue Actif"
+10/04/2024, 09:33 - ‎+33 6 32 76 93 25 a rejoint le groupe à partir de la communauté.
+10/04/2024, 10:15 - ‎+32 470 13 24 51 a rejoint ce groupe grâce à son lien d’invitation
+10/04/2024, 11:32 - +33 6 13 43 54 52: Comment vous obtenez la version pro 1.5 ? Avec vpn gratuitement ? Avec abonnement payant ? Merci pour vos retours.

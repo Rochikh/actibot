@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 21
+
+=== CONTENU ===
+29/08/2024, 10:00 - Son: Pour les Belges, il y a ceci. C'est en français et gratuit. https://technofuturtic.be/formations?families=%5B%2229%22%5D&tags=%5B%2217fd7acd-786e-4f2e-9655-87a895cf2b4c%22%5D
+29/08/2024, 10:14 - +33 6 72 75 43 48: Merci mais je regrette d’être française et formatrice 😂
+29/08/2024, 10:56 - Votre code de sécurité avec +33 6 51 43 08 14 a changé. Appuyez pour en savoir plus.
+29/08/2024, 10:59 - ‎+33 7 48 15 44 43 est parti·e
+29/08/2024, 15:10 - +33 6 40 65 69 66: Bonjour à tous, Je partage avec vous l’interview de mon ancienne collègue, Prof. Matete Madiba, page 8, toujours prête à réaliser des innovations pédagogiques utile aux étudiants. Cette expérience africaine pourrait être très utile en Europe également où nos problèmes sont entiers.
+https://issuu.com/wysa-ai/docs/wise_up_issue_one_-_final_-3
+29/08/2024, 15:14 - +32 479 58 54 12: Uniquement pour les enseignants du reseau officiel
+29/08/2024, 15:15 - +216 25 000 725: Oui
+29/08/2024, 15:22 - +33 6 30 73 41 57: Bonjour,
+Y a-t-il une solution pour imprimer correctement une discussion avec des formules mathématiques.
+La copie dans chatgpt ne fonctionne pas pour ces formules.  MERCI
+29/08/2024, 15:22 - ‎+33 7 50 51 92 05 est parti·e
+29/08/2024, 15:31 - Jacques BARATTI: Demander à chatgpt de convertir le doc en LaTex
+Copier et transférer dans le site en ligne "Overleaf" (il faut créer un compte) et compiler. Vous obtenez un pdf téléchargeable avec les formules ok...
+29/08/2024, 15:34 - +33 6 30 73 41 57: Merciii
+29/08/2024, 17:26 - ‎+216 23 869 166 est parti·e
+29/08/2024, 18:44 - Pierrick BRIAND: Bravo Rochane, sacré travail dit donc !
+29/08/2024, 18:53 - Pierrick BRIAND: Encore une bonne nouvelle
+OpenAI vient de dévoiler "SearchGPT", son propre moteur de recherche expérimental.
+L’outil est capable de non seulement trouver des informations sur internet, mais aussi de les résumer de manière claire et concise, et même de répondre à vos questions supplémentaires sur le sujet !
+Bien sûr, il ne s'agit encore que d'un prototype, mais cela montre l'évolution rapide de ces technologies !

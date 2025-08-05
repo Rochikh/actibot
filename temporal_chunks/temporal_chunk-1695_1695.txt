@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 17
+
+=== CONTENU ===
+01/02/2025, 15:53 - Gregoire IA: <Médias omis>
+01/02/2025, 16:10 - Ahmadou Ba: OpenAi, ils sont forts.
+Même ce qwen dont on vante ses mérites est à un cran dessous. Il est impossible de les surpasser et je pense qu'ils vont continuer à imposer le rythme, leurs avancées technologiques est très confortable.
+01/02/2025, 17:57 - Rochane: Oui sauf qu'eux sont payants et ce n'est pas le cas de ces concurrents chinois
+01/02/2025, 17:57 - ‎+216 96 849 598 a rejoint le groupe à partir de la communauté.
+01/02/2025, 17:57 - ‎~ Mohamed Dhouibi est parti·e
+01/02/2025, 17:57 - ‎+33 7 70 01 82 33 a rejoint le groupe à partir de la communauté.
+01/02/2025, 18:00 - ‎+213 557 02 11 46 est parti·e
+01/02/2025, 18:25 - StéphaneIA: Je crois que l'adage quand c'est gratuit c'est vous le produit est encore plus vrai avec les LLM. Et deepseek je ne connais pas une seule entreprise qui fera passer ses données sur ce modèle et comme on ne sera jamais ce qui a été occulté niveau données durant l'entraînement la part d' hallucination que des sujets restera toujours trop important à mon avis.
+01/02/2025, 18:26 - ‎+961 76 795 638 a demandé à rejoindre le groupe.
+01/02/2025, 18:26 - StéphaneIA: Je vois beaucoup de questions sur la rgpd ici mais aucun souci pour aller sur deepseek 🙃
+01/02/2025, 18:26 - ‎~ Mohamed Dhouibi a été ajouté·e
+01/02/2025, 18:42 - ‎+961 76 795 638 a rejoint le groupe à partir de la communauté.
+01/02/2025, 18:42 - +32 483 60 53 96: + Openai?
+Quelqun a une enquete approfondie sur les usages des donnees et lentrainement des modeles de Open AI? Genre un bon centre de confiance documenté ?
+Pendant ce temps est ce quon devrait pas tous passer sur les API de Mistral ? (Meme en passant par Microsoft Azure et/ou en creant nos propres interfacages entreprises) a t on vraiment besoin des meilleurs modeles ? Regardez les usages sur les systemes RAG, pas besoin de modeles ultra avancés pour faire de chouettes resultats.
+01/02/2025, 18:45 - +32 483 60 53 96: Opinion: Je pense qu'au sein de nos institutions et entreprises, on doit arreter de faire la course instrumentaliste. Mais vraiment poser un cadre minimum adaptable et communiquer/former à des pratiques transparentes et responsables. Soyons un peu idealistes et creatifs non?

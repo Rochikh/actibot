@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 11
+
+=== CONTENU ===
+12/04/2024, 11:43 - +33 6 51 43 08 14: S'ils se basent uniquement sur la génération je peux aisément le croire mais je ne sais pas s'ils prennent en compte le coût enviromental lié aux machines qui servent à étiquetter les données et l'entraînement des IA qui a mon avis est colossal.
+12/04/2024, 11:43 - Francois Bocquet: C’est pas faux !
+12/04/2024, 11:49 - Ahmadou Ba: J'avais un article sur les references fournies par les IA mais apparemment il y a un taux de fictivité extremment elevé surtout si les références fournies sont en français. La plus part des liens fournies par Gemini ne sont valides par contre copilot qui puise directement sur les articles en ligne donne souvent de bons resultats. Donc les sources sont souvent à verifier
+12/04/2024, 11:59 - ‎+33 6 76 46 38 05 est parti·e
+12/04/2024, 12:09 - Clément Cahagne: Ils ne se basent pas que sur la requête unique, mais sur l’entrainement du modèle également : voir la partie RESULTATS / AI WRITING
+12/04/2024, 12:34 - Yvelines: https://hf.co/chat/assistant/65f1b6d50ddf9442138ab9a5
+Pour ceux que ça peut intéresser, j'ai créé ce GPT dédié à aider les enseignants à concevoir leurs évaluations,  notamment en suggérant des critères et indicateurs en fonction de la situation d'évaluation décrite. N'hésitez pas à me donner votre feedback si vous le testez
+12/04/2024, 12:36 - Yvelines: https://hf.co/chat/assistant/660c631d49f4913e777e55eb
+Un second GPT créé pour aider les enseignants à intégrer l'utilisation des IA dans leurs activités avec leurs étudiants. Celui-ci aura évidemment besoin de votre contexte d'enseignement également 😉
+12/04/2024, 12:50 - ‎+1 (438) 402-4595 est parti·e
+12/04/2024, 14:40 - Jean-Marc Everard: Tout à fait d’accord : attention ils ne prennent pas en compte le développement non plus, ni hardware ni software, mais donc entre les lignes pas le coût de l’entraînement du modèle qui est la plus grosse sources d’émissions. Sans compter la non prise en compte des annotateurs. J’aimerais y croire parce que ça me déculpabiliserait un peu, mais franchement cette étude me paraît légère…

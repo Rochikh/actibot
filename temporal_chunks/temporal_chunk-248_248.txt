@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 680
+Messages: 9
+
+=== CONTENU ===
+02/03/2024, 07:31 - Rochane: Un text to image intéressant et en open source https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9tdWx0aW1vZGFsYXJ0L3N0YWJsZS1jYXNjYWRlP3V0bV9zb3VyY2U9Z2VuZXJhdGlvbmlhLmZsaW50Lm1lZGlhJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPXBob3Rvcy1yZWFsaXN0ZXMtZGVjb3V2cmV6LWNlcy01LW91dGlscy1kLWlhLWdyYXR1aXRzIiwicG9zdF9pZCI6IjkyMDBjZjQ5LTYzOTYtNDE0ZC05NWQ1LWVmODhiY2ZjYTdmNCIsInB1YmxpY2F0aW9uX2lkIjoiNWYxYjJhZmYtZTE3Ny00ZDI0LThjNzctMTNiNGYzNmJhMmY0IiwidmlzaXRfdG9rZW4iOiJhMDk1MzY2Yy0zZTYwLTQ2NTQtYmM1ZS1mMzJjZjlkNzBmMjYiLCJpYXQiOjE3MDkzNjA5NjAsImlzcyI6Im9yY2hpZCJ9.d0Xm-tEjqZj7PXKBgGKpS3M9Qaqm8M66OuQSPInEOEg
+02/03/2024, 09:53 - Perrine: https://www.linkedin.com/posts/perrine-de-coetlogon_oeweek-2024-programmation-de-loeg-francophone-activity-7168442501257797632-1b2q?utm_source=share&utm_medium=member_android
+02/03/2024, 09:54 - Perrine: Bonjour à tous, pour la semaine de l'éducation ouverte du 4 au 8 mars, deux webinaires seront consacrés à l'IA avec la chaire UNESCO RELIA de l'université de Nantes
+02/03/2024, 09:55 - Perrine: Il y a deux webinaires par jour de 17 à 18 et de 18 à 19 heures
+02/03/2024, 09:59 - Perrine: Je présenterai personnellement l'organisation Open Education Global pour démarrer le lundi à 17 heures et je crois jeudi à 17 heures, les idées et livrables des technologies Blockchain en contexte éducatif. Bonne journée !
+02/03/2024, 10:00 - Rochane: Est-ce que l'on peut mettre le lien WhatsApp de la communauté ?😁
+02/03/2024, 10:06 - Perrine: Oui, il faut venir à l'évènement et faire connaître le lien: c'est ce qui m'a fait penser à vous partager l'information mais je ne suis pas sûre d'y penser ;) et puis ça me ferait plaisir de vous voir là !
+02/03/2024, 10:18 - +33 7 69 88 62 42: Merci
+02/03/2024, 10:29 - Pierrick BRIAND: Oula non! Il faut vraiment qu’on en parle. À titre d’exemple, vous pouvez obtenir le sous-titrage ou la transcription d’une vidéo, vous pouvez en effet générer des quiz, mais à partir d’un support existant comme une vidéo ou un fichier au format PDF, vous pouvez traduire un texte en fichier audio, et nous avons d’autres fonctionnalités à vous faire découvrir. Nos animons une visioconférence pour présenter toutes nos nouveautés le 22 mars à 14h. Avis aux amateurs : https://app.livestorm.co/apolearn/lintelligence-articifielle-comme-assistant-des-formateurs?s=0c29b9e4-d580-49ca-a331-82d82e98f2e2&utm_campaign=Emailing%202024&utm_medium=email&_hsmi=296192796&_hsenc=p2ANqtz-8AZ52WKCUHxByKxJBhIKNSopnFd-Vi2ow1egiW60wF3xg-ISDOsISHfnMPcI9iU5jgy-NLm8QxGdyU-B3qwYQJYP_gV3murXLUrx5WKkjx_0RAb6w&utm_content=296192796&utm_source=hs_email <Ce message a été modifié>

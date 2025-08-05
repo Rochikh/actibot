@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 12
+
+=== CONTENU ===
+23/01/2024, 15:59 - Laurent The Cure: ChatGPT m'a répondu (il suffisait de penser à demander à la source)
+I apologize for the confusion. The time mentioned in the message is in UTC (Coordinated Universal Time). You can try again after 5:32 PM in the UTC time zone.
+24/01/2024, 08:57 - Rochane: https://app.heygen.com/share/973eaa1b9528439f81860d2da7a2e706
+24/01/2024, 09:25 - +33 6 52 49 10 78: @33649535198 je dirais que tu as utilisé Heygen et suivi le process à savoir enregistrer un 1 min face caméra et ensuite soit ton audio dans un autre soft que tu as importé, soit directement dans Heygen. On est là-dessus ou pas du tout ?
+24/01/2024, 09:34 - Rochane: oui c'est à peu près ça : tu crées ton avatar en parlant 30 secondes et ensuite, tu crées ta vidéo juste avec le texte que tu souhaites. En vrai, j'ai jamais dit ce texte et c'est juste mon clone. Vous pouvez tester, c'est gratuit pour un test 🙂
+24/01/2024, 09:59 - Rochane: Vendredi à midi 🙂
+https://www.linkedin.com/posts/rochanekherbouche_off-off-formation-activity-7155839638509617153-uhCZ?utm_source=share&utm_medium=member_desktop
+24/01/2024, 10:25 - Laurent The Cure: Bonjour à tous.
+Je ne pourrais pas écouter en direct mais je mettrai les replay
+24/01/2024, 10:25 - Votre code de sécurité avec +33 6 52 87 33 55 a changé. Appuyez pour en savoir plus.
+24/01/2024, 15:04 - Rochane: Pour celles et ceux qui souhaitent montrer l'intérêt d'un bon prompt, je manque souvent d'exemples en fonction des secteurs où j'interviens, j'ai créé un prompt que j'ai testé avec Calude.ai et qui donne des exemples chouettes. Le voici juste en dessous <Ce message a été modifié>
+24/01/2024, 15:05 - Rochane: tu es un expert IA spécialiste du prompt engineering. Tu as une grande expérience pédagogique. Lors d'une formation sur l'IA, j'ai envie de montrer aux participants la différence entre un prompt simple et un prompt élaboré. Je souhaite commencer par un prompt simple qui ne respecte pas le processus RCT : Role-Contexte- tâches et leur montrer la qualité de la réponse quand on utilise pas RCT et quand on l'utilise.

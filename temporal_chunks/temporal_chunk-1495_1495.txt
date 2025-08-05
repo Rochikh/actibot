@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 20
+
+=== CONTENU ===
+30/12/2024, 16:50 - +33 6 72 75 43 48: Merci beaucoup 😊 je confirme plus rapide que l’IA 😊bonne  et à très vite en 2025
+30/12/2024, 16:51 - +33 6 72 75 43 48: Super merci 🙏
+30/12/2024, 18:51 - +33 6 77 78 84 93: Merci !
+30/12/2024, 19:08 - Ahmadou Ba: @33649535198 Je viens de tester la méthode de l'interaction inversée ca roule comme sur des roulettes. Merci bco pour la trouvaille. Du coup j'ai la flemme de suivre le mooc comme tu vas au charbon pour nous😅😅 <Ce message a été modifié>
+30/12/2024, 19:52 - Votre code de sécurité avec +33 6 81 76 32 02 a changé. Appuyez pour en savoir plus.
+30/12/2024, 20:00 - Francois Bocquet: Petit bémol sur la notion de « données sensibles » qui est mal utilisée dans cette réponse : ce terme est utilisé dans le RGPD pour désigner les données qu’il est interdit de traiter par défaut sauf si nécessité spécifique et statut explicitement autorisé. Les données sensibles sont des données à caractère personnel qui font apparaître, directement ou indirectement :
+les origines raciales ou ethniques,
+les opinions politiques, philosophiques ou religieuses
+l'appartenance syndicale des personnes,
+Les données relatives à la santé des personnes,
+Les données relatives à la vie sexuelle des personnes,
+Les données relatives aux infractions pénales, aux condamnations
+Les données biométriques
+Les données génétiques
+Les données de santé nécessitent en outre un consentement.
+30/12/2024, 20:02 - Francois Bocquet: Voir articles 9 et 10 du RGPD set page de la CNIL https://www.cnil.fr/fr/definition/donnee-sensible
+30/12/2024, 20:03 - Francois Bocquet: Article 9 https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article9
+30/12/2024, 20:03 - Francois Bocquet: Article 10 https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article10
+30/12/2024, 20:04 - Rochane: Merci pour la rectification, il faut peut être changer quelque chose dans le prompt alors. Je vais modifier et tu le donnes ton avis si tu veux bien 😀
+30/12/2024, 20:05 - Francois Bocquet: Faut que je relise mieux toute la réponse

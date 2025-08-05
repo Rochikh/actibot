@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 12
+
+=== CONTENU ===
+05/03/2025, 18:19 - +33 6 80 15 26 95: Bonsoir k2r2 Assistant pédagogique fournit api pour faire cela. Si vous voulez plus d infos contacter moi en direct (attention c est un produit payant)
+05/03/2025, 18:27 - +33 7 86 18 83 63: Merci messieurs je vais regarder
+05/03/2025, 18:35 - +33 7 86 18 83 63: Quelle solution par exemple ?
+05/03/2025, 18:53 - Daniel Pappalardo: Quizz : Wooflash ou Quizziz. Mp3 si c'est du texte pour créer un dialogue ou monologue elevenlabs par exemple.
+05/03/2025, 19:51 - +32 475 86 01 57: Le prompt ultime n'existe pas, alleluia!
+Julius White sur coursera est très bien. Logique de blocs à assembler. Je termine moi même une formation à destination d enseignants et inspiré de la sienne. Il faut aussi aller voir du côté d ai4edu qui ouvre bien le scope avec du droit, de l envirronement etc
+05/03/2025, 19:55 - +32 475 86 01 57: Amon avis l’ evaluation certificative par l’IA est une chimère peu souhaitable…. Par contre sur l’ évaluation diagnostique et formative j’ ai quelques truc en réserve
+05/03/2025, 20:00 - +32 475 86 01 57: Moi j’ai d’assez bons résultats sur une veille pédagogique: https://chatgpt.com/share/67c89038-b2a0-800f-8914-7b74090d8841
+05/03/2025, 20:01 - +32 475 86 01 57: J’ai pas encore épluché les résultats, je ferai ça demain mais ça m’a l’ air plus que correct, meilleur que le même prompt dans perlexity deep research (Je suis en chatGPT+)
+05/03/2025, 20:35 - Letizia ALLEGRINI: Pour ceux qui s'interrogent sur la thématique de l'évaluation à l`ere de l ia vous pouvez retrouver les conferences du semaine evaluer à l ere de l ia de la région AURA https://www.linkedin.com/posts/drane-site-lyon_evaluer-%C3%A0-l%C3%A8re-de-lia-activity-7300106455628537856-2isi?utm_source=share&utm_medium=member_android&rcm=ACoAAB9dcyoBNj8XdYE-Qh6l1CuE1DQM9AmGMhs
+05/03/2025, 21:15 - +33 6 66 98 84 23: la recherche de sources documentaires et 'analyse sont pourtant pas mal.Il suffit de ne rien déposer de perso.
+05/03/2025, 21:20 - +33 6 71 11 12 91: Je n'ai fait qu'afficher l'analyse des CGU par une IA, j'aurais dû préciser "non vérifié", désolé.

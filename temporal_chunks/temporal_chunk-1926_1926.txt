@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 573
+Messages: 18
+
+=== CONTENU ===
+07/03/2025, 11:54 - +33 6 52 73 73 42: Pareil !
+07/03/2025, 11:57 - +32 496 38 49 64: NotebookLM fait aussi le job  si ce prompt est en français. Un truc sympa aussi, c’est de le personnaliser : préciser l’école ou le lieu, le contexte, le nom que l’on souhaite donner aux animateurs ( ne fonctionne pas toujours) et même le nom de l’enseignant, de l’école, de la boîte…
+07/03/2025, 11:58 - Rochane: Je l'ai dans mes raccourcis et d'ailleurs, je vous recommande https://play.google.com/store/apps/details?id=app.text_expansion.octopus
+pour Android <Ce message a été modifié>
+07/03/2025, 11:58 - +32 496 38 49 64: Lui donner des suggestions aussi sur le ton : les intervenants ne se coupent pas la parole, ne sont pas trop extasiés … est utile aussi.
+07/03/2025, 12:03 - +33 7 63 58 01 55: Ce message a été supprimé.
+07/03/2025, 13:11 - +32 483 60 53 96: https://www.nature.com/articles/d41586-025-00526-0
+Je travaille la dessus pour l'instant, si vous avez d'autres pistes et cas d'usage par rapport aux chercheurs, je suis curieux
+07/03/2025, 15:45 - Votre code de sécurité avec +32 471 82 75 48 a changé. Appuyez pour en savoir plus.
+07/03/2025, 16:25 - +33 6 08 73 04 79: <Médias omis>
+07/03/2025, 16:28 - +41 76 372 28 94: Normalement safe. Mais coupe le wifi si tu veux être 100% tranquille lors du traitement : elle continuera à fonctionner.
+07/03/2025, 16:32 - +212 625-675934: null
+07/03/2025, 17:26 - Francois Bocquet: Oui LM Studio nécessite de télécharger des modèles de langage ET de disposer de CPU/GPU adéquates !
+07/03/2025, 17:36 - +41 79 258 90 36: voir la doc https://lmstudio.ai/docs/app
+07/03/2025, 17:45 - ‎+33 6 15 80 60 40 a demandé à rejoindre le groupe.
+07/03/2025, 17:45 - ‎+33 6 15 80 60 40 a rejoint ce groupe grâce à son lien d’invitation
+07/03/2025, 17:52 - +33 6 08 73 04 79: Merci @41763722894, @33662364404 et @41792589036 pour vos retours ! Reste à voir si mon CPU va « faire le job » 🤔😄
+07/03/2025, 17:56 - +33 6 42 26 64 70: Et bien sûr tu peux en télécharger un ou plusieurs autres Open sources aussi. Normalement c’est safe et si l’un d’entre eux devait s’avérer malhonnête, la communauté open source se chargerait de le signaler et le bannir je pense…ce serait contre productif…enfin j’espère car pour ma part, j’y suis allé en confiance ;)

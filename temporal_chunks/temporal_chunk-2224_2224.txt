@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+05/06/2025, 07:28 - Batier Christophe: Dans un récent article du 20 mai voici u e compile de data sur L'empreinte énergétique de l'IA : des chiffres qui donnent le vertige.
+Morceaux choisis de cette publication MIT Tech Review:
+- La consommation d'électricité des centres de données a doublé entre 2017 et 2023 sous l'impulsion de l'IA, brisant une décennie de stabilité.
+- D'ici 2028, l'IA seule pourrait consommer annuellement autant d'électricité que 22% de l'ensemble des foyers américains.
+- L'entraînement du modèle GPT-4 a  consommé 50 gigawatt-heures d'énergie, soit l'équivalent de la consommation de San Francisco pendant trois jours.
+- L'énergie requise par le plus petit modèle de texte Llama est de 57 joules par réponse, versus 3 353 pour le plus grand modèle. La génération de vidéos nous fait entrer dans des domaines de grandeurs beaucoup, beaucoup plus élevés.
+- Une seule journée d'utilisation "typique" de l'IA pour une seule personne – incluant des questions textuelles, des tentatives de génération d'images et de vidéos – peut représenter 2,9 kilowatt-heures d'électricité (soit assez pour parcourir environ 16km avec une voiture électrique standard).
+- La majorité (80-90%) de la puissance de calcul pour l'IA est utilisée pour l'inférence (l'utilisation par les consommateurs), et non l'entraînement des modèles.
+- ⁠ source https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
+05/06/2025, 07:31 - Clément Cahagne: Du scrollytelling, on adore, merci Christophe !!
+05/06/2025, 07:37 - Rochane: Je crois pas, il faut le contacter
+05/06/2025, 10:28 - Yann-Ael: Plusieurs ressources et idées d’activités pour les jeunes (jusque 15 ans) ici https://www.educonetimpact.com/accueil - https://www.educonetimpact.com/se-questionner/10-lintelligence-artificielle
+05/06/2025, 14:14 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+05/06/2025, 14:43 - Votre code de sécurité avec +33 6 37 67 45 67 a changé. Appuyez pour en savoir plus.

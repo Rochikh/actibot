@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 15
+
+=== CONTENU ===
+Les élèves choisissent un article et le résument de manière indépendante.
+Read&Write (une application payante) peut aider les étudiants à mettre en évidence les informations clés.
+Les étudiants utilisent la liste de contrôle pour modifier leur travail.
+L’étape finale consiste à créer une citation à l’aide d’un modèle.
+En abordant l'IA de manière critique, en identifiant ses forces et ses limites, les élèves apprennent à l'utiliser comme un outil plutôt que comme un substitut à la réflexion. Cette approche « voir, réfléchir, agir » renforce la confiance en soi dans la synthèse tout en favorisant une utilisation responsable de l'IA.
+29/03/2025, 11:11 - Francois Bocquet: Google vient de sortir un nouveau modèle d'IA image : Gemini 2.0 Flash (Image Generation). L'outil est aussi puissant que Photoshop, en retouche photo, à condition de bien le prompter.
+https://www.journaldunet.com/intelligence-artificielle/1540205-gemini-2-0-flash-comment-bien-prompter-l-ia-image-de-google/
+29/03/2025, 13:33 - Anna-Catherine: <Médias omis>
+29/03/2025, 13:37 - +33 6 71 11 12 91: Merci. Curieux que Claude (Anthopic) ne soit même pas mentionné dans les IA génératives alors qu'on trouve Craiyon et Deepseek !
+29/03/2025, 13:37 - Anna-Catherine: J’ai eu la même réaction
+29/03/2025, 13:40 - Anna-Catherine: Je suis curieuse de connaître les différents profils des contributeurs à ce guide qui est une excellente démarche
+29/03/2025, 16:04 - Mickaël: Je nuance un peu.
+Les services académiques croulent sous les demandes de formations autour des IA en éducation, montrant une forte attente de la part des collègues.
+D'un autre côté, je trouve assez rassurant que nous ne nous précipitions pas. Les IA interrogent certes les pratiques pédagogiques, mais nous avons aussi besoin de temps pour nous assurer de ne pas faire n'importe quoi par simple réaction.
+29/03/2025, 16:36 - StéphaneIA: Bonjour une amie recherche une vidéo qui expliquerait comment Gemini ou chatGPT pourrait lui être utile pour préparer ses cours, l'année prochaine elle prend une classe soir un nouveau programme. Niveau débutante. J'ai regardé mais je n'ai rien trouvé de probant. Merci 🙂

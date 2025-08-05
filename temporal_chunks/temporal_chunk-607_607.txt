@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 20
+
+=== CONTENU ===
+04/06/2024, 17:51 - +33 6 22 42 57 92: Cf. Le test de la chambre chinoise très bien expliqué dans le mooc "elementsofai" de l'université d'Helsinki.
+04/06/2024, 18:02 - LIO: Merciiiii.
+Le test de Turing est carément insuffisant.
+Je pense a un lac artificiel, par exemple sur des photos on ne sait pas faire la différence entre un naturel et artificiel, il faut d'autres éléments pour compléter.
+04/06/2024, 18:08 - +33 6 22 42 57 92: Ils en parlent dans le mooc justement parce que le test de Turing n'est pas suffisant pour définir une méthode d'IA 😉
+04/06/2024, 18:09 - LIO: Merci beaucoup pour la ressource
+04/06/2024, 18:09 - +33 6 72 75 43 48: Ce mooc est en français ?
+04/06/2024, 18:12 - +33 6 22 42 57 92: Oui ! La première partie seulement 😪
+La deuxième qui rentre plus dans le détail apparemment en anglais seulement. Et vu comment j'ai eu parfois du mal à suivre, je n'ose pas m'y atteler 🤣
+04/06/2024, 18:16 - +33 7 63 58 01 55: Le test de Turing est plus symbolique qu'autre chose. Même à l'époque de sa création, il ne semble pas qu'il avait vraiment pour vocation de détecter des intelligences artificielles, ça semblait très théorique et même carrément fictionnel.
+Et puisqu'on parle de fiction, ça me fait penser au test qu'on voit dans Blade Runner qui fait bien sentir la nécessité d'un protocole bien élaboré. Bon, bien sûr, c'est de la fiction mais la réalité a un peu tendance à rattraper la fiction ces temps-ci ! 😅
+04/06/2024, 18:21 - +33 6 22 42 57 92: Je viens de m'amuser à demander à chatGPT4 ses propositions pour IA. Voici ce qu'il me propose :
+Je m’excuse pour la confusion précédente. Voici quelques autres traductions possibles pour l’acronyme IA (Intelligence Artificielle) en français, avec un degré d’abstraction supérieur :
+Intelligence Augmentée
+Informatique Avancée
+Ingéniosité Algorithmique
+Idées Avancées
+Innovation Algorithmique.
+J'aime bien la troisième qui du coup élimine les discussions sur son intelligence 🤣
+04/06/2024, 18:44 - Rochane: J'aime bien intelligence augmentée car finalement ces technologies augmentent et renforcent nos propres capacités cognitives humaines

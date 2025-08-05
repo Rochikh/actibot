@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 11
+
+=== CONTENU ===
+25/09/2024, 09:19 - +33 6 72 75 43 48: Merci de vos retours j’ai testé et après 20 mn d’attente ma vidéo n’était toujours pas générée 🤔bug ?
+25/09/2024, 09:23 - Hoang: oui c'est normal, disons que la version gratuite et les crédits offert (60 crédit par jour qui se réinitialise chaque jour) donne un accès assez limité en terme de ressource et on se retrouve donc souvent en file d'attente pour la génération de la video. la première que j'ai généré à pris deux jours 😆 et d'autre beaucoup moins. Mais pas besoin de laisser le PC allumé, une fois lancé, il charge sur le coté  dans votre espace personnel et vous pouvez retourner sur le site quand vous voulez, même si vous fermez la fenêtre  d'application.
+25/09/2024, 09:26 - Hoang: sinon son concurrent direct : https://runwayml.com/ propose les même service et avec une génération plus rapide, il a également une offre gratuite pour tester
+25/09/2024, 10:07 - +33 6 85 03 31 84: Bonjour,
+autre outil AI, apparemment efficace sur les fonctions de codage (Python, notamment) et aussi pour répondre à des problèmes divers et variés qu’on a tous rencontré dès qu’on touche un PC (“bugs”, installation de softs sur Windows, Linux, Mac, …) :
+https://www.phind.com
+25/09/2024, 16:04 - ‎+33 6 10 66 00 70 est parti·e
+25/09/2024, 16:52 - +33 6 70 02 97 35: Bonjour, j’ai une petite question s’il vous plaît. Si je crée un GPT avec ChatGPT-4 sans l’API, est-ce que je peux le partager avec des personnes qui n’ont pas la version payante ?
+25/09/2024, 16:54 - Fred IA: Bonjour. Oui mais ils seront limités en nombre d'utilisation (3 ou 4 sollicitations de mémoire)
+25/09/2024, 16:54 - Ahmadou Ba: oui les GPT sont accessibles pour les versions gratuites qui peuvent l'utiliser. Vous pouvez les deposer dans le store ou les partager à l'aide d'un lien.
+25/09/2024, 16:59 - Ahmadou Ba: qu'entendez vous par sollicitation de mémoire ?  Moi mes GPT sont accessibles, j'en avais créé pour mes élèves pour les aider à revisrr j'ai jamais eu de retour d'inaccessible. Je crois que le nombre de requêtes pour GPT 4o était de 15 par heure gratuitement et je crois c'est valable pour les GPT qui utilisent le même modèle

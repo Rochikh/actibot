@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 13
+
+=== CONTENU ===
+02/07/2024, 14:53 - +32 477 88 54 86: Bonjour à tous, j’ai une question pour le groupe. Comme société de formation nous recevons de grande quantités d’évaluations des participants à nos formations sous la forme de fichier Excel incomplets. Jusqu’à aujourd’hui  nous devons extraire un à un les commentaires et leurs dates et les relier au nom du formateur dans notre système. Nous n’avons pas la possibilité de changer le système du client mais nous voudrions pouvoir extraire, trier et mieux organiser les feed-back des participants à partir de ce fichier Excel . Avez-vous une idée de comment l’AI peut nous aider sur ce point? Un grand merci à tous 😊 ☀️
+02/07/2024, 14:58 - +32 479 58 54 12: Cela oblige je crois à interroger en python.
+Pas simple pour le grand public 🤔
+02/07/2024, 14:58 - Pierrick BRIAND: Bonjour @32477885486 si à cela on ajoute une couche de RGPD, il va falloir faire du Python et probablement avoir recours à un développeur <Ce message a été modifié>
+02/07/2024, 15:03 - Fred IA: Bonjour. Je vous partage une carte mentale tournée vers l'IA en éducation et en formation (enjeux, défi éthique, enseignement et handicap) avec des liens, guides pdf, etc. https://whimsical.com/guides-de-l-ia-en-formation-H7Fn1JuJJoEwvr1EPfTxq4
+02/07/2024, 15:18 - +32 477 88 54 86: Merci pour votre réponse. Je ne sais pas si ça aide mais les évaluations que nous recevons en fichier Excel des participants sont anonymes  (nous les traitons essentiellement pour améliorer les DP, relever les incidents et ….féliciter les formateurs 😎)
+02/07/2024, 15:19 - +32 477 88 54 86: Merci 🙏🏼 Super utile dans notre  domaine!
+02/07/2024, 18:39 - Rochane: Ludovic Salenne confirme. Un bel outil gratuit
+NotebookLM : cette IA est INDISPENSABLE — Tuto Complet
+https://www.youtube.com/watch?v=0b_-Y6fG0nY <Ce message a été modifié>
+02/07/2024, 20:30 - +33 7 56 86 00 33: Super ressource, merci beaucoup
+02/07/2024, 20:34 - Yvelines: Top! Tu as testé @33649535198 ?
+02/07/2024, 20:38 - ‎+44 7442 310346 a demandé à rejoindre le groupe.

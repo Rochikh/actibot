@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 20
+
+=== CONTENU ===
+08/03/2024, 15:32 - Jacques BARATTI: j'ai des soucis avec Firefox (et les mêmes sur Chrome). ChatGPT devient "paresseux" quand on l'a bcp utilisé (en plus de s'arreter quand on a atteint le quota de messages…)
+08/03/2024, 15:33 - Jacques BARATTI: avec GPT4 payant !
+08/03/2024, 15:40 - Fred IA: Une question sur perplexity svp : peut il être utilisé sans limite dans sa  version gratuite ?  Et en complément, quelle IA (gratuite) utilisez vous pour faire synthétiser un pdf ?
+08/03/2024, 15:41 - Yvelines: ChatPDF pour ma part
+08/03/2024, 15:41 - +34 618 97 47 94: Moi il fonctionne avec la version payante pas de soucis. Depuis l’app du téléphone
+08/03/2024, 15:47 - Ahmadou Ba: Merci bcp pour votre retour. Apparemment il y a un petit soucis avec GPT
+08/03/2024, 15:47 - Ahmadou Ba: Claude aussi peut le faire
+08/03/2024, 15:48 - Ahmadou Ba: Gpt 4 aussi
+08/03/2024, 15:48 - +32 498 78 46 36: Sur Edge ça marche sans soucis pour moi
+08/03/2024, 15:48 - +32 498 78 46 36: Mais impossible sur Chrome
+08/03/2024, 15:49 - +33 6 13 43 54 52: https://latelierduformateur.fr/panorama-des-guides-sur-lia-en-education-et-en-formation/
+Dans le cas où vous ne l'avez pas eu par d'autres canaux
+08/03/2024, 15:59 - Rochane: La version gratuite de Perplexity, tu es limité en conversation mais tu peux en avoir environ une vingtaine par jour et que 3 uploads de fichiers par jour....
+08/03/2024, 16:28 - Fred IA: Super, merci à toi pour cette info 👍
+08/03/2024, 16:40 - Fred IA: Concernant l'analyse de pdf, je cite donc quelques ia gratuites : perplexity ; chatPDF, Claude (en passant par poe, on y accède depuis la France). Si vous en connaissez d'autres, je suis preneur 🙂
+08/03/2024, 16:41 - Rochane: Seeker, le meilleur, à mon avis ( gratuit)
+08/03/2024, 16:42 - Fred IA: Merci !  Je testerai
+08/03/2024, 16:49 - fm Florent iA: Pb gpt : Il est nécessaire de se deloguer/reloguer
+Et ça repart <Ce message a été modifié>
+08/03/2024, 16:50 - Pierrick BRIAND: Changez de navigateur, je tourne sur Firefox et cela va mieux de mon côté.

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 16
+
+=== CONTENU ===
+03/03/2024, 16:56 - ‎+33 7 89 06 88 77 a rejoint le groupe à partir de la communauté.
+03/03/2024, 16:57 - +33 6 08 18 30 41: Merci pour le lien. Pour le moment pas de crawling autorisé et pas de scrapping. Quelle plus value vs une gpt4 classique ? Peut etre ai-je raté qq chose
+03/03/2024, 16:57 - Jacques BARATTI: Ok je vais le mettre en public, il n'est pour l'instant accessible qu'avec le lien https://chat.openai.com/g/g-MTr2mTF8u-utiliser-la-methode-crag
+03/03/2024, 17:00 - ‎+32 476 66 05 27 a rejoint le groupe à partir de la communauté.
+03/03/2024, 17:00 - Rochane: Chat GPt plus propose un store avec de nombreux GPTs qui sont des chat GPt ultra personnalisés. La même chose existe dans Perplexity, ça s'appelle Collection et dans Hugging Chat, ça s'appelle Collection mais pas aussi avancé car on ne peut pas vraiment alimenter la base de connaissances avec des documents contrairement à chat GPt
+03/03/2024, 17:05 - Ahmed Yagoubu: Merci pour ces précieux partages.
+03/03/2024, 17:10 - +33 6 08 18 30 41: Cool que vs soyez visibles ds perplexity ?
+03/03/2024, 17:10 - +33 6 08 18 30 41: !
+03/03/2024, 17:11 - Jacques BARATTI: le GPT s'appelle "Utiliser la méthode CRAG" il est maintenant disponible en mode public
+03/03/2024, 17:12 - Ahmed Yagoubu: Merci
+03/03/2024, 17:19 - +32 479 58 54 12: J'ai testé différents sujets. Parfois il recherche des documents externes, parfois pas. Et parfois il s'excuse de ne pas en avoir trouvés. J'aimerais bien comprendre la logique 😏
+03/03/2024, 17:31 - Rochane: @33611028249 peut forcer dans les instructions de chercher les sources absolument
+03/03/2024, 17:55 - Jacques BARATTI: j'ai ajouté le fait de rechercher des données dans des sources externes, j'ai uploadé 6 fichiers pour décrire la méthode (corpus interne), dites moi si ça fonctionne mieux !
+03/03/2024, 17:57 - ‎+33 6 61 21 89 56 a rejoint le groupe à partir de la communauté.
+03/03/2024, 18:02 - ‎+212 661-748417 a rejoint le groupe à partir de la communauté.
+03/03/2024, 18:03 - ‎+33 6 19 29 82 01 a rejoint le groupe à partir de la communauté.

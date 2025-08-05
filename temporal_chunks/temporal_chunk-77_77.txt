@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 8
+
+=== CONTENU ===
+13/11/2023, 16:51 - Rochane: Je crois qu'il est possible de passer par l'API et embeder ton bot dans un site. Par contre, les interactions seront payées par le ou la propriétaire du compte <Ce message a été modifié>
+13/11/2023, 16:52 - +32 498 78 46 36: Je pense que c'est temporaire. Openai ouvrira l'utilisation des GPT's une fois que leur "GPTStore" sera en ligne. Patience et longueur de temps...
+13/11/2023, 16:55 - Jacques BARATTI: Merci Rochane, voila qui répond à ma question c) pour les frais ! cela suppose donc que le concepteur du ChatBot se rémunère sur les utilisateurs ? Je ne connais pas bien l'utilisation d'API sur un site, je vais me renseigner...
+13/11/2023, 16:58 - Jacques BARATTI: C'est possible, mais l'utilisation du ChatBot restant payante (je suppose !) cela va entrainer un cout pour le concepteur (difficilement prévisible puisque fonction de l'utilisateur) qui sera forcément obligé de le répercuter sur les utilisateurs
+13/11/2023, 16:59 - Rochane: Les tarifs actuels de l'API OpenAI sont les suivants :GPT-4 Turbo :Input : $0.01 pour 1 000 tokens.Output : $0.03 pour 1 000 tokens.GPT-4 :gpt-4 : $0.03 pour l'input de 1 000 tokens et $0.06 pour l'output de 1 000 tokens.gpt-4-32k : $0.06 pour l'input de 1 000 tokens et $0.12 pour l'output de 1 000 tokens.GPT-3.5 Turbo :gpt-3.5-turbo-1106 : $0.0010 pour l'input de 1 000 tokens et $0.0020 pour l'output de 1 000 tokens.gpt-3.5-turbo-instruct : $0.0015 pour l'input de 1 000 tokens et $0.0020 pour l'output de 1 000 tokens
+13/11/2023, 17:00 - Rochane: L'équivalent de 1 000 tokens est d'environ 750 mots.
+13/11/2023, 17:01 - Jacques BARATTI: Merci encore ! Oui j'avais vu ces tarifications qui effectivement paraissent faibles. Mais, GPTStore sera planétaire… Une fois ton ChatBot en ligne si il a du succès tu vas payer !
+13/11/2023, 17:03 - +32 498 78 46 36: Non. Quand vous partagez un gpt avec un utilisateur qui n'a que gpt 3.5 turbo, cela lui indique qu'il n'a pas *encore* accès à cette fonctionnalité. Question de temps donc. Au niveau rentabilité du modèle pour openai je ne sais pas.

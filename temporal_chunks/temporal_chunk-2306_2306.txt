@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 19
+
+=== CONTENU ===
+05/07/2025, 09:12 - +32 475 86 01 57: Assistants avec documentation?
+05/07/2025, 09:49 - ‎+1 (825) 928-7089 a demandé à rejoindre le groupe.
+05/07/2025, 10:30 - +33 6 84 64 62 57: Bonjour, c'est une plateforme made in France.  Je suis en contact avec un commercial car j'attends qq infos notamment pour savoir si on peut relier avec Make.
+05/07/2025, 10:31 - +33 6 72 75 43 48: Super je suis preneuse des infos Valerie merci bon week-end
+05/07/2025, 10:32 - +33 6 34 15 77 84: Génial J’ai hâte de connaître sa réponse Merciiii
+05/07/2025, 11:16 - +262 692 05 20 05: À priori oui, car on peut l'utiliser avec N8N :
+https://info.mammouth.ai/fr/docs/release-notes/
+05/07/2025, 11:20 - +32 479 82 01 20: Bonjour on peut le connecter a Make via le module HTTP sans soucis
+05/07/2025, 11:43 - +33 6 84 64 62 57: Je vous donnerai tout de même leurs recommandations sur Make.
+05/07/2025, 11:47 - +33 6 34 15 77 84: Merciiii
+05/07/2025, 13:58 - ‎+57 318 3913667 a demandé à rejoindre le groupe.
+05/07/2025, 14:24 - ‎+57 310 6947438 a demandé à rejoindre le groupe.
+05/07/2025, 15:34 - Votre code de sécurité avec ~ alexandre castanet a changé. Appuyez pour en savoir plus.
+05/07/2025, 15:59 - ‎+1 (289) 666-1007 a demandé à rejoindre le groupe.
+05/07/2025, 19:31 - Jean-Marc Everard: Je suis super intéressé des retours sur cette plateforme. Est-Ce donc bien ok pour créer des assistants personnels ? Je vois qu’une possibilité d’API arrive, MCP? Agents ? Et une date pour le lien make ? Quelles sont les limitations ? Je suppose qu’il doit y en avoir 😉
+05/07/2025, 22:38 - Votre code de sécurité avec ~ Catherine Lhomme-Ricard a changé. Appuyez pour en savoir plus.
+06/07/2025, 10:35 - Votre code de sécurité avec +33 7 85 84 60 78 a changé. Appuyez pour en savoir plus.
+06/07/2025, 15:22 - estelle Duterage Drion IA: Cc Fabien , je suis intéressée, faut-il que je t’envoie un mail ou peut-on déjà communiquer via cette messagerie privée ?
+Je suis referente EBEP pour la rentrée en secondaire, collège et lycée ?

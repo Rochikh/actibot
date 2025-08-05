@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 25
+
+=== CONTENU ===
+22/03/2024, 07:35 - +32 479 58 54 12: Pour des vidéos de quick  learning qui doivent être souvent adaptées, c'est quand même bien pratique.
+22/03/2024, 07:37 - ‎+33 7 80 84 58 72 a rejoint le groupe à partir de la communauté.
+22/03/2024, 07:45 - +33 7 80 84 58 72: null
+22/03/2024, 07:45 - ‎+33 7 80 84 58 72 est parti·e
+22/03/2024, 07:50 - Jean-Marc Everard: Oui, ce sera à observer sur la durée. Je pense que pour donner des consignes aux étudiants de façon plus « humaine » (en flipped classroom p. Ex.) ça peut marcher aussi. Autre avantage : les sous titre et la transcription sont déjà faites donc tout bénéfice pour l’e-accessibilte.
+22/03/2024, 07:53 - +33 6 70 46 13 52: Merci pour la demo de HeyGen, je suis bluffée aussi 😅
+22/03/2024, 08:18 - Rochane: 📚 *Cette fonctionnalité de ChatGPT va te faire apprendre 10x plus vite !*
+C’est le meilleur *prof* que tu puisses avoir.
+Mais qu’est-ce donc cette fonctionnalité ? 🤔
+C’est un système de conversation vocal en mode 1to1 avec ChatGPT.
+Ça te permet de parler à ChatGPT à l’oral.
+(une conversation téléphonique quoi)
+Pour l’activer, c’est très simple :
+➯ Télécharge l’App ChatGPT sur l’AppStore ou le PlayStore
+➯ Clic sur les 3 ptits points en haut à droite puis « Settings » -> « New Features » et « Voice conversations »
+➯ Reviens sur la page de la conversation et clic sur le casque audio
+➯ Tu peux choisir différentes voix, choisis celle que tu préfères
+Maintenant voici *3 choses* que tu vas pouvoir faire avec et qui vont te sauver tes études sup :
+1️⃣ *Mémorise tes cours*
+Tu as juste à envoyer par écrit une partie de ton cours et ensuite tu lui demandes à l’oral de te poser des questions dessus.
+Comme si c’était un pote à qui tu devais expliquer le cours.
+En lui expliquant et lui répondant à ses questions tu vas beaucoup plus vite mémoriser et comprendre le cours.
+2️⃣ *Progresse dans une langue*
+Tu peux lui demander de discuter avec toi d’un sujet qui t’intéresse dans la langue de ton choix.
+Puis demande lui de t’avertir et de te corriger quand tu fais des erreurs.

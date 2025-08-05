@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 23
+
+=== CONTENU ===
+13/03/2024, 17:58 - +32 479 82 01 20: 🥲
+13/03/2024, 17:58 - +32 479 82 01 20: Je suis a Bruxelles
+13/03/2024, 17:58 - Rochane: Utilise un vpn
+13/03/2024, 17:58 - +32 479 82 01 20: Je vais essayer
+13/03/2024, 17:59 - Rochane: Ben moi aussi. Tu es en navigation privée ?
+13/03/2024, 17:59 - Rose Marie Iskandar: <Médias omis>
+13/03/2024, 17:59 - +32 479 82 01 20: Yesss
+13/03/2024, 17:59 - Rochane: En navigation privée ?
+13/03/2024, 17:59 - Rose Marie Iskandar: It doesn’t work for me
+Pareil navigateur privé
+13/03/2024, 18:00 - Rochane: Use a vpn and try
+13/03/2024, 18:00 - Rose Marie Iskandar: I will try it later
+I only have 6% in my phone’s battery 🪫 😅
+13/03/2024, 18:01 - Rochane: Ah teste aussi de ton ordinateur
+13/03/2024, 18:05 - +32 498 78 46 36: Super Rochane ! Ça fonctionne depuis la Belgique et via vpn ! 👏 GRAND MERCI ! <Ce message a été modifié>
+13/03/2024, 18:20 - +34 618 97 47 94: Ça a marché aussi pour moi avec un numéro espagnol. Pas besoin du mode incognito, ne cherchez pas l’indicatif dans la liste, tapez le directement  +…
+13/03/2024, 18:24 - Jacques BARATTI: on accédé à la version "sonnet" qui est très limitée en nombre de messages !
+13/03/2024, 18:25 - Rochane: Pourquoi tu pensais avoir Opus ? 😁 Faut pas exagérer non plus 🙂
+13/03/2024, 18:25 - Jacques BARATTI: vous pouvez utiliser le navigateur Opera (gratuit) qui permet d'avoir un VPN gratuit et vous localiser aux Etats Unis
+13/03/2024, 18:27 - Rochane: Sans VPN ?
+13/03/2024, 18:28 - +34 618 97 47 94: Sans VPN, sans mode privé et avec l’option espagnol qui n’apparaît pas dans la liste non plus
+13/03/2024, 18:29 - +33 6 13 43 54 52: Quel Vpn vous utilisez ?
+13/03/2024, 18:29 - Jacques BARATTI: j'ai fait deux tests rapides avec Claude 3 donc : créer 5 questions QCM avec feedback sur le code génétique et conversion au format GIFT pour importation dans Moodle ==> le résultat est plutôt intéressant. 2ème test sur la correction de mémoire d'étudiants : Claude s'en sort bcp mieux que Chat GPT (on donne une grille critériée d'évaluation avec un barème, plus le mémoire à évaluer, il note et donne des commentaires)

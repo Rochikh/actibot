@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 10
+
+=== CONTENU ===
+Connaissez-vous des outils d'IA qui se débrouillent mieux dans ce domaine ?
+02/07/2024, 14:31 - ‎+32 467 64 72 13 a demandé à rejoindre le groupe.
+02/07/2024, 14:31 - ‎+32 467 64 72 13 a rejoint le groupe à partir de la communauté.
+02/07/2024, 14:32 - Vous avez épinglé un message
+02/07/2024, 14:47 - Pierrick BRIAND: Bonjour @32479585412 En théorie, le RAG devrait permettre une meilleure interaction avec les bases de données open-source, car il peut récupérer des informations spécifiques avant de générer une réponse. C’est un début de réponse mais attention, avec le RAG il peut y avoir des limitations, notamment pour des requêtes très spécifiques ou des structures de données complexes. Il existe des Outils RAG spécialisés comme LlamaIndex ou encore Langchain : https://python.langchain.com/v0.2/docs/introduction/
+02/07/2024, 14:53 - +32 477 88 54 86: Bonjour à tous, j’ai une question pour le groupe. Comme société de formation nous recevons de grande quantités d’évaluations des participants à nos formations sous la forme de fichier Excel incomplets. Jusqu’à aujourd’hui  nous devons extraire un à un les commentaires et leurs dates et les relier au nom du formateur dans notre système. Nous n’avons pas la possibilité de changer le système du client mais nous voudrions pouvoir extraire, trier et mieux organiser les feed-back des participants à partir de ce fichier Excel . Avez-vous une idée de comment l’AI peut nous aider sur ce point? Un grand merci à tous 😊 ☀️
+02/07/2024, 14:58 - +32 479 58 54 12: Cela oblige je crois à interroger en python.
+Pas simple pour le grand public 🤔
+02/07/2024, 14:58 - Pierrick BRIAND: Bonjour @32477885486 si à cela on ajoute une couche de RGPD, il va falloir faire du Python et probablement avoir recours à un développeur <Ce message a été modifié>
+02/07/2024, 15:03 - Fred IA: Bonjour. Je vous partage une carte mentale tournée vers l'IA en éducation et en formation (enjeux, défi éthique, enseignement et handicap) avec des liens, guides pdf, etc. https://whimsical.com/guides-de-l-ia-en-formation-H7Fn1JuJJoEwvr1EPfTxq4

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 573
+Messages: 17
+
+=== CONTENU ===
+DeepL: 35 messages
+Moodle: 34 messages
+Wooclap: 33 messages
+Notion: 28 messages
+Il est important de noter que cette liste est basée uniquement sur le nombre d'occurrences et ne reflète pas forcément l'utilisation réelle de chaque outil ni son importance pour la communauté.
+27/07/2024, 11:56 - +33 6 49 84 08 41: J'ajoute alors ma pierre à l'édifice et mets un sesterce sur Mistral qui m'a permis de faire gratuitement ce que ChatGPT et Copilot m'ont refusé... Avec un outil OCR en ligne, j'ai extrait le texte d'un règlement de copro (des années 60) scanné qui présentait évidemment une quantité importante de coquilles et confusions. Se taper 60 pages de corrections, pas top. Du coup, Mistral l'a fait pour moi ❤️. On va quand même vérifier qu'il n'a rien omis, mais de ce que j'ai vu c'est bluffant ! Je tiens le prompt à disposition si jamais
+27/07/2024, 11:58 - Rochane: Curieux de connaître le prompt et l'outil ocr aussi 🙂
+27/07/2024, 11:59 - +33 6 49 84 08 41: outil OCR : *pdf24* : gratuit, illimité et assez efficace. https://www.pdf24.org/fr/
+27/07/2024, 12:02 - +33 6 49 84 08 41: le prompt :
+_Salut, j'ai récupéré un texte via OCR à partir d'un PDF d'un document scanné... normalement, l'OCR a bien fonctionné, mais : je vais te donner le texte et j'ai besoin que tu me pointes :_
+_- toutes les incohérences_
+_- les erreurs de numérotation_
+_- que tu supprimes les numéros de page_
+_- que tu réorganises de manière cohérente l'ensemble du texte à partir du sommaire (pour te faciliter la tâche, j'encadrerai le sommaire avec la séquence *$* au début et à la fin du sommaire) sans supprimer ni ajouter de mots_
+27/07/2024, 12:02 - Ahmadou Ba: J'ai réalisé un travail dans le cadre de mon mémoire je lui demandé de realiser un tableau excel avec en colonne l'horodatage, les numéro de tel et les messages.
+J'ai pu filtrer les messages que je voulais pour faire une analyse textuelle des opinions. Mais la vous me donner une idée pour analyser plus en profondeur les discussions.
+27/07/2024, 12:15 - +33 6 49 84 08 41: J'ajoute tout de même que *Mistral* est moins autonome que ChatGPT : il a du mal à faire d'autres tâches sur le même corpus, il reste en boucle sur l'intégralité du texte et ne peut se concentrer sur les parties qui m'intéressent <Ce message a été modifié>

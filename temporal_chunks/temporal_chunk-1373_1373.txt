@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 12
+
+=== CONTENU ===
+02/12/2024, 18:59 - +33 6 58 35 08 39: Il y a actuellement 5 epocs dispos créés par l’inria Learning lab et vous êtes libres de créer et partager les votres 🤩
+02/12/2024, 19:01 - +33 6 19 89 32 62: Super malheureusement je ne peux pas à cette date. D’autres ateliers sont ils prévus début 2025 ?
+02/12/2024, 19:34 - ‎+33 7 89 89 17 66 a demandé à rejoindre le groupe.
+02/12/2024, 22:00 - ‎+33 7 89 89 17 66 a rejoint ce groupe grâce à son lien d’invitation
+03/12/2024, 07:08 - Jean-Marc Everard: Effectivement je trouve vraiment chouette et bien fait aussi. Très curieux d’en apprendre davantage sur cet outil apparemment open source ! Quand je pense que mon équipe et moi nous sommes cassés les dents sur un outil auteur de mobile Learning cher et pas pratique avant d’abandonner…😭
+03/12/2024, 08:05 - +33 6 64 47 07 94: Je plussois comme utilisateur depuis 2 ans mais je trouve que l'équipe inria avance peu en évolution de version. Manque de moyens probable. J'avais proposé l'intégration de h5p comme dans logiquizz de la digitale pour ouvrir les possibilités. Dans tous les cas c'est un super outil de micro learning en devenir... Sans IA
+03/12/2024, 08:27 - Fred IA: Bonjour, sait on si la plateforme va rester gratuite ou si cela risque de changer ? Bonne journée 🙂
+03/12/2024, 08:59 - +33 6 64 50 56 67: Oui ça se fait en local. Les exports peuvent parfois comporter des erreurs.
+03/12/2024, 09:11 - +33 6 64 47 07 94: Équipe accessible type de licence sain gros potentiel de mise en partage des micros enseignements réalisés mais toujours en version 0.xxx.
+03/12/2024, 10:02 - +41 76 372 28 94: Ça me fait un peu penser à https://www.learnflow.ch/ui/home que je ne connais pas assez bien pour pouvoir vous dire les différences.
+03/12/2024, 10:33 - Jean-Marc Everard: Savez-vous s'il est possible de l'installer sur un serveur ailleurs ? Y a-t-il un Github ou quoi ?
+03/12/2024, 12:16 - +33 6 64 47 07 94: L'éditeur est en stand alone. Ce qui est développé s'exporte pour consommation depuis l'appli epoc.

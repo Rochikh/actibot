@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 16
+
+=== CONTENU ===
+Je ne l'ai pas vu ici alors je le poste ==> Si jamais vous recherchez une plateforme en ligne afin de montrer concrètement comment fonctionnement l'entrainement d'une IA avec de la reconnaissance d'images, de son ou de postures. Cela permet de montrer comment est-ce qu'on peut entrainer une IA en jouant sur les différents paramètres et même d'exporter son petit modèle ;)
+23/02/2025, 19:11 - Francois Bocquet: Important : tout le processus se déroule dans le navigateur et il n’y a aucune transmission de données à Google. A noter que la mécanique mise en place par Vittascience pour permettre aux élèves d’entraîner leurs modèles est de même nature.
+23/02/2025, 19:50 - +33 6 08 73 04 79: Bonsoir,
+Pardon si le sujet a déjà été traité, mais si c’est le cas, je n’ai pas trouvé 😩 Donc je pose la question. J’ai pris la version Chat GPT+ pour lui faire analyser des docs. Et, surprise, impossible !! Si je clique sur +, il me dit « Ajout de pièces jointes désactivé pour »
+Comment réactiver cette fonctionnalité ?
+Merci pour votre aide 🙏
+23/02/2025, 20:01 - Rochane: Vérifie bien ton abonnement si tu n'es pas passé en Free. Sinon, efface le cache ou teste via l'App ou un autre navigateur.
+Sinon, je ne vois pas 🤔
+23/02/2025, 20:09 - +33 6 08 73 04 79: Ok. Merci @33649535198. Je vais regarder ça
+23/02/2025, 21:59 - ‎+33 6 50 38 27 11 est parti·e
+23/02/2025, 23:29 - Clotilde IA: Chat gpt (payant) a aussi eu chez moi des difficultés à charger les pdf ce soir.
+23/02/2025, 23:32 - StéphaneIA: En attendant vous pouvez tester sur gemini.google.com
+24/02/2025, 12:01 - +33 7 66 54 11 11: Eh oui moi aussi ce matin je n'avais plus accès à la fonctionnalité joindre un fichier de la version chatgpt plus.
+Je viens de résilier mon abonnement et de plonger dans Gemini.
+Eh oui Google n'a pas dit son dernier mot.
+24/02/2025, 12:07 - +33 7 87 35 78 96: Google a une des meilleures équipes de recherche et google n'a pas besoin de lever des fonds. Et en bonus leur produit phare est utilisé par des milliards de personnes ! Donc n'oublions pas Google

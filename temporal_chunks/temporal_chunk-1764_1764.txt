@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 555
+Messages: 6
+
+=== CONTENU ===
+12/02/2025, 14:57 - Francois Bocquet: Bonjour. On va reprendre le raisonnement. Y a t’il traitement de données à caractère personnel (DCP). La réponse est oui puisqu’il y a création de compte par élèves et par enseignants. Un compte pseudonyme est utilisé. Est ce que le chef d’établissement peut faire le lien entre le pseudonyme et la personne. La réponse est oui donc il y a bien traitement de DCP même avec le pseudonyme.  Donc le RGPD s’applique. Un contrat avec un accord de sous traitance doit être passé entre le chef d’établissement et l’éditeur du service. Seuls les services professionnels le permettent (Copilot, Gemini, ChatGPT team, Canva, Adobe, Mistral ?, Claude ?, …). Aucun service gratuit grand public ne le permet. Pour l’éducation Vittascience devrait le permettre (a valider). Ensuite si contrat et accord de sous traitance ET si analyse d’impact visée par le DPD ET information des personnes concernées + inscription au registre alors ce montage est possible et sera légal. Bien recommander au chef d’établissement de répondre par écrit à ta question pour qu’un traitement illégal ne retombe pas sur la tête de l’enseignant en cas de problème (qui être grave). Si installation en local (sur serveur ou sur les pistes) même démarche sauf que le contrat avec accord de sous traitance n’est pas utile. A mon avis ça demandera beaucoup de ressources humaines et techniques pour un avantage trop faible par rapport à l’utilisation du service proposé par Vittascience.
+12/02/2025, 16:01 - Rochane: Un calculateur pour évaluer l'impact écologique des modèles d'intelligence artificielle https://huggingface.co/spaces/genai-impact/ecologits-calculator
+12/02/2025, 16:09 - Rochane: Dernière MAJ du Chatbot de la communauté maintenant 😊
+https://actibot.replit.app/
+12/02/2025, 18:42 - +33 6 66 98 84 23: Merci Francois pour ton annalyse.je vais voir avec les collègues et le proviseur. Ce qui est fou ,c'est qu'aucunes recommendations académiques ne sont données à ce sujet."Faites de l'ia mais on ne vous dit pas dans quel cadre réglementaire"
+12/02/2025, 18:56 - +33 7 83 62 43 52: Il semblerait que l'on devrait proposer courant mars un cadre réglementaire institutionnel. Mais je n'en sais pas plus.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 15
+
+=== CONTENU ===
+20/04/2025, 14:22 - +33 7 61 63 06 10: Pas à ma connaissance
+20/04/2025, 14:25 - +33 7 61 63 06 10: Dans mon utilisation de Plaud, je n'ai jamais chercher à personnaliser les voix. Je demande évidemment l'autorisation avant d'enregistrer en expliquant que je m'occupe du compte-rendu, ce qui fait que évidemment ça aide beaucoup l'acceptation.
+en revanche, on ne cite pas le nom des participants,  ça je fais dans un deuxième temps lors de la reprise du compte-rendu et du coup c'est plutôt sur Word et non plus sur Internet.
+20/04/2025, 14:25 - +213 661 96 97 18: Bonjour , je cherche des outils IA pour les proposer aux enseignants nouvellement recrutés pour encadrement ou suivie de projets de recherche ou pédagogiques,   si c’est possible 🌿🌿🌿
+20/04/2025, 14:36 - Rochane: ## Résumé des outils IA pour enseignants
+| Nom de l'outil | Usage  | Lien |
+|----------------|--------------------------|------|
+| Nolej IA | Transforme des cours en contenus interactifs (quiz, vidéos, flashcards, glossaires) | [https://nolej.io](https://nolej.io) |
+| Teacher's Aide | Génère et personnalise des plans de cours adaptés à différents niveaux | [https://teachersaide.ai](https://teachersaide.ai) |
+| Sydologie | Création de quiz, scripts vidéo et parcours de formation personnalisés | [https://sydologie.com](https://sydologie.com) |
+| ClassPad Learning | Tableau de bord pour organiser et suivre les apprentissages des élèves | [https://classpad.fr](https://classpad.fr) |
+| AI4T | Manuel Erasmus+ sur l'IA pour les enseignants (ressource de formation) | [https://ai4t.eu](https://ai4t.eu) |
+| ChatGPT | Assistant IA polyvalent pour préparer cours, exercices et contenus pédagogiques | [https://chat.openai.com](https://chat.openai.com) |
+| Perplexity | Recherche avancée et synthèse d'informations pour projets de recherche | [https://perplexity.ai](https://perplexity.ai) |
+| Elicit | Assistant de recherche académique pour trouver et analyser des publications | [https://elicit.org](https://elicit.org) |

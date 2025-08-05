@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 749
+Messages: 16
+
+=== CONTENU ===
+27/03/2025, 10:29 - martinyemani IA: <Médias omis>
+27/03/2025, 10:33 - Jean-Marc Everard: C'est bien possible en effet, mon adresse privée gmail date de perpète (à l'époque où il fallait une invitation pour en avoir une 👨🏼‍🦳
+27/03/2025, 10:33 - +32 479 29 01 81: J’ai créé une histoire pour une évaluation d’élèves de de 8 ans. J’ai demandé à ChatGPT de réaliser un livret A5 avec des illustrations. Le résultat est très moyen. Existe t il une autre IA davantage appropriée ?
+27/03/2025, 10:38 - Rochane: Peut-être que l'information que tu lui donnes en entrée est trop importante. As-tu essayé de segmenter l'histoire en plusieurs étapes et lui faire générer les illustrations une à une ?
+27/03/2025, 10:59 - +32 479 29 01 81: Ok je vais essayer
+Mais les personnages devront être les mêmes d’une partie à l’autre.
+27/03/2025, 11:04 - Clément Cahagne: J’appelle ça le mythe de la baguette magique : les GenAI actuelles ne sont pas des magiciens. Si vous leur donnez trop ou ne détaillez pas assez vos besoins et votre contexte, elles se perdent. Et donnent des résultats moyens
+27/03/2025, 11:08 - +32 479 29 01 81: C est exact Clément. Il faut trouver un juste milieu.
+27/03/2025, 11:08 - Clément Cahagne: La fameuse balance IA IH 🙂
+27/03/2025, 11:14 - +33 6 64 47 07 94: Et eviter la connerie bio naturelle par l'utilisation de l'IA, n'importe laquelle, à tout propos,... Une externalisation des neurones exagérée nuit à l'intelligence, la seule qui mérite cette appellation. Désolé pour l'humeur de début de printemps.
+27/03/2025, 11:28 - +33 6 25 79 50 95: Eureka
+Vient à point qui sait attendre !
+Ayé je viens de le voir apparaitre dans mon NotebookLM
+C'est top !
+27/03/2025, 11:28 - ‎+33 6 79 76 84 25 est parti·e
+27/03/2025, 12:13 - +41 76 372 28 94: Oui et non... Balance IA/IH : le problème c'est quand je n'ai clairement plus le niveau de ce que je leur demande de faire. Ce n'est pas le fait que je ne puisse pas apprendre, mais surtout le fait que je ne peux pas apprendre pour ce soir ce qui nécessiterait une dizaine d'années d'expérience et que elles savent déjà, à quelques confabulations près (ce que je ne pourrais de toute façon probablement pas détecter). Je dis ça car je prépare le cours de demain et je galère sur quasiment chaque concept que l'IA me propose d'expliquer aux élèves... Bref, ce n'est pas aujourd'hui que je deviendrai ingénieur réseau (je suis ingénieur en développement logiciel) et pourtant c'est le niveau que j'atteins grâce aux IA pour décider de quoi mettre dans le plan d'étude (chose que les gens qui auraient dû le faire n'ont pas fait correctement)... pour le cours d'informatique de demain... Sans les IA, j'aurais dû faire comme l'an passé : c'est à dire donner un cours nul, inutile et pas intéressant. J'espère pouvoir faire mieux demain (ça va pas être trop compliqué de faire mieux 😇). Un grand merci à Gemini 2.5 et ChatGPT 4.5 au passage, car elles sont sur ce coup plus pertinentes que Claude 3.7. <Ce message a été modifié>

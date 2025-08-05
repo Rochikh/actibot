@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 15
+
+=== CONTENU ===
+- L'entraînement se déroule en périodes appelées "epochs".
+2. **Le phénomène de "grokking"**
+- Pendant de nombreuses périodes d'entraînement (des dizaines de milliers), les résultats ne sont pas particulièrement impressionnants[1][2].
+- Les ingénieurs continuent l'entraînement avec les mêmes données et le même algorithme, sans changement.
+- Soudainement, après cette longue période apparemment stérile, la qualité des résultats s'améliore drastiquement[1][2].
+Ce phénomène soulève des questions intéressantes sur la nature de l'apprentissage machine et le processus par lequel les modèles d'IA acquièrent leurs capacités. Il suggère que l'amélioration des performances n'est pas toujours linéaire ou progressive, mais peut se produire de manière abrupte après une longue période de stagnation apparente.
+Pour les technopédagogues et les passionnés d'IA, cette découverte pourrait avoir des implications importantes :
+- Elle souligne l'importance de la patience et de la persévérance dans le développement et l'entraînement des modèles d'IA.
+- Elle remet en question notre compréhension du processus d'apprentissage, tant pour les machines que pour les humains.
+- Elle pourrait influencer la façon dont nous concevons et mettons en œuvre des stratégies d'apprentissage, en tenant compte de la possibilité de "sauts" soudains dans la compréhension ou les performances.
+Ce phénomène de "grokking" ouvre de nouvelles pistes de recherche pour comprendre les mécanismes sous-jacents de l'apprentissage machine et pourrait potentiellement conduire à des avancées significatives dans le domaine de l'IA générative.
+04/08/2024, 15:06 - +33 6 85 03 31 84: Je n’avais pu voir que le début de cet article hier (n’étant pas abonné à S&A);
+à défaut, j’ai trouvé cet article assez didactique (comme le sont, en général, ses vidéos sur sa chaîne YouTube *Science Étonnante*), même si je n’ai pas tout compris 🤔
+https://substack.com/home/post/p-136717909?r=48xejj&utm_campaign=post&utm_medium=web
+04/08/2024, 18:46 - Technopedagogue Djieh 🔥🖥️🔥: null

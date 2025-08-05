@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 575
+Messages: 19
+
+=== CONTENU ===
+Nils Schaetti, l'auteur de l'article, est lui-même docteur et chercheur en intelligence artificielle, ce qui donne une perspective informée sur les implications éthiques et techniques de cette étude controversée.
+Citations :
+[1] Artificialis - Les sciences de l'artificiel https://nilsschaetti.ch
+[2] Dr Nils Schaetti - Chercheur et enseignant en Machine Learning https://www.youtube.com/watch?v=-BEAjGnXL4M
+[3] [PDF] Thèses publiées par l'Université de Neuchâtel https://www.unine.ch/bibliotheque/wp-content/uploads/sites/58/UNINE_BIB_theses_complet.pdf
+[4] À propos - Artificialis https://nilsschaetti.ch/about-us/
+[5] Nils Schaetti – Collaborateur scientifique – HEG - Genève - LinkedIn https://ch.linkedin.com/in/nils-schaetti-982a562b
+[6] [PDF] layer-wise relevance propagation for echo state networks ... - arXiv https://arxiv.org/pdf/2210.09958.pdf
+[7] Comité | Parti Pirate Vaudois https://ppvd.ch/comite/
+[8] [PDF] Distributed systems and trusted execution environments ... - SciSpace https://scispace.com/pdf/distributed-systems-and-trusted-execution-environments-trade-4pc45agpme.pdf
+[9] safety cost effectiveness: Topics by Science.gov https://www.science.gov/topicpages/s/safety+cost+effectiveness
+[10] Candidats Nyon | Parti Pirate Vaudois https://ppvd.ch/candidats-2022/ecvd22-candidats-nyon/
+[11] DocumentResolver/DocumentResolverCmd/DictionaryData5000.txt ... https://github.com/mlichtenberg/DocumentResolver/blob/master/DocumentResolverCmd/DictionaryData5000.txt
+[12] Tribunes - Artificialis https://nilsschaetti.ch/tribunes/
+[13] [PDF] Towards an Intelligent Machine Learning-based Business Approach https://www.mecs-press.org/ijisa/ijisa-v14-n1/IJISA-V14-N1-1.pdf
+03/05/2025, 12:40 - Votre code de sécurité avec ~ Alyssia a changé. Appuyez pour en savoir plus.
+03/05/2025, 12:40 - Votre code de sécurité avec +32 493 87 42 05 a changé. Appuyez pour en savoir plus.
+03/05/2025, 12:45 - Votre code de sécurité avec ~ Alyssia a changé. Appuyez pour en savoir plus.
+03/05/2025, 14:14 - +33 6 70 16 18 20: bonjour à tous, je vous partage cette page d'educavox très riche en contenus émanant des cellules de recherche GTNum coordonnées par la Direction du Numérique pour l'Education : https://educavox.fr/innovation/didactique/intelligence-artificielle-dans-les-pratiques-pedagogiques

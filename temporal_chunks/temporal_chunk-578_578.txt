@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 20
+
+=== CONTENU ===
+01/06/2024, 13:21 - ‎+33 6 21 18 14 57 est parti·e
+01/06/2024, 14:16 - ‎+222 46 48 18 36 a demandé à rejoindre le groupe.
+01/06/2024, 14:18 - ‎+33 6 71 34 16 74 a demandé à rejoindre le groupe.
+01/06/2024, 15:16 - ‎+33 7 67 67 84 83 a demandé à rejoindre le groupe.
+01/06/2024, 15:25 - ‎+33 6 12 51 67 58 a demandé à rejoindre le groupe.
+01/06/2024, 15:50 - ‎+33 6 82 42 59 35 a demandé à rejoindre le groupe.
+01/06/2024, 16:48 - ‎+41 78 748 45 97 a demandé à rejoindre le groupe.
+01/06/2024, 16:49 - ‎+33 6 34 15 77 84 a demandé à rejoindre le groupe.
+01/06/2024, 18:17 - ‎+33 6 48 23 69 08 a demandé à rejoindre le groupe.
+01/06/2024, 19:51 - +33 6 76 04 48 20: Au vu de cette rapide comparaison, est-ce qu’on peut considérer que Perplexity est moins performant que Gemini pro et que Copilot ?
+Si oui, quels sont les points forts de Perplexity ?
+01/06/2024, 19:51 - ‎+33 6 48 23 69 08 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 6 34 15 77 84 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+41 78 748 45 97 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 6 82 42 59 35 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 6 12 51 67 58 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 7 67 67 84 83 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 6 71 34 16 74 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+222 46 48 18 36 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:55 - Rochane: Je pense sérieusement que tout dépend de l'usage. Perso, j'ai chat Gpt payant car j'en ai besoin pour ses Gpts en utilisation et en usage avec aussi son application. Perplexity, pour une recherche sourcée, c'est vraiment top et en plus avec la génération des pages, il devient incontournable. Gemini pro 1.5 avec sa fenêtre de 1 M de tokens et par sa plateforme de dev gratuite est top pour analyser des gros fichiers dont des vidéos

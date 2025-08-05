@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 17
+
+=== CONTENU ===
+23/03/2024, 07:05 - +33 7 45 61 40 35: null
+23/03/2024, 07:08 - ‎+33 7 45 61 40 35 est parti·e
+23/03/2024, 08:18 - LIO: <Médias omis>
+23/03/2024, 08:19 - ‎+52 55 3883 3091 est parti·e
+23/03/2024, 09:19 - +41 79 326 51 40: J'ai essayé également. Pas très probant de mon côté. J'ai prononcé plusieurs fois des phrases en anglais en faisant exprès "de grosses erreurs de prononciation" et elle me félicite en disant que j'ai bien prononcé. 😅
+23/03/2024, 09:33 - Ahmadou Ba: Bjr.
+23/03/2024, 09:34 - Ahmadou Ba: Qui pour me faire un tuto sur comment utiliser cette fonctionnalité. Je n'ai pas vu cette fonctionnalité sur mon téléphone. <Ce message a été modifié>
+23/03/2024, 09:35 - Rochane: Tu télécharges l'App ( attention, il faut choisir Openai) et tu cliques sur les écouteurs en bas à droite
+23/03/2024, 09:36 - Rochane: <Médias omis>
+23/03/2024, 09:37 - +32 479 58 54 12: J'ai testé avec chatgpt 3.5 et avec le 4.
+C'est vrai que le 4 est un peu meilleur et corrige plus de fautes de prononciations. Et je reste totalement bluffée par la qualité de cet usage de l'IA.
+23/03/2024, 09:53 - ‎+33 6 99 36 11 69 a rejoint le groupe à partir de la communauté.
+23/03/2024, 10:12 - Jacques BARATTI: Merci Rochane pour l'astuce "clique sur l'écouteur" c'est simple mais je n'avais pas trouvé tout seul 😭. j'i un peu testé c'est vraiment autre chose de communiquer avec l'IA en parlant plutôt qu'en écrivant !
+23/03/2024, 10:38 - +33 6 51 43 08 14: Bonjour mais comment avez vous fait pour avoir le 4 ? Je ne comprends pas
+23/03/2024, 10:39 - +32 479 58 54 12: C'est la version payante. Environ 20 euros/mois
+23/03/2024, 10:43 - +33 6 51 43 08 14: Oui donc il suffit de se connecter sur l'appli avec le compte payant et c'est ce que j'ai fais car j'ai un compte payant. Mais quand je lui demande la version  de son gpt il répond 3.5 et pas 4 et aucun moyen de vérifier dans les settings de l'appli
+23/03/2024, 10:45 - +33 6 51 43 08 14: Quelqu'un  peut m'expliquer les custome instructions de l'appli avec un exemple ?

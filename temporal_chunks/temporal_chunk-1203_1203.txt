@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 12
+
+=== CONTENU ===
+08/11/2024, 10:06 - +33 6 46 86 16 67: Merci Jean Marc pour cette approche qui me convient bien et m’apporte des pistes de réflexions. Jean si tu as un peu de temps je veux bien un peu d’explications :)
+08/11/2024, 12:58 - ‎Clotilde IA a demandé à ajouter +32 486 10 26 68.
+08/11/2024, 12:59 - ‎Clotilde IA a demandé à ajouter +32 499 51 04 68.
+08/11/2024, 14:47 - Gregoire IA: Les RAG est la méthode que je pousse depuis 8 mois, c'est presque une compétence fondamentale pour tout enseignant (en fait, pour tout le monde) selon moi. Je ne peux m'empêcher de vous partager ma vidéo publiée quasi au début du projet de ma chaîne : https://youtu.be/-Yszvuz_ivg
+08/11/2024, 14:49 - Gregoire IA: @33646861667 Je reviens régulièrement sur le RAG mais aussi d'autres modèles et approches car on peut limiter les hallucinations...surtout.quand on parle de certains sujets pour lesquels même le précieux GPT peut dire n'importe quoi 😂😅
+Si la vidéo suscite plus de précisions on s'en parle. <Ce message a été modifié>
+08/11/2024, 15:00 - ‎Clotilde IA a ajouté +32 486 10 26 68
+08/11/2024, 15:01 - ‎~ Eric a été ajouté·e
+08/11/2024, 15:00 - ‎Clotilde IA a ajouté ~ Eric
+09/11/2024, 09:21 - +33 6 34 15 77 84: Un post très intéressant qui nous rappelle combien il ne faut pas se fier totalement à l’IA même lorsqu’elle cite ses sources car elle peut là aussi nous berner… à méditer pendant ce long week-end ! 🤗 https://www.linkedin.com/posts/benoitraphael_vous-pr%C3%A9f%C3%A9rez-perplexity-et-chatgpt-%C3%A0-google-ugcPost-7260532502665048064-kkoJ?utm_source=combined_share_message&utm_medium=ios_app&utm_campaign=whatsapp
+09/11/2024, 09:24 - +33 6 34 15 77 84: Pareil j’ai acheté les 2 excellents Prenez aussi son PLAN PROMPTABLE TRÈS UTILE!@Lucie Merci pour ces écrits tellement précieux 🤗
+09/11/2024, 10:00 - +33 6 31 69 61 40: Hello tout le monde, est-ce que quelqu'un sait ce qui a changé dans Chatgpt video summarizer ? Avant (il y a 2 ou 3  mois) je pouvais simplement lui donner un lien YouTube et il me faisait un résumé complet de la vidéo.

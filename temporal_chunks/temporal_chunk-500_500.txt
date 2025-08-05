@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 18
+
+=== CONTENU ===
+Les systèmes de notification (petits messages qui nous préviennent de l’arrivée d’un message, avec le début du message) ne sont pas sécurisés :
+10/05/2024, 11:45 - Vincent DROUOT: https://www.usine-digitale.fr/article/notif.N2202613
+10/05/2024, 12:12 - +32 477 45 68 37: Bonjour, si cela peut vous intéresser, nous venons de restructurer la partie "ressources" de l'IA box en sous-catégories pour faciliter les recherches https://lesrochdur.com/ia-box-education/ Beau we ensoleillé 🙂
+10/05/2024, 12:42 - +33 6 76 04 48 20: C’était une évidence !
+Qui parmi nous n’a jamais reçu de messages publicitaires suite à une conversation eue à proximité de son téléphone portable ?
+Signe que des mots étaient captés et utilisés par les appareils.
+Donc, si de simples entreprises commerciales ont eu recours à ce genre de pratique, comment ne pas imaginer que des gouvernements au nom de la sécurité collective (sous couvert de luttes anti terroristes et autres…) se soient privés de ce type de technologie et de ces agissements…?
+On pourra nous objecter que si l’on n’a rien à se reprocher, on ne doit rien craindre, c’est une façon de voir les choses… pour autant, il ne faut pas être naïf : la maîtrise de la technologie est un véritable pouvoir en soi.
+10/05/2024, 12:55 - LIO: Du coup est ce qu'il ne faut pas juste rendre impermeable en éduquant?
+Après regarder cette série, on voit venir les spheres émotionnelles de loin
+https://youtu.be/CqUV-hqIwBE?si=fqCTTgZSeYT6TncT
+10/05/2024, 14:24 - Fabien IA: Sympa « La fièvre »
+Spoiler alerte 🚨 (ne pas lire la suite).
+Est-ce un spin off de Baron Noir ?
+10/05/2024, 17:24 - +41 79 326 51 40: Quid de Threema... https://threema.ch/fr
+Excellente messagerie sécurisée. Meilleure que Signal sur bien des points.
+10/05/2024, 21:23 - Rochane: <Médias omis>
+10/05/2024, 21:24 - Rochane: Cet article de recherche examine la capacité des enseignants à détecter les textes générés par l'IA, en particulier par ChatGPT, parmi les dissertations d'élèves. Deux études ont été menées : l'une avec de futurs enseignants et l'autre avec des enseignants expérimentés.

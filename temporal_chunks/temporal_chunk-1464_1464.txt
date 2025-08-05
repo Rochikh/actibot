@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 15
+
+=== CONTENU ===
+24/12/2024, 10:45 - Francois Bocquet: Non les deux sont très bien encadrés depuis très longtemps à condition d’utiliser les services professionnels orientés éducation (et pas les comptes grand public). Il y a même des services gratuits qui permettent d’avancer très rapidement avec des gestions possibles pour certains utilisateurs. Et surtout l’avantage d’une intégration très forte avec la bureautique et les stockages de documents.
+24/12/2024, 10:51 - Jean-Marc Everard: Merci beaucoup, j’ai déjà un compte pro sur les 2 plateformes et les contacts pour avancer sur les aspects éducation donc même je garde une certaine réticence (les pays bas ont expérimenté des différences entre la confidentialité sur papier et puis réelle de grands groupes) je vais avancer par là. Merci des conseils 🙏. Et bonnes fêtes déjà !
+24/12/2024, 11:09 - +32 483 60 53 96: Merci des conseils et bonnes fêtes ! 🎄
+Je suis ouvert à d’autres témoignages de pratiques aussi ; je documente et partage des ressources sur les pratiques dans le sup toute l’année prochaine.
+Ps: je vous ai envoyé un message pour un mini call de 20 minutes si cela vous convient (Antoine et JM)
+24/12/2024, 11:10 - +33 6 80 15 26 95: parfait bonnes fêtes / joyeux noel.
+24/12/2024, 11:35 - +32 483 60 53 96: Aussi, j’ai eu accès au Notion de AI4Sup (accessible via une recherche web). Et merci pour ça ;
+est il possible de rejoindre la communauté pour participer aux webinaires ?
+24/12/2024, 11:51 - Francois Bocquet: Adj @33785744116 ;-)
+24/12/2024, 11:51 - Francois Bocquet: Ask
+24/12/2024, 12:55 - Votre code de sécurité avec +32 486 30 88 22 a changé. Appuyez pour en savoir plus.
+24/12/2024, 15:50 - ‎+33 6 08 16 52 75 a demandé à rejoindre le groupe.
+24/12/2024, 16:49 - ‎+33 6 08 16 52 75 a rejoint ce groupe grâce à son lien d’invitation
+24/12/2024, 16:50 - Rochane: Pour des transcripts d'audios, sur aistudio.google.com, avec ce prompt, ça marche très bien
+*Generate audio diarization, including transcriptions and speaker information for each transcription, for this interview. Organize the transcription by the time they happened.* <Ce message a été modifié>

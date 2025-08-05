@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 605
+Messages: 17
+
+=== CONTENU ===
+21/04/2024, 21:57 - Votre code de sécurité avec Souhila BENALI a changé. Appuyez pour en savoir plus.
+21/04/2024, 22:47 - Clotilde IA: @33649535198 qui adore les avatars, et aussi à tous les autres 🤗:
+https://www.microsoft.com/en-us/research/project/vasa-1/ est juste 🤯
+22/04/2024, 05:51 - +33 7 85 94 69 69: C’est quoi je comprends pas ?
+22/04/2024, 06:18 - Rochane: Un projet de génération en temps réel et tu peux générer des vidéos de visages parlants de haute qualité. Ça te permet des interactions avec des avatars réalistes 🙂
+22/04/2024, 06:31 - +33 7 85 94 69 69: Ah ouais ?
+22/04/2024, 06:31 - +33 7 85 94 69 69: Ca j’ai pas trop compris si c’était pour permettre de juger et aux profs de préparer leur cours
+22/04/2024, 08:39 - Fred IA: Un article en français sur le sujet : https://www.usine-digitale.fr/article/deepfakes-microsoft-passe-un-cap-dans-le-realisme-avec-le-modele-vasa-1.N2211761
+22/04/2024, 12:07 - +33 7 85 94 69 69: Ah ok je vais voir
+22/04/2024, 14:10 - ‎+33 7 80 86 40 14 a rejoint le groupe à partir de la communauté.
+22/04/2024, 15:11 - ‎+32 486 30 88 22 a rejoint le groupe à partir de la communauté.
+22/04/2024, 19:16 - Votre code de sécurité avec +212 661-506780 a changé. Appuyez pour en savoir plus.
+23/04/2024, 08:47 - +33 7 49 40 50 92: Un très bon papier de Mollick & Mollick (encore) sur le prompt engineering et l'innovation en éducation, avec de beaux exemples. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802463
+23/04/2024, 09:29 - Lucie: Merci pour la ressource. Conservez la précieusement car à un moment leurs papiers deviennent payant. Je vais lire ça avec attention.
+23/04/2024, 09:30 - Lucie: <Médias omis>
+23/04/2024, 10:20 - ‎+33 6 87 72 32 30 est parti·e
+23/04/2024, 10:53 - +33 6 20 97 18 83: @33623620347 Bonjour Emmanuelle, je suis ingénieur pédagogique et en parallèle enseignante d'anglais. Votre tentative m'a interpellée. Peut-être  qu'il faudrait preciser dans le prompt les attendus du niveau CECRL pour lequel vous souhaitez avoir  une production.  Je ne sais pas si c'est deja ainsi que vous aviez procédé. Je compte travailler un test de positionnement de mes étudiants pour la rentrée prochaine en utilisant les attendus du CERLC. La formation qu'ils suivent est assez singulière (licence pluridisciplaire sportif de haut niveau) . Pourriez-Vous me dire si vous retentez  si vous avez réussi à obtenir un résultat satisfaisant.

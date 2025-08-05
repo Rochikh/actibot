@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 22
+
+=== CONTENU ===
+## Case 4 :
+*Jeune Darwin rit aux éclats, entouré de ses notes incompréhensibles.*
+Texte : "La nature me surprendra toujours ! Personne ne me croira... mais j'ai les preuves !" « <Ce message a été modifié>
+26/03/2025, 10:08 - +33 6 52 73 73 42: ... tt "simplement" !! Merci
+26/03/2025, 10:11 - +33 6 75 41 23 05: Ce qui est impressionnant est la conservation du personnage dans la planche
+26/03/2025, 10:11 - StéphaneIA: <Médias omis>
+26/03/2025, 10:12 - +32 475 86 01 57: Les détecteurs d ia sont des parasites numériques... Nous les enseignants n avons pas d autres choix que de réfléchir à notre manière d évaluer (Et peut être que c est pas plus mal...)
+Comment évaluer les apprentissages dans un monde sous IA?
+https://www.linkedin.com/pulse/comment-%C3%A9valuer-les-apprentissages-dans-un-monde-sous-bareau-antonin-bmagc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+26/03/2025, 10:13 - Rochane: Une vidéo de 11 Min qui explique cette nouvelle mise à jour
+https://youtu.be/9WWEh4k0WAE?feature=shared
+26/03/2025, 10:14 - +33 6 75 41 23 05: Je vais tenter d’entraîner un GPT avec mes propres dessins et mes propres planches. Histoire de voir s’il est capable de créer avec mon style.
+26/03/2025, 11:17 - +33 6 62 05 94 71: Brave... https://thelibre.news/no-really-dont-use-brave/
+26/03/2025, 12:43 - +33 6 75 41 23 05: <Médias omis>
+26/03/2025, 13:13 - +33 6 44 22 10 79: Vous l’avez fait avec quel outil ?
+26/03/2025, 13:14 - Rochane: <Médias omis>
+26/03/2025, 13:16 - +33 6 44 22 10 79: Oki très intéressant tout avec Chatgpt et après la complétion des bulles et mise en page ?
+26/03/2025, 13:28 - Rochane: Regarde en haut, il en parle. Je crois que tout est sorti à partir d'un prompt
+26/03/2025, 13:41 - +33 6 09 28 08 24: <Médias omis>
+26/03/2025, 13:50 - Francois Bocquet: Ouch ! Ça vaut le coût d’être lu !
+26/03/2025, 14:29 - +33 6 19 89 32 62: <Médias omis>
+26/03/2025, 14:29 - +33 6 19 89 32 62: Je suis en train du coup de tester des séquences de BD en essayant de conserver les mêmes personnages dans des situations différentes.

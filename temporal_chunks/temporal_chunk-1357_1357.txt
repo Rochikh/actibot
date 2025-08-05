@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 11
+
+=== CONTENU ===
+29/11/2024, 13:07 - ‎+32 499 96 34 17 a rejoint ce groupe grâce à son lien d’invitation
+29/11/2024, 17:34 - Votre code de sécurité avec +33 6 81 33 60 27 a changé. Appuyez pour en savoir plus.
+29/11/2024, 19:15 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+29/11/2024, 19:34 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+29/11/2024, 23:00 - +41 76 372 28 94: Bonjour @33686634338. Je ne suis pas certain d’avoir vraiment compris votre question. Pour faire tourner une IA en local il faut beaucoup de RAM et une grosse carte graphique. Vu la vitesse ou ça évolue, le matériel deviendra probablement obsolète assez vite effectivement. A mon avis, le mieux est de louer un serveur en ligne avec une puissance variable en fonction de vos besoins. Perso j’aimerai bien monter un serveur avec une H100 pour les élèves de mon établissement, mais je ne pense pas que mon école soit prête à investir autant d’argent. Donc pour l’instant mes élèves utilisent les serveurs des solutions commerciales en ligne, car les versions open sources sont vraiment bof (mais je n’ai testé que les plus petits modèles, vu que je n’ai pas un gros laptop).
+30/11/2024, 07:03 - Rochane: https://www.callimedia.fr/le-learning-lab/podcasts/episode-83-ia-et-competences/
+30/11/2024, 08:47 - ‎+33 6 73 53 45 40 a demandé à rejoindre le groupe.
+30/11/2024, 09:34 - Jean-Marc Everard: Merci Rochane, est-ce que d’autres obtiennent aussi un accent plutôt québécois en Français ? Est-ce que vous connaissez un hack ou prompt pour avoir quelque chose de plus continental même si personnellement j’adore l’intonation canadienne…
+30/11/2024, 09:38 - ‎+33 6 73 53 45 40 a rejoint ce groupe grâce à son lien d’invitation
+30/11/2024, 09:39 - Rochane: Franchement, j'ai pas trop remarqué mais je ne suis pas fort dans la détection d'accent
+30/11/2024, 09:46 - Jean-Marc Everard: C’était peut-être dû au fait que le plupart des sources étaient en anglais et que du coup certains termes étaient prononcés avec un accent anglais ?

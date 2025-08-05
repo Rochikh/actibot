@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 20
+
+=== CONTENU ===
+Je travaille sur une recherche sur les aides dans les MOOC (les aides apportées par les tuteurs et les pairs ; les aides intégrées dans les dispositifs de type MOOC et les aides générées par l’IA).
+Je veux faire l’encodage du corpus de données par rapport à des grilles catégorielles d’aides déjà élaborées à l’aide des IA ChatGPT, Perplexity et Claude.
+Mes problèmes :
+-	Parfois ChatGPT 3.5 est saturé
+-	Perplexity fonctionnait au début de l’encodage que j’avais commencé mais il me demande un abonnement
+-	Je ne peux pas accéder à Claude 3.5
+Je demande :
+1.	Comment faire pour accéder à Claude version gratuite ?
+2.	A part ces 3 IA, est-ce qu’il y a d’autres IA (version gratuite) plus efficaces pour l’encodage
+24/12/2024, 17:50 - Rochane: https://chat.notdiamond.ai/login
+Gratuit et tu as ces modèles
+24/12/2024, 18:21 - ‎+33 6 47 16 85 40 a demandé à rejoindre le groupe.
+24/12/2024, 18:38 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+24/12/2024, 19:07 - ‎+33 7 66 46 62 19 a demandé à rejoindre le groupe.
+24/12/2024, 22:23 - ‎+33 7 66 46 62 19 a rejoint ce groupe grâce à son lien d’invitation
+24/12/2024, 22:23 - ‎+33 6 47 16 85 40 a rejoint ce groupe grâce à son lien d’invitation
+25/12/2024, 11:39 - zp: Joyeux Noël 💐
+25/12/2024, 11:52 - Jean-Marc Everard: J’ai testé Ollama + Docker en local avec plusieurs LLM et ça fonctionnait très bien. L’étape suivante aurait été la création d’un RAG. Mais par curiosité j’ai aussi installé Computer Use de Anthropic, via Docker aussi et pour une raison que j’ignore ça a bloqué mon usage d’Ollama. Du coup je dois tout désinstaller et réinstaller. Je vais peut être essayer LM studio pour changer. Sinon pour ce qui est génération d’images en local j’utilise Pinokio 👍🏻
+25/12/2024, 11:53 - Jean-Marc Everard: Joyeux Noël à toutes et tous 🥳🎉🍾
+25/12/2024, 12:51 - Ahmadou Ba: Studio creatives est bon pour la creation d'images. Très pratique pour amuser les enfants à créer des cartes de voeux ou autres https://studio.creativefabrica.com/flow

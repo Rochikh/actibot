@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 606
+Messages: 9
+
+=== CONTENU ===
+28/09/2024, 10:59 - +41 76 372 28 94: Merci @33662364404. Vu qu'en passant par l'API, OpenAI ne conserve pas les données. Vu qu'il n'y a pas d'identification ou de login des élèves. Vu que rien n'est stocké sur le serveur et le code est en open source. Je pense être du coup aux normes de la RGPD 😅 ! <Ce message a été modifié>
+28/09/2024, 11:07 - Francois Bocquet: Ben non ! Pourquoi ? Parce que ce qui compte c’est le traitement de données à caractère personnel, celle de l’enseignnt et celles des élèves même si c’est un pseudonyme éleve qui est transmis au sous traitant (ici open Ai). Le fait que rien ne soit stocké durablement ni conservé n’empêche pas qu’il y ai des traitements. Le fait que le code soit open source n’a aucune conséquence sur la conformité RGPD. En plus il est obligatoire de mettre en place un contrat de sous traitance entre l’éditeur open Ai et le responsable de traitement (ton chef d’établissement ou ton recteur ou ton Ministre). Donc possible de mettre un tel traitement en conformité mais il reste du boulot. Le plus simple serait de disposer d’un service dédié à l’éducation opéré par le Ministère lui même ou par un sous traitant avec lequel le Ministère contracte dans les clous. Sinon ça sera vraiment très compliqué…
+28/09/2024, 11:12 - Rochane: Plus je m'intéresse à ce règlement et moins je comprends. Il est vraiment trop rigide et je comprends pourquoi les acteurs IA comme Meta ou OpenAI ont demandé à la communauté européenne d'assouplir leurs règlements
+Les US innovent, la Chine copie et l'Europe réglemente 😁 <Ce message a été modifié>
+28/09/2024, 11:46 - +41 76 372 28 94: Mais le site est totalement anonyme !? Tenez, je l'ai ouvert pour 10 minutes si vous voulez tester. https://educh.at <Ce message a été modifié>
+28/09/2024, 12:17 - Rochane: <Médias omis>
+28/09/2024, 12:25 - ‎+33 6 61 37 49 55 est parti·e
+28/09/2024, 12:27 - Fred IA: Quand notebooklm générera un podcast en français, ce sera vraiment top 😀
+28/09/2024, 12:32 - Jean-Marc Everard: Ah oui ! Déjà qu’on parvient à faire des choses assez bluffantes avec Notebooklm (je l’ai transformé en accompagnateur de carrière pour les fonctionnaires fédéraux avec l’aide du centre de carrière du SPF BOSA et en ai fait la démo aux responsables RH qui étaient scotchés, tout ça sur base de docs publics). Mais si en plus on en fait des podcasts dans une langue au choix, ça va devenir un incontournable pour moi!

@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 24
+
+=== CONTENU ===
+09/09/2024, 20:01 - +33 6 34 15 77 84: je ne pourrai pas me connecter ce soir j’ai un impondérable sorry
+09/09/2024, 21:08 - +33 6 76 04 48 20: @ patrick Briand, je n’ai pas bien compris ce que tu as dit au sujet du webinaire à venir…
+09/09/2024, 21:16 - Pierrick BRIAND: Apolearn propose un nouveau Webinaire sur le thème de l’accessibilité et l’IA le 27 septembre à 14h
+https://apolearn.com/webinaire-comment-rendre-accessibles-vos-formations-aux-personnes-en-situation-de-handicap-grace-a-lia/
+09/09/2024, 21:29 - ‎+44 7713 863550 est parti·e
+09/09/2024, 22:27 - Rochane: Lien du Replay du live de ce soir
+https://drive.google.com/file/d/1fzFYrS7ZtDN7ndrDcoEXrGMVho2R1gQe/view?usp=drivesdk <Ce message a été modifié>
+09/09/2024, 22:28 - +33 6 74 05 09 80: Merci @33649535198 🙏
+09/09/2024, 22:35 - +33 7 63 74 10 73: Merci ! Très intéressant ! Y a t’il des frais d’inscription ? 🤔
+09/09/2024, 22:38 - +33 6 34 15 77 84: merciiiiii
+10/09/2024, 06:08 - +33 7 88 41 43 86: Non, aucun frais n’est demandé, il suffit de compléter un formulaire de contact.
+10/09/2024, 08:40 - Rochane: Par rapport à ce que l'on disait hier sur le live. Si on donne tous nos échanges à une IA et on lui pose la question, est-ce pertinent ? Les premiers résultats  : 🙂
+*je veux créer une image en ayant le texte le plus fidèle, que conseille la communauté*
+Réponse de l'IA : La communauté a pas mal d'expérience sur la génération d'images avec texte intégré. Le rendu du texte, c'est un vrai défi pour l'IA ! Voici ce qu'on peut te conseiller :
+🥇 Idéogram.ai : Le champion du texte !
+Gratuit pour 100 images/jour.
+Spécialisé dans l'intégration de texte, il est souvent plus précis et lisible que les autres.
+Interface simple et en français.
+Offre plusieurs styles et une option de recherche d'images.
+🥈 Stable Diffusion 3 (sur HuggingFace):
+Open source, puissant mais un peu plus technique (en anglais).
+Gratuit mais il faut un peu bidouiller.
+Offre un contrôle total sur les paramètres.
+Texte moins fiable qu'Ideogram, souvent besoin de retouches.

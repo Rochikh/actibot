@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 16
+
+=== CONTENU ===
+23/11/2023, 10:01 - Jacques BARATTI: Je note la réticence de certains donc, si vous l'avez utilisé que vaut le résumé fait ?
+23/11/2023, 10:43 - fm Florent iA: Bah les Cassandre oublient qu'ils dévoilent toute leur vie sur les réseaux sociaux, utilisent eux même des mails  réputés pour leur partage de donnees implicite (gmail ?... 🙄 )...
+L'implicite est le coeur de la problématique. Si c'est annoncé c'est toujours plus compliqué que de faire signer un km de papier de conditions d'utilisation. Peut être revoir l'annonce sous forme de condition d'utilisation au km 🙄 ( pince sans rire...)
+23/11/2023, 10:47 - fm Florent iA: Peut être faite une IA sur le sujet de comment faire passer la pilule sans perdre de temps / ça pourrait être intéressant de créer une démarche facilitant l'acceptation
+23/11/2023, 11:44 - Jacques BARATTI: Pour convaincre des personnes réticentes à l'utilisation d'un logiciel comme Fireflies pour enregistrer les échanges en audio et faire un résumé de réunions, vous pouvez mettre en avant les points suivants :
+Gain de Temps et Efficacité : Expliquez que Fireflies.ai permet d'automatiser la prise de notes et la transcription des réunions, ce qui économise un temps précieux et augmente l'efficacité du processus de suivi des réunion​
+​】.
+Précision et Fiabilité : Soulignez la capacité de Fireflies à fournir des transcriptions précises et fiables, ce qui réduit le risque d'erreurs humaines dans la prise de note​
+​】.
+Accessibilité et Recherche Facile : Mettez en avant la fonctionnalité de recherche de Fireflies, qui permet de retrouver facilement des informations spécifiques dans les transcriptions des réunion​
+​】.
+Résumés Intelligents : Mentionnez la fonction de résumés automatiques de Fireflies, qui aide à extraire les points clés et les décisions prises lors des réunion​
+​​
+​】.
+Compatibilité avec Diverses Plateformes : Rassurez-les sur la facilité d'intégration de Fireflies avec plusieurs applications de vidéoconférence et systèmes d'exploitatio​
+​】.

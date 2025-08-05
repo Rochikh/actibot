@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 14
+
+=== CONTENU ===
+05/04/2025, 20:55 - Votre code de sécurité avec +216 97 510 891 a changé. Appuyez pour en savoir plus.
+05/04/2025, 20:57 - ‎+216 97 510 891 est parti·e
+05/04/2025, 21:01 - Francois Bocquet: La nouvelle fonctionnalité #Discover de NotebookLM permettra de trouver des documents de référence en ligne en fonction des descriptions de sujets. ! https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews
+05/04/2025, 21:02 - Francois Bocquet: Google a ajouté une nouvelle fonctionnalité à NotebookLM, qui permet à l'outil de prise de notes basé sur l'IA de trouver ses propres sources web pour les résumer et les commenter . Au lieu de télécharger manuellement des sources comme des documents ou des liens YouTube, les utilisateurs peuvent désormais appuyer sur le bouton « Découvrir » et décrire simplement le sujet qu'ils souhaitent approfondir. L'outil rassemble ensuite les sources web pertinentes.
+05/04/2025, 22:26 - Gregoire IA: on parle depuis peu de DeepSite comme alternative à Manus et je suis à en train de le tester
+est-ce que qqun le fait aussi ? j'ai l'impression que ce qu'on developpe n'est pas mis en mémoire dans son historique de profil, je me trompte ?
+05/04/2025, 22:27 - +32 477 45 68 37: On vient de faire quelques modifs et normalement le jeu est plus responsive sur mobile en portrait 🙂
+05/04/2025, 22:27 - Votre code de sécurité avec ~ Milady Coco a changé. Appuyez pour en savoir plus.
+05/04/2025, 22:27 - Gregoire IA: Bolt est comme Manus, on grille trop de crédits pour rien et on est vite limité
+App creator de Poe est dans la meme lignée, à ne pas faire attention on peut manger son crédit mensuel en une semaine 😛
+05/04/2025, 22:41 - +33 6 72 75 43 48: Ludovic Salenne a publié une vidéo sur deepsite
+05/04/2025, 22:52 - Gregoire IA: oui mais je ne vois pas ce point de detail
+05/04/2025, 22:52 - Gregoire IA: mn analyse est d'ailleurs un peu plus nuancée
+06/04/2025, 09:15 - +32 475 86 01 57: De ce que j en ai perçu, mais je peux me tromper, deep site fait "juste" du front end html et CSS. Après, si on veux rendre fonctionnel, faut coder.

@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 23
+
+=== CONTENU ===
+bit.ly/veilleIA2025
+17/06/2025, 19:46 - estelle Duterage Drion IA: C’est quoi de la curation? <Ce message a été modifié>
+17/06/2025, 19:48 - Rochane: En gros, c'est filtrer une grande masse de sources et l'organiser dans un but de la partager
+17/06/2025, 19:48 - estelle Duterage Drion IA: Ah ok
+17/06/2025, 19:51 - Fred IA: Et avec jogg.ai, tu as pu générer la vidéo sans abonnement particulier ? C'est top <Ce message a été modifié>
+17/06/2025, 19:53 - estelle Duterage Drion IA: Bravo c’est super je vais essayer moi aussi avec spotbulle mon projet 👍
+17/06/2025, 20:02 - Rochane: Oui, il y a juste un truc à savoir, la version Free ne prend pas les audios au dessus de 10 Mo et le mien faisait plus (17,9 exactement). J'ai dû le convertir avec convertio de WAV à MP3 pour qu'il fasse à peine 4,3 Mo <Ce message a été modifié>
+18/06/2025, 00:49 - Votre code de sécurité avec ~ GUILLAUME Sabrina a changé. Appuyez pour en savoir plus.
+17/06/2025, 23:06 - +32 495 52 00 43: Bonsoir ! J’ai rejoint le groupe il y a quelques jours (grâce à Jean-Marc Everard, que je remercie !).
+Je voulais proposer ici 31 stratégies que j’ai déjà utilisées avec l’IA générative et qui font gagner en temps et en efficacité. J’espère que ça vous plaira !
+1. Dicter un flux de pensée et obtenir une liste de tâches
+Parle librement de ce que tu dois faire, et l’IA transforme ça en liste actionable.
+Idéal pour désencombrer ton mental et structurer ton travail rapidement.
+2. Transformer des notes en planning structuré
+À partir de notes éparses, l’IA construit un planning avec échéances et dépendances.
+Parfait pour passer du chaos à l’action concrète.
+3. Créer des check-lists pour tâches récurrentes
+L’IA génère des listes à cocher pour tes routines pro : réunions, bilans, projets.
+Tu gagnes en rigueur et en tranquillité.
+4. Rédiger un compte-rendu de réunion
+Tu envoies une transcription ou des notes brutes, l’IA fait un CR propre et hiérarchisé.
+Adaptable au niveau de formalité souhaité.
+5. Réécrire un texte dans un autre style

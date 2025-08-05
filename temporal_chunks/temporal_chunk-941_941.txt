@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 22
+
+=== CONTENU ===
+Je génère un script avec ChatGPT, en lui définissant le sujet, le nombre de case, nombre et description des personnages. Pour le script je lui demande de générer les dialogues mais aussi de détailler les scènes.
+Puis grâce a DALL-E je génère les cases. Grave aux seed et gen_id tu arrives facilement a garder la persistance des personnages
+16/09/2024, 22:31 - +33 6 74 05 09 80: Puis je mets tout ça en forme avec Canva
+17/09/2024, 06:20 - +33 6 72 75 43 48: Merci pour ce message peux tu m’envoyer les liens linkedin en mp ?
+17/09/2024, 06:20 - Votre code de sécurité avec +32 495 63 83 13 a changé. Appuyez pour en savoir plus.
+17/09/2024, 07:06 - Votre code de sécurité avec +32 495 63 83 13 a changé. Appuyez pour en savoir plus.
+17/09/2024, 08:15 - +33 6 32 22 97 21: Bonjour à tous,
+Aujourd’hui, avec Catherine nous offrons un GPT pour aider à créer des plans de communication.
+Belle journée
+https://www.linkedin.com/posts/annemariecuinier_learning-communication-innovation-activity-7241687438044147712-w9X1?utm_source=share&utm_medium=member_ios
+17/09/2024, 08:17 - +33 6 34 15 77 84: whaooo génial merci ☺️
+17/09/2024, 08:23 - ‎Iulia Grosman AIM a demandé à ajouter +32 475 37 41 75 et +32 487 21 67 49.
+17/09/2024, 08:37 - Votre code de sécurité avec +32 495 63 83 13 a changé. Appuyez pour en savoir plus.
+17/09/2024, 10:21 - JulienIA: Bonjour à tous, j’ai créé une vidéo adressée aux débutants qui vous permet d’apprendre en 6 minutes comment faire un excellent prompt avec ChatGPT et obtenir de meilleurs résultats. Elle est en anglais, avec une traduction auto possible en français.
+Voici les outils IA utilisés pour la créer :
+HeyGen : avatar
+ElevenLabs : voix
+Leonardo : décors et personnages
+Chatgpt : aide à l’écriture du scénario et du script
+Autres outils : Adobe Premiere Pro (montage) et After Effects (effets visuels)
+Vos retours sont les bienvenus ! Dites moi si une autre vidéo sur un sujet en particulier vous intéresserait.
+(Et… Likez et abonnez vous svp, c’est gratuit et ça m’apporte beaucoup de soutien 😀)

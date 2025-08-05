@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 12
+
+=== CONTENU ===
+19/04/2024, 07:52 - +689 89 60 06 24: Bonjour
+Il me semble avoir vu ici un outil pour récrire les textes en lve, garder le sens du texte mais avoir un niveau du cecrl différent. Quelqu’un aurait la référence ?
+19/04/2024, 08:52 - +33 6 88 57 53 04: Bonjour ChatGPT le fait très bien !
+19/04/2024, 09:11 - +689 89 60 06 24: Oui, je pensais avoir vu une ia dédiée aux langues.
+19/04/2024, 09:15 - +32 479 58 54 12: Je n'avais pas compris votre question car vous utilisez des abréviations avec lesquelles je ne suis pas familière. Du coup, j'ai demandé à Chatgpt de m'en expliquer le sens. Il le fait parfaitement !
+Et franchement, c'est un usage qu'il faudrait largement conseillé aux élèves, au grand public... car cela pourrait vraiment  faciliter la communication dans bien des cas.
+------
+La phrase que vous avez partagée semble être une demande de recommandation pour un outil capable de réécrire des textes en français à différents niveaux de compétence linguistique selon le Cadre européen commun de référence pour les langues (CECRL). Voici une explication détaillée :
+1. **Bonjour** : Cette partie est simplement une salutation.
+2. **Il me semble avoir vu un outil pour récrire les textes en lve** : L'expression "en lve" est probablement une erreur de frappe ou une abréviation mal choisie. Il se peut que la personne voulait écrire "en langue étrangère" ou utilisait "lve" comme abréviation de "langue vivante étrangère", ce qui est courant dans le contexte éducatif pour désigner les langues non maternelles.
+3. **garder le sens du texte mais avoir un niveau du cecrl différent** : Cette partie de la phrase explique que l'outil recherché doit pouvoir modifier le niveau de langue du texte (par exemple, de B1 à C1 selon le CECRL) tout en préservant le sens original du texte. CECRL (Cadre Européen Commun de Référence pour les Langues) est un système utilisé pour évaluer et décrire la maîtrise d'une langue.
+4. **Quelqu’un aurait la référence ?** : Ici, la personne demande si quelqu'un connaît ou pourrait fournir une référence (c'est-à-dire une suggestion ou un lien) pour cet outil.

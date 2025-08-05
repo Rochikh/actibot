@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 9
+
+=== CONTENU ===
+03/11/2024, 10:54 - Francois Bocquet: Pour la première question : pour que ce traitement soit conforme il faut effectivement que le chef d’établissement ai inscrit au registre ce traitement et que tu ai vérifié cette inscription ou questionne le chef d’établissement sur ce point. Il est vraisemblable que ça ne soit pas fait et que par conséquent ce traitement soit illégal.
+03/11/2024, 11:25 - ‎+33 6 37 64 30 94 est parti·e
+03/11/2024, 12:16 - Francois Bocquet: Pour le second : les IP ne sont pas anonymes par principe (jurisprudence existante) mais elles sont effectivement anonymisees par groupement par le proxy de l’école (même si elle reste reidentifiables par le responsable de traitement de l’établissement si la connexion est réalisée avec un login et un mot de passe. Ensuite l’IP reste une DCP depuis le domicile et depuis le portable d’un élève. Même si tu ne gère pas de lof dans l’application normalement ton serveur web gère des logs (y compris pour des raisons légales ou de cyber sécurité). Ces logs sont des traitements de données à caractère personnel. Le travail que tu as fait est un excellent travail de minimisation des risques. Mais ça reste un traitement de DCP qui doit être inscrit au registre de l’établissement pour ton instance. La même démarche doit être réalisée pour chaque instance. C’est pour cette raison qu’une instance peut être conforme et une autre pas conforme tout en utilisant le même logiciel.
+03/11/2024, 12:49 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+03/11/2024, 12:50 - +41 76 372 28 94: Ok, mais non : j'ai supprimé les ip des logs du serveur pour les élèves uniquement (pas pour la page enseignant qui demande le mot de passe). Je ne savais pas que c'était possible, mais Apache permet ça.
+03/11/2024, 12:51 - +33 6 34 15 77 84: merci super utile 🤗
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.

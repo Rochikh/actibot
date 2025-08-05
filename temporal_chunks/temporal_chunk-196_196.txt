@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 13
+
+=== CONTENU ===
+08/02/2024, 16:08 - Jacques BARATTI: C'est certainement le LLM le plus utilisé au niveau mondial et suivant la demande il réduit ses performances pour permettre un accès à tous...
+08/02/2024, 16:11 - Ahmadou Ba: En pédagogie on en besoin de données fiables et rapidement, mais il vous tourne en rond pendant longtemps avant de données des réponses partielles. J'ai déjà un abonnement à GPT 4 mais franchement ça commence à être très limité. Je ne sais pas si vous avez fait ce constant.
+08/02/2024, 16:13 - Jacques BARATTI: oui idem, je suis "en pause" car j'ai atteins la limite des messages… Pour les sujets sur lesquelles je travaille j'ai testé d'autres IA (gratuites) avec des résultats moins bons
+08/02/2024, 16:25 - Rochane: Personnellement, je pense que chat gpt est le meilleur outil d'intelligence artificielle générative pour l'instant par rapport à aux autres. Maintenant, concernant ton prompt, je trouve qu'il est pas complet. Peut-être que tu devrais l'élaborer un peu plus, lui donner plus de contexte et puis aussi lui donner un rôle sur ce que tu n'as pas fait. Après, il y a peut-être aussi des GPTs  qui font ça de façon beaucoup plus précise. Avant de tirer des conclusions hâtives, je pense qu'il faut tester encore plus
+08/02/2024, 16:35 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 16:42 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 16:44 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 16:47 - Ahmadou Ba: Ce message a été supprimé.
+08/02/2024, 17:02 - Rochane: Avec très peu de modifications, j'ai obtenu ça https://chat.openai.com/share/596d41ce-67cb-4079-a0d1-5a43d623c102
+08/02/2024, 17:44 - ‎+33 6 58 61 98 09 est parti·e
+08/02/2024, 22:15 - Thierry VANOFFE: Attention Bard et Duet AI deviennent GEMINI depuis aujourd'hui et c'est vraiment (enfin !) du lourd ce que Google vient de sortir. A suivre dans les prochains jours.
+08/02/2024, 22:17 - Guillaume CLEMENT: je suis dessus à l'instant @33681508047
+08/02/2024, 22:18 - Guillaume CLEMENT: c'est assez ouf j'avoue

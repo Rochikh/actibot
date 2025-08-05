@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 14
+
+=== CONTENU ===
+03/10/2024, 09:10 - Francois Bocquet: Malheureusement non. Cette opération ne s’appelle pas de l’anonymisation mais de la pseudonymisation. C’est une mesure de minimisation car elle protège vis à vis du sous traitant (si l’éditeur du service a bien ce statut) mais n’empêche pas le RGPD de s’appliquer. Par ailleurs une adresse IP est une donnée à caractère personnel (voir jurisprudence). Il faut s’informer car une donnée a caractère personnel utilise une definition (art 4) qui est bien plus large que « des infos perso ». Celles ci sont des donnés à caractère personnel directement identifiantes. La definition d’une DCP c’est toute information relative à une personne identifiable de façon directe ou indirecte (par le responsable de traitement).
+03/10/2024, 09:12 - Francois Bocquet: L’encodage est bien une pseudonymisation. L’anonymisation est un autre processus (se renseigner sur les différences entre les deux processus par exemple sur le site de la CNIL). Si les données sont anonymes le RGPD ne s’applique pas. Si elles sont pseudonymisees le RGPD s’applique.
+03/10/2024, 10:33 - +33 6 49 95 38 23: Faire tourner un modèle en local supprime ces soucis.
+03/10/2024, 10:49 - Lucie: Merci @33649535198 pour ton soutien 🙏
+Je vous lis même si je commente ou réagis peu.
+J'ai plein de nouveautés pour le mois d'octobre qui devraient aider les pédagogues pour développer les compétences en IA et en créativité
+03/10/2024, 10:50 - Lucie: <Médias omis>
+03/10/2024, 10:51 - Lucie: <Médias omis>
+03/10/2024, 10:52 - +33 7 44 11 22 11: Bonjour Lucie
+Où puis-je trouver ton nouveau livre sorti aujourd'hui ?
+03/10/2024, 10:52 - +33 7 44 11 22 11: Trop bien 😍
+03/10/2024, 10:52 - +32 493 87 42 05: Magnifique !
+03/10/2024, 10:53 - Lucie: <Médias omis>
+03/10/2024, 10:53 - Francois Bocquet: Ben non ! Ça reste un traitement de données à caractère personnel (DCP). Il est encadré de la même façon par le RGPD. Mais ça simplifie les choses puisque pas de relation avec un sous traitant (donc ça évite les contrats et avenants) mais ça nécessite une évaluation des risques (AIPD), une inscription au registre par le responsable de traitement et une information des personnes concernées. Ce qui n’est que très rarement réalisé et qui par conséquent rend le traitement illégal :-(

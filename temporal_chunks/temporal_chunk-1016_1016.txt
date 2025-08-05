@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 22
+
+=== CONTENU ===
+V. Redéfinition des rôles des établissements d'enseignement supérieur
+Ce chapitre met l'accent sur la nécessité pour les universités d'évoluer pour répondre aux attentes des étudiants, en intégrant l'IA non seulement dans les programmes, mais aussi dans l'infrastructure éducative elle-même.
+VI. Vers un avenir axé sur l'IA : équilibre entre adoption et régulation
+La conclusion souligne l'importance de trouver un équilibre entre l'adoption de l'IA et sa régulation, en veillant à ce qu'elle soutienne la pensée critique et ne la remplace pas. L'importance de la préparation des étudiants à un avenir automatisé est réaffirmée.
+30/09/2024, 20:41 - Jean-Marc Everard: "Un monde du travail" bien sûr et pas une mode de travail 😂
+30/09/2024, 20:45 - +32 476 87 27 04: Ordering a Pizza in 2024
+CALLER:     	Is this Pizza Hut?
+GOOGLE:  	No sir, it's Google Pizza
+CALLER:    	I must have dialled a wrong number, sorry.
+GOOGLE: 	No sir, Google bought Pizza Hut last month.
+CALLER:      OK. I would like to order a pizza.
+GOOGLE:   Do you want your usual, sir?
+CALLER:     My usual? You know me?
+GOOGLE:   According to our caller ID data sheet, the last 12 times you called you ordered an extra-large pizza with three cheeses, sausage, pepperoni, mushrooms and meatballs on a thick crust.
+CALLER:    	Super! That’s what I’ll have.
+GOOGLE: 	May I suggest that this time you order a pizza with ricotta, arugula, sun-dried tomatoes and olives on a whole wheat gluten-free thin crust
+CALLER:  	What? I don’t want a vegetarian pizza!
+GOOGLE: 	Your cholesterol is not good, sir.
+CALLER:  	How the hell do you know that?
+GOOGLE: 	Well, we cross-referenced your home phone number with your medical records. We have the result of your blood tests for the last 7 years.
+CALLER:  	Okay, but I do not want your rotten vegetarian pizza!  I already take medication for my cholesterol.
+GOOGLE: 	Excuse me sir, but you have not taken your medication regularly.  According to our database, you purchased only a box of 30 cholesterol tablets once at Lloyds Pharmacy, 4 months ago.

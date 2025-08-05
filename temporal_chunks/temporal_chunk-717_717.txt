@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 16
+
+=== CONTENU ===
+13/07/2024, 08:55 - +33 6 79 02 09 95: Bonjour, pour ceux que ça intéresse, le AI act de l'UE a été publié en version française hier : https://www.linkedin.com/posts/activity-7217415617056776192-y1zo?utm_source=share&utm_medium=member_android
+13/07/2024, 09:25 - Rochane: Merci Raphaël, Florence l'a partagé hier, Juste au dessus 🙂
+13/07/2024, 09:55 - +33 6 79 02 09 95: Sorry je viens d'arriver dans le groupe et j'ai pas l'historique 😅
+13/07/2024, 11:49 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+13/07/2024, 12:17 - Fred IA: Bonjour. Avez-vous déjà testé un gpts qui permette de retranscrire correctement un fichier audio en texte ?  Je viens de faire le test avec celui-ci mais ça semble ne pas fonctionner (en tout cas, depuis mon iPhone): https://chatgpt.com/g/g-uG8COVuC0-whisper-transcriber
+13/07/2024, 12:18 - Fred IA: (Le cas échéant, une autre solution qui serait gratuite) Merci par avance, belle journée à toutes et tous
+13/07/2024, 14:17 - +33 6 37 28 05 42: Leonardo AI
+13/07/2024, 14:17 - +33 6 37 28 05 42: https://leonardo.ai
+13/07/2024, 14:19 - +33 6 79 02 09 95: https://www.gladia.io/
+13/07/2024, 14:19 - +33 6 79 02 09 95: 10h de transcription gratuite par mois 😉
+13/07/2024, 14:33 - +33 7 44 11 22 11: C'est énorme ! 😍
+13/07/2024, 14:36 - +33 7 63 58 01 55: Bonjour, question un peu hors sujet mais quand même un peu liée à l'IA : je cherche un outil (pas nécessairement d'IA) qui permet de guider une personne pour identifier les tâches qu'elle fait au quotidien dans son travail. L'idée étant de lister ces tâches de manière aussi précise et exhaustive que possible pour pouvoir ensuite voir là où des outils d'IA générative pourraient aider les personnes à effectuer leurs tâches.
+13/07/2024, 14:47 - Vincent DROUOT: Perso j’ai opté pour Airtable (l’Excel du futur) 😌
+13/07/2024, 14:55 - +32 479 94 80 38: Scribe (cemea)
+13/07/2024, 15:01 - Rochane: Vous avez supprimé ce message
+13/07/2024, 15:27 - +33 7 66 30 56 52: https://goblin.tools mais je crois que c’est seulement en anglais

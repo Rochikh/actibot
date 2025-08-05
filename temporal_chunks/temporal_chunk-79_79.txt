@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 10
+
+=== CONTENU ===
+13/11/2023, 17:03 - +32 498 78 46 36: Non. Quand vous partagez un gpt avec un utilisateur qui n'a que gpt 3.5 turbo, cela lui indique qu'il n'a pas *encore* accès à cette fonctionnalité. Question de temps donc. Au niveau rentabilité du modèle pour openai je ne sais pas.
+13/11/2023, 17:05 - Jacques BARATTI: Merci pour la discussion, attendons donc nous aurons sans doute de l'information plus précise
+13/11/2023, 17:14 - Rochane: S'il a du succès, tu vas gagner de l'argent 🙂
+13/11/2023, 17:17 - Jacques BARATTI: Je n'ai pas compris comment (en fait je cherche surtout à ne pas en perdre…). En tant que concepteur je paye les frais des utilisateurs (tarifs que tu as fournis). Si l'accès au ChatBot est libre et gratuit c'est moi en tant que concepteur qui paye ! Pour que l'utilisateur paye il faut donc construire et gérer un site marchand ?
+13/11/2023, 17:19 - Rochane: En fonction de l'utilisation des GPT, les plus utilisés seront monétisés mais bon, un peu comme Youtube, il faut avoir une grosse audience
+13/11/2023, 17:21 - Jacques BARATTI: je comprends bien Rochane, mais entre temps toutes les demandes faites seront facturées sur le compte du concepteur ? C'est bien cela ?
+13/11/2023, 17:22 - Rochane: Je suppose. En tout cas, j'ai déjà utilisé l'API Openai dans une automatisation make et pour une utilisation d'une cinquantaine de fois, j'en ai eu pour 2 EUR environ
+13/11/2023, 18:53 - Thierry VANOFFE: Bonjour JAcques, est ce que 20 balles par mois c'est pas à la portée de tous vus les services rendus par chat GPT 4 Plus ? N'est ce pas plus utile qu'un abonnement Netflix ou 2 paquets de clopes ? 😉
+13/11/2023, 18:55 - Jacques BARATTI: Entièrement d'accord avec toi Thierry, mais la question n'est pas la (d'ailleurs je les paye les 25 € par mois car j'y trouve de l'intérêt) mais les utilisateurs des GPTs, à priori ils ne vont pas payer leur utilisation qui pour eux sera gratuite (incluse avec GPT4, c'est nous qui allons la payer !
+13/11/2023, 18:59 - Thierry VANOFFE: Sinon je paie 20 balles, y a eu de l'inflation par chez vous ? je suis en France à Lille.

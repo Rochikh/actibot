@@ -1,0 +1,43 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 35
+
+=== CONTENU ===
+- 1 Dicter un flux de pensée et obtenir une liste de tâches
+Parle librement de ce que tu dois faire, et l’IA transforme ça en liste actionable.
+Idéal pour désencombrer ton mental et structurer ton travail rapidement.
+- 2 Transformer des notes en planning structuré
+À partir de notes éparses, l’IA construit un planning avec échéances et dépendances.
+Parfait pour passer du chaos à l’action concrète.
+- 3 Créer des check-lists pour tâches récurrentes
+L’IA génère des listes à cocher pour tes routines pro : réunions, bilans, projets.
+Tu gagnes en rigueur et en tranquillité.
+- 25 Construire une carte mentale à partir d’idées
+Tu listes des idées, l’IA les organise en mindmap ou logique thématique.
+Utile pour clarifier un projet ou brainstormer.
+- **2 Traitement et mise en forme de documents**
+- 4 Rédiger un compte-rendu de réunion
+Tu envoies une transcription ou des notes brutes, l’IA fait un CR propre et hiérarchisé.
+Adaptable au niveau de formalité souhaité.
+- 15 Fusionner plusieurs documents
+Tu envoies plusieurs textes, l’IA les synthétise en un tout cohérent.
+Utile pour faire un rapport d’activité ou une note de synthèse.
+- 27 Mettre en forme des données brutes
+L’IA reformule et organise une matière brute (listing, brainstorm, verbatim).
+Parfait pour gagner en lisibilité.
+- 28 Rédiger une notice ou procédure
+Tu expliques un processus oralement ou en vrac, l’IA en fait une fiche claire.
+Utile pour transmettre et capitaliser.
+- **3 Réécriture et adaptation de contenu**
+- 5 Réécrire un texte dans un autre style
+Tu donnes ton texte, et l’IA le reformule en plus formel, plus inclusif, plus fluide, etc.
+Gain de temps et montée en qualité.
+- 16 Adapter un texte à un nouveau public
+L’IA réécrit ton contenu pour un lectorat différent (élues, usager·ères, expert·es…).
+Elle adapte le ton, le vocabulaire, les références.
+- 6 Ébaucher une lettre de motivation ou une offre de service
+Tu donnes ton contexte, l’IA te propose une trame argumentée.
+Parfait comme point de départ à personnaliser.

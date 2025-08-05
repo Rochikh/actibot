@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 18
+
+=== CONTENU ===
+26/06/2025, 12:26 - ‎+33 7 77 30 51 77 a demandé à rejoindre le groupe.
+26/06/2025, 12:49 - ‎+33 7 77 30 51 77 a rejoint ce groupe grâce à son lien d’invitation
+26/06/2025, 12:49 - Rochane: Bienvenue au groupe de l'UC Lyon avec qui j'ai eu une intervention 🙂
+26/06/2025, 13:01 - +33 7 85 03 62 08: Hello ! :)
+26/06/2025, 14:15 - Rochane: Si vous voulez tester Veo 3 gratuitement durant un mois ( générer des vidéos avec audio) , il faut un vpn US  et prendre un essai d'un mois à Google Gemini gratuit ( se désabonner immédiatement pour ne pas oublier)
+26/06/2025, 14:15 - +33 7 85 03 62 08: Merci pour le tips !
+26/06/2025, 14:16 - +33 6 52 73 73 42: Je connais des data center qui vont (encore plus) chauffer ! 😅
+26/06/2025, 15:11 - +33 7 80 42 87 32: Bonjour à tous,
+A l'université nous avons des licences Copilot, certains d'entre vous ont-il déjà testé de créer des agents IA avec ?
+26/06/2025, 15:29 - Gregoire IA: Des agents ou des assistants ?
+26/06/2025, 15:49 - +33 7 80 42 87 32: On voudrait créer des simulations, études de cas pour les étudiants
+26/06/2025, 15:52 - +33 7 80 42 87 32: Donc plus agents
+26/06/2025, 15:52 - +33 6 89 54 90 68: Simulations de quoi ?
+26/06/2025, 15:53 - +33 6 89 54 90 68: il y a pas mal de solutions déjà existantes
+26/06/2025, 15:54 - +33 7 80 42 87 32: Il s'agirait de cas pratiques en toxicologie par exemple, le chatbot prendrait le rôle d'un internet et donnerait le context à l'étudiant qui pourrait alors demander des précisions (antécédents, symptômes) et demander de faire des analyses etc
+26/06/2025, 15:54 - Rochane: C'est vrai qu'il y a une distinction entre agent et assistant comme le dit @15144328040 . Pour les licences gratuites ou edu, on peut créer des agents mais sans base de connaissances j'ai l'impression ( enfin uniquement des URL) et pour les agents IA, c'est mieux paramétrable, notamment avec une base de connaissances PDF...
+À valider car je ne maîtrise pas très bien cet écosystème
+26/06/2025, 15:55 - +33 7 80 42 87 32: Effectivement sur Copilot, en tout cas avec la version de notre université on peut uniquement donner des URLs et pas de documents

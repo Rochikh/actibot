@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 15
+
+=== CONTENU ===
+26/06/2024, 15:20 - Rochane: Pas compris, tu mets un pdf dans Gpt 4 et tu récupères un ppt?
+26/06/2024, 15:31 - +33 6 40 65 69 66: non, je répondais à une question sur l’évaluation! sorry si les conversations se mélangent.
+26/06/2024, 16:12 - Ahmadou Ba: Ah d'accord, pourquoi ne pas entrainer un GPT avec la grille pour ensuite ne lui donner que les travaux à evaluer. Cela évite d'avoir à écrire de longues requête, le nombre d tokens est decompté sur l'entrée aussi. J'ai essayé un gpt avec premier critère à evaluer mais le rendu est assez bon.
+26/06/2024, 16:49 - +33 6 40 65 69 66: Oui c’est ce que j’ai fait. J’ai donné les critères puis les rapports à file. Il a fait également des comparaisons entre les rapports selon mes demandes spécifiques.
+26/06/2024, 17:32 - Fred IA: Le créateur de Dicte ai (encore merci Rochane, pour cette pépite 👍) : https://www.linkedin.com/posts/ciprianmelian_les-meilleurs-outils-dia-en-france-t%C3%A9moignage-activity-7210533967014313984-8I9C?utm_source=share&utm_medium=member_ios
+26/06/2024, 17:35 - Fred IA: Testé pas plus tard qu'hier, la transcription est vraiment parfaite. Le CR généré peut par contre être amélioré car il y a un certain nombre de redites. Mais en passant par gpt-4o et en lui soumettant la transcription, on arrive vraiment à d'excellents résultats
+26/06/2024, 17:37 - Fred IA: Pour ceux qui utilisent un iphone, il vient d'y avoir une MàJ de cette application en test sur Testflight <Ce message a été modifié>
+26/06/2024, 21:06 - Rochane: https://youtu.be/F_WfIzYGlg4?feature=shared
+Vidéo 100 % IA <Ce message a été modifié>
+27/06/2024, 13:23 - Votre code de sécurité avec +33 7 83 16 44 23 a changé. Appuyez pour en savoir plus.
+27/06/2024, 15:11 - ‎+33 6 51 48 42 36 a demandé à rejoindre le groupe.
+27/06/2024, 16:14 - ‎+33 6 17 72 04 98 a demandé à rejoindre le groupe.
+27/06/2024, 17:31 - ‎+33 6 32 89 69 37 est parti·e
+27/06/2024, 19:49 - ‎+33 6 51 48 42 36 a rejoint le groupe à partir de la communauté.
+27/06/2024, 19:49 - ‎+33 6 17 72 04 98 a rejoint ce groupe grâce à son lien d’invitation

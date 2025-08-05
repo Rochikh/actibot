@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 14
+
+=== CONTENU ===
+18/01/2025, 11:47 - Ahmadou Ba: Oui mais avec Discord, cela peut etre bien propre mais après tout cela dépend des usagers, s'ils sont pas disciplinés, rien ne pourrait se faire.
+18/01/2025, 12:43 - Laurent The Cure: J'ai découvert discord en intensif avec le début de ma formation et je suis conquis
+18/01/2025, 12:54 - Clément Cahagne: Autres outils communautaires à tester pour les intéressés (je ne dis pas qu'il faut changer, je propose ici deux outils c'est tout
+Frond
+Circle
+18/01/2025, 12:59 - Rochane: Tous ces outils c'est bien sauf que souvent, soit il faut installer l'App ou il faut bosser sur laptop. Le gros avantage de WhatsApp est sa popularité
+18/01/2025, 13:02 - Francois Bocquet: Et ne pas oublier le bot régulièrement mis à jour par Rochane
+18/01/2025, 15:30 - Daniel Pappalardo: Je préfère Kling que je trouve au-dessus surtout dans sa version payante. J'ai fait des vidéos assez impressionnantes avec des images faites par Leonardo pour des serious games, les élèves étaient bluffés. Cela dit je n'ai testé que la version gratuite de Hailuo qui a toujours été plus rapide à générer les vidéos mais au rendu moins sympa. Après Kling nécessite parfois de corriger ses prompts et de bien utiliser les prompts négatifs parce qu'il peut être effectivement bien drôle dans certains hallucinations 😁
+18/01/2025, 15:47 - Clément Cahagne: C'est vrai. Whatsapp est intégré par toutes et tous c'est l'avantage. Je me pose des questions sur quitter l'univers meta suite aux déclarations nouvelles de leur CEO mais bon... Sans whatsapp.. Compliqué je pense 🙂
+18/01/2025, 15:50 - +33 6 99 86 52 93: null
+18/01/2025, 16:04 - +32 479 82 01 20: Telegram peut-être ? (Je ne sais pas si c'est mieux mais bon) 😊
+18/01/2025, 16:07 - Rochane: 2 milliards, par mois, d'utilisateurs pour WhatsApp VS 950 millions pour Telegram
+18/01/2025, 16:12 - +33 6 28 55 82 18: On peut aussi lui spécifier en français
+18/01/2025, 16:19 - +33 6 71 11 12 91: Je ne pense pas qu'on dépasse les 950 millions d'utilisateurs sur ce groupe 😉

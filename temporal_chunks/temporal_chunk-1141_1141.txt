@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 12
+
+=== CONTENU ===
+Utilisation textuelle plutôt que graphique : Les tâches comme les recherches textuelles consomment beaucoup moins d’énergie que les générations d’images ou de vidéos. Si une réponse textuelle suffit, privilégie ce type d'interaction.
+Utiliser des IA spécialisées : Pour certaines tâches spécifiques, il existe des modèles plus légers que les modèles génératifs géants (comme ChatGPT). Par exemple, des IA spécialisées dans la traduction, le résumé ou l’analyse des données sont souvent plus efficaces.
+3. Soutenir les entreprises responsables
+Choisir des plateformes engagées dans la durabilité : Certaines entreprises technologiques investissent dans des centres de données écoresponsables, utilisant des énergies renouvelables (solaire, éolienne). Renseigne-toi sur les pratiques de tes fournisseurs de services IA.
+Encourager les démarches vertes : Lorsque tu choisis une IA, privilégie celles qui sont transparentes sur leur impact environnemental et qui compensent leurs émissions carbone.
+4. Prendre conscience des coûts cachés
+Eviter l’automatisation inutile : Ne pas automatiser des tâches qui peuvent être facilement réalisées par des humains sans impact énergétique, surtout si elles demandent peu de ressources humaines mais beaucoup de calcul pour une machine.
+Limiter le traitement en temps réel : Si tu n’as pas besoin de réponses instantanées, privilégie des solutions asynchrones ou différées, qui demandent moins de puissance de calcul immédiate.
+5. Utiliser l'IA en complément de tes propres compétences
+Améliorer tes propres capacités cognitives : Les IA sont là pour t’assister, mais apprendre à résoudre des problèmes ou à trouver des informations par toi-même, quand c'est possible, peut être plus efficace et éviter une surutilisation de l’IA.
+Collaborer avec l'IA : Utilise l’IA pour des tâches complexes ou pour augmenter tes capacités créatives, mais garde toujours une vision critique de ses réponses, pour éviter les erreurs ou biais.
+6. Être conscient de l'empreinte éthique et sociale

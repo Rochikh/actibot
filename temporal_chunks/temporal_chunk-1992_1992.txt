@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 584
+Messages: 14
+
+=== CONTENU ===
+22/03/2025, 21:54 - Francois Bocquet: Gemini accessible sans compte Google
+Depuis le 19 mars 2025, il est possible d’utiliser Gemini sur le web sans avoir à se connecter à un compte Google.
+22/03/2025, 22:35 - +33 6 71 11 12 91: Ah, alors je vais peut-être jeter un coup d'œil ! Merci pour l'info !
+22/03/2025, 22:49 - Ahmed Yagoubu: Je cherche une plateforme gratuite. Est ce possible ?
+22/03/2025, 22:58 - +41 79 258 90 36: Il faut s'annoncer par un login sinon on est bridé. Résultats sur des photos de 1913 excellents.
+22/03/2025, 23:00 - +33 6 03 06 04 34: LTX ideal
+22/03/2025, 23:03 - +33 6 03 06 04 34: Une idée si vous souhaitez l’éditer redonnez la à chatGPT . Demandez lui de l’extraire et de la refaire avec le GPT whimsical vous pourrez alors la modifier selon vos souhaits
+23/03/2025, 07:30 - +32 498 78 46 36: C'est étonnant pour le login car je viens d'essayer avec deux ordinateurs différents, avec des connections InPrivate et jamais cet IA ne me demande jamais de login (c'est d'ailleurs normalement le cas de toutes les IA qui sont sur les spaces de HuggingFace
+23/03/2025, 07:43 - +32 498 78 46 36: Je vous fais un petit retour de ma très courte expérience sur manus.im :
+- J'avais demandé un accès début mars et cela a pris quelques semaines avant que je ne reçoive un code d'accès (j'ai dû expliciter le pourquoi du comment je voulais avoir accès à Manus)
+- Quand vous êtes sur Manus vous avez droit à 3 "tâches" (qui s'apparentent à des projets). Et ensuite il faut attendre 2h avant qu'une nouvelle tâche ne soit disponible.
+- Pour chaque projet, Manus travaille sur un ordinateur virtuel spécifique (c'est sans doute pour ça qu'ils ne font pas entrer tout le monde directement, sinon les serveurs seraient full en quelques secondes).
+- Comme dans l'excellente vidéo explicative de Ludo Salenne, vous lui donner une tâche/projet à réaliser et vous voyez absolument tout de ce que l'ordinateur virtuel fait.
+- D'après la complexité de votre projet cela peut prendre quelques minutes ou plusieurs heures. Mais ce n'est pas grave puisque votre projet continue à se construire sur l'ordinateur virtuel Manus. Il faut juste de temps en temps revenir sur le site car si Manus a un doute ou une questions sur votre projet, elle vous posera des questions avant de continuer. Un vrai chef de projet ce Manus :D

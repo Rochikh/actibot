@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 564
+Messages: 16
+
+=== CONTENU ===
+04/10/2024, 15:09 - Jean-Marc Everard: Inscrit aussi 👍🏻
+04/10/2024, 15:11 - Jean-Marc Everard: Hello, quelqu’un a-t-il testé le nouveau mode d’interaction avec ChatGPT 4O : Canva? Des retours ? Je le ferai ce soir sinon… 😉
+04/10/2024, 15:11 - Hoang: Nouvelle fonctionnalité de ChatGPt —> ChatGPT canvas qui fonctionne à peu près comme Artifact de Claude https://youtu.be/XYWlDGKr4GA?si=Q73qtZPmGsBaFKZ4
+04/10/2024, 15:13 - Hoang: Vraiment intéressant comme fonctionnalité avec la possibilité de demander des modifications directement depuis le texte généré, à voir les limites
+04/10/2024, 15:13 - Rochane: Moi je suis agréablement surpris par ce 4o with canvas au niveau de l'écriture. Tu as une palette de fonctionnalités intéressantes qui te laissent dans ton contenu pour l'améliorer. Pour moi, c'est le curseur de niveau que j'aime beaucoup
+04/10/2024, 15:14 - Jean-Marc Everard: Merci beaucoup. Du coup je vais aller tester aussi 👍🏻
+04/10/2024, 15:15 - Jean-Marc Everard: Merci Lucie, passerez-vous par Bruxelles dans ce Tour de France ? (Pour le cyclisme ce ne serait pas la première fois 😉)
+04/10/2024, 15:18 - Jean-Marc Everard: Effectivement, si on peut automatiser l’adaptation du
+Niveau et l’intégrer à une plate-forme ou un LMS, on améliore l’inclusivité!
+04/10/2024, 15:19 - Rochane: https://www.ocr.best/ m'a l'air vraiment très bien et gratuit
+04/10/2024, 15:22 - ‎+32 495 20 19 14 a demandé à ajouter +32 498 38 03 35.
+04/10/2024, 15:30 - ‎+33 6 82 82 74 21 a demandé à rejoindre le groupe.
+04/10/2024, 15:40 - ‎+33 6 82 82 74 21 a rejoint ce groupe grâce à son lien d’invitation
+04/10/2024, 15:40 - ‎+32 495 20 19 14 a ajouté +32 498 38 03 35
+04/10/2024, 15:42 - Perrine: Bonjour, je suis en train d'extraire les conversations de tchats  avec des informations sourcées très intéressantes dedans, quelle solution d'IA générative utiliser pour mettre de l'ordre dans toutes ces notes à votre avis? Par avance, merci !
+04/10/2024, 15:45 - Rochane: Notebooklm de Google ( gratuit) te permet d'importer jusqu'à 50 sources par bloc sachant que tu peux créer de nombreux blocs. Et dans chaque bloc, tu peux sélectionner plusieurs ou toutes les sources et interagir avec ces sources. Tu peux même créer un podcast à partir de ces sources 🙂

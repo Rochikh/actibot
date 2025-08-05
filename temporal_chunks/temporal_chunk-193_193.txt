@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 24
+
+=== CONTENU ===
+07/02/2024, 19:34 - Jacques BARATTI: Est-ce que l'un(e) d'entre vous a déjà utilisé le GPT "Master AI" de Ludo Salenne ? J'ai une question sur son fonctionnement
+07/02/2024, 20:01 - Rochane: Je l'ai testé une fois quand il l'a créé et en a parlé dans sa vidéo. J'avoue que depuis, j'en ai pas eu utilité
+07/02/2024, 20:44 - Jacques BARATTI: Il démarre en créant des assistants IA qui ont des taches spécifiques à faire
+Il promet de prévenir quand le travail est fini et... rien ne se passe. Bizarre non ?
+07/02/2024, 20:46 - Rochane: Si mes souvenirs sont bons, il est réglé pour faire étape par étape et tu dois lui demander de continuer à chaque fois qu'il s'arrête. Si jamais tu veux que l'on fasse des essais, on continue en privé 🙂
+07/02/2024, 20:50 - Jacques BARATTI: j'ai posé une question, obtenu 7 Assistants IA et ensuite cet affichage
+07/02/2024, 20:51 - Rochane: Passe en privé c'est mieux
+07/02/2024, 23:15 - ‎+32 493 82 25 34 a rejoint le groupe à partir de la communauté.
+07/02/2024, 23:20 - ‎+32 493 87 42 05 a rejoint le groupe à partir de la communauté.
+08/02/2024, 11:11 - ‎Clotilde IA a rejoint le groupe à partir de la communauté.
+08/02/2024, 11:14 - Clotilde IA: Bonjour à tous,
+Je viens d’être acceptée dans le groupe et je vous en remercie.
+08/02/2024, 11:18 - Laurent The Cure: Bienvenue Clotilde
+08/02/2024, 11:20 - +262 692 05 20 05: Bienvenue @32471263622
+08/02/2024, 11:20 - ‎+33 7 68 31 25 20 est parti·e
+08/02/2024, 11:50 - Guillaume Singeot: Bonjour. Quelqu'un aurait un outil d'IA générative accessible sans compte et en français, comme ChatGPT (que du texte) svp?
+08/02/2024, 11:53 - Rochane: Perplexity et copilot
+08/02/2024, 12:03 - Guillaume Singeot: Super 👍
+08/02/2024, 12:31 - +33 6 76 04 48 20: Bienvenue !
+Je ne savais pas qu’on pouvait écrire (je pensais que c’était réservé à l’admin).
+Donc je vous remercie de m’avoir accueilli le 31/01…
+08/02/2024, 13:08 - Laurent The Cure: Bienvenue Richard
+08/02/2024, 15:01 - Ahmadou Ba: Bjr.
+08/02/2024, 15:02 - Ahmadou Ba: J'ai comme l'impression que Copilot dépasse de loin ChatGPT dans des tâches de conception de supports pédagogiques qui intègrent des données extraites en ligne (sur le net).

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 14
+
+=== CONTENU ===
+Au sommaire de cette revue médiation et mediations - teluq - octobre 24 :
+- Le développement professionnel des enseignants à et avec l’intelligence artificielle : une revue de littérature
+- Gouverner l’école à l’heure de l’IA : synthèse des connaissances sur la gouvernance scolaire basée sur les données
+- ChatGPT : quel en a été l’usage spontané d’étudiants de première année universitaire à son arrivée?
+- Élaboration et validation d’un référentiel éthique de l’intelligence artificielle en Éducation : cas du contexte marocain
+- Perceptions et usages d’un chatbot comme tuteur de cours en sciences de l’éducation
+- Les défis de l’IA dans l’éducation : de la protection des données aux biais algorithmiques
+- Les transformations éducatives à l’ère de l’intelligence artificielle : entretien avec le professeur Adıgüzel
+07/11/2024, 19:17 - +33 6 46 86 16 67: Bonjour ! Dans la formation que j’anime on prend un peu de distance sur l’humanisation de l’IA. Des collègues ont sorti cet article : https://www.epsiloon.com/tous-les-numeros/n39/ia_et_maintenant_elle_nous_ment/ je vais creuser mais je voulais un peu votre avis 😁
+07/11/2024, 19:24 - +33 6 71 11 12 91: Je suis quelque peu dubitatif sur cet article, qui dit d'une part "En fait, nous ne comprenons pas bien les processus de décision interne des grands modèles de langage." et ailleurs "En regardant dans les états internes des algorithmes, nous constatons qu’ils savent ce qui est vrai et qu’ils ont choisi de dire délibérément quelque chose de faux".
+On ne comprend pas mais on comprend tout, cela me rappelle la rhétorique de Trump, une référence dans la vérité scientifique (alternative)...
+Machiavel, je te vois ! 😂
+07/11/2024, 19:44 - ‎+33 6 82 82 74 21 a ajouté +33 7 57 02 28 21
+07/11/2024, 19:50 - Rochane: J'ai lu dans un autre article que les chercheurs combattent les mensonges des IA via la détection d'anomalies, l'explicabilité des systèmes, des tests rigoureux et un encadrement réglementaire strict des modèles à haut risque.

@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 8
+
+=== CONTENU ===
+17/12/2024, 16:57 - Francois Bocquet: Elle a le droit si et seulement si elle est au carré vis à vis du RGPD pour la mise en œuvre du traitement !
+17/12/2024, 17:03 - +33 6 19 75 63 49: Je sors de la fresque de l’IA créée et animée par @33679020995 et je vous conseille chaudement de suivre cette formation pour réfléchir ensemble sur les enjeux de l’IA et à une expérimentation!
+17/12/2024, 17:04 - +33 6 79 02 09 95: Merci Julie pour ce feedback ! La prochaine aura lieu en janvier pour ceux qui veulent :  https://my.weezevent.com/fresque-ia-pedagogiques
+17/12/2024, 17:30 - François JOURDE: Merci comme toujours à François pour son expertise. Est-ce pareil si l'IA générative est installée en local sur le PC d'un prof et fonctionne de manière déconnectée ? Même obligation RGPD ?
+17/12/2024, 17:45 - Adrien Bock IA: Bonjour, je cherche des partenaires qui ont des projets d’IA concrets à présenter lors d’un salon.
+Plus d’infos en MP
+17/12/2024, 18:26 - Francois Bocquet: Dans ce cas les obligations sont les mêmes que lors de l’utilisation d’un tableur installé sur la machine. Ça simplifie la relation à un sous traitant qui n’existe plus mais d’un point de vue légal le RGPD s’applique aussi. Tout va dépendre des finalités de traitement et des données qui seront ajoutées. Pour être plus clair : il n’y aura pas de logis ni de traces d’utilisation collectée par un tiers, mais ça dépends ce que tu fais avec. Par exemple si c’est demander de générer un contre à propos d’un philosophe ou sur un pays avec un QCA et un glossaire -> peu de DCP traitees. Si tu demande au LLM d’évaluer automatiquement un travail d’élève ou de proposer une synthèse de conseil de classe à partir d’un export CSV depuis l’application de vie scolaire avec nom et prénom des élèves alors c’est un traitement à risque important. C’est bien le traitement qui défini le risque et jamais le logiciel lui même qu’il soit en local ou depuis un SaaS. Mais le SaaS complique les choses du point de vue contractuel.
+17/12/2024, 18:53 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.

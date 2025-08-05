@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 9
+
+=== CONTENU ===
+18/06/2024, 20:03 - Rochane: J'ai automatisé une aide au service de nos formateurs. Il suffit juste qu'ils envoient un email à bftice@bftice.be en expliquant leur problème en lien avec la techopedagogie et ils auront une réponse. Si ça ne marche pas, ils peuvent demander un guichet numérique et on se voit en one to one. Vous pouvez tester et j'en ferai une démo en expliquant la démarche lors du live de jeudi 🙂
+18/06/2024, 20:58 - Pierrick BRIAND: Bonjour @33614272586 ⁩, ton sujet me préoccupe depuis que tu l'as posté. Du coup, j'ai fait un peu de recherches et il semblerait que ce ne soit pas aussi simple que cela n'y paraît. Je suis parti du principe d'intégrer Pongo sur des outils comme ChatGPT ou Perplexity, tous deux dotés d'interfaces conversationnelles, et pour le second, d'un outil de recherche élaboré (peut-être que j’ai fait mauvaise route, si tu peux me le dire…)
+Du coup, c'est un peu compliqué ! Les systèmes doivent être adaptés pour qu'ils puissent communiquer avec l'IA, ce qui demande du travail de développement (et il y a peu de développeurs parmi nous…). D'autre part, il faut s'assurer que les données partagées avec l'IA restent sécurisées et confidentielles (on complexifie un petit peu les choses avec le RGPD et bientôt l'IA Act). J'ai aussi relevé que, pour faire du RAG, Perplexity et ChatGPT sont des outils génériques qu'il faut personnaliser pour qu'ils comprennent bien le contexte spécifique de chaque entreprise. Enfin, les utilisateurs de Pongo ont besoin d'être formés pour utiliser efficacement ces outils complémentaires d'IA.
+19/06/2024, 00:02 - Karim BS: Ami.es du soir, bonsoir,
+Pour les personnes initiées à Canva…
+J’ai voulu génère un carrousel et le publier sur LinkedIn (directement depuis CANVA) mais c’est limité à 6 ou 7 Dias … pourtant je vois de nombreux postes avec davantage de Dias …
+Une idée ? 💡
+19/06/2024, 00:19 - +212 644-562660: essaie avec Figma plutot https://www.youtube.com/watch?v=L-VwAxJ9hnY
+19/06/2024, 00:27 - Karim BS: La limite de diapositives est-elle supérieure? Merci 🙏

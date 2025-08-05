@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 550
+Messages: 15
+
+=== CONTENU ===
+22/01/2025, 08:13 - Rochane: Teste la même chose avec Deepseek, tu serais impressionnée de la qualité des réponses
+22/01/2025, 09:17 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+22/01/2025, 09:37 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+22/01/2025, 09:41 - Francois Bocquet: +1 pour moi ;-)
+22/01/2025, 09:54 - +33 6 43 60 12 59: Deepseek a changé ses CGU le 20 janvier, peut on lui faire un peu plus confiance du coup ?
+22/01/2025, 09:56 - Rochane: Vous avez supprimé ce message
+22/01/2025, 09:59 - Rochane: ce sont les terms of use qui ont été mises à jour mais les privacy Policy , dernière mise à jour Last Update:  December 05, 2024
+22/01/2025, 10:12 - +32 479 94 80 38: Ah chouette je vais regarde ça merci!
+22/01/2025, 10:39 - StéphaneIA: J'ai vu de bon retour sur Deepseek aussi mais vu le pays d'origine et les doutes sur certaines parties de son entrainement pour occulter des infos je resterai éloigné personnellement
+22/01/2025, 11:49 - +33 6 62 46 04 14: Et ils te permettent de t'orienter sur les cas d'usage si parfois tu ne sais pas comment utiliser ChatGPT, surtout si la bibliothèque de prompt est bien faite. Il y en a une autre très bien aussi, avec moteur de recherche : https://www.aiforwork.co/
+22/01/2025, 12:45 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+22/01/2025, 13:31 - +33 6 42 26 64 70: Pour plus d’infos sur Deepseeker (post de Flavien Chervet que je vous conseille de suivre)
+🐋 🐳Gloups ! Le chinois #DeepSeek vient de lâcher une BOMBE. Sans aucune annonce, au détour d’un tweet, ils viennent de sortir GRATUITEMENT l’une des meilleure #IA du marché : DeepSeek-R1 (pour « Reasoner-1 »).
+👀Cela fait un petit moment que je suis les travaux incroyables de DeepSeek AI et que j’utilise leur système d’IA. Pourquoi ? Parce que leur #chatbot est complètement gratuit, et TRES performant. Je n’arrête pas de me demander comment ils font…
+💪Leur IA DeepSeek V3 était déjà l’une des meilleures du marché, avec en outre des fonctionnalités avancées comme la gestion de documents, la recherche web et une large fenêtre de contexte de 64 000 tokens.

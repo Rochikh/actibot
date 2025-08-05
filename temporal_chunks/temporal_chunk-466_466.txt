@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 6
+
+=== CONTENU ===
+24/04/2024, 09:40 - Francois Bocquet: @33664505667 pour monoral.net la question relève de l’application du RGPD en particulier parce la notion de donnée a caractère personnel n’est pas comprise par l’éditeur du service. La voix est une donnée a caractère personnel que la personne soit identifié ou non. Par ailleurs comme beaucoup de services produits par des équipes bénévoles la notion de responsabilité de traitement n’est pas non plus comprise alors qu’elle est fondamentale surtout en contexte éducatif. La plupart des services analysés ici ne peuvent être utilisés en contexte pédagogique avec des élèves mineurs en France. Ça n’empêche pas de les découvrir et d’en tester les potentialités mais ça empêche de les utiliser en déploiement si l’on respecte la loi comme tout agent public.
+24/04/2024, 09:47 - Francois Bocquet: @33664505667 pour ce qui est de la différence entre un algorithme pré déterminé (le chat bot en question) ou tout est anticipé par le développeur et tout est basé sur des tests conditionnels, il est important d’expliquer aux élèves que c’est très éloigné des algorithmes utilisant de la statistique et de l’entraînement pour interpréter des phrases humaines non anticipées et générer une réponse non anticipée. Ce sont deux chatbots mais qui ne partage que le nom et le fait d’être utilisé avec un écran (et un clavier). Pour autant exercer l’esprit critique est absolument nécessaire et peut se pratiquer avec bien d’autres situations que celle de la programmation d’une situation fermée avec des interactions basées sur le choix entre trois boutons tél que proposé dans le chat utilisant du markdown.
+24/04/2024, 09:48 - Francois Bocquet: Partagent
+24/04/2024, 09:51 - Francois Bocquet: Proposition d’éducation à l’éthique et à l’esprit critique pour des collégiens proposé par une doctorants du MIT en 2019 et traduit par mes soins. Ça reste utilisable même 5 ans après… https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit
+24/04/2024, 09:54 - ‎+212 654-133552 a rejoint le groupe à partir de la communauté.
+24/04/2024, 09:57 - +33 7 63 58 01 55: Ce message a été supprimé.

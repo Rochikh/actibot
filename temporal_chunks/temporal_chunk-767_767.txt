@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 20
+
+=== CONTENU ===
+31/07/2024, 11:49 - Vincent DROUOT: <Médias omis>
+31/07/2024, 12:50 - Hoang: Bonjour à tous! Je cherche un outil qui permet une automatisation de contenu pour insta et autre réseaux sociaux, l’objectif étant de nourrir du contenu régulièrement et automatiquement grâce à l’IA. J’avais vu une article dessus mais je ne retrouve plus ce lien…
+31/07/2024, 12:51 - Rochane: Make.com
+31/07/2024, 12:51 - Votre code de sécurité avec +33 6 23 84 29 25 a changé. Appuyez pour en savoir plus.
+31/07/2024, 12:53 - +32 479 82 01 20: Zapier ou Make 😊
+31/07/2024, 12:53 - Rochane: Un peu longue mais explique tout
+https://youtu.be/p-41VqY6s3Q?feature=shared
+31/07/2024, 12:56 - Hoang: Super merci !
+31/07/2024, 13:32 - +32 479 58 54 12: Je me posais la question sur l'usage des bases de données opendata par les outils d'IA. Ni ChatGPT, ni Perplexity ne veut y accéder.
+La réponse de Perplexity :
+"Je n'ai pas accès direct aux fichiers d'open data car je suis un assistant conversationnel sans connexion aux bases de données. "
+Dommage, car l'IA est soi-disant en manque de données pour être plus efficace, mais elle n'utilise pas les données disponibles
+31/07/2024, 14:16 - Pierrick BRIAND: L'IA Act entre en vigueur. BDM présente le calendrier de mise en application : https://www.blogdumoderateur.com/ia-act-calendrier/?utm_source=blogdumoderateur&utm_medium=email&utm_campaign=newsletter_quotidienne&utm_content=media-4
+Bonne lecture!
+Pierrick
+31/07/2024, 15:10 - ‎+33 6 47 00 06 69 a demandé à rejoindre le groupe.
+31/07/2024, 15:10 - ‎+33 6 47 00 06 69 a rejoint le groupe à partir de la communauté.
+31/07/2024, 17:33 - +33 6 47 00 06 69: Salut, est ce que quelqu un aurait une expérience de formateur pour m indiquer quelles sont les meilleurs IA pour créer un cours? Merci
+31/07/2024, 17:35 - Rochane: Vous avez supprimé ce message
+31/07/2024, 17:38 - Mickaël: Je ne suis pas sûr qu'il y ait de bonnes ou de mauvaises IA pour créer un cours. Il y a surtout des prompts plus ou moins adaptés au regard de vos objectifs pédagogiques.

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 16
+
+=== CONTENU ===
+13/01/2024, 12:20 - Laurent The Cure: un BOT de l'IA ? 🤔 😉
+13/01/2024, 16:31 - Vous avez supprimé +234 916 194 1836
+14/01/2024, 17:18 - Rochane: https://ai.digital-hipster.com/marketing-digital/plus-ai-le-meilleur-outil-pour-creer-et-editer-des-presentations-avec-lia/#Combien_coute_Plus_AI
+14/01/2024, 21:30 - Rochane: Top ton podcast Lucie, je le conseille à toutes et à tous... Les échanges avec ton interlocuteur sont pertinents. Ce serait cool que l'on réserve, dans les lives de la communauté, un petit moment pour parler usages au lieu d'outils 🙂 <Ce message a été modifié>
+15/01/2024, 05:19 - Rochane: Voici les 10 points clés de la transcription en liste à puces :
+1. L'émission "Learning by doing" vise à comprendre les enjeux actuels de l'apprentissage et mettre en lumière les bonnes pratiques.
+2. Lucie a un master en ingénierie pédagogique et en maths/informatique, et travaille depuis 10 ans dans l'innovation pédagogique.
+3. L'IA peut aider à créer des formations innovantes et engageantes avec un professeur virtuel interactif.
+4. Il faut apprendre à "murmurer à l'oreille de l'IA" et structurer correctement les requêtes pour obtenir de bons résultats.
+5. Lucie utilise des bibliothèques de requêtes textuelles et d'images pour gagner en productivité dans son travail.
+6. La transcription vocale permet de gagner du temps, par exemple pour les corrections.
+7. Son livre contient plus de 100 requêtes et vidéos pour maîtriser l'usage de l'IA en formation.
+8. Ne jamais faire totalement confiance aux réponses de l'IA basées sur des probabilités.
+9. Utiliser l'IA de façon pertinente et écologique, à bon escient.
+10. Apprendre le langage adapté pour "parler" et interagir efficacement avec l'IA.
+15/01/2024, 13:09 - Larissa: Salut tout le monde, j'ai besoin de votre experience et vos idées. J'aimerai construire un bot qui demande des questions dependant d'une arborescence que je lui donne et puis me donne une réponse selon ce que j'ai défini dans mon arborescence. Vous preconisez un GPT ou Bot comme Botsonic par exemple?

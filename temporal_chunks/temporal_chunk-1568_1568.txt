@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 18
+
+=== CONTENU ===
+12/01/2025, 10:58 - +32 479 82 01 20: Jamais eu de pubs sur YT
+12/01/2025, 10:58 - +33 6 71 11 12 91: La réponse m'intéresse fortement !
+Et +1 pour Brave, que j'utilise en effet pour tout ce qui est Google, vu que Firefox est trop blindé anti-GAFAM pour que Google s'exécute dessus... 😃
+12/01/2025, 10:58 - Rochane: Sur téléphone ça marche aussi
+12/01/2025, 11:00 - +33 6 71 11 12 91: <Médias omis>
+12/01/2025, 11:30 - +33 6 85 03 31 84: Pour écouter les vidéos en arrière-plan sur un *iPhone* avec Brave, il faut aller dans les Paramètres ==> Affichage ==> Médias ==> Activer l’audio en arrière-Plan (c’est différent d’un Android)
+12/01/2025, 11:31 - Votre code de sécurité avec ~ Li a changé. Appuyez pour en savoir plus.
+12/01/2025, 12:40 - +44 7776 747507: Impeccable, merci @33649535198.
+Est-ce que quelqu'un l'a testé? (Avec la possibilité d'intervenir au cous du podcast)?
+12/01/2025, 12:42 - Rochane: Tu veux dire notebook lm ? Oui, je suis intervenu mais tu peux le faire qu'en anglais
+12/01/2025, 12:55 - Gregoire IA: Salut le groupe, je vous partage le lien vers mon dernier carousel dans lequel je parle de ElevenLabs et ce qu'on peut en faire pour un cours.
+En bas du post, je partage un lien pour participer à un webinaire dans lequel je vais créer avec vous un agent conversationnel....vocal !
+ChatGPT a le sien mais.on ne peut pas personnaliser son comportement, vendredi 24 on fera le nôtre (avec voix clonée svp 😅)
+https://www.linkedin.com/posts/aribautg_vos-contenus-et-activit%C3%A9-dapprentissage-activity-7284067825604808704-5okW?utm_source=share&utm_medium=member_android
+12/01/2025, 12:56 - Gregoire IA: Mon IA n'a pas encore son numéro de téléphone mais on peut l'intégrer partout où on peut écrire du code. Intégration Moodle sans aucun pb !
+12/01/2025, 13:19 - +44 7776 747507: Exact; merci très utile.
+12/01/2025, 21:31 - ‎+33 7 86 52 45 76 est parti·e
+13/01/2025, 07:27 - Rochane: OpenBolt, la version open source et gratuite de Bolt qui permet de créer des applications sans coder, simplement en discutant avec l’IA (y compris en mode vocal), et ce gratuitement

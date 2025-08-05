@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 15
+
+=== CONTENU ===
+16/07/2024, 22:14 - Hoang: Si tu crées des adresses Gmail pour tes étudiants ? C’est ce qu on fait pour nos stagiaires (genre stagiaire1@gmail.com, etc,..)
+16/07/2024, 22:15 - Francois Bocquet: Les adresses de domaine Google pour Éducation peuvent être conformes au RGPD. Possible aussi de créer une adresse générique qui ne sera utilisée que pour ce service
+16/07/2024, 22:15 - Francois Bocquet: Can n’est pas conforme non plus mais ça limite les risques
+16/07/2024, 22:16 - Francois Bocquet: Seules des adresses crées au sein d’un domaine workspace for éducation peuvent proposer des traitements conformes.
+16/07/2024, 22:17 - +1 (613) 890-3412: Solution peu applicable dans la réalité d'un cours, notamment avec les élèves plus jeunes (collège) et l'Education nationale ne travaille pas sous Google 😞
+Mais merci de tenter de m'aider ! <Ce message a été modifié>
+16/07/2024, 22:20 - Letizia ALLEGRINI: Avez.vous essayer opengpt ou poe ai ?
+16/07/2024, 22:21 - Hoang: Il y a HuggingChat qui est gratuit et basé sur plusieurs AI mais je n’ai pas encore pu tester
+16/07/2024, 22:22 - Letizia ALLEGRINI: Huggingchat est très bien mais ne permet pas d'intégrer des documents pdf
+16/07/2024, 22:35 - Francois Bocquet: Il n’y à aucune raison valable de ne pas travailler avec Google ou avec Microsoft en utilisant leurs services dédiés a l’education si les bonnes démarches sont mises en place vis à vis du RGPD.
+17/07/2024, 08:04 - +33 6 87 57 34 90: Pour intégrer les pdf il faut les stocker dans un cloud et proposer à l’assistant de travailler avec les liens direct. Ça fonctionne pas mal
+17/07/2024, 08:09 - Letizia ALLEGRINI: Top 😀
+17/07/2024, 08:33 - Guillaume Singeot: En voilà une bonne idée 👍
+17/07/2024, 08:44 - Rochane: Pour l'instant, les résultats ne sont pas top. J'avais un assistant hugging face, je lui ai mis le lien d'un pdf de mon drive ( ouvert évidemment) mais il n'arrive pas à le lire 🙂‍↔️
+17/07/2024, 09:17 - +33 6 37 28 05 42: J’ai entendu qu’il fallait passer au maximum les fichiers au format txt. L’ia assimilerait facilement ce format 🧐🙂

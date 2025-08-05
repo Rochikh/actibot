@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 13
+
+=== CONTENU ===
+19/11/2024, 20:35 - Francois Bocquet: Pardon c’est bien École Branchée :-)
+19/11/2024, 20:42 - Rochane: C'est quand même fou ce nombre incalculable de ressources et d'outils IA qui sortent tous les jours.
+Ça doit probablement générer une frustration chez pas mal de personnes de ne pas pouvoir tout suivre.
+Je rassure tout le monde, nous sommes tous et toutes dans cette situation et je pense qu'il faut juste accepter de passer au travers de nombreuses innovations et surtout, rien de grave car il est juste IMPOSSIBLE de tout suivre
+19/11/2024, 20:43 - Gregoire IA: suivre est une chose, c'est surtout tester
+il faut accepter de laisser certains tester tout ce qui sort et à d'autres de les intégrer aux projets
+19/11/2024, 20:44 - +32 477 78 78 50: Totalement d’accord, c’est de la folie. Impossible à suivre avec pertinence. Mais cette communauté est donc fort utile 😀
+19/11/2024, 20:44 - Gregoire IA: en tous cas c'est ma posture, je ne peux pas tout tester, je cherche toutefois à intégrer ce qui me parait utile et pertinent pour l'enseignement
+19/11/2024, 21:37 - Daniel Pappalardo: Sinon y a le site de Bertrand Formet (déjà évoqué dans la communauté) qui en teste une par jour et plus spécifiquement pour l'éducation. https://www.uneiaparjour.fr/
+20/11/2024, 08:14 - ‎+33 6 15 34 55 52 a demandé à rejoindre le groupe.
+20/11/2024, 08:52 - ‎+33 6 15 34 55 52 a rejoint ce groupe grâce à son lien d’invitation
+20/11/2024, 09:51 - Jean-Marc Everard: Est-ce que tu utilises Taskade? C’est une app. Qui reste dans mes outils depuis plus d’un an mais finalement je ne l’utilise quasi pas tout en en présentant l’intérêt. As-tu un retour sur un usage?
+20/11/2024, 10:17 - Ahmadou Ba: Oui il est bon pour tout ce qui est créer une liste de tâches, les attribuer à des collaborateurs, il a une IA intégrée pour générer du texte avec 1000 crédits positionnés chaque mois dans la formule free. Jusque la je bosse souvent en solo, du coup je l'utilise que dans le cadre de projet ponctuel pour ne pas perdre le fil. Il se lance à chaque demarrage de l'ordinateur avec une fenêtre persistant donc impossible de l'oublier.

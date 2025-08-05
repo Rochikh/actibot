@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 20
+
+=== CONTENU ===
+30/04/2024, 13:17 - +972 53-261-3820: null
+30/04/2024, 13:18 - Vous avez supprimé +972 53-261-3820
+30/04/2024, 13:57 - +216 97 673 413: Quelqu'un connait un outil qui aurait la capacité d'écrire un PV de réunion en présentiel ou en virtuel ?
+30/04/2024, 14:00 - LIO: <Médias omis>
+30/04/2024, 14:01 - LIO: Je ne sais pas s'il y a un outil qui correspond à ton besoin précis mais tu peux peut être trouver dans cette catégorie
+30/04/2024, 14:03 - +33 6 51 43 08 14: Peut-être qu’une façon de procéder est d’intégrer l’IA dans excel pour faire les analyses croisées dynamiques ?
+30/04/2024, 14:41 - +33 6 51 73 94 67: @Guillaume Bonjour  Guillaume , essaie : numerous.ai   1 € pour 7 jours puis 99 € par an . Belle journée
+30/04/2024, 14:46 - Guillaume Singeot: Potentiellement, oui. Mais comment, si ce n'est passer par Copilot pour Excel (payant) ?
+30/04/2024, 14:57 - +32 484 68 10 13: Bonjour, comment l'as-tu testé ?
+30/04/2024, 16:36 - ‎+44 7554 334183 a été ajouté·e
+30/04/2024, 16:36 - ‎+44 7554 334183 a rejoint le groupe à partir de la communauté.
+30/04/2024, 16:37 - +44 7554 334183: null
+30/04/2024, 19:40 - ‎+33 6 50 55 43 79 est parti·e
+30/04/2024, 21:22 - Votre code de sécurité avec +33 6 50 70 63 31 a changé. Appuyez pour en savoir plus.
+01/05/2024, 07:24 - Fabien IA: Hey ! Merci @41793265140 pour la reco 😀
+01/05/2024, 07:28 - Fabien IA: Merci Julien pour ton message. Non pas de montage de mon côté mais je travaille avec une équipe audiovisuelle à l’affût sur la question. Effectivement, la génération de motion à partir d’une image fixe c’est juste un *must have* 🤩!
+01/05/2024, 07:31 - Fabien IA: Un tout grand merci à la trentaine de membres du groupe qui a répondu au sondage. Je me suis fait une petite session sur firefly ce matin grâce à vous.
+01/05/2024, 07:34 - Fabien IA: 🏋️‍♀️*COACH EN FEEDBACKS* 🏋️‍♀️
+Une talentueuse collègue m’a parlé de https://www.poised.com/
+Tu te souviens de quand tu mettais des croix au collège pour savoir combien de fois ta prof faisait _chhhhhhhttttt_.

@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 20
+
+=== CONTENU ===
+15/05/2024, 20:18 - ‎+33 6 51 88 68 57 a demandé à rejoindre le groupe.
+15/05/2024, 21:45 - ‎+33 6 80 85 91 45 a demandé à rejoindre le groupe.
+15/05/2024, 22:12 - Jacques BARATTI: non je veux bien dire GPT4, j'avais compris que désormais cette version du LLM était accessible aux utilisateurs non abonnées, ainsi que l'utilisation des GPTs, ce n'est pas encore le cas...
+15/05/2024, 22:29 - ‎+33 6 07 83 53 90 a demandé à rejoindre le groupe.
+16/05/2024, 07:50 - ‎+33 6 86 96 79 63 a demandé à rejoindre le groupe.
+16/05/2024, 09:11 - ‎+33 6 62 00 13 87 a demandé à rejoindre le groupe.
+16/05/2024, 09:24 - Aïcha Elouali: https://youtu.be/RngBe1a4hxU?si=YkZQOvgVijE5E5cT
+16/05/2024, 09:27 - Rochane: Vous avez supprimé ce message
+16/05/2024, 10:14 - Pierrick BRIAND: Le début d’une stratégie commerciale qui vise à maintenir leur positionnement sur ce marché si convoité.
+16/05/2024, 11:04 - LIO: Le chant 😅🤣😂
+16/05/2024, 11:07 - ‎+33 6 62 00 13 87 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 11:08 - ‎+33 6 07 83 53 90 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 11:43 - ‎+33 6 80 85 91 45 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 11:43 - ‎+33 6 25 79 50 95 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 11:43 - ‎+33 6 51 88 68 57 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 11:44 - ‎+33 6 86 96 79 63 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 12:52 - +33 6 70 46 13 52: Salut la communauté, connaitriez-vous un outil qui permette la transcription écrite d'un entretien orale? (Exemple pour faciliter le travail dans le cadre d'un mémoire de recherche) outils gratuit de préférence. Merci par avance 😉
+16/05/2024, 12:53 - Clément Cahagne: Gladia ! Français en plus ;-)
+16/05/2024, 12:53 - Fabien IA: Tu dois avoir des contraintes en matière de confidentialité des données non ?
+16/05/2024, 12:56 - Guillaume Singeot: Dans le cadre d'entretien en physique, j' avais poser un micro sur la table et utiliser la   dictée vocale de Google docs . Ça demandait une relecture, la mise en forme, quelques corrections mais ça m'avait fait 90% de la retranscription

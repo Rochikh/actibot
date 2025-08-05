@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 16
+
+=== CONTENU ===
+17/09/2024, 13:55 - Clément Cahagne: Ma remarque couverte d’humour n’était pas là pour rabaisser ta démarche ou le résultat qui en ressort. Mais bien pour mettre en avant un truc que je vois au quotidien : la non prise de recul par rapport à ces outils d’IA. Mes apprenants passent toujours par ce tunnel technologique et n’arrivent pas à en sortir. Ni même à se questionner du « est-ce que j’ai vraiment besoin de l’IA à ce moment là ? »  🙂
+17/09/2024, 14:25 - ‎+32 477 71 22 72 est parti·e
+17/09/2024, 15:36 - +216 25 000 725: Aujourd'hui j'ai testé l'interface de l'IA NotebookLM de Google. Vraiment c'est impressionnant ce qu'elle propose. Vous trouverez ici un retour sur cette expérience https://youtu.be/xPhDKWVKEBI
+17/09/2024, 17:41 - ‎Adrien Bock IA a demandé à ajouter +32 487 77 25 30.
+17/09/2024, 18:23 - ‎+33 6 68 11 13 03 est parti·e
+17/09/2024, 18:39 - Rochane: <Médias omis>
+17/09/2024, 18:39 - ‎Adrien Bock IA a ajouté +32 487 77 25 30
+17/09/2024, 19:30 - ‎+33 6 29 85 32 44 est parti·e
+17/09/2024, 20:29 - JulienIA: No problemo. Je pense que les avatars et voix IA ont tout à fait leur place dans les tutoriels. Cela reste avant tout un choix personnel de l’apprenant.
+17/09/2024, 20:47 - Rochane: Pour voir si un modèle raisonne, il faut lui poser cette question : "combien y a t-il de mots en réponse à cette question ?" Sa réponse a été "La réponse à cette question contient huit mots." . Correct 😀 <Ce message a été modifié>
+17/09/2024, 21:39 - Lucie: Bravo pour la qualité de ton travail. Je vais l'intégrer dans mes conférences pour montrer un bel exemple d'usage SIA
+17/09/2024, 21:52 - Lucie: La réponse m'intéresse aussi
+17/09/2024, 22:11 - +33 6 74 05 09 80: <Médias omis>
+17/09/2024, 22:11 - +33 6 74 05 09 80: <Médias omis>
+17/09/2024, 22:12 - +33 6 74 05 09 80: A ceux qui cherchaient commebt faire des BD voilà 2 petits exemples que j'avais fait. Avec ChatGPT pour le script, DALL-E pour les images et Canva pour la mise en forme
+17/09/2024, 22:13 - +33 6 74 05 09 80: A l'époque je publiais sur LinkedIn des petites BD sur le thème du marketing, pour en expliquer certains concepts.

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 630
+Messages: 10
+
+=== CONTENU ===
+06/05/2025, 10:15 - +33 6 66 98 84 23: Il y a eu une enquête des cahiers pédagogiques sur l'utilisation de l'IA par les lycéens et collégiens :https://www.cahiers-pedagogiques.com/les-eleves-face-a-lia-entre-seduction-et-inquietudes/
+06/05/2025, 10:21 - +33 6 66 98 84 23: Bonjour Rochane ,à partir de quels documents as tu généré ce podcast fort intéressant et avec quelles instructions?Merci
+06/05/2025, 10:26 - +33 6 62 17 05 18: Bonjour la Communauté :) Y-a-t-il parmi vous des personnes qui travaillent sur l'approche par compétences (APC) à l'université ? Plus précisément, le passage ou la transformation de l'approche traditionnelle (évaluation des savoirs) vers une approche vers l'évaluation des compétences (capacité à résoudre des problèmes complexes en mobilisant des savoirs transversaux et des compétences transversales) ? Les IUT t ont été "contraints" il y a 4 ans, dans la douleur avec un modèle imposé. J'ai comme idée de me servir de NoteBookLM pour fournir les sources adéquates et demander à l'outils de produire les premiers documents, brouillons, de travail. Si qqun a déjà entamé cette démarche je serai heureux d'avoir un premier retour de ce genre d'expérimentation. Bonne journée :)
+06/05/2025, 10:28 - Rochane: <Médias omis>
+06/05/2025, 10:29 - Rochane: Le document partagé juste au dessus du podcast et test de la nouveauté podcast de NotebookLM sans aucune personnalisation
+06/05/2025, 10:32 - +33 6 66 98 84 23: C'est ChatGPT qui a réalisé l'infographie ?
+06/05/2025, 10:33 - Rochane: Oui
+06/05/2025, 10:38 - +33 6 03 20 84 81: Moi. Je vous envoie un message privé.
+06/05/2025, 10:39 - +32 475 86 01 57: J entrerai les profils de compétences et les programmes dans notebooklm puis je lui ferai faire des croisements.
+06/05/2025, 11:00 - +33 6 62 17 05 18: Oui c'est la première idée qui vient en tête à la plupart des enseignants. Mais il ne s'agit pas d'un simple mappage ou une redistribution de l'existant, mais plutôt d'un restructuration et d'un découpage logique et harmonieux pour qu'à travers différents cours, différentes situations, de nouvelles modalités d'apprentissage et d'évaluation un étudiant puisse développer une ou plusieurs compétences attendues. Et être capable d'évaluer l'acquisition de ces compétences dans des Situations d'Apprentissage et d'Évaluation (SAÉ), et à travers une démarche réflexive (Portfolio) de lui permettre de développer de nouvelles stratégies pour faire face à une situation inconnue, comme ce sera le cas dans son avenir professionnel.

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 16
+
+=== CONTENU ===
+11/04/2025, 08:25 - Jean-Marc Everard: C'est pas faux 😁
+11/04/2025, 12:11 - +32 498 78 46 36: <Médias omis>
+11/04/2025, 12:28 - +41 76 372 28 94: Dust.tt ou IBM Watsonx.ai <Ce message a été modifié>
+11/04/2025, 13:03 - Votre code de sécurité avec +32 486 62 44 69 a changé. Appuyez pour en savoir plus.
+11/04/2025, 14:04 - +33 6 07 14 45 01: https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+11/04/2025, 14:16 - Francois Bocquet: Le meilleur moyen serait d’utiliser un LLM installé sur ta machine personnelle si elle est assez puissante. Ça te garantirait que rien n’est réutilisable. Sinon les services professionnels (pas celles pour le grand public) t’apportent ces garanties juridiques normalement. Tu as aussi Gemini et CoPilot qui sont OK si utilisé avec un contrat pro (y compris le gratuit pour l’éducation).
+11/04/2025, 14:17 - Clément Cahagne: Essaye https://jan.ai/ en local sur ta machine
+11/04/2025, 14:17 - Francois Bocquet: DeepCoder-14B - L'IA open source qui défie OpenAI o3 en coding -> https://korben.info/deepcoder-14b-ia-code-open-source-alternative-openai.html
+11/04/2025, 14:19 - Francois Bocquet: Attention si utilisation d’API ! C’est different d’un modèle qui tourne localement. Dans ce cas il y bien transmission de données à un tiers…
+11/04/2025, 14:28 - +32 498 78 46 36: Merci pour vos réponses, je vais me renseigner sur tout ce petit monde !
+11/04/2025, 14:30 - Clément Cahagne: Il tourne localement. Tu download le modèle localement sur ton ordi
+11/04/2025, 15:15 - Votre code de sécurité avec ~ Jean-Philippe a changé. Appuyez pour en savoir plus.
+11/04/2025, 15:42 - estelle Duterage Drion IA: Chers amis
+Connaissez vous qqn qui a une expertise en muséographie et qui pourrait aider contre rémunération pour créer une animation interactive à partir de fichiers  ( style on clique sur une date et on a une vidéo qui se lance .
+Ou une application qui pourrait aider .
+On voudrait numériser en partie une fresque sur l’histoire du fondateur de la première école mixte au Maroc : M. KADIRI un éducateur et homme de tous les combats. Merci <Ce message a été modifié>

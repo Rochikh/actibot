@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 15
+
+=== CONTENU ===
+20/11/2023, 10:48 - Jacques BARATTI: C'est fait ! J'ai vue le site https://gptdirectory.cc/ récemment déposé dans la banque de données pas mal 17 000 références. sauf que je n'ai pas trouvé de moteur de recherche avec mots clefs, seulement 4  catégories. j'ai loupé quelque chose ?
+20/11/2023, 10:51 - Rochane: gros problème qu'ils n'aient pas mis d'outil de recherche effectivement
+20/11/2023, 11:09 - Jacques BARATTI: Lettre Intelligence Artificielle n°19 du 20 novembre 2023 : https://bit.ly/3SPrnim (les numéros précédent sont ici : https://bit.ly/46Vgxfd) Bonne lecture
+20/11/2023, 12:56 - David Corona: Bonjour à tous,
+Je vois que ChatGPT est très populaire. Cependant, il y a des questions sur la sécurité des données. Savez-vous s’il y a d’autres outils émergents utilisés par des universités ou grandes entreprises, ou est-ce que ChatGPT domine toujours le marché ?
+20/11/2023, 12:58 - Rochane: Hello David, il y a déjà une formule entreprise de chat GPt qui garantit la non collecte des données de l'entreprise mais il me semble qu'elle est plutôt chère <Ce message a été modifié>
+20/11/2023, 13:01 - Rochane: https://www.blogdumoderateur.com/openai-lance-version-chatgpt-entreprises/
+20/11/2023, 14:27 - +32 498 78 46 36: <Médias omis>
+20/11/2023, 14:32 - +33 7 71 20 50 67: Et voilà Sam Altman est chez Microsoft !
+20/11/2023, 14:46 - +33 7 71 20 50 67: https://www.presse-citron.net/vers-linfini-et-au-dela-microsoft-evoque-son-accord-inedit-avec-openai/
+20/11/2023, 15:36 - +32 498 78 46 36: Tiens j'ai essayé de m'inscrire sur Claude.ai via un VPN mais Anthropic demande une confirmation par sms (et leur liste refuse les +33 et +32). Est-ce que quelqu'un a réussi d'une autre manière 🥲?
+20/11/2023, 15:37 - Rochane: Oui avec une connaissance qui a un numéro anglais 🙂
+20/11/2023, 23:21 - Votre code de sécurité avec ~ Pierre Verbiest a changé. Appuyez pour en savoir plus.
+21/11/2023, 07:02 - Votre code de sécurité avec ~ Pierre Verbiest a changé. Appuyez pour en savoir plus.
+22/11/2023, 08:52 - +32 484 68 10 13: https://www.clubic.com/actualite-509089-depuis-des-pays-pauvres-des-adolescents-payes-une-misere-forment-les-ia-utilisees-par-les-geants-du-numerique.html

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 18
+
+=== CONTENU ===
+04/03/2025, 18:58 - Francois Bocquet: Teams ne le fait pas déjà ?
+04/03/2025, 19:51 - Rochane: <Médias omis>
+04/03/2025, 19:51 - Jean-Marc Everard: @33642266470 je pense que ce sera tout le défi de l’apprentissage demain et en fait déjà aujourd’hui. Comment assurer une culture de base dans beaucoup de domaines (culture scientifique, mathématique, linguistique, historique, géopolitique, culturelle etc.) pour non seulement pouvoir utiliser les IA avec sagesse mais continuer à créer du contenu de valeur (sans lequel les modèles d’IA vont s effondrer de toute manière). Tout le monde le dit : la clef est l’éducation. Et dans le même temps tout le semble regarder ailleurs pour s’en charger..
+04/03/2025, 21:56 - +33 7 86 18 83 63: Hello
+Je cherche des solutions comme studyfetch en open source ou avec un repo github
+C'est une solution IA pour l'éducation
+Est-ce que vous connaîtriez une solution ?
+05/03/2025, 07:42 - ‎+33 6 88 02 55 35 a demandé à ajouter +33 6 32 06 48 28.
+05/03/2025, 07:52 - +33 7 87 35 78 96: <Médias omis>
+05/03/2025, 07:54 - +33 6 88 14 09 17: merci de ton retour...en effet je crois que c'est relier a copilot pro 😉
+05/03/2025, 07:54 - ‎~ Dam a ajouté +33 6 32 06 48 28
+05/03/2025, 09:32 - +33 6 19 89 32 62: @33649535198 que penses tu de Copilot Pro ? J’hésite à le prendre
+05/03/2025, 09:36 - Adrien Bock IA: Pour avoir le résumé, les tâches à faire et enfinI afficher les parties où tu parles de Tel ou Tel sujet, tu dois  cliquer sur « ouvrir dans Stream »
+05/03/2025, 09:37 - Adrien Bock IA: Tout ça n’est possible que avec la version copilot dans la version business d’office
+05/03/2025, 09:37 - +33 6 19 89 32 62: https://legrandcontinent.eu/fr/2025/02/28/grok-musk-vance-lia-et-la-guerre-contre-la-verite-une-conversation-avec-gary-marcus/
+Voici une interview de Gary Marcus sur Grok, sur l’IAG mais surtout sur l’importance cruciale dans le contexte actuel de réglementer l’IA.
+05/03/2025, 09:53 - +33 6 19 04 48 10: Bonjour à tous.
+J’ai une pression temporelle très importante pour traduire des présentations PowerPoint ou Google slide de l’anglais au Français.

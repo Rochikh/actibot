@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 11
+
+=== CONTENU ===
+23/10/2024, 17:47 - +33 6 64 50 56 67: Par ailleurs avez vous pu tester https://pi.ai/onboarding un assistant avec de l’émotion ? Connaissez vous ce modèle ?
+23/10/2024, 17:54 - +41 76 372 28 94: C'est pas juste un ipad ? Je n'en ai pas qui soit assez récent pour tester...
+23/10/2024, 17:57 - +33 6 19 69 87 96: Bonjour à la communauté, Je vous remercie pour tous les astuces et liens mis à notre disposition dans ce forum. Actuellement, j'ai un besoin de doublage de documentaire de 1h27 minutes que j'aimerais passer du français au portugais. Quelqu'un aurait une IA gratuite à me recommander? J'ai essayé https://my.checksub.com/onboarding qui est plutôt bien (sans pour autant pouvoir ajuster la mimique des lèvres au doublage proposé, pour une vidéo de 5 minutes en essai gratuit). Merci pour votre aide. Michel
+23/10/2024, 17:58 - +33 6 19 75 63 49: <Médias omis>
+23/10/2024, 18:00 - +33 6 03 06 04 34: Si vous voulez y avoir accès il faut s’inscrire sur la liste d’attente et pour info j’y suis depuis un bon mois et demi.
+23/10/2024, 18:17 - ‎~ o2 a ajouté ~ Meilyn
+23/10/2024, 18:21 - +33 6 03 06 04 34: Je cautionne j’utilise les deux mais pas pour les mêmes usages. Napkin est très intuitif et surtout l’équipe très attentive à vos retours. Si vous avez des besoins n’hésitez à partager avec eux il y a des chances qu’ils répondent à votre demande .
+23/10/2024, 18:24 - +33 6 03 06 04 34: Vous pouvez utiliser l’option personnaliser avant de générer votre podcast et en mettant le prompt suivant “The two hosts must speak French (ou tout autre langue ) vous obtiendrez un podcast en français . Néanmoins bcp moins bon qu’en anglais avec souvent des problème de prononciation et un accent canadien. Les langues asiatiques ne marchent pas . L’allemand semble bien répondre . <Ce message a été modifié>
+23/10/2024, 18:30 - +33 6 03 06 04 34: Vous avez également Hume mais honnêtement les deux sont très flippants
+23/10/2024, 18:30 - ‎+216 51 832 004 est parti·e
+23/10/2024, 18:30 - +33 6 03 06 04 34: HeyGen le mieux

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 16
+
+=== CONTENU ===
+27/10/2023, 08:20 - Rochane: Confirmation, beaucoup ont opté pour le *mardi 31 octobre à 20h* pour une première rencontre de partage et d'échange autour de l'IA. Afin que la visio soit un minimum cadrée, merci de m'envoyer en privé si vous souhaitez partager un outil ou une pratique. Je vous donnerai le lien ( probablement Zoom) ce week-end 🙂
+27/10/2023, 08:21 - Rochane: Hello, je peux partager un travail exploratoire sur la rédaction de mémoire académique à l'aide de chat gpt 4
+27/10/2023, 08:21 - Rochane: C'est donc la première proposition.N'hésitez pas vous aussi SVP <Ce message a été modifié>
+27/10/2023, 08:22 - ‎+32 471 59 75 84 est parti·e
+27/10/2023, 08:38 - Rochane: Personnellement, je présenterai, en maximum 10 minutes, comment à partir d'un texte généré par l'IA et d'un avatar créé par l'IA, récupérer une vidéo avec l'avatar qui lit le texte. L'outil permet d'avoir un essai mais j'ai une petite astuce ( légale hein) qui permet d'avoir des comptes gratuits 😁
+27/10/2023, 10:20 - +33 7 71 20 50 67: dommage ppur ceux qui ne pourront pas y assister.
+27/10/2023, 10:21 - Son: On pourrait enregistrer la visio ?
+27/10/2023, 10:22 - +32 484 68 10 13: Ça ne sera que partie remise, après ça pourrait être chouette si la visio peut être enregistrée pour les absents 😊
+27/10/2023, 10:53 - Rochane: C'est Guillaume qui va vous envoyer le lien et effectivement, il serait intéressant de partager avec les absent·e·s le Replay 🙂
+27/10/2023, 11:11 - Rochane: https://x.com/RochaneK/status/1717831157369237821?t=MvtZAGWvt4353On-xJ1evQ&s=08
+27/10/2023, 12:09 - +33 6 84 84 42 61: Super! Merci
+27/10/2023, 12:11 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 31/10 20h-21h :
+https://us06web.zoom.us/j/81276204849?pwd=5KLWiYAFf5xxwF3qT2IB5aPEAbbUUt.1
+Meeting ID: 812 7620 4849
+Passcode: 204873
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaitre de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.

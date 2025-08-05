@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 18
+
+=== CONTENU ===
+[1] Transcrire du son en texte : l’autre révolution de l’IA https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/transcrire-du-son-en-texte-l-autre-revolution-de-l-ia-4290033
+[2] Chatbots : l'intelligence artificielle est-elle indispensable - Visiativ https://www.visiativ.com/actualites/actualites/chatbots-lintelligence-artificielle-est-elle-indispensable/
+[3] Agent conversationnel, quand l'IA fait n'importe quoi : les perles des ... https://qantis.co/agent-conversationnel-quand-lia-fait-nimporte-quoi-les-perles-des-conversations/
+[4] Les 25 meilleurs chatbots d'IA en 2024 - Zendesk https://www.zendesk.fr/service/messaging/chatbot/
+[5] Intelligence artificielle (IA) : comment ça fonctionne ? - Meritis https://meritis.fr/intelligence-artificielle-ia-comment-ca-fonctionne/
+[6] ChatGPT, Midjourney, LLM… Qu'est-ce que l'IA générative ? https://fr.blog.businessdecision.com/chatgpt-midjourney-llm-mais-quest-ce-que-lia-generative/
+11/06/2024, 19:23 - Ahmadou Ba: https://www.descript.com/
+Je l'ai testé dernièrement mais il est très bon pour transcrire audio et video. Le texte peoduit peut etre exporté et très fiable.
+Il existe en logiciel qu'on peut installer sur l'ordinateur <Ce message a été modifié>
+11/06/2024, 19:24 - Rochane: Il y a aussi trancript.lol mais pour 30 minutes c'est tout. Après, ça devient payant
+11/06/2024, 19:25 - Ahmadou Ba: Ce message a été supprimé.
+11/06/2024, 19:25 - Clément Cahagne: GLADIA : de loin le meilleur en Speech to Text
+11/06/2024, 19:52 - +33 6 34 15 77 84: merci et sur la pomme???
+11/06/2024, 19:54 - +33 6 25 79 50 95: Merci pour vos réponses dont la qualité n'a d'égale que votre réactivité : grande.
+Mais face à ce choix étendu, quelles seraient vos préférences :
+- un 2 en 1 (transcription et synthèse) payant : mais lequel retenir entre gladia et descript ?
+- des outils gratuits distincts : speechnotes voire transcrip.lol pour la retranscription, et un des agents conversationnels pour résumer ?
+Question subsidiaire les actuelles IAgen multimodales telles que ChatGPT-o peuvent elles aussi enregistrer, retranscrire puis synthétiser ? <Ce message a été modifié>

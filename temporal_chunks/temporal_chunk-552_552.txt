@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 15
+
+=== CONTENU ===
+28/05/2024, 16:56 - Rochane: Tu veux dire si la conversation initiée et arrêtée, pour le dépassement de quota, peut continuer avec chat Gpt 3.5 ?
+28/05/2024, 18:52 - Francois Bocquet: Nouvelle publication de l’UNESCO et en français  : Orientations pour l’intelligence artificielle générative dans l’éducation et la recherche https://unesdoc.unesco.org/ark:/48223/pf0000389901
+28/05/2024, 19:21 - ‎Iulia Grosman AIM a ajouté +32 477 88 54 86
+28/05/2024, 19:22 - ‎+32 471 27 72 76 a été ajouté·e
+28/05/2024, 19:21 - ‎Iulia Grosman AIM a ajouté +32 471 27 72 76
+28/05/2024, 19:41 - ‎+33 6 51 73 94 67 est parti·e
+28/05/2024, 20:10 - +33 6 14 16 68 64: Salut tous le monde. Je cherche des prompts pour adapter des textes aux personnes DYS ou ayant des difficultés de lecture/ compréhension. Savez-vous où je peux trouver ça ?
+28/05/2024, 20:14 - +33 6 49 84 08 41: Intéressé aussi
+28/05/2024, 20:25 - Rochane: Voici quelques idées de prompts d'IA adaptés pour aider les élèves DYS, en se basant uniquement sur les informations pertinentes des résultats de recherche fournis :
+## Adaptation de textes selon le profil de l'élève
+Vous êtes un outil d'adaptation de textes pour les élèves DYS. Voici le texte à adapter : [insérer le texte]. Modifiez la police, la taille, les couleurs, l'espacement selon le profil cognitif de l'élève [insérer le profil] pour faciliter sa lecture. Appliquez les techniques validées par la recherche en neurosciences. Expliquez vos choix d'adaptation.[1][11][17]
+## Génération de questions de compréhension
+Vous êtes un générateur de questions alimenté par l'IA. Voici le texte : [insérer le texte adapté]. Créez un quiz avec des questions à choix multiples, vrai/faux et à trous pour vérifier la compréhension de l'élève DYS. Les questions doivent être adaptées à son profil. Proposez aussi un corrigé expliqué.[15]
+## Décomposition de consignes complexes
+Vous êtes un assistant pour décomposer les consignes. Voici la consigne : [insérer la consigne complexe]. Découpez-la en étapes simples et claires, avec des phrases courtes. Ajoutez des repères visuels si besoin. L'objectif est de permettre à l'élève DYS de bien comprendre ce qui est attendu sans être perdu dans une consigne trop dense.[4]

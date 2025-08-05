@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 11
+
+=== CONTENU ===
+26/11/2024, 09:59 - Rochane: *Petite astuce :*
+Quand les conversations deviennent longues dans une conversation avec Chat GPT ou autre modèle, , ces modèles ont tendance à perdre le fil des échanges. Pour éviter cela,, il est important de leur demander de résumer la conversation pour s'assurer qu'ils se souviennent de tous les détails importants. Cela aide à maintenir la cohérence et la pertinence des échanges. Vous pouvez ensuite utiliser ce résumé en ouvrant une nouvelle conversation.
+26/11/2024, 10:38 - ‎+351 935 982 467 a rejoint ce groupe grâce à son lien d’invitation
+26/11/2024, 11:39 - +41 79 326 51 40: Je débute avec Poe, version gratuite. Les élèves peuvent accéder en fournissant une adresse mail et en récupérant un code à retransmettre à Poe afin d'établir ensuite la connexion. Je leur ai fait créer une adresse protonmail exprès pour ça.
+Je n'ai pas encore testé avec mes 50 élèves mais d'après ce que j'ai lu et ce que j'ai testé, avec GPT-4o mini on peut sans autres tenir 20 échanges... mais à confirmer lorsque j'aurai tenté la chose avec les élèves. On peut leur demander aussi d'envoyer le lien de l'échange. <Ce message a été modifié>
+26/11/2024, 12:01 - +33 6 77 78 84 93: Bonjour à tous! Ce groupe est vraiment intéressant mais ça reste un peu ardu pour moi de tout comprendre, car malheureusement je n’ai pas de bagage informatique même si j’essaie au maximum de m’autoformer!
+Auriez-vous des formations / tutos / ressources diverses à me conseiller pour comprendre le fonctionnement et la création d’un chat bot avec IA ?
+Je voudrais maîtriser avant de proposer à mes collègues d’en co-créer un avec des élèves (lycée).
+Bonne journée!
+26/11/2024, 12:06 - Pierrick: Bonjour Marie, la resosurces suivante me semble adaptée à votre besoin elle a été présenté à Ludovia cette année par une enseignante Cordialement Pierrick https://magistere.education.fr/dgesco/course/view.php?id=3132
+26/11/2024, 12:19 - +33 6 77 78 84 93: @33649535198 qui doit-on contacter en privé svp?

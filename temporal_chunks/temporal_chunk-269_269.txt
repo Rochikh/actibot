@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 555
+Messages: 9
+
+=== CONTENU ===
+Les modèles attribuent des probabilités élevées aux séquences fréquentes vues pendant l'entraînement. Être poli signifie formuler les demandes de manière à correspondre au schéma de conformité appris.
+Cela ne signifie pas que le modèle développe des capacités de raisonnement ou émotionnelles similaires à celles d'un humain, ce ne sont que des calculs.
+Les requêtes émotionnelles peuvent également être utilisées à des fins malveillantes pour contourner les règles d'alignement de ces modèles.
+06/03/2024, 08:47 - +33 6 51 43 08 14: Ce message a été supprimé.
+06/03/2024, 08:51 - +33 6 51 43 08 14: Y-t-il une référence qui traite de l'impact des requêtes émotionnelles sur les réponses de l'IA ? Car ayant déjà lu ça j'ai testé et je n'ai pas vu de différence et j'ai même posé la question à l'IA elle même si sa réponse pouvait être impactée par des formules de politesse ou cette demande de réparation profonde et la réponse était négative et bien argumentée. Par contre j'ai n'ai pas essayé pour le caractère urgent et important de la requête
+06/03/2024, 08:52 - +33 6 51 43 08 14: Respiration pas réparation pardon
+06/03/2024, 08:54 - Rochane: https://www.semafor.com/article/03/10/2023/should-we-be-polite-to-chatgpt et https://open.substack.com/pub/garymarcus/p/covert-racism-in-llms?r=45rbs&utm_medium=ios
+06/03/2024, 08:55 - +33 6 51 43 08 14: Super merci je vais lire ça avec grande attention et retenter des tests car je n'ai peut être pas su le faire comme il faut
+06/03/2024, 09:03 - +33 6 51 43 08 14: Par contre j'ai été surprise de le voir "se vexer". Une fois en lui demandant de me générer une image je lui ai répondu que son résultat n'était pas terrible et qu'il devrait faire mieux. Il a répondu qu'il était désolé de ne pas me satisfaire et qu'il mettait fin à l'échange. Il a coupé court au dialogue :-) je profite aussi pour vous demander si vous connaissez une IA gratuite qui peut servir à faire une analyse thématique dans un texte du genre les concepts ou les mots les plus répétés ou le nombre d'occurrences d'un mot ou des mots qui se rapprochent en terme de sens qui sont synonymes etc. On peut le faire sous forme de prompt en chatant avec un document comme dans seeker par exemple ?

@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 22
+
+=== CONTENU ===
+25/02/2024, 12:08 - Rochane: https://clip.opus.pro/clip/P1022510OipS
+25/02/2024, 12:27 - Jean-Marc Everard: Oulala, ça je vais essayer vue la longueur de mes vidéos 😂
+25/02/2024, 13:09 - +33 6 88 57 53 04: Ce message a été supprimé.
+25/02/2024, 14:41 - Ahmadou Ba: Bonjour,
+Avez vous une IA qui est performant pour assister dans la recherche académique et universitaire que des étudiants peuvent utiliser pour orienter leurs recherches scientiques ?
+25/02/2024, 14:46 - Rochane: <Médias omis>
+25/02/2024, 14:46 - Rochane: <Médias omis>
+25/02/2024, 14:48 - Ahmadou Ba: oui mais est ce que ces GPt's peuvent être utilisées sans l'abonnement payant ?
+Merci beaucoup pour le retour
+25/02/2024, 14:49 - Rochane: Ah non
+25/02/2024, 14:50 - Rochane: Tiens, sur l'application Poe, tu as ce bot qui est gratuit  https://poe.com/AcademicWriterBot
+25/02/2024, 14:52 - Ahmadou Ba: merci je vais tester celui et le comparer avec les GPT's d OpenAi
+25/02/2024, 15:13 - Ahmadou Ba: Ah il m'a l'air bon mais j'ai l'impression que poe est basé sur claude. <Ce message a été modifié>
+25/02/2024, 15:17 - Ahmadou Ba: https://poe.com/chat/2o2a13oasmqyllduxpx
+25/02/2024, 15:21 - Rochane: Ce Claude nécessite une licence payante et l'autre, non
+25/02/2024, 15:31 - Ahmadou Ba: Ah accord. Merci.
+26/02/2024, 20:54 - Votre code de sécurité avec +33 6 65 47 79 98 a changé. Appuyez pour en savoir plus.
+27/02/2024, 13:14 - Rochane: Ce site internet qui utilise l'IA, vous lui mettez le sujet qui vous intéresse, il décline un nombre intéressant de ressources et de concepts qui sont en lien avec le sujet. À explorer 🙂 https://explorer.globe.engineer/
+27/02/2024, 13:14 - Rochane: N'hésitez pas à mettre ( en français) après le sujet pour avoir l'output en français
+27/02/2024, 20:09 - +32 479 58 54 12: Whaouh. A première vue cela à l'air génial. ( je n'ai pas encore pris le temps d'analyser en détails)
+28/02/2024, 15:02 - Votre code de sécurité avec ~ Simon a changé. Appuyez pour en savoir plus.
+29/02/2024, 08:11 - +32 479 58 54 12: J'ai testé plus en détails mais pas vraiment convaincue par la qualité des résultats 😒

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 10
+
+=== CONTENU ===
+Demande moi les CGU à passer au crible.
+16/11/2024, 08:01 - +33 6 26 53 15 02: Merci beaucoup pour ce partage @33649535198
+16/11/2024, 08:18 - Rochane: Attention, nous sommes 1064 dans la communauté et la limite d'un groupe WhatsApp est 1024. Heureusement que certain·e·s sont dans la communauté sans être dans le groupe. Ce dernier est à plus de 900 et il faudra donc surveiller de près, voire purger pour laisser la place aux plus motivé·e·s 🙂 <Ce message a été modifié>
+16/11/2024, 08:23 - +33 6 72 75 43 48: Motivée motivée 😂bonne journée Rochanne
+16/11/2024, 08:31 - +33 6 68 00 29 68: Il est temps pour moi de partager un peu plus avec vous. Je suis en projet de thèse sur la Pédagogie et l’Intelligence Artificielle à l’Université de Clermont-Ferrand. Mon sujet porte sur l’utilisation de l’IA dans un objectif pédagogique. J’attends encore la validation du financement et du laboratoire, mais cela ne devrait pas tarder à démarrer.
+Pour enrichir cette discussion, je voulais vous partager une première expérimentation pédagogique que j’ai réalisée : la pédagogie inversée assistée par l’IA.
+Vous connaissez sans doute le principe de la pédagogie inversée : on fournit des supports de cours aux étudiants, qu’ils sont censés lire avant le cours. L’objectif est qu’en séance, le cours devienne une discussion sur les points qui les intéressent concernant ces supports.
+Dans la pratique, cependant, peu d’étudiants lisent réellement les supports. Cela aboutit souvent à une discussion limitée avec deux ou trois étudiants qui ont fait le travail, tandis que les autres tentent de suivre tant bien que mal.
+Avec la pédagogie inversée assistée par l’IA, j’intègre une approche inspirée de la méthode agile, basée sur des sprints et des pauses. Voici comment cela fonctionne :
+1.	Sprint de recherche d’informations : pendant le cours, les étudiants utilisent des outils comme ChatGPT, Search, ou Perplexity pour rechercher des informations en lien avec le sujet. Cela se fait en temps réel, avec une assistance de l’IA.

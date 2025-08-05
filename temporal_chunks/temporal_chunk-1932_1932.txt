@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 17
+
+=== CONTENU ===
+08/03/2025, 13:57 - +33 6 42 26 64 70: Contractuellement, j’imagine que la question de sa production à la sortie du contrat doit être spécifiée…mais chez eux (teach up) tout se fait en ligne, dans leur interface (et c’est vraiment chouette)…donc pas de format de sortie editable en dehors de leur environnement…de mémoire…cela a peut être évolué
+08/03/2025, 13:59 - +33 6 42 26 64 70: Cote API, chez Moodle tout est possible et ouvert. Quelque soit la version…enfin ce que j’en sais depuis la 3.
+08/03/2025, 14:00 - +33 7 66 46 62 19: Merci pour ces conseils. J'ai accès au rise. Cependant le contenu n'est pas à modifier. Je peux télécharger en pdf pour le texte. Oui il y a des activites/exercices.
+Merci en tout cas.
+08/03/2025, 14:03 - +33 6 42 26 64 70: Un conseil de productivité : n’hésite pas à copier coller tout les textes séparés par une ligne dans l’ordre de ta formation, dans un même fichier, puis de l’injecter dans un IA de ton choix (OpenAI ou Claude traduisent très bien) pour faire cela en une seule manipulation…tu gagneras du temps ;)
+08/03/2025, 14:03 - +33 6 42 26 64 70: Tous*
+08/03/2025, 19:44 - +33 6 65 65 01 37: null
+08/03/2025, 19:46 - +33 6 65 65 01 37: null
+08/03/2025, 19:49 - +33 6 65 65 01 37: mes excuses ...
+08/03/2025, 19:50 - +33 6 65 65 01 37: Ce message a été supprimé.
+08/03/2025, 20:21 - +44 7776 747507: S'il y a de la vidéo, je ne suis pas sure que techniquement se soit possible de traduire le tout! Est-ce que tu as considéré de refaire une autre version en angais de ta formation? J'utilise DeepLearn pour m'aider à traduire en premier, et je repasse après.  (Toujours faire de l'editing/proofreading).
+08/03/2025, 20:27 - +33 7 66 46 62 19: Merci.
+Il faut juste la traduire et pas  en refaire une autre.
+08/03/2025, 20:50 - Rochane: D'après Ludo, l'IAG est là
+https://youtu.be/-EVKzgnySkE?feature=shared
+08/03/2025, 22:56 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+08/03/2025, 23:53 - +41 79 258 90 36: Voici le lien https://manus.im

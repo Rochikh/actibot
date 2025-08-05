@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 576
+Messages: 10
+
+=== CONTENU ===
+Je serai sur les event IA de Paris et de Cannes.
+Tout est récapitulé sur mon post de ce matin :
+https://www.linkedin.com/posts/l%C3%A9o-cohen-910746139_le-futur-de-lia-est-brillant-mais-il-activity-7292460933396811777-Jg5p?utm_source=share&utm_medium=member_desktop
+04/02/2025, 11:33 - +44 7776 747507: Bonjour,
+Pour info, un évènement IA durable https://www.youtube.com/live/1e3hojUNpqQ
+04/02/2025, 11:39 - Nadia ER-RAJI: @33668394921 avec plaisir pour se rencontrer. Je t'envoie un mp
+04/02/2025, 12:33 - ‎+32 476 99 47 74 a demandé à rejoindre le groupe.
+04/02/2025, 13:06 - ‎+235 66 40 60 44 a demandé à rejoindre le groupe.
+04/02/2025, 13:45 - Francois Bocquet: Le plus plus simple est de contacter Thibault (via LinkedIn) ;-) sur le plan conformité juridique ce qui est décrit dans l’article est très insuffisant. En effet une copie n’est jamais anonyme du point de vue de la Direction des examens et concours du Rectorat (DÉC). Les copies restant des données à caractère personnel même si le nom est masqué pour le correcteur, l’IA ou l’expérimentation, le RGPD s’applique bien. La seule autorisation de la DÉC est insuffisante. Le traitement doit obligatoirement et préalablement faire l’objet d’une analyse d’impact qu’il soit effectué localement ou via un service SaaS. Si tout est ok alors le traitement doit être inscrit au registre du rectorat ou de l’établissement et les personnes concernées doivent être informées. Donc la mise en conformité par un chef d’établissement ou un rectorat semble possible si l’on utilise des services professionnels ou des instances locales mais je ne pense pas que ce soit réalisé pour cette expérience (qui est pourtant passionnante). Il ne me semble  pas possible de mettre le traitement en conformité si l’on utilise des services grand public gratuits. Donc à reproduire avec beaucoup de précaution !
+04/02/2025, 13:51 - Francois Bocquet: La mise en conformité juridique de ce service laisse vraiment à désirer. La terminologie utilisée est fantaisiste (Le respect des données personnelles et de la RGPD (Régulation Générale sur la Protection des Données) …) et le statut de sous traitance en contexte d’institution scolaire ou de formation inapplicable. Il y a un gros travail à entreprendre pour le rendre utilisable sur le plan contractuel :-(

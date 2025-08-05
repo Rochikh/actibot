@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 13
+
+=== CONTENU ===
+21/11/2024, 16:48 - +213 558 04 82 89: Comment svp?
+21/11/2024, 16:51 - Rochane: <Médias omis>
+21/11/2024, 16:52 - +213 558 04 82 89: Un grand merci à vous 🙏
+21/11/2024, 16:53 - +33 6 19 75 63 49: Je l’ai fait avec moi-même (avec heygen), et ça marche bien mais un œil habitué peut voir que c’est de l’IA. La vidéo était très courte donc c’était gratuit.
+21/11/2024, 18:07 - +33 7 63 58 01 55: Merci @33619756349 et @33675775911 pour ces excellentes références 👍🏻👍🏻
+21/11/2024, 18:15 - Francois Bocquet: Bonne nouvelle avec le flag Gemini Nano dans Chrome (et les ChromeBooks) https://developer.chrome.com/docs/ai/built-in?hl=fr
+21/11/2024, 18:16 - Francois Bocquet: sur chrome saisir : chrome://flags/ puis dans la barre de recherche Prompt API for Gemini Nano ensuite activer le flag puis relancer Chrome
+21/11/2024, 18:17 - Francois Bocquet: Active l'API exploratoire Prompt, qui permet d'envoyer des instructions en langage naturel à un modèle de langage étendu intégré (Gemini Nano dans Chrome). Les API exploratoires sont conçues pour le prototypage local afin de découvrir des cas d'utilisation potentiels, et peuvent ne jamais être lancées. Ces explorations serviront de base à la feuille de route de l'IA intégrée [1]. Cette API est principalement destinée aux tâches de traitement du langage naturel telles que le résumé, la classification ou la reformulation de textes. Elle n'est PAS adaptée aux cas d'utilisation qui requièrent une précision factuelle (par exemple, répondre à des questions de connaissance).
+Traduit avec www.DeepL.com/Translator (version gratuite)
+21/11/2024, 18:17 - +41 79 326 51 40: flowvoice.ai n'est dispo que sur Mac pour l'instant, du moins de ce que j'ai trouvé… ? J'en cherche justement un pour des collègues enseignants…
+21/11/2024, 18:50 - ‎+33 6 34 25 63 34 est parti·e
+21/11/2024, 19:38 - +213 770 60 32 81: Sincèrement vous êtes un génie.
+21/11/2024, 21:17 - +212 625-675934: je suis tombé sur un outil intéressant appelé Lissan AI. C’est développé par un Marocain et permet de générer des captions adaptées pour les réseaux sociaux, y compris pour des langues comme tamazight et le darija. Voici le lien si vous voulez jeter un œil : https://lissanai.com/ <Ce message a été modifié>

@@ -1,0 +1,36 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 28
+
+=== CONTENU ===
+https://www.7sur7.be/belgique/testachats-depose-plainte-contre-deepseek-au-nom-de-la-vie-privee-des-belges~a00c4ccb/
+29/01/2025, 14:13 - Votre code de sécurité avec +33 6 80 34 60 52 a changé. Appuyez pour en savoir plus.
+29/01/2025, 14:13 - Votre code de sécurité avec +221 77 508 48 04 a changé. Appuyez pour en savoir plus.
+29/01/2025, 14:13 - Adrien Bock IA: Si vous voulez inviter des gens et éviter les « no-show » en webinaire ou rendez-vous, voici un prompt pour créer un URL avec votre évent directement ajouter dans l’agenda :
+«  Génère un lien Google Agenda raccourci pour un événement avec les détails suivants :
+Titre : [Titre de l'événement]
+Date : [YYYY-MM-DD]
+Heure de début : [HH:MM] (heure locale)
+Heure de fin : [HH:MM] (heure locale)
+Fuseau horaire : [ex: Europe/Paris]
+Description : [Description de l'événement]
+Lieu / Lien de la réunion : [URL]
+Le lien généré doit être raccourci avec Bitly ou TinyURL pour une meilleure lisibilité. "
+29/01/2025, 16:19 - +33 7 83 62 43 52: <Médias omis>
+29/01/2025, 16:21 - +33 7 83 62 43 52: J'ai utilisé Actibot pour trouver le nom d'IA gratuites sans compte pour générer des images. J'ai suivi la dernière réponse concernant l'IA Raphaël mais je voulais voir s'il y en avait d'autres.
+Voici le retour que j'ai obtenu.
+Cela signifie quoi ?
+Merci de votre retour
+29/01/2025, 16:25 - Laurent The Cure: Bonsoir, vous n'avez pas utilisé le lien actualisé
+https://actibot.replit.app
+29/01/2025, 16:25 - +33 7 83 62 43 52: Merci !
+29/01/2025, 16:26 - +33 7 83 62 43 52: Il me demande un nom d'utilisateur et un mot de passe 🤔
+29/01/2025, 16:27 - Laurent The Cure: En effet
+29/01/2025, 17:01 - +41 79 258 90 36: Site de Jacques Soulé qui propose des outils pour l'éducation à Genève.
+https://ai-educ.lycees-en-transition.com et outils IA https://ai-educ.lycees-en-transition.com/les-meilleurs-outils-ia/
+29/01/2025, 17:52 - Rochane: <Médias omis>
+29/01/2025, 17:55 - Rochane: <Médias omis>
+29/01/2025, 18:09 - ‎+212 610-589582 est parti·e

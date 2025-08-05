@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 16
+
+=== CONTENU ===
+08/09/2024, 13:52 - Rochane: Si on prend Notion, sachant que les  serveurs sont en US, aucune chance pour le RGPD ?
+08/09/2024, 13:52 - Francois Bocquet: Les autres (startups par ex) peuvent être conforme mais souvent seulement en mode B2C
+08/09/2024, 13:53 - Francois Bocquet: Si bien sûr. L’hébergement aux US est conforme depuis juillet 2023 (décision d’adéquation de l’UE) donc pas de soucis de localisation.
+08/09/2024, 13:53 - Francois Bocquet: Ensuite il faut voir si Notion dispose d’une représentation en Europe (obligation du RGPD)
+08/09/2024, 13:53 - Francois Bocquet: Et si un contrat de sous traitance est possible entre une organisation et Notion
+08/09/2024, 13:55 - Francois Bocquet: Faut regarder dans le détail mais ensuite encore faut il que le responsable de traitement passe l’accord de sous traitance en plus du contrat et que le traitement soit porté au registre
+08/09/2024, 13:56 - Francois Bocquet: Pour ça il faut que le responsable ai conscience de ses responsabilités vis à vis du RGPD et des personnes dont il est responsable
+08/09/2024, 13:56 - Francois Bocquet: Et que son DPD fasse le travail qui lui est confié
+08/09/2024, 13:56 - +32 479 82 01 20: Quand vous parlez de contrat vous parlez de DPA ?
+08/09/2024, 13:57 - Francois Bocquet: Oui c’est le DPA qui est le contrat de sous traitance
+08/09/2024, 13:57 - Francois Bocquet: DPA = data processing amendment
+08/09/2024, 13:58 - +32 479 82 01 20: C'est le seul contrat a signer ou il y en a-t-il d'autres ?
+08/09/2024, 13:59 - Francois Bocquet: Il y a le contrat commercial (existe partout dans le monde) et le DPA pour l’Europe (conformité RGPD)
+08/09/2024, 13:59 - Francois Bocquet: Et ensuite il faut inscrire aux registres le traitement et le sous traitant
+08/09/2024, 14:00 - Francois Bocquet: Mettre en place le workflow de réponse aux utilisateurs finaux qui exercent leurs droits et celui de gestion des brèches de sécurité
+08/09/2024, 14:00 - Francois Bocquet: Et avant ça instruire le traitement et réaliser une AIPD si nécessaire

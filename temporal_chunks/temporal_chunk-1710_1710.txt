@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 14
+
+=== CONTENU ===
+Faire tourner les modèles c'est hyper cher, en local on peut faire tourner des 10B 40B sinon fait son matériel spécial. En plus avec ces configurations on ne parle pas de la vitesse de génération des tokens qui sera peut être pas celle que vous voyez sur internet, plus lent.
+04/02/2025, 07:56 - +41 76 372 28 94: Effectivement je suis surpris qu'ils ne proposent pas plus de RAM dans les DIGITS...
+04/02/2025, 08:03 - +32 483 60 53 96: Juste pour comprendre lee contexte: vous parlez de materiel pour votre usage perso ou pour un etablissement ? Car oui le local c'est une alternative mais avez-vous deja fait des tests utilisateurs (apprenants et enseignants) sur ces systemes ? Je suis curieux si vous avez deja documenté une experience. Car je vais surement en lancer une à petite échelle.
+04/02/2025, 10:26 - Jean-Marc Everard: Ah ben oui mais là ma tirelire n’est pas encore au point. Mias en effet, c’est vers ça que je veux aller :-).
+04/02/2025, 10:31 - Jean-Marc Everard: Salut Robin (by the way je suis à LLN ce matin ;-)). Les deux mon capitaine. En local pour mes usages perso. mais au niveau de BOSA ou SPF intérieur, il y a des installation de LLM sur des gros serveurs internes.
+04/02/2025, 10:46 - +41 76 372 28 94: Moi j'utilise un serveur loué chez OVH et je passe par les API payantes. Avec une classe de 24 ça fonctionne à merveille.
+04/02/2025, 10:47 - Nadia ER-RAJI: Hello la team, quelqu'un d'entre vous envisage t'il d'aller au World AI Cannes Festival le 13 -15 février ?
+04/02/2025, 11:11 - +33 6 68 39 49 21: Yesss j’y serai Nadia.
+D’ailleurs pour celles et ceux présents aux prochains évent IA, volontiers pour se rencontrer !!
+Je serai sur les event IA de Paris et de Cannes.
+Tout est récapitulé sur mon post de ce matin :
+https://www.linkedin.com/posts/l%C3%A9o-cohen-910746139_le-futur-de-lia-est-brillant-mais-il-activity-7292460933396811777-Jg5p?utm_source=share&utm_medium=member_desktop
+04/02/2025, 11:33 - +44 7776 747507: Bonjour,
+Pour info, un évènement IA durable https://www.youtube.com/live/1e3hojUNpqQ

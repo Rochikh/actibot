@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 17
+
+=== CONTENU ===
+07/09/2024, 14:55 - +33 6 26 19 30 26: Bonjour. Connaissez vous des outils (IA ou sans IA) pour réaliser des enquêtes en ligne et analyse des résultats, en ajoutant des scores et des questions conditionnelles selon le score ?
+Je connais Limesurvey mais je le trouve limité sur l'analyse des résultats.
+Merci pour vos réponses!
+07/09/2024, 14:58 - Rochane: L'idéal est d'utiliser un outil classique comme Google forms ou Microsoft forms et analyser la feuille de calculs en sortie sur des outils LLM comme Chat Gpt ou autre 🙂 <Ce message a été modifié>
+07/09/2024, 15:00 - Clément Cahagne: Ou Tally ! Que je trouve absolument génial personnellement. Avec analyse des réponses via export en csv + Claude 👌 <Ce message a été modifié>
+07/09/2024, 15:01 - Rochane: C'est le meilleur effectivement mais il faut être habitué aux outils no code comme Notion
+07/09/2024, 15:01 - +33 6 26 19 30 26: Merci Rochane. Le soucis avec les outils Google c'est que ce n'est pas RGPD ...
+07/09/2024, 15:01 - +33 6 26 19 30 26: Merci je vais regarder je ne connaissais pas!
+07/09/2024, 15:02 - +32 479 82 01 20: Ou un formulaire Airtable et analyser les réponses directement sur la base Airtable avec la nouvelle option d'IA 😄
+07/09/2024, 15:03 - Clément Cahagne: https://podcast.ausha.co/rendez-vous-en-terre-digitale/tally
+07/09/2024, 15:05 - +33 6 26 19 30 26: Ah oui ça ressemble à Notion
+07/09/2024, 15:06 - +33 6 26 19 30 26: Merci je vais tester aussi!
+07/09/2024, 15:08 - +33 6 26 19 30 26: Est-ce qu'il y a une limite du nombre  d'utilisateurs ?
+07/09/2024, 15:08 - Rochane: Non
+07/09/2024, 15:09 - StéphaneIA: Bonjour, je ne vois pas en quoi Google n'est pas conforme avec la rgdp? Suite Les domaines éducation Google est en accord avec les traités européens. Si Google n'est pas bon notion ou touted autres startup le sera encore moins.
+07/09/2024, 15:10 - Rochane: Oui mais pas les comptes Google perso
+07/09/2024, 15:14 - StéphaneIA: Ce sera le cas pour tous les produits mais à mon sens Google workspace sera toujours plus conforme qu'un notion ou autre même payant.

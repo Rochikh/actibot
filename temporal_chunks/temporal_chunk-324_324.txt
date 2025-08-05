@@ -1,0 +1,38 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 30
+
+=== CONTENU ===
+22/03/2024, 16:31 - ‎+51 984 849 049 a rejoint le groupe à partir de la communauté.
+22/03/2024, 16:39 - ‎+33 6 88 27 53 73 a rejoint le groupe à partir de la communauté.
+22/03/2024, 16:53 - Rochane: Oui uniquement
+22/03/2024, 17:15 - ‎Laura Salamanca Avila est parti·e
+22/03/2024, 17:31 - ‎+33 6 87 84 77 46 a rejoint le groupe à partir de la communauté.
+22/03/2024, 17:43 - +33 6 49 84 08 41: Possible d'avoir le message de base svp ?
+22/03/2024, 17:45 - Rochane: 📚 *Cette fonctionnalité de ChatGPT va te faire apprendre 10x plus vite !*
+C’est le meilleur *prof* que tu puisses avoir.
+Mais qu’est-ce donc cette fonctionnalité ? 🤔
+C’est un système de conversation vocal en mode 1to1 avec ChatGPT.
+Ça te permet de parler à ChatGPT à l’oral.
+(une conversation téléphonique quoi)
+Pour l’activer, c’est très simple :
+➯ Télécharge l’App ChatGPT sur l’AppStore ou le PlayStore
+➯ Clic sur les 3 ptits points en haut à droite puis « Settings » -> « New Features » et « Voice conversations »
+➯ Reviens sur la page de la conversation et clic sur le casque audio
+➯ Tu peux choisir différentes voix, choisis celle que tu préfères
+Maintenant voici *3 choses* que tu vas pouvoir faire avec et qui vont te sauver tes études sup :
+1️⃣ *Mémorise tes cours*
+Tu as juste à envoyer par écrit une partie de ton cours et ensuite tu lui demandes à l’oral de te poser des questions dessus.
+Comme si c’était un pote à qui tu devais expliquer le cours.
+En lui expliquant et lui répondant à ses questions tu vas beaucoup plus vite mémoriser et comprendre le cours.
+2️⃣ *Progresse dans une langue*
+Tu peux lui demander de discuter avec toi d’un sujet qui t’intéresse dans la langue de ton choix.
+Puis demande lui de t’avertir et de te corriger quand tu fais des erreurs.
+Un vrai banger je veux rien savoir !
+(j’espère j’aurai mon TOEIC cette année grâce à ça) 🙂
+3️⃣ *Crée un jeu avec tes cours*
+Pareil, tu commences par envoyer le chapitre de ton cours.
+Puis tu demandes à ChatGPT d’inventer un mini jeu où le but est de mémoriser ce que tu viens de lui envoyer.

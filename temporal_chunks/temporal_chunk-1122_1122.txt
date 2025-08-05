@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 24
+
+=== CONTENU ===
+23/10/2024, 19:02 - Votre code de sécurité avec Hadjer a changé. Appuyez pour en savoir plus.
+23/10/2024, 19:37 - +33 6 03 06 04 34: Pour les fans de Napkin grosse mise à jour : https://youtu.be/s8uC2uSYvHs
+23/10/2024, 22:14 - Votre code de sécurité avec +33 6 87 77 81 68 a changé. Appuyez pour en savoir plus.
+23/10/2024, 22:43 - +33 6 19 69 87 96: Apparemment gratuit pour vidéo de 30 minutes maximum. Donc mon besoin du gratuit pour un doublage d'1h30 reste de mise. Merci, MF
+23/10/2024, 23:49 - +33 6 02 20 69 43: Ah! Super! J’adore le concept, et je trouvais que ça manquait de variations
+24/10/2024, 00:11 - Gregoire IA: Fais moi signe si tu veux, g un abonnement chez eux. Si c pour une one shot je peux peut etre t'aider
+24/10/2024, 00:15 - Gregoire IA: c'est un outil génial, je ne m'en lasse pas
+24/10/2024, 09:40 - ‎+33 6 09 50 08 43 est parti·e
+24/10/2024, 15:55 - +33 6 03 06 04 34: Bon courage pour trouver du gratuit au delà
+24/10/2024, 16:15 - Centre Richard: Salut les collègues. y'a-t-il un outil IA qui permet de générer un fichier H5P ? @33649535198 as-tu une idée ?
+24/10/2024, 16:18 - Rochane: Je ne suis pas sûr mais nolej.ai, si tu lui mets une vidéo, il peut te la rendre Interactive. Après, il te génère des activités h5p, ça c'est sûr 🙂
+24/10/2024, 16:19 - Centre Richard: merci, je vais l'essayer
+24/10/2024, 16:19 - +33 6 15 79 19 04: Nolej.io il me semble
+24/10/2024, 16:22 - ‎+32 485 54 74 86 est parti·e
+24/10/2024, 17:25 - martinyemani IA: Ce message a été supprimé.
+24/10/2024, 17:25 - martinyemani IA: Ce message a été supprimé.
+24/10/2024, 18:06 - +34 683 61 41 61: Il y a la possibilité de demander à n'importe quelle IAG de produire des question-set avec le formatage suivant et de l'importer ensuite dans un éditeur H5P.
+La bonne réponse est indiquée par *
+1. [Question]
+*Réponse 1::feedback 1
+Réponse 2::feedback 2
+Réponse 3::feedback 3
+Réponse 4::feedback 4
+Pour les autres outils H5P il doit également y avoir un formatage texte correspondant.

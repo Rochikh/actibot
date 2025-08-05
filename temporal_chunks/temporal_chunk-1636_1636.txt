@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 16
+
+=== CONTENU ===
+2. Impossibilité de faire valoir ses droits
+3. Résiliation arbitraire possible
+4. Absence de garanties sur la sécurité des données
+5. Non-conformité générale au droit européen
+22/01/2025, 20:39 - ‎+33 7 52 04 01 27 a demandé à rejoindre le groupe.
+22/01/2025, 20:57 - Ahmadou Ba: null
+22/01/2025, 20:58 - ‎+33 7 52 04 01 27 a rejoint ce groupe grâce à son lien d’invitation
+22/01/2025, 20:59 - Ahmadou Ba: Quelqu'un à t'il explorer cet outil, si oui avez vous des retours à partager : https://fr.vittascience.com/ia/text.php.
+En fait j'étais entrain de saluer pour poster mon message @33649535198
+22/01/2025, 21:02 - Rochane: C'est quoi sa particularité ?
+22/01/2025, 21:06 - Ahmadou Ba: Le site propose de discuter avec plusieurs modèles de langage, et propose pleines de ressources pédagogiques pour la classe. Je n'ai pas encore vraiment de bien l'explorer à fond. Mais je l'ai ajouter dans mes listes de tâches. Et on ne crée pas de compte pour l'utiliser.
+22/01/2025, 21:42 - +33 6 66 36 34 84: C'est un super outil pédagogique. Je l'utilise en formation pour:
+- la possibilité de visualiser les tokens avec leurs stats et de les modifier pour voir l'effet sur le texte généré
+- Créer une petite ia qui reconnaît deux catégories  d'images, l'entraîner, visualiser le réseau de neurones et tester sur de nouvelles images .. permet de sensibiliser aux erreurs et aux biais de l'IA
+22/01/2025, 21:56 - Daniel Pappalardo: Il est disponible dans le GAR un moyen de se connecter avec les identifiants  académiques des élèves dans la plateforme de l'ENT donc sous couvert de l'académie et du coup respectant le RGPd. C'est une application qui utilise ChatGPT pour créer et aider à apprendre la programmation. Y a aussi Wooflash qui utilise aussi ChatGPT pour faire des quizz avec une URL...
+22/01/2025, 22:09 - Daniel Pappalardo: Par contre il ''est pas gratuit il est disponible gratuitement pour les élèves et les enseignants sous forme de licences à activer en les demandant auprès des référents TNE dans son établissement. Les licences sont payées par l'état (autour de 150€ par an pour vitta science et sûrement similaire pour Wooflash)

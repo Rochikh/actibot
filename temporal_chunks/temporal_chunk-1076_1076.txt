@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 19
+
+=== CONTENU ===
+14/10/2024, 20:22 - Votre code de sécurité avec ~ Carmen L. a changé. Appuyez pour en savoir plus.
+14/10/2024, 21:09 - Votre code de sécurité avec ~ Sabrin Housni a changé. Appuyez pour en savoir plus.
+14/10/2024, 23:01 - ‎+33 6 26 81 60 52 est parti·e
+15/10/2024, 00:13 - Fred IA: https://youtu.be/mU8djIr9DjA?si=W-hyHWqHsrmoADtv Les juges, remplacés par une IA à Wimbledon à partir de 2025..
+15/10/2024, 00:26 - +225 0789582364: Bonsoir Connaissez-vous une IA gratuite qui génère une vidéo à partir d'une image et d'un texte ?
+15/10/2024, 00:28 - Fred IA: https://lumalabs.ai/dream-machine
+15/10/2024, 00:29 - +225 0789582364: Merci 🙏🏻
+15/10/2024, 00:45 - +33 7 63 58 01 55: Shocking! 😮🍵
+15/10/2024, 07:45 - +33 6 66 98 84 23: Bonjour, pour le coût énergétique vous avez le site https://comparia.beta.gouv.fr/
+Il compare quelques IA en fonction et c'est très parlant.
+15/10/2024, 07:46 - StéphaneIA: Une étude d' Apple remet en cause les capacités de raisonnement des IA.
+https://intelligence-artificielle.developpez.com/actu/363774/L-etude-d-Apple-prouve-que-les-modeles-d-IA-bases-sur-le-LLM-sont-defectueux-car-ils-ne-peuvent-pas-raisonner-Nous-n-avons-trouve-aucune-preuve-de-raisonnement-formel-dans-les-modeles-de-langage/
+15/10/2024, 11:04 - ‎Clément Cahagne a demandé à ajouter +33 6 24 10 13 66.
+15/10/2024, 12:05 - Jacques BARATTI: Est-ce que certains d'entre vous ont testé le nouveau site de Google "Illuminate" qui, comme NoteBookLM, génére des podcasts (en anglais) à partir de documents fournis, mais semble-t-il d bien meilleurs qualités qu'avec NoteBookLM ?
+15/10/2024, 12:07 - Adrien Bock IA: Non je n’ai jamais entendu parler mais un feedback peut être intéressant
+15/10/2024, 12:08 - Adrien Bock IA: Le seul hic que j’ai avec notebooklm c’est le stockage des données
+15/10/2024, 12:13 - ‎Clément Cahagne a ajouté +33 6 24 10 13 66
+15/10/2024, 12:16 - Jacques BARATTI: Les données sont sur les serveurs de Google donc...
+15/10/2024, 13:12 - +33 6 13 43 58 18: Vous pouvez anonymiser les données de _Google Workspace for Education_ grâce à la société française iDruide, dont les serveurs sont en France.

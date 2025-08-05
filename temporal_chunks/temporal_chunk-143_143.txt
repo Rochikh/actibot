@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 20
+
+=== CONTENU ===
+03/01/2024, 18:52 - +32 498 78 46 36: Dommage que Midjourney n'offre par une ou deux générations d'image par mois gratuitement <Ce message a été modifié>
+03/01/2024, 19:22 - Laurent The Cure: tout à fait du coup je ne testerai pas sur midjourney
+03/01/2024, 19:39 - Ahmadou Ba: <Médias omis>
+03/01/2024, 19:39 - Ahmadou Ba: je crois que j'ai réussi à avoir les écritures correctement
+03/01/2024, 19:39 - Laurent The Cure: pouvez vous partager le prompt ? c'est sur Dall-e ?
+03/01/2024, 19:40 - Ahmadou Ba: "You are an animator. Generate an image of a Ninja Turtle in cartoon style. It has green eyes, a wide smile, and is wearing a headband on its forehead. The headband is royal blue with the phrase "ALLEZ l'OM" written in white on the forehead."
+03/01/2024, 19:41 - Ahmadou Ba: Je l'ai juste testé en anglais sur ChatGPT plus
+03/01/2024, 19:42 - Rochane: Midjourney 6 incapable aussi
+03/01/2024, 19:42 - Laurent The Cure: <Médias omis>
+03/01/2024, 19:43 - Laurent The Cure: MERCI !!!!!!!
+03/01/2024, 19:44 - Rochane: ça a marché aussi en anglais pour moi mais sur le GPT Dall-e https://chat.openai.com/g/g-2fkFE8rbu-dall-e
+03/01/2024, 19:46 - Laurent The Cure: <Médias omis>
+03/01/2024, 19:51 - +33 6 52 07 03 43: Avec ce prompt en anglais, ça a marchait aussi sur bing image creator
+03/01/2024, 19:51 - +33 6 52 07 03 43: <Médias omis>
+03/01/2024, 19:53 - Ahmadou Ba: Merci c que je voulais tester
+03/01/2024, 19:54 - +33 6 52 07 03 43: <Médias omis>
+03/01/2024, 19:54 - Laurent The Cure: c'est étonnant cette irrégularité
+03/01/2024, 20:06 - Ahmadou Ba: Sûrement elle apprend cela va venir
+03/01/2024, 20:13 - Thierry VANOFFE: Vous pensez que c'est possible de récupérer l'image en vectoriel .AI ou Photoshop .PSD pour rajouter les lettres ? Y a des outils gratuits comme GIMP aussi. Y a peut être un truc par là pour rajouter facilement les lettres manquantes ?
+03/01/2024, 20:47 - +33 6 75 41 23 05: Oui avec Photoshop c’est facile. On peut ajouter du texte que l’on pixelise. Le calque obtenu peu ensuite être déformé, déplacé à sa guise

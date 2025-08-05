@@ -1,0 +1,37 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 29
+
+=== CONTENU ===
+-  Disponibilité des présentations et liens vers les ressources pédagogiques en ligne.
+-  Annonce d'une plateforme en ligne offrant divers contenus éducatifs.
+#  Présentation d'un outil pédagogique avancé
+-  Introduction à un outil nommé 4-2-R2 pour la création de contenus pédagogiques.
+-  Description des fonctionnalités de l'outil et son utilisation dans le domaine de l'enseignement supérieur.
+#  Création automatisée de programmes éducatifs
+-  Explication sur la génération automatisée de plans, supports, séries didactiques et exercices.
+-  Possibilité d'exporter les contenus créés vers une plateforme LMS pour diffusion.
+#  Services proposés par l'outil pédagogique en ligne
+-  Détails sur les services offerts tels que création de programmes, cours, jeux pédagogiques et coaching.
+-  Orientation principalement vers l'enseignement supérieur et professionnel pour simplifier la création de programmes.
+#  Personnalisation des modules de formation
+-  Capacité à personnaliser les modules générés selon les besoins du formateur et de l'ingénierie pédagogique.
+#  Fonctionnalités avancées pour structurer les cours
+#  Génération Automatique de Cours
+-  Détermination automatique du cours et des ressources pédagogiques.
+-  Identification des compétences, objectifs pédagogiques et structuration en chapitres.
+-  Génération de séquences pédagogiques pour chaque chapitre.
+#  Contenu Pédagogique et Supports
+-  Création d'introductions de séquences et supports de cours interactifs.
+-  Proposition d'exercices de validation tout au long du cours.
+-  Inclusion d'un projet de fin d'études et bibliographie associée.
+#  Enrichissement du Cours
+-  Intégration de vidéos éducatives provenant de sources fiables.
+-  Personnalisation du contenu par les enseignants selon leurs besoins.
+#  Exportation du Cours
+-  Possibilité d'exporter le cours sous différents formats (Word, PowerPoint).
+#  Présentation du Système de Cours en Ligne
+-  Le système génère un diaporama à partir de la voix synthétique du professeur, appliquée directement sur le cours automatisé.

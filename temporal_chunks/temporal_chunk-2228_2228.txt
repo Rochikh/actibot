@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 10
+
+=== CONTENU ===
+05/06/2025, 22:40 - Gregoire IA: C'est tout le problème ses vidéos, il veut montrer toutes les fonctionnalités mais manque de mise en perspective. Je lui en avais touché un mot mais il pense déjà le faire
+05/06/2025, 22:44 - Clotilde IA: Qu’est-ce que tu appelles un LLM correctement contrôlé ? Est-ce que tu parles d’un LLM installé sur un serveur interne ou un ordi perso ?
+Est-ce qu’un outil naturellement plus confidentiel comme Claude pourrait convenir ? Et qu’en est-il de la fonction ou maintenant on peut donner accès à tout notre écosystème Google à Claude? (et particulièrement si on a un fichier client sur Google sheet -ce qui n’est probablement pas RGPD non plus)
+05/06/2025, 22:57 - Francois Bocquet: C’est un LLM soit que tu gères directement soit pour lequel tu as des garanties contractuelles de sous traitance et une analyse d’impact réalisées te permettant d’estimer le risque acceptable.
+05/06/2025, 23:00 - Francois Bocquet: Si c’est un Google sheet sur un compte GMail ça craint. Si c’est un Google Sheet sur un domaine Workspace correctement paramètré et avec les dispositions nécessaires au respect du RGPD ça peut être OK
+05/06/2025, 23:19 - +32 470 06 82 01: Bonjour à toutes et à tous,
+Tout d’abord, un grand merci pour la qualité des échanges et des informations partagées sur ce groupe. Référent numérique dans une école secondaire en Belgique, je vous lis assidument depuis pas mal de temps maintenant et c’est une mine d’or !
+Je me demandais si quelqu’un sur ce groupe avait un avis ou un retour d’expérience sur la nouvelle offre IA de Notion ? Elle a l’air assez intéressante en promettant la capacité à rechercher et analyser des infos dans les bases de données intégrées ou un google drive connecté, elle propose la retranscription des notes de réunions et, si j’ai bien compris, elle donne aussi accès aux derniers modèles payants de ChatGPT et de Claude via l’interface Notion.
+Merci d’avance pour vos retours ! :)
+05/06/2025, 23:23 - Clotilde IA: J’en ai eu un essai gratuit. Je ne sais pas quels modèles sont utilisés. Je l’ai trouvée très pratique pour obtenir des databases complexes. J’ai pas été bluffée par le reste.

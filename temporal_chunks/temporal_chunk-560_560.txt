@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 19
+
+=== CONTENU ===
+29/05/2024, 20:50 - +32 484 68 10 13: Ok moi j ai plein de Sora 😅 mais aucune ne veut me générer de vidéo 😅
+29/05/2024, 21:35 - +32 498 78 46 36: <Médias omis>
+29/05/2024, 21:36 - +32 484 68 10 13: Oui ce sont des GPT créés par d autres , je suis également allée voir sur le site officiel
+29/05/2024, 23:19 - Jacques BARATTI: <Médias omis>
+29/05/2024, 23:27 - +33 6 14 16 68 64: La rumeur dit qu'ils attendent les élections américaines avant de sortir sora et gpt5.
+29/05/2024, 23:28 - +33 6 76 04 48 20: Quelle est la logique ?
+29/05/2024, 23:52 - LIO: Ce message a été supprimé.
+30/05/2024, 06:19 - +33 7 63 58 01 55: Éviter une vague de deepfakes et fake news
+30/05/2024, 06:24 - Pierrick BRIAND: Bonjour @33749648922,
+Bonjour à tous
+Il faut être vigilant et bien vérifier les annonces 😉 car non il ne s'agit pas de la vraie version publique de Sora d'OpenAI qui serait accessible à tous en France actuellement. L'accès est pour l'instant limité à un petit groupe de testeurs et créateurs sélectionnés.
+OpenAI n'a pas intégré Sora directement dans l'interface de ChatGPT. Quand Sora sera disponible, ce sera probablement un outil distinct, peut-être avec une API, mais pas dans la barre de recherche de ChatGPT.
+Certains sites web prétendent offrir un accès à "Sora", mais il s'agit de versions non officielles qui ne sont pas réellement liées à OpenAI. Le seul site officiel est openai.com.
+https://soracreators.ai/blog/how-to-access-sora-openai?t
+30/05/2024, 07:06 - Pierrick BRIAND: Merci @33611028249 pour l’information.
+C’est donc une très bonne nouvelle pour les créateurs de GPT ! Maintenant, tous les utilisateurs de ChatGPT Free peuvent utiliser les GPT du store.
+On estime à plus de 100 millions le nombre de personnes qui pourront voir votre travail si vous avez rendu votre GPT public.
+Vos apprenants auront donc bien accès au store et à votre GPTs. Imaginez les avancées pédagogiques dans l’utilisation de ChatGPT avec des groupes d’apprenants !
+Mais attention : les GPT utilisent un nouveau modèle, GPT-4o donc vérifiez que votre GPTs fonctionne bien avec. Open AI annonce qu’il peut y avoir des problèmes sur certains GPTs.

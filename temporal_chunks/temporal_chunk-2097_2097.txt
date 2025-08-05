@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 13
+
+=== CONTENU ===
+19/04/2025, 10:26 - Rochane: Ce qui est surprenant, c'est cette inertie pour n'importe quel nouveau paradigme ou nouvelle façon de penser. Les gens mettent énormément de temps à réagir et c'est d'autant plus frustrant pour celles et ceux qui ont pris conscience mais ne savent pas comment alerter....
+19/04/2025, 10:28 - Rochane: Oui, notre charte IA, à laquelle j'ai participé, est publique
+https://www.bruxellesformation.brussels/a-propos/nos-missions-nos-valeurs/notre-charte-ia/
+19/04/2025, 10:29 - +32 498 62 04 01: Trop chouette ! Merci Rochane. Je ne l'avais pas vue.
+19/04/2025, 10:34 - +41 76 372 28 94: Surtout qu’ici on parle de changements dans des échelles de temps ridiculement courtes. Regardez depuis janvier l’augmentation fulgurante de la puissance des outils : il va forcément y avoir un gros clash.
+19/04/2025, 10:49 - +32 475 86 01 57: C est moi qui m en occupe dans mon école... Heureusement, on a copilot 😁
+Blague à part, ça va mener à une grosse refonte. Plus d oral. Plus de différenciation. Il y a aussi une vraie possibilité de demander aux élèves d aller plus loin dans la compréhension avec cet outil... Si on le comprend... Sinon ce sera l inverse qui se produira...
+19/04/2025, 11:16 - Sébastien Place: Si jamais ça peut servir à quelqu'un j'ai publié un guide de création d'agents.
+La première partie explique comment utiliser la fonction Agents dans Copilot Chat mais le plus polyvalent se trouve en seconde partie avec une petite dizaine de "recettes" d'agents à caractère pédagogiques (vous pourrez sans nul doute les appliquer facilement) sur d'autres outils.
+Notamment un assistant de création de séquence selon la Taxonomie de Bloom, un assistant pour chercheur (thèse ou TFE), un assistant pour préparer des réunions parents élèves personnalisées ...
+Les agents sont aussi telechargeables directement sur la page si vous utilisez Copilot Chat en environnement Microsoft 365.
+https://splc.be/mes-agents-edu-pour-copilot-chat/
+19/04/2025, 11:39 - +33 7 86 61 52 66: J’ai exactement le même problème… qq aurait une astuce?

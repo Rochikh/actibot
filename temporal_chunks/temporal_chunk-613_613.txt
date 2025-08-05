@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 20
+
+=== CONTENU ===
+06/06/2024, 20:41 - Vincent DROUOT: Je vous conseille ce documentaire réalisé par Samuel Durand :
+https://www.wipdocumentary.com/documentaires
+06/06/2024, 20:48 - +33 6 49 84 08 41: Yes, je l'ai faite... Mais pour de l'initiation, je l'ai trouvée assez raide tout de même. et je passe pour être le geek de ma direction ! Alors pour mes collègues, je n'y pense même pas
+06/06/2024, 21:09 - Pierrick BRIAND: Merci pour ce retour, je vais le prendre en compte pour l’améliorer.
+06/06/2024, 22:17 - Rochane: Vous pouvez tester cet outil en lui rajoutant une photo (de vous par exemple) avec un prompt en anglais ( a "woman in a wedding dress" par exemple) 😁 https://huggingface.co/spaces/fffiloni/consistent-character
+06/06/2024, 23:52 - ‎+33 7 81 10 74 61 a demandé à rejoindre le groupe.
+07/06/2024, 06:57 - ‎+33 7 81 10 74 61 a rejoint ce groupe grâce à son lien d’invitation
+07/06/2024, 08:30 - ‎+33 6 28 84 68 23 a demandé à rejoindre le groupe.
+07/06/2024, 08:42 - ‎+33 6 28 84 68 23 a rejoint ce groupe grâce à son lien d’invitation
+07/06/2024, 15:50 - ‎+33 6 64 62 33 28 a demandé à rejoindre le groupe.
+07/06/2024, 16:11 - ‎+33 6 64 62 33 28 a rejoint ce groupe grâce à son lien d’invitation
+07/06/2024, 17:19 - +33 6 72 75 43 48: Bonjour pouvez vous m’envoyer le lien ? Merci beaucoup
+07/06/2024, 20:31 - Pierrick BRIAND: Bonjour @33672754348
+Le voici : https://academy.apolearn.com/classroom/29444
+08/06/2024, 07:47 - +33 6 72 75 43 48: Merci beaucoup 🙏je n’hésiterai pas à vous faire un retour… bon week-end
+08/06/2024, 09:06 - +33 7 81 10 74 61: Merci 🙏🏻existe-t-il un replay svp ? 🙏
+08/06/2024, 12:44 - Pierrick BRIAND: Bonjour à tous !
+Je viens de publier ma nouvelle vidéo sur LinkedIn, et elle est encore toute chaude (comme les croissants du matin 🥐).
+J'aborde cette semaine des sujets passionnants et j'aimerais beaucoup avoir votre avis éclairé sur les questions que je pose dans la vidéo. Je compte sur vous pour partager vos idées et expériences ! 😉
+https://www.linkedin.com/posts/pierrickbriand_lintelligence-artificielle-un-alli%C3%A9-activity-7205151283152859136-sOdL?utm_source=share&utm_medium=member_desktop

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 16
+
+=== CONTENU ===
+15/01/2025, 15:40 - +33 6 43 60 12 59: Bonjour à tous, ma question est peut être naïve mais comment gérer vous la bibliothèque de vos prompts ? Désolé si elle est hors-sol et inappropriée dans le groupe...
+15/01/2025, 15:43 - Rochane: Perso, j'utilise une banque de prompts dans l'outil text blaze, une extension chrome qui te permet de les organiser par dossier et surtout par raccourcis : style si tu paramètres /abcd, ça te génère un certain prompt.
+L'equivalent Android sur téléphone s'appelle " saisie rapide"
+15/01/2025, 16:03 - Rochane: Mise à jour *aujourd'hui* du Bot actibot.replit.app 😉
+15/01/2025, 16:17 - +33 6 71 11 12 91: Text blaze est très bien... mais pour Chrome uniquement. Comme je boycotte Google autant que possible, j'utilise Firefox, et pour les prompts : une base Notion. Moins pratique pour un accès rapide mais permet de classer un nombre beaucoup plus grand de prompts par type d'usage, avec tris, filtres...
+15/01/2025, 16:29 - +33 6 13 73 04 14: Bonjour, une autre question naïve, je débute dans IA et je voulais savoir où je pouvais trouver des modèles de prompt par type d’usage afin de les customiser. Merci pour votre aide
+15/01/2025, 16:31 - +33 6 88 57 53 04: https://www.aiforeducation.io/prompt-library
+Bonjour,
+Cette banque est une entrée en matière intéressante je crois
+15/01/2025, 17:32 - Votre code de sécurité avec ~ MR a changé. Appuyez pour en savoir plus.
+15/01/2025, 18:15 - +33 6 13 73 04 14: Merci
+15/01/2025, 19:46 - Rochane: https://youtu.be/eAjFX7htaZo?feature=shared
+Les tâches arrivent sur chat Gpt
+15/01/2025, 21:58 - Daniel Pappalardo: Quelques réflexions de Yann Le Cun sur l'IA et ses évolutions possibles. https://youtu.be/qTGust2Ur0o
+15/01/2025, 22:25 - ‎+33 6 83 55 25 01 a demandé à rejoindre le groupe.
+15/01/2025, 22:50 - +33 6 19 89 32 62: Merci c’est passionnant. J’aime aussi son approche pour les étudiants : commencer par les fondamentaux qui ne se démoderont pas puis aller sur des intersections matière/IA. Cela pourrait s’adapter à beaucoup d’étudiants dans d’autres domaines.

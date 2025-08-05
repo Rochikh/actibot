@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 21
+
+=== CONTENU ===
+https://www.linkedin.com/feed/update/urn:li:activity:7203757786025902083/
+04/06/2024, 16:33 - +33 6 87 57 34 90: Voici le lien : https://www.canotech.fr/a/35578/les-intelligences-artificielles-generatives
+04/06/2024, 16:34 - +33 6 87 57 34 90: Ou il y a aussi celle de l’INRIA Flowers : https://youtu.be/8IQ9i_QoA3A?si=iEEyZHG-ERQroyBW
+04/06/2024, 16:48 - +33 6 64 17 58 42: Pour les nouveaux arrivants, voici le lien vers le dernier live (23/05) de notre communauté whatsapp IA & Pédagogie : https://tubedu.org/w/u1MkMrQkFXg4qyuih1nc7r et voici un résumé de ce live, produit à partir de l'outil (gratuit) Videohighlight.com : https://videohighlight.com/video/summary/67c8706d-418d-4a52-9224-837dfca91047?language=fr&summaryType=compressed
+04/06/2024, 17:03 - +33 6 64 17 58 42: Sur les conseils de @33649535198, je vous partage le (très long) résumé généré par videohighlight, du dernier live. Cela évitera (pour ceux qui ne le souhaitent pas) de vous créer un compte (gratuit) pour y accéder :
+#  Introduction et Objectifs du Live
+-  Présentation des objectifs du live : partage d'outils, échanges et collaboration.
+-  Horaire fixé de 20h à 21h avec sensibilisation aux enjeux du RGPD.
+-  Programme de la soirée : présentations sur l'apprentissage à compter, outil foiezette, assistant personnel sur dust.
+#  Outil de Création d'Images pour Raconter
+-  Lucie présente un outil créé pour raconter des histoires visuelles.
+-  Importance des "tokens" dans la création d'images et leur impact sur le contenu narratif.
+-  Utilisation de mots anglais pour obtenir des résultats précis dans la création d'images.
+#  Choix du Type d'Image et Sujet Principal
+-  Importance de choisir le bon type d'image en fonction du sujet principal.
+-  Difficulté liée à l'association entre le token et l'image créée.
+# Recommandations pour la Création d'une Image
+## Conseils pour les Débutants
+- Choisissez un sujet principal au lieu de trop de sujets.
+- Commencez par un type d'image spécifique.
+## Utilisation des Qualificatifs

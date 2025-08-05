@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 19
+
+=== CONTENU ===
+10/09/2024, 13:47 - +33 6 51 51 98 20: Merci pour ce partage.
+10/09/2024, 14:05 - Rochane: je viens de l'améliorer, je pense qu'il est meilleur que tout à l'heure 🙂
+https://actibot.carrd.co/
+10/09/2024, 14:06 - +32 479 58 54 12: Ce message a été supprimé.
+10/09/2024, 14:18 - +32 479 58 54 12: Ah oui. Effectivement 🙂 Il ne se base plus uniquement sur les echanges Whatsapp..
+Du coup ce ne sont plus des bonnes pistes partagées entre pairs mais des conseils IA.
+Mais avec l'avantage de supprimer tout l'encodage fastidieux.
+Donc du pour et du contre 🙂
+10/09/2024, 14:19 - Rochane: ah non, normalement que les échanges de la communauté. Tu m'inquiètes là 😁
+10/09/2024, 14:21 - Rochane: Je suppose que c'est toi qui a posé cette question	Transformer un texte en présentation
+Sa réponse est basée uniquement sur les échanges de la communauté Pour **transformer un texte en présentation**, tu peux suivre ces étapes :
+1. **Utiliser un prompt adapté** : Par exemple, pour ChatGPT, tu peux utiliser un prompt qui demande de créer une présentation PowerPoint à partir d'un texte donné. Indique le nombre de diapositives souhaitées et le contenu à inclure.
+2. **Générer des images** : Pour chaque diapositive, génère une image qui illustre le contenu. Assure-toi d'ajouter le texte correspondant à chaque image.
+3. **Assembler les diapositives** : Une fois que toutes les images sont prêtes, associe-les aux diapositives de ta présentation.
+4. **Utiliser des outils spécifiques** : Des outils comme **Gamma** ou **Lumen5** peuvent également aider à créer des présentations à partir de textes en générant automatiquement des diapositives.
+5. **Exporter le fichier** : Finalement, exporte ta présentation au format souhaité (PowerPoint, Google Slides, etc.) pour pouvoir la partager ou la présenter.
+N'hésite pas à explorer des outils comme Canva pour des designs attrayants ! 🎨✨
+10/09/2024, 14:31 - +32 479 58 54 12: <Médias omis>
+10/09/2024, 14:33 - Rochane: il a l'information dans sa base de connaissance que l'on a partagé l'outil suno.ai, il prend ton contexte et te répond

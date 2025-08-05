@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 22
+
+=== CONTENU ===
+20/12/2024, 19:32 - Rochane: Open ai annonce la sortie d'o3
+OpenAI affirme qu'o3 se rapproche de l'AGI (Intelligence Artificielle Générale), c'est-à-dire une IA capable d'égaler l'humain dans la plupart des tâches. Les tests semblent prometteurs : o3 surpasse largement son prédécesseur sur plusieurs benchmarks, atteignant par exemple 87.5% sur le test ARC-AGI (contre 25-32% pour o1).
+Le modèle sera disponible fin janvier 2025 pour o3-mini, et peu après pour o3. <Ce message a été modifié>
+20/12/2024, 19:56 - +33 6 68 00 29 68: OpenAI et le marketing… Ils ont annoncé sortir GPT5 fin 2023, Sora début 2024, gpt Vision avec interaction avec la caméra du device de l’utilisateur on attend toujours… o1 n’est qu’une version optimisée de data analysis qui était déjà dispo à l’été 2023…
+On aura oublié o3 dans quelques semaines, je suis prêt à parier qu’on en verra jamais la couleur du moins pas comme présenté…
+On est en pleine guerre froide de l’IA ou la com prime sur la réalité des réalisations.
+20/12/2024, 19:58 - Rochane: Gpt vision avec caméra est sorti
+20/12/2024, 19:59 - +33 6 68 00 29 68: En interaction live avec la caméra ? Dans quel pays ?
+20/12/2024, 19:59 - +33 6 70 02 97 35: Pas encore en France je pense
+20/12/2024, 20:00 - Rochane: <Médias omis>
+20/12/2024, 20:01 - +33 6 70 02 97 35: <Médias omis>
+20/12/2024, 20:02 - +33 6 70 02 97 35: C’est la version payante ?
+20/12/2024, 20:02 - +33 6 68 00 29 68: Je ne l’ai pas avec mon abo à 20€/mois
+20/12/2024, 20:02 - Rochane: Oui mais ok pour la version Teams de chat Gpt
+20/12/2024, 20:03 - +33 6 68 00 29 68: Y’a t’il un paramètre pour l’activer ?
+20/12/2024, 20:03 - +33 6 70 02 97 35: 😌 ah ok merci pour l’info
+20/12/2024, 20:05 - Rochane: Pardon, Team et pas TeamS
+https://openai.com/chatgpt/team/
+20/12/2024, 20:06 - +33 6 68 00 29 68: Merci pour l’info
+20/12/2024, 20:07 - Rochane: https://youtu.be/Lv2a4Iy1zKk?feature=shared
+20/12/2024, 20:07 - +33 6 68 00 29 68: Reste GPT-5, Sora… qu’on attend encore 😅
+20/12/2024, 20:10 - +33 6 68 00 29 68: Donc o3 j’ai quand même des doutes… surtout que les meilleures fonctionnalités qui pop chez OpenAI sont pas vraiment celles qui sont annoncées

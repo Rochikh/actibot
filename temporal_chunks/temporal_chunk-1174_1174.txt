@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 9
+
+=== CONTENU ===
+02/11/2024, 22:18 - +689 87 78 58 86: L'objectif est d'acquérir une bonne culture générale, et d'être capable de répondre à des questions telles que celles du livre de G Braun (Que fait l'école des données de nos enfants)
+02/11/2024, 22:22 - Francois Bocquet: C’est donc un niveau expert ! Au passage il y a plusieurs avis et arguments dans ce livre pour lesquels je suis en désaccord ;-) La seule solution, prévoir une formation sur un an de type CNAM en occupant une fonction qui expose déjà à résoudre ces questions dont réalisations d’AIPD et gestion des contrats et avenants. Sinon je pense que c’est impossible. Il y’a quelques ressources en ligne et des livres pas mal fichus (voir ceux de Fabrice Mattatia) mais peu focalisés sur les questions d’éducation (outre celui de G Braun et d’E Kerdelhue).
+02/11/2024, 22:28 - +689 87 78 58 86: Merci pour ces précisions
+02/11/2024, 22:33 - +41 76 372 28 94: Purée, il fait 43 pages le comparatif ! Je n'aurai jamais le temps de comprendre toutes les subtilités de ces lois... Faudrait une décharge rien que pour les lire 😭 On va se concentrer sur les élèves, sur la formation pédagogique et sur la conception des moyens d'enseignement pour les cours de la semaine prochaine cette année, et peut-être l'an prochain, si j'arrive à prendre un peu d'avance sur le programme du plan d'étude, j'y reviendrai. <Ce message a été modifié>
+02/11/2024, 22:38 - Francois Bocquet: Quand je vous dis que c’est complexe et que ça ne peut être maîtrisé aisément par un enseignant (sauf si ça devient un hobby) ;-) c’est pour cela qu’il faut que les responsables de traitement se saisissent du sujet et se fassent aider par le délégué à la protection des donnés qu’ils DOIVENT désigner auprès de l’autorité nationale.
+02/11/2024, 23:13 - Vincent DROUOT: Echanges intéressants d’Asma Mhalla et Aurélien Barrau à propos de l’IA :
+https://www.youtube.com/watch?v=nlUy71yquNI
+02/11/2024, 23:30 - ‎+33 6 09 91 07 08 est parti·e
+03/11/2024, 05:32 - +33 7 63 58 01 55: Sur le site de la CNIL peut-être (pour commencer) ?

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 11
+
+=== CONTENU ===
+10/11/2024, 14:24 - Gregoire IA: Si ça peut t'aider, j'ai fais une vidéo sur la méthode de l'arbre de pensée. Je te laisse fouiller dans la chaîne.
+10/11/2024, 14:25 - +33 6 34 25 63 34: Je pense que le RAG serait vraiment une bonne chose à l'échelle d'un établissement scolaire afin de créer un vivier commun dans un chatbot consacré à l'établissement. Est-ce que certains ont déjà tenté ?
+10/11/2024, 14:30 - Fred IA: Merci à toi. Je pensais plutôt à un modèle qui s'appuie par exemple sur llama et qui est "fine-tuné" (ex: Albert, l'IA de la Dinum). Donc ce serait comprendre ce qui est réellement fait en terme de fine-tuning par rapport au rag. J'ai cru comprendre qu'avec le fine-tuning, on parle plutôt d'adapter le modèle en terme de tâches et de paramétrages tandis que le RAG sert à le nourrir en documents spécifiques.. Enfin si j'ai bien saisi
+10/11/2024, 14:38 - Gregoire IA: Oui c'est une recommandation qui a faîte là où je suis. Cela demande une infrastructure et on est rarement (les TI) à niveau pour le moment. Il faut une volonté politique.
+10/11/2024, 14:40 - Gregoire IA: On est plus au niveau du prompt que sur le modèle de langage mais ok, je vois vers quoi tu veux (faire) aller
+10/11/2024, 15:12 - +33 6 34 25 63 34: Ce serait une bonne chose... Justement avec une collègue nous allons sûrement être référents IA et dans nos missions nous aimerions donner des lignes de conduite pour les profs / élèves, et avoir une référence commune dans les Bots serait bien, surtout en cas d'utilisation par les élèves.
+10/11/2024, 16:40 - Fred IA: 60 outils IA répartis par catégorie : https://www.uneiaparjour.fr/wp-content/uploads/2024/10/Selection-outils-uneIAparjour-1024.pdf
+10/11/2024, 16:40 - Fred IA: (Octobre 2024)
+10/11/2024, 16:49 - +33 6 19 75 63 49: Ceci peut t’intéresser https://youtu.be/4b7e8K795bE?si=5Kft0PaPmsEKjz1t
+10/11/2024, 17:06 - +33 6 34 25 63 34: Merci je vais regarder ça !
+10/11/2024, 17:15 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.

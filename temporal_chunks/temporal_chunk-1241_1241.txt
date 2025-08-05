@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 14
+
+=== CONTENU ===
+15/11/2024, 05:45 - +33 6 68 00 29 68: Bonjour à tous, merci d'avoir accepté ma candidature 😃
+je ne sais pas quel est l'usage, donc voici une présentation succincte :
+Jean-Jérôme Danton, Fondateur KiXiT Consulting & Anatole.ai | Conferencier, Consultant, Formateur, Enseignant et Chercheur | IA, Webmarketing & Tourisme
+Au plaisir de participer aux échanges, bonne journée.
+15/11/2024, 06:37 - Letizia ALLEGRINI: Merci Rochane quelle est la source de ce document Merci beaucoup
+15/11/2024, 07:14 - Rochane: Je crois que ça vient de courrier international
+https://www.threads.net/@courrierinter/post/DCUW3FrNAU4?xmt=AQGzAyWBbfLM28Qqv_nNTL0URFIP2WUufkwW6uD6Sv0E6Q
+15/11/2024, 08:03 - Jean-Marc Everard: Oui, sous la direction de Pascal Vangrunderbeeck qui a par ailleurs développé plusieurs outils pour travailler avec l’IA avec ses collègues du Louvain Learning Lab. Plein d’autres outils intéressant pour la pédagogie universitaire dans son ensemble d’ailleurs…
+15/11/2024, 10:39 - Vous avez réinitialisé le lien d’invitation à ce groupe
+15/11/2024, 10:49 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+15/11/2024, 10:59 - Rochane: Désolé, j'ai l'impression que le lien du groupe a changé Utilise ce lien pour intégrer le groupe WhatsApp : https://chat.whatsapp.com/Bpy9TORsbJ3LMKL4y6nBkj
+15/11/2024, 11:14 - +32 479 94 80 38: Merci François et Jean-Marc. Outil tout récent, effectivement, nous l'avons sorti de presse hier à l'occasion du Hack'Apprendre IA de l'UCLouvain/Louvain Learning Lab. Il est disponible en OER sur https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1089.3/6/CahierLLL_IAG_OKOER.pdf. Partages et retours bienvenus!
+15/11/2024, 11:45 - +33 6 02 20 69 43: Merci rochane! Après un test, l’ia se veut être un partenaire avec des réponses chaleureuses. Il n’est pas connecté à internet mais ses datas datent de 2023.
+Il ne génère pas de fichier Excel ni de word! Il rédige les articles en donnant des sources (à vérifier)… voilà pour les premiers tests

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 11
+
+=== CONTENU ===
+07/03/2025, 09:59 - +33 6 42 26 64 70: <Médias omis>
+07/03/2025, 09:59 - +33 6 42 26 64 70: <Médias omis>
+07/03/2025, 10:00 - +33 6 42 26 64 70: <Médias omis>
+07/03/2025, 10:00 - +33 6 42 26 64 70: C’est une solution qui s’intègre à votre LMS (c’est compatible moodle)
+07/03/2025, 10:04 - +33 6 42 26 64 70: Français et RGPD (normalement) et ils travaillent en étroite collaboration avec le recherche et éducation. Pour voir traité avec eux, c’est du très fiable et solide (enfin àç l’époque, c’était il y a deux ans..)
+07/03/2025, 10:05 - +33 7 84 33 02 62: Hum… Stellia met en place l’adoptive learning mais à ma connaissance leur solution ne permet pas d’interroger l’utilisateur sur la qualité production qu’il fait grâce à l’IA… car il ne produit rien en termes de conception
+Mais j’ai peut être mal compris le point 2 ;( <Ce message a été modifié>
+07/03/2025, 10:09 - +33 6 42 26 64 70: A vérifier, mais à l’époque il était capable de suive l’apprenant dans la plateforme, détecter ses difficultés et proposer des exercices créé à partir des ressources de la plateforme à des fins de remédiation. C’est aussi un bot efficace alimenté par les contenus des cours auxquel est il inscrit (je ne parle que dans le cas d’une intégration dans un moodle) Par contre, c’était une solution très chère, pluitôt à destination des universités et grand groupe.
+07/03/2025, 10:10 - +33 6 42 26 64 70: Cher*
+07/03/2025, 10:15 - +33 7 84 33 02 62: Ok alors j’avais mal compris le point initial. Tes infos sont exactes ; c’est une solution que l’on déploie actuellement : les contenus de la plateforme sont parsées pour la partie bot et la solution est implémentée avec un LMS autre que Moodle.
+07/03/2025, 10:40 - Francois Bocquet: Minute RGPD ;-) : aucune solution ni aucun logiciel est « RGPD » ; seuls les traitements sont conformes ou non au RGPD. Il fait donc d’abord identifier qui est responsable du traitement et donc qui est responsable de la conformité. Cas n°1 : l’éditeur du service passe un contrat avec l’utilisateur, c’est un contrat de type B2C (business to consumer)-> l’éditeur est donc responsable de traitement. Ce contrat n’est pas utilisable en contexte d’éducation ni de formation.

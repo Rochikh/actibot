@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 7
+
+=== CONTENU ===
+10/11/2023, 07:44 - Rochane: Il n'est pas possible de partager un accès direct à GPT ou ChatGPT d'OpenAI avec le public sans que les utilisateurs aient besoin de créer un compte OpenAI. Cela est dû aux politiques d'OpenAI concernant l'accès et l'utilisation de ses modèles IA, qui nécessitent une authentification et des accords d'utilisation spécifiques.Cependant, il existe des moyens de rendre l'accès à des applications basées sur GPT ou ChatGPT plus accessible, tout en respectant les directives d'OpenAI :Intégration via API : Les développeurs peuvent intégrer GPT ou ChatGPT dans leurs propres applications ou sites web via l'API OpenAI. Les utilisateurs finaux n'ont pas besoin de créer un compte OpenAI pour interagir avec l'IA via ces applications, mais le développeur doit avoir un compte et respecter les politiques d'OpenAI.Démos Publiques : Parfois, OpenAI ou des tiers développeurs créent des démos publiques accessibles à tous, mais ces démos sont généralement limitées en fonctionnalité et en capacité pour éviter les abus.Partenariats Éducatifs ou de Recherche : Dans certains cas, OpenAI établit des partenariats avec des institutions éducatives ou de recherche pour permettre un accès plus large à ses modèles pour des fins éducatives ou de recherche.
+10/11/2023, 07:46 - +32 498 78 46 36: Oui mais dans le cas actuel même un compte ChatGPT gratuit ne peut pas utiliser un GPT créé par un utilisateur Plus. C'est plus dans ce sens qu'allait ma réflexion.
+10/11/2023, 07:48 - +32 498 78 46 36: <Médias omis>
+10/11/2023, 08:17 - Lucie: Enfin en GPT4 turbo !
+10/11/2023, 08:18 - Rochane: Moi aussi et je découvre la rapidité et toutes les possibilités
+10/11/2023, 08:24 - +32 496 42 84 33: C'était le sujet de la soirée sans Titre à l'Ee-Campus(Tournai )avec un avocat spécialisé sur la question ( Bertrand Vandevelde). En bref, les sociétés d'IA generatives sont dans leur droit avec la législation actuelle
+10/11/2023, 08:29 - +32 496 42 84 33: Il existe cependant des vraies questions par rapport à l'utilisateur. Nous sommes responsables des contenus par les IA generatives. Donc si on produit une œuvre proche d'un auteur, on pourrait avoir des soucis

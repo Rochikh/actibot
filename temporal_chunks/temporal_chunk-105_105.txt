@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 12
+
+=== CONTENU ===
+23/11/2023, 07:47 - Rochane: "il doit mettre entre guillemet la zone de début et de fin, et mettre en note de bas de page le logiciel d’IA utilisé, la date et le prompt qui a servi à produire ce texte. Car au final, c’est dans ces prompts, qu’on voit sa logique de compréhension, sa progression intellectuelle"
+23/11/2023, 09:28 - Jacques BARATTI: ChatGPT Réinventé: comment le faire philosopher pour améliorer ses résultats
+Ou comment apprendre la technique du "step back prompting" avec notre ami l'escargot… c'est ici https://bit.ly/49LVugK
+23/11/2023, 09:39 - Jacques BARATTI: Est-ce que quelqu'un connait, ou a déjà utilisé Fireflies (https://bit.ly/3STyx5l) un outil d'enregistrement audio de réunion qui transcrit, résume et analyse les réunions ?
+23/11/2023, 09:40 - Ahmadou Ba: Voilà la question que je voulais d’ailleurs évoquer, la détection de texte produit par l’IA marche-t-elle vraiment?
+N’y a t’il pas risque de prendre un texte original pour un texte produit par l’IA?
+J’abonde dans le sens que interrogée ChatGPT et parvenir à construire une réflexion autonome est possible mais cela révèle du grand art.
+23/11/2023, 09:40 - Ahmadou Ba: https://www.appylearny.fr/blog/prompt-chatgpt-role-vraiment-necessaire?utm_campaign=prompt-chatgpt-le-role-est-il-vraiment-necessaire&utm_medium=social_link&utm_source=missinglettr-linkedin
+23/11/2023, 09:41 - Rochane: Le problème avec ces outils, c'est que c'est très mal perçu par l'audience et tu as toujours quelqu'un qui refusera d'être "espionné" par un tel outil
+23/11/2023, 09:43 - Jacques BARATTI: oui bien sur, mais avoir un résumé de ce qui s'est dit  voir un relevé de conclusion (si l'animateur le signale bien dans ses interventions) me parait être un vrai plus après 1, 2 ou 3 h de discussions...
+23/11/2023, 09:51 - Rochane: excellente ressource, à mettre aussi sur notre banque
+23/11/2023, 09:59 - Xavier Now: L’outil est super, mais je confirme qu’il crée à chaque fois des réactions de suscpition pour celles/ceux à qui on le présente pour la première fois en réunion. Il crée un participant supplémentaire « fantôme » dans la discussion et ça « inquiète » certains…

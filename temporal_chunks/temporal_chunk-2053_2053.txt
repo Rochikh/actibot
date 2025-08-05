@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 15
+
+=== CONTENU ===
+05/04/2025, 11:04 - +32 477 45 68 37: Pour test sur smartphone, mettre son tel en mode paysage (le côté totalement responsive fait partie des améliorations envisagées)
+05/04/2025, 15:04 - +32 475 86 01 57: Je l ai vu, trop cool. Combien de crédits ça vous a pris? Avouez, les 1000 crédits de bienvenue n ont pas été suffisant?
+05/04/2025, 15:07 - +33 6 43 10 07 29: Bonjour à tous,
+Quelqu'un a  t il eu l'opportunité de tester quasar alpha? Pourriez vous me briefer? Merci d'avance
+05/04/2025, 16:07 - Votre code de sécurité avec +33 7 89 89 17 66 a changé. Appuyez pour en savoir plus.
+05/04/2025, 16:20 - Daniel Pappalardo: https://www.frandroid.com/culture-tech/intelligence-artificielle/2572601_le-mysterieux-modele-dia-aux-performances-record-ce-que-lon-sait-sur-quasar-alpha
+05/04/2025, 16:21 - Daniel Pappalardo: https://openrouter.ai/openrouter/quasar-alpha
+05/04/2025, 17:50 - Rochane: https://youtu.be/l13s3lVNK4w?feature=shared
+05/04/2025, 17:50 - Votre code de sécurité avec ~ Hervé a changé. Appuyez pour en savoir plus.
+05/04/2025, 18:14 - +32 477 45 68 37: Oui tout a fait, entre 2000 et 3000 mais on a grillé pas mal de crédits "inutilement" au début (le temps de comprendre comment "interagir" correctement avec Manus). On a juste chipoté "à la main" dans le code pour du peaufinage basique.
+05/04/2025, 18:15 - Francois Bocquet: Microsoft lance Copilot Search, son nouveau moteur de recherche par IA
+Copilot Search permet d’effectuer des recherches en langage naturel et d’accéder à des réponses sourcées. Son fonctionnement rappelle celui de ChatGPT Search et de Perplexity.  -> https://www.blogdumoderateur.com/microsoft-lance-copilot-search-nouveau-moteur-recherche-ia/
+05/04/2025, 18:15 - Francois Bocquet: Et voici le lien direct https://www.bing.com/copilotsearch
+05/04/2025, 19:03 - Votre code de sécurité avec ~ Delphine a changé. Appuyez pour en savoir plus.
+05/04/2025, 19:30 - +33 6 73 05 13 92: Intéressant.  Malheureusement sur mobile ça n'est pas du tout utilisable pour le moment. N'hésitez pas à reposer qd ce sera opérationnel je suis chaud pour tester

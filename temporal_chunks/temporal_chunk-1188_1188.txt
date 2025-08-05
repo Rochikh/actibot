@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 20
+
+=== CONTENU ===
+05/11/2024, 08:37 - Votre code de sécurité avec ~ Marie-Laure a changé. Appuyez pour en savoir plus.
+05/11/2024, 10:17 - ‎+32 498 66 16 08 a demandé à rejoindre le groupe.
+05/11/2024, 10:52 - ‎+32 471 82 75 48 a demandé à rejoindre le groupe.
+05/11/2024, 10:58 - Luis Galindo: Pour info, visualisation très intéressante pour explorer les différents LLM classés par capacités, dimensionnés par milliards de paramètres utilisés pour l'entraînement : https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/
+05/11/2024, 11:31 - Votre code de sécurité avec ~ Marie-Laure a changé. Appuyez pour en savoir plus.
+05/11/2024, 11:53 - ‎+32 498 66 16 08 a rejoint le groupe à partir de la communauté.
+05/11/2024, 11:53 - ‎+32 471 82 75 48 a rejoint le groupe à partir de la communauté.
+05/11/2024, 12:02 - +33 6 66 98 84 23: Rapport IA n° 3 - IA et éducation : accompagner les développements en cours  https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-a-la-prospective/detail-actualite/rapport-ia-n-3-3911.html
+05/11/2024, 12:17 - ‎+32 473 95 05 70 est parti·e
+05/11/2024, 12:27 - Daniel Pappalardo: https://www.clubic.com/actualite-542552-oubliez-chatgpt-claude-est-le-nouveau-roi-de-l-analyse-pdf.html
+05/11/2024, 14:29 - Votre code de sécurité avec ~ Marie-Laure a changé. Appuyez pour en savoir plus.
+05/11/2024, 16:09 - +33 6 15 79 19 04: Bonjour ! Est-ce que certains ont déjà testé podLM, qui se présente comme une alternative à notebooklm (podcast en français)?
+Merci!
+05/11/2024, 18:24 - +33 6 66 98 84 23: Livre et site https://lucie-dhorne-ia.com/
+05/11/2024, 18:24 - +33 6 66 98 84 23: Super!
+05/11/2024, 18:25 - +33 6 66 98 84 23: <Médias omis>
+05/11/2024, 18:29 - Rochane: Acheté aussi @33610720856
+05/11/2024, 18:43 - +33 7 87 38 87 69: Acheté et très utile !
+05/11/2024, 18:48 - +32 479 29 01 81: Ce livre est il accessible et utile aux débutants de l’IA?
+05/11/2024, 18:51 - Jacques BARATTI: Acheté et Excellent comme le premier avec une banque de prompts très utile y compris aux débutants bravo @Luciedhorne

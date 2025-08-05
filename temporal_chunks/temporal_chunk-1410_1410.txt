@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 546
+Messages: 14
+
+=== CONTENU ===
+Antonio Gramsci l’avait prédit : “Le vieux monde se meurt, le nouveau monde tarde à apparaître et dans ce clair-obscur surgissent les monstres.” Nous sommes à un carrefour, où la question cruciale devient : qui sommes-nous, et où allons-nous ?
+La révolution n’est plus technique, elle est narrative. Barthes l’affirmait : ce sont nos émotions qui façonnent nos croyances. Dans un monde saturé de récits manipulés, l’émotion et l’identité prennent le pas sur la technologie. Mais ces émotions elles-mêmes risquent de devenir des données manipulables.
+Plus que jamais, nous avons besoin de penseurs et de poètes pour éclairer ce qui vacille en nous, mais aussi pour nous prémunir de la standardisation technologique. Des STEM (Science, Technologie, Ingénierie, Mathématiques), passons au SEL (Sensibilité, Émotion, Littérature) : cultivons ce que la machine ne sait pas être. Car dans ce monde de plus en plus irréel, une certitude demeure : ressentir, pleinement. Une confusion des sentiments, peut-être. Mais n’est-ce pas là le début d’une existence véritable ?
+"""
+https://mariedolle.substack.com/p/la-confusion-des-sentiments
+15/12/2024, 16:44 - Rochane: à la demande du groupe Bot Builders, demain à 20h *ProfBot en action :* Crée ton Chatbot pédagogique en direct ! - Un atelier interactif pour découvrir pas à pas comment concevoir, configurer et déployer un assistant virtuel pour l'enseignement avec OpenAI et Make.com
+bit.ly/iaedu2024
+15/12/2024, 17:25 - +237 6 56 90 71 30: Bonsoir à tous. Je n'arrive pas à accéder à NotebookLM encore moins à Aistudio de Google. Est-ce un problème général?
+15/12/2024, 17:35 - martinyemani IA: Adresse IP du 237 comme vous. J'accède à notebooklm sans problème
+15/12/2024, 17:36 - +237 6 56 90 71 30: C'est bizarre là.
+15/12/2024, 17:38 - +237 6 56 90 71 30: Sauf que je ne suis pas au 237 mais en Afrique du Nord
+15/12/2024, 18:11 - Ahmadou Ba: <Médias omis>
+15/12/2024, 18:12 - +237 6 56 90 71 30: D'accord Ahmadou
+15/12/2024, 18:55 - +33 6 72 75 43 48: Bonsoir je me permets de vous demander ; je voudrais utiliser notebooklm studio mais en français ,, je crois que quelqu’un avait publié une astuce .., comment faire ? Merci

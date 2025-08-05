@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 17
+
+=== CONTENU ===
+Inquiétant 🤔 <Ce message a été modifié>
+09/04/2025, 07:54 - +41 76 372 28 94: Moi je m'y attendais. J'aurai fait pareil à leur âge. Il a trop d'autres choses extraordinaires à faire que de répondre à un QCM quand on a 20 ans, non ?
+09/04/2025, 08:25 - +32 475 86 01 57: La détection de plagiat c est une illusion que j ai abandonnée depuis longtemps... Faut revenir aux bases
+09/04/2025, 09:05 - Ahmadou Ba: Plus inquiétant encore le fait que l'IA est plus utilisée pour des activités du niveau cognitif supérieur de la taxonomie de Bloom. Ils se déchargent carrément sur l'IA pour la création, l'analyse et l'execution des tâches et cela pour des disciplines à la pointe de la technologie.
+09/04/2025, 09:13 - Rochane: Je ne l'avais pas compris comme ça en lisant l'article. J'avais juste imaginé que c'est bien de se faire aider pour des niveau élevés mais sans penser qu'ils se déchargent sur l'IA. Plutôt, comme aide
+09/04/2025, 09:13 - +33 6 64 50 56 67: Bonjour, est ce qu un outil de décision en dix questions pourrait être intéressant pour les enseignants à votre avis ?
+https://silverteacher.github.io/arbrededecision-boutonsbleus2.html
+09/04/2025, 09:15 - Rochane: Je l'ai trouvé très intéressant ton outil. Un grand merci pour ce  partage
+09/04/2025, 09:27 - +33 6 75 41 23 05: Pratique cet outil !
+09/04/2025, 09:30 - +55 11 94241-1993: oui, c’est intéressant
+09/04/2025, 09:33 - +32 498 78 46 36: Je plussoie !
+09/04/2025, 09:35 - +32 475 86 01 57: Triangulation power!
+09/04/2025, 09:41 - Clément Cahagne: Bonjour à tous ! Je vous partage mon dernier article de blog dans lequel je parle d'une utilisation en mode atelier collaboratif d'un gpts. Objectif : cocreer une carte d'empathie d'un apprenant type
+Je partage le lien de l'article, et dans l'article, le lien du GPTs
+https://www.pauuse.fr/march-dump
+A vos retours si vous testez ! <Ce message a été modifié>
+09/04/2025, 09:48 - +33 6 64 47 07 94: Bonjour. J'ai le projet d'utiliser lmstudio pour expérimenter en mode standalone, sans connexion. Avez vous une préconisation de machine voire modèle qui tiendrait la route pour monter et évaluer différents moteur possibles depuis lmstudio ?

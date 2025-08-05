@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 14
+
+=== CONTENU ===
+03/01/2025, 12:07 - ‎+33 6 20 44 17 00 est parti·e
+03/01/2025, 12:09 - +33 6 25 79 50 95: Merci beaucoup Jacques je vais également tester tout ça prochainement.
+J'avais d'ailleurs vu Clement Cahagne l'évoquer lors d'une récente webconf qu'il animait.
+PS : @tous prêtez une oreille à son chouette podcast https://www.rdventerredigitale.com/podcasts
+03/01/2025, 16:09 - estelle Duterage Drion IA: Comment générer des activités depuis vos cours stockés sur moodle
+Dites moi si vous avez testé ?
+Nolej.io <Ce message a été modifié>
+03/01/2025, 16:15 - Clément Cahagne: <Médias omis>
+03/01/2025, 16:17 - Clément Cahagne: Merci @33611028249 ! Et comme c'est Noël, en voici un de plus : une aide à la rédaction de prompts selon la méthode ACTIF. Plutôt pratique aussi celui ci : https://chatgpt.com/g/g-lmBiwaQlL-generateur-de-prompt-actif
+03/01/2025, 16:18 - Clément Cahagne: Et encore merci Arnaud pour la mise en lumière de rdventerredigitale.com le podcast qui décrypte l'actualité des outils digitaux du monde de la formation !
+03/01/2025, 16:22 - Jacques BARATTI: Super merci, je teste et te fais un retour !
+03/01/2025, 17:02 - +213 661 96 97 18: Je viens d’essayer et les résultats sont interessants, j’ai même essayé avec une consigne en anglais mais le résultat était en français ( possibilité de traduction?)
+03/01/2025, 17:04 - Rochane: Demande-lui de te répondre en anglais ?
+03/01/2025, 17:10 - Jacques BARATTI: Bonjour Clément, je viens de tester ton GPT voici des premiers retours : 1. Il pose les bonnes questions à l'utilisateur ; 2. Les phrases données permettent de bien rédiger son propre prompt. J'ai été un peu surpris par la présence de 2 phases seulement (j'en attendais 5 !) mais les 2 phases incluent les 5 termes de la méthode ACTIF donc acte. Le prompt généré est long (avec des paragraphes) mais de qualité (j'ai pris une exemple que je connais bien pour avoir une base de comparaison). Il me donne dans la foulée le plan de cours (je ne l'avais pas demandé !) qui est aussi très bien. Donc globalement grosse satisfaction. Je sais qu'on peut diffuser librement le lien, merci à toi !  Jacques/Shi-Ka-She

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 13
+
+=== CONTENU ===
+Outils payants
+Metaxplo
+Metaxplo est une plateforme d'analyse de la littérature scientifique qui utilise l'IA pour cartographier les relations entre les concepts et les auteurs. Elle peut aider à identifier les tendances et les lacunes dans un domaine de recherche.
+Scite
+Scite est un outil qui analyse les citations d'articles scientifiques pour déterminer s'ils les supportent, les contredisent ou en font simplement mention. Cela peut être utile pour évaluer la qualité et la pertinence des articles pour une revue de littérature.
+Dimensions
+Dimensions est une base de données bibliographiques qui utilise l'IA pour relier les publications, les subventions, les essais cliniques et les brevets. Elle peut aider à obtenir une vue d'ensemble complète d'un domaine de recherche pour une revue de littérature
+. Ces outils, gratuits ou payants, peuvent grandement faciliter le processus de revue de littérature en utilisant l'IA pour analyser, résumer et relier les publications scientifiques pertinentes. Leur utilisation dépendra des besoins spécifiques de chaque projet de recherche.
+Elicit
+Elicit est un outil qui aide les chercheurs à structurer et à organiser leur revue de littérature. Il permet de poser des questions de recherche, de trouver des articles pertinents, et de synthétiser les résultats. Elicit facilite également la prise de notes et la création de tableaux pour comparer les études.
+Research Rabbit
+Research Rabbit est un outil qui aide à découvrir de nouveaux articles et auteurs en se basant sur des publications déjà lues. Il crée des "cartes" de recherche qui montrent comment les articles sont interconnectés, ce qui est utile pour explorer des thèmes et des tendances dans la littérature. Ces outils, en complément de ceux déjà mentionnés, offrent des fonctionnalités uniques qui peuvent enrichir le processus de revue de littérature en facilitant la recherche, l'analyse et la synthèse des informations.
+06/08/2024, 22:42 - Gregoire IA: mais @221774242616 a raison, les IA donnent des reponses superficielles, il faut y aller de manière iterative

@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 8
+
+=== CONTENU ===
+Si vous l'avez déjà fait, ou vous avez déjà des exemples d'activités sur lesquelles faire travailler les élèves, j'essayera de l'adapter en HG et je vous partagerai ma scénarisation avant de dérouler la séance.
+20/01/2024, 17:11 - Rochane: Est ce que tu peux nous donner le context et quand tu vas faire cette formation ? ( On se croirait avec Chat GPT 😂)
+20/01/2024, 17:22 - Ahmadou Ba: Bon au début de l'année j'avais projeter de faire une formation des enseignants et des élèves dans l'academie de thies (250 enseignants et 500 élèves) dans le cadre d'un projet de notre association SENUM j'avais fais la scénarisation complète et avais formé les formateurs qui devrait m'epauler. Mais au dernier moment, ils ont dit que c trop tôt de former les élèves aux IA gen. Finalement ce sont les enseignants qui ont été formé. Et D'après les retour que j'ai reçu, ils ont apprécié la formation mais reste un peu réticent pour l'utilisation pour les eleves et les inspecteurs exigent des participant qu'ils dupliquent la formation aupres des collègue et des élèves.
+Alors je me dis que c injuste que je forme des enseignants qui forment leurs élèves sans que je forme les miens alors que je suis dans une autre académie.
+20/01/2024, 17:22 - Lucie: Ma préconisation : fais leur remplir une fiche d'usage pour travailler leur pensée critique. Comment ont ils utilisé l'IA. Apports. Limites. Etc...
+20/01/2024, 17:24 - Ahmadou Ba: oui mais je doute que bcp le connaisse déjà, quand j'en ai référence en classe j'ai l'impression qu'ils ne connaissent pas. D'ailleurs bcp d'enseignant ne le connaissais pas lors de ma formation
+20/01/2024, 17:26 - Lucie: Oui c'est pour ça. Cette fiche est comme un rapport d'étonnement. Imagine que c'est une classe découverte ;) ils restent et écrivent leurs découvertes. Que sait il faire ? Quelles sont ses lumites. Que puis je faire avec ? Est-ce, ce que je que peux faire avec est bien ou mal etc ?
+20/01/2024, 17:29 - Ahmadou Ba: ah vous proposez d'abord une sorte d'évaluation diagnostique pour faire l'État des lieux avant de me lancer. Merci pour bcp

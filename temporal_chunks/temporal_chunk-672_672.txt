@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 24
+
+=== CONTENU ===
+24/06/2024, 08:25 - Yann-Ael: Le prompt inclue le transcript et les images (une image/minute). Je peux donner plus d’infos en DM si vous le souhaitez
+24/06/2024, 10:24 - +33 7 44 11 22 11: Il faut donner les explications ici stp 😅😅
+24/06/2024, 12:22 - +33 6 02 20 69 43: Je partage également. Voici un exemple concret avec des activités IA dans un module elearning
+https://youtu.be/y2yYK5ZJsoA?si=0-4UH97G2pzAoDd3
+24/06/2024, 12:23 - +33 6 02 20 69 43: Je connaissais pas merci
+24/06/2024, 12:24 - +33 6 02 20 69 43: On parle de luma? Ou de Luna ?
+24/06/2024, 12:31 - Clément Cahagne: Manque d’inspiration sur le titre ? 😅
+24/06/2024, 12:36 - +33 6 69 92 67 77: Luma oui je souhaite savoir d’autre l’utilise quelles sont les limites pour votre demande activités . Merci 🙏
+24/06/2024, 19:33 - Céline Averseng: C'est dommage qu'on ne puisse pas voter pour plusieurs...
+24/06/2024, 20:23 - +33 6 52 61 52 03: Merci !
+25/06/2024, 01:07 - Ahmadou Ba: Bonsoir,
+Combien de messages peut on envoyer à un GPT à partir d'ub compte gratuit.
+J'ai crée un GPT pour aider mes eleves dans leur preparation du bac mais je ne sais pas combien de question pourraient ils poser au GPT ?
+25/06/2024, 07:53 - Votre code de sécurité avec +33 7 83 16 44 23 a changé. Appuyez pour en savoir plus.
+25/06/2024, 07:55 - Rochane: Ça dépend mais Ludo salenne dans une vidéo a parlé de moins de 15 en moyenne
+25/06/2024, 10:03 - ‎+32 485 08 89 54 a demandé à rejoindre le groupe.
+25/06/2024, 10:32 - Céline Averseng: <Médias omis>
+25/06/2024, 10:55 - Letizia ALLEGRINI: Très bonne idée merci
+25/06/2024, 10:59 - ‎+32 485 08 89 54 a rejoint le groupe à partir de la communauté.
+25/06/2024, 11:02 - Rochane: Excellente initiative, merci Céline 👌
+25/06/2024, 11:15 - +33 6 76 04 48 20: Super cette idée : aussi fun pour des groupes de discussion entre amis qu’utile dans un cadre professionnel !
+Comment avez-vous fait pour donner l’info à ChatGPT ?
+25/06/2024, 11:18 - Céline Averseng: Ouvrez la discussion.
+Appuyez sur Plus d'options > Plus > Exporter discussion.

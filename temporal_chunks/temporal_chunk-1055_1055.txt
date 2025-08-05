@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 23
+
+=== CONTENU ===
+10/10/2024, 15:33 - Rochane: il y aussi D-Id mais toujours avec des crédis
+10/10/2024, 15:37 - +33 6 19 75 63 49: Et https://murf.ai/
+10/10/2024, 15:42 - +33 6 19 75 63 49: <Médias omis>
+10/10/2024, 16:00 - +33 6 70 02 97 35: Merci pour la réponse
+10/10/2024, 16:54 - Pierrick: Sur le champ des gros dispositifs  :  je viens de voir une présentation de eCharlemagne pour un assistant IA sur un dispositif tout intégré dans Moodle K2R2 qui semble très prometteur plutôt skotché certains ont'ils des retours ? https://www.e-charlemagne.com/
+10/10/2024, 16:55 - ‎+33 7 86 04 92 69 a demandé à rejoindre le groupe.
+10/10/2024, 16:56 - ‎+33 6 37 44 57 53 a demandé à rejoindre le groupe.
+10/10/2024, 18:12 - ‎+33 7 86 04 92 69 a rejoint ce groupe grâce à son lien d’invitation
+10/10/2024, 18:12 - ‎+33 6 37 44 57 53 a rejoint ce groupe grâce à son lien d’invitation
+10/10/2024, 20:53 - ‎+33 6 01 90 46 31 a demandé à rejoindre le groupe.
+10/10/2024, 21:16 - ‎+33 6 01 90 46 31 a rejoint ce groupe grâce à son lien d’invitation
+10/10/2024, 21:55 - ‎+33 6 80 92 53 93 est parti·e
+10/10/2024, 21:58 - Fred IA: "Subtitle Édit" est top et opensource
+10/10/2024, 22:03 - +32 485 16 69 09: Bonsoir à toutes et tous, connaissez-vous un outil permettant d’extraire d’un PPT, les notes, schémas, images…etc dans un .doc ou PDF ? Merci bcp de votre aide.
+10/10/2024, 22:05 - Rochane: Aspose.Slides Parser App
+Cette application en ligne gratuite permet d'extraire facilement le texte et les images de vos présentations PowerPoint67 :
+Uploadez votre fichier PPT sur le site.
+Cliquez sur "PARSE".
+Téléchargez le fichier ZIP contenant les images et le texte extraits.
+10/10/2024, 22:07 - +32 485 16 69 09: Je vais tester cela, merci beaucoup ☺️
+10/10/2024, 23:02 - +213 558 04 82 89: Bonsoir à tous et à toutes,
+Je cherche un outil qui permet de transformer un texte en braille Svp.
+10/10/2024, 23:06 - +221 76 598 97 25: Connaissez-vous un outil Open source qui peut facilement traduire un texte Word en POwer point

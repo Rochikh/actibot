@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 20
+
+=== CONTENU ===
+17/09/2024, 21:52 - Lucie: La réponse m'intéresse aussi
+17/09/2024, 22:11 - +33 6 74 05 09 80: <Médias omis>
+17/09/2024, 22:11 - +33 6 74 05 09 80: <Médias omis>
+17/09/2024, 22:12 - +33 6 74 05 09 80: A ceux qui cherchaient commebt faire des BD voilà 2 petits exemples que j'avais fait. Avec ChatGPT pour le script, DALL-E pour les images et Canva pour la mise en forme
+17/09/2024, 22:13 - +33 6 74 05 09 80: A l'époque je publiais sur LinkedIn des petites BD sur le thème du marketing, pour en expliquer certains concepts.
+J'avais encore un peu de mal à générer des personnages persistants mais avec un peu de pratique ça marche très bien.
+17/09/2024, 22:15 - ‎+33 6 15 64 42 81 a demandé à rejoindre le groupe.
+17/09/2024, 22:17 - ‎+33 6 15 64 42 81 a rejoint le groupe à partir de la communauté.
+17/09/2024, 22:18 - +212 644-562660: Il semble qu'on peut prétendument reprouduire le chain of thought avec un simple Custom GPT selon cette video.
+https://m.youtube.com/watch?v=3z5k8dofu_0&pp=ygUNc2tpbGwgbGVhcCBhaQ%3D%3D
+Voici le systeme prompt à donner au GPT:
+You are an AI assistant designed to think through problems step-by-step using Chain-of-Thought (COT) prompting. Before providing any answer, you must:
+Understand the Problem: Carefully read and understand the user's question or request.
+Break Down the Reasoning Process: Outline the steps required to solve the problem or respond to the request logically and sequentially. Think aloud and describe each step in detail.
+Explain Each Step: Provide reasoning or calculations for each step, explaining how you arrive at each part of your answer.
+Arrive at the Final Answer: Only after completing all steps, provide the final answer or solution.
+Review the Thought Process: Double-check the reasoning for errors or gaps before finalizing your response.
+Always aim to make your thought process transparent and logical, helping users understand how you reached your conclusion.
+17/09/2024, 22:35 - Lucie: Top ! Merci pour le partage
+17/09/2024, 22:50 - Ahmadou Ba: C'est vraiment interessant. Je vais m'y mettre également pour le partage. <Ce message a été modifié>

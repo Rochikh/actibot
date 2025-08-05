@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 10
+
+=== CONTENU ===
+23/11/2023, 09:40 - Ahmadou Ba: https://www.appylearny.fr/blog/prompt-chatgpt-role-vraiment-necessaire?utm_campaign=prompt-chatgpt-le-role-est-il-vraiment-necessaire&utm_medium=social_link&utm_source=missinglettr-linkedin
+23/11/2023, 09:41 - Rochane: Le problème avec ces outils, c'est que c'est très mal perçu par l'audience et tu as toujours quelqu'un qui refusera d'être "espionné" par un tel outil
+23/11/2023, 09:43 - Jacques BARATTI: oui bien sur, mais avoir un résumé de ce qui s'est dit  voir un relevé de conclusion (si l'animateur le signale bien dans ses interventions) me parait être un vrai plus après 1, 2 ou 3 h de discussions...
+23/11/2023, 09:51 - Rochane: excellente ressource, à mettre aussi sur notre banque
+23/11/2023, 09:59 - Xavier Now: L’outil est super, mais je confirme qu’il crée à chaque fois des réactions de suscpition pour celles/ceux à qui on le présente pour la première fois en réunion. Il crée un participant supplémentaire « fantôme » dans la discussion et ça « inquiète » certains…
+23/11/2023, 10:01 - Jacques BARATTI: Je note la réticence de certains donc, si vous l'avez utilisé que vaut le résumé fait ?
+23/11/2023, 10:43 - fm Florent iA: Bah les Cassandre oublient qu'ils dévoilent toute leur vie sur les réseaux sociaux, utilisent eux même des mails  réputés pour leur partage de donnees implicite (gmail ?... 🙄 )...
+L'implicite est le coeur de la problématique. Si c'est annoncé c'est toujours plus compliqué que de faire signer un km de papier de conditions d'utilisation. Peut être revoir l'annonce sous forme de condition d'utilisation au km 🙄 ( pince sans rire...)
+23/11/2023, 10:47 - fm Florent iA: Peut être faite une IA sur le sujet de comment faire passer la pilule sans perdre de temps / ça pourrait être intéressant de créer une démarche facilitant l'acceptation
+23/11/2023, 11:44 - Jacques BARATTI: Pour convaincre des personnes réticentes à l'utilisation d'un logiciel comme Fireflies pour enregistrer les échanges en audio et faire un résumé de réunions, vous pouvez mettre en avant les points suivants :

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 12
+
+=== CONTENU ===
+03/02/2025, 16:55 - ‎+33 6 89 54 90 68 a rejoint ce groupe grâce à son lien d’invitation
+03/02/2025, 16:55 - ‎+33 6 72 87 77 56 a rejoint ce groupe grâce à son lien d’invitation
+03/02/2025, 17:14 - ‎+33 6 12 30 28 84 est parti·e
+03/02/2025, 18:08 - Mickaël: Bonjour. J'aime beaucoup Viktorovitch mais il est très loin d'être à l'origine du concept de post vérité. C'est un concept bien travaillé depuis pas mal d'année maintenant : https://www.meta-media.fr/2017/01/30/mais-qui-donc-a-invente-la-post-verite.html
+03/02/2025, 18:14 - Mickaël: Salut Simon. Alors tout d'abord, tu es chaleureusement invité mercredi aux RDV de la pédagogie de l'académie de Dijon. On anime un atelier sur les enjeux de l'évaluation à l'ère de l'IA avec Jean-Luc Pernette, directeur adjoint de la délégation au numérique éducatif.
+Sinon, tu peux jeter un coup d'oeil du côté de Logbook. Je précise d'emblée que je ne suis pas objectif car je les accompagne depuis quelques mois, mais surtout parce que je crois qu'ils ont trouvé le bon équilibre dans le développement d'un outil alimenté par une IA permettant de de rendre l'évaluation plus efficace et significative, sans abandonner l'expertise humaine à un algorithme.
+03/02/2025, 18:15 - Mickaël: Ci-joint leur site: https://www.logbook.education/
+03/02/2025, 18:28 - Votre code de sécurité avec ~ MR a changé. Appuyez pour en savoir plus.
+03/02/2025, 19:28 - Gregoire IA: Bien curieux d'en savoir plus.
+De mon côté je travaille sur la génération d'une grille d'évaluation sur la base du plan de cours, des objectifs d'apprentissage quid ceux visés par l'activité d'évaluation et les possibles documents annexes (mise en situation, études de cas,etc. Eux mêmes générés par une IA pour être alignés pédagogiquement)
+La grille permet alors d'évaluer les travaux et l'IA la complète avec commentaires et notes pour chaque critère.
+Le BOT travaille avec une base documentaire, les grilles sont générées puis ajoutées manuellement dans un second BOT. Mes compétences ne me permettent pas d'automatiser plus loin... Je pensais aller avec Make

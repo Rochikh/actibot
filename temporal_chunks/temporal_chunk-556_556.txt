@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 24
+
+=== CONTENU ===
+[17] https://edtechactu.com/digital-learning/avec-son-ia-glaaster-aide-les-dyslexiques-a-lire/
+[18] https://www.salsify.com/fr/blog/tout-savoir-prompts-ia
+[19] https://www.abcaider.fr/3-conseils-pour-amenager-textes-et-consignes-pour-les-lecteurs-fragiles-et-ou-dyslexiques/
+[20] https://alain.goudey.eu/side/2024/01/23/il-nest-pas-necessaire-detre-poli-avec-lia-mais-de-savoir-lui-parler-comment-prompter-en-2024/
+28/05/2024, 22:43 - Fred IA: Oui c'est bien ça. Autrement dit, si on passe sur gpt3.5, est ce qu'on beneficie toujours de la connexion internet ? (Est ce que la connexion Web est decorrelée du modèle utilisé ?)
+29/05/2024, 14:13 - ‎+33 7 74 17 35 98 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:14 - ‎+33 7 71 11 68 32 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:17 - ‎+33 6 81 36 11 13 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:23 - ‎+33 6 28 18 49 87 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:29 - ‎+34 625 50 86 26 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:30 - ‎+33 6 33 25 39 61 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:31 - ‎+33 6 08 73 04 79 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:31 - ‎+33 6 32 89 69 37 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:32 - ‎+1 (613) 890-3412 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:32 - ‎+33 6 33 25 39 61 est parti·e
+29/05/2024, 14:32 - ‎+33 6 88 62 63 47 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:34 - ‎+33 6 09 21 53 16 a rejoint le groupe à partir de la communauté.
+29/05/2024, 14:45 - ‎+33 7 44 11 22 11 a rejoint le groupe à partir de la communauté.
+29/05/2024, 15:21 - ‎+1 (742) 240-5587 a été ajouté·e
+29/05/2024, 15:20 - ‎+1 (742) 240-5587 a rejoint le groupe à partir de la communauté.
+29/05/2024, 15:21 - +1 (742) 240-5587: null
+29/05/2024, 15:22 - +33 6 88 57 53 04: ⚠️ bot 🔼
+@33649535198
+29/05/2024, 15:23 - +33 6 88 57 53 04: 🙏🙏

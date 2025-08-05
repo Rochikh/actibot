@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 11
+
+=== CONTENU ===
+28/05/2024, 11:18 - Votre code de sécurité avec Nicolas Deguerry a changé. Appuyez pour en savoir plus.
+28/05/2024, 11:40 - Jacques BARATTI: j'ai du manquer quelque chose mais pour moi GPT-4 est gratuit (avec des limitations) Questions avec un compte gratuit : "quel modèle de langage utilises-tu ?" Réponse : "J'utilise GPT-4, un modèle de langage développé par OpenAI. GPT-4, comme ses prédécesseurs, est basé sur l'architecture des transformeurs, mais il est plus avancé en termes de taille, de capacités et de performance. Mon modèle a été entraîné sur une vaste quantité de textes provenant de diverses sources pour être capable de comprendre et de générer du langage naturel de manière cohérente et pertinente."
+28/05/2024, 11:46 - +33 6 76 04 48 20: Je suis d’accord pour ce qui est des limitations (c’est d’ailleurs celui dont on dispose avec Copilot).
+Concernant mon propos on me parlait de ChatGPT4 (la version payante actuelle).
+28/05/2024, 16:39 - Fred IA: Bonjour à toutes et tous. Quelqu'un aurait il par hasard testé si la connexion au Web depuis Chat GPT se poursuit, dans le cas où l'on passe du modèle gpt-4o vers gpt-3.5 à cause de la limitation (avec la version gratuite de ChatGPT). Ce serait intéressant de savoir. Merci par avance 🙂
+28/05/2024, 16:42 - Fred IA: (En complément et pour préciser ma pensée, on pourrait se demander si après passage à gpt.3.5, on ne retombe pas avec des données antérieures à janvier 2022.. Espérons que non <Ce message a été modifié>
+28/05/2024, 16:56 - Rochane: Tu veux dire si la conversation initiée et arrêtée, pour le dépassement de quota, peut continuer avec chat Gpt 3.5 ?
+28/05/2024, 18:52 - Francois Bocquet: Nouvelle publication de l’UNESCO et en français  : Orientations pour l’intelligence artificielle générative dans l’éducation et la recherche https://unesdoc.unesco.org/ark:/48223/pf0000389901
+28/05/2024, 19:21 - ‎Iulia Grosman AIM a ajouté +32 477 88 54 86
+28/05/2024, 19:22 - ‎+32 471 27 72 76 a été ajouté·e
+28/05/2024, 19:21 - ‎Iulia Grosman AIM a ajouté +32 471 27 72 76

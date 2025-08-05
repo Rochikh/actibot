@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 18
+
+=== CONTENU ===
+21/03/2025, 14:34 - +33 7 66 54 11 11: Je ne trouve pas dans la version gratuite
+21/03/2025, 14:46 - +33 6 65 62 92 04: J'ai réussi à l'avoir sur mon deuxième compte gmail, gratuitement en partant du lien suivant: https://notebooklm.google/. Peut-être que c'est aléatoirement mindmap ou document de synthèse en fonction des comptes gratuits qui sont créés. Je ne sais pas si je suis clair :) <Ce message a été modifié>
+21/03/2025, 15:00 - ‎+1 (819) 574-5118 a demandé à rejoindre le groupe.
+21/03/2025, 15:12 - +33 7 66 54 11 11: Effectivement cela dépend du compte Gmail.
+Je viens d'avoir l'icône mais en me connectant avec un autre compte.
+Ceci rend difficile de le présenter en formation
+21/03/2025, 15:53 - +33 7 44 11 22 11: Bonjour à toute la communauté, je suis à la recherche d'un outil IA qui m'aiderait à réaliser un storyboard visuel à partir d'invites.
+Merci
+21/03/2025, 16:36 - Rochane: Claude le fait très bien avec sa fonctionnalité artefact. Il génère un code, souvent en react, et tu peux itérer en lui demandant les modifications
+21/03/2025, 16:36 - ‎+1 (819) 574-5118 a rejoint ce groupe grâce à son lien d’invitation
+21/03/2025, 18:09 - Rochane: Un nouveau modèle text to image classé premier au dessus de flux et dall-e. Il est gratuit pour l'instant et très fidèle au texte que l'on lui demande de générer
+https://preview.reve.art/app/explore
+21/03/2025, 18:15 - Gregoire IA: Un storyboard : générer les images, dans quel cas Claude le ferait en effet, ou plutôt un outil qui scenarise ?
+21/03/2025, 18:22 - +33 7 44 11 22 11: Un outil qui scénarise serait parfait.
+C'est pour l'inclure dans mon mémoire et aussi le présenter lors de ma soutenance.
+21/03/2025, 18:31 - Rochane: J'ai repris le côté visuel telle une infographie
+21/03/2025, 19:59 - StéphaneIA: Pour le story board Gemini 2.0 avec image génération sur aistidio le fera aussi
+21/03/2025, 20:30 - Gregoire IA: Je termine la dernière version de mon générateur de présentation et on pourrait travailler sur un agent qui scenarise.

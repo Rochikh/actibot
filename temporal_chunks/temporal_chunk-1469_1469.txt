@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 22
+
+=== CONTENU ===
+25/12/2024, 17:31 - Votre code de sécurité avec Batier Christophe a changé. Appuyez pour en savoir plus.
+25/12/2024, 17:42 - Votre code de sécurité avec Batier Christophe a changé. Appuyez pour en savoir plus.
+25/12/2024, 18:45 - Rochane: <Médias omis>
+25/12/2024, 20:02 - ‎+33 6 13 59 39 90 est parti·e
+25/12/2024, 20:57 - Votre code de sécurité avec +33 7 63 74 10 73 a changé. Appuyez pour en savoir plus.
+25/12/2024, 20:57 - Votre code de sécurité avec ~ Maryam a changé. Appuyez pour en savoir plus.
+26/12/2024, 08:04 - +33 6 72 75 43 48: <Médias omis>
+26/12/2024, 09:18 - Votre code de sécurité avec Batier Christophe a changé. Appuyez pour en savoir plus.
+26/12/2024, 09:51 - ‎+1 (902) 355-8325 a demandé à rejoindre le groupe.
+26/12/2024, 10:55 - +33 7 87 38 87 69: <Médias omis>
+26/12/2024, 11:02 - ‎+1 (902) 355-8325 a rejoint le groupe à partir de la communauté.
+26/12/2024, 11:48 - Votre code de sécurité avec ~ Sab a changé. Appuyez pour en savoir plus.
+26/12/2024, 15:03 - ‎+33 6 74 39 90 60 a demandé à rejoindre le groupe.
+26/12/2024, 15:12 - +33 6 70 57 72 80: Bonjour à tous j’ai une question pour les chatbot.
+Est-ce que l’apprenant peut poser sa question oralement et recevoir la réponse également à l’oral ?
+26/12/2024, 15:12 - ‎+33 6 74 39 90 60 a rejoint ce groupe grâce à son lien d’invitation
+26/12/2024, 15:13 - Rochane: Possible avec un développement plus poussé que du text to text
+Mais quand même beaucoup plus complexe car même le chat d'Openai sur WhatsApp ne l'ont pas fait en audio <Ce message a été modifié>
+26/12/2024, 15:34 - +32 479 29 01 81: Quelle ia me conseillez vous pour transformer un questionnaire avec réponses en texte continu ?
+26/12/2024, 15:39 - Amadou GuisséIA: Bonjour,
+J'ai essayé de créer un podcast (audio) via Notebook. Cela a fonctionné, mais malheureusement, c'est en version anglaise. Est-ce que cela signifie que les podcasts ne sont pas encore configurés en version française ? Est-ce également votre cas ?
+Merci <Ce message a été modifié>

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 19
+
+=== CONTENU ===
+15/12/2023, 18:12 - Ahmadou Ba: Oui et celui-là également.
+J’ai encore eu le temps de les testés
+15/12/2023, 18:14 - Rochane: Je ne suis pas sûr mais j'ai l'impression que ça marche qu'avec Google meet
+15/12/2023, 18:16 - +33 7 64 08 12 10: https://fireflies.ai/
+15/12/2023, 18:22 - Ahmadou Ba: J’ai simulé une visioconférence et je l’ai lancé mais l’enregistrement n’a pas démarré je vais réessayer. C sur Meet.
+15/12/2023, 18:24 - Rochane: Moi je l'ai déjà utilisé sur meet et très facile. Le seul souci c'est que ton assistance doit être OK et souvent c'est un frein
+15/12/2023, 19:14 - +33 6 74 03 79 35: Merci pour vos sites, mais je cherche l analyse d un fichier audio genre MP3 direct
+15/12/2023, 20:18 - Votre code de sécurité avec +33 6 09 50 08 43 a changé. Appuyez pour en savoir plus.
+16/12/2023, 08:06 - Rochane: Quand tu dis analyse, tu veux dire résumé, transcription...? Si c'est ça, transcript.lol fait très bien le job
+16/12/2023, 08:32 - +33 6 74 03 79 35: Exactement.. merci
+16/12/2023, 08:57 - +32 470 11 45 36: Bjr, arrivez vous à obtenir une facture mensuelle d’openai ? Ça pose problème en compta sans facture.
+16/12/2023, 09:09 - Rochane: Oui bien sûr, dans Chat GPT, dans le menu de gauche, tu as Mon plan, là,tu as une fenêtre avec un lien qui te propose de gérer ta facturation
+16/12/2023, 09:12 - +32 470 11 45 36: Oui je sais mais nulle part je vois un accès aux factures pour pouvoir les télécharger.
+16/12/2023, 10:05 - Thierry VANOFFE: Non pas en français et en 2023 … peut être après l’été 2024 pour Google Meet
+16/12/2023, 10:06 - +237 99148639: Merci infiniment pour ces partages
+16/12/2023, 10:07 - +237 99148639: Dans le même sens possible de trouver une IA qui permet de transcrire un audio en partition ?
+16/12/2023, 10:15 - Jacques BARATTI: Scribe site gratuit RGPD realise la transcription d'un fichier mp3 en texte
+C'est un peu long mais le résultat est très correct
+16/12/2023, 10:26 - Laurent The Cure: Si tu tentes de retranscrire en musique les beugleuments d'Aya Nakamura, il va falloir attendre chatgpt7694. (pardon pour la transgression)

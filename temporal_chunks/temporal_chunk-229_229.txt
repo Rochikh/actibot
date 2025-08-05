@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 19
+
+=== CONTENU ===
+3. [7 meilleurs outils d’IA pour les enseignants qui vous feront gagner du temps en 2023 | ClassPoint](https://www.classpoint.io/blog/fr/7-meilleurs-outils-dia-pour-les-enseignants-qui-vous-feront-gagner-du-temps-en-2023)
+24/02/2024, 10:02 - Jean-Marc Everard: Merci beaucoup ! C’est marrant, je n’ai pas pensé à demander à perplexity p. Ex. Comme quoi en fonction de l’heure de la journée ou du contexte, on a des réflexes différents.. 🙏
+24/02/2024, 10:20 - ‎+32 494 27 47 49 est parti·e
+24/02/2024, 10:27 - Pierrick BRIAND: Merci Rochane pour cette interview de Ludovic. Son point de vue sur l’avenir des formateurs est effectivement très tranchant mais assez réaliste.
+25/02/2024, 07:40 - Rochane: Ce prompt, tiré de la newsletter de Flint est *magique* 🤩 : [INSÈRE TA REQUÊTE, par exemple : "qu'est-ce que l'inférence ?"]
+1) Rédigez un plan pour répondre à la requête suivante de façon très simple
+2) Comment ce plan pourrait-il être meilleur ?
+3) Appliquez cette réflexion à au plan que vous avez élaboré
+4) Rédigez une réponse à la requête
+5) Comment pourriez-vous améliorer la réponse ?
+6) Rédigez la réponse améliorée <Ce message a été modifié>
+25/02/2024, 12:02 - Rochane: Un outil IA, juste à partir du lien d'une vidéo, l'analyse et vous propose un ou plusieurs shorts avec des sous-titres , des incrustations et en choisissant le passage le plus  relevé de la vidéo. https://opus.pro/
+Un exemple avec la vidéo d'hier (j'aurais pu éditer un ou 2 mots et modifié les incrustations)
+25/02/2024, 12:07 - Rochane: Vous avez supprimé ce message
+25/02/2024, 12:08 - Rochane: https://clip.opus.pro/clip/P1022510OipS
+25/02/2024, 12:27 - Jean-Marc Everard: Oulala, ça je vais essayer vue la longueur de mes vidéos 😂
+25/02/2024, 13:09 - +33 6 88 57 53 04: Ce message a été supprimé.
+25/02/2024, 14:41 - Ahmadou Ba: Bonjour,
+Avez vous une IA qui est performant pour assister dans la recherche académique et universitaire que des étudiants peuvent utiliser pour orienter leurs recherches scientiques ?

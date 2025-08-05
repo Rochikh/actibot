@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 17
+
+=== CONTENU ===
+Meeting ID: 848 3589 9595
+Passcode: 361254
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+Je reposterai ce message jeudi 16/11 vers 17h15 pour les nouveaux inscrits.
+14/11/2023, 15:52 - +32 486 46 29 06: Bonjour à tous, est ce que vous pouvez me suggerer un site gratuit pour mettre en page avec l ia un document long sur Word en l important? Gamma est limité à 5000 caractères et ne reprend pas de manière fiable l ensemble de mon document. Merci d avance :-)
+14/11/2023, 16:00 - Rochane: Il ya le plugin Doc maker qui fait ça très bien mais lié à chat GPt plus ( donc pas gratuit)
+14/11/2023, 16:11 - Rochane: Vous avez supprimé ce message
+14/11/2023, 16:23 - Rochane: https://chat.openai.com/share/f53d6e64-083a-4621-8153-da7d71b6f9a7
+14/11/2023, 16:25 - +32 486 46 29 06: Merci Rochane, je vais analyser cela :-)
+14/11/2023, 16:33 - Rochane: <Médias omis>
+14/11/2023, 16:55 - +32 494 07 27 37: Tu pourras le faire sur mon compte @32486462906
+14/11/2023, 16:56 - Rochane: Non, pas possible
+14/11/2023, 18:34 - Thierry VANOFFE: On ouvre le débat de l'intérêt de faire des prompts aussi avancé ?
+14/11/2023, 18:39 - Lucie: Comment ça avancés ?
+14/11/2023, 19:05 - Rochane: Je pense qu'il veut montrer la différence entre un prompt simple et un prompt bien travaillé comme les tiens Lucie. Tu veux bien nous montrer ton exemple stp ?
+14/11/2023, 19:12 - Thierry VANOFFE: <Médias omis>
+14/11/2023, 19:12 - Thierry VANOFFE: super intéressant de comparer avec ou sans expertise en prompt ingeniering... @33649535198 toi qui a passé un MOOC sur le sujet tu confirmes qu'un bon prompt ça change tout ou ça affine juste ?

@@ -1,0 +1,38 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 30
+
+=== CONTENU ===
+- Paragraphes pratiquement tous de la même taille
+- Beaucoup d’émojis
+- Pas d’erreurs flagrantes mais aucune source ou citation vérifiable
+- Chiffres ronds (« plus de 70 % ») sans nom d’étude
+- Aucunes fautes d’orthographe et de phrases qui sortent de l’ordinaire
+- Transitions trop lisses : « En résumé », « En conclusion », « Pour finir »*
+17/06/2025, 09:22 - +44 7979 829646: null
+17/06/2025, 09:24 - Fred IA: Salut Rochane. Merci beaucoup pour ce partage 👍 D'après toi, est ce que ce prompt permettrait de passer les détecteurs ia avec un type de rédaction entièrement humaine ?  Ou y a t-il un prompt à faire en complément ?  Merci à toi par avance
+17/06/2025, 09:56 - Vous avez supprimé +44 7979 829646
+17/06/2025, 10:34 - Rochane: Hello Fred, je ne sais pas vraiment mais j'avais travaillé à l'époque sur ce prompt pour m'aider à détecter l'IA et je l'avais partagé. Curieux d'avoir des retours
+You are an expert AI with highly advanced skills in detecting AI-generated text. Your task is to analyze the given content and determine whether it was likely written by an AI or a human. Pay close attention to the writing style, looking for characteristics that are often associated with AI-generated text.
+Here is the text to analyze:
+<text_to_analyze>
+{{TEXT_TO_ANALYZE}}
+</text_to_analyze>
+To perform your analysis, follow these steps:
+1. Carefully read the entire text.
+2. Look for the following characteristics often associated with AI-generated text:
+- Flat or monotonous writing style
+- Lack of distinct voice or personality
+- Absence of personal references or anecdotes
+- Overly formal or consistently structured sentences
+- Lack of nuance or subtle humor
+- Absence of cultural or contextual references that a human might naturally include
+3. Also consider characteristics that might indicate human authorship:
+- Varied sentence structure and length
+- Presence of idiomatic expressions or colloquialisms
+- Personal anecdotes or unique perspectives
+- Subtle humor or wit
+- Inconsistencies or minor errors that an AI might not make

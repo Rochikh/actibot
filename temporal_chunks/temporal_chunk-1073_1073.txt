@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 16
+
+=== CONTENU ===
+13/10/2024, 15:32 - Yvelines: Merci, je vais tester!
+13/10/2024, 15:51 - ‎+33 6 25 35 13 62 a demandé à rejoindre le groupe.
+13/10/2024, 16:30 - ‎+33 6 25 35 13 62 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 18:03 - +33 6 77 84 11 24: Des testeurs de https://www.lebigdata.fr/decouvrez-notre-test-de-chapple-ai-lavenir-de-la-creation-numerique ?
+13/10/2024, 20:02 - +33 6 19 75 63 49: « La startup d’Etat "Compar:IA" - au sein de la direction interministérielle du numérique (DINUM) - propose un site gratuit pour confronter les résultats fournis par différentes IA à une même question. Il calcule aussi le coût environnemental de chaque requête. »https://www.francetvinfo.fr/replay-radio/nouveau-monde/toutes-les-intelligences-artificielles-ne-se-valent-pas-faites-en-vous-meme-l-experience_6807529.html#xtor=CS2-765
+13/10/2024, 20:20 - ‎+33 6 07 94 95 33 est parti·e
+13/10/2024, 20:29 - +32 476 28 28 55: Sinon, Canva se débrouille bien pour ça
+13/10/2024, 20:33 - +33 6 02 20 69 43: Merci :) sujet très stratégique et clairement incontournable pour la suite!
+13/10/2024, 20:58 - ‎Raouf a demandé à rejoindre le groupe.
+13/10/2024, 21:24 - ‎Raouf a rejoint ce groupe grâce à son lien d’invitation
+14/10/2024, 08:49 - +237 99148639: null
+14/10/2024, 08:56 - +237 99148639: J'essaie de créer une affiche automatiquement à partir d'un prompt, j'ai essayé avec dalle, deepdream générator et bien d'autre mais le résultat est décevant surtout sur le plan du texte, trop de fautes orthographe et et de non sens, l'image par contre est acceptable. Quelqu'un peut-il avoir quelque chose de plus sympa svp ?
+14/10/2024, 08:57 - +33 6 79 72 76 62: https://ideogram.ai/
+14/10/2024, 08:58 - Rochane: Le plus simple serait de générer l'image et la déposer dans Canva pour rajouter ton texte.
+Après, je n'ai pas essayé si ça marche avec le GPT Canva dans chat Gpt même.....
+14/10/2024, 08:59 - Rochane: C'est vrai qu'Ideogram est une solution sauf que si tu as beaucoup de texte et tu veux le positionner dans un endroit précis, ça risque d'être pas possible

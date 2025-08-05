@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 11
+
+=== CONTENU ===
+Merci @33649535198 !
+24/11/2024, 12:12 - Rochane: Merci Christian pour ton feedback détaillé et constructif !
+Concernant le fond : En effet, ce projet me tient particulièrement à cœur car il part d'un constat que j'ai fait au fil des années : on évalue souvent le produit final sans vraiment capturer la richesse du processus d'apprentissage. VoxFolio est né de cette réflexion, et j'ai voulu le positionner comme une expérimentation pédagogique pour le tester et l'améliorer.
+Pour la protection des données, je pense avoir été attentif à cet aspect. Le système ne collecte que le prénom (qui peut être un pseudo) et les informations liées aux compétences. Aucune donnée sensible n'est stockée ou partagée.
+Sur la forme : Merci pour ton retour sur l'audio. J'ai effectivement rencontré des problèmes techniques, notamment des conflits entre mon casque bluetooth et les outils d'enregistrement (Fillout + screencasting). Je t'avoue avoir la flemme de retravailler cet aspect 😁. Même si la qualité du son est primordiale pour ce type de projet.
+Quant à l'avenir du projet, il est encore trop tôt pour parler d'open source ou de modèle économique. Pour l'instant, je me concentre sur l'expérimentation et l'amélioration du concept. Tes retours d'expérience en tout cas, sont intéressants
+Je note aussi le point sur la musique de fond qui pour moi montre une continuité narrative dans la ressource 🙂
+24/11/2024, 12:20 - Rochane: J'ai oublié, je n'ai même pas déposé le nom voxfolio ni vérifié s'il existe ou pas. 🤣
+24/11/2024, 12:21 - Votre code de sécurité avec +33 6 60 58 64 32 a changé. Appuyez pour en savoir plus.
+24/11/2024, 13:33 - Nadia ER-RAJI: Bonjour les ami.e.s,
+je voudrais avoir votre retour sur l'IA textcortex.com et jasper. j'ai été très satisfaite de son utilisation et de l'expérience intuitive sur la prise en main. Toutefois, je m'interroge sur la nécessité de prendre un abonnement car c'est un coût ? Le résultat selon moi vaut le coup ? Je suis preneuse n'étant pas encore familière avec tous les outils. Et ça va tellement vite. Merci d'avance

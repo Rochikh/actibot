@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 660
+Messages: 13
+
+=== CONTENU ===
+Mistral AI n'est pas la seule entreprise à avoir été critiquée pour ses pratiques de collecte de données. OpenAI, avec son modèle ChatGPT, et Elon Musk, via son IA Grok intégrée à X, ont également dû ajuster leurs politiques pour se conformer aux régulations sur la protection des données. Ces entreprises ont mis en place des options permettant aux utilisateurs de refuser la collecte de leurs données, montrant qu'il est possible de concilier innovation et respect de la vie privée 23.
+Conclusion
+La plainte déposée contre Mistral AI soulève des questions importantes sur la gestion des données personnelles dans le secteur de l'IA. Alors que l'entreprise se défend en mettant en avant la nécessité d'améliorer ses modèles, il est crucial qu'elle trouve un équilibre entre innovation et respect des droits des utilisateurs. Les prochaines décisions de la CNIL seront déterminantes pour l'avenir de Mistral AI et pour l'ensemble du secteur de l'IA en Europe.
+https://media.ia-marketing.fr/article/mistralAI-plainte-CNIL
+17/02/2025, 16:14 - Votre code de sécurité avec ~ Sylvain Sensenbrenner a changé. Appuyez pour en savoir plus.
+17/02/2025, 19:53 - Rochane: <Médias omis>
+17/02/2025, 19:56 - ‎Adrien Bock IA a ajouté +33 6 79 76 84 25
+18/02/2025, 09:29 - +33 6 62 05 94 71: Quand Luc Julia envisage le futur des IAG https://www.24heures.ch/les-ia-generatives-vont-bientot-disparaitre-332580420526
+18/02/2025, 09:59 - Votre code de sécurité avec ~ Jérémie Kalonji a changé. Appuyez pour en savoir plus.
+18/02/2025, 10:12 - +33 6 62 05 94 71: L'AFP contre les infoxIA https://www.frandroid.com/culture-tech/2507949_lafp-degaine-un-outil-efficace-pour-lutter-contre-lia-et-la-desinformation
+18/02/2025, 12:44 - Votre code de sécurité avec +57 313 4959160 a changé. Appuyez pour en savoir plus.
+18/02/2025, 13:02 - +33 6 62 05 94 71: Mythes et réalités de l'IA par Luc Julia https://www.youtube.com/watch?v=-qLTgYjHznI&t=25s
+18/02/2025, 13:09 - +33 6 33 75 30 50: J’ai rencontré la même situation avec de élèves en Master Management de Entreprises. Dès le premier exercice j’ai constaté qu’ils s’étaient contentés de donner mon intitulé à manger à une IA. Lors du debrief je me suis contentée de dire « 1) je vous rappelle la règle de TOUS les processus input—>output : « shit on = shit out », 2) j’aimerais bien jouer avec vous la prochaine fois ». Et dès le deuxième exercice j’ai prompté intelligemment pendant qu’ils y travaillaient. Cela a suffit pour qu’ils comprennent. Et durant toute la suite du cours ils avaient intégré l’IA non pas comme une solution de facilité mais comme un outil de démultiplication de leur potentiel

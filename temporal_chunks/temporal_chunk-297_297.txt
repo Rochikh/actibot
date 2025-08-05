@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 575
+Messages: 21
+
+=== CONTENU ===
+13/03/2024, 18:45 - Fred IA: Effectivement ça c'est étrange
+13/03/2024, 18:48 - +33 6 76 04 48 20: Les voies de l’informatique… 😅
+13/03/2024, 19:08 - +32 495 10 43 00: pour ceux que cela intéresseraient il y a une conference a UCL quel avenir pour l'ia 21/3 gratuit mais sur inscription  https://www.printempsdessciencesucl.be/evenement/7/activite/753
+13/03/2024, 19:20 - Jacques BARATTI: oui j'ai testé ça fonctionne bien aussi
+13/03/2024, 19:23 - +33 6 70 46 13 52: Est-ce seulement en presentiel?
+13/03/2024, 19:24 - +32 495 10 43 00: Oui
+13/03/2024, 19:26 - +33 6 70 46 13 52: Quelqu'un a t'il déjà expérimenté l'outil d'autrice.ai? Et quels retours en avez-vous?
+13/03/2024, 19:39 - Rose Marie Iskandar: It works for me 🙌🏻
+I used VPN and my French number
+13/03/2024, 19:39 - Rose Marie Iskandar: Super super interessant 💪✊ merci Rochane pour Claude
+13/03/2024, 19:40 - Rose Marie Iskandar: Ce message a été supprimé.
+13/03/2024, 20:36 - Rochane: <Médias omis>
+13/03/2024, 20:39 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11201733/fr/la-boite-noire-23-une-newsletter-du-groupe-academique-intelligence-artificielle
+13/03/2024, 20:39 - Letizia ALLEGRINI: La boîte noire de mars 2024 est dans les bacs bonne lecture
+13/03/2024, 20:46 - Rochane: La carte mentale est une précieuse ressource. Merci https://www.mindomo.com/fr/mindmap/cartographie-ia-generatives-dans-lenseignement-afe76157fc7d4d3e99d300cbe75596a1
+13/03/2024, 20:55 - +32 479 82 01 20: Yep ça marche avec VPN sur Desktop! Merciii
+14/03/2024, 07:05 - ‎+33 6 76 95 14 16 a rejoint le groupe à partir de la communauté.
+14/03/2024, 08:22 - +33 6 70 46 13 52: Super! Merci! Avec quoi faites-vous cette newsletter? Canva?
+J'aimerais en mettre en place une pour ma veille
+14/03/2024, 09:14 - +33 6 86 72 33 98: https://www.linkedin.com/safety/go?messageThreadUrn=urn%3Ali%3AmessageThreadUrn%3A&url=https%3A%2F%2Fwww.heuristi.ca&trk=flagship-messaging-android
+14/03/2024, 09:16 - +33 6 14 16 68 64: Bonjour @33681609994 j'ai vu votre présentation de coassemble lors du dernier webinaire : https://tubedu.org/w/htcEQZRDAKn2Ajf8pzmVz8 quel est votre retour sur la qualité des contenus générés ? Est-ce qu'il y a beaucoup de modifications / ajouts à faire (mis à part les problèmes de traduction) ?

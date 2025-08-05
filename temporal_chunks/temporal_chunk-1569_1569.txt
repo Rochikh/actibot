@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 16
+
+=== CONTENU ===
+https://www.linkedin.com/posts/aribautg_vos-contenus-et-activit%C3%A9-dapprentissage-activity-7284067825604808704-5okW?utm_source=share&utm_medium=member_android
+12/01/2025, 12:56 - Gregoire IA: Mon IA n'a pas encore son numéro de téléphone mais on peut l'intégrer partout où on peut écrire du code. Intégration Moodle sans aucun pb !
+12/01/2025, 13:19 - +44 7776 747507: Exact; merci très utile.
+12/01/2025, 21:31 - ‎+33 7 86 52 45 76 est parti·e
+13/01/2025, 07:27 - Rochane: OpenBolt, la version open source et gratuite de Bolt qui permet de créer des applications sans coder, simplement en discutant avec l’IA (y compris en mode vocal), et ce gratuitement
+https://www.openbolt.dev/ <Ce message a été modifié>
+13/01/2025, 07:35 - Clément Cahagne: Ah ouaiiiiis trop bien merci @33649535198 !! Je viens de créer mon application de rencontres pour chats de gouttière : ça marche nickel 🤙
+13/01/2025, 07:36 - Rochane: Hahaha, tu l'as faite avec quel modèle ( clé API)
+13/01/2025, 07:36 - Clément Cahagne: Open AI
+13/01/2025, 07:41 - Clément Cahagne: En gardant un oeil sur l’encart USAGE pour voir les centimes s’envoler 😀 Attention à ce point quand même
+13/01/2025, 07:43 - Rochane: Perso, je me suis créé un compte sur openrouteur et l'avantage est que tu gères toutes tes clés de tous les modèles...
+13/01/2025, 07:45 - Clément Cahagne: Malin.. Pour le moment j’essaye de limiter les modèles que j’utilise au max pour m’y retrouver et que ce soit plus clair de mon côté, mais je note l’idée, pas bête !!
+13/01/2025, 09:23 - +33 6 13 73 04 14: Bonjour le groupe, je suis un utilisateur régulier de ChatGPT dans mon domaine (finance) et je souhaite approfondir mes connaissances en IA en général et les Agents IA en particulier, pouvez-vous m’aider à trouver une formation efficace ou bien un parcours d’apprentissage? Merci pour votre aide…
+13/01/2025, 09:59 - Rochane: Je te conseille https://flint.podia.com
+Avec l'excellent Benoît Raphaël
+13/01/2025, 10:32 - Votre code de sécurité avec +33 6 65 12 62 34 a changé. Appuyez pour en savoir plus.

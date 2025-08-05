@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 23
+
+=== CONTENU ===
+05/01/2024, 14:16 - Rochane: N'importe
+05/01/2024, 14:16 - Rochane: C'est toi Test 😁 ?
+05/01/2024, 14:17 - +33 6 20 39 29 65: Mon deuxième prénom du moment  😂 avec tout les outils qui sortent..
+05/01/2024, 14:21 - +33 6 20 39 29 65: Ce message a été supprimé.
+05/01/2024, 14:21 - Laurent The Cure: C'est envoyé
+05/01/2024, 14:22 - Rochane: T'as reçu le mail
+05/01/2024, 14:23 - +33 6 75 41 23 05: Fait. Épatant !
+05/01/2024, 14:24 - +33 6 20 39 29 65: *sur le mail recap j'aurais aimé avoir la question que j'ai posé pour l'affiner si je suis pas satisfait de la réponse
+05/01/2024, 14:24 - +33 6 20 39 29 65: Mais RAS, super outil 😁
+05/01/2024, 14:24 - Rochane: Bonne idée, je modifie
+05/01/2024, 14:25 - Rochane: Rien à voir avec l'ia 😁
+05/01/2024, 14:25 - +33 6 75 41 23 05: Tu es passé par make.com ?
+05/01/2024, 14:26 - +33 6 75 41 23 05: Ce que je trouve épatant c’est la ressemblance de la voix <Ce message a été modifié>
+05/01/2024, 14:31 - Laurent The Cure: C'est très bien. On peut tester plusieurs fois ? ☺️
+05/01/2024, 14:32 - Rochane: Ouais tu peux 😊
+05/01/2024, 14:32 - Laurent The Cure: Je trouve la voix ressemblante mais un peu robotique
+05/01/2024, 14:33 - Rochane: Oui bien sûr ce n'est qu'une question de temps et en plus, je peux jouer sur certains paramètres au niveau de la génération de l'audio
+05/01/2024, 15:11 - +33 6 52 07 03 43: Superbe approche en effet, je suis d'accord avec Sekou, ce serait pas mal de retrouver dans le mail un petit rappel de la question posée!
+05/01/2024, 15:11 - +33 7 64 08 12 10: Le résultat est plutôt bon mais le message a atterri directement dans les spams
+05/01/2024, 15:37 - +32 498 78 46 36: <Médias omis>
+05/01/2024, 15:40 - Rochane: Oui, j'ai vu ça. J'ai l'impression que s'il y a des mots en anglais, il perd le fil et part en free style 😂
+05/01/2024, 15:45 - Lucie: C'est fait. J'ai posé une vraie question reçue suite à ma formation IA pour le collège de Paris. On va voir comment le bot s'en sort
+05/01/2024, 15:47 - Rochane: Hahaha t'as pas posé de question IA et malgré ça il t'a répondu 😉

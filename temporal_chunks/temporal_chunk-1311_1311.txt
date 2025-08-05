@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 17
+
+=== CONTENU ===
+Remember to base your analysis solely on the characteristics of the text itself, without making assumptions about the author's identity or background.*
+22/11/2024, 21:02 - Francois Bocquet: Et ça fonctionne bien ?
+22/11/2024, 21:03 - Rochane: franchement oui
+22/11/2024, 21:03 - Gregoire IA: Attention, les 2 leaders du marché sont souvent Compilatio et  Turitin mais comme on en a déjà bcp parlé, ils ont autant de faux positif que de cas avérés. et les 2 outils avouent etre incapables de donner un % viable
+pour rappel : OpenAI avait arreté de développer son propre détecteur tellement la détection est difficile <Ce message a été modifié>
+22/11/2024, 21:04 - Gregoire IA: cas sensible : est ce que'un étudiant qui écrit son texte mais se fait corriger par Grammarly peut etre accusé d'avoir écrit son texte avec une IA ?
+22/11/2024, 21:05 - Gregoire IA: Grammarly va reformuler, donner plus de clarté, etc. on ne peut pas accuser qui que ce soit de se faire corriger pour respecter les canons académique, si ? <Ce message a été modifié>
+22/11/2024, 21:06 - Gregoire IA: il faut changer nos approche d'évaluation
+22/11/2024, 21:07 - Rochane: Non bien sûr mais quand j'ai un soupçon, je vais en tenir compte dans mon feedback en expliquant que la réponse est trop générique ou manque de cas personnel… Du coup, je dis jamais que "tu l'as fait avec l'IA" car je ne suis jamais sûr à 100%
+22/11/2024, 21:07 - Gregoire IA: mais là tu corriges peut etre ce qu'un étudiant aurait 100% écrit, cela ne veut pas dire qu'il a utilisé une IA
+22/11/2024, 21:08 - Francois Bocquet: Oui et ça permet de poser des questions à l’oral pour lever le doute.
+22/11/2024, 21:08 - Francois Bocquet: C’est d’ailleurs la démarche préconisée par Compilatio
+22/11/2024, 21:08 - Gregoire IA: juste pour ne pas me plagier moi meme 😛
+https://youtu.be/6kHx4aQgeNI
+22/11/2024, 21:08 - Francois Bocquet: Deepl peut aussi corriger du texte
+22/11/2024, 21:08 - Gregoire IA: et oui, au Quebec on peut aussi... s'autoplagier !
+22/11/2024, 21:08 - Rochane: c'est pour ça que dans mes ennoncés, j'insiste de relater des expériences personnelles

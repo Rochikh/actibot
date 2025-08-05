@@ -1,0 +1,35 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 27
+
+=== CONTENU ===
+Des lacunes dans la pensée critique et la pensée complexe
+Il y a un gros travail que j’essai difficilement d’amener via coaching et acculturation
+Peut être le symptôme de la nouveauté qui amène des excès et dérives  en attendant une intégration plus raisonnable entre les aptitudes réelles accélératrices des outils et celles des « humains »
+25/07/2024, 12:20 - ‎+216 29 237 620 est parti·e
+25/07/2024, 12:25 - LIO: Bonjour à tous,
+Nous sommes aussi dans un contexte ou tout va trop vite.
+Les shorts captivent l'attention, on se sait plus rester concentré trop longtemps.
+C'est comme si temps s'accelerait de manière exponentielle.
+Nous nous sommes habitués a avoir l'info vite san prendre le temps de vérifier avant le déploiement de l IA
++ "sans demander revue par les pairs" = individualisme et productivité
+25/07/2024, 12:54 - Mickaël: Bonjour.
+Il va falloir un peu de temps pour que l'école et les centres de formation s'adaptent, mais ça avance !
+Quelques exemples :
+1. La ministre de l'Education nationale a saisi le Conseil supérieur des programmes en mars 2024 sur ces questions
+2. Ce collègue au Canada a partagé son expérience avec ses étudiants : https://eductive.ca/ressource/lhistoire-selon-chatgpt-un-exercice-danalyse-critique/?utm_source=rss&utm_medium=rss&utm_campaign=lhistoire-selon-chatgpt-un-exercice-danalyse-critique
+3. Pour un exemple dans le Secondaire en France, je vous invite aussi dans ma salle de classe avec ce podcast réalisé avec EtrePROF : https://www.youtube.com/watch?v=CiWpWzP4Y5s&ab_channel=%C3%8AtreProf
+25/07/2024, 15:02 - Rochane: le nouveau Mistral Large 2
+Contexte de 128k tokens
+Support de dizaines de langues
+Maîtrise de 80+ langages de programmation
+Performances améliorées en génération de code et mathématiques
+Capacités de raisonnement avancées
+Conçu pour l'inférence sur un seul nœud
+123 milliards de paramètres
+https://chat.mistral.ai/chat
+25/07/2024, 18:42 - Sel MEH: Merci Mickael
+25/07/2024, 20:54 - +31 6 38399231: Bonsoir, j'ai traduit un gros document dans Chatgpt.0 depuis une version Word mais il y a un bug pour l'extraire en une fois, auriez-vous un conseil ? Merci d'avance

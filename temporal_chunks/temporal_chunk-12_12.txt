@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 604
+Messages: 16
+
+=== CONTENU ===
+25/10/2023, 14:40 - ‎+32 475 35 65 12 a rejoint ce groupe grâce à son lien d’invitation
+25/10/2023, 15:12 - +33 6 66 37 86 02: Je confirme je ne le vois pas
+25/10/2023, 15:13 - +33 6 66 37 86 02: Possible de l'avoir ?
+25/10/2023, 15:27 - ‎Abbes Sebihi a rejoint le groupe à partir de la communauté.
+25/10/2023, 15:34 - Rochane: C'est un sondage pour savoir si l'idée d'une visioconférence pour le partage d'outils et de pratiques au sujet de l'IA en éducation vous intéresse. Pour l'instant, le mardi 31 octobre à 20h , heure Bruxelles, se détache 🙂
+25/10/2023, 16:29 - ‎+32 497 35 90 05 a rejoint le groupe à partir de la communauté.
+25/10/2023, 18:31 - ‎+1 (514) 214-5755 a rejoint ce groupe grâce à son lien d’invitation
+25/10/2023, 18:33 - ‎+1 (514) 214-5755 est parti·e
+25/10/2023, 19:14 - ‎+1 (514) 799-3852 a rejoint ce groupe grâce à son lien d’invitation
+25/10/2023, 19:50 - ‎+33 6 89 15 07 22 a rejoint le groupe à partir de la communauté.
+25/10/2023, 20:04 - ‎Guillaume Singeot a rejoint le groupe à partir de la communauté.
+25/10/2023, 22:13 - Rochane: Ce document présente diverses façons d'utiliser ChatGPT dans un contexte éducatif, notamment pour trouver et rassembler du contenu pour les leçons, structurer des plans de cours, proposer des outils technologiques, générer des discussions, créer des exercices, aider à la recherche, et explorer des concepts. Il suggère que ChatGPT peut être un outil précieux pour la génération d'idées, l'exploration de concepts, et la facilitation de l'apprentissage personnalisé​​
+https://blog.classpoint.io/fr/comment-utiliser-chatgpt-comme-un-pro-100-exemples-de-chatgpt-dans-les-ecoles-avec-des-exemples-que-vous-pouvez-copier/#chat-gpt-examples-for-research-brainstorming-and-information-gathering
+25/10/2023, 22:15 - +33 6 01 42 09 49: Intéressant merci
+26/10/2023, 00:59 - ‎+1 (438) 878-2818 est parti·e
+26/10/2023, 06:52 - Larissa: Salut tout le monde, merci Rochane pour cette belle initiative. J'aurai une question pour tout le monde. Je suis à la recherche d'un LMS "light" où les participants ne se loggent pas mais peuvent regarder du contenu et puis répondre à des questions (multiple choice etc) pour que je puisse voir s'ils ont bien compris le contenu diffusé. Ile devront mettre leurs noms que à ce moment là avec un code propre à la personne. Donc rien serait derrière un Login Wall mais resterait traceable. Des idées? Merci à toutes et à tous.

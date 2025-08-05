@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 13
+
+=== CONTENU ===
+06/03/2025, 22:28 - +33 6 42 26 64 70: Vous disposez de combien de temps ?
+06/03/2025, 22:29 - Laurent The Cure: ile devront savoir utiliser de manière "primaire" les outils IAG, charge à eux de se perfectionner et ensuite l'utiliser dans leurs propres formations futures
+06/03/2025, 22:30 - Laurent The Cure: c'est un challenge que je me suis fixé, sans contrainte de temps si ce n'est  avant l'été
+06/03/2025, 22:30 - Gregoire IA: La question est de comprendre comment vous voulez que le parcours réagisse, quels sont les niveaux d'interaction attendus entre étudiants, entre eux et vous, entre eux et la machine (LMS).
+Il faut voir après comment vous voulez les évaluer,.formatif inclus. Et les impacts sur le parcours (interactions étudiants/ machine).
+Il y a des plugins pour a peu prêt toutes les approches et tous les contextes. Vous en référer n'aurait aucun sens... Et.vous l'avez dit. Ceux qu'on vous a référé ne vous servent à rien 😅
+06/03/2025, 22:32 - +33 6 42 26 64 70: Ça va…c’est faisable.
+06/03/2025, 22:32 - Gregoire IA: Il vous faut un cahier des charges.plus.precis. documenter votre approche pédagogique et vos contexte. Bref, rédiger une petite analyse.pedagogique.du.cours... a défaut d'avoir un.dossier d'affaire.
+06/03/2025, 22:32 - +33 6 42 26 64 70: Beaucoup de ressources pour apprendre à utiliser Moodle sont disponibles et la communauté très réactive
+06/03/2025, 22:33 - Laurent The Cure: les évaluations seront formatives pour les différents outils IAG existant (quiz kahoot pour classement des IAG les plus connues suivant leurs catégories par exemple), et entre pairs : ils devront soumettre leurs créations aux autres (groupes ? si beaucoup de personnes)
+06/03/2025, 22:33 - Gregoire IA: Je monte des.moodle en 10 jours, intégration des parcours.inclus. d'ici cet été cela aurait un luxe que j'aimerais avoir plus souvent 😅
+06/03/2025, 22:33 - +33 6 42 26 64 70: Et en choisissant Moodle, vous choisissez un LMS pérenne et utilisé par beaucoup de monde
+06/03/2025, 22:34 - Laurent The Cure: c'est une démarche volontaire, bénévole avec pour but de partager mon apprentissage avec eux et leur donner envie

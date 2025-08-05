@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 563
+Messages: 16
+
+=== CONTENU ===
+Confort avec les tâches de back-end: Le public est plus à l'aise avec l'utilisation de l'IA pour des tâches telles que la correction et la traduction.
+Inconfort avec le contenu synthétique: Il est moins à l'aise avec l'IA produisant des images et des présentateurs ou auteurs synthétiques.
+Valeur pour la réduction des coûts: Le public voit principalement la valeur de l'IA dans la production d'actualités comme un moyen de réduire les coûts.
+Doute quant à la valeur pour les audiences: Il est moins convaincu que l'IA améliore les nouvelles pour les audiences, comme les rendre plus à jour, plus informatives ou plus fiables.
+Conclusion:
+Cette étude brosse un tableau nuancé des perceptions du public sur l'IA générative et son impact potentiel sur le journalisme. Alors que la sensibilisation et l'utilisation sont en croissance, en particulier parmi les jeunes générations, l'incertitude et le scepticisme persistent. L'opinion publique met en évidence l'importance des considérations éthiques, de la transparence et de la communication concernant l'utilisation de l'IA dans la production d'actualités. Le rapport souligne la nécessité pour les organisations de presse de répondre aux préoccupations du public et de renforcer la confiance tout en explorant les opportunités et les défis présentés par ces nouvelles technologies.
+01/06/2024, 11:51 - ‎+33 6 81 02 18 07 est parti·e
+01/06/2024, 11:57 - +33 6 76 04 48 20: Assez stupéfiant comme différence…
+01/06/2024, 12:04 - Samba BA: Merci l'administrateur de m'avoir intégré dans le groupe.
+01/06/2024, 12:13 - +237 6 56 90 71 30: La différence est sans appel
+01/06/2024, 12:13 - Rochane: En faveur de qui ?
+01/06/2024, 12:25 - Pierrick BRIAND: Pour le coup, GEMINI
+01/06/2024, 12:29 - ‎+33 6 49 93 45 52 a demandé à rejoindre le groupe.
+01/06/2024, 12:38 - ‎+33 6 15 44 84 29 est parti·e
+01/06/2024, 12:47 - +33 6 08 67 53 65: Même résumé par Copilot365 :
+Le document intitulé "Generative AI and News Audiences" par Richard Fletcher et Rasmus Kleis Nielsen, publié par le Reuters Institute for the Study of Journalism, explore l'opinion publique dans six pays concernant l'intelligence artificielle générative (AI) dans les médias d'information. Voici un résumé simplifié des points clés :

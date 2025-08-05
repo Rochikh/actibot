@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 13
+
+=== CONTENU ===
+19/11/2024, 07:37 - ‎+212 661-459393 est parti·e
+19/11/2024, 07:57 - ‎+216 58 114 258 a rejoint ce groupe grâce à son lien d’invitation
+19/11/2024, 08:31 - +33 6 25 79 50 95: Merci pour ton retour précieux Jean-Marc.
+Je m'interroge encore sur l'intérêt et le sérieux de la promesse.
+L'intérêt ? : il existe d'autres alternatives gratuites telle qu'hugging face pour comparer au même endroit plusieurs IAG text to text. Et probablement qu'il en existe d'autres que j'ignore encore (dites moi si vous en connaissez). Donc cette offre MIN.A permet-elle vraiment d'accéder aux versions payantes de ChatGPT et autres IAG ?
+Le sérieux ? : la promesse d'une "souscription à vie" peut -elle vraiment exister si les éditeurs d'IAG durcissent leur conditions d'accès à terme ?
+PS : autre alternative plus limitée (en version gratuite) mais plus vertueuse à tester : celle d'infomaniak AI tools
+19/11/2024, 09:05 - +33 6 99 18 30 68: Hello, je partage le post de Nicolas Chagny Il est 9h, notre hashtag#CaféIA & la journée de recherche "L'IA pour tous, tous pour l'IA" commencent au CNIT (Paris La Défense), avec Ascencia Business School et Internet Society (ISOC) France. Avec le soutien de Internet Society Foundation.
+👉 Programme complet et final ici : https://lnkd.in/e5tbGtvS
+👉 Journée de recherche à suivre en ligne dès 10h30 sur https://lnkd.in/eSHD_4yr
+Belle journée
+19/11/2024, 09:51 - +33 6 25 14 08 75: Bonjour, j’ai un challenge à relever : je dois transformer un plan d’une petite ville (format Google earth) , en plan thème «  parc d’attraction, fête de village…) . L’idée serait de fournir un plan original à mes apprenants pour se rendre à un événement… au lieu de fournir un plan traditionnel pour s’y rendre, je veux leur proposer un plan en lien avec mon événement (ambiance fête de village/fête foraine ) si vous me trouver un outil qui peut me faire ça, je vous dis d’avance UN GRAND MERCI car je galère un peu…
+19/11/2024, 09:55 - Rochane: Google Earth Studio me semble comme étant l'outil le plus adapté pour ton projet :

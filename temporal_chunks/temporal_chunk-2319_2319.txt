@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 20
+
+=== CONTENU ===
+ça commence à s'organiser aussi bien d'un point de vue technique que pédagogique (à partir de 21mn)
+4️⃣ Conclusion perspectives
+(je n'ai trop eu de temps de la faire en live )
+mais y a du travail à faire coté enseignants pour les former et pour trouver de nouveaux alignements pédagogiques !
+https://video.umontpellier.fr/pedagonum-pedagogie-numerique-a-lum/jpn-2025/video/23334-etats-des-lieux-des-iag-par-christophe-batier/
+15/07/2025, 16:50 - ‎+57 322 2657243 a rejoint le groupe à partir de la communauté.
+15/07/2025, 20:20 - Votre code de sécurité avec ~ Rémi GOMES a changé. Appuyez pour en savoir plus.
+15/07/2025, 21:12 - +32 477 95 34 42: Bonsoir à tous
+Étant enseignante et novice en IA que j’utilise parfois pour mes cours j’aimerais pouvoir proposer à mes élèves des vidéos de mes cours sous forme de vidéos ludiques qui leur expliquent certains points de matière notamment en chimie et physique
+J’aimerais faire ceci à partir d’un prompt, que me conseilleriez vous comme outil même payant si il est efficace
+Merci i d’avance
+16/07/2025, 00:39 - Francois Bocquet: Conseils pour créer des Gems personnalisés - Pour créer un Gem personnalisé qui répond à vos objectifs, fournissez des informations sur votre demande et vos exigences.
+Aide Applications Gemini https://support.google.com/gemini/answer/15235603?hl=fr-CA
+16/07/2025, 07:53 - ‎+40 762 800 638 a demandé à rejoindre le groupe.
+16/07/2025, 07:59 - ‎+1 (825) 487-7312 a demandé à rejoindre le groupe.
+16/07/2025, 09:15 - +44 7776 747507: Bonjour Fawzia, Claude (version gratuite devrait le faire; explore 'Artifacts' notamment), sinon ChatGPT. <Ce message a été modifié>
+16/07/2025, 09:16 - +44 7776 747507: Est-ce possible avec la version gratuite?
+16/07/2025, 09:31 - +33 7 85 03 62 08: @32477953442 il faudrait que tu regardes du côté de Synthesia ou HeyGen
+16/07/2025, 09:31 - +33 7 85 03 62 08: Ça te permet d'avoir un clone IA et de faire des capsules vidéo
+16/07/2025, 09:31 - +33 7 85 03 62 08: C'est pas mal utilise en formation

@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 20
+
+=== CONTENU ===
+- Citations problématiques : {{ }}
+- Échelle risque : 🟢 🟡 🔴
+Fournis les documents à analyser et précise le contexte (B2B/B2C).
+19/11/2024, 14:38 - ‎+33 6 63 70 71 71 a demandé à ajouter +33 6 60 58 64 32.
+19/11/2024, 15:09 - Francois Bocquet: Bien vu : pour le contexte d’analyse je trouve l’instruction peu claire « analyse en tant que sous traitant » me paraît peu précis. Le sous traitant est ici le prestataire. Donc tu positionne l’expert comme conseil du responsable de traitement qui évalue la conformité d’un service pour l’inscrire à son registre des traitements (ce qui pourrait faire l’objet d’une autre instruction générative) et à son registre des sous traitants. L’analyse se fait donc bien du point de vue du responsable de traitement (de l’expert qui le conseille).
+19/11/2024, 15:16 - +33 6 25 14 08 75: Trop fort !!!✌️
+19/11/2024, 15:41 - Laurent The Cure: bonjour à toutes et à tous.
+Ma fille aurait besoin d'un outil [si possible gratuit] qui permettrait de faire des sortes de fiches de synthèse de documents/cours pdf d'une 40aine de pages. j'ai essayé chatGPT mais cela n'est pas convaincant en terme de résultat. Quel seraient vos conseils s'il vous plait ?
+19/11/2024, 15:50 - +33 6 25 14 08 75: Léo au top !!!! https://iamleo.ai/ <Ce message a été modifié>
+19/11/2024, 15:45 - ‎~ Isabelle Fourcaud a ajouté +33 6 60 58 64 32
+19/11/2024, 15:51 - StéphaneIA: aistudio.google.com
+19/11/2024, 15:57 - Laurent The Cure: merci à vous
+19/11/2024, 15:59 - Laurent The Cure: existe t il une version de test gratuite ?
+19/11/2024, 16:14 - Francois Bocquet: NotebookLM peut être en gratuit ?
+19/11/2024, 16:15 - Francois Bocquet: Connaissez vous d’autres services de type Leo.ai ?
+19/11/2024, 16:15 - Francois Bocquet: j’ai vu des choses intéressantes à Educatech à Paris la semaine derniere
+19/11/2024, 16:15 - Francois Bocquet: Stellia
+19/11/2024, 16:15 - Gregoire IA: il est devenu payant ? 🧐
+19/11/2024, 16:15 - Francois Bocquet: K2R2 de eCharlemagne
+19/11/2024, 16:15 - Gregoire IA: je suis dessus depuis 2 jours et je travaille avec la version gratuite

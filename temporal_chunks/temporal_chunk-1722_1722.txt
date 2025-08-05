@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 17
+
+=== CONTENU ===
+06/02/2025, 08:46 - ‎+216 95 233 049 a rejoint le groupe à partir de la communauté.
+06/02/2025, 08:46 - ‎+352 661 354 647 a rejoint le groupe à partir de la communauté.
+06/02/2025, 08:46 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+06/02/2025, 09:04 - +33 6 70 15 09 80: Est-ce que quelque chose va changer pour l'utilisation en milieu scolaire ?
+06/02/2025, 09:23 - Francois Bocquet: Oui ça peut changer les choses mais seulement si des services professionnels et donc payants sont souscrits. Il est peu probable que les services gratuits bénéficient de cette évolution d’architecture.
+06/02/2025, 10:26 - Rochane: + de 500 000 spaces, plateforme d'outils opensources, à explorer absolument https://huggingface.co/spaces
+06/02/2025, 10:53 - +32 479 56 05 93: Un outil pour transformer des notes manuscrites en note électronique ?
+06/02/2025, 11:08 - +41 76 372 28 94: Un iPhone
+06/02/2025, 11:33 - +33 6 71 11 12 91: ChatGPT, Claude ou Le Chat peuvent lire plus ou moins bien et transcrire.
+J'ai eu quelques exemples très concluants (sur une écriture autre que la mienne) mais il faut quand même relire derrière... Il suffit d'ajouter la photo et de lui demander de transcrire
+06/02/2025, 11:39 - +44 7776 747507: Merci, je vous comprends. C'est leur business model, et s'expliquerait par l'équipe de data scientists qu'ils ont derrière leurs produits! Mais au moins c'est clair et transparent dès le depart.
+06/02/2025, 11:52 - ‎+212 611-888188 a demandé à rejoindre le groupe.
+06/02/2025, 11:58 - ‎+33 6 86 05 85 44 a demandé à rejoindre le groupe.
+06/02/2025, 12:01 - ‎+33 6 07 14 45 01 a demandé à rejoindre le groupe.
+06/02/2025, 12:28 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+06/02/2025, 12:39 - Jean-Marc Everard: Oui je viens de voir ça avec la vidéo de Shubham : https://youtu.be/z8nWipbfiBg?si=hHj1HhWaTfu42_Xd Ca a l'air énorme, sur Hugging Face.
+06/02/2025, 13:31 - ‎+33 6 07 14 45 01 a rejoint ce groupe grâce à son lien d’invitation

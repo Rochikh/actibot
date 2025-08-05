@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 17
+
+=== CONTENU ===
+et sa réponse est : "Semaine du 28 octobre au 31 octobre" (+ le détail des infos)
+C'est ma question qui n'est pas claire, sa date max qui est fin octobre dernier, ou j'ai 5 mois 1/2 d'avance sur mon calendrier ? 😂
+09/04/2025, 14:08 - +33 6 71 11 12 91: Sinon, avoir le bot directement dans le menu de mon ChatGPT, c'est top ! Merci @33649535198 !
+09/04/2025, 14:12 - Rochane: je pense qu'il n'a pas forcément la notion de date et quand tu lui dis cette semaine, il suffit qu'il ait vu cette semaine (octobre) et il s'appuie dessus
+09/04/2025, 14:18 - +33 6 71 11 12 91: C'était donc la 1ère option : mon prompt n'était pas clair ! En effet, en demandant "Quelles sont les dernières nouvelles enregistrées sur ce bot dans la période du 1 au 8 avril 2025 ?", il a l'air de me donner une réponse beaucoup plus juste (je n'ai pas vérifié info par info, mais j'en vois plusieurs qui sont bien dans les discussions, donc merci !)
+09/04/2025, 14:40 - Rochane: merci pour ta remarque et ça m'a permis d'apprendre que dans le prompt system, c'est bien de rajouter une partie Vérification de conformité et dans mon cas:
+Vérification de conformité :
+As-tu bien retiré toutes les références entre crochets ?
+As-tu vérifié que les informations restituées correspondent bien à la période demandée (cette semaine), et pas aux semaines précédentes ?
+As-tu utilisé un ton direct, en français, et des mots-clés en gras pour la mise en forme Markdown ?
+As-tu limité la longueur de ta réponse à 500 tokens ?
+09/04/2025, 14:52 - +32 498 78 46 36: Avez-vous pu déjà tester l'agent IA Genspark ? https://www.genspark.ai/ Si oui, quels sont vos retours ?
+09/04/2025, 14:55 - +33 6 71 11 12 91: <Médias omis>
+09/04/2025, 14:58 - Rochane: super vidéo sortie hier à ce sujet https://www.youtube.com/watch?v=MvQc8WeoaUw
+09/04/2025, 15:00 - +33 7 87 35 78 96: Mon expérience : je demande cela le matin. Les serveurs sont dispo et ChatGPT aussi
+09/04/2025, 16:34 - ‎+63 930 703 5546 a demandé à rejoindre le groupe.
+09/04/2025, 18:15 - Votre code de sécurité avec ~ Emily a changé. Appuyez pour en savoir plus.

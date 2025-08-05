@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 32
+
+=== CONTENU ===
+To perform your analysis, follow these steps:
+1. Carefully read the entire text.
+2. Look for the following characteristics often associated with AI-generated text:
+- Flat or monotonous writing style
+- Lack of distinct voice or personality
+- Absence of personal references or anecdotes
+- Overly formal or consistently structured sentences
+- Lack of nuance or subtle humor
+- Absence of cultural or contextual references that a human might naturally include
+3. Also consider characteristics that might indicate human authorship:
+- Varied sentence structure and length
+- Presence of idiomatic expressions or colloquialisms
+- Personal anecdotes or unique perspectives
+- Subtle humor or wit
+- Inconsistencies or minor errors that an AI might not make
+Provide a detailed analysis of your findings. Discuss specific examples from the text that support your observations. Consider both the content and the style of writing.
+After your analysis, provide a conclusion about whether you believe the text was written by an AI or a human. Include a confidence score from 0 to 100, where 0 means "Certainly human-written" and 100 means "Certainly AI-generated".
+Present your response in the following format:
+<analysis>
+[Your detailed analysis here]
+</analysis>
+<conclusion>
+[Your conclusion about AI or human authorship]
+</conclusion>
+<confidence_score>
+[Your confidence score from 0 to 100]
+</confidence_score>
+Remember to base your analysis solely on the characteristics of the text itself, without making assumptions about the author's identity or background.*
+22/11/2024, 21:02 - Francois Bocquet: Et ça fonctionne bien ?
+22/11/2024, 21:03 - Rochane: franchement oui
+22/11/2024, 21:03 - Gregoire IA: Attention, les 2 leaders du marché sont souvent Compilatio et  Turitin mais comme on en a déjà bcp parlé, ils ont autant de faux positif que de cas avérés. et les 2 outils avouent etre incapables de donner un % viable
+pour rappel : OpenAI avait arreté de développer son propre détecteur tellement la détection est difficile <Ce message a été modifié>

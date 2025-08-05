@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 562
+Messages: 16
+
+=== CONTENU ===
+23/11/2023, 16:35 - Rochane: Top et depuis hier l'automatisation est faîte avec dall E3 et ça génère de plus belles photos dans la galerie
+23/11/2023, 19:57 - Rochane: Classement des GPTs https://assistanthunt.com/leaderboard
+23/11/2023, 20:03 - Ahmadou Ba: C vraiment top
+24/11/2023, 15:41 - Guillaume CLEMENT: https://www.linkedin.com/posts/christophetrain_openai-vient-de-lancer-un-truc-qui-pourrait-activity-7133816575987453952-omJV?utm_source=share&utm_medium=member_desktop
+OpenAI vient de lancer un truc qui pourrait bien révolutionner le monde de l'IA. 👉 Ils appellent ça Q*, et c'est pas juste une IA ordinaire.
+On parle d'une fusion entre le Q-learning et l'algorithme A*, un peu comme si on mélangeait deux super-ingrédients pour créer un super-héros de l'IA.
+Ce qui est fou avec Q*, c'est qu'il est conçu pour résoudre des problèmes mathématiques avec une précision de 100%. C'est comme si on avait pris toute la magie de l'IA et qu'on l'avait boostée avec des super-pouvoirs.
+Et le plus dingue ? Il apprend tout seul, grâce à l'apprentissage par renforcement. Au fil du temps, il devient de plus en plus malin, capable de s'adapter et de fonctionner dans presque n'importe quelle situation.
+Les gars d'OpenAI disent que grâce à Q*, ils peuvent former une IA à de nouveaux comportements et problèmes en quelques heures seulement. On peut avoir un robot qui apprend super vite, mais à l'échelle de l'IA.
+On est juste au début de cette aventure avec Q*, mais le rythme des progrès est hallucinant. Il peut se produire un futur où l'IA pourrait non seulement nous aider dans nos tâches quotidiennes, mais aussi apprendre, s'adapter et évoluer avec nous.
+Que ce soit pour la recherche, l'éducation, ou même juste pour le fun.
+Mais avec tout ça, y'a quand même plein de questions qui se posent...
+Est-ce qu'on est vraiment prêts pour une IA aussi avancée ?
+Est-ce que c'est ce dont on a besoin en tant qu'humanité ?
+Dis-moi ce que t'en penses en commentaire 👇
+24/11/2023, 18:41 - Rochane: https://play.google.com/store/apps/details?id=ai.perplexity.app.android Cette IA en application comme sur web est vraiment pas mal rien qu'avec sa version gratuite. Ce serait bien que d'autres la testent. 🙂 <Ce message a été modifié>

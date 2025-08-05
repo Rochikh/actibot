@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 591
+Messages: 8
+
+=== CONTENU ===
+25/11/2024, 09:22 - martinyemani IA: Il existe des testeurs certifié d'IA, on pourrait tenir compte de leur évaluation
+25/11/2024, 09:29 - Jean-Marc Everard: Extraordinaire. Super idée 👍🏻. Ca me fait penser à Flipgrid, devenu Flip (que je ne retrouve plus…) qui avait un peu la même ambition avec la vidéo. Les étudiants partageaient une vidéo comme « devoir » ou bien comme partage justement. Il y a eu une app aussi à une époque avec un peu la même idée pour des vidéos démos vites faites (c’était feu edoceo qui l’avait créée je pense) mais là aussi je ne suis pas sûr qu’elle existe toujours.
+25/11/2024, 09:31 - Jean-Marc Everard: Merci de votre retour, je pensais aussi le tester, malheureusement avec une licence « Microsoft entreprise », je ne pouvais pas tester, seulement acheter pour un an et du coup j’hésitais. Que me conseillez-vous ? Le problème est que Microsoft est vraiment institutionnalisé et du coup je crains de devoir être capable de former d’autres sur Copilot aussi…
+25/11/2024, 09:53 - ‎+32 497 42 01 75 est parti·e
+25/11/2024, 10:01 - Adrien Bock IA: Pour ceux que ca interesse, je fais de la formation en entreprise sur Microsoft Copilot ici en Belgique et notamment pour Brico, swde, ethias.
+Plus d’infos en mp @33649535198 @32496968742
+25/11/2024, 10:28 - +41 76 372 28 94: Je ne peux pas vous conseiller de ne pas l'utiliser (c'est Microsoft quand même dont nous parlons ici). Mais je suis très surpris de la différence avec ChatGPT et Claude. Idem pour Gemini qui est arrivé dans mon Workspace et qui ne comprends rien à ce que je lui dit. On est bien obligé de les utiliser, vu qu'ils sont intégrés eux et pas d'autres (et maintenant c'est au tour d'Apple Intelligence de démontrer son utilité - ce qui n'est pas gagné). Par contre, les apprécier, c'est plus difficile surtout quand on côtoie quotidiennement l'état de l'art avec d'autres IA !
+Et oui, il faut payer pour tester une solution qui en plus ne marche pas super bien... Mais peut être que ça vient aussi de moi et de mon manque d'assiduité pour m'adapter à leurs niveaux de compréhension du français ? Je n'ai passé que quelques heures à jouer avec. L'avis de spécialistes Office 365 serait apprécié (je n'utilise plus quotidiennement les outils Microsoft depuis une vingtaine d'années  - c'est dû à trop de frustrations accumulées avec les anciennes versions) !

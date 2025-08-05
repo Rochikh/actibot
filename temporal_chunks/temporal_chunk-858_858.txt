@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 572
+Messages: 17
+
+=== CONTENU ===
+⚡ C'est une alternative accessible aux services payants.
+02/09/2024, 20:00 - Rochane: https://www.notdiamond.ai/
+02/09/2024, 20:30 - +212 644-562660: Bonne ressource sur comment travailler avec
+https://youtu.be/15bpNKJB-X4?si=7q28eRiHfoHWl9Nb
+02/09/2024, 20:38 - +33 7 49 40 50 92: Hello. Perplexity a une fonction Page excellente. Vous savez ce qu’elle est devenue ? Elle ne semble plus accessible via l’interface (library). Par contre le lien retrouvé sur le web est fonctionnel : www.perplexity.ai/page/new … mais je n’accède pas aux pages que j’ai créées. Je précise que j’ai un compte gratuit.
+02/09/2024, 20:39 - Rochane: Compte gratuit, on ne peut pas créer des pages malheureusement
+02/09/2024, 20:41 - +33 7 49 40 50 92: Ah. Sauf avec le lien, mais c’est du one shot 😅.
+02/09/2024, 20:49 - +33 7 49 40 50 92: Je viens de vérifier… si on sauvegarde le lien de la page, elle reste accessible et editable. Gratuitement.
+02/09/2024, 21:37 - +33 6 72 75 43 48: Merci je vais tester bientôt 👍🙏
+02/09/2024, 21:54 - Votre code de sécurité avec ~ MF a changé. Appuyez pour en savoir plus.
+03/09/2024, 07:23 - +32 479 58 54 12: Une tres bonne ressource pour NotDiamond, en français. Très bien expliqué  https://youtu.be/CgJBgNxMMTE?si=XEZ0AOO-EEr0yOZB
+03/09/2024, 07:25 - +32 479 58 54 12: Oui. Excellent. Difficile de comprendre que ce soit gratuit 😏.  Et cela rejoint aussi la discussion précédente "Quel outil IA utiliser selon mes besoins ? "
+03/09/2024, 08:00 - +33 6 72 75 43 48: Est ce une alternative à BlueGpt ?
+03/09/2024, 08:04 - +32 479 58 54 12: Oui et non. C'est limité à des reponses textuelles. Mais il ne faut pas choisir soi même l'outil à utiliser. Il le choisit à notre place. Ca vaut la peine d'écouter la petite vidéo mentionnée ci-dessus
+03/09/2024, 08:05 - +33 6 72 75 43 48: Ok super merci Dominique je vais regarder bonne journée
+03/09/2024, 09:49 - +212 644-562660: Je pense que c'est leur façon de commercialiser le tool, plusieurs autres ias ont commencer comme ça
+03/09/2024, 09:53 - +33 7 56 86 00 33: Et ça marche 😅. J’ai essayé ce matin. Son utilisation est très simple, ses propositions très bien. Ça fait gagner un temps fou (avant je jonglais entre ChatGPT, Claude et Perplexity). Je l’ai adopté! Espérons qu’ils ne le vendent pas trop cher oui…

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 10
+
+=== CONTENU ===
+08/09/2024, 13:58 - +32 479 82 01 20: C'est le seul contrat a signer ou il y en a-t-il d'autres ?
+08/09/2024, 13:59 - Francois Bocquet: Il y a le contrat commercial (existe partout dans le monde) et le DPA pour l’Europe (conformité RGPD)
+08/09/2024, 13:59 - Francois Bocquet: Et ensuite il faut inscrire aux registres le traitement et le sous traitant
+08/09/2024, 14:00 - Francois Bocquet: Mettre en place le workflow de réponse aux utilisateurs finaux qui exercent leurs droits et celui de gestion des brèches de sécurité
+08/09/2024, 14:00 - Francois Bocquet: Et avant ça instruire le traitement et réaliser une AIPD si nécessaire
+08/09/2024, 14:01 - Francois Bocquet: Enfin il faut informer correctement les utilisateurs finaux en respectant les obligations des articles 13 et 14
+08/09/2024, 14:01 - Francois Bocquet: Et oui c’est du boulot ;-)
+08/09/2024, 14:55 - +32 486 98 03 36: Puis-je me permettre de partager avec vous, une conférence de jeunes qui vont parler de leurs métiers de développeur en sciences au services du citoyen. Jeunes et moins jeunes sont les bienvenus. Cette expérience inédite à pour vocation d'être inspirante https://www.stementiel.be/conference/
+08/09/2024, 14:59 - Fred IA: Merci pour l'info, top !  Du coup, plus de problème de confidentialité avec cet outil puisque tout se passe en local 👍 Est ce que le pc doit être costaud pour traiter la transcription ou bien une configuration "bureautique" suffit elle ? Pour donner un ordre d'idée, combien de temps de traitement pour un fichier audio équivalent à 2h de réunion ?  Y'a une taille maximale pour le fichier audio ? Un grand merci
+08/09/2024, 15:04 - +212 644-562660: Pas de taille maximale si je me rappelle bizn. Et meme si il y en avait, tu peux enregistrer en version vocale. Mon pc est costaud certes mais je pense que ca marche dans d'autres pc moins performants. Coté confidentialité, ca utilise l'api d'open ai pour la transcription moi j'ai pas de probleme avec ca mais à toi de voir ca repond à ton besoin

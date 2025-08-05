@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 14
+
+=== CONTENU ===
+29/06/2025, 10:31 - +33 6 66 98 84 23: Bonjour, encore un papier qui redit ce que l'on sait déjà ,l'IA a un impact c'est certain mais il faut des chiffres clairs et en toute transparence pour comparer à des requêtes répétées sur Goggle!
+L'IA n'effectue pas les mêmes tâches .C'est très compliqué mais les choses évoluent.
+29/06/2025, 15:48 - +33 7 75 95 30 12: Qu’est-ce que c'est ? Un bot  qui imite perplexity.ai?
+29/06/2025, 15:49 - +33 7 75 95 30 12: <Médias omis>
+29/06/2025, 15:51 - Rochane: Oui, je découvre, je vois qu'il est capable de te faire des rappels en fonction de ce que tu lui demandes. Par exemple, j'attends une promotion d'un article, il me propose de me le rappeler dès que ça sort....
+29/06/2025, 16:16 - +33 7 75 95 30 12: Juste *préciser* que Perplexity est une plateforme d’intelligence artificielle américaine qui combine un moteur de recherche et un agent conversationnel comme ChatGPT. Par contre, le "perplexity" que vous avez partagé est un bot avec les imitations du logo et du nom de perplexity.ai...dans le contact je vois en plus www.perplexity.com...ce qui me semble de l’arnaque.
+Juste mon avis.
+29/06/2025, 16:16 - Rochane: Vous avez supprimé ce message
+29/06/2025, 22:17 - ‎~ Joe Weitz est parti·e
+29/06/2025, 23:19 - +32 496 83 53 39: null
+30/06/2025, 06:17 - Rochane: Ah bien vu, je vais explorer. C'est bizarre car l'info, je l'ai eue sur le blog du modérateur qui est plutôt reconnu..
+https://www.blogdumoderateur.com/comment-utiliser-perplexity-whatsapp/ <Ce message a été modifié>
+30/06/2025, 06:38 - Rochane: Finalement, le deep research a montré que ce n'est pas un fake 🙂
+Sources : Le Blog du Modérateur détaille l’arrivée de Perplexity sur WhatsApp et ses fonctionnalités. De plus, le propre site de Perplexity confirme l’usage du domaine perplexity.com pour accéder à ses services. Enfin, un article de VICE souligne que WhatsApp a intégré Perplexity AI comme outil de fact-checking, prouvant qu’il s’agit d’un partenariat officiel et non d’un bot tiers inconnu.

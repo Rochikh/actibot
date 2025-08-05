@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 20
+
+=== CONTENU ===
+28/12/2023, 14:03 - Lucie: <Médias omis>
+28/12/2023, 14:03 - Rochane: Exactement, j'ai pensé à toi en le lisant
+28/12/2023, 14:16 - Ahmadou Ba: <Médias omis>
+28/12/2023, 14:17 - Rochane: Pourquoi tu ne mets pas le lien direct de la présentation ?
+28/12/2023, 14:18 - Ahmadou Ba: le voici https://gamma.app/public/Strategies-pour-Prompt-GPT-ystfl1dsf1gzkqq
+28/12/2023, 14:19 - Ahmadou Ba: C'est vrai que c plus économe
+28/12/2023, 14:19 - Rochane: Et il ne t'a pas généré d'images ?
+28/12/2023, 14:25 - Ahmadou Ba: Si je les ai supprimé elles n’étaient pas très adaptées au message. J’ai voulu demander à GPT d’en générer pour mais j’ai bcp de chat à fouetter actuellement 😆
+28/12/2023, 15:22 - Ahmadou Ba: connaissez vous cette appli pour étudier les STEM l'interface est assez séduisante mais je n'ai eu l'occasion de le tester https://www.wolframalpha.com/
+28/12/2023, 16:09 - Ahmadou Ba: Alors @33649535198 Vous connaissez Wolfram, il a même un plugin sur GPT. Au passage je viens de découvrir les Plugin je les avais pas activé. Il y a des trucs de ouf qu'on peut avec. Je suis tout exciter la
+28/12/2023, 16:10 - Ahmadou Ba: <Médias omis>
+28/12/2023, 16:12 - Rochane: OK, c'est le gpt que tu avais créé et que j'avais testé ?
+28/12/2023, 16:16 - Ahmadou Ba: Non ce  sont les stratégies d'OPEN Ai sur le prompt que j'ai fait synthéthiser avec GPT et demander a un plugin IA diagrams de me faire cette carte mentale. Est ce que vous avez activé les plugin sur votre compte?
+28/12/2023, 16:17 - Rochane: Oui oui, j'ai déjà utilisé ce plugin 😏
+28/12/2023, 16:19 - Ahmadou Ba: Ah d'accord apparamment vous n'êtes convaincu 😀
+28/12/2023, 18:42 - Lucie: <Médias omis>
+28/12/2023, 21:51 - Votre code de sécurité avec Luc deleplanque a changé. Appuyez pour en savoir plus.
+30/12/2023, 09:18 - +32 498 78 46 36: <Médias omis>
+30/12/2023, 10:24 - Rochane: <Médias omis>
+01/01/2024, 10:05 - Rochane: https://youtu.be/WNP98jHtToQ?feature=shared Que c'est cool de démarrer l'année sur ce type de vidéo 😁

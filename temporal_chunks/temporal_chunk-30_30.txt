@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 13
+
+=== CONTENU ===
+31/10/2023, 08:40 - Lucie: Bonjour à tous. Si certains sont intéressés pour créer des planches de personnages avec Gpt4 je partage mes prompts ici : https://www.linkedin.com/posts/luciedhorne_ia-formation-innovationpaezdagogique-activity-7123804255324381184-d2jE?utm_source=share&utm_medium=member_android Et je sors un livre sur "Former avec l'IA" en janvier (le livre sera en vente au Learning Technologies 2024 avec un jeu de cartes pour apprendre à prompter)
+31/10/2023, 10:42 - +32 498 78 46 36: Ceux qui ont un abo ChatGPTPlus, est-ce que vous avez déjà la possibilité d'intégrer les PDF dans vos prompts ? Il me semble que le déploiement se fait étape par étape car perso je ne l'ai pas encore ...
+31/10/2023, 10:44 - Rochane: Tu peux le faire en activant data analysis ou le plugin AskYourPDf mais dans cette solution, il faut que la pdf soit en ligne ou hébergé dans le cloud ou carrément déposé dans le site Ask your pdf 🙂
+31/10/2023, 10:46 - +32 498 78 46 36: Merci Rochane, je vais voir cela, j'avais cru comprendre que l'intégration avec pdf était devenue native pour GPT4
+31/10/2023, 10:46 - Rochane: Oui effectivement, j'ai entendu ça hier mais ça n'est pas encore déployé chez moi
+31/10/2023, 10:54 - Larissa: Super Lucie. Merci pour le partage. Tu peux m'envoyer le doc sur mon adresse email stp? larissa@thefamily.lu Merci à toi! Larissa
+31/10/2023, 10:56 - Lucie: Bonjour Larissa. Laisses moi un commentaire sous le post et je t'envoies ça sur IN
+31/10/2023, 11:21 - Larissa: Question pour le groupe: Quel est le meilleur outil IA "PDF/Document Summarizer" que vous avez utilisé?
+31/10/2023, 11:24 - Ahmadou Ba: J’ai une fois tester Humata il est bon mais malheureusement il ne traite que 60 pages pour la version gratuite.
+31/10/2023, 11:25 - Rochane: claude.ai (il est gratuit)
+J'en parle ce soir lors de notre visio
+31/10/2023, 11:26 - Ahmadou Ba: https://www.humata.ai/
+31/10/2023, 11:28 - Ahmadou Ba: Wi il est gratuit je l’ai essayé mais je pensais  qu’on demandait une IA spécialement dédiée aux PDF

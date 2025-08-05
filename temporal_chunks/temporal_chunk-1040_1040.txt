@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 16
+
+=== CONTENU ===
+08/10/2024, 07:09 - +41 76 372 28 94: Bonjour. Je n'ai rien de spécifique relatif à votre demande, mais voici ma collection personnelle de prompts qui pourrait vous aider à apprendre à rédiger les vôtres : https://docs.google.com/document/d/1O-QgIsW5UtMYjW5SFV9nF9vPnZb2J-dZ5849lT6PWFw/edit?usp=drivesdk
+08/10/2024, 07:12 - Rochane: Une vraie mine de trésor ! Merci
+08/10/2024, 08:35 - Lucie: Tu as essayé ideogram ?
+08/10/2024, 09:04 - ‎+33 6 26 15 38 78 a été remplacé par +34 613 02 05 45
+08/10/2024, 09:16 - Rochane: Profitez en maintenant ! Napkin.ai transforme rapidement le texte en visuels éducatifs attrayants. *Gratuit pour le moment*, cet outil mérite vraiment d'être testé (Dominique nous en a parlé souvent). Il facilite la création d'infographies, de diagrammes et de présentations engageantes,  Franchement, vous économiserez un temps fou  🙂
+08/10/2024, 09:17 - ‎+41 79 258 90 36 a rejoint ce groupe grâce à son lien d’invitation
+08/10/2024, 11:36 - Jean-Marc Everard: À l’époque des plug-in de ChatGPT, il y en avait un spécialisé dans l’aide à l’écriture de prompts pour Midjourney. Peut-être est-il devenu un GPTs?
+08/10/2024, 11:46 - Clément Cahagne: Il existe Alphonse sinon, très pratique plug in plutôt efficace : https://alphonse-web.fr/prompt-helper-ai/index-fr.html
+Ou autrement, l’utilisation de « bons exemples de prompts MidJourney » dans un prompt type few-shot pour que votre outil TTT s’appuie dessus et vous génères des prompts MidJourney corrects
+08/10/2024, 12:24 - +33 7 63 58 01 55: J'ai pas cherché mais il doit forcément y en avoir 👍🏻
+08/10/2024, 12:48 - +34 683 61 41 61: Au top ! Merci
+08/10/2024, 13:01 - Rochane: celui-ci ? https://chatgpt.com/g/g-tc0eHXdgb-romidjourneyro-mj-prompt-generator-v6
+08/10/2024, 13:53 - ‎+33 7 66 23 46 45 a demandé à rejoindre le groupe.
+08/10/2024, 13:54 - ‎+33 6 18 72 60 67 a été ajouté·e
+08/10/2024, 13:54 - ‎+33 6 18 72 60 67 a demandé à rejoindre le groupe.
+08/10/2024, 13:54 - ‎+33 6 18 72 60 67 a rejoint ce groupe grâce à son lien d’invitation

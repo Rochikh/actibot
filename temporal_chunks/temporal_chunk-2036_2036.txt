@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 16
+
+=== CONTENU ===
+31/03/2025, 23:35 - +32 475 86 01 57: Il y a des differences notables avec Make?
+01/04/2025, 05:52 - Rochane: Beaucoup plus simple mais tu n'as pas toutes les API
+01/04/2025, 07:16 - +33 7 88 40 98 79: null
+01/04/2025, 10:55 - Rochane: Rendez-vous le 2 avril pour des ateliers animés par des enseignants et des praticiens !
+Pour ceux qui ne sont pas disponibles, vous pouvez vous inscrire en ligne gratuitement et retrouver toutes les rediffusions après l'événement depuis votre espace personnel.
+Une belle opportunité d'échanger sur les pratiques pédagogiques innovantes !
+https://woomeet.me/4DACTION/voir_event_num/1/2/3/2/109/portail123/
+01/04/2025, 12:38 - +33 6 07 14 45 01: Pour alimenter mes réflexions sur les points faibles et les points forts d'une nouvelle étude scientifique par exemple, j'ajoute en plus comme source au notebook NotebookLM sur cette étude une copie des échanges sur cette étude récupérés sur les réseaux sociaux genre reddit, hakerNews, X-tweeter, etc. puis je demande à NotebookLM de lister les points forts et faibles de cette étude. Une fois que j'ai des pistes de réflexion, je retire ces échanges du Notebook sur l'étude car ils sont parfois moins fiables et peuvent induire des biais supplémentaires. A noter mon contexte particulier : j'enseigne la veille scientifique et technologique dans une optique stratégique
+01/04/2025, 13:51 - Batier Christophe: ET oui le 2 c'est deja demain!
+Il est possible de s'inscrire jusqqu'au dernier moment!
+Je ferai l'intro à 13h avec Didier Roy de l'INRIA et ensuite un comparatif de Pitch, Curipode et Gamma pour la génération de slide...
+Mais le programme est complet avec pour chaque creneaux  horaire 3 ateliers !
+Sessions qui débuteront de 14h à 20h! avec plus de 300 inscrits de 3 continents
+01/04/2025, 14:35 - martinyemani IA: l'Afrique n'est pas la bienvenue. Dommage
+01/04/2025, 14:38 - Batier Christophe: Ah bon ?
+dans les trois continents je parlais Europe Amerique et Afrique avec deux présentations du Maroc et une d'Algérie

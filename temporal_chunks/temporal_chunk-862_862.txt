@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 22
+
+=== CONTENU ===
+03/09/2024, 20:53 - 🗓 ‎Live en ligne mis à jour
+03/09/2024, 23:07 - ‎+33 6 74 05 09 80 a demandé à rejoindre le groupe.
+03/09/2024, 23:12 - Fred IA: https://siecledigital.fr/2024/09/03/ce-nouvel-outil-ia-bluffant-permet-de-realiser-des-photos-ultrarealistes-dune-qualite-inegalee/
+04/09/2024, 07:36 - Votre code de sécurité avec +33 6 30 89 95 98 a changé. Appuyez pour en savoir plus.
+04/09/2024, 08:04 - Rochane: Une réponse de Not Diamond sur la gratuité de leur outil :
+Merci Rochane ! Pour le moment, il n'y a pas de limite d'utilisation sur l'application de chat, mais dans les prochaines semaines, nous introduirons un niveau payant. Cela n'aura pas d'impact sur votre capacité à discuter avec les modèles gratuitement (du moins jusqu'à un seuil très, très élevé), mais nous aurons certaines fonctionnalités supplémentaires qui ne seront accessibles qu'aux utilisateurs payants. Je vous tiendrai certainement au courant.
+04/09/2024, 08:07 - ‎+33 6 74 05 09 80 a rejoint le groupe à partir de la communauté.
+04/09/2024, 15:20 - 🗓 ‎Live en ligne mis à jour
+04/09/2024, 15:21 - ‎+32 472 66 65 92 a demandé à ajouter +32 473 58 39 15.
+04/09/2024, 15:22 - ‎+32 472 66 65 92 a ajouté +32 473 58 39 15
+04/09/2024, 15:29 - +33 6 49 84 08 41: Bon, petit retex NotebookLM, Google Ai studio et ChatGPT :
+J'ai 20 PDF qui correspondent à 20 notes différentes mais dont l'objet est identique (revue de performance).
+Je voulais que l'IA puisse extraire tous les paragraphes qui mentionnent le terme *numérique* et les classer dans un tableau, note par note.
+Exemple :
+Note 1 ∆ _blablabla numérique..._
+Etc.
+👉🏼 Ben c'est pas folichon, pourtant c'était une requête assez simple :
+- ChatGPT a refusé mon pdf fusionné
+- NotebookLM a accepté à la fois le PDF fusionné et les PDF individuels mais avec des ratés
+- Google AI studio idem.
+Je suis assez déçu : s'il faut que je me retape tous les PDF un par un pour être sûr qu'il n'y a pas d'oubli, c'est bien inutile
+04/09/2024, 15:52 - Clément Cahagne: Pas réellement étonnant, faire de la recherche textuelle avec des outils d’IA générative qui divise chaque mot en tokens, c’est un peu contre-productif… pour le moment… J’ai eu la même mésaventure 🙂

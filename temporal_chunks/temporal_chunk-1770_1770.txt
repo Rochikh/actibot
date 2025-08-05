@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 21
+
+=== CONTENU ===
+13/02/2025, 12:18 - StéphaneIA: Les Gems sur Gemini sont disponibles avec les abonnements payant. Soit Google One premium Ai ou Google workspace
+13/02/2025, 12:19 - ‎+33 7 60 56 06 27 a rejoint le groupe à partir de la communauté.
+13/02/2025, 12:19 - Amadou GuisséIA: Merci Malick
+13/02/2025, 12:19 - Amadou GuisséIA: Merci. Oui je dispose d'un abonnement
+13/02/2025, 12:45 - +33 6 52 73 73 42: Question tte bête : certains de mes étudiants ont ce message d'erreur lorsqu'ils souhaitent se connecter à NotebookLM : "Service indisponible. Vous avez tenté d'accéder à un service non disponible pour votre compte".
+Je précise que les étudiants sont majeurs (j'ai lu des messages en faisant des petites recherches et le paramètre de l'âge revenait souvent)
+Avez-vous rencontré le problème et avez-vous une solution !?
+Merci
+13/02/2025, 12:58 - +44 7776 747507: Pour info: Comparateur IA https://www.comparia.beta.gouv.fr/
+13/02/2025, 13:02 - Rochane: Est-ce que ce n'est pas quand ils essaient de se connecter à un notebook partagé ?
+Sinon, jamais eu cette alerte
+13/02/2025, 13:02 - +33 6 87 07 19 38: Je ne sais pas
+13/02/2025, 13:38 - +33 6 71 11 12 91: Je ne sais pas si c'est le même problème sur Notebook que sur ChatGPT, mais j'ai eu ce cas (ChatGPT) : pour accéder au partage il faut y accéder sans être connecté à son compte.
+Une fois sur la page, on peut se connecter sans souci. À tester sur NotebookLM ? La réponse m'intéresse...
+13/02/2025, 13:56 - +33 6 52 73 73 42: Pas de compte partagé ! 😞
+Il s'agit d'un compte perso
+13/02/2025, 14:13 - +33 6 71 11 12 91: Je ne parle pas d'un compte partagé, mais d'un lien partagé
+13/02/2025, 14:28 - +33 6 52 73 73 42: Ah pardon ! Ils se connectent bien sur le site notebooklm.google
+13/02/2025, 15:28 - Batier Christophe: Bonjour à tous je suis en train de regarder comment fonctionne Ragflow sur un serveur ollama
+D’autres personnes du groupe sont sur ces technos ?
+13/02/2025, 18:00 - +44 7776 747507: Bonjour la communauté, est-ce que quelqu'un a déjà utiliser Trello, auquel cas merci de partager votre expérience? 🙏🏾

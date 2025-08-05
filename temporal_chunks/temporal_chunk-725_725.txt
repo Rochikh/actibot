@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 8
+
+=== CONTENU ===
+15/07/2024, 15:00 - Rochane: sorry : https://relevanceai.com/api
+15/07/2024, 16:05 - Pierrick: Bonjour, sauriez-vous si un travail global mutualisé est fait ou à venir soit au niveau du ministère soit en inter-établissement, Comue ... pour proposer aux établissement du supérieur des resources ou parcours de formations , moocs validés pour accompagner la sensibilisation des étudiants aux enjeux de l'IA (formation , risques, éthiques environnementaux ...) . Nous travaillions de notre côté mais le sujet me paraît éminemment collectif. J'ai vu du côté de PIX mais pour le moment il faut attendre (voir CR en PJ) . Dans l'attente de vous lire Merci Pierrick https://eu1.easiware.fr/pix/go.aspx?u=/CRM/DWL&uid=guest&pm=6&col=ffffff&ulg=2&MediaUID=EMAIL-O2CQ2MCV402Q25E2C5B2EJH526H
+15/07/2024, 16:12 - Letizia ALLEGRINI: Bonjour la CREIA émanation du MENJ et de la DNE va proposer à la rentrée différents parcours magistere en inscription libre de formation sur l IA. Vous pourrez vous découvrir l'histoire de l IA mais aussi des formations sur le prompt des tutoriels...j'ai eu la chance de créer 4 parcours sur les agents conversationnels ou chatbots : un parcours généraliste pourquoi et comment intégrer des chatbots en classe et 3 micronmodules sur les 3 catégories de chatbots (llm, rag, algorithmique) Vous y trouverez des exemples concrets avec des retours d'expériences et des tutoriels.
+15/07/2024, 16:22 - +33 7 83 16 44 23: Bonjour, uniquement accessible sur Magistère ?
+15/07/2024, 16:23 - Letizia ALLEGRINI: Oui pour l'instant il me semble
+15/07/2024, 16:24 - +33 7 83 16 44 23: Merci pour le retour
+15/07/2024, 17:01 - +221 78 114 78 29: Bonjour tout le monde. Quelqu'un peut me suggérer des formations doctorales en sciences de l'éducation en lien avec l'IA?
+15/07/2024, 18:30 - Ahmed Yagoubu: https://www.linkedin.com/posts/abdeljabbar-bahammou_%C3%A9v%C3%A9nement-m%C3%A9morable-hier-soir-%C3%A0-luniversit%C3%A9-activity-7211699603979595776-H14k?utm_source=share&utm_medium=member_android

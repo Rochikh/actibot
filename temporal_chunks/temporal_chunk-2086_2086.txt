@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 564
+Messages: 13
+
+=== CONTENU ===
+16/04/2025, 10:38 - Amadou GuisséIA: Effectivement.
+16/04/2025, 11:03 - Francois Bocquet: Accès impossible
+16/04/2025, 11:24 - Votre code de sécurité avec +33 6 15 93 07 04 a changé. Appuyez pour en savoir plus.
+16/04/2025, 12:36 - +33 6 71 11 12 91: Il est génial ce lien ! Merci Rochane !
+16/04/2025, 15:51 - Francois Bocquet: Carte très intéressante mais j’émets des réserves sur la partie Éthique. L’application du droit en vigueur ne relève pas d’un débat éthique et ne doit pas être intégré dans la branche éthique. Le cadre juridique doit être respecté (RGPD et RIA) et ne fait pas l’objet de débats comme les questions éthiques. Par ailleurs le CLOUD Act ne concerne pas les forces de l’ordre mais la justice et il est prévu pour les seules US Persons ce qui fait que ça ne présente pas de risque juridique pour les européens (non US Persons). Il y a eu beaucoup d’intox sur le sujet mais ça reste une fake News. En revanche FISA est un vrai problème, tout comme toutes les lois anti terroristes de tous les pays (dont la France qui surveille beaucoup plus de chose pour les français que les services US!)
+16/04/2025, 16:30 - Votre code de sécurité avec ~ FZ a changé. Appuyez pour en savoir plus.
+16/04/2025, 18:40 - Jean-Marc Everard: En effet ! Est-ce que le Louvain Learning Lab n'a pas aussi produit quelque chose de proche @32483605396 ?
+16/04/2025, 19:20 - Votre code de sécurité avec ~ Leo Cohen a changé. Appuyez pour en savoir plus.
+16/04/2025, 19:39 - Votre code de sécurité avec ~ Leo Cohen a changé. Appuyez pour en savoir plus.
+17/04/2025, 03:48 - +1 (782) 809-6917: null
+17/04/2025, 06:03 - estelle Duterage Drion IA: Bonjour les amis, j’ai un document qui est sur CANVA avec beaucoup d’erreurs d’orthographe et de formulation assez lourde, pour le rectifier, est-ce que je dois le reprendre bloc par bloc en m’aidant de l’IA intégrée que je n’ai jamais testée ?
+est-ce que vous avez une meilleure méthode à me proposer ?
+17/04/2025, 07:06 - +32 498 78 46 36: Est-ce que quelqu'un sait si l'intégration de Copilot dans Word, Excel, etc est effective ? Il me semble qu'il faut une licence particulière (Copilot Studio ?) mais cet article des numériques me met le doute en parlant de 60 crédits pour chaque utilisateur M365...

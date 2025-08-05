@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 17
+
+=== CONTENU ===
+29/02/2024, 17:10 - Agathe: Si c'est OK pour parler RGPD vous n'allez plus me faire taire ! 😁
+Blague à part je cherche toujours un LMS à la fois performant, ergonomique et respectueux des données.
+Je regarde edapp :)
+29/02/2024, 17:12 - Rochane: Apolearn @33672091809
+29/02/2024, 17:16 - Guillaume Singeot: @33681609994 tu peux le tester ici (Pierrick en parlera mieux que moi!) Bonjour à tous, petite information concernant une formation entièrement gratuite qui a pour objectif de rassembler une communauté de formateurs autour du thème de l’intelligence artificielle. La formation est accessible ici : https://academy.apolearn.com/classroom/29444/
+29/02/2024, 17:17 - Agathe: Super ! merci pour le lien :)
+29/02/2024, 17:17 - Rochane: Je suis bluffé par la simplicité de ce lms et surtout l'intégration réussie de l'IA. Pour info, ils tournent avec Mistral et non chat GPt
+29/02/2024, 17:18 - Thierry VANOFFE: OpenAI un peu dans la tourmente depuis le procès avec New York Times, je rejoins le discours de Yann LeCun sur l'importance de passer à une architecture "d'IA prédictive" et non plus "générative" pour l'avenir
+https://www.lebigdata.fr/chatgpt-plagiat
+29/02/2024, 17:59 - Agathe: Merci pour le tuyau ! J'ai regardé le site et échangé dans le chat (bonheur de ne pas parler à un robot ! 😁)
+Je vais encore économiser des sous par rapport à mes produits habituels et en plus changer pour du made in France ! 😎
+29/02/2024, 18:42 - Guillaume Singeot: Je suis allé au salon Learning Tech de Paris le 24 janvier : je reste un peu sur ma faim sur l'intégration de l'IA dans les lms (à voir avec @33672091809 ) : c'est pour l'instant assez cantonné à la création de quiz. pour l'instant ,)
+29/02/2024, 18:43 - +33 6 20 35 46 24: L’intelligence artificielle dans les LMS. Pour l’instant c’est plutôt des promesses de ce que j’en ai vu.
+Beaucoup de bla-bla
+Mais si vous vous êtes tombés sur une pépite, ça m’intéresse d’avoir le nom
+29/02/2024, 18:44 - Rochane: Apolearn
+29/02/2024, 18:47 - +33 6 87 86 78 87: Onlineformapro très avancé lms, outils création et surtout plusieurs produits de formation orient’IA, IT Training….

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 17
+
+=== CONTENU ===
+**(Améliorations suite aux feedbacks - exemples):**
+*  **Précision sur la population:**  Spécifier le nombre total d'étudiants interrogés (1233) et l'université (Namur, Belgique).
+* **Nuance sur l'adoption:**  Mentionner que l'usage de ChatGPT a potentiellement évolué depuis l'enquête initiale.
+* **Contexte des autres IA:**  Préciser l'utilité des autres IA mentionnées (traduction pour Google Translate et DeepL).
+Cette fiche récapitulative synthétique met en lumière les points essentiels de la conférence en appliquant le principe de Pareto.  L'ajout d'un visuel et la prise en compte des feedbacks permettent d'optimiser sa clarté et sa pertinence.
+01/11/2024, 20:52 - Rochane: <Médias omis>
+01/11/2024, 21:11 - Rochane: Cette extension chrome d'openai vous permet d'avoir Chat Gpt search comme moteur de recherche
+https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld
+01/11/2024, 21:46 - martinyemani IA: Thanks 👍
+01/11/2024, 21:58 - +33 6 51 88 68 57: Comment y accède -t-on ( création de compte ?)
+02/11/2024, 01:38 - +41 76 372 28 94: Bonjour @33651886857. Ce n’est pas un service ouvert au public, c’est un projet open source que vous pouvez répliquer dans votre établissement pour vos élèves. Il est configuré pour être accessible sans mot de passe par mes élèves, c’est à dire uniquement depuis mon école et aux heures ou j’enseigne. Cependant je peux ouvrir temporairement le site (supprimer la demande de mot de passe) pendant quelques minutes pour que vous puissiez l’essayer à un moment ou vous avez le temps.
+02/11/2024, 06:56 - ‎+213 557 02 11 46 a demandé à rejoindre le groupe.
+02/11/2024, 08:52 - ‎+213 557 02 11 46 a rejoint le groupe à partir de la communauté.
+02/11/2024, 12:21 - Votre code de sécurité avec +33 6 64 41 15 81 a changé. Appuyez pour en savoir plus.
+02/11/2024, 12:22 - +212 644-562660: pouvez vous partager le lien vers le depot Github du projet?
+02/11/2024, 13:29 - Fred IA: https://github.com/4nd4ny/EduChat-o1/
+02/11/2024, 13:29 - Votre code de sécurité avec ~ Ouarda- وردة‎ a changé. Appuyez pour en savoir plus.

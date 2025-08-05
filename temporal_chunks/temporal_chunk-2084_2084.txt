@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 539
+Messages: 15
+
+=== CONTENU ===
+https://www.linkedin.com/events/aimission-4-l-iafaceauxenjeuxde7315744798915645441/comments/
+15/04/2025, 16:17 - +41 79 326 51 40: Ce message a été supprimé.
+15/04/2025, 16:19 - +41 79 326 51 40: Bonjour, Question NotebookLM : podcast : j'essaie depuis quelques jours de générer un podcast en français, mais je n'y arrive plus. J'ai mis ceci, mais les podcasts finissent malgré cela toujours en anglais :
+This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode.
+No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language.Future translation into English is planned, but for now, the episode is French-exclusive.
+Auriez-vous une explication ou une astuce svp ? D'avance merci.
+15/04/2025, 17:32 - Rochane: Vous avez supprimé ce message
+15/04/2025, 19:20 - ‎+33 7 89 89 17 66 est parti·e
+16/04/2025, 08:17 - Votre code de sécurité avec ~ Ncastera a changé. Appuyez pour en savoir plus.
+16/04/2025, 08:40 - ‎+1 (581) 237-7126 a demandé à rejoindre le groupe.
+16/04/2025, 10:23 - Francois Bocquet: Est ce que quelqu’un aurait sous la main une infographie ou une carte mentale présentant les usages des IAg en contexte de formation pour adultes tant pour les formateurs que pour les apprenants (public éloigné de l’emploi et faiblement qualifié) ? Merci d’avance
+16/04/2025, 10:27 - +33 6 52 73 73 42: NotebookLM produit des cartes mentales plutôt sympa ! Tu as essayé !?
+16/04/2025, 10:30 - Rochane: https://view.genially.com/65b3c52ebe4f990014710b2d/horizontal-infographic-diagrams-kit-de-demarrage-en-ia-pour-enseignants
+16/04/2025, 10:31 - Rochane: https://www.mindomo.com/fr/mindmap/ia-generatives-dans-lenseignement-afe76157fc7d4d3e99d300cbe75596a1?utm_source=perplexity
+16/04/2025, 10:31 - +33 6 86 63 43 38: C est vrai que peut-être pourrions nous avoir un document collaboratif, sur lequel partager ce genre de document, une bibliographie de prompt, ressources ... ceci nous permettrait de monter en compétences mais aussi d'éviter des itérations multiples ?

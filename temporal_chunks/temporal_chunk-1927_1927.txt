@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 17
+
+=== CONTENU ===
+07/03/2025, 17:36 - +41 79 258 90 36: voir la doc https://lmstudio.ai/docs/app
+07/03/2025, 17:45 - ‎+33 6 15 80 60 40 a demandé à rejoindre le groupe.
+07/03/2025, 17:45 - ‎+33 6 15 80 60 40 a rejoint ce groupe grâce à son lien d’invitation
+07/03/2025, 17:52 - +33 6 08 73 04 79: Merci @41763722894, @33662364404 et @41792589036 pour vos retours ! Reste à voir si mon CPU va « faire le job » 🤔😄
+07/03/2025, 17:56 - +33 6 42 26 64 70: Et bien sûr tu peux en télécharger un ou plusieurs autres Open sources aussi. Normalement c’est safe et si l’un d’entre eux devait s’avérer malhonnête, la communauté open source se chargerait de le signaler et le bannir je pense…ce serait contre productif…enfin j’espère car pour ma part, j’y suis allé en confiance ;)
+07/03/2025, 20:03 - Rochane: Mise à jour aujourd'hui de actibot.replit.app avec une source supplémentaire des dernières news issues de la veille que je fais sur NotebookLM
+07/03/2025, 21:51 - Votre code de sécurité avec ~ lassaad sakri a changé. Appuyez pour en savoir plus.
+07/03/2025, 22:06 - +33 6 71 11 12 91: @33649535198  J'ai raté un épisode ? 😲
+Je ne me souvenais pas devoir mentionner un identifiant + mdp pour consulter actibot.
+Quel identifiant doit-on indiquer svp ? Merci !
+07/03/2025, 22:07 - Rochane: Connecte toi juste avec de nouveaux identifiants ou passe par inscription <Ce message a été modifié>
+08/03/2025, 06:56 - Votre code de sécurité avec ~ lassaad sakri a changé. Appuyez pour en savoir plus.
+08/03/2025, 09:57 - Rochane: pour avoir accès aux dernières news dans Actibot : *"dans ta base de connaissance il y a un document sur les dernières news, résume le moi"*
+08/03/2025, 10:19 - Rochane: <Médias omis>
+08/03/2025, 10:20 - Rochane: Résume des news de la semaine en audio avec des animateurs plutôt calmes ( merci @32496384964 )
+08/03/2025, 10:22 - ‎+63 963 216 1588 a demandé à rejoindre le groupe.
+08/03/2025, 10:22 - +33 6 08 73 04 79: @Rochane, SVP, tu pourrais nous redonner le lien pour accéder à cette base ? 🙏🙏

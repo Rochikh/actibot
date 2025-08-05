@@ -1,0 +1,51 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 43
+
+=== CONTENU ===
+3.1 Mesures de sécurité
+⚠ [Constat]
+Les mesures techniques et organisationnelles sont décrites comme « commercialement acceptables », sans précision.
+📝 [Explication]
+Le RGPD exige des mesures adaptées au risque (art. 32). La vagueité empêche l’évaluation.
+💡 [Impact]
+Les utilisateurs ignorent si des mesures robustes (chiffrement, pseudonymisation) sont mises en œuvre.
+3.2 Transparence sur les incidents
+⚠ [Constat]
+Aucune mention de procédure de notification en cas de violation de données.
+📝 [Explication]
+Le RGPD impose une notification dans les 72 heures aux autorités (art. 33-34).
+💡 [Impact]
+Les utilisateurs ne sont pas informés en cas de faille, privés de mesures de sauvegarde.
+3.3 Politique de partage avec les tiers
+⚠ [Constat]
+Les tiers ont accès aux données mais aucune liste ni justification n’est fournie.
+📝 [Explication]
+Le RGPD exige une transparence sur les destinataires des données (art. 13-14).
+💡 [Impact]
+Les utilisateurs ne maîtrisent pas les flux de données, risquant des usages inattendus.
+3.4 Données sensibles
+⚠ [Constat]
+Aucune mention de traitement de données sensibles (santé, opinions politiques).
+📝 [Explication]
+Si des tiers collectent des données via des cookies ou logs, elles pourraient inclure des données sensibles.
+💡 [Impact]
+Les garanties spécifiques (art. 9 RGPD) pour ces données ne sont pas assurées.
+4. Points de vigilance spécifiques
+4.1 Usages d’IA/algorithmes
+⚠ [Constat]
+Aucune mention d’utilisation d’algorithmes impactant les utilisateurs (profilage, automatisation).
+📝 [Explication]
+Le RGPD encadre le profiling (art. 22). L’absence d’information masque d’éventuels risques.
+💡 [Impact]
+Les utilisateurs ne sont pas informés de décisions automatisées les concernant.
+4.2 Conformité DSA/DMA
+⚠ [Constat]
+La politique ne mentionne pas la conformité au DSA (obligations pour les plateformes).
+📝 [Explication]
+Le DSA impose des obligations spécifiques pour les services numériques (transparence, modération).
+💡 [Impact]
+Inapplicable ici, mais absence de mention pour les services concernés.

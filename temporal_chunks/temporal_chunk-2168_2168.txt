@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 600
+Messages: 14
+
+=== CONTENU ===
+10/05/2025, 06:14 - Votre code de sécurité avec ~ Hortense Munaut a changé. Appuyez pour en savoir plus.
+10/05/2025, 11:08 - Francois Bocquet: Comment les IAG transforment les expériences d’enseignement dans les formations en santé ?
+https://www.youtube.com/watch?v=HY9z3Uzajcc
+10/05/2025, 12:23 - Rochane: Jacques Tardif, ce Monsieur est vraiment un grand pédagogue, j'ai toujours apprécié ses conférences et tout ce qu'il dit dans cette vidéo est valable quasiment pour toutes les disciplines et pas que pour la santé <Ce message a été modifié>
+10/05/2025, 12:34 - Batier Christophe: Pour info Jacques Tardif sera présent le 26 juin à Montpellier pour le journée #Ia4sup pedago ’UM  autour de l’Ia et évaluation
+https://app.smartsheet.com/b/form/d4b5422002d54569b3866cbc41148dea
+10/05/2025, 12:34 - Batier Christophe: <Médias omis>
+10/05/2025, 14:08 - Daniel Pappalardo: Petit article sur un benchmark/hallucinations  développé par la startup Giskard  https://www.blogdumoderateur.com/ia-modeles-hallucinent-le-plus/
+10/05/2025, 14:34 - +41 76 372 28 94: C’est marrant, les valeurs d’hallucination du graphique ne correspondent pas aux valeurs mentionnées dans l’article… ça sent l’article rédigé par une IA qui hallucine un peu 🤣 Je ne suis pas étonné de voir que 3.7 sonnet hallucine un petit peu plus souvent que la version précédente. Ça correspond à mon ressenti subjectif. Et je suis étonné en bien par les scores de Gémini 1..5… Je serais curieux d’avoir les résultats pour la version 2.5 ? Voici le site de Giskard avec les données brutes : https://phare.giskard.ai/
+10/05/2025, 22:34 - Votre code de sécurité avec ~ ikone a changé. Appuyez pour en savoir plus.
+11/05/2025, 08:50 - Votre code de sécurité avec Nadia ER-RAJI a changé. Appuyez pour en savoir plus.
+11/05/2025, 11:11 - Votre code de sécurité avec Nadia ER-RAJI a changé. Appuyez pour en savoir plus.
+11/05/2025, 12:32 - +221 77 516 37 15: Bonjour à toutes / tous
+@33649535198 , je suis enseignant de collège (Physique chimie) travaillant sur un projet doctoral dont le thème est «  Analyse des pratiques pédagogiques et de l'activité des enseignants du moyen - secondaire au Sénégal : intégration des TIC, intelligence artificielle et conformité au RGPD dans un contexte d'innovation pédagogique sous contrainte ». Et je cherche des IAG qui peuvent mieux aider dans la recherche et surtout dans la conception de Power Point.

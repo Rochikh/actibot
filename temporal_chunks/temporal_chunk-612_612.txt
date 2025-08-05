@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 554
+Messages: 19
+
+=== CONTENU ===
+06/06/2024, 17:04 - ‎+33 6 88 10 25 47 a demandé à rejoindre le groupe.
+06/06/2024, 17:04 - ‎+33 6 22 99 27 05 a demandé à rejoindre le groupe.
+06/06/2024, 17:10 - ‎+33 6 68 31 74 03 a demandé à rejoindre le groupe.
+06/06/2024, 17:10 - ‎+33 6 68 31 74 03 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 6 22 99 27 05 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 6 88 10 25 47 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 6 03 33 82 32 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 6 25 42 87 21 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 7 88 93 01 60 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 6 04 46 69 14 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:13 - +33 6 20 97 18 83: Les formations proposées sur Coursera sont très interessantes , mais elles ne sont qu'en partie gratuites: l'accès est payante après 7 jours d'essai.
+06/06/2024, 17:15 - +351 932 291 666: En effet, 7 jours gratuits. Bon, je n’ai pas qu’une seule adresse mail 😁. Les prix sont cependant raisonnables, 47€ pour celle ci je crois.
+06/06/2024, 19:05 - +351 932 291 666: Petite erreur de lien et de titre, prendre Prompt Engineering for ChatGPT sur la page 2 : https://www.coursera.org/learn/prompt-engineering
+06/06/2024, 20:27 - Pierrick BRIAND: N'hésitez pas à vous insrire à la formation gratuite sur Apolearn Academy 😉
+06/06/2024, 20:41 - Vincent DROUOT: Je vous conseille ce documentaire réalisé par Samuel Durand :
+https://www.wipdocumentary.com/documentaires
+06/06/2024, 20:48 - +33 6 49 84 08 41: Yes, je l'ai faite... Mais pour de l'initiation, je l'ai trouvée assez raide tout de même. et je passe pour être le geek de ma direction ! Alors pour mes collègues, je n'y pense même pas
+06/06/2024, 21:09 - Pierrick BRIAND: Merci pour ce retour, je vais le prendre en compte pour l’améliorer.
+06/06/2024, 22:17 - Rochane: Vous pouvez tester cet outil en lui rajoutant une photo (de vous par exemple) avec un prompt en anglais ( a "woman in a wedding dress" par exemple) 😁 https://huggingface.co/spaces/fffiloni/consistent-character

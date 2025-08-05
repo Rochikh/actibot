@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 11
+
+=== CONTENU ===
+01/03/2024, 10:52 - +32 479 58 54 12: Est ce que quelqu'un connaît un outil permettant de générer une ligne du temps de manière automatisée et mise à jour sur base de news. Je pense à une ligne du temps qui reprendrait les nouveautés en matière d'IA. Ce serait trop prenant de le faire manuellement.
+Mais peut-être faut-il créer un process d'automatisation plus élaboré 🤔
+01/03/2024, 10:53 - Rochane: Tu as mylens.ai mais je ne suis pas sûr que ça réponde à ton besoin
+01/03/2024, 10:54 - +32 479 58 54 12: Merci. Je vais tester 🙂
+01/03/2024, 10:58 - Francois Bocquet: Sous un angle RGPD, service US dont le siège est aux US et l’hébergement aux US. Il n’y a pas d’adresse de contact légal en Europe alors que c’est obligatoire donc à vérifier si l’on souhaite que le traitement soit conforme au RGPD. Par ailleurs, pas de contrat B2B avec l’entité responsable de la communauté qui est RT donc contrat B2C exclusif ce qui exclut une utilisation institutionnel (pour un établissement ou un organisme). Utilisable seulement à titre privé donc.
+01/03/2024, 11:00 - Agathe: J'ai regardé les Privacy Policy et les CGU et franchement on est dans le même niveau de WTF que chez Meta !Surtout chez Skool… Et comme je forme sur le RGPD je suis bien ennuyée car les deux plateformes sont assez cool, pour des prix similaires.
+01/03/2024, 11:01 - +33 6 22 14 03 93: Peut être que nous pourrions « externalisé » la formation de la plateforme ?
+01/03/2024, 11:02 - Francois Bocquet: On est d’accord. Pas assez carré pour des formations RGPD sauf si on est adepte du « faites ce que je dis mais pas ce que je fais » ;-)
+01/03/2024, 11:04 - Francois Bocquet: En communauté produit en Europe et en France il y’a Whaller   https://whaller.com/fr
+01/03/2024, 11:07 - Francois Bocquet: Sinon possible aussi d’installer Elgg sur un IaaS. C’est outil de communauté open source utilisé par l’INRIA par exemple https://elgg.org/
+01/03/2024, 11:09 - Francois Bocquet: Ça a dix ans mais c’est très bien maintenu, fonctionnel et facilement maîtrisable de À à Z

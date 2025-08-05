@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 21
+
+=== CONTENU ===
+09/06/2025, 23:16 - +33 6 33 38 60 24: ?
+09/06/2025, 23:21 - +32 475 86 01 57: Chat GPT connecté à Notion est déjà pas mal je trouve
+09/06/2025, 23:26 - +32 470 06 82 01: Il est possible de connecter les deux?
+09/06/2025, 23:42 - +32 475 86 01 57: Via le desktop chatGPT tu peux avoir accès à des pages notion.
+09/06/2025, 23:42 - +32 475 86 01 57: C’est pas dingue mais c’est déjà pratique
+09/06/2025, 23:44 - +32 475 86 01 57: Par contre, pas d’accès direct aux bases de données
+10/06/2025, 12:41 - ‎~ Koryn est parti·e
+10/06/2025, 15:47 - +33 7 86 18 83 63: Vous auriez un deck pour une présentation de type acculturation IA ?
+10/06/2025, 16:03 - Gregoire IA: Un deck ?
+10/06/2025, 16:05 - +33 6 64 50 56 67: Des cartes ?
+10/06/2025, 16:13 - Clément Cahagne: Un deck de slides je pense. Mais demander un deck de slides à des formateurs, c’est un peu comme demander à un magicien de révéler ses tours non ? 😅
+10/06/2025, 17:01 - +33 7 84 33 02 62: null
+10/06/2025, 17:02 - +33 7 84 33 02 62: null
+10/06/2025, 17:26 - Gregoire IA: Ce que je peux faire c'est animer une formation pour vous présenter qques règles de mécaniques visuels. Un gabarit c'est un peu comme un slip, ça ne se prête pas 😅
+10/06/2025, 17:28 - Clément Cahagne: Meilleure analogie que le magicien... Faut que je progresse
+10/06/2025, 17:29 - Rochane: Le 24 juin pour le live ?
+10/06/2025, 17:29 - +33 6 70 57 72 80: Bonjour à tous
+Je m’adresse à vous car je recherche à étayer une hypothèse comme quoi l’usage de l’IA ne développe en rien les capacités humaines de leadership et de management pour les adultes ? Auriez-vous des pistes, études…
+10/06/2025, 17:36 - +32 475 86 01 57: Ben c est pour ça que l intelligence émotionnelle restera une compétence clé...
+Après attention à ne pas être biaisé par des presupposes... L IA peut aider en donnant accès a des savoir, voir en aidant à les mettre en œuvre (jusqu à un certain niveau). Par contre l IA n intervient, à mon sens, jamais dans le savoir être ou l emotionnel.
+10/06/2025, 17:38 - +33 6 85 97 38 11: Peut être vers là :

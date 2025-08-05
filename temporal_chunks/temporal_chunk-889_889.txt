@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+08/09/2024, 10:15 - Pierrick BRIAND: Adrien, je ne te laisse pas attendre plus longtemps, voici le site gouvernemental français : https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/
+08/09/2024, 10:22 - +237 6 56 90 71 30: Excellent sujet👍🏾👍🏾👍🏾
+08/09/2024, 10:29 - +33 6 88 57 53 04: Bonjour
+Super initiative, merci !
+Avez vous prévu de compiler les contributions de façon à pouvoir les retrouver facilement à posteriori ?
+08/09/2024, 11:28 - Fred IA: Bonjour. Quelqu'un aurait il déjà expérimenté le transcripteur scribe cemea pour de longs fichiers audio (ex: 1 à 2h) afin de savoir si la transcription vers le texte fonctionne bien ? (But : Compte rendu de réunion) Merci par avance. Bon dimanche ! <Ce message a été modifié>
+08/09/2024, 11:29 - Rochane: Perso, je l'ai testé pour 2 ou 3 heures et j'ai trouvé le rendu correct . Il faut attendre un peu pour recevoir le mail
+08/09/2024, 11:30 - +33 6 74 05 09 80: Jamais essayé scribe. Pour ma part j'utilise sonix.io dans lequel tu injectes tes fichiers audio ou vidéo et la transcription fonctionne plutôt bien. Il est payant mais de mémoire tu as un essai gratuit
+08/09/2024, 11:30 - +33 6 64 50 56 67: Bonjour à tous. Quelqu un aurait il la référence de l’infographie qui est passée dans le fil sur l’impact des ia gen sur l environment svp ?
+08/09/2024, 11:31 - Fred IA: Merci bcp de ton retour. Je testerai, mais dans l'immédiat, je recherche plutôt une solution opensource
+08/09/2024, 11:32 - +33 6 74 05 09 80: Scribe est open source ?
+Ah ben c'est super intéressant ça. Je cherchais aussi a l'époque et je n'en avais pas trouvé !
+08/09/2024, 11:33 - Fred IA: Merci bcp de ton retour Rochane 👍  Je ne savais pas ce qu'offraient les serveurs de scribe en terme de capacités de stockage, je n'ai pas l'impression que ce soit précisé dans les cgu. Mais 2 ou 3 h c'est déjà top 👍
+08/09/2024, 11:33 - +961 3 381 351: https://generationia.flint.media/p/comment-calculer-vraiment-impact-carbone-de-chatgpt-climat-ia-eau

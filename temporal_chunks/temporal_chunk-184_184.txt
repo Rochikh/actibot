@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 18
+
+=== CONTENU ===
+30/01/2024, 11:31 - ‎+33 6 78 79 95 34 a rejoint le groupe à partir de la communauté.
+30/01/2024, 12:36 - ‎+33 6 67 08 30 12 a rejoint le groupe à partir de la communauté.
+30/01/2024, 14:10 - ‎Pierrick BRIAND a rejoint le groupe à partir de la communauté.
+30/01/2024, 18:42 - ‎+33 6 50 62 76 45 a rejoint le groupe à partir de la communauté.
+31/01/2024, 06:51 - ‎+33 6 76 04 48 20 a rejoint le groupe à partir de la communauté.
+31/01/2024, 14:44 - ‎+32 499 10 21 99 a rejoint le groupe à partir de la communauté.
+31/01/2024, 22:26 - Rochane: <Médias omis>
+31/01/2024, 22:28 - Guillaume CLEMENT: Excellent !!👍 Belle trouvaille
+31/01/2024, 22:37 - Ahmadou Ba: Cette extension permet de créer une banque de prompt. Je l'ai tester il est cool. Ce prompt ira directement là bas https://buff.ly/3U3419E
+01/02/2024, 16:37 - +33 6 22 14 03 93: Bonjour à tous
+connaissez vous un bon plug pour écrire (posts, textes divers pour une présentation.. ) sur les processus créatifs (je ne veux pas de dessin mais quelque chose qui aborde les processus de créativité)
+01/02/2024, 16:37 - +33 6 22 14 03 93: Merci  : )
+01/02/2024, 16:38 - Rochane: Gamma App?
+01/02/2024, 16:40 - +33 6 22 14 03 93: Je vais voir, merci  👌
+02/02/2024, 08:48 - Rochane: <Médias omis>
+02/02/2024, 10:35 - Jacques BARATTI: l'extension Glasp sur Chrome fait la même chose, ça fonctionne très bien !
+02/02/2024, 17:06 - Jean-Marc Everard: Bonjour, pour des collègues d'autres SPF (Ministères), je suis à la recherche d'outils IA les plus utiles possibles pour le domaine de la formation et de l'apprentissage mais pour lesquels les données seraient relativement protégées. A part Mistral sur un serveur dédié (et à soi), je ne vois pas encore beaucoup d'alternatives. Je n'ai qu'une confiance raisonnable (pour ne pas dire faible) sur la non exploitation des données par Chat GPT Entreprise ou Team, dès lors en connaissez-vous d'autres que vous utiliseriez sur des données potentiellement sensibles ?
+02/02/2024, 17:08 - Rochane: @33768502488 a la solution

@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 22
+
+=== CONTENU ===
+- Une présentation orale ou numérique des conclusions du projet de groupe.
+<evaluation_method>
+L'évaluation sera fondée sur un système de rubriques qui prend en compte la compréhension des concepts (tests), la précision des analyses effectuées dans les exercices, l'originalité et la clarté des présentations de groupe, ainsi que la participation individuelle aux discussions et activités collaboratives.
+</evaluation_method>
+01/08/2024, 18:05 - Ahmadou Ba: réponse pertinente mais le format n'est pas trop top. avec des termes entre guillement que je ne comprend pas trop
+01/08/2024, 18:05 - Rochane: Bon, il reste à affiner l'output mais mon choix s'est porté sur GPT 4o mini qui est le moins cher sur le marché. Je pense qu'avec 4o ou Sonnet 3.5, l'output serait plus qualitatif
+01/08/2024, 18:06 - Rochane: Pourtant, j'ai modifié le prompt pour que ça n'apparaisse pas
+01/08/2024, 22:01 - Aïcha Elouali: J ai testé ça fonctionne.
+Je trouve l’idée des confettis top! Et les mots en gras aussi.
+Comment on fait pour récupérer la réponse précédente quand on repose une New question?
+Merci beaucoup Rochane pour ton partage et je te souhaite bcp de succès 🎊🎊
+01/08/2024, 22:01 - Votre code de sécurité avec +33 7 58 12 47 07 a changé. Appuyez pour en savoir plus.
+01/08/2024, 22:42 - Rochane: Tu peux faire une conversation mais tu ne peux pas sauvegarder les conversations pour les stocker. Je n'ai pas encore le budget d'Openai 🤣
+01/08/2024, 23:10 - Votre code de sécurité avec +33 6 37 28 05 42 a changé. Appuyez pour en savoir plus.
+01/08/2024, 23:17 - Aïcha Elouali: Ça viendra😉
+01/08/2024, 23:54 - +216 95 590 145: Je l'ai testé pour des étudiants en licence et ça bien fonctionné :
+# Je donnerais une note de 8/10 à ce créateur de scénarios pédagogiques.
+----Raisons pour cette note---
+# Points forts solides:
+Les objectifs clairs, la variété des activités, et l'approche pratique sont de grands atouts.
+02/08/2024, 00:37 - +41 78 927 90 96: null
+02/08/2024, 07:01 - Rochane: La qualité de la réponse n'est pas optimale pour la simple et bonne raison que c'est GPT 4o mini derrière et non GPT 4o qui coût plus cher. Après, il faut relativiser : 100 tests = 36 centimes environ

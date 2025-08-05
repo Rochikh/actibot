@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 21
+
+=== CONTENU ===
+13/04/2024, 16:43 - Yvelines: Suivez ce lien pour rejoindre ma communauté WhatsApp : https://chat.whatsapp.com/KYcjfUlPL1kEHr6v0s70Gm
+13/04/2024, 16:43 - Yvelines: Voilà le lien à partager @33621594664
+13/04/2024, 16:48 - +33 6 21 59 46 64: Merci beaucoup !
+13/04/2024, 17:16 - Votre code de sécurité avec +32 492 85 81 22 a changé. Appuyez pour en savoir plus.
+13/04/2024, 18:11 - Votre code de sécurité avec ~ Emmanuelle a changé. Appuyez pour en savoir plus.
+14/04/2024, 08:16 - Votre code de sécurité avec ~ Sylvie Haring Perrenoud a changé. Appuyez pour en savoir plus.
+14/04/2024, 09:43 - ‎+49 179 7891950 a rejoint le groupe à partir de la communauté.
+14/04/2024, 12:29 - +33 7 85 94 69 69: Si vous voulez ChatGPT4 gratuit allez sur BlueGPT
+14/04/2024, 13:00 - +33 6 51 43 08 14: Et BlueGPT est gratuit ou pas ?
+14/04/2024, 17:54 - +33 7 85 94 69 69: Ouais il me semble
+14/04/2024, 19:40 - Jacques BARATTI: BlueGPT est gratuit pour GPT3.5 et payant pour GPT4Turbo et de même pour tous les autres modèles qu'il propose. L'avantage st donc de pouvoir avec le mêle outil faire des comparaisons de différents LLM (gratuits ou non). Apparemment la fonction GPT est en cours d'installation, certains sont déjà disponibles.
+14/04/2024, 20:32 - ‎+33 6 32 76 93 25 est parti·e
+15/04/2024, 15:38 - Yvelines: https://ia.recitcn.ca/
+Lexique pour l'IA
+15/04/2024, 15:47 - Francois Bocquet: Ce lexique est vraiment très intéressant en particulier grâce aux analogies proposées. C’est très bien vu !
+15/04/2024, 19:06 - ‎+39 340 161 0964 a rejoint ce groupe grâce à son lien d’invitation
+15/04/2024, 19:07 - ‎+39 340 161 0964 a été ajouté·e
+15/04/2024, 19:35 - Rochane: Excellente ressource. Merci
+16/04/2024, 07:12 - +32 474 71 74 96: <Médias omis>
+16/04/2024, 07:25 - +33 6 22 42 57 92: Bonjour @32474717496 ,
+Je ne suis pas spécialiste et n'ai lu qu'en diagonal très rapidement mais, dans un exercice dans la partie "productivité " tu proposes un prompt pour rédiger un rapport hebdomadaire avec des donnés à fournir. Il me semble qu'il faudrait mettre un avertissement pour ne pas fournir des données personnelles ou sensibles à l'IA.

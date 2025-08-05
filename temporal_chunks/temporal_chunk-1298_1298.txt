@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 18
+
+=== CONTENU ===
+21/11/2024, 13:37 - Ahmadou Ba: Bonjour,
+Quelle est la meilleure licence Creatives Commons pour partager une ressource et rendre son utilisation le plus libre possible? Je sais que cela sort un peu du cadre de l'IA je m'en excuse d'avance
+21/11/2024, 13:50 - Francois Bocquet: CC By est la plus ouverte et qui respecte le droit d’auteur français
+21/11/2024, 13:50 - ‎+32 476 87 27 04 est parti·e
+21/11/2024, 13:50 - Francois Bocquet: Si tu ajoutes SA pour Share Alike ça contraint à conserver la même licence (c’est moins libre)
+21/11/2024, 13:51 - Francois Bocquet: Quant à ND (non derivative) et NC (non commercial) ça n’est plus libre du tout ;-)
+21/11/2024, 13:55 - Ahmadou Ba: Merci beaucoup.
+21/11/2024, 13:57 - Rochane: J'ai découvert que Wikipédia était en CC By SA alors que je croyais que c'était du CC By
+21/11/2024, 14:00 - Francois Bocquet: Oui d’ailleurs dès que Wikipédia est utilisé tu dois signaler la source et le contenu produit est « contaminé » par la licence SA. Et c’est très rarement respecté…
+21/11/2024, 14:03 - +41 76 372 28 94: @221774242616 Dans les copyleft il y a des licences, hors des Creatives Commons, qui imposent plus de libertés il me semble (je pense par exemple à GNU pour le logiciel). Faut définir ce que tu entends par "le plus libre possible". Liberté pour qui ?
+21/11/2024, 14:04 - +32 479 56 05 93: Ce message a été supprimé.
+21/11/2024, 14:05 - Francois Bocquet: Tu as aussi la licence ouverte https://www.etalab.gouv.fr/licence-ouverte-open-licence/
+21/11/2024, 14:07 - +41 76 372 28 94: Oui, ou CC0 (CC-Zero).
+21/11/2024, 14:08 - +34 683 61 41 61: Bonjour,
+Merci Rochane, cette idée me paraît particulièrement intéressante pour inciter les élèves à adopter des postures critiques.
+Pour beaucoup, aller sur un site zététique ou voir une vídeo de debunk c'est déjà trop donc un groupe WhatsApp semble plus adapté.
+Les écueils se situant au niveau du respect des DCP et de la fiabilité des sources...
+Je vais me renseigner mais si vous avez des infos, n'hésitez pas.

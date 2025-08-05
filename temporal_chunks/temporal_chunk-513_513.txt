@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 12
+
+=== CONTENU ===
+Sa capacité d'utilisation de tokens est alignée avec celle de ChatGPT-4.0, offrant les mêmes limites de 8 000 tokens par interaction standard, et jusqu'à 32 000 tokens pour les usages nécessitant des traitements plus importants.
+Sa limite d'utilisation en termes de tokens et, par extension, de mots (un token correspond à environ 4 caractères de texte en anglais, ou environ 0,75 mot), est équivalente à celle de ChatGPT-4.0. Cela signifie que les utilisateurs peuvent s'attendre aux mêmes capacités en termes de longueur et de complexité des interactions. <Ce message a été modifié>
+14/05/2024, 19:22 - Jacques BARATTI: merci Pierrick pour cette vidéo c'est très clair
+14/05/2024, 20:12 - Pierrick BRIAND: Cela peut vous intéresser !
+Le Conseil supérieur de l'éducation et la Commission de l'éthique en science et en technologie du Québec ont publié un rapport analysant les impacts de l'IA générative sur la formation, l'évaluation et le développement professionnel en enseignement supérieur.
+https://collimateur.uqam.ca/collimateur/rapport-2024-intelligence-artificielle-generative-en-enseignement-superieur/
+14/05/2024, 20:32 - Pierrick BRIAND: L'intelligence artificielle en enseignement supérieur et l'inclusion : colloque de l'ACFAS du 16 au 17 mai 2024.
+Cela peut intéresser des membres de la communauté résidant au Canada à Ottawa.
+Un colloque est organisé par l'Association francophone pour le savoir (ACFAS) abordera les croisements entre l'IA et l'inclusion en éducation d'un point de vue interdisciplinaire. Il vise à développer des perspectives analytiques et nuancées sur la façon dont l'IA et l'inclusion s'entrecroisent dans les institutions éducatives.
+https://www.acfas.ca/evenements/congres/programme/91/600/643/c
+14/05/2024, 20:37 - Thierry VANOFFE: En live la conférence Google io (en anglais) ça parle IA depuis 1H30 avec du très très lourd : https://www.youtube.com/watch?v=6rP2rEWsfpM
+14/05/2024, 22:32 - Votre code de sécurité avec +216 98 831 801 a changé. Appuyez pour en savoir plus.

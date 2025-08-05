@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+29/03/2024, 18:13 - LIO: <Médias omis>
+29/03/2024, 18:14 - LIO: Le progres est impressionnant
+29/03/2024, 18:28 - +32 479 58 54 12: C'est vrai qu'en combinant Perplexity et Travel Planning c'est déjà mieux 👍
+29/03/2024, 20:23 - +33 6 99 36 11 69: Dans CoPilot, tu as une thématique « Vacation Planner »
+29/03/2024, 20:26 - Ahmadou Ba: Connaissez vous une IA qui analyse des données gratuite ?
+29/03/2024, 20:27 - Rochane: Quel type de fichier ?
+29/03/2024, 20:33 - Ahmadou Ba: Excel
+29/03/2024, 20:35 - +32 479 58 54 12: Pas convaincue par le résultat, du moins pour un voyage en bateau 🤔
+29/03/2024, 20:37 - +33 6 84 84 42 61: Julius AI, mais pas très ergonomique
+29/03/2024, 20:39 - Ahmadou Ba: Merci beaucoup je vais le tester
+30/03/2024, 09:26 - Pierrick BRIAND: Bonjour à tous,
+Chez Apolearn AI, nous poursuivons le développement de notre formation intitulée « Maîtriser l’IA pour la formation ». Pour rappel, elle est entièrement gratuite.
+Un sujet revient très souvent dans nos recherches sur l’utilisation de l’IA en contexte éducatif : il s’agit de la correction des devoirs réalisés par les apprenants.
+Nous imaginons que, dans le groupe, certains se sont penchés sur la question. Ont-ils trouvé des méthodes et des outils ? Auraient-ils des conseils à formuler à la communauté sur ce point ?
+30/03/2024, 09:36 - +32 484 68 10 13: Moi j inutilise le mode vocal de l application Chat Gpt 😅
+30/03/2024, 09:54 - Ahmadou Ba: Il m'arrive de donner des exercices réactionnelles à mes élèves via google classrooom, en corrigeant les productions des élèves j'utilise l'extension Quilbot, un correcteur d'orthographe, il peut aider à paraphraser pour reformuler certaines phrases. C'est très pratique pour les travaux collaboratifs des élèves et améliorer leurs productions qui par la suite pourra servir de supports pédagogiques. En utilisant quilbot, je ne concentre mieux sur le contenu, je ne suis pas distrait par la mauvaise expression et led fautes des élèves. Ça me fait gagner du temps.

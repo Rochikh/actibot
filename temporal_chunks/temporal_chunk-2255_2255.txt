@@ -1,0 +1,44 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 36
+
+=== CONTENU ===
+Précieux pour l’évaluation qualitative ou la concertation.
+- 20 Créer un tableau comparatif à partir de sources
+Tu donnes plusieurs descriptions ou textes, l’IA les met en tableau clair.
+Utile pour comparer des projets, offres, structures.
+- 21 Faire une revue de littérature simplifiée
+Tu précises un thème, l’IA te propose une synthèse de sources existantes.
+Base utile pour préparer un dossier ou une recherche.
+- 22 Repérer les tendances dans des données textuelles
+L’IA identifie les récurrences dans un ensemble de textes (enquêtes, mails…).
+Permet de dégager des signaux faibles ou des besoins latents.
+- **6 Création de supports pédagogiques et formatifs**
+- 12 Créer un quiz ou une évaluation formative
+Tu donnes un contenu ou thème, et l’IA génère des QCM ou questions ouvertes.
+Facilite l’évaluation en formation ou animation.
+- 13 Transformer un contenu en support pédagogique
+À partir d’un document complexe, l’IA crée un PowerPoint ou une fiche claire.
+Parfait pour rendre accessible une matière dense.
+- **7 Communication et création de contenu**
+- 23 Générer des slogans ou noms de projet
+Tu précises ta mission ou ta cible, l’IA propose des noms ou slogans originaux.
+Utile en communication ou lancement.
+- 24 Rédiger une charte ou un manifeste
+Tu fournis des valeurs ou principes, l’IA les structure en texte mobilisateur.
+Outil d’alignement collectif.
+- 29 Préparer un argumentaire politique ou technique
+L’IA développe des arguments structurés à partir d’un objectif.
+Renforce ta capacité de conviction.
+- 31 Écrire un discours public ou institutionnel
+Tu définis le message, le public et l’intention, l’IA rédige une allocution adaptée.
+Tu peux la moduler selon ton style.
+- **8 Modélisation et systématisation**
+- 14 Créer des modèles de rapports ou PV
+Tu précises le type de document, l’IA fournit un canevas réutilisable.
+Gain de temps pour des tâches administratives récurrentes.
+- 26 Créer un prompt réutilisable pour tâches fréquentes
+Tu formalises une consigne générique, l’IA te la rend stable et paramétrable.

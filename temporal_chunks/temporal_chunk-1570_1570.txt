@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 20
+
+=== CONTENU ===
+13/01/2025, 07:45 - Clément Cahagne: Malin.. Pour le moment j’essaye de limiter les modèles que j’utilise au max pour m’y retrouver et que ce soit plus clair de mon côté, mais je note l’idée, pas bête !!
+13/01/2025, 09:23 - +33 6 13 73 04 14: Bonjour le groupe, je suis un utilisateur régulier de ChatGPT dans mon domaine (finance) et je souhaite approfondir mes connaissances en IA en général et les Agents IA en particulier, pouvez-vous m’aider à trouver une formation efficace ou bien un parcours d’apprentissage? Merci pour votre aide…
+13/01/2025, 09:59 - Rochane: Je te conseille https://flint.podia.com
+Avec l'excellent Benoît Raphaël
+13/01/2025, 10:32 - Votre code de sécurité avec +33 6 65 12 62 34 a changé. Appuyez pour en savoir plus.
+13/01/2025, 11:30 - +33 6 13 73 04 14: Merci bcq
+13/01/2025, 12:03 - ‎+33 6 62 42 16 47 a demandé à rejoindre le groupe.
+13/01/2025, 12:10 - +33 6 07 80 60 88: Bonjour
+Merci beaucoup
+Par curiosité, est ce que les vidéos sont sous titrées ?
+13/01/2025, 13:12 - +33 6 33 75 30 50: C’est en français et je confirme que ça vaut son pesant de cacahuètes
+13/01/2025, 14:21 - Jean-Marc Everard: bonjour @33649535198 est-ce que Openrouteur est proche de https://www.cloudflare.com/fr-fr/ dans l'usage ?
+13/01/2025, 14:23 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+13/01/2025, 14:32 - Rochane: Hello JM, Cloudflare, je l'ai utilisé pour héberger des sites mais jamais pour des clés API. J'avoue que je ne sais pas
+13/01/2025, 14:38 - ‎+33 6 62 42 16 47 a rejoint le groupe à partir de la communauté.
+13/01/2025, 15:05 - Jean-Marc Everard: Ok, merci beaucoup. Je pense avoir vu ce genre d'usage dans des vidéos sur BOLT mais en effet, c'est pratique d'avoir un espace qui gère les clefs API je pense.
+13/01/2025, 15:41 - +32 495 45 71 42: Hello la communauté
+Pourriez vous m expliquer comment génèrent une conversation en français sur lmnotebook?
+13/01/2025, 15:46 - +33 6 74 39 90 60: Bonjour
+la pluspart des IA que j'ai testé en retranscription de fichier audio pour des réunion de 2h

@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 24
+
+=== CONTENU ===
+06/11/2023, 15:28 - +237 6 99 02 51 84: Oui, intéressant. Il y avait un webinaire aujourd'hui dessus
+06/11/2023, 15:29 - Jonathan Ponsard: Je les connais bien ;) Je peux proposer une collaboration si vous voulez ;)
+06/11/2023, 16:49 - Rochane: De quel genre ?
+06/11/2023, 16:49 - Rochane: Peut-être nous la présenter lors de notre prochaine visio ?🙂
+06/11/2023, 17:07 - Jonathan Ponsard: Je parle des roch dur les repsonsables du kit sur l IA
+06/11/2023, 17:08 - Rochane: Oui et si tu connais bien, ce serait cool de nous en faire une présentation
+06/11/2023, 17:08 - Jonathan Ponsard: Pas le kit ;) Mais les personnes qui s’en occupe ;) !
+06/11/2023, 17:11 - Jonathan Ponsard: Occupent ;)
+06/11/2023, 17:12 - Rochane: Oui excellente idée
+06/11/2023, 17:13 - Rochane: On va relancer un second meeting pour la mi novembre j'espère
+06/11/2023, 17:13 - Jonathan Ponsard: Je prends contact ;)
+06/11/2023, 20:33 - ‎+32 494 94 16 13 a rejoint le groupe à partir de la communauté.
+06/11/2023, 21:58 - Guillaume CLEMENT: Les annonces des nouveautés sur CHATGPT dingue!!!
+https://youtu.be/ZEuNTwRGQv8?si=t3XXt6QHBXOvDKDk
+06/11/2023, 22:00 - Rochane: Je viens de la regarder et la finir. Ça promet 😁
+06/11/2023, 22:43 - Guillaume CLEMENT: Y a du boulot
+06/11/2023, 22:43 - Guillaume CLEMENT: 😁
+07/11/2023, 09:07 - +33 6 63 72 18 15: Vu hier et hâte de tester !!
+07/11/2023, 09:08 - Guillaume CLEMENT: C'est déjà en place pour le nouvel interfaces et la fusion des outils 👍
+07/11/2023, 09:45 - +33 7 68 67 76 16: Bonjour, je découvre l'IA. Je souhaiterais soumettre aux lycéens un quizz.
+Pour cela je recherche une IA qui générerait des anecdotes, canulars, rumeurs, faits, opinions, informations... Et les lycéens devraient cocher les bonnes réponses.
+Auriez-vous des idées à me suggérer SVP?
+07/11/2023, 09:51 - Rochane: Quoi, tu as déjà la nouvelle interface ?
+07/11/2023, 09:56 - Rochane: Bonjour, rien qu'avec Chat GPT, tu peux faire ça mais il faut bien travailler son prompt si on veut avoir un résultat exploitable. Sinon, la ressource partagée en haut https://lesrochdur.com/ia-box-education/ est vraiment une mine d'or 🙂

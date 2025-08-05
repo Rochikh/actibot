@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 18
+
+=== CONTENU ===
+08/11/2023, 22:22 - +32 470 11 45 36: Deeple
+08/11/2023, 22:47 - Guillaume CLEMENT: Deepl 👍
+09/11/2023, 09:05 - +32 494 94 16 13: https://www.onlinedoctranslator.com/
+fonctionne pas mal aussi
+09/11/2023, 09:37 - +32 498 78 46 36: Attention que Deepl (la partie gratuite) est limité au niveau des caractères (1500 de mémoire)
+09/11/2023, 10:07 - Rochane: Est-ce que Chat GPT fonctionne chez vous ? Chez-moi non même avec deux comptes différents 🤔
+09/11/2023, 10:11 - +32 470 11 45 36: En rade pour l’instant voir statut open ia
+09/11/2023, 10:17 - Rochane: Merci, effectivement, les updates sont ici https://status.openai.com/
+09/11/2023, 10:21 - Jean-Marc Everard: Bonjour, je viens de voir cette recension de Sandrine Decamps sur l’IA en éducation. Ça m’a l’air très interessant. https://wakelet.com/wake/hJ4TSzlKl2NxTdek9S0n_
+09/11/2023, 10:40 - +32 498 78 46 36: C'est effectivement down depuis déjà hier soir (GMT+1) et cela continue à être down chez moi. C'est le moment de tester Bard. <Ce message a été modifié>
+09/11/2023, 12:23 - Ahmadou Ba: Ou Claude Il offre des fonctionnalités gratuites que GPT ne donne pas
+09/11/2023, 12:41 - +32 498 78 46 36: Pas encore dispo en Belgique je crois si ?
+09/11/2023, 12:41 - Rochane: Vpn+ numéro de téléphone des 95 pays au dessus
+09/11/2023, 15:40 - +33 7 71 20 50 67: <Médias omis>
+09/11/2023, 21:36 - Rochane: Ça y est, la nouvelle version de chat GPt est arrivée chez moi et en plus, la création de gpts est possible. Une pluie de cas d'usage 👍
+09/11/2023, 21:38 - Ahmadou Ba: Ils n'arrêtent de vanter ses mérites. Je crois que je vais finalement passer à GPT 4
+09/11/2023, 21:39 - Ahmadou Ba: Mais le problème à quel point l'usage de GPT ou des IA génératives est considéré comme du plagiat ou de la violation du droit d'auteur. Qu'en serat-il s'il est utilisé pour la rédaction d'article universitaire (mémoire ou rapport)
+09/11/2023, 21:40 - Lucie: GPT4 est vraiment incomparable au 3. Après ils parlent de baisser le prix des abonnements pour une meilleure accessibilité. Mais 20$ pour nous Francais et pour la puissance du produit c'est rien

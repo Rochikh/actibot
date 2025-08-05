@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 14
+
+=== CONTENU ===
+28/10/2024, 10:06 - Rochane: <Médias omis>
+28/10/2024, 10:11 - +32 498 32 22 00: Ça m’a coûté de le faire vu le paradoxe…
+Mais j’ai posé la question à ChatGPT.
+J’espère que Nicolas Blanchon pourra aller au-delà, nuancer, critiquer cette réponse pour voir en quoi c’est du bullshit ou non.
+28/10/2024, 10:11 - +32 498 32 22 00: Oui, il y a plusieurs conseils à suivre pour utiliser les IA de manière responsable et limiter leur impact environnemental tout en maximisant leur utilité. Voici quelques suggestions qui combinent un usage écologique et éthique des technologies d'intelligence artificielle :
+1. Limiter les requêtes inutiles
+Optimiser chaque requête : Réfléchis bien avant de poser une question ou de générer du contenu. Une question bien formulée réduit le nombre de requêtes nécessaires et diminue ainsi la consommation énergétique.
+Éviter les tests excessifs : S’il s’agit simplement de curiosité ou de tests répétitifs sans but précis, il vaut mieux restreindre l'utilisation d'IA.
+2. Favoriser les tâches légères
+Utilisation textuelle plutôt que graphique : Les tâches comme les recherches textuelles consomment beaucoup moins d’énergie que les générations d’images ou de vidéos. Si une réponse textuelle suffit, privilégie ce type d'interaction.
+Utiliser des IA spécialisées : Pour certaines tâches spécifiques, il existe des modèles plus légers que les modèles génératifs géants (comme ChatGPT). Par exemple, des IA spécialisées dans la traduction, le résumé ou l’analyse des données sont souvent plus efficaces.
+3. Soutenir les entreprises responsables
+Choisir des plateformes engagées dans la durabilité : Certaines entreprises technologiques investissent dans des centres de données écoresponsables, utilisant des énergies renouvelables (solaire, éolienne). Renseigne-toi sur les pratiques de tes fournisseurs de services IA.
+Encourager les démarches vertes : Lorsque tu choisis une IA, privilégie celles qui sont transparentes sur leur impact environnemental et qui compensent leurs émissions carbone.

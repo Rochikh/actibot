@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 10
+
+=== CONTENU ===
+20/09/2024, 11:50 - Jean-Marc Everard: Bonjour, une fois n'est pas coutume, je vous partage une publication qui a le mérite de faire réfléchir, mais avec laquelle je ne suis pas fort d'accord dans la mesure où elle semble traîter de l'IA seule, comme s'il n'y avait pas l'"human in the loop". https://collimateur.uqam.ca/collimateur/pourquoi-le-corps-enseignant-devrait-eviter-dutiliser-des-outils-dia-pour-levaluation-de-lapprentissage/
+20/09/2024, 11:51 - Jean-Marc Everard: Il faut noter que l'IA + l'humain peuvent parvenir à de bonnes évaluations selon moi. Mais comme souvent, il ne faut pas envisager les choses selon un modèle ceci vs cela...
+20/09/2024, 12:04 - +33 6 49 95 38 23: En effet, les 3/4 des arguments sont pour des modèles en ligne pour le grand publique. Dr. Sarah Elaine Eaton n'as pas bien fait ses devoirs. <Ce message a été modifié>
+20/09/2024, 12:12 - ‎+33 6 34 43 96 38 a rejoint ce groupe grâce à son lien d’invitation
+20/09/2024, 12:12 - ‎+33 6 95 26 98 39 a ajouté +33 6 51 89 96 96
+20/09/2024, 12:25 - +33 7 63 58 01 55: Merci pour ce partage 👍🏻
+C'est peut-être un problème de traduction mais il aurait sans doute été utile qu'elle précise ce qu'elle entend par "utiliser l'IA pour l'évaluation de l'apprentissage" parce que j'ai l'impression qu'elle parle plus spécifiquement de la "correction des travaux des étudiants par l'IA".
+Pour moi, l'évaluation de l'apprentissage comprend aussi la préparation des activités d'évaluation, la création d'outils comme les grilles critériées et éventuellement l'amélioration syntaxique des retours donnés aux étudiants (entre autres).
+On peut donc utiliser l'IA de différentes manières pour l'évaluation sans que ce soit problématique. Mais si on parle de faire corriger/évaluer les productions des étudiants, le plus grand problème est effectivement de se couper de ses étudiants et de moins les connaître collectivement et individuellement.
+La vitalité de la relation pédagogique est très importante et les outils d'IA générative peuvent contribuer à la dégrader de manière significative.

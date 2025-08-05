@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 13
+
+=== CONTENU ===
+C'est une application Android qui permet de transcrire automatiquement un fichier audio en texte grâce à l'IA[1]. Elle repose sur la technologie Whisper d'OpenAI, sortie en septembre 2022, qui a révolutionné la transcription audio[1].
+## Plaud Note
+Lancé récemment en Europe, c'est un dictaphone révolutionnaire au format carte de crédit qui s'attache magnétiquement au dos du smartphone[1]. Il enregistre via des micros et capteurs, puis transcrit et résume grâce à l'IA, notamment chatGPT intégré[1].
+## Chatbots avec synthèse
+Au-delà de la transcription, des chatbots IA sont capables d'analyser sémantiquement le contenu transcrit pour en extraire les points clés et générer une synthèse thématique[2][3]. Ils combinent moteur de traitement du langage naturel et base de connaissances pour comprendre le sujet.
+Mon conseil serait d'utiliser Speechnotes ou Plaud Note pour l'enregistrement et la transcription, puis de copier-coller le texte obtenu dans un chatbot IA comme ChatGPT pour obtenir un résumé et une synthèse des idées principales, le tout depuis votre smartphone Android.
+L'IA générative, dont font partie ces outils, ouvre de nombreuses possibilités passionnantes pour faciliter ce type de tâches[6]. N'hésite pas à tester et partager ton retour d'expérience avec la communauté !
+Citations :
+[1] Transcrire du son en texte : l’autre révolution de l’IA https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/transcrire-du-son-en-texte-l-autre-revolution-de-l-ia-4290033
+[2] Chatbots : l'intelligence artificielle est-elle indispensable - Visiativ https://www.visiativ.com/actualites/actualites/chatbots-lintelligence-artificielle-est-elle-indispensable/
+[3] Agent conversationnel, quand l'IA fait n'importe quoi : les perles des ... https://qantis.co/agent-conversationnel-quand-lia-fait-nimporte-quoi-les-perles-des-conversations/
+[4] Les 25 meilleurs chatbots d'IA en 2024 - Zendesk https://www.zendesk.fr/service/messaging/chatbot/
+[5] Intelligence artificielle (IA) : comment ça fonctionne ? - Meritis https://meritis.fr/intelligence-artificielle-ia-comment-ca-fonctionne/

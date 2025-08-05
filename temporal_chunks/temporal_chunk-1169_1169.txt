@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 12
+
+=== CONTENU ===
+02/11/2024, 17:51 - Francois Bocquet: code de l’éducation L 121-4-2 (voir art 22 de la loi informatique et libertés de 2018 https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000037085996)
+02/11/2024, 18:36 - ‎+62 856-0022-56856 a demandé à rejoindre le groupe.
+02/11/2024, 19:02 - +41 76 372 28 94: Non, nous en avons pas discuté.
+Ni le logiciel, ni le serveur, ne sont capables de dire quelle ip s'est connecté sur le serveur pour les élèves. Pas d'information collectées : pas de login, pas de discussions.
+Seul un élève connecté à l'école peut poser des questions à l'IA. J'ai abandonné l'idée de leur offrir ChatGPT chez eux pour l'instant car le protocole de construire un identifiant unique pour les élèves non basés sur un cookie, afin de limiter les abus, me prendrait trop de temps à développer durant l'année scolaire. J'y réfléchirai l'été prochain.
+A la place le site est ouvert pour les 2 adresses IP de notre école (l'adresse ip du proxy utilisé pour les postes fixes et l'adresse ip du proxy utilisé pour le wifi). Je ne pourrai pas dire, plus tard, si c'est sur un poste fixe ou un wifi. Donc même si on cherchait à retracer toutes les connections sortantes de l'école à une heure donnée et si je fournissait tous mes logs au service informatique de l'école, ils seraient eux aussi incapables de savoir qui s'est connecté.
+Sinon par rapport à ce que François vient de nous dire, je dois avouer ne pas avoir encore tout compris : il va falloir que je relise avec un moteur de recherche à côté !
+C'est quoi un DCP, un "traitement", une "analyse d'impact", les "registres obligatoires" ? Est-ce qu'en Suisse c'est tout pareil (j'imagine que oui) ?
+Mon objectif c'est qu'ils soient sur un pied d'égalité par rapport à la version payante de ChatGpt lorsqu'ils sont en TP avec moi. Maintenant c'est le cas.
+02/11/2024, 19:14 - +689 87 78 58 86: DCP : donnée à caractère personnel
+02/11/2024, 19:36 - ‎+62 856-0022-56856 a rejoint ce groupe grâce à son lien d’invitation
+02/11/2024, 20:55 - Fred IA: IA et Éducation / Rapport Sénat du 30 octobre 2024 https://www.senat.fr/rap/r24-101/r24-101-syn.pdf

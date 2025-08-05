@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 17
+
+=== CONTENU ===
+Créer des tableaux et graphiques en utilisant les résultats des formules pour soutenir la prise de décision.
+Collaborer avec d'autres participants pour résoudre des problèmes liés à l'utilisation d'Excel.
+</reformulated_objectives>
+- Atelier de résolution de problèmes : Les participants forment des groupes pour résoudre des cas pratiques où ils doivent utiliser les formules NOMBRE, NB.SI et NBENS pour analyser des données réelles.
+- Projet de présentation : Chaque groupe sélectionne un ensemble de données, utilise les formules pertinentes, et présente leurs résultats sous forme de tableau de bord ou de présentation graphique.
+- Exercice d'auto-apprentissage : Les participants effectuent des tutoriels vidéo sur l'utilisation de NOMBRE, NB.SI et NBENS, suivis d'exercices pratiques sur un jeu de données fourni.
+- Analyse de cas : Chaque participant choisit un jeu de données (personnel ou fourni) et utilise les formules pour répondre à des questions spécifiques. Ils soumettent un rapport écrit de leurs conclusions.
+<interaction_types>
+Une approche blended (mi-temps en présentiel et mi-temps en ligne) peut être adoptée, avec des séances en direct pour les activités collaboratives et des modules d'auto-apprentissage en ligne pour les activités individuelles.
+</interaction_types>
+- Un fichier Excel contenant les analyses et graphiques basés sur l'utilisation des formules.
+- Un rapport écrit décrivant les résultats de l'analyse de données réalisée.
+- Une présentation orale ou numérique des conclusions du projet de groupe.
+<evaluation_method>
+L'évaluation sera fondée sur un système de rubriques qui prend en compte la compréhension des concepts (tests), la précision des analyses effectuées dans les exercices, l'originalité et la clarté des présentations de groupe, ainsi que la participation individuelle aux discussions et activités collaboratives.
+</evaluation_method>
+01/08/2024, 18:05 - Ahmadou Ba: réponse pertinente mais le format n'est pas trop top. avec des termes entre guillement que je ne comprend pas trop

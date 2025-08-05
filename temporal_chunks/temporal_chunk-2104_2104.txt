@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 14
+
+=== CONTENU ===
+20/04/2025, 13:10 - Francois Bocquet: Pour accéder à l’application c’est ici -> https://framablog.org/2024/12/03/enregistrer-et-transcrire-vos-reunions-avec-lokas/
+20/04/2025, 13:10 - ‎+63 951 617 8845 a demandé à rejoindre le groupe.
+20/04/2025, 13:21 - ‎+32 475 82 24 59 est parti·e
+20/04/2025, 13:27 - ‎+63 951 617 8845 a rejoint ce groupe grâce à son lien d’invitation
+20/04/2025, 13:28 - Francois Bocquet: Je cite car c’est intéressant comme conception «  Si vous le souhaitez, pour une meilleure lecture des notes, vous pouvez attribuer un prénom (ou pseudo) aux participant⋅es. Pour obtenir des temps de parole par genre, vous pouvez aussi les attribuer manuellement, en vous assurant évidemment du consentement des personnes concernées à communiquer cette information. Notez que ces informations sont volontairement manuelles, et ne quittent pas votre téléphone, et ne sont donc pas transmises à Framasoft ou qui que ce soit. »
+20/04/2025, 13:30 - Rochane: Dicte.ai a le même concept, il me semble
+20/04/2025, 13:32 - +63 951 617 8845: null
+20/04/2025, 13:58 - Vous avez supprimé +63 951 617 8845
+20/04/2025, 14:02 - estelle Duterage Drion IA: Merci François j’ai téléchargé
+20/04/2025, 14:22 - +33 7 61 63 06 10: Pas à ma connaissance
+20/04/2025, 14:25 - +33 7 61 63 06 10: Dans mon utilisation de Plaud, je n'ai jamais chercher à personnaliser les voix. Je demande évidemment l'autorisation avant d'enregistrer en expliquant que je m'occupe du compte-rendu, ce qui fait que évidemment ça aide beaucoup l'acceptation.
+en revanche, on ne cite pas le nom des participants,  ça je fais dans un deuxième temps lors de la reprise du compte-rendu et du coup c'est plutôt sur Word et non plus sur Internet.
+20/04/2025, 14:25 - +213 661 96 97 18: Bonjour , je cherche des outils IA pour les proposer aux enseignants nouvellement recrutés pour encadrement ou suivie de projets de recherche ou pédagogiques,   si c’est possible 🌿🌿🌿
+20/04/2025, 14:36 - Rochane: ## Résumé des outils IA pour enseignants

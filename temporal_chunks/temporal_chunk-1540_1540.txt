@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 15
+
+=== CONTENU ===
+07/01/2025, 15:25 - +216 25 000 725: Bonjour
+J'ai trouvé une astuce qui permet de faciliter la création des formulaires des enquêtes en ligne via Google forms et mistral https://youtu.be/PhjrDykFchk
+07/01/2025, 15:42 - Sébastien Place: Seul le module 5 présente Copilot. Les autres modules sont totalement agnostiques d'un point de vue technologique.
+07/01/2025, 15:43 - +44 7776 747507: Je veux dire, j'étais étonnée de ne pas voir de ChatGPT alors que c'est largement utilisée?!
+07/01/2025, 16:27 - Jean-Marc Everard: Sans vouloir tempérer l'enthousiasme et si c'est la fonctionnalité que j'ai utilisée il y quelques semaines (avec l'abonnement), ça ne retient quand même que disons vraiment quelque élément d'un template quand on lui soumet. Mais je vais refaire une tentative, j'ai peut-être été un peu vite...
+07/01/2025, 16:28 - Clément Cahagne: Oh non, je vais retomber dans ma dépression post foie gras et chapon 😩
+07/01/2025, 16:32 - Jean-Marc Everard: C'est peut-être juste moi hein... Il faut dire aussi que je lui ai donné un template avec un mode sombre et un mode clair, il n'a peut-être pas bien compris... Je vais aller améliorer ça d'ailleurs parce qu'au final, mise à part une couleur vraiment malheureuse et l'absence de logo (un peu simple quoi), ça va encore. Ca a le mérite d'être très lisible. (mais un peu monotone).
+07/01/2025, 16:33 - Rochane: Peut être que ça a été ouvert à toutes les formules dont la gratuite <Ce message a été modifié>
+07/01/2025, 17:41 - +33 7 84 33 02 62: En version premium ?
+07/01/2025, 17:41 - Rochane: Free
+07/01/2025, 17:44 - +32 483 60 53 96: Ok tres louable, mais chatgpt oui et notebook lm gratuit oui ?
+07/01/2025, 17:44 - ‎+41 77 484 25 33 a demandé à rejoindre le groupe.
+07/01/2025, 17:47 - +33 7 84 33 02 62: Merci; je vais le tester
+Pour info et -par association d’idées sur Fun Mooc - il va y avoir un mooc sur la RGPD…
+07/01/2025, 18:03 - Francois Bocquet: Il est d’usage d’écrire LE RGD puisqu’il s’agit d’un règlement européen ;-) excellente nouvelle pour ce projet de MOOC. Sais tu qui le produit et à destination de qui il est ? Merci d’avance.

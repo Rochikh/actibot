@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 32
+
+=== CONTENU ===
+[ARTICLE]
+Résume l'article ci-dessus. Organise-le en fonction des thématiques suivantes :  mot-clé 1 / mot-clé 2 / mot-clé 3
+ou
+- Résume en français l'idée générale de l'article dans une phrase facile à comprendre.
+- Liste les idées fortes en bullet-points en portant une attention particulière sur les données chiffrées et les noms (organisations, personnalités) (par exemple "John Doe, CEO de Doecompany").
+- Propose une citation clé.
+- Propose un exemple concret si c'est pertinent.
+- Indique également si un lien peut être fait avec d'autres sujets.
+- Trouve des sources de référence qui renforcent ou amendent les idées clés et fais-en un paragraphe dédié de moins de 300 signes
+Voici le texte :
+ou
+Tu vas recevoir un texte en français. Ta tâche est de proposer une version plus concise, plus fluide et plus compréhensible de ce texte, tout en respectant certaines contraintes.
+Voici les étapes à suivre :
+1. **Lis attentivement le texte suivant :**
+<texte>
+{{TEXTE À RACCOURCIR}}
+</texte>
+2. **Avant de commencer la réécriture, pose-toi les 3 questions suivantes, comme le ferait un auteur de talent ou un traducteur :**
+<questions>
+a) Quel est le style et le ton spécifiques utilisés par l'auteur dans ce texte ?
+b) Comment l'auteur structure-t-il sa pensée et son argumentation ?
+c) Quels sont les éléments clés qui donnent au texte son caractère unique ?
+</questions>
+Réfléchis à ces questions et note tes observations dans une balise <analyse>.
+3. **En te basant sur ton analyse, crée une version plus concise du texte en suivant ces directives :**
+- Réduis la longueur du texte d'environ 30%
+- Améliore la fluidité et la compréhensibilité
+- Conserve les idées et informations essentielles
+- Respecte strictement le ton et le formalisme de l'article original
+- Assure-toi que la structure de la pensée de l'auteur reste intacte
+1. **Écris ta version révisée du texte en français à l'intérieur de balises <texte_revise>.**
+2. **Après avoir terminé la réécriture, explique brièvement (en 2-3 phrases) comment tu as abordé la tâche et quels changements principaux tu as apportés.

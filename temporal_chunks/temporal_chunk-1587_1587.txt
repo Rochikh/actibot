@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 13
+
+=== CONTENU ===
+Segmenter les tâches complexes en étapes simples.
+Utiliser l’IA comme un outil de brainstorming plutôt qu’un fournisseur de solutions définitives.
+---
+Conclusion
+Cet article met en lumière le potentiel des outils d’IA pour alléger la charge de travail des enseignants tout en améliorant la qualité de l’enseignement. En adoptant une approche stratégique et en s’appuyant sur des principes clairs, les éducateurs peuvent tirer parti de l’IA pour devenir plus efficaces et créatifs. L’exemple de Dan Levy illustre que même des techniques simples peuvent produire des résultats comparables à ceux d’un assistant de recherche qualifié. Les auteurs encouragent les enseignants à expérimenter et à intégrer progressivement ces outils dans leur pratique.
+17/01/2025, 08:47 - Rochane: https://www.theinformation.com/articles/google-and-microsoft-force-customers-to-pay-for-ai?rc=j13vp7
+"Now, the software firms are no longer asking. Google said Wednesday it would automatically include generative AI features with Workspace productivity apps like Gmail, and charge basic tier customers an additional $2 per employee per month—a 16% increase over the previous bundle that excluded the features. Google had previously sold the features as an add-on, charging $20 to $30 per employee per month."
+"And on Thursday Microsoft announced a 30% price increase for consumer Office subscriptions with Copilot AI features worldwide. (Existing consumer subscribers will have the option to switch their plan to a bundle without AI, but new ones won’t have that choice.)"
+17/01/2025, 09:55 - +33 6 80 25 63 41: Quelle IA utilises-tu pour faire ce genre de synthèse ? Notebook ? ChatGPT?
+17/01/2025, 10:04 - Rochane: Vous avez supprimé ce message
+17/01/2025, 10:08 - +33 6 80 25 63 41: Merci pour le partage :)
+17/01/2025, 10:42 - +33 6 08 73 04 79: Bonjour,
+Pour info (mais elle est peut etre déjà connue de beaucoup) un projet d’IA open source « openEDIAG » pour la filière EdTech, pour aider à personnaliser les parcours. https://openediag.com

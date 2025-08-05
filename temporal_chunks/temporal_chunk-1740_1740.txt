@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 11
+
+=== CONTENU ===
+08/02/2025, 20:16 - Francois Bocquet: Il y a déjà un projet de référentiel
+08/02/2025, 20:17 - Francois Bocquet: J’en ai fait une carte mentale qui fait le lien avec les programmes https://www.mindmeister.com/fr/3301191440/pistes-de-r-f-rentiel-des-comp-tences-ia-par-niveaux-scolaires-f-bocquet-dne-tn2-novembre-2022
+08/02/2025, 20:18 - Francois Bocquet: Nous sommes plus de 3 ans plus tard et les chinois ont mis en place des programmes scolaires depuis 2017 du primaire au lycée. Un élève qui a passé son bac cette année a déjà eu 7 ans de progression sur les savoir et compétences autour de l’IA… je vous laisse imaginer ce que ça va donner d’ici 5 à 10 ans.
+08/02/2025, 20:23 - Francois Bocquet: Pour découvrir des références : https://eda.u-paris.fr/wp-content/uploads/sites/51/2024/03/Developper-IA-en-Chine_v7.pdf
+08/02/2025, 20:23 - Francois Bocquet: Et aussi à Hongkong https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/a-hong-kong-les-collegiens-vont-apprendre-a-maitriser-l-intelligence-artificielle-des-la-rentree-prochaine_5884517.html#xtor=CS2-765-%5Bautres%5D-
+08/02/2025, 20:29 - Francois Bocquet: La table ronde organisée hier matin par le Ministère sur le cadre de référence est ici (sur YouTube) https://www.youtube.com/live/7AQW39V4XFk?si=chFDjbQD9zHhF_NU
+08/02/2025, 20:30 - Francois Bocquet: Je n’ai pas encore extrait le texte pour en faire des synthèses
+08/02/2025, 20:31 - +33 6 65 65 01 37: Effectivement cela a été annoncé dès le début lors de l’ouverture par la ministre
+08/02/2025, 20:36 - Gregoire IA: Je pensais en effet au point 2.de l'article 4, il faut que la collecte respecte ce qui a définitivement le traitement des données et faire appel à une firme extérieure.peut rendre cela.plus difficile.
+Une chance que vous ne voyez pas au Québec, la question est encore plus radicale : interdit de faire sortir les données... Pour éviter justement ce risque de non conformité.
+08/02/2025, 20:40 - Francois Bocquet: C’est radical car parfois les données sont plus en sécurité chez un sous-traitant sérieux et bien encadré que mal sécurisé en interne. Mais chaque pays a ses propres règles.

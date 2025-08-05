@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 18
+
+=== CONTENU ===
+Qui permettrait a partir d'une pièce de théâtre dont les textes sont en pdf ou word
+De créer une bande annonce vidéo de moins d'une minute façon cinéma...
+Lia pourrait en tirer un résumé, sans spoil, et imaginer une voix off et des images d'illustrations.
+Merci pour vos suggestions
+13/09/2024, 19:06 - Fred IA: Bonsoir. Concernant Notebooklm, de ce que j'ai compris, les documents qu'on y met ne servent pas à entraîner les modèles de Google (ça resterait privé ? Ça me paraît naïf d'y croire..). Mais est on restreint à un nombre maximum de pages si on upload un pdf pour le faire analyser ?  Merci par avance
+13/09/2024, 19:08 - Rochane: La limitation est basée sur le nombre de mots : chaque source peut contenir jusqu'à 500 000 mots.
+Et on peut importer jusqu'à 50 sources par bloc
+13/09/2024, 19:11 - Fred IA: Merci beaucoup !
+13/09/2024, 19:16 - Benoit Groupe gPT: Mais peut-on faire un prompt pour modifier le podcast ?
+13/09/2024, 19:20 - Rochane: Pour l'instant, il le génère directement
+13/09/2024, 20:04 - Francois Bocquet: les informations contractuelles sont ici : https://support.google.com/notebooklm/answer/14275965?hl=fr a priori pas de raison de douter…
+13/09/2024, 20:09 - Fred IA: Merci beaucoup pour ces éléments 👍 Par contre, en fin de page, il est précisé : "Comme vous êtes un utilisateur Enterprise ou Education dont l'utilisation de Google Drive est soumise aux..." :  sait-on ce qu'il en est des autres comptes Google "classiques" et gratuits ? Cela reste t-il privé également ?
+13/09/2024, 21:00 - Francois Bocquet: Il semble https://notebooklm.google/
+13/09/2024, 21:00 - Francois Bocquet: You’re in control
+Your personal data is not used to train NotebookLM, so any private or sensitive information you have in your sources will stay private, unless you choose to share your sources with collaborators.
+13/09/2024, 21:51 - Votre code de sécurité avec Centre Richard a changé. Appuyez pour en savoir plus.
+13/09/2024, 22:54 - ‎+32 471 20 79 49 est parti·e
+14/09/2024, 13:14 - Pierrick BRIAND: Du nouveau chez Open AI

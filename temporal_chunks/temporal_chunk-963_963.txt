@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 17
+
+=== CONTENU ===
+21/09/2024, 10:47 - +33 6 19 75 63 49: <Médias omis>
+21/09/2024, 10:58 - +33 6 49 84 08 41: Ah oui merci !
+21/09/2024, 11:11 - Rochane: Une chose que je reproche à l'IA c'est l'exagération et voici un prompt venant de Benoît Raphaël qui te permet d'atténuer cette exagération que j'utilise beaucoup
+""" ENTRE ICI L'ARTICLE À MODIFIER """ Agis comme un réducteur d'emphase. Ta mission est d'analyser un texte, d'identifier les éléments exagérés et de le transformer en texte beaucoup plus nuancé, avec moins d'exagération dans les termes et dans l'importance donnée à l'info. Le texte ci-dessus à un score d'exagération de 90 sur 100. 0 correspondant à un article très nuancé et peu exagéré. Réécris ce post pour le ramener à un score de 10 d'exagération.
+21/09/2024, 11:15 - +33 6 72 27 57 91: Bonjour
+Je viens d'arriver dans la communauté et chaque jour, je suis ravie de découvrir de nouvelles fonctionnalités !
+A mon tour de demander vos avis éclairés. ..  Je souhaite flouter les visages dans de courtes vidéos à destination de formation. J'ai testé finalcut mais sans grand succes.. Auriez vous des conseils s'il vous plait ?
+Merci et bon week-end
+21/09/2024, 11:21 - Rochane: La réponse du chat bot de la communauté actibot.carrd.co
+Salut et bienvenue dans la communauté IAréna Éducative ! 🎉 C'est super que tu découvres de nouvelles fonctionnalités chaque jour !
+Pour flouter les visages dans tes vidéos de formation, voici quelques conseils :
+Outils recommandés :
+Deepswap : Cet outil est efficace pour détecter et remplacer les visages dans les vidéos. Il peut suivre les mouvements du visage original, bien que cela nécessite souvent un visage existant pour le remplacement.
+Swapface : Propose une interface intuitive et permet de créer des "deepfakes" de qualité, ce qui pourrait être utile dans ton cas.
+Considérations :
+Synchronisation labiale : Assure-toi que l'outil choisi gère bien la synchronisation des lèvres avec l'audio original, car cela peut être un défi.
+Éthique : N'oublie pas d'obtenir le consentement des parents si tu utilises des voix d'enfants.

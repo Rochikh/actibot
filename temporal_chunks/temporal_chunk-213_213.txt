@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 563
+Messages: 14
+
+=== CONTENU ===
+16/02/2024, 13:37 - Letizia ALLEGRINI: Bonjour depuis peu vous avez la possibilité d'utiliser trois outils ChatMD ou huggingchat ou opengpts je vous transmet les tutoriels réalisés par la DRANE Paca
+16/02/2024, 13:38 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197894/fr/opengpt-c-est-quoi
+16/02/2024, 13:38 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197878/fr/huggingchat-un-chatbot-opensource
+16/02/2024, 13:40 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11196334/fr/decouvrir-chatmd
+16/02/2024, 13:40 - ‎+33 6 65 40 15 28 a rejoint le groupe à partir de la communauté.
+16/02/2024, 13:40 - Letizia ALLEGRINI: N'hésitez pas à nous faire part de vos retours ou questions
+16/02/2024, 14:07 - Jacques BARATTI: Oui merci, il y a bien "un tuteur personnel" dans leur offre mais j'ai l'impression qu'on doit prendre le paquet total (payant pour le concepteur donc) pour en bénéficier
+16/02/2024, 14:08 - Guillaume Singeot: je ne me souviens plus des conditions d'utilisation.
+16/02/2024, 14:08 - Jacques BARATTI: Bravo à la DRANE PACA pour ce qu'elle propose aux enseignants !
+16/02/2024, 14:08 - Jacques BARATTI: je teste un peu mieux...
+16/02/2024, 14:14 - Jacques BARATTI: @guillaume parmi les 3 liens donnés par Laetitia il y a opengpt qui est un site opensource pour créer des assistants (comme HuggingChat) mais  on peut déposer des fichiers (ce que ne propose  pas HuggingChat. je vais tester
+16/02/2024, 14:16 - Guillaume Singeot: super! je veux bien un retour sur les compétences techniques à mobiliser pour s'en servir!
+16/02/2024, 14:30 - Letizia ALLEGRINI: Pas de compétences techniques particulières tout est écrit dans l'article même un non initié peut y parvenir 😀 on est sur le début des chatbots opensource alors il y a encore quelques instabilités mais c'est pas mal du tout. Sinon encore gratuit pour le moment Mizou est vraiment facile d'accès
+16/02/2024, 14:32 - +212 644-562660: Tout pareille pour moi :D En fait, je pense qu’il y’a un lien épinglé en haut de la messagerie du groupe où presque toutes les recommendations déjà mentionnées y sont méticuleusement classées . Le voici: https://airtable.com/appWoeEJR0yuDnEI6/shr6Q7amGkhbAf8hS

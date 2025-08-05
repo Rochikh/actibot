@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 755
+Messages: 32
+
+=== CONTENU ===
+## Transferts de données
+⚠️ **Absence d'informations sur les transferts hors UE**
+📝 Aucune mention des garanties pour les transferts internationaux
+💡 Impact : Risque de transferts non conformes au RGPD
+# 4. Points de vigilance spécifiques
+## Usage de l'IA
+⚠️ **Manque de transparence sur l'IA**
+📝 {{Interactions with our AI chatbot}} mentionné sans explications sur le fonctionnement
+💡 Impact : Non-conformité potentielle avec les obligations de transparence algorithmique
+## Données sensibles
+⚠️ **Traitement des données des mineurs**
+📝 Collecte de données d'élèves sans mention claire du rôle des parents/tuteurs
+💡 Impact : Risque de non-conformité avec les exigences spécifiques RGPD pour les mineurs
+# Conclusion
+🔴 Niveau de risque : ÉLEVÉ
+Principaux points critiques :
+1. Manque de transparence sur l'utilisation de l'IA
+2. Protection insuffisante des données des mineurs
+3. Absence de garanties pour les transferts internationaux
+4. Imprécision sur les durées de conservation
+Recommandations prioritaires :
+1. Préciser les bases légales des traitements
+2. Détailler les mesures de protection des mineurs
+3. Clarifier les transferts internationaux
+4. Définir des durées de conservation précises
+5. Ajouter des informations sur l'utilisation de l'IA
+27/11/2024, 19:01 - +34 683 61 41 61: Aïe 😨
+27/11/2024, 19:02 - ‎+32 496 10 22 51 est parti·e
+27/11/2024, 19:02 - +34 683 61 41 61: Merci @33649535198 ! Plus rapide que moi 😂
+27/11/2024, 19:04 - ‎+32 486 30 49 49 est parti·e
+27/11/2024, 19:09 - ‎+32 495 79 59 23 est parti·e
+27/11/2024, 19:50 - Francois Bocquet: Un traitement ne peut pas être « RGPD apparemment ». Il est où n’est pas conforme au RGPD. Pour ce faire une analyse juridique et de sécurité préalable intégrant une AIPD (analyse d’impact sur la protection des données) DOIT être réalisée par le responsable de traitement. Un contrat de sous traitance DOIT être passé entre l’éditeur et le responsable du traitement. Et ensuite et seulement ensuite le traitement DOIT être porté aux registres du responsable de traitement (registre des traitements ET registre des sous traitants). Dans le cas présent le responsable de traitement est soit le chef d’établissement soit le recteur de l’académie. A ma connaissance le Ministère n’a pas de contrat de sous traitance avec Mizou ni avec Microsoft ni avec Claude ni avec OpenAI ni avec Gemini. Donc pour que le traitement soit conforme il faut juste consulter le registre tenu par l’établissement et qui est réputé consultable par le public (loi I&L de juin 2018 et code de l’éducation) ou celui du recteur. Le DPD academique peut apporter une réponse écrite quant à l’inscription aux registres. Une réponse évasive et à l’oral n’est pas suffisante pas plus qu’un je crois que c’est bon ;-) en effet je rappelle que mettre en œuvre un traitement de DCP sans respecter les démarches préalables est bien un délit inscrit au code pénal. Des garanties juridiques doivent donc être apportées sur un déploiement en généralisation.

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 14
+
+=== CONTENU ===
+23/06/2024, 15:07 - Rochane: Perso, j'ai beaucoup utilisé h5p sur Moodle mais aussi ailleurs mais je ne connais pas du tout Toteach
+23/06/2024, 15:45 - +33 6 52 61 52 03: Merci ! :)
+23/06/2024, 18:50 - Rochane: Dicte est une application mobile pour prendre des notes et transcrire des réunions. En enregistrant l’audio, elle produit rapidement des transcriptions précises avec divers formats de compte-rendus, incluant des mindmaps et des analyses clés. La qualité de la transcription est exceptionnelle, atteignant presque 100% de précision grâce à une équipe d’IA collaborant pour améliorer le texte. Dicte met l’accent sur la confidentialité, avec des données traitées localement ou anonymisées. Disponible en version bêta, elle nécessite une inscription sur le site pour l'essayer. Quelques limitations incluent la difficulté à identifier les locuteurs et l'absence de personnalisation dans la version gratuite. https://app.dicte.ai
+23/06/2024, 19:03 - Francois Bocquet: Je vois pas trop comment l’utiliser sur iPhone !
+23/06/2024, 19:04 - Rochane: https://appleid.apple.com/auth/authorize?client_id=com.livdeo.dicte-web&redirect_uri=https%3A%2F%2Fapp.dicte.ai&response_type=code%20id_token&state=state_parameter_passed_to_apple&scope=name%20email&response_mode=web_message&frame_id=b2178a30-475c-4801-bc89-5206eb20ceff&m=11&v=1.5.5
+23/06/2024, 19:04 - +33 6 76 04 48 20: <Médias omis>
+23/06/2024, 19:04 - Francois Bocquet: Même chose pour moi !
+23/06/2024, 19:05 - Rochane: Perso, je l'ai utilisé sur Android, impressionné par la transcription
+23/06/2024, 19:06 - Francois Bocquet: Peut être pas encore d’appli pour iPhone
+23/06/2024, 19:07 - +33 6 76 04 48 20: Aïe… ce lien envoie sur une page blanche en l’utilisant sur iPhone.
+On n’est pas sortis de l’auberge… 😂😂😂
+23/06/2024, 19:08 - Rochane: <Médias omis>
+23/06/2024, 19:08 - +33 6 76 04 48 20: C’est plausible, mais ça devrait fonctionner sur pc…
+23/06/2024, 19:08 - +33 6 76 04 48 20: Oui, je suis passé par cette page sur le PC, mais ensuite plus rien…

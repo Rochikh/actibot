@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 25
+
+=== CONTENU ===
+29/05/2024, 20:17 - ‎+33 6 73 12 66 86 a rejoint le groupe à partir de la communauté.
+29/05/2024, 20:19 - Pierrick BRIAND: Bienvenue aux nouveaux membres dans la communauté !
+Je profite de cette occasion pour vous inviter à découvrir une veille sur l'IA en formation pour rester à la pointe de l'innovation pédagogique : https://readermode.io/@pierrickbriand
+29/05/2024, 20:28 - LIO: <Médias omis>
+29/05/2024, 20:30 - Rochane: C'est un outil gratuit ?
+29/05/2024, 20:31 - +33 6 81 36 11 13: Bonsoir, fin  juin je vais tester avec les 4emes l écriture de prompts sur la résolution d exercices de math, en utilisant plusieurs IA ( chatgpt, hugging chat, gémonies et copilot) . Je vous ferai un petit rapport.
+29/05/2024, 20:32 - +33 6 80 15 26 95: Bonsoir vous passez par où pour tester sora?
+29/05/2024, 20:32 - +32 484 68 10 13: Bonsoir tu as accès via open IA ?
+29/05/2024, 20:33 - LIO: Accès via open AI oui
+Mais version payante.
+29/05/2024, 20:34 - +33 6 80 15 26 95: Laquelle payant ou payante entreprise?
+29/05/2024, 20:35 - LIO: Version usage personnel à 20€
+Le prix de la curiosité 😅
+29/05/2024, 20:36 - +33 6 80 15 26 95: Ok dans la mienne version cela ne le propose pas uniquement dall-e et les chatgpt 3.5 4 et 4o
+29/05/2024, 20:36 - +33 6 80 15 26 95: Cela doit dépendre du pays
+29/05/2024, 20:40 - LIO: Je suis en France.
+J'ai tapé Sora dans la barre de recherche gpts et j'ai commencé a dialoguer
+Mais gros point d'attention avec cet outil, on a beaucoup de travail dans l'éducation.
+C'est tellement facile de créer n'importe quoi.
+C'est une formule 1 dans les mains de tous
+29/05/2024, 20:50 - +32 484 68 10 13: Ok moi j ai plein de Sora 😅 mais aucune ne veut me générer de vidéo 😅
+29/05/2024, 21:35 - +32 498 78 46 36: <Médias omis>
+29/05/2024, 21:36 - +32 484 68 10 13: Oui ce sont des GPT créés par d autres , je suis également allée voir sur le site officiel
+29/05/2024, 23:19 - Jacques BARATTI: <Médias omis>
+29/05/2024, 23:27 - +33 6 14 16 68 64: La rumeur dit qu'ils attendent les élections américaines avant de sortir sora et gpt5.

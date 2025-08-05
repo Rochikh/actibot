@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 11
+
+=== CONTENU ===
+We'd love to enable you. Please fill out the LM Studio @ Work request form and we will get back to you as soon as we can
+21/01/2025, 15:49 - Francois Bocquet: Source : https://lmstudio.ai/#can-i-use-lm-studio-at-work
+21/01/2025, 15:56 - +33 6 42 26 64 70: Merci François ! 🙏
+21/01/2025, 16:53 - ‎+216 55 285 083 a été remplacé par +216 53 837 289
+21/01/2025, 16:59 - +33 6 42 26 64 70: Bonjour, certains ont-ils déjà testé https://originality.ai/ pour identifier un élément fabriqué, même partiellement par l’IA ? et connaissez-vous (avez-vous déjà utilisé) d’autres outils payant ou gratuits qui font la même chose ?
+21/01/2025, 17:11 - Rochane: J'ai entendu à la radio des experts IA dire qu'aucun outil anti plagiat IA n'est vraiment pertinent car ils présentent tous des probabilités d'erreur. Du coup, ça me paraît vraiment inutile....
+21/01/2025, 17:11 - +33 6 42 26 64 70: MErci
+21/01/2025, 17:29 - +41 79 258 90 36: 4 meilleurs logiciels Anti-plagiat annoncés par BDM sous https://www.blogdumoderateur.com/tools/productivite/anti-plagiat/
+21/01/2025, 17:43 - Votre code de sécurité avec +226 76 61 15 02 a changé. Appuyez pour en savoir plus.
+21/01/2025, 18:23 - Clément Cahagne: Je suis d'accord et te rejoins Rochane. C'est incohérent d'essayer de détecter une production IA car c'est une techno probabiliste... Quid des faux positifs ?
+21/01/2025, 18:30 - Francois Bocquet: A mon avis aucune décision et encore plus aucune sanction ne doit être prise sur la base d’un retour d’IA. En revanche ça peut être un signal pour un dialogue formatif entre le formateur et le stagiaire ou l’élève pour lui proposer d’évaluer la nature de l’assistance dont il a pu bénéficier (y compris si c’est un humain qui l’a aidé) et pour lui poser à l’anorak les 3 ou 4 questions qui permettront de confirmer ou d’infirmer le pronostic de l’IA. Faire savoir que l’on utilisera des détecteurs de plagiat peut être utile surtout si l’on attrape sur le fait 2 ou 3 tricheurs. Ça se sait en général très très vite ;-)

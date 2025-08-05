@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 810
+Messages: 18
+
+=== CONTENU ===
+31/01/2025, 13:45 - Rochane: la taille maximale d'un fichier que tu peux joindre est de 20 Mo par fichier. Tu peux joindre plusieurs fichiers, mais la limite totale dépend des ressources disponibles dans la session et du type de traitement demandé.
+Si tu as plusieurs fichiers volumineux, il peut être plus efficace de les compresser en ZIP ou de les partager progressivement pour éviter des ralentissements.
+31/01/2025, 14:12 - Votre code de sécurité avec +221 77 508 48 04 a changé. Appuyez pour en savoir plus.
+31/01/2025, 14:12 - +44 7776 747507: 🙏🏼🙏🏼🙏🏼J'avais essayé sur Github mais trop volumineux. Finalement ça a marché avec ton lien😁 <Ce message a été modifié>
+31/01/2025, 14:16 - ‎+33 6 11 30 29 26 a demandé à rejoindre le groupe.
+31/01/2025, 14:36 - ‎+33 6 11 30 29 26 a rejoint ce groupe grâce à son lien d’invitation
+31/01/2025, 15:32 - Adrien Bock IA: Qqun connait un logiciel pour optimiser les images 3D pour une architecte d’intérieur ?
+31/01/2025, 15:33 - +33 6 72 75 43 48: Merci Rochane
+31/01/2025, 17:31 - +33 6 81 88 18 95: Encore merci @33649535198 pour le live d'hier ! Pour celles et ceux qui me l'ont demandé, voici le lien vers La Fresque de l'IA : https://lafresquedelia.com/
+A très bientôt !
+31/01/2025, 17:45 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+31/01/2025, 18:08 - Lucie: Bonjour à tous !
+J'espère que vous allez tous bien.
+J'avais une petite question pour ceux qui étaient au Learning Technologie ces derniers jours. Qu'en avez-vous pensé ? Avez-vous vu ou testé des solutions ou approches qui vont ont paru innovantes ?
+Au plaisir de vous lire
+31/01/2025, 18:40 - Rochane: Hello Lucie, @32496968742  nous a fait un retour au début du live d'hier soir. Le lien a été mis ce matin 😏
+31/01/2025, 18:47 - Jean-Marc Everard: null
+31/01/2025, 18:55 - Jean-Marc Everard: Oups, taper enter trop vite. Donc je disais Hello : personnellement, comme je le disais hier soir, je retesterais bien quelques plateformes de micro-learning après un premier test fait il y a 5 ans mais à un moment où c'était sans doute moyennement mature. Là je vais sans doute tester In Teach, Cards et Teach up. J'ai été intrigué aussi par V7 GO présenté par Side School mais je n'ai pas encore eu toutes mes asssurances côté privauté des données. impressionné par l'eaccessibilité et les évolutions de Apolearn aussi, LMS le plus e-accessible du moment selon moi. Et c'est sous-estimé mais il va vraiment falloir s'y mettre. Sinon Rochane, j'avais oublié de dire quelque chose hier : d'après un des sondages présentés, les directions d'organismes de formation et les formateurs ne sont plus vraiment en demande de solutions IA de création de contenu, mais bien de solution IA d'administration des formations (gestion des participants, changement d'heures,  réation et répartitions de sessions,; attribution de formations etc... ). Intéressant aussi. Et puis, je l'ai dit, excellent keynote de Lucie Dhorne qui (si vous me suivez un peu aussi) allait dans le sens de ce à quoi je crois : ne pas voir dans l'IA un outil pour juste des gains de productivité mais des gains d'humanité en repensant nos fonctionnements et en utilisant cette "Intelligence Autre" pour nous faire grandir.

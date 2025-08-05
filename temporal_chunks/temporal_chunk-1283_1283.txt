@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 11
+
+=== CONTENU ===
+19/11/2024, 21:37 - Daniel Pappalardo: Sinon y a le site de Bertrand Formet (déjà évoqué dans la communauté) qui en teste une par jour et plus spécifiquement pour l'éducation. https://www.uneiaparjour.fr/
+20/11/2024, 08:14 - ‎+33 6 15 34 55 52 a demandé à rejoindre le groupe.
+20/11/2024, 08:52 - ‎+33 6 15 34 55 52 a rejoint ce groupe grâce à son lien d’invitation
+20/11/2024, 09:51 - Jean-Marc Everard: Est-ce que tu utilises Taskade? C’est une app. Qui reste dans mes outils depuis plus d’un an mais finalement je ne l’utilise quasi pas tout en en présentant l’intérêt. As-tu un retour sur un usage?
+20/11/2024, 10:17 - Ahmadou Ba: Oui il est bon pour tout ce qui est créer une liste de tâches, les attribuer à des collaborateurs, il a une IA intégrée pour générer du texte avec 1000 crédits positionnés chaque mois dans la formule free. Jusque la je bosse souvent en solo, du coup je l'utilise que dans le cadre de projet ponctuel pour ne pas perdre le fil. Il se lance à chaque demarrage de l'ordinateur avec une fenêtre persistant donc impossible de l'oublier.
+20/11/2024, 10:47 - Jean-Marc Everard: Merci beaucoup !🙏
+20/11/2024, 10:51 - +33 6 52 73 73 42: Question tte simple : est-ce que ttes les IA generatives ...  sont désormais connectée à Internet !? Ds le cas contraire, existe t'il un site récapitulant les différentes IA avec leurs "dates d'arrêt" de leur base de connaissances !? (pas sûr d'avoir été très clair ds ma demande !)
+20/11/2024, 10:53 - +33 6 02 20 69 43: C’est clair mais mis à part les IA génératrices de contenus tel Claude Gemini ou chat, pas besoi. D’être connecté à internet non même d’avoir des mises à jour en 2024 ( ex un design Napkin n’a pas besoin d’être basé sur des connaissances de 2024)
+20/11/2024, 10:58 - +33 6 52 73 73 42: Merci ! Désormais ttes les IA (ChatGPT, Perplexity, Gemini ...) sont connectées à internet !?
+20/11/2024, 11:47 - +41 76 372 28 94: Non, pas toutes (pas Claude par exemple), mais ces trois là oui.
+20/11/2024, 11:50 - +33 6 81 61 17 96: Ce message a été supprimé.

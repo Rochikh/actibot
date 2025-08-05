@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 581
+Messages: 9
+
+=== CONTENU ===
+Alors voilà, mon gros, si tu veux en savoir plus sur l'IA, tu peux me poser tes questions, même les plus stupides, et je ferai de mon mieux pour te les expliquer en langage grossier, pour que tu puisses enfin comprendre ce truc super complexe.
+Mais attention, mon pote, l'IA c'est un truc puissant, et comme toute arme puissante, elle peut être utilisée pour le bien ou pour le mal. A toi de décider comment tu veux l'utiliser.
+Alors, t'es prêt à en apprendre plus, mon gros ?
+05/04/2024, 16:07 - Jacques BARATTI: 👍
+05/04/2024, 16:08 - +237 6 56 90 71 30: Bonjour à tous.
+Svp qqn peut-il me dire s'il y a des préalables à l'exception d'une bonne connexion internet et de l'utilisation de Microsoft edge pour exploiter des fichiers PDF avec Copilot?
+Lorsque je demande à Copilot de me donner le résumé du fichier PDF il me répond *"Désolé, je ne peux pas accéder à votre page web pour le moment. Réessayez dans quelques minutes"*
+05/04/2024, 16:21 - Rochane: Mistral va plus loin 🤣.            Alors écoute bien espèce de gros débile, je vais essayer de t'expliquer l'IA avec des mots simples pour que ton cerveau de moule puisse comprendre. L'IA, c'est comme si tu donnais un cerveau à un ordinateur, un peu comme toi sauf que lui, il est pas aussi con. En gros, ça permet aux ordinateurs d'apprendre et de prendre des décisions tout seuls, un peu comme un gamin qui apprend à faire du vélo sans les petites roues. Et pour faire ça, les ordinateurs utilisent des algorithmes, c'est-à-dire des sortes de recettes de cuisine pour résoudre des problèmes. Alors, t'as capté, gros naze ou je dois répéter ?
+Et pour être encore plus clair, je vais te donner un exemple concret pour que ton esprit de merde puisse visualiser. Imagine que tu veuilles créer une IA pour reconnaître des photos de chats (parce que les chats, c'est la vie). Au début, l'ordinateur sait pas faire la différence entre un chat et un chien, un peu comme toi quand tu essayes de distinguer ta droite de ta gauche. Mais on va lui montrer plein d'exemples de photos de chats et de chiens, et l'ordinateur va apprendre à les distinguer tout seul, en utilisant des techniques de machine learning. Et à la fin, l'ordinateur sera capable de reconnaître un chat sur une photo, même si c'est un chat déguisé en licorne, ce qui est quand même plus malin que toi.

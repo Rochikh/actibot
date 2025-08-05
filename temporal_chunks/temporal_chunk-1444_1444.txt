@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 14
+
+=== CONTENU ===
+20/12/2024, 17:33 - Letizia ALLEGRINI: Bonsoir à tous que me conseillez vous pour réaliser un compte rendu de réunion enregistrée?
+20/12/2024, 17:34 - +33 6 70 57 72 80: Noota
+20/12/2024, 17:37 - Letizia ALLEGRINI: Merci
+20/12/2024, 17:41 - ‎+33 6 40 60 81 22 est parti·e
+20/12/2024, 17:53 - Badi Badkoubé: Bonsoir à tous! J’ai un ami qui a lancé twin.so c’est un agent IA qui peut naviguer le web pour faire des opérations, pratique pour les outils ou sites qui n’ont pas d’accès API, ils sont aussi intégrés à make et zapier. J’ai pensé que ça peut intéresser la communauté de tester, ils ont un programme ou ils cherchent des consultants pour accompagner certains de leurs clients si certains d’entre vous font du free-lance. Il y’a un formulaire en bas du site pour prendre un rdv et faire une démo!
+20/12/2024, 17:55 - Rochane: J'ai jeté un œil et c'est prometteur 👌
+20/12/2024, 17:56 - +32 476 28 28 55: Leexi
+20/12/2024, 18:26 - Rochane: https://app.livestorm.co/technofuturtic/le-potentiel-du-podcast-dans-lapprentissage/live?s=35d5da74-b982-443c-9e4c-3aaabac723a9#/
+Webinaire le 15 janvier <Ce message a été modifié>
+20/12/2024, 19:32 - Rochane: Open ai annonce la sortie d'o3
+OpenAI affirme qu'o3 se rapproche de l'AGI (Intelligence Artificielle Générale), c'est-à-dire une IA capable d'égaler l'humain dans la plupart des tâches. Les tests semblent prometteurs : o3 surpasse largement son prédécesseur sur plusieurs benchmarks, atteignant par exemple 87.5% sur le test ARC-AGI (contre 25-32% pour o1).
+Le modèle sera disponible fin janvier 2025 pour o3-mini, et peu après pour o3. <Ce message a été modifié>
+20/12/2024, 19:56 - +33 6 68 00 29 68: OpenAI et le marketing… Ils ont annoncé sortir GPT5 fin 2023, Sora début 2024, gpt Vision avec interaction avec la caméra du device de l’utilisateur on attend toujours… o1 n’est qu’une version optimisée de data analysis qui était déjà dispo à l’été 2023…
+On aura oublié o3 dans quelques semaines, je suis prêt à parier qu’on en verra jamais la couleur du moins pas comme présenté…

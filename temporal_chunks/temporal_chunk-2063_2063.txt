@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 16
+
+=== CONTENU ===
+08/04/2025, 16:47 - +41 76 372 28 94: Recyclez un vieux test et donnez le leur à faire en travail à la maison. Corrigez-le à la main comme avant. Ceux qui n’auront pas la note maximale seront ceux qui n’ont pas encore bien appris à utiliser l’IA 😀 <Ce message a été modifié>
+08/04/2025, 16:56 - Rochane: On peut imaginer que pour évaluer les compétences en IA générative, on utilise des rubriques structurées qui mesurent la qualité des prompts, la compréhension technique et l'application critique des résultats obtenus....
+08/04/2025, 17:39 - +33 6 22 65 42 40: Hahaha pour les tests classiques ça peut alimenter une réflexion en effet ! Mais ici il serait question de noter non pas le résultat, mais la façon d'y arriver
+08/04/2025, 17:41 - +33 6 22 65 42 40: Oui précisément !
+La question ici est de savoir comment évaluer ces différents éléments
+08/04/2025, 17:43 - +33 6 22 65 42 40: On peut utiliser un LLM pour noter la qualité d'une conversation avec un autre LLM, mais c'est un peu le serpent qui se mord la queue je trouve 😅
+08/04/2025, 18:05 - +41 76 372 28 94: Moi je passe par un journal de bord : https://docs.google.com/document/d/1vc6Fd30hkdHTK81n96Z-8oLS-SuiXLEKMAc5Zs-Qtx8/edit?usp=sharing
+08/04/2025, 18:12 - +1 (581) 688-4841: <Médias omis>
+08/04/2025, 18:31 - +33 6 11 64 53 32: Tu ne l’as que dans la colonne « Discussion » après avoir mis tes sources. Ensuite tu l’as plus. Ou alors qqchose m’a échappé 😉
+08/04/2025, 18:32 - +33 6 11 64 53 32: <Médias omis>
+08/04/2025, 18:34 - +1 (581) 688-4841: STP, quelle version utilise-tu ?
+08/04/2025, 18:36 - +1 (581) 688-4841: Je l'ai retrouvé. Merci beaucoup
+08/04/2025, 19:38 - Thierry VANOFFE: Hello la communauté, 50 mn pour être au top sur NotebookLM de chez Google (une dinguerie cette application) : https://www.youtube.com/watch?v=CubPH4XIxuU&t=2s
+08/04/2025, 20:30 - ‎~ Karen est parti·e
+08/04/2025, 22:52 - +33 6 22 65 42 40: C'est génial comme idée ! Merci pour le partage
+09/04/2025, 00:41 - +32 475 86 01 57: D autant plus que les llm sont souvent trop gentils... Sinon, avec magic school, quand tu créés un classe, tu as accès aux conversations que t'es étudiants ont avec le llm... Mais c est de l artisanat (c est bien aussi l artisanat)

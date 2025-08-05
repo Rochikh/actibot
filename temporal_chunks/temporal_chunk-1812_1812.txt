@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 22
+
+=== CONTENU ===
+20/02/2025, 16:36 - ‎~ Hélène a ajouté +33 6 82 25 05 83
+20/02/2025, 16:38 - Jean-Marc Everard: J’ai eu le privilège d’avoir une présentation en avant première mais je ne peux pas deflorer le rapport du 6 mars. Mais bon…
+20/02/2025, 17:16 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+20/02/2025, 17:46 - +33 6 62 05 94 71: <Médias omis>
+20/02/2025, 18:05 - Denis: actibot
+20/02/2025, 18:17 - Francois Bocquet: Rose des vents de l’IA générative https://bsky.app/profile/pedago-uqam.bsky.social/post/3limkre7cu22f
+20/02/2025, 18:18 - Francois Bocquet: Le site web https://www.uqac.ca/ressourcespedago/rose-des-vents-de-ia-generative/
+20/02/2025, 18:34 - Rochane: trop forts ces canadiens !
+20/02/2025, 18:59 - Adrien Bock IA: <Médias omis>
+20/02/2025, 21:32 - +55 11 94241-1993: Vous avez des équivalents de Bolt pour faire des applications no code ?
+J’aime bien Bolt mais ya t’il mieux ? Payant ou pas . Merci <Ce message a été modifié>
+20/02/2025, 21:33 - +32 479 82 01 20: Lovable et Replit donnent des résultats assez bons.
+20/02/2025, 21:46 - Rochane: Replit moins cher et propose des bases de données chez lui. Ça évite d'aller voir ailleurs
+20/02/2025, 21:58 - +33 6 79 72 76 62: Windsurf et co.dev
+20/02/2025, 22:09 - +212 644-562660: V0.dev simple et pratique mais y'a une limite même en payant, or je l'ai jamais atteint et je l'utilise carrement tout le temps
+20/02/2025, 22:22 - +55 11 94241-1993: Ce message a été supprimé.
+20/02/2025, 22:22 - +55 11 94241-1993: Ce message a été supprimé.
+20/02/2025, 22:22 - +55 11 94241-1993: Ce message a été supprimé.
+20/02/2025, 23:47 - StéphaneIA: Google vient de faire une grosse annonce.
+On peut maintenant avec Gemini en version gratuite ajouter des fichiers de son pc ou du drive.
+Ce qui fait que maintenant vous avez le seul model à 1 million de tokens, avec l'ajout de fichiers et les modèles qui rank 6 et aussi les model thinking experimental so rank 2 desire Chatbot arena.
+Avec un Gmail simplement.

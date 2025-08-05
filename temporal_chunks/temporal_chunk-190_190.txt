@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 9
+
+=== CONTENU ===
+Cette législation positionne l'Europe comme un leader dans la régulation éthique de l'IA, en créant un cadre qui pourrait servir de modèle pour d'autres régions du monde. L'AI Act s'inscrit dans la continuité du rôle précurseur de l'UE en matière de régulation numérique, à l'instar du Règlement général sur la protection des données (RGPD), et souligne l'importance d'une approche responsable et inclusive du progrès technologique.
+03/02/2024, 18:08 - Jean-Marc Everard: Merci beaucoup pour le partage Rochane. J’espère tout de même que l’UE (contrairement à ce qui a été fait pour le RGPD) l’accompagnera d’un vrai soutien à l’innovation en passant notamment par une simplification administrative…🤞).
+03/02/2024, 18:44 - Thierry VANOFFE: Salut la communauté, un outil sympa pour générer différentes de vous : https://app.artflow.ai/image-studio Hyper réaliste !
+03/02/2024, 18:57 - +33 7 86 01 11 31: Merci
+03/02/2024, 19:45 - ‎+33 7 68 31 25 20 a rejoint le groupe à partir de la communauté.
+05/02/2024, 20:33 - ‎+33 6 09 20 84 84 a rejoint le groupe à partir de la communauté.
+06/02/2024, 13:36 - ‎+33 6 47 97 30 87 est parti·e
+07/02/2024, 14:23 - Jacques BARATTI: Le site HuggingFace (https://huggingface.co) vient juste d'ouvrir HiggingChat une interface qui permet de créer des "Assistants" (des GPTs chez OpenAI) qui sont d'accès libre et gratuit (alors que OpenAI il faut être abonné et pour les GPT du store il est prévu un coût d'utilisation. C'est donc une avancée importante pour rendre ces assistants accessibles à tous (enseignants et étudiants). Le modèle de langage utilisé est celui de la société française Mistral (on a le choix entre plusieurs modèles). L'interface de création et d'utilisation est très semblable à celle d'OpenAI et facile d'accès.
+J'ai crée un clone de mon GPT QCM et Bloom qui permet de créer des questions à choix multiples à divers niveaux de la taxonomie de Bloom et il fonctionne très bien (toutes disciplines). On peut exporter les questions au format gift pour une importation dans Moodle/Ametice (très facile). L'inconvénient majeur est qu'on ne peut pas fournir de document (seulement du texte)

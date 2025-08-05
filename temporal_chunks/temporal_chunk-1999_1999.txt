@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 13
+
+=== CONTENU ===
+25/03/2025, 16:46 - Rochane: Ça me permet de rappeler que le programme est top. Inscrivez-vous au live de jeudi
+Message épinglé 👆
+25/03/2025, 16:53 - Rochane: Découvre les pictogrammes (comme les Creative Commons )pour l'IA générative à l'UQAC ! Utilise-les pour indiquer le niveau d'IA dans tes contenus.
+https://www.uqac.ca/ressourcespedago/iag/
+25/03/2025, 17:11 - +33 7 80 42 87 32: Effectivement très intéressant ! Il y a également Sherbrooke qui propose des balises indiquant le niveau d'autorisation de l'utilisation de l'IA que l'enseignant peut  utiliser dans ses consignes
+25/03/2025, 17:23 - Rochane: Ils seront avec nous jeudi pour le live
+25/03/2025, 17:42 - Jean-Marc Everard: Grégoire, si ce n'est pas indiscret, quel est l'outil que tu utilises pour faire travailler ensemble ces agents ? Sinon, j'attendrai jeudi hein 😉.
+25/03/2025, 18:37 - +33 6 19 89 32 62: Est ce que certains ont rencontré des limitations avec chatGPT plus car aujourd hui il m’a dit que j’avais atteint un niveau et que je devais attendre 20 mns pour revenir à la normale ? 🤔🤔🤔j’étais en plein travail de dépôt de marque !
+25/03/2025, 18:45 - +33 6 76 04 48 20: Sûrement parce que tu l’as "trop" sollicité.
+Il doit récupérer un peu le pauvre petit 😉
+25/03/2025, 18:57 - +41 79 258 90 36: Je viens de tester l'IA Hunyuan-T1 (https://huggingface.co/spaces/tencent/Hunyuan-T1) sur des expériences scientifiques effectuées par les Pr Luc Montagnier, prix Nobel, et Marc Henry, notamment sur la mémoire de l'eau et l'homéopathie. L'IA Hunyan-T1 (deep research) est le premier IA qui mentionne les critiques des conservateurs scientifiques téléguidés par les pharmas, mais surtout me donne des voies de recherche et des sources pour aller plus loin.
+25/03/2025, 19:02 - Gregoire IA: Je suis resté sur l'App creator de Poe. Une fois qu'on comprend comment lui parler il permet pas mal de choses quand on a pas de serveurs et l'infrastructure pour développer des app. IA
+25/03/2025, 19:28 - Iulia Grosman AIM: Merci je me posais la meme question!

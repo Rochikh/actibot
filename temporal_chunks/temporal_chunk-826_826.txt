@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 13
+
+=== CONTENU ===
+Un article qui propose une plateforme d’apprentissage IA. Imaginé par le professeur Teemu Roos de l'Université d'Helsinki, en étroite collaboration avec le cabinet d'innovation Reaktor, ce programme éducatif en ligne a vu le jour en mai 2018. Structuré en six chapitres distincts, il offre une immersion de trente heures dans l'univers de l'intelligence artificielle. Cette formation s'adresse à tous les publics, qu'ils soient néophytes ou professionnels en quête de reconversion, sans exiger le moindre bagage en informatique ou en programmation.
+19/08/2024, 14:27 - Hoang: Formation gratuite *
+19/08/2024, 14:28 - Hoang: Et voici le site de la plate-forme d’apprentissage : https://www.elementsofai.fr/
+19/08/2024, 16:12 - Jean-Marc Everard: Hello Lulia, génial. Ça a l’air d’être exactement ce que je cherchais. J’étais finalement quand même passé par YouTube privé etc en test mais cette solution -ci m’a l’air beaucoup plus adaptée. Grand merci !🙏
+19/08/2024, 21:23 - Hoang: https://youtu.be/2gN11pS1E1E?si=9pILESLsphCHP2TH une vidéo qui montre pas mal d’exemple de possibilités avec Claude sonnet pour la création de web app.
+20/08/2024, 11:11 - ‎~ Sidi CHEINE a été ajouté·e
+20/08/2024, 11:10 - ‎+33 7 66 54 11 11 a rejoint le groupe grâce à votre invitation
+20/08/2024, 11:54 - Votre code de sécurité avec +33 6 82 23 97 12 a changé. Appuyez pour en savoir plus.
+20/08/2024, 16:15 - +32 479 58 54 12: Demandez un essai gratuit pour http://www.napkin.ai . Permet de créer de superbes visuels ( graphiques...) à partir de vos documents.
+20/08/2024, 16:28 - Clément Cahagne: Bonjour tout le monde. Il y a des personnes ici qui ont testé des solutions type anakin.ai pour accéder à divers modèles texte et image en même temps ? <Ce message a été modifié>
+20/08/2024, 16:40 - Rochane: waw, ça a l'air complet. Curieux d'avoir aussi un partage d'usage 🙂
+20/08/2024, 16:48 - Rochane: j'adore la simplicité de l'interface et je vois que c'est encore gratuit avec cette version béta. Merci
+20/08/2024, 16:50 - Clément Cahagne: Ca a l’air cool pour avoir accès à tout, mais je pense que tu as quand même besoin d’un abonnement GPT Plus ou Claude si tu fais beaucoup d’IAG

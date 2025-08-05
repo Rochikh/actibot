@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 550
+Messages: 15
+
+=== CONTENU ===
+11/04/2024, 00:31 - +32 487 80 81 16: Si vous avez besoin de quelque chose de plus, n’hésitez pas à le demander. ;)
+11/04/2024, 07:17 - Guillaume Singeot: lien vers le replay de la visio d'hier soir :https://tubedu.org/w/324cdsFf6ELr2VMJFUf1Gi
+11/04/2024, 07:22 - +32 484 68 10 13: Bonjour, petite question du matin 😊. Est-ce quelqu'un/une ici aurait déjà testé une IA generative non-occidentale? Je travaille sur les biais de genre et diversité avec L IA et je voulais voir s'il était possible de tester d autres IA que celles proposées par l europe ou les USA
+11/04/2024, 07:31 - Rochane: Je trouve ta question très intéressante et comme je n'avais pas la réponse, j'ai questionné Perplexity et je trouve que sa réponse donne des éclairages :                C'est une excellente question que vous soulevez sur les biais de genre et de diversité dans l'IA générative. Malheureusement, il existe encore peu d'alternatives non-occidentales grand public aux IA génératives comme GPT, DALL-E, etc développées principalement aux États-Unis et en Europe.
+Quelques pistes néanmoins qui pourraient être intéressantes à explorer dans le cadre de vos recherches :
+La Chine développe activement ses propres modèles d'IA générative, comme Wu Dao 2.0 d'Inspur ou Ernie 3.0 de Baidu
+1
+. Cependant, ils ne sont pas encore accessibles au grand public. Il serait pertinent d'analyser leurs résultats sous l'angle des biais une fois qu'ils seront disponibles.
+Des initiatives open source comme Bloom
+2
+, un grand modèle de langage multilingue entraîné sur 46 langues et 13 scripts, visent à proposer une alternative plus diversifiée et transparente. Tester ce type de modèle pourrait apporter un éclairage intéressant.
+Même si elles restent occidentales, des IA comme celles d'Anthropic constitueraient aussi des points de comparaison pertinents, car elles mettent l'accent sur l'éthique et la réduction des biais dans leur conception
+3
+.
+Au-delà des IA elles-mêmes, il me semble essentiel d'étudier la diversité au sein des équipes qui conçoivent ces systèmes. Des études montrent que des équipes plus diverses (en termes de genre mais aussi d'origine) tendent à produire des IA comportant moins de biais

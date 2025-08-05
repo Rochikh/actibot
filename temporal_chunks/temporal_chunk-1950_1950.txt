@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 599
+Messages: 8
+
+=== CONTENU ===
+12/03/2025, 10:10 - Daniel Pappalardo: Au sein de l'Education Nationale en France
+12/03/2025, 10:11 - +33 7 69 51 13 31: <Médias omis>
+12/03/2025, 10:38 - Francois Bocquet: Pour les suites une note a été transmise aux recteurs fin février. Pourtant, Il n’y a pas à date de suites d’outils « souverains » équivalents ni même comparables aux suites Office 365 éducation ou Workspace Education qui proposent en plus des outils bureautiques, de l’IA générative CoPilot et Gemini utilisables de façon légale vis à vis du RGPD. Et si le principe de non dépendance et de souveraineté devait s’appliquer alors les systèmes d’exploitation comme android iOS MacOS ChromeOS ou Windows seraient également inutilisables puisqu’ils propagent  quantité de données parfois critiques hors UE lors d’usages scolaires. Insistons sur le fait que seul Mistral serait utilisable en appliquant ce même principe de souveraineté ou encore des instances locales sur les PC ou des serveurs locaux de LLM open source (Llama ou Deepseek en plus de Mistral). Ça l’imiterait pas mal les pratiques non ?
+12/03/2025, 10:38 - ‎+33 6 86 26 57 40 est parti·e
+12/03/2025, 10:47 - +33 6 19 89 32 62: C’est pour cela qu’il faudrait peut être apprendre à maximiser l’utilisation de Mistral en parallèle des maintenant.
+12/03/2025, 11:23 - Daniel Pappalardo: Oui je faisais référence à cette note. Et je partage les mêmes doutes que toi ! D'ailleurs des collectivités ont fait le choix de laisser office pour open office tandis que d'autres ont fourni les licences... Disponible sur certains ENT... Pas simple tout ça...
+12/03/2025, 11:27 - +33 6 71 11 12 91: Pour les suites, il y a quand même des outils, certes un peu moins fignolés mais très utilisables quand même, avec la suite de Framasoft (https://degooglisons-internet.org/fr/)
+12/03/2025, 11:30 - Francois Bocquet: En fait c’est assez simple : l’offre de services bureautique ou IA n’est pas au niveau sur le plan fonctionnel. Les décideurs souhaitent offrir des services de qualité. Ceux qui développent des services au Ministère n’ont pas d’autres solutions pour les faire utiliser que d’interdire l’utilisation des services concurrents en prétextant de l’application du RGPD et d’une doctrine « souveraine ». Mais ils ne peuvent appliquer cette même doctrine sur les autres services puisque que le mini ne produit pour le mien ni Système d’exploitation ni services d’IA ;-)

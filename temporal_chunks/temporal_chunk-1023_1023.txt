@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 583
+Messages: 22
+
+=== CONTENU ===
+01/10/2024, 19:12 - Votre code de sécurité avec +33 6 77 19 36 25 a changé. Appuyez pour en savoir plus.
+02/10/2024, 07:53 - ‎martinyemani IA a demandé à rejoindre le groupe.
+02/10/2024, 08:39 - ‎martinyemani IA a rejoint ce groupe grâce à son lien d’invitation
+02/10/2024, 11:53 - ‎+32 479 37 73 78 a demandé à rejoindre le groupe.
+02/10/2024, 15:13 - +33 6 49 84 08 41: Hello tout le monde, comme vous êtes bien silencieux et que ça ne vous ressemble pas, une petite question pour vous tirer de votre torpeur :
+*J'ai besoin d'exploiter les résultats d'un formulaire réalisé avec Microsoft Forms, au-delà de la synthèse que l'outil propose déjà... Quelle IA me conseilleriez-vous ? Est-il préférable de partager les résultats de ce questionnaire au format feuille de calcul ou au format pdf ?*
+Merci ✌🏼
+02/10/2024, 15:19 - Ahmadou Ba: Io preview est top pour l'analyse des données. Mais il ne prend pas de fichier, il faut copier les données dans lé prompt.
+Inutile décrire, une longue requete, il sait ce qu'il faut faire. Il fait d bonnes analyses et sais prendre des initiatives
+02/10/2024, 15:35 - +33 6 49 84 08 41: Ok merci ! Je peux coller un tableau dans le prompt du coup ?
+02/10/2024, 15:38 - +33 6 64 48 37 32: service SAAS de powerBi
+Donne des insights en quelques secondes.
+02/10/2024, 15:38 - +33 6 49 84 08 41: Je vais aller voir
+02/10/2024, 16:11 - +33 6 49 84 08 41: Je trouve pas le site : aurais-tu l'URL stp ?
+02/10/2024, 16:22 - Rochane: Dans chat Gpt plus, tu choisis O1 preview et il est préférable de copier coller le CSV plutôt que le pdf
+02/10/2024, 16:22 - ‎+32 479 37 73 78 a rejoint ce groupe grâce à son lien d’invitation
+02/10/2024, 16:23 - +33 6 49 84 08 41: Ahhh ok merci...
+02/10/2024, 18:43 - +33 7 86 61 52 66: Ça sent l’analyse des évaluations nationales 🤣🤣
+02/10/2024, 18:44 - +33 7 86 61 52 66: J’ai essayé… pas très très précis
+02/10/2024, 18:44 - +33 7 86 61 52 66: 😅😇🤫
+02/10/2024, 19:21 - ‎+33 6 06 75 16 58 est parti·e
+02/10/2024, 20:15 - Francois Bocquet: Attention à la transmission de données à caractère personnel à Open AI ou a d’autres services surtout pour les évaluations nationales ! Même pour faire des essais. La ligne rouge est clairement dépassée et vous vous exposez à des sanctions qui pourraient être graves. Toujours ces problèmes de conformité RGPD !

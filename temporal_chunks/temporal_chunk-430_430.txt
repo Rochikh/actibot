@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 9
+
+=== CONTENU ===
+L'écriture manuscrite active plusieurs zones dans le cerveau, notamment les régions visuelles, les régions qui reçoivent et traitent les informations sensorielles et le cortex moteur [[1]](https://www.lepoint.fr/eureka/arretez-la-prise-de-notes-sur-ordinateur-16-04-2024-2557829_4706.php). En écrivant à la main, il est nécessaire de trier et hiérarchiser les informations, ce qui oblige le cerveau à être plus actif dans son écoute [[1]](https://www.lepoint.fr/eureka/arretez-la-prise-de-notes-sur-ordinateur-16-04-2024-2557829_4706.php).
+Prendre des notes à la main permet également de matérialiser les concepts, ce qui renforce la perception du concept et aide à le graver dans la mémoire [[1]](https://www.lepoint.fr/eureka/arretez-la-prise-de-notes-sur-ordinateur-16-04-2024-2557829_4706.php). En tapant sur un clavier, le même simple mouvement de vos doigts est impliqué dans la production de chaque lettre, ce qui ne permet pas de ressentir la sensation corporelle différente de chaque lettre [[1]](https://www.lepoint.fr/eureka/arretez-la-prise-de-notes-sur-ordinateur-16-04-2024-2557829_4706.php).
+En conclusion, il est recommandé d'abandonner la prise de notes sur ordinateur et de privilégier la prise de notes à la main pour une meilleure rétention d'informations et une meilleure compréhension des concepts [[1]](https://www.lepoint.fr/eureka/arretez-la-prise-de-notes-sur-ordinateur-16-04-2024-2557829_4706.php).
+---
+Learn more:
+1. [Arrêtez la prise de notes sur ordinateur](https://www.lepoint.fr/eureka/arretez-la-prise-de-notes-sur-ordinateur-16-04-2024-2557829_4706.php)
+2. [Prendre et lire des notes - Support Microsoft](https://support.microsoft.com/fr-fr/office/prendre-et-lire-des-notes-2f96267d-6a23-460f-b57b-b86a7b38202a)
+3. [Le Point on LinkedIn: Arrêtez la prise de notes sur ordinateur](https://www.linkedin.com/posts/le-point_arr%C3%AAtez-la-prise-de-notes-sur-ordinateur-activity-7185995028450680833-daCB)
+16/04/2024, 17:59 - +33 6 22 42 57 92: Perso, je suis en train d'y revenir. Et avec l'IA j'optimise le process : note manuscrite, retranscription audio to text sous Word puis organisation des notes avec l'IA.

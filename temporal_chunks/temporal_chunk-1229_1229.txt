@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 663
+Messages: 14
+
+=== CONTENU ===
+13/11/2024, 10:21 - Rochane: Est-ce que la version gratuite peut être utilisée de façon illimitée ?
+13/11/2024, 10:42 - Francois Bocquet: Regarde https://vocacoach.fr/
+13/11/2024, 10:42 - Francois Bocquet: Ça peut être une bonne base
+13/11/2024, 10:46 - Fred IA: Pour info, avec la version gratuite de ChatGPT, on beneficie d'environ 30mn de voix avancée par mois. Ensuite, on repasse automatiquement sur la voix "classique" <Ce message a été modifié>
+13/11/2024, 10:50 - +33 6 80 25 63 41: Comment tu fais pour y accéder , stp? Sur la version gratuite, je ne vois pas l’option voix 🧐
+13/11/2024, 10:54 - Adrien Bock IA: Qqun saurait comment scorer/qualifier des formulaires de contacts remplis sur un site ( fait sur Equasys ) avec IA ?
+13/11/2024, 10:55 - +33 6 99 15 13 77: Via une automatisation?
+13/11/2024, 10:58 - Letizia ALLEGRINI: Pour Mizou voici le genially que j'ai cree pour une formation https://view.genially.com/66543716ba108b0014dabc77/interactive-content-mizou
+13/11/2024, 10:59 - +237 99148639: Bonjour possible d'avoir des idées d'outils IA gratuites  decteur D'IA et antiplagiat. Merci d'avance
+13/11/2024, 11:09 - Rochane: <Médias omis>
+13/11/2024, 11:16 - Fred IA: En version gratuite, c'est uniquement possible sur smartphone avec l'appli mobile de Chat GPT (ios ou Android) : l'activation de la voix avancée est automatiquement proposée à la première connexion. Et en version payante, c'est dispo sur smart, sur l'appli chat gpt (installable sur pc) et via le playground pour les développeurs
+13/11/2024, 11:18 - +33 6 19 75 63 49: @33649535198 pourras-tu nous en dire plus sur ce colloque? Je l’ai raté, je suis déçue!
+Également prof de langues et ingénieure pédagogique à la fac, je serais très intéressée pour discuter avec vous @33659352338 @33680256341 @33620971883
+Nous avons intégré l’IA dans nos cours à la rentrée 2023, cela fait donc 2 ans que nous utilisons chatGPT/Copilot, heygen, elevenlabs, et a l’époque le plugin voice for chatGPT qui a été remplacé par ChatGPT voice. Il s’agit de cours asynchrones 100% en ligne. J’ai peut être qq infos à vous donner. En revanche il me semble que l’IA générative n’est pas faite pour corriger la prononciation et ne connaît pas l’API, et qu’il faudrait effectivement passer par des étudiants en informatique pour mélanger reconnaissance/generation vocale, spectrogramme et feedback génératif, mais je n’ai testé Mizou (très bien mais payant pour récupérer les résultats des étudiants) que pour l’écrit et je peux me tromper. Je me tournerais à ta place vers Flowchase pour en savoir plus, d’autant que @32483605396 est dans ce groupe. <Ce message a été modifié>

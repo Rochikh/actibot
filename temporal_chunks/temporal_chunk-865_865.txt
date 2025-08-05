@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 583
+Messages: 20
+
+=== CONTENU ===
+04/09/2024, 18:25 - Gregoire IA: Poe offre accès à tous les LLMs y compris les.olus récents pour la génération d'image. On peut aussi coder.
+La seule limite c'est la génération de vidéos et de musique.
+04/09/2024, 18:25 - Rochane: Témoignage cher 🙂
+04/09/2024, 20:12 - Ahmed Yagoubu: null
+04/09/2024, 20:13 - ‎+32 499 16 83 26 a rejoint le groupe à partir de la communauté.
+04/09/2024, 21:59 - +33 6 72 75 43 48: bonsoir je prépare un texte sur l'impact du non verbal , pouvez-vous me conseiller une IA qui puisse générer la même personne mais dans des mimiques différentes ?MERCI
+04/09/2024, 22:04 - Rochane: Pour modifier les expressions de visage, il y a cet outil
+https://www.ailabtools.com/fr/change-facial-expressions?utm_source=perplexity
+04/09/2024, 22:05 - +33 6 72 75 43 48: Merci Rochane tu es un puits sans fin de connaissance 😂👍 quelle chance pour moi , je vais tester
+04/09/2024, 23:31 - +33 6 26 86 79 90: A l'université où je travaille, c'est accessible et fait partie des outils du quotidien.
+05/09/2024, 06:33 - Votre code de sécurité avec ~ FZ a changé. Appuyez pour en savoir plus.
+05/09/2024, 02:36 - +32 479 58 54 12: Pour info.
+https://siecledigital.fr/2024/09/02/86-des-etudiants-utilisent-lintelligence-artificielle/
+05/09/2024, 06:11 - +32 498 78 46 36: Je ne sais pas si cela a déjà été dit mais la fonction Memory de chatgpt semble releasée en Europe. En tout cas ça l'est pour moi (BE) depuis hier soir.
+05/09/2024, 06:14 - +32 479 58 54 12: <Médias omis>
+05/09/2024, 06:33 - ‎+33 6 66 56 87 96 est parti·e
+05/09/2024, 07:08 - +32 479 58 54 12: <Médias omis>
+05/09/2024, 07:25 - +33 7 72 40 20 46: null
+05/09/2024, 09:46 - Votre code de sécurité avec ~ Grégory a changé. Appuyez pour en savoir plus.
+05/09/2024, 11:11 - Hoang: Voici un article qui décrit un phénomène inquiétant où l'intelligence artificielle s'entraîne sur du contenu généré par d'autres IA, créant une boucle de dégradation de la qualité des résultats. Ce phénomène est comparé à la consanguinité des Habsbourg, surnommé "Habsburg AI". Avec le temps, les modèles d'IA produisent des réponses absurdes et des images moins diversifiées. Cette tendance pourrait compromettre les avancées de l'IA si la qualité des données humaines venait à diminuer. Cela souligne l'importance des données de haute qualité pour l'avenir de l'IA.

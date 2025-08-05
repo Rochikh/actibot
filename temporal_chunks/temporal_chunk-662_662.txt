@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 24
+
+=== CONTENU ===
+Pour les personnes initiées à Canva…
+J’ai voulu génère un carrousel et le publier sur LinkedIn (directement depuis CANVA) mais c’est limité à 6 ou 7 Dias … pourtant je vois de nombreux postes avec davantage de Dias …
+Une idée ? 💡
+19/06/2024, 00:19 - +212 644-562660: essaie avec Figma plutot https://www.youtube.com/watch?v=L-VwAxJ9hnY
+19/06/2024, 00:27 - Karim BS: La limite de diapositives est-elle supérieure? Merci 🙏
+19/06/2024, 08:01 - Rochane: Le truc serait d'exporter ton carrousel en PDF depuis Canva puis de l'importer comme un document sur LinkedIn, plutôt que de le publier directement. Ça te permet de dépasser la limitation à 6-7 diapositives, j'espère 🙂
+19/06/2024, 08:12 - Karim BS: Merci Rochane! 💯
+19/06/2024, 09:34 - Francois Bocquet: Un projet à suivre attentivement https://www.openllm-france.fr/
+19/06/2024, 09:35 - Francois Bocquet: Et qui pourrait permettre de gérer proprement les questions relatives au respect du RGPD !
+19/06/2024, 09:39 - ‎+33 6 03 33 82 32 a demandé à ajouter +33 6 76 52 85 88.
+19/06/2024, 11:55 - ‎+33 6 03 33 82 32 a ajouté +33 6 76 52 85 88
+19/06/2024, 11:57 - ‎+33 6 41 01 53 99 a demandé à rejoindre le groupe.
+19/06/2024, 12:04 - ‎+33 6 03 33 82 32 est parti·e
+19/06/2024, 13:58 - +33 6 02 20 69 43: Sans canva et avec PowerPoint pour générer un pdf…
+19/06/2024, 14:15 - Francois Bocquet: Grosses annonces à ISTE 2025 de la part de Microsoft avec de l’IA dans les outils et services
+https://techcommunity.microsoft.com/t5/education-blog/what-s-new-in-microsoft-edu-iste-edition-june-2024/ba-p/4169520
+Des tonnes de fonctionnalités de Copilot pour M365 Educator pour #ISTELive !
+✨ Création de contenu guidé dans les applications M365
+🗺️ Contenu aligné sur les normes pour 35 pays
+📝 Rétroaction de l'IA et options de notation
+🤖 Plugins pour éducateurs
+❓ Génération de quiz
+19/06/2024, 14:17 - Karim BS: Merci ☺️
+19/06/2024, 15:05 - Impossible de vérifier votre code de sécurité avec Besma Mardassi. Appuyez pour en savoir plus.

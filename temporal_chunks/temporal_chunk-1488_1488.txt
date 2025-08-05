@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 25
+
+=== CONTENU ===
+La politique de confidentialité mentionne les droits des utilisateurs, mais les procédures pour les exercer ne sont pas clairement décrites.
+**📝 Explication:**
+Les utilisateurs sont informés de leurs droits, mais les étapes pour les exercer ne sont pas explicitement détaillées, ce qui peut rendre l'exercice de ces droits difficile en pratique.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs peuvent rencontrer des difficultés pour exercer leurs droits RGPD, ce qui peut les dissuader de le faire ou les exposer à des retards injustifiés.
+---
+#### 2. Évaluer la clarté des procédures d'exercice des droits
+**⚠️ Constat:**
+Les procédures pour exercer les droits RGPD sont mentionnées de manière générale, sans instructions claires ou pratiques.
+**📝 Explication:**
+Les instructions pour exercer les droits sont peu claires, ce qui peut entraîner des complications pour les utilisateurs qui souhaitent effectivement exercer leurs droits.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs peuvent ne pas savoir comment contacter DeepSeek pour exercer leurs droits, ou ne pas savoir quoi attendre une fois leur demande formulée.
+---
+#### 3. Examiner les conditions de résiliation/portabilité
+**⚠️ Constat:**
+La politique de confidentialité ne fournit pas de détails sur les conditions de résiliation du compte ou sur la portabilité des données.
+**📝 Explication:**
+Les utilisateurs ne sont pas informés des étapes à suivre pour résilier leur compte ou pour transférer leurs données vers un autre service.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs peuvent ne pas savoir comment supprimer leur compte ou récupérer leurs données, ce qui peut les empêcher d'exercer pleinement leurs droits.
+---
+#### 4. Repérer les clauses potentiellement abusives
+**⚠️ Constat:**
+La politique de confidentialité contient des clauses qui pourraient être considérées comme abusives, notamment en ce qui concerne la conservation des données et la transmission en cas de fusion d'entreprise.

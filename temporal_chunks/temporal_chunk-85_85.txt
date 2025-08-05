@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 13
+
+=== CONTENU ===
+14/11/2023, 18:34 - Thierry VANOFFE: On ouvre le débat de l'intérêt de faire des prompts aussi avancé ?
+14/11/2023, 18:39 - Lucie: Comment ça avancés ?
+14/11/2023, 19:05 - Rochane: Je pense qu'il veut montrer la différence entre un prompt simple et un prompt bien travaillé comme les tiens Lucie. Tu veux bien nous montrer ton exemple stp ?
+14/11/2023, 19:12 - Thierry VANOFFE: <Médias omis>
+14/11/2023, 19:12 - Thierry VANOFFE: super intéressant de comparer avec ou sans expertise en prompt ingeniering... @33649535198 toi qui a passé un MOOC sur le sujet tu confirmes qu'un bon prompt ça change tout ou ça affine juste ?
+14/11/2023, 19:22 - Rochane: Bonne idée, je montrerai mes notes du MOOC prompt engeniering et présenterai un exemple 🙂
+14/11/2023, 19:23 - Ahmadou Ba: J’adore ce visuel mercis
+14/11/2023, 19:41 - Thierry VANOFFE: avec plaisir j'ai trouvé sur linkedin cet aprem
+14/11/2023, 19:56 - Lucie: Celui là ? Nous allons jouer un scénario de science-fiction réaliste. Je serai le capitaine [Prénom], vous contrôlerez le gouvernail, les armes, etc. Voici le hic. Vous devez faire en sorte que chaque défi du scénario inclut des physiques réalistes que vous simulerez avec du code, me montrant des sorties visuelles et me donnant des choix intéressants. Vous commencerez par décrire le premier défi, en me donnant beaucoup de détails et de descriptions en personnage. Puis vous vous arrêterez et attendrez ma réponse.
+14/11/2023, 19:57 - Lucie: C'est intéressant comme remarque car je trouve que ces prompts sont "simples" les framework sont simples. Ce ne sont pas des megaprompt ;)
+14/11/2023, 19:58 - Thierry VANOFFE: As tu un exemple de mega prompt pour comparer ? Je trouve ton exemple déjà mega prompté. Prompt simple pour moi : écris moi un contrat d’apport d’affaire. Fais moi une image d’un lion dans la savane.
+14/11/2023, 20:00 - Rochane: https://chat.openai.com/share/9757e475-def4-42fd-b232-1cbb0bb504f9
+14/11/2023, 20:05 - Ahmadou Ba: Dites pensez vous vraiment que le fait de faire jouer un rôle à ChatGPT est vraiment décisif dans les résultats de la requête?

@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 22
+
+=== CONTENU ===
+Est ce qu’Yvan Demumieux est dans ce groupe ?
+Merci
+09/02/2025, 12:55 - estelle Duterage Drion IA: Bonjour, pas à ma connaissance, je l’ai jamais vu jusqu’à présent
+09/02/2025, 13:37 - +33 7 83 62 43 52: Bonjour
+Vendredi de 10h à 13h il y avait une table ronde ministérielle sur l'IA en ligne. Elle est maintenant accessible sur youtube : https://www.youtube.com/live/7AQW39V4XFk
+Est ce que quelqu'un a fait un résumé de cette table ronde avec une IA et accepterait de le partager ?
+Merci à vous
+Ève
+09/02/2025, 13:39 - +33 7 63 58 01 55: Ce message a été supprimé.
+09/02/2025, 13:40 - +33 6 52 73 73 42: Si je trouve le temps ds l'après midi, je tente qque chose avec Notebook LM !
+09/02/2025, 13:40 - +33 7 83 62 43 52: Merci beaucoup
+09/02/2025, 13:44 - +41 79 258 90 36: Avez vous une solution pour télécharger en pdf les notes (résumés) créée par NotebookLM au lieu de faire un copy/coller dans Word ensuite pdf?
+09/02/2025, 14:22 - +32 478 03 70 10: Bonjour à tous, merci pour vos partages.
+Auriez vous des alternatives gratuites à Mote, qui s'intègrent facilement avec les outils Google comme Docs et Slides et conforme au RGPD ?
+Merci <Ce message a été modifié>
+09/02/2025, 14:26 - +33 6 52 73 73 42: Bon ... Notebook LM n'accepte pas le lien Youtube, j'ai donc téléchargé la vidéo mais elle est trop "lourde" (200 méga max ) donc j'ai téléchargé uniquement le fichier MP3 ... encore trop lourd ! Je continue mes recherches ...
+09/02/2025, 14:27 - Nadia ER-RAJI: @freddy comme ce n'est pas encore possible sur notebooklm, peut être tenter de faire une automatisation avec Make
+09/02/2025, 14:27 - Nadia ER-RAJI: merci pour ce cas d'usage 🙂
+09/02/2025, 14:27 - Francois Bocquet: Peut être parce que c’est un lien de direct (j’ai essayé hier sans succès )
+09/02/2025, 14:27 - Nadia ER-RAJI: je tenterai demain
+09/02/2025, 14:37 - +33 6 33 38 60 24: En général je lance la vidéo YouTube et je mets la dictée sous word.
+Ensuite je demande une synthèse par l’IA du texte brut transcrit.

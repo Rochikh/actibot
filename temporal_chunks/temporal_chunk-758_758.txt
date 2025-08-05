@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 20
+
+=== CONTENU ===
+29/07/2024, 17:57 - Pierrick BRIAND: Meta vient de sortir Llama 3.1, une version améliorée de son modèle de langage d'IA. 🤖
+Les +
+- 3 tailles disponibles (8 à 405 milliards de paramètres) pour s'adapter à vos besoins.
+- Excellente en traduction multilingue et raisonnement complexe. Idéal pour des projets éducatifs innovants !
+- Modifiable et adaptable à des projets spécifiques, rappel c’est de l’Open-source . 🛠️
+Le petit moins >>> L'accès est restreint pour les grandes entreprises.
+https://bit.ly/3WH3ICl
+29/07/2024, 18:01 - Pierrick BRIAND: Ce message a été supprimé.
+29/07/2024, 18:03 - Pierrick BRIAND: Et ce n’est pas fini, la compétition s'intensifie car Mistral AI lance Mistral Large 2 🔥 À peine quelques jours après Llama 3.1, Mistral AI entre dans l'arène avec Mistral Large 2, un nouveau modèle de langage open-source qui pourrait bien changer la donne 🦾🦾
+Pourquoi c'est important pour nous ?
+123 milliards de paramètres pour rivaliser avec les géants comme OpenAI et Meta.
+Il surpasse Llama 3.1 et d'autres modèles similaires dans des benchmarks, notamment en génération de code (Python, C++, Java). 🏆
+Sa spécialité, il est excellent en génération de code et tâches de calcul complexes. Un atout pour les projets techniques et scientifiques ! 🧮
+Il reste Open-source, c’est donc une alternative bien solide
+https://bit.ly/3WFx04d
+29/07/2024, 18:04 - Pierrick BRIAND: <Médias omis>
+29/07/2024, 18:08 - Pierrick BRIAND: Et ce n’est pas fini car Google accélère la cadence avec Gemini 1.5 Flash, plus rapide et plus intelligent ! 🚀
+Gemini 1.5 Flash est plus rapide et comprend mieux les images, tout en améliorant son raisonnement. Idéal pour des tâches créatives et analytiques ! ⚡
+La version gratuite passe à 32 000 tokens, c’est génial parce que ça permet de traiter des textes encore plus longs et plus complexes.
+📚 Vous pouvez désormais utiliser vos documents comme contexte, une fonctionnalité très pratique pour la recherche en formation (bientôt disponible en version gratuite).

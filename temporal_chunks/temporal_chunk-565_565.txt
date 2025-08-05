@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 11
+
+=== CONTENU ===
+30/05/2024, 19:29 - Rochane: Perso, j'ai jamais testé car je n'ai pas de machine puissante et je ne suis pas sur windows mais curieux d'avoir des retours d'expérience 🙂
+30/05/2024, 19:39 - Pierrick BRIAND: Bonsoir @33625795095
+Tu dois parler de Phi-3 Mini sur smartphone. C’est clair qu’un modèle local offre en théorie plus de contrôle et plus de confidentialité à l'usage, mais il hérite aussi en partie des caractéristiques de ses données d'entraînement, qui restent opaques. Les données utilisées pour entraîner le modèle en amont soulèvent pas mal de questions car Phi-3 a été entraîné sur des « données web fortement filtrées » et des « données synthétiques ». Si tu peux tester ce mini LLM et partager tes retours, ce serait une excellente idée !
+30/05/2024, 21:24 - +33 6 81 36 11 13: Bonsoir , voici un lien vers une question sur Perplexity. comment je peux prévenir l'IA que sa réponse est fausse? Lien : https://www.perplexity.ai/search/Bonjour-Je-suis-UFYJ3Uw8Q4CcTuz9Nf3nlw
+30/05/2024, 21:27 - Rochane: C'est connu que l'IA n'est pas forte en maths même si Gpt 4o commence à être meilleur. Tu as testé Gpt 4o ( c'est gratuit) ? Et donne lui un rôle de prof de maths avec une grande expérience 🙂
+30/05/2024, 21:29 - Rochane: Là il a trouvé 🙂
+https://chatgpt.com/share/710ce708-652d-4c6c-a31e-908e63ae8f97
+30/05/2024, 21:29 - +33 6 81 36 11 13: c'est un de mes élèves qui teste Perplexity pour moi sur l'écriture des prompt. je le fait avec ma classe sur chatGPT en fin de mois en 4ème. Sa question est : Comment faire comprendre à l'IA qu'il s'est trompé?. j'avoue que je ne sais pas quoi lui dire
+30/05/2024, 21:31 - +33 6 81 36 11 13: merci, je vois bien le rôle de chatGPT. Je vais bien m'amuser avec mes 4ème je crois.
+30/05/2024, 21:32 - LIO: Ce message a été supprimé.
+31/05/2024, 10:37 - +33 6 25 79 50 95: Merci Pierrick pour ton éclairage sur l'héritage du jeu (sélectif) de données ayant servi à entraîner Phi-3. La taille du LLM est une chose mais la qualité des données d'entraînement en est un autre, en effet. Par ailleurs je me doute que la solution locale sera moins satisfaisante que les LLM en ligne, mais l'idée d'une confidentialité (théorique) tout en contribuant à une forme de sobriété digitale donne envie d'essayer.

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 21
+
+=== CONTENU ===
+10/07/2025, 22:29 - Votre code de sécurité avec ~ Phil a changé. Appuyez pour en savoir plus.
+11/07/2025, 09:23 - +33 6 84 64 62 57: Mammouth suite :
+J'ai reçu une réponse plus précise hier
+"Oui, vous pouvez créer des assistants personnalisés sur Mammouth : nous appelons cela des “custom mammouths” ou “projets mammouths”. Vous pouvez leur attacher des instructions et des fichiers (voir : https://info.mammouth.ai/docs/mammouth-assistant-tutorial/).
+Concernant Make, notre nouvelle API devrait permettre l'intégration sans difficulté, via un plugin LLM ou celui d'OpenAI. Toutes les infos ici : https://info.mammouth.ai/docs/api-quick-start/"
+Mammouth est jeune mais prometteur, français et donc respect de la RGPD.
+11/07/2025, 09:34 - ‎+33 7 45 43 23 09 est parti·e
+11/07/2025, 12:50 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 12:59 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 12:59 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 13:18 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 15:34 - Votre code de sécurité avec ~ Dj a changé. Appuyez pour en savoir plus.
+11/07/2025, 17:01 - Votre code de sécurité avec ~ JM a changé. Appuyez pour en savoir plus.
+11/07/2025, 20:36 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+11/07/2025, 22:18 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+12/07/2025, 05:36 - Votre code de sécurité avec ~ Dj a changé. Appuyez pour en savoir plus.
+12/07/2025, 09:03 - Batier Christophe: <Médias omis>
+12/07/2025, 09:05 - Rochane: Merci Christophe mais quand on arrive sur ta page Notion, je ne vois pas le lien
+12/07/2025, 09:06 - Batier Christophe: <Médias omis>
+12/07/2025, 09:08 - Rochane: ok, https://www.learningplanetinstitute.org/wp-content/uploads/2025/07/IA-ENSEIGNEMENT-SUPERIEUR.pdf
+12/07/2025, 09:24 - Rochane: <Médias omis>

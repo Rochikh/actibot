@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 17
+
+=== CONTENU ===
+Êtes vous avec Moodle pour la diffusion des cours ? Lui et d'autres LMS ont leur plugins IA et certains font ce que vous décrivez
+26/06/2025, 16:06 - Gregoire IA: Pour info, j'avais développé un agent vocal avec sa propre base documentaire avec eleven labs, intégration facile du moment que vous pouvez éditer du code html
+26/06/2025, 16:07 - +33 7 85 03 62 08: Sinon dans Google il y a les Gems aussi qui permettent d'ajouter des documents pdf
+26/06/2025, 16:07 - +33 7 85 03 62 08: Et c'est gratuit
+26/06/2025, 16:08 - +33 7 85 03 62 08: Ça dépend de la complexité de ce que vous faites, mais ça peut peut être se tenter
+26/06/2025, 16:08 - +33 7 85 03 62 08: C'est pas aussi complet que les assistants dans GPT
+26/06/2025, 16:09 - +33 7 80 42 87 32: Nous sommes sur Moodle effectivement mais sans IA...
+26/06/2025, 16:09 - +33 7 85 03 62 08: Mais bon, faut essayer :)
+26/06/2025, 16:09 - +33 7 85 03 62 08: La difficulté sur Copilot c'est d'apprendre a créer l'agent que vous voulez faire ?
+26/06/2025, 16:09 - +33 7 80 42 87 32: Je testerai merci !
+26/06/2025, 16:10 - +33 7 80 42 87 32: Oui c'est ça, on tâtonne un peu pour voir ce qu'il est possible de faire sachant que c'est le seul outil que l'on a pour le Moment
+26/06/2025, 16:10 - Gregoire IA: Perso je developpe mes assistants IA avec Poe et je leur donne des pdf, liens de site, youtube. Le hic c'est qu'un prof avait fait le sien et l'avait partagé à ses étudiants... Ils avaient siffoné ses crédits en 2 jours 😅
+26/06/2025, 16:11 - +33 7 85 03 62 08: Vous avez checké la documentation sur leur site ?
+26/06/2025, 16:11 - +33 7 85 03 62 08: Quickstart: Create and deploy an agent - Microsoft Copilot Studio | Microsoft Learn https://share.google/lNbYoUA75AVog0I2M
+26/06/2025, 16:11 - +33 7 85 03 62 08: Après sinon, le process est un peu tjs le même quelque soit l'outil
+26/06/2025, 16:11 - +33 7 85 03 62 08: Si ça vous dit on peut échanger a l'occasion :)
+26/06/2025, 16:12 - +33 7 85 03 62 08: Oui c'est risqué Poe pour ça 🙃 mais c'est vrai que c'est une chouette alternative !

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 18
+
+=== CONTENU ===
+Si quelqu'un a des ressources pour comprendre ce point, elles sont les bienvenues 🙂
+30/07/2024, 07:38 - +32 479 58 54 12: Et comprendre comment les IA sélectionnent les ressources citées c'est essentiel pour savoir si l'on peut s'y fier, si elles sont biaisées par les techniques SEO et si elles sont complètes. D'après mes tests, les bases de données opensource, notamment, sont "oubliées" par les IA.
+30/07/2024, 07:44 - Pierrick BRIAND: Oui, c’est assez ressemblant à ce que fait déjà Perplexity. Il faut dire aussi que le marché est assez juteux sur le Search. À quand la publicité sur les résultats des recherches IA ?
+30/07/2024, 07:47 - Pierrick BRIAND: Ah oui! Mais pourtant les IA accèdent bien à Wikipedia ?
+30/07/2024, 07:51 - +32 479 58 54 12: ( je parlais d'open data, pas d'open source, bien sûr 😏)
+30/07/2024, 08:31 - +33 6 28 05 56 84: Chargpt invente les sources en fonction des questions posées.
+J'en ai fait l'expérience avec des soi-disantes références à des publications de l'INSEE ou de l'OMS, rapports et sources inexistantes après vérification auprès des institutions.
+30/07/2024, 09:47 - Votre code de sécurité avec Technopedagogue Djieh 🔥🖥️🔥 a changé. Appuyez pour en savoir plus.
+30/07/2024, 10:34 - Francois Bocquet: A évaluer dès que possible ! https://intelligence-artificielle.com/google-flash_1-5-gemini/
+30/07/2024, 10:56 - Rochane: On peut l'utiliser gratuitement ici
+aistudio.google.com/app/prompts/new_chat
+30/07/2024, 11:20 - +33 6 49 84 08 41: Hello tout le monde,
+Un site IA pour générer gratuitement (en tout cas pour l'instant) des images à partir d'un prompt : https://ideogram.ai/login
+30/07/2024, 11:46 - Votre code de sécurité avec ~ David a changé. Appuyez pour en savoir plus.
+30/07/2024, 11:47 - ‎+33 6 34 46 31 43 a demandé à ajouter Seb from Wooclap.
+30/07/2024, 12:56 - ‎Seb from Wooclap a été ajouté·e
+30/07/2024, 12:54 - ‎+33 6 34 46 31 43 a ajouté Seb from Wooclap
+30/07/2024, 15:16 - Votre code de sécurité avec +33 7 45 47 55 13 a changé. Appuyez pour en savoir plus.

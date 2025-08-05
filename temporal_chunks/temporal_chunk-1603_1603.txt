@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 539
+Messages: 8
+
+=== CONTENU ===
+20/01/2025, 18:03 - +41 76 372 28 94: <Médias omis>
+20/01/2025, 18:23 - +33 6 42 26 64 70: X n’est pas non plus le média auquel je fais le plus confiance ;) Déjà, attendons de voir o3 qui devrait plier l’affaire pendant les prochains mois.
+20/01/2025, 18:46 - Votre code de sécurité avec Luis Galindo a changé. Appuyez pour en savoir plus.
+20/01/2025, 19:06 - +41 76 372 28 94: D’accord sur le fond Laurent. Sauf que dans le cas présent c’est Sam Altman directement qui parle, pas un chercheur de son équipe. As-tu relevé des exemples ou Sam Altman disait n’importe quoi, pour, par exemple, vendre ses produits ou obtenir des investissements ? Moi je n’ai jamais relevé de choses vraiment fausses dans ce qu’il a annoncé, mais je n’ai pas vraiment accordé beaucoup d’attention à ce qu’il disait systématiquement non plus… Donc ces derniers jours, la hype qui s’est créée autour d’autres messages cryptiques relayés par des chercheurs différents a fait mousser l’imagination des autres !
+Sinon, on ne parle pas ici de mise à disposition du grand public (plus c’est puissant, plus ça met longtemps avant d’arriver à nous au vue des risques et c’est très bien ainsi), mais de faisabilité : car personne ne sait encore s’ils vont y arriver à faire une IA avec une véritable intelligente générale, même s’ils en sont vraiment très proche et qu’ils affirment savoir comment le faire. Or « nor have we built it », lève toute ambiguïté sur la question de l’AGI. Vu que nous sommes avec des IA de niveau 2, la hype était probablement sur des agents de niveau 3 ou mieux, des innovateurs de niveau 4, ce qui serait effectivement énorme, puisque c’est le début du bootstrap de l’intelligence artificielle (IA capable de s’auto améliorer) ce qui devrait accélérer la recherche en IA et l’arrivée du saint-graal : l’AGI suivit peut de temps après l’ASI.
+Winter is coming…
+20/01/2025, 19:11 - Rochane: De toute façon, cette course à l'AGI est beaucoup commerciale et économique.
+Ce que j'ai remarqué c'est que Google avance sans faire trop de bruit par rapport à OpenAI et je trouve même qu'ils sont plus proches des besoins des utilisateurs et utilisatrices...

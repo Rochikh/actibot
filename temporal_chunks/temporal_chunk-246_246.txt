@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 12
+
+=== CONTENU ===
+01/03/2024, 12:20 - Agathe: Si je peux m'intégrer dans la prochaine visio mensuelle ça me va bien :)
+Et sinon, sur la durée de la présentation ?
+01/03/2024, 12:21 - Rochane: Entre 5 et 10 minutes maximum
+01/03/2024, 17:16 - Jean-Marc Everard: Sinon, il y aussi easygenerator : https://www.easygenerator.com/fr/ Je ne l’ai pas encore testé mais il peut exporter en SCORM ou même xAPI.
+01/03/2024, 18:01 - Jacques BARATTI: Pour générer des qcm le plugin "texttoquestions" fonctionne avec l'API de ChatGPT (donc GPT4 turbo), il donne des questions avec feedback et les intègre directement dans la banque de questions de Moodle
+01/03/2024, 18:07 - Son: Quiz Wizard permet aussi ça. Il faut ensuite importer le fichier XML Moodle dans la banque de questions.
+01/03/2024, 18:13 - Jacques BARATTI: Oui mais il n'y a pas de feedbacks !
+01/03/2024, 18:36 - +33 7 69 88 62 42: Bonjour. Svp pouvez vous me dire les outils pour créer des quiz multilingues ?
+01/03/2024, 19:15 - Rochane: Chat GPt 🙂
+01/03/2024, 19:20 - +33 7 69 88 62 42: Ah merci, le souci n'est pas de générer les questions mais de générer un seul qrcode qui permet d'afficher les questions dans la langue choisie par l'apprenant. Cette fonctionnalité est bien présente pour les sondages dans Forms de Microsoft mais n'est pas déployée pour les quiz 😭 Auriez-vous un autre outil à me conseiller ? <Ce message a été modifié>
+01/03/2024, 19:23 - Rochane: Conker 👍 https://youtu.be/68_Z3peQwvw?feature=shared
+02/03/2024, 07:31 - Rochane: Un text to image intéressant et en open source https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9tdWx0aW1vZGFsYXJ0L3N0YWJsZS1jYXNjYWRlP3V0bV9zb3VyY2U9Z2VuZXJhdGlvbmlhLmZsaW50Lm1lZGlhJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPXBob3Rvcy1yZWFsaXN0ZXMtZGVjb3V2cmV6LWNlcy01LW91dGlscy1kLWlhLWdyYXR1aXRzIiwicG9zdF9pZCI6IjkyMDBjZjQ5LTYzOTYtNDE0ZC05NWQ1LWVmODhiY2ZjYTdmNCIsInB1YmxpY2F0aW9uX2lkIjoiNWYxYjJhZmYtZTE3Ny00ZDI0LThjNzctMTNiNGYzNmJhMmY0IiwidmlzaXRfdG9rZW4iOiJhMDk1MzY2Yy0zZTYwLTQ2NTQtYmM1ZS1mMzJjZjlkNzBmMjYiLCJpYXQiOjE3MDkzNjA5NjAsImlzcyI6Im9yY2hpZCJ9.d0Xm-tEjqZj7PXKBgGKpS3M9Qaqm8M66OuQSPInEOEg

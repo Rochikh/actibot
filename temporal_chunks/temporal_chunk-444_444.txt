@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 11
+
+=== CONTENU ===
+Si les notes sont trop longues, je les mets en pdf et je demande à chatpdf.
+Mais si il y a mieux, je prends 😉
+17/04/2024, 15:25 - +33 6 22 42 57 92: J'irai voir Seeker.ai !
+17/04/2024, 15:26 - +33 6 99 36 11 69: Plutôt pas mal comme outil, le menu en anglais majoritairement mais en français au niveau du chat 😅
+17/04/2024, 15:28 - +33 6 99 36 11 69: Pour les « testeurs » d’outils, si vous ne connaissez pas, vous pouvez utiliser
+https://yopmail.com/fr/
+Générateur d’email jetables pour faciliter la création de comptes 😉
+18/04/2024, 06:06 - Votre code de sécurité avec +33 7 88 06 98 60 a changé. Appuyez pour en savoir plus.
+18/04/2024, 11:31 - Jean-Marc Everard: Bonjour, j’ai naturellement Notion mais ma maîtrise me semble encore insuffisante pour « sentir » l’avantage de l’IA, par contre c’est un incontournable en terme de « second cerveau » (mais bon, perso j’ai déjà pas mal de boulot avec le premier 🙄😅). Taskade est au départ très orienté To do list mais avec des développements intéressants au niveau « second cerveau également ». Là j’ai surtout utilisé l’IA pour obtenir une « work breakdown structure », et ça marche bien. Midjourney bien sûr bluffant mais nécessite de bons prompts avec quelques paramètres. Adobe Firefly : je l’ai testé à un stade trop précoce mais semble s’améliorer très rapidement et est aussi prometteur pour la vidéo. Et même si on a vu que ce n’était pas toujours respecté, il semble que Adobe se soucie quand même un peu d’éthique. Opus clip, je viens tout juste de tester et semble en effet très chouette mais j’ai peur d’une rapide homogénéité des résultats. À garder à l’œil pour voir comment ça évolue. J’ai préféré Elevenlab à Murf (à cause du clonage de ma voix) mais est sans doute moins bon sur de longs textes (en tout cas j’ai souvent des problèmes d’accent 😂). Voilà un peu pour des retours superficiels…
+18/04/2024, 21:41 - Votre code de sécurité avec +33 6 51 43 08 14 a changé. Appuyez pour en savoir plus.
+18/04/2024, 23:50 - Votre code de sécurité avec +33 6 51 43 08 14 a changé. Appuyez pour en savoir plus.

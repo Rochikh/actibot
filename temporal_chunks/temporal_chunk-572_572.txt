@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 15
+
+=== CONTENU ===
+01/06/2024, 11:44 - ‎+33 6 19 75 63 49 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 11:44 - ‎+32 475 48 84 81 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 11:45 - Rochane: <Médias omis>
+01/06/2024, 11:51 - Rochane: Le précédent résumé a été fait par perplexity et celui-ci par Gemini pro 1.5 ( un outil gratuit que j'affectionne particulièrement). À vous de voir la différence 🙂
+Résumé de "L'Intelligence Artificielle Générative et les Audiences des Nouvelles" par Fletcher et Nielsen
+Ce rapport, publié par le Reuters Institute for the Study of Journalism, explore la sensibilisation du public, l'utilisation et les perceptions de l'intelligence artificielle générative (IA) dans six pays (Argentine, Danemark, France, Japon, Royaume-Uni et États-Unis). Il se concentre particulièrement sur la façon dont les gens perçoivent son application dans le journalisme et les médias d'information.
+Principales conclusions:
+Sensibilisation et utilisation du public:
+ChatGPT domine: ChatGPT est l'outil d'IA générative le plus reconnu et utilisé, avec une sensibilisation d'environ 50 % et une utilisation peu fréquente mais en croissance.
+Utilisation limitée: L'utilisation quotidienne de ChatGPT reste faible, avec seulement 7 % aux États-Unis et 1 à 2 % dans les autres pays.
+Utilisateurs plus jeunes: Les jeunes sont beaucoup plus susceptibles d'avoir utilisé l'IA générative, en particulier ChatGPT.
+Information et création de médias: Les gens utilisent l'IA générative principalement pour obtenir des informations (répondre à des questions, demander conseil) et créer des médias (texte, images, audio, vidéo, code).
+L'utilisation de l'actualité est rare: Seuls 5 % des personnes interrogées dans les six pays ont utilisé l'IA générative pour obtenir les dernières nouvelles.
+Attentes concernant l'impact de l'IA générative:
+Impact large anticipé: La plupart des personnes interrogées s'attendent à ce que l'IA générative ait un impact important sur divers secteurs, notamment les médias d'information (66 %), la science (66 %) et la politique (51 %).

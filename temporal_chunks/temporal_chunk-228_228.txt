@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+3. EdTechReview : EdTechReview est une plateforme en ligne qui propose des critiques et des évaluations d'outils technologiques pour l'éducation. Vous pouvez trouver des avis d'experts, des comparaisons d'outils et des recommandations basées sur les besoins spécifiques des enseignants. [Source: EdTechReview]
+4. G2 : G2 est une plateforme d'évaluation de logiciels qui propose également des évaluations et des avis d'utilisateurs pour les outils technologiques dans le domaine de l'éducation. Vous pouvez trouver des classements, des comparaisons et des commentaires détaillés sur différents outils. [Source: G2]
+Sources :
+- EdSurge Product Index : https://www.edsurge.com/product-reviews
+- Common Sense Education : https://www.commonsense.org/education/
+- EdTechReview : https://edtechreview.in/
+- G2 : https://www.g2.com/
+---
+Learn more:
+1. [20 outils technologiques gratuits pour les enseignants | EdApp Microlearning](https://www.edapp.com/blog/fr/20-outils-technologiques-gratuits-pour-les-enseignants/)
+2. [10 meilleurs outils d'IA pour l'éducation (février 2024) (2024) - Unite.AI](https://www.unite.ai/fr/10-meilleurs-outils-d%27IA-pour-l%27%C3%A9ducation/)
+3. [7 meilleurs outils d’IA pour les enseignants qui vous feront gagner du temps en 2023 | ClassPoint](https://www.classpoint.io/blog/fr/7-meilleurs-outils-dia-pour-les-enseignants-qui-vous-feront-gagner-du-temps-en-2023)
+24/02/2024, 10:02 - Jean-Marc Everard: Merci beaucoup ! C’est marrant, je n’ai pas pensé à demander à perplexity p. Ex. Comme quoi en fonction de l’heure de la journée ou du contexte, on a des réflexes différents.. 🙏
+24/02/2024, 10:20 - ‎+32 494 27 47 49 est parti·e
+24/02/2024, 10:27 - Pierrick BRIAND: Merci Rochane pour cette interview de Ludovic. Son point de vue sur l’avenir des formateurs est effectivement très tranchant mais assez réaliste.
+25/02/2024, 07:40 - Rochane: Ce prompt, tiré de la newsletter de Flint est *magique* 🤩 : [INSÈRE TA REQUÊTE, par exemple : "qu'est-ce que l'inférence ?"]

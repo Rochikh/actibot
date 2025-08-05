@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 17
+
+=== CONTENU ===
+31/10/2023, 11:24 - Ahmadou Ba: J’ai une fois tester Humata il est bon mais malheureusement il ne traite que 60 pages pour la version gratuite.
+31/10/2023, 11:25 - Rochane: claude.ai (il est gratuit)
+J'en parle ce soir lors de notre visio
+31/10/2023, 11:26 - Ahmadou Ba: https://www.humata.ai/
+31/10/2023, 11:28 - Ahmadou Ba: Wi il est gratuit je l’ai essayé mais je pensais  qu’on demandait une IA spécialement dédiée aux PDF
+31/10/2023, 11:33 - Larissa: Un partage de mon côté: site sympa avec pleins de ressources en anglais sur l'IA et son application dans l'éducation. https://blog.classpoint.io/ai-in-education/
+31/10/2023, 11:43 - Larissa: Rochane, est-ce que un PADLET où du genre ferait du sens pour mieux visualiser ces super ressources qu'on est en train de partager?
+31/10/2023, 11:44 - +33 6 14 90 22 14: Une mind map?
+31/10/2023, 11:45 - Rochane: Effectivement, il va falloir mutualiser tous ces outils. Peu importe le support mais il faut le faire. 🙂
+31/10/2023, 11:50 - Luc deleplanque: Oui en effet un Padlet ou l'équivalent sur "LA DIGITALE" serait un vrai plus pour classer les partages. Le Mur Padlet est à mon avis plus simple à manipuler et a enrichir en mode collaboratif... Si vous le désirez, je peux me charger d'en créer un et mettre en place une procédure d'enrichissement par les membres... ⁉️ (Qu'en penses tu Rochane ?)
+31/10/2023, 11:52 - Rochane: Moi je suis un membre de la communauté comme tout le monde 🙂. S'il ya d'autres alternatives, on peut toujours avoir recours à des sondages 🙂
+31/10/2023, 11:59 - Luc deleplanque: SONDAGE  :
+Nous avons et allons avoir certainement beaucoup de partages et d'infos, et pour les centraliser, un outil serait le bien venu... Préférez vous une système "Mind-Mapping" ou un Mur style Padlet (ou autre) ? L'idée serait que chacun puisse l'incrémenter...
+OPTION  : Je préfère la Carte Mind-Mapping (‎1 vote)
+OPTION  : Je préfère le Tableau Padlet (‎11 votes)
+OPTION  : Ni l'un ni l'autre... (‎1 vote)
+OPTION  : Les deux me vont... (‎17 votes)

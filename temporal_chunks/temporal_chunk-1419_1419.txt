@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 18
+
+=== CONTENU ===
+16/12/2024, 20:11 - Votre code de sécurité avec ~ Robin a changé. Appuyez pour en savoir plus.
+16/12/2024, 20:21 - +33 6 19 75 63 49: Bonsoir. Est-ce que vous enregistrez? Je ne peux pas être présente mais je suis très intéressée
+16/12/2024, 20:21 - +33 6 52 73 73 42: L'enregistrement est en cours ...
+16/12/2024, 20:21 - +33 6 69 98 28 93: Oui c'est enregistré
+16/12/2024, 20:21 - Laurent The Cure: bonsoir, oui c'est enregistré
+16/12/2024, 20:27 - Votre code de sécurité avec ~ Robin a changé. Appuyez pour en savoir plus.
+16/12/2024, 22:04 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+16/12/2024, 22:21 - ‎+33 6 26 78 57 20 a demandé à rejoindre le groupe.
+16/12/2024, 23:27 - Pierrick: Top merci 🙏
+17/12/2024, 05:52 - ‎+33 6 26 78 57 20 a rejoint le groupe à partir de la communauté.
+17/12/2024, 06:50 - estelle Duterage Drion IA: Merci
+17/12/2024, 07:07 - +33 6 75 41 23 05: Bonjour
+J’ai une question Rochane sur ta présentation d’hier soir. Avant tout merci pour cela. La méthode diffère de celle que j’utilise pour faire un chatbot IA (en utilisant une clé API cryptée directement), c’est tjs enrichissant de voir des moyens alternatifs. Le chatbot relié à une Assistant via Make garde-t-il en mémoire les premiers messages d’une conversation ?
+17/12/2024, 07:09 - Rochane: Non mais tu peux l'améliorer en lui demandant de garder la question 1 et la question 2 sera la réponse 1 + la question 2. C'est vrai que ce n'est pas fait pour une discussion itérative mais c'est faisable à mon avis
+17/12/2024, 07:10 - +33 6 75 41 23 05: Merci ☺️
+17/12/2024, 07:58 - +33 6 69 92 67 77: Bonjour,
+Je tiens à vous remercier pour la démonstration, qui a clairement démystifié la création de chatbot. Avec un peu d’entraînement et surtout de la pratique, il semble effectivement possible de se construire des schémas permettant de s’approprier efficacement ce processus.
+Je me permets de vous poser une question : où pouvons-nous récupérer les données des conversations ? Il est possible que j’aie manqué une étape lors de la présentation.

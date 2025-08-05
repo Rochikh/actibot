@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 18
+
+=== CONTENU ===
+23/02/2025, 23:32 - StéphaneIA: En attendant vous pouvez tester sur gemini.google.com
+24/02/2025, 12:01 - +33 7 66 54 11 11: Eh oui moi aussi ce matin je n'avais plus accès à la fonctionnalité joindre un fichier de la version chatgpt plus.
+Je viens de résilier mon abonnement et de plonger dans Gemini.
+Eh oui Google n'a pas dit son dernier mot.
+24/02/2025, 12:07 - +33 7 87 35 78 96: Google a une des meilleures équipes de recherche et google n'a pas besoin de lever des fonds. Et en bonus leur produit phare est utilisé par des milliards de personnes ! Donc n'oublions pas Google
+24/02/2025, 12:03 - ‎+237 6 71 13 66 02 est parti·e
+24/02/2025, 12:10 - +33 7 66 54 11 11: Et ils sont précurseurs dans le deep learning avec DeepMind fondée en 2010.
+Certes ils ont connu des déboires suite avec Google Car la voiture autonome lancée en 2015
+24/02/2025, 12:10 - +33 6 71 11 12 91: Ben, c'est justement parce qu'il est dominant que j'évite de l'utiliser autant que possible ! 😃
+Et de plus je l'ai (enfin !) testé hier soir, et le résultat était particulièrement décevant par rapport aux autres (Mistral, Open AI et Anthropic), mais c'était peut-être le type de question posée qui ne lui convenait pas...
+24/02/2025, 12:11 - +33 7 87 35 78 96: Sinon abonnement free mobile à 2 euros -> Mistral Pro
+Abonnement Bouguyes à 2.99 -> Perplexity Pro
+24/02/2025, 12:25 - +33 7 66 54 11 11: C'est un choix parmi ces majors de la silicon en attendant d'autres alternatives.
+24/02/2025, 12:40 - Votre code de sécurité avec Benoit Groupe gPT a changé. Appuyez pour en savoir plus.
+24/02/2025, 17:21 - Rochane: 1,99 même 😁
+24/02/2025, 19:40 - Francois Bocquet: https://bsky.app/profile/tirotg.bsky.social/post/3liwrtiuvns23
+24/02/2025, 20:27 - Rochane: https://www.01net.com/actualites/google-gemini-analyse-document-gratuite.html
+24/02/2025, 20:29 - Rochane: Claude 3.7 Sonnet est présenté comme le premier modèle de raisonnement hybride, capable de fournir des réponses rapides ou un raisonnement approfondi et visible, selon les besoins. C'est comme avoir un assistant capable de réfléchir vite ou de prendre le temps d'analyser en profondeur.

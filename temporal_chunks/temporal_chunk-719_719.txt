@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 19
+
+=== CONTENU ===
+13/07/2024, 21:26 - +33 6 07 82 01 91: <Médias omis>
+14/07/2024, 10:48 - Ludovic IA: Hello, j'ai une question à teneur éducative donc je me dis que je suis au bon endroit:) . Une amie à moi, dans le cadre de projets éducatifs autour du jeu qu'elle mène dans des établissements primaires, réalise des courtes vidéos montrant des enfants en train de jouer pour expliquer les grands principes de ces jeux. Elle utilise ces vidéos pour ces interventions avec des enseignants.
+Protection de l'enfant oblige, elle ne veut pas afficher les visages des enfants filmés et les remplace actuellement par des classiques smileys. On entend donc les enfants parler, mais derrière un smiley statique, ce qui n'est pas terrible.
+Connaîtriez-vous un outil IA qui serait capable sur une vidéo de détecter un visage en train de parler, de lui substituer un visage artificiel, de suivre les mouvements de l'enfant et que ce visage soit capable de formuler les mêmes phrases que l'enfant dont le visage est dissimulé ? Le tout automatiquement bien sûr.
+14/07/2024, 11:46 - Rochane: Peut être ?
+Solutions potentielles
+Deepswap
+Parmi les outils d'IA disponibles pour l'échange de visages, Deepswap semble être l'une des options les plus prometteuses pour votre projet. Voici pourquoi :
+Il peut traiter des vidéos et des GIF, pas seulement des photos.
+Il offre une haute précision dans la détection et le remplacement des visages.
+Il est capable de suivre les mouvements du visage original.
+Cependant, il est important de noter que Deepswap remplace généralement un visage par un autre visage existant, plutôt que de créer un visage artificiel.
+Swapface
+Une autre option intéressante pourrait être Swapface. Ses caractéristiques principales sont :
+Une interface intuitive et facile à utiliser.
+La capacité de créer des "deepfakes" de haute qualité.
+L'intégration avec des caméras virtuelles, ce qui pourrait être utile pour des présentations en direct.
+Considérations importantes
+Bien que ces outils offrent des possibilités intéressantes, il y a quelques points à prendre en compte :

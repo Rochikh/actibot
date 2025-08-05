@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 14
+
+=== CONTENU ===
+Mon préféré cest Msty personnellement et LM studio sera celui recommandé avec un guide d'utilisation accès recherche
+Apres on reste sur un usage non-agentique
+Et ca depend toujours du matériel (puissance calcul de l'ordinateur accessible) ; souvent les chercheurs ont des ordinateurs quand meme assez puissants donc ca va
+13/07/2025, 11:53 - +32 483 60 53 96: Ca demande une documentation mise à jour régulièrement pour leur conseiller les bons modèles à utiliser (ilz ne font pas de veille eux mêmes sur les modeles)
+Le mieux est de déployer un modèle au niveau de l'institution ou partagée entre les institutions pour un public précis (exemple chercheurs ou administration) : cimme par exemple un modele petit ollama ou modele Mistral small recent ; ya aussi le modèle Google N3 qui recemment est intéressant à utiliser en local ; sinon un modèle de raisonnement deepseek R1 en local est un bon choix parfois en local (cest ce que j'ai vu de plus utilisé dans les universités)
+13/07/2025, 15:09 - ‎Guillaume CLEMENT est parti·e
+13/07/2025, 16:46 - Jean-Marc Everard: Merci Robin. Quand j’essaye de mettre en place des systèmes et modèles locaux, les informaticiens m’opposent souvent la difficulté du suivi, des mises à jours des « containers » ou appli, des modèles, la mise en place d’une mémoire etc… est-ce que tu as déjà été confronté à cela et envisagé des modes opératoires par rapport à ça?
+13/07/2025, 17:19 - +212 644-562660: merci bien
+13/07/2025, 17:54 - +33 6 66 98 84 23: Bonjour, il me semble qu'il était possible de louer un serveur sur lequel on pouvait déployer une IA (comme en local) et là il n'y avait pas de pb de puissance ?
+Je peux me tromper !
+13/07/2025, 18:14 - Votre code de sécurité avec ~ Dj a changé. Appuyez pour en savoir plus.
+13/07/2025, 18:55 - +33 6 71 11 12 91: Mistral propose cela en effet.
+https://mistral.ai/products/mistral-compute#european-ai-cloud
+13/07/2025, 21:03 - Votre code de sécurité avec +212 634-169534 a changé. Appuyez pour en savoir plus.

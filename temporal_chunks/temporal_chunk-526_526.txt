@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 15
+
+=== CONTENU ===
+17/05/2024, 07:27 - +33 6 22 42 57 92: https://chat.openai.com/chat
+17/05/2024, 07:27 - Pierrick BRIAND: Bonjour @33662364404
+Ton sujet m’a interpellé, tu as raison et je tenais à compléter tes propos.
+Le RGPD dit que les entreprises ne peuvent transférer tes données perso hors UE que si :
+1. Le pays de destination a été reconnu par l'UE comme ayant un bon niveau de protection des données. C'est le cas par exemple du Canada, d'Israël, du Japon ou du Royaume-Uni. Et depuis juillet 2023, les États-Unis ont aussi obtenu ce "feu vert", mais seulement pour certains transferts.
+2. Ou alors, l'entreprise met en place des garanties spéciales, comme des contrats types approuvés par l'UE, des "binding corporate rules" au sein de son groupe, des certifications ou des codes de conduite.
+Dans certains cas particuliers, l'entreprise peut aussi utiliser des exceptions : par exemple si tu donnes ton accord, si le transfert est nécessaire pour exécuter un contrat avec toi ou défendre ses droits en justice. <Ce message a été modifié>
+17/05/2024, 07:33 - +33 6 22 42 57 92: <Médias omis>
+17/05/2024, 07:44 - Guillaume Singeot: Oui. Tout ça, ce n'est que des documents de préparation. Ça permet de voir quels axes sont plus ou moins sélectionnés et quels types d'enjeux sont derrière. Mais effectivement ce ne sont ni les textes définitifs ni les applications réglementaires.
+17/05/2024, 08:39 - ‎+33 6 87 26 15 55 est parti·e
+17/05/2024, 08:42 - Guillaume Singeot: https://catalogue.edulib.org/fr/cours/studiumfc-umontreal-cofad/
+17/05/2024, 09:07 - Jacques BARATTI: J'ai un accès ce matin gratuit à GPT4 mais pas encore aux GPTs
+17/05/2024, 09:09 - Jacques BARATTI: Merci !
+17/05/2024, 10:23 - Fred IA: Bonjour. Je confirme, ce matin, la version gratuite de chat gpt nous connecte par défaut à gpt 4.. Mais est ce gpt 4-o ?  On pourrait supposer que oui..
+17/05/2024, 10:32 - +33 6 22 42 57 92: De mon côté,  c'est bien GPT-4o m1is il n'est pas encore multimodale depuis mon compte, en tout 1cs sur mon smartphone...

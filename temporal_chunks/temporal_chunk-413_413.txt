@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 9
+
+=== CONTENU ===
+12/04/2024, 14:40 - Jean-Marc Everard: Tout à fait d’accord : attention ils ne prennent pas en compte le développement non plus, ni hardware ni software, mais donc entre les lignes pas le coût de l’entraînement du modèle qui est la plus grosse sources d’émissions. Sans compter la non prise en compte des annotateurs. J’aimerais y croire parce que ça me déculpabiliserait un peu, mais franchement cette étude me paraît légère…
+12/04/2024, 14:44 - Jean-Marc Everard: Au temps pour moi, ils prennent en compte l’entraînement mais pas le développement du modèle avant entraînement. Ok, sans doute bcp moins coûteux en ressources… j’ai trop diagonalisé l’article mais disons qu’il est loin d’autres chiffres que vu par ailleurs (p. Ex équivalent de 50cl d’eau par requête pour le refroidissement…). Bon, j’imagine qu’il faudra affiner tout ça
+12/04/2024, 14:45 - Clément Cahagne: For this study, we included the hardware and energy used to provide the AI service, but not the software development cycle or the software engineers and other personnel who worked on the AI. This choice is analogous to how, with the human writer, we included the footprint of that human’s life, but not their parents.
+12/04/2024, 14:47 - Jean-Marc Everard: Oui, j’ai rectifié de moi-même. En revanche, je trouve l’analogie de plutôt fausse.
+12/04/2024, 14:51 - Clément Cahagne: J’ai vu; désolé j’ai pas été assez rapide 😉
+Je trouve aussi l’analogie quelque peu… étrange. Dans le sens où l’énergie dépensée dans le cycle de développement d’un modèle de langue doit être fort supérieur à l’entrainement d’un humain par ses deux parents. M’enfin bref, ça doit être si peu par rapport à l’entrainement et à l’usage que c’est surement anecdotique
+12/04/2024, 14:59 - LIO: Je n'ai pas encore commemcé la lecture de l'étude mais concernant les émissions de co2,
+Prend-telle en compte l'impact de la masse d'images "ratées" par l'ia?
+Si l'ia emet entre 310 et 2900 fois moins de co2 par image mais qu'elle produit 5000 fois plus d'images "Non pertinentes" que l'humain. Alors le rapport change non?

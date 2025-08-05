@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 629
+Messages: 13
+
+=== CONTENU ===
+1- comment ça fonctionnent les IA ?
+2- comment on l’utilise les IA ?
+3- quelles conséquences +et - de l’utilisation des IA
+Ça fait 3 sujets bien différents (parallèle avec la voiture : comment fonctionne un turbo ou une boîte de vitesse, comment on conduit, comment on respecte le code de la route). Sinon il y a des pistes dans ce document sur l’éducation à l’éthique https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit y compris avec Teachable Machine
+18/06/2024, 10:43 - zp: un prof avait fait l'exercice à l'envers cad il avait présenté un résultat ( dessin, video, text...) et il avait demandé que l'on trouver les prompts pour aboutir à ce résultat.. j'ai trouvé cela intéressant... après qu'est ce que cela veut dire '' une formation IA? on peut donner plusieurs réponses...
+18/06/2024, 10:44 - zp: pardons '' trouve''
+18/06/2024, 10:47 - Francois Bocquet: Exact : ici c’est dans la catégorie « comment utiliser des IA génératives en rédigeant des instructions pertinentes » sans ce préoccuper de comment ça fonctionne y compris dans l’intimité mathématique du processus ni des conséquences de l’utilisation de ces IA ;-)
+18/06/2024, 11:41 - ‎+33 6 22 06 78 56 a demandé à ajouter +33 6 89 90 65 23.
+18/06/2024, 12:14 - ‎+33 6 22 06 78 56 a ajouté +33 6 89 90 65 23
+18/06/2024, 14:54 - +41 79 326 51 40: Objectif 1 puis 2 avec juste ia générative et aussi un peu d'éthique
+18/06/2024, 14:56 - +41 79 326 51 40: Oui j'ai pensé notamment à cette approche, comme le site où tu dois retrouver des prompts ayant permis de créer des images fournies... par contre ça doit être plus complexe d'évaluer pour la génération de texte car on retrouve peut-être trop d'indices dans la solution obtenue... <Ce message a été modifié>
+18/06/2024, 14:56 - +41 79 326 51 40: Exact
+18/06/2024, 15:07 - Francois Bocquet: Il est à mon avis complexe de courir les trois objectifs à la fois car ce sont des sujets tellement différents et intéressant des motivations différentes. Expliquer dans le détail comment fonctionne des IA et en particulier des IA génératives n’est pas tellement à la portée de lycéens (peut être en terminale ?), apprendre à utiliser des IA et à rédiger des invites peut se faire sans comprendre comment ça fonctionne a condition d’en avoir besoin et enfin aborder la questions des finalités et de l’éthique concerne tout le monde et le plus tôt possible car utilisateur ou non chacun est soumis à des utilisations plus ou moins éthiques de l’IA. Mais ça se discute !

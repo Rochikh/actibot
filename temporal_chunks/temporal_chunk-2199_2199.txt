@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 853
+Messages: 16
+
+=== CONTENU ===
+25/05/2025, 16:04 - Fred IA: Bonjour. C'est un module de chatgpt  (plus) qui fait du text to vidéo (ou image to vidéo) <Ce message a été modifié>
+25/05/2025, 16:24 - estelle Duterage Drion IA: Ok
+25/05/2025, 18:53 - +33 7 75 95 30 12: Le bon reflexe: Demande à ChatGPT 😇
+25/05/2025, 19:02 - StéphaneIA: Ou une recherche Google 🙂 <Ce message a été modifié>
+25/05/2025, 19:28 - ‎+33 6 49 80 16 49 est parti·e
+26/05/2025, 10:42 - Votre code de sécurité avec +33 7 70 40 75 63 a changé. Appuyez pour en savoir plus.
+26/05/2025, 11:48 - Clotilde IA: Super ! En plus des autres remarques, je suis surprise que Perplexity ne soit pas #1 pour le code sur l’infographie
+26/05/2025, 12:04 - StéphaneIA: Perplexity ce n'est pas fait pour coder. Pour le code Gemini 2.5 pro et Claude sont ceux principalement utilisés
+26/05/2025, 12:15 - Clotilde IA: Je pensais à Claude évidemment 🤣 !
+C’est une des discussions précédentes et mon inattention qui ont eues raison de moi 🤪 !
+J’utilise Claude pro régulièrement. Je ne suis pas codeuse à la base, mais c’est cette fonction qui m’a conquise pour upgrader. Il comprends si facilement tout ce que je veux ! Et les pros que je connais me disent tous unanimement qu’il est au dessus du lot avec sa dernière version <Ce message a été modifié>
+26/05/2025, 16:53 - StéphaneIA: Les pros avec qui je discute sont plus Gemini 2.5 Pro maintenant même pour le code 😀. Disclaimer, Je travaille pour un revendeur Google mais j' essaie de rester le plus neutre possible.
+26/05/2025, 17:01 - +213 770 60 32 81: Qu'est ce que vous me conseillez pour moodle et IA, est ce que j'utilise les plugins spéciale moodle tel que openai, ou bien j'utilise des liens externes qui génère IA et je l’intègre dans mes cours, merci d'avance.
+26/05/2025, 17:04 - ‎+33 6 16 12 56 63 est parti·e
+26/05/2025, 17:36 - +33 6 52 73 73 42: Moodle et IA !? Pour quelles applications : création de cours !? Gestion des étudiants !?
+26/05/2025, 18:02 - +33 6 42 26 64 70: Pour Moodle et IA, si tu as un compte IA open ai ou azure IA, alors je te conseille de renseigner dans les paramètres ton API et ton projet (que tu trouveras du côté du prestataire IA) et de profiter (depuis Moodle 4.5) des ses fonctionnalités (pas dingues mais efficaces et qui devraient évoluer) qui résument les textes « lisible » d’un cours ou génèrent du texte ou encore génèrent des images pour illustrer tes cours (directement dans Moodle). Tu as aussi deux plugins sympas, l’un est un bloc assistant IA qui peut  être restreint et servir d’assistant à tes étudiants mais attention aux tokens consommés . L’autre permet de générer des questions directement dans une banque de question à partir d’un corpus texte…très sympa et utile. Après, il existe à l’extérieur pour moi deux générateurs de cours tout fait au format mbz(format Moodle) : K2R2 (complet orienté activité Moodle) et Noledj (orienté H5P…qui devrait aussi être bientôt intégré dans les cours K2R2)…mais faut payer 💰 . Enfin, comme discuté plus haut, presque toutes les IA peuvent te générer des questions au format XML Moodle ou mieux au format Gift (dont le très bon gpts de M. Barati). Pour la gestion des étudiant, rien vu de convaincant pour l’instant, si ce n’est la génération de fichiers csv qui inscrivent avec beaucoup d’option (cohortes, sorties etc) avec une IA. Si besoin de détails suplémentaires ou techniques, n’hésite pas. <Ce message a été modifié>

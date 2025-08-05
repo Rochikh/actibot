@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 18
+
+=== CONTENU ===
+Ce phénomène de "grokking" ouvre de nouvelles pistes de recherche pour comprendre les mécanismes sous-jacents de l'apprentissage machine et pourrait potentiellement conduire à des avancées significatives dans le domaine de l'IA générative.
+04/08/2024, 15:06 - +33 6 85 03 31 84: Je n’avais pu voir que le début de cet article hier (n’étant pas abonné à S&A);
+à défaut, j’ai trouvé cet article assez didactique (comme le sont, en général, ses vidéos sur sa chaîne YouTube *Science Étonnante*), même si je n’ai pas tout compris 🤔
+https://substack.com/home/post/p-136717909?r=48xejj&utm_campaign=post&utm_medium=web
+04/08/2024, 18:46 - Technopedagogue Djieh 🔥🖥️🔥: null
+04/08/2024, 20:18 - Votre code de sécurité avec +216 97 452 626 a changé. Appuyez pour en savoir plus.
+04/08/2024, 21:40 - Votre code de sécurité avec +33 6 60 22 85 02 a changé. Appuyez pour en savoir plus.
+05/08/2024, 01:34 - ‎+213 657 80 73 88 a demandé à rejoindre le groupe.
+05/08/2024, 05:41 - ‎+33 6 58 05 52 13 a demandé à rejoindre le groupe.
+05/08/2024, 07:21 - ‎+213 657 80 73 88 a rejoint ce groupe grâce à son lien d’invitation
+05/08/2024, 07:21 - ‎+33 6 58 05 52 13 a rejoint ce groupe grâce à son lien d’invitation
+05/08/2024, 08:05 - Rochane: Hello Natacha, même si ce n'est pas de l'IA, ça peut répondre à ta question concernant Outlook 🙂
+https://youtu.be/NF7vtTpOYO8?feature=shared
+05/08/2024, 08:14 - ‎+33 7 48 15 44 43 a demandé à rejoindre le groupe.
+05/08/2024, 08:17 - ‎+33 7 48 15 44 43 a rejoint ce groupe grâce à son lien d’invitation
+05/08/2024, 08:41 - +33 6 70 57 72 80: Bonjour à tous, je me présente : je suis ingénieur pédagogique en digital learning. Je travaille en ce moment sur l’élaboration de chatbot tuteurs, coach ou mentor pour accompagner les apprenants dans leurs apprentissages. J’ai tenté et réussi quelques essais sur chatgpt, POE et characters.ia.
+Si vous avez des tips pour le megaprompt ou pour trouver un outils qui échange en vocal, n’hésitez pas à m’orienter.
+Bien à vous et bon lundi

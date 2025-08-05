@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 13
+
+=== CONTENU ===
+07/03/2024, 17:33 - Yvelines: https://www.telemb.be/actu/neurooocom-ces-montois-qui-veulent-concurrencer-les-geants-de-la-traduction-en-ligne/34661?fbclid=IwAR0RQRSBtAYhxz56UxkFIgcOYUUQR3cnbhcTcDgfRvM71I6E2dc20oK0YoE
+07/03/2024, 19:13 - +33 6 60 44 14 13: <Médias omis>
+07/03/2024, 19:34 - ‎+216 58 454 374 est parti·e
+07/03/2024, 21:14 - +33 6 87 72 32 30: Bonsoir, je souhaiterais savoir si vous connaissez un outil ou prompt qui me permettrait de donner un scripts pour une vidéo animé et d'avoir une proposition de storyboards ou générer une vidéo animé (motion design)
+07/03/2024, 21:20 - Rochane: https://www.perplexity.ai/search/Bonsoir-je-souhaiterais-fczqPFpKR0iCw3uKDtevBw?s=m#7dccea3c-5a4a-4748-82c3-7b8a0ed7af07
+07/03/2024, 21:27 - +33 6 87 72 32 30: Merci Rochane, malheureusement les solutions proposées ne sont pas vraiment adaptées pour des vidéos éducative.  Je voulais trouver un outil qui aurait pu me donner une idée de comment expliquer certaines notions graphiquement
+07/03/2024, 21:30 - Rochane: Ok, moi j'utilise cet outil qui est payant mais qui répond sûrement à ton besoin https://invideo.io/
+07/03/2024, 21:33 - +33 6 87 72 32 30: Merci je vais regarder ça de plus prêt 👌
+07/03/2024, 21:36 - Ahmadou Ba: Vous @33687723230 vous avez consulter ce document, il propose des trucs intéressant ou bien ce n'est pas exactement ce que vous voulez ?
+07/03/2024, 21:43 - +33 6 87 72 32 30: La majorité des outils que j'ai trouvé propose des vidéos crée soit avec un avatar qui parle, soit en alignant des vidéos et des images. Je souhaitais plutôt un outil permettant de faire des vidéo de type dessin animé comme vyond etc.. ou qui peut me donner des pistes pour crée des vidéos de type vyond
+07/03/2024, 21:44 - +33 6 87 72 32 30: https://www.vyond.com/?utm_source=google&utm_medium=cpc&utm_campaign=Brand&utm_content=headline&utm_term=vyond
+07/03/2024, 21:48 - +32 498 78 46 36: Peut-être Powtoon ?
+07/03/2024, 21:49 - +32 498 78 46 36: Je l'utilisais avant l'arrivée de l'IA generative tout public mais je ne sais pas si le produit a évolué dans ce sens

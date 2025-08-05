@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 19
+
+=== CONTENU ===
+23/05/2025, 10:59 - +33 6 62 46 04 14: NotebookLm, Notion
+23/05/2025, 11:22 - +33 6 85 03 31 84: Merci pour ce GPT;
+j’ai fait un essai :
+l’intégration dans ANKI n’est pas faisable directement par ce GPT ou j’ai raté quelque chose …?
+23/05/2025, 11:41 - +33 6 52 49 10 78: Je copie/colle les liens qui m’intéressent - quand je suis dans un phase de vieille - en partageant dans une auto-conversation Whatsapp. Après ça, je me suis aidé de ChatGPT4o-mini-high pour me créer un script (automatisation) qui me permet de générer des « fiches » en .md (markdown) que j’intègre dans mon « Vault » Obsidian. Truc de geek - que je viens d etester à l’instant. Ce qui pour le moment ne me satisfait pas, c’est que j’ai beaucoup de lien Linkedin (d’articles, de posts) que ma clé API GPT n’arrive pas à lire. Je vais investiguer. Si jamais quelq’un à une idée pour que GPT puisse accéder à des liens Linkedin je suis preneur !
+23/05/2025, 11:49 - Clotilde IA: Ce message a été supprimé.
+23/05/2025, 11:51 - Clotilde IA: Je copie les liens des articles qui m’intéressent dans une carte d’un tableau Trello. Chaque colonne couvre une thématique différente, pour m’y retrouver facilement.
+À part urgences, j’ai un jour de la semaine où je traite tout ça plus en profondeur.
+23/05/2025, 11:55 - Jacques BARATTI: <Médias omis>
+23/05/2025, 11:54 - ‎~ Alban est parti·e
+23/05/2025, 11:55 - +33 6 85 03 31 84: Ok merci
+23/05/2025, 11:57 - Jacques BARATTI: <Médias omis>
+23/05/2025, 11:59 - +33 6 71 11 12 91: Notion, avec plusieurs bases selon le sujet (une spécifique aux LLMs, une autre plus généraliste, ...)
+23/05/2025, 12:00 - +33 6 85 03 31 84: Je lui ai demandé de générer une liste de verbes avec le nom et 1 dessin représentant le verbe ;
+Il m’a créé un genre de poster avec 1 dessin et le nom du verbe pour chaque verbe;
+Non exportable en CVS, bien sûr ;
+Limité à du texte pur pour le moment donc .
+Merci en tous cas
+23/05/2025, 12:05 - Jacques BARATTI: Ou l'exportation ne fonctionne qu'avec du texte, mais tu peux ensuite ajouter des images directement dans ANKI

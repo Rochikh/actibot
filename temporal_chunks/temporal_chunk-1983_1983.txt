@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 593
+Messages: 18
+
+=== CONTENU ===
+Je sollicite un accompagnement pour ce travail
+20/03/2025, 13:39 - +229 62 23 73 28: Bonjour @221761252915,
+J'espere que vous allez bien.
+N'hésitez pas si vous avez des préoccupations particulières pour mettre en place votre workflow sur n8n.
+20/03/2025, 14:32 - +33 7 86 61 52 66: <Médias omis>
+20/03/2025, 14:33 - +33 6 71 11 12 91: *Ajouter dans NotebookLM le prompt suivant, après avoir téléchargé le ou les documents à analyser :*
+This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode.
+No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language.
+Future translation into English is planned, but for now, the episode is French-exclusive.
+20/03/2025, 14:35 - +33 7 86 61 52 66: Super merci 🙏. Ça c’est de la réactivité 😅
+20/03/2025, 16:33 - Votre code de sécurité avec +33 6 99 18 30 68 a changé. Appuyez pour en savoir plus.
+20/03/2025, 17:38 - ‎~ Nikauw est parti·e
+20/03/2025, 17:58 - +33 6 25 79 50 95: Bonjour la communauté.
+Il m'a semblé entendre ce matin (France Inter/ Stéphane Jourdain) que Meta allait déployer dans les tous prochains jours son IA dans Messenger et dans WhatsApp  Concrètement, si j'ai bien compris on pourrait questionner leur IA (et non ChatGPT qui y était déjà). Ce que j'ai moins compris et c'est là où vous allez pouvoir m'éclairer sur les cas d'usages :
+1) est-ce que l'IA Meta permettrait à un participant d'un gpe WhatsApp de (re)trouver une information (à l'instar d'Actibot) et de se la faire réexpliquer autrement (si incomprise à la première lecture)
+2) est-ce que cette IA embarquée dans un fil de discussion entre apprenants et formateur.trices via WhatsApp pourrait constituer un premier niveau de tutorat "intelligent" (sans trop halluciner)
+Au plaisir d'avoir votre éclairage et d'en débattre ensemble
+20/03/2025, 18:02 - +33 6 76 04 48 20: J’ai entendu la même chose concernant uniquement WhatsApp, et d’après ce que j’ai compris suite aux explications qui ont été données à l’antenne,  l’IA dans ce cas remplacerait simplement un moteur de recherche : l’exemple qui a été pris était concernant un groupe de discussion composé de personnes qui sont en vacances à Barcelone et qui veulent avoir des informations touristiques.

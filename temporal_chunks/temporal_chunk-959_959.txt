@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 13
+
+=== CONTENU ===
+20/09/2024, 14:02 - Clément Cahagne: Le meilleur 🙂
+20/09/2024, 14:15 - +212 644-562660: Y a Audacity aussi. D'ailleurs Clément l'utilise pour ses montages, c opensource
+20/09/2024, 14:41 - Clément Cahagne: Oui Auphonic me fait juste une passe sur la qualité globale mais je monte l’ensemble avec Audacity <Ce message a été modifié>
+20/09/2024, 14:47 - +212 644-562660: Ah j'étais pas au courant que t'étais aussi dans le groupe. Content de te voir ici. J'en profite pour dire que je suis un grand fan de votre podcaste toi et Olivier. Passe une tres bonne journée !!
+20/09/2024, 14:59 - Jean-Marc Everard: Malheureusement Audacity interdit chez nous pour des problèmes de sécurité. Mais je vais tester. Selon moi, Adobe podcast effectivement super mais malheureusement payant (et je ne suis même certain qu'il soit dans la suite Creative Cloud, je vais vérifier).
+20/09/2024, 15:01 - Jean-Marc Everard: En effet. De plus effectivement au niveau RGPD etc, elle ne semble pas envisager des IA sur serveurs internes, ce qui est selon la solution à investiguer pour les administrations et certains services publics. Mais je sais que je ne suis pas forcément suivi sur ce point car il manque évidemment des ressources humaines IT dans le public.
+20/09/2024, 15:28 - ‎+33 6 76 95 01 78 a demandé à rejoindre le groupe.
+20/09/2024, 15:40 - ‎+33 6 76 95 01 78 a rejoint le groupe à partir de la communauté.
+20/09/2024, 15:53 - Rochane: Besoin de vérifier des infos ? 🤔 La Réponse Tech a lancé un numéro WhatsApp dédié ! 📲 Ecrivez au +33974991295 pour vérifier des faits  #VérificationDesFaits #InfosFiables https://wa.me/33974991295
+20/09/2024, 15:57 - +212 644-562660: vous connaissez des tools pour faire des enregistrements avec notre visage qui apparait en miniature dans un coin de la vid, on dit screencastomatic il semble
+20/09/2024, 16:04 - +33 6 85 18 84 20: Il y a Loom : https://www.loom.com/
+20/09/2024, 16:11 - Clément Cahagne: https://www.rdventerredigitale.com/post/episode-74-loom
+20/09/2024, 16:12 - +33 6 49 95 38 23: Obs

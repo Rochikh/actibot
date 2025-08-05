@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 12
+
+=== CONTENU ===
+11/04/2024, 11:45 - ‎+33 7 88 31 37 72 a rejoint ce groupe grâce à son lien d’invitation
+11/04/2024, 11:49 - Ahmadou Ba: C'est un débat interessant, mais je pensais que le masculin pluriel etait plus inclusifs que le feminin pluriel qui est carrement exclusif. Sije dis je demande de générer une image des etudiants : quel serait la bonne representation ?  Uniquement des garcons ou des garcons et des filles.
+11/04/2024, 11:52 - Ahmadou Ba: Dans bcp de langues non europeenne, pour indiquer le genre feminin, on ajoute carrément le terme femme ou fille au non tant que ce n'est pas fait on est dans l'inclusion avec une forte tendance de penser au masculin.
+11/04/2024, 11:53 - +32 484 68 10 13: Alors pour rendre ton prompt inclusifs tu dois vraiment être le plus précise possible . Mais intéressant je vais regarder ce que l'IA  génère avec le pluriel. Il y a aussi une distinction entre les IA gratuites et payantes. Tu auras plus de stéréotypes ds les gratuites . Mais plus facilement des censure ds les payantes
+11/04/2024, 11:55 - +33 6 49 84 08 41: Ça va se finir en thèse de doctorat ce bordel 🤣
+11/04/2024, 11:55 - +32 484 68 10 13: C'est pour ça que qd j'ai vu les prompts de Rochanes avec des grossiertés , j ai envie de bondir car il est quasi impossible de représenter une femme réaliste dite "grosse" en maillot de bain pour le politiquement correct
+11/04/2024, 11:56 - +32 484 68 10 13: Haha moi suis partante ! Le faire m'a vraiment donné envie de tout tout éplucher
+11/04/2024, 11:57 - +33 6 49 84 08 41: Ça me paraît colossal comme sujet 😳
+11/04/2024, 11:58 - +32 484 68 10 13: Même le ton des voix generatives, je vous invite à regarder la proportion de voix masculines et féminines et le ton employé ( frendly, calme ,naturel)
+11/04/2024, 11:58 - +33 6 49 84 08 41: Passionnant mais colossal
+11/04/2024, 11:58 - +32 484 68 10 13: Et professionnel j 'ai oublié
+11/04/2024, 12:00 - +32 484 68 10 13: Les femmes sont souvent associées à frendly et calm et tu as plus de ton professionnel pour les hommes

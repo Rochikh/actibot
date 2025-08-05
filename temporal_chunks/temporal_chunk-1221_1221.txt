@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 18
+
+=== CONTENU ===
+Le live est donc vers 18h? (je dois prévoir)
+12/11/2024, 16:00 - Jean-Marc Everard: Ah non non, il est à 20 h, heure de Paris/Bruxelles (GMT+1) mais j'enverrai déjà un rappel, et puis encore juste avant démarrer
+12/11/2024, 16:01 - +33 6 99 15 13 77: Ah ok, effectivement il faut que je m'organise et quelle durée? (désolé..)
+12/11/2024, 16:01 - Jean-Marc Everard: 1h environ
+12/11/2024, 16:05 - +33 6 99 15 13 77: Ok très bien, merci Jean-Marc 😊
+12/11/2024, 17:00 - Jacques BARATTI: A propos de NotebookLM merci @gregoire pour l'astuce pour avoir les podcast en français (ou sans doute tout autre langue mais je n'ai pas testé), ça fonctionne effectivement très bien. Par contre la durée de l'enregistrement audio ne semble pas modifiable (L'outil génère des podcasts de 10 min environ et je souhaiterais faire plus court). Est-ce que quelqu'un à une solution ? Merci par avance
+12/11/2024, 17:01 - Rochane: Tu as essayé dans la personnalisation de lui imposer le timing ?
+12/11/2024, 17:03 - Jacques BARATTI: oui bien sur avec des phrases du type "la durée de l'enregistremaent doit être de 3 min et cette durée ne doit pas etre dépassée" ça ne fonctionne pas
+12/11/2024, 17:04 - Rochane: https://youtu.be/pHW7JYUY7WM?feature=shared
+Effectivement, impressionnant pour ceux ou celles qui veulent créer des applications
+12/11/2024, 17:53 - Gregoire IA: j'allais justement te de le demande (le lien)
+chez moi c'est midi, alors je mange un bout et je vous rejoins
+12/11/2024, 17:57 - Gregoire IA: on va faire le test 😊
+12/11/2024, 18:34 - ‎+32 497 34 36 33 a demandé à ajouter Juliette Sciarrelli.
+12/11/2024, 18:37 - Jean-Marc Everard: Bon appétit ! le lien est celui-ci  et je le remettrai encore encore avant le live de 20h… https://bit.ly/3CmXwrq
+12/11/2024, 18:37 - Jean-Marc Everard: Euh.. 14h pour toi alors certainement.
+12/11/2024, 18:38 - ‎+32 497 34 36 33 a ajouté Juliette Sciarrelli
+12/11/2024, 19:13 - martinyemani IA: On pourrait enregistrer le son avec Audacity et faire le montage du podcast à sa convenance

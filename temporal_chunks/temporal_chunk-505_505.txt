@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 15
+
+=== CONTENU ===
+https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html
+12/05/2024, 18:45 - Rochane: Le passage sur l'esprit critique et la créativité dans l'IA est fort intéressant
+https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024
+12/05/2024, 21:16 - Thierry VANOFFE: Hello grosse semaine d'annonces IA en perspective, ça commence ce lundi soir avec OPEN AI. Ludo Salenne fait un live le lundi 13 mai à 21H pour en discuter : https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAAAdxfk8BjNfV0uOhVJwDxQbuUq9nCkQqERw%22%5D&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAdxfk8BjNfV0uOhVJwDxQbuUq9nCkQqERw&keywords=ludovic%20salenne&position=0&searchId=1fbf8c43-ac7b-4b92-ba1a-c56307213632&sid=uY%2C&sortBy=%22date_posted%22&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7195460072133591040%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse) et du côté de mardi 14 mai conférence Google IO à 19H
+13/05/2024, 12:26 - Guillaume Singeot: On commence à voir apparaître des référencements IA en fonction des métiers et des secteurs d'activités.
+Ne vous arrêtez pas à la première infographie 😉
+https://www.levoicelab.org/voix-langage/cartographie/
+13/05/2024, 15:10 - ‎+40 736 879 637 est parti·e
+13/05/2024, 20:31 - Rochane: https://videopress.com/v/J9iZHGJf
+OpenAI a lancé GPT-4o, une version omni-modale de son IA capable de traiter texte, audio et image. Ce modèle réagit aux inputs audio en 232 millisecondes et améliore la reconnaissance vocale, la traduction, et la performance textuelle. GPT-4o intègre également des mesures de sécurité renforcées et promet des applications plus intuitives et immersives pour la technologie et le développement.
+13/05/2024, 20:32 - +32 479 58 54 12: Vu les annonces de ChatGPT  quel est encore l'intérêt du payant 🤔
+13/05/2024, 20:40 - Rochane: La conf d'Openai de ce soir
+Résumé éducatif de Introducing GPT-4o par Video Summarizer:
+Durée de l'analyse: 00:00:15 - 00:26:05
+🚀 Nouveau Modèle: GPT-4o

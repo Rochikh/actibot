@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 16
+
+=== CONTENU ===
+26/01/2025, 11:06 - +33 6 72 75 43 48: Merci j’ai testé sympa en effet 👍
+26/01/2025, 11:11 - +33 7 63 58 01 55: À propos de Chine, je viens de tomber sur ce document : "Critiques chinoises des LLMs"
+https://www.linkedin.com/posts/ctkraft_chinese-critiques-of-llms-ugcPost-7288730154929958913-wVhM?utm_source=share&utm_medium=member_android
+26/01/2025, 11:12 - +33 7 63 58 01 55: Synthèse par ChatGPT :
+Le document "Chinese Critiques of Large Language Models" explore les critiques formulées par des chercheurs chinois sur les modèles de langage à grande échelle (LLMs) et leur capacité à atteindre l'intelligence artificielle générale (GAI). Voici une synthèse des points principaux :
+Contexte et Problématique
+Les LLMs, bien qu'impressionnants pour générer des réponses naturelles et automatiser des tâches, sont critiqués pour leurs lacunes : coût énergétique élevé, hallucinations, faiblesses en raisonnement, et manque d'intégration de valeurs humaines.
+Aux États-Unis et en Europe, le développement de l'IA se concentre principalement sur les LLMs, ce qui pourrait limiter l'exploration d'approches alternatives.
+Approche Chinoise
+Contrairement à l'Occident, la Chine adopte une approche diversifiée et soutenue par l'État pour atteindre la GAI.
+En plus de développer ses propres LLMs, la Chine investit dans des approches inspirées du cerveau humain, de l'interaction environnementale, et des algorithmes biologiques.
+Critiques Chinoises des LLMs
+Des scientifiques chinois de premier plan estiment que :
+1. Les LLMs ne peuvent pas à eux seuls reproduire l'intelligence humaine, car ils manquent d'incarnation dans le monde réel et de capacités cognitives comparables au cerveau humain.
+2. Les modèles basés sur de grandes quantités de données ne permettent pas d'acquérir des capacités d'abstraction, de raisonnement causal ou de transfert de compétences.
+3. Il est nécessaire d'intégrer des principes biologiques et des mécanismes d'apprentissage inspirés du cerveau pour surmonter ces limites.

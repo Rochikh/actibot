@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 13
+
+=== CONTENU ===
+13/05/2025, 16:20 - ‎+33 6 74 89 34 59 a rejoint ce groupe grâce à son lien d’invitation
+13/05/2025, 16:20 - ‎+1 (778) 812-2423 a rejoint ce groupe grâce à son lien d’invitation
+13/05/2025, 16:45 - +32 475 86 01 57: Copilot est à la ramasse pour l instant...
+13/05/2025, 16:50 - Ahmadou Ba: Ah je dirais pas il est integré à la suite office, on peut creer des agents, copilot studio permet de faire des automatisations. C vraiment top pour tous les nuls en code comme moi. Et puis il roule au GPt 4o.
+13/05/2025, 16:54 - +32 475 86 01 57: Les agents sont vraiment pas top. C est le gros point négatif pour moi. Et vraiment l intégrer à son eco système 365 demande une licence payante supplémentaire qui est la plus chère du marché.
+13/05/2025, 17:03 - Ahmadou Ba: C chair la licence mais nous avons une adresse institutionnelle qui nous permet d'y acceder sans bien entendu l'integreation complete aux outils mais il est present dans le gauffrier des app. C'est vrai que les agents sont trés basique mais pour des tâches simples cela fait le job.
+13/05/2025, 17:04 - +32 475 86 01 57: Il me semble qu avec une licence Google payante on a accès a mieux 😉
+13/05/2025, 17:06 - Ahmadou Ba: Oui integrer à tous les outils 0365. Mais je dois arreter mon abonnement GPT, c'est Google One que je choisirais pour un full accès a gemini et les outils googles workspace.
+13/05/2025, 17:50 - Rochane: Est-ce que quelqu'un peut me faire un retour des agents IA avec une simple licence copilot ( non payante) ?. Mes collègues m'ont dit que la fonctionnalité est disponible
+13/05/2025, 17:54 - +32 475 86 01 57: Oui mais bof... Après j ai l impression que ça va evoluer
+13/05/2025, 17:55 - +32 475 86 01 57: Et la dernière fois que j ai mis les doigts dedans c etait il y a une quinzaine de jours
+13/05/2025, 18:09 - Benoit Groupe gPT: Vu sur un autre groupe, un comparatif bien fait :
+13/05/2025, 18:09 - Benoit Groupe gPT: https://agence-acoma.fr/meilleurs-assistants-ia-2025-le-comparatif-complet-chatgpt-gemini-claude-copilot

@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 8
+
+=== CONTENU ===
+15/07/2024, 14:42 - Fred IA: Selon OpenAI, ChatGPT se situe actuellement entre le niveau 1 et le niveau 2. Sam Altman affirme que d'ici 5 ans, on pourra parler d'AGI après le niveau 5 (la plupart des chercheurs estiment plutôt ce délai à 10 ans). https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are
+15/07/2024, 14:56 - +33 6 76 04 48 20: Ça devient impressionnant
+15/07/2024, 14:57 - Clément Cahagne: resonnance.ai : n’existe pas 🧐
+15/07/2024, 15:00 - Rochane: sorry : https://relevanceai.com/api
+15/07/2024, 16:05 - Pierrick: Bonjour, sauriez-vous si un travail global mutualisé est fait ou à venir soit au niveau du ministère soit en inter-établissement, Comue ... pour proposer aux établissement du supérieur des resources ou parcours de formations , moocs validés pour accompagner la sensibilisation des étudiants aux enjeux de l'IA (formation , risques, éthiques environnementaux ...) . Nous travaillions de notre côté mais le sujet me paraît éminemment collectif. J'ai vu du côté de PIX mais pour le moment il faut attendre (voir CR en PJ) . Dans l'attente de vous lire Merci Pierrick https://eu1.easiware.fr/pix/go.aspx?u=/CRM/DWL&uid=guest&pm=6&col=ffffff&ulg=2&MediaUID=EMAIL-O2CQ2MCV402Q25E2C5B2EJH526H
+15/07/2024, 16:12 - Letizia ALLEGRINI: Bonjour la CREIA émanation du MENJ et de la DNE va proposer à la rentrée différents parcours magistere en inscription libre de formation sur l IA. Vous pourrez vous découvrir l'histoire de l IA mais aussi des formations sur le prompt des tutoriels...j'ai eu la chance de créer 4 parcours sur les agents conversationnels ou chatbots : un parcours généraliste pourquoi et comment intégrer des chatbots en classe et 3 micronmodules sur les 3 catégories de chatbots (llm, rag, algorithmique) Vous y trouverez des exemples concrets avec des retours d'expériences et des tutoriels.
+15/07/2024, 16:22 - +33 7 83 16 44 23: Bonjour, uniquement accessible sur Magistère ?
+15/07/2024, 16:23 - Letizia ALLEGRINI: Oui pour l'instant il me semble

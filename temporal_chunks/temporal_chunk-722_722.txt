@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 568
+Messages: 13
+
+=== CONTENU ===
+14/07/2024, 19:45 - +222 46 48 18 36: ❤️
+14/07/2024, 19:59 - Rochane: On voulait faire avec Lio un live spécial sur l'IA et la créativité mais avec les congés, on va attendre la rentrée puis on reprendra aussi notre rythme de croisière 🙂
+14/07/2024, 20:01 - +33 6 76 04 48 20: Ok, merci.
+L’idée était émise de parler également de l’évaluation…
+14/07/2024, 20:04 - Rochane: Exactement et ce sera d'ailleurs l'objet d'une expérimentation avec l'IA agentique ( multiagents)que je vais mener cet été avec un cas d'usage sur l'évaluation 🙂
+14/07/2024, 20:45 - +32 493 87 42 05: Ce message a été supprimé.
+14/07/2024, 20:47 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+14/07/2024, 20:51 - +33 6 76 04 48 20: IA agentique ? Je ne connais pas, je vais me renseigner…
+14/07/2024, 20:58 - +32 493 87 42 05: Bjr est-ce que quelqu'un s'y connaît en création de   dessin animé pour enfant et accepterai de me prendre sous son aile? Je suis perdu en chemin et je tourne en rond. Je suis surtout bloquée au niveau des images à animer en vidéo. J'ai utilisé deux IA Luma IA et  inVideo mais sans succès. Je galère tjs. Peut qu'il faut autres logiciels ??? Merci par avance!
+15/07/2024, 09:29 - Jacques BARATTI: C'est le nouveau modèle attendu de chez OpenAI (GPT5?) qui comprendrait des "agents" (d'où le nom agentique) spécialisés dans différentes taches
+15/07/2024, 09:37 - Rochane: Les agents d'IA sont des coéquipiers d'IA qui effectuent des tâches en mode pilote automatique. Ils peuvent être munis de connaissances spécialisées dans un domaine ainsi que d'outils. Ces agents ont la capacité de raisonner lorsqu'on leur confie une tâche et de prendre des décisions dynamiques sur les mesures à prendre pour la mener à bien. Ils sont adaptatifs et flexibles comme les humains si je puis dire 🙂
+L'outil sur lequel je m'entraîne s'appelle resonnance.ai <Ce message a été modifié>
+15/07/2024, 14:42 - Fred IA: Selon OpenAI, ChatGPT se situe actuellement entre le niveau 1 et le niveau 2. Sam Altman affirme que d'ici 5 ans, on pourra parler d'AGI après le niveau 5 (la plupart des chercheurs estiment plutôt ce délai à 10 ans). https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are

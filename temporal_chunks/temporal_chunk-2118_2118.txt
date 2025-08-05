@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 15
+
+=== CONTENU ===
+avec David ROMEUF
+Comparaison et configuration de système RAG
+https://youtu.be/45Rmouhs1qg
+➡️ Évaluation des Systèmes RAG: David ROMEUF  présente une évaluation de plusieurs systèmes RAG, en testant différentes configurations et  en faisant varier leurs paramètres pour déterminer les meilleures performances.
+Il les teste avec différents modèles d'intégration, de génération de réponses, et de reclassement.
+➡️ Protocole d'évaluation RAG: David Romeuf présente son protocole de test avec différentes configurations et paramètres, et David utilise comme contenu pour ces tests, des articles scientifiques en astrophysique.
+Il a mis en place un jeu de question et un grille analyse pour évaluer la pertinence des réponses
+( Grille programmée en python )
+➡️ Comparaison des Configurations: David ROMEUF a comparé les performances des systèmes RAG en utilisant différents modèles d'intégration, de génération de réponses, et de reclassement :
+1️⃣modèles intégration: David a comparé les performances des systèmes RAG en utilisant différents modèles d'intégration, comme BGEM 3 et Multilingual 5, montrant que ces modèles sont efficaces pour les requêtes en français sur des données en anglais.
+2️⃣ modèles génération: David a conclu que les grands LLM comme Deepseek et GPT-4 offrent les meilleures réponses, avec des performances supérieures aux petits LLM.
+3️⃣ modèles reclassement: David a analysé l'impact des modèles de reclassement, montrant que le re-ranking améliore les résultats, surtout avec des bases de données larges.
+➡️ Stratégies de Découpage: David ROMEUF  a analysé les différentes stratégies de découpage des documents, concluant que le découpage en tokens avec recouvrement est généralement le plus efficace.
+1️⃣Stratégies Chunking : David a analysé les différentes stratégies de découpage des documents, comme le découpage en tokens, en caractères, et en sections, et a conclu que le découpage en Tokens avec recouvrement est généralement le plus efficace.
+2️⃣tests découpage: David a testé des configurations avec différents nombres de tokens et de recouvrements, montrant que le découpage en 250 tokens avec 50 tokens de recouvrement offre les meilleurs résultats.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 15
+
+=== CONTENU ===
+14/11/2023, 21:29 - Rochane: C'est un peu la question que je viens de lui poser en l'invitant pour passer ne serait ce que 10 min lors de notre meeting de jeudi. Je 🤞 pour qu'il vienne 🙂
+14/11/2023, 21:30 - Jacques BARATTI: espérons qu'il sera avec nous car il est au top !
+14/11/2023, 21:40 - Laurent The Cure: Merci pour les partages des visuels sur les prompts, de vos expériences et de la vidéo.
+14/11/2023, 21:42 - Lucie: Voici un exemple de megaprompt : Tu es un analyste qui travailles au service fraude, tu dois comparer d'immenses corpus de documents afin d'identifier d'éventuelles anomalies. En tant qu'assistant, tu vas m'aider à :
+1. Établir les points de vigilance essentiels avant de commencer l'analyse.
+Pour cela, tu me poseras les questions unes après les autres afin de préciser :
+- Les types de documents à comparer (factures, contrats, correspondances, etc.).
+- Les critères de comparaison (dates, montants, signatures, mentions légales, etc.).
+- Les indicateurs d'anomalies connus (écarts significatifs, incohérences, éléments manquants, etc.).
+- Les contextes spécifiques à chaque document qui pourraient influencer l'analyse (changements de législation, de politique interne, etc.).
+2. Une fois ces informations recueillies, tu procéderas à l'analyse comparative et me présenteras les résultats sous forme d'un tableau structuré comme suit :
+- En-tête du tableau : Document, Critère de comparaison, Observation, Indicateur d'anomalie, Note de l'analyste.
+- Corps du tableau : Chaque ligne correspondra à un document analysé avec les détails des observations pour chaque critère de comparaison, les indicateurs d'anomalie relevés et tes notes explicatives.
+3. En fin de tableau, tu fourniras un résumé des anomalies détectées, en soulignant les documents nécessitant une attention particulière et en proposant les prochaines étapes pour une investigation approfondie.
+14/11/2023, 21:42 - Enes Cornelis: Bonjour, je viens tout juste de rejoindre le groupe, pourriez-vous m’envoyer les visuels sur les prompt ? Merci

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 12
+
+=== CONTENU ===
+07/02/2025, 10:08 - Francois Bocquet: 3 modèles sont disponibles gratuitement et avec conservation de l’historique
+07/02/2025, 10:18 - Francois Bocquet: Mistral 8x7b, ChatGPT 4.0mini et Llama 3
+07/02/2025, 10:19 - +33 6 79 72 76 62: Un truc comme ca ? Ou ce n'est pas assez détaillé ? https://chatgpt.com/canvas/shared/67a5cfa6504081918e2578bd79bbd7e0
+07/02/2025, 10:22 - Votre code de sécurité avec Hadjer a changé. Appuyez pour en savoir plus.
+07/02/2025, 10:33 - Francois Bocquet: C’est une première base ! La base légale n’est pas la bonne. Il faut utiliser celle de l’article 6.1-e (réalisation d’une mission de service public). Dans ce cas pas de droit de suppression (ni de consentement). Dans les risques manquent les accès aux journaux d’utilisation et aux contenus apportés par les utilisateurs. Crée un GoogleDoc et je te propose les corrections et améliorations si tu veux. Attention l’analyse d’impact doit être visée par le DPD (pour avis) et validée par le chef d’établissement
+07/02/2025, 10:33 - Francois Bocquet: Préciser également que l’accès au service n’est possible que depuis les machines de l établissement
+07/02/2025, 10:34 - Francois Bocquet: Contrainte à l’utilisation : les élèves doivent toujours utiliser les mêmes machines pour retrouver leur historique sauf si installation d’une instance sur le serveur d’établissement (qui doit être assez puissant).
+07/02/2025, 10:40 - +33 6 79 72 76 62: merci de prendre ce temps : https://docs.google.com/document/d/1kND36_qZY2k0d5HhdYgqC3P0puu5Nsc8M6X2OSHEIx8/edit?usp=sharing
+07/02/2025, 10:47 - +33 7 44 72 54 02: Bonjour . En direct ce matin: Table ronde ministérielle de haut niveau : L'IA en éducation : quel cadre pour quels usages ?
+https://www.youtube.com/live/7AQW39V4XFk
+07/02/2025, 10:51 - +44 7776 747507: Merci @33744725402 et à @33687100167 qui l'avait transmis également!
+07/02/2025, 10:56 - +33 6 66 98 84 23: Bonjour, c'est sur que l'utilisation de DDG est intéressante du point de vue RGPD mais hélas nous ne poubons déposer des fichiers ce qui limite certains usages.

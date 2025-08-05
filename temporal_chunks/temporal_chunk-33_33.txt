@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+31/10/2023, 12:59 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 31/10 20h-21h :
+https://us06web.zoom.us/j/81276204849?pwd=5KLWiYAFf5xxwF3qT2IB5aPEAbbUUt.1
+Meeting ID: 812 7620 4849
+Passcode: 204873
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaitre de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+Je reposterai ce message mardi vers 18h pour les nouveaux inscrits.
+31/10/2023, 13:00 - Rochane: Y a un nouveau truc dans Padlet, c'est la possibilité de partager des images avec la fonctionnalité "je ne sais pas dessiner" sur une contribution, à partir d'un prompt
+31/10/2023, 13:13 - Rochane: <Médias omis>
+31/10/2023, 13:15 - Luc deleplanque: Oui il y a quelques petits avantages d’un côté comme de l’autre … mais si l’on considère que c’est avant tout un centralisateur et non un outil de Prod … cela ne pose pas vraiment problème… le fait qu’il soit indépendant, gratuit et responsable reste le plus de la Digitale … mais je peux répercuter le même mur sur Padlet que j’utilise aussi en version Pro … 😉🤜🤛
+31/10/2023, 13:15 - Rochane: Non non, c'est vraiment parfait comme ça 🙂
+31/10/2023, 13:20 - Ahmadou Ba: https://www.forefront.ai/
+31/10/2023, 13:22 - Rochane: Vous avez supprimé ce message
+31/10/2023, 13:22 - Ahmadou Ba: Il permet d’accéder à Claude AI sans avoir à s’enregistrer. On s’enregistre qu’une seule fois et on accède à ChatGPT et à Claude
+31/10/2023, 13:25 - +33 7 71 20 50 67: Parmi tous ces outils, si j'ai un sujet de formation. Quel outil utiliser pour : 1 écriture des objectifs 2 déroulé pédagogique condensé 3 déroulé pédagogique détaillé et timé 4 exercices 5 diapos avec contenu apprenants et diapos avec contenus formateur 6 quiz

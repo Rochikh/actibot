@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 18
+
+=== CONTENU ===
+04/08/2024, 08:51 - ‎+216 46 501 595 a rejoint ce groupe grâce à son lien d’invitation
+04/08/2024, 08:51 - ‎+32 478 56 95 84 a rejoint ce groupe grâce à son lien d’invitation
+04/08/2024, 08:51 - ‎+212 663-355928 a rejoint ce groupe grâce à son lien d’invitation
+04/08/2024, 09:06 - ‎+32 478 30 64 79 a rejoint ce groupe grâce à son lien d’invitation
+04/08/2024, 09:07 - Pierrick BRIAND: https://www.linkedin.com/posts/arnaudforward_je-viens-de-regarder-un-court-m%C3%A9trage-de-ugcPost-7225233259620642816-GxFk?utm_source=share&utm_medium=member_ios
+04/08/2024, 09:14 - ‎+852 5530 1861 a demandé à rejoindre le groupe.
+04/08/2024, 09:25 - Votre code de sécurité avec +216 97 673 413 a changé. Appuyez pour en savoir plus.
+04/08/2024, 09:31 - ‎+852 5530 1861 a rejoint ce groupe grâce à son lien d’invitation
+04/08/2024, 12:10 - Rochane: https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/pourquoi-l-ia-generative-devient-elle-efficace-d-un-coup_179239
+L'article de Sciences et Avenir aborde un phénomène intéressant dans le domaine de l'intelligence artificielle générative appelé "grokking", identifié par les ingénieurs d'OpenAI en 2022[1][2]. Ce phénomène explique pourquoi l'IA générative semble soudainement devenir efficace après une longue période d'entraînement apparemment infructueuse.
+Voici les points clés de l'article :
+1. **Le processus d'entraînement**
+- L'entraînement se fait sur un type d'algorithme appelé "transformeur", qui est à la base des grands modèles d'IA générative comme GPT d'OpenAI[1][2].
+- L'entraînement se déroule en périodes appelées "epochs".
+2. **Le phénomène de "grokking"**
+- Pendant de nombreuses périodes d'entraînement (des dizaines de milliers), les résultats ne sont pas particulièrement impressionnants[1][2].
+- Les ingénieurs continuent l'entraînement avec les mêmes données et le même algorithme, sans changement.
+- Soudainement, après cette longue période apparemment stérile, la qualité des résultats s'améliore drastiquement[1][2].

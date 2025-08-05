@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 19
+
+=== CONTENU ===
+17/05/2024, 04:58 - +689 89 60 06 24: Il y a de très bons modules du CNED Digitaliser vos formations
+https://www.cned.fr/qualifications-professionnelles/digitaliser-vos-formations
+17/05/2024, 07:20 - Pierrick BRIAND: Merci beaucoup Guillaume pour cette information, mais je tiens à attirer votre attention.
+L'AI Act doit encore être formellement approuvé par le Conseil de l'UE. La publication au Journal Officiel de l'UE est attendue entre mai et juillet 2024.
+L'AI Act entrera en vigueur 20 jours après sa publication et la plupart de ses dispositions s'appliqueront 24 mois plus tard, sauf :
+L'interdiction de certains systèmes d'IA à haut risque s'appliquera après 6 mois
+Les codes de conduite après 9 mois
+Les règles sur les systèmes d'IA à usage général après 12 mois
+Les obligations pour les systèmes à haut risque après 36 mois.
+Le document est hébergé sur le site ai-regulation.com qui n'est pas un site officiel des institutions européennes. Les textes législatifs officiels sont normalement publiés sur le site EUR-Lex.
+Le titre indique "Texte de compromis" (ToC signifiant "Table of Compromise"). Or le texte définitif adopté par le Parlement le 13 mars 2024 n'est plus un "compromis" mais la version finale.
+La mise en page et le formatage ne correspondent pas aux standards des documents législatifs officiels de l'UE.
+Aucune mention des dates et résultats du vote au Parlement européen, qui sont normalement indiqués pour les textes définitifs.
+Il faut donc attendre la publication au Journal Officiel de l'UE après l'approbation formelle par le Conseil, prévue dans les prochains mois. Les documents de travail intermédiaires n'ont pas de valeur juridique.
+17/05/2024, 07:27 - +33 6 22 42 57 92: https://chat.openai.com/chat
+17/05/2024, 07:27 - Pierrick BRIAND: Bonjour @33662364404
+Ton sujet m’a interpellé, tu as raison et je tenais à compléter tes propos.
+Le RGPD dit que les entreprises ne peuvent transférer tes données perso hors UE que si :
+1. Le pays de destination a été reconnu par l'UE comme ayant un bon niveau de protection des données. C'est le cas par exemple du Canada, d'Israël, du Japon ou du Royaume-Uni. Et depuis juillet 2023, les États-Unis ont aussi obtenu ce "feu vert", mais seulement pour certains transferts.

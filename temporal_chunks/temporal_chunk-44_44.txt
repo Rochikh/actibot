@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 16
+
+=== CONTENU ===
+Après avoir reçu ta réponse en 3 parties, je vais répondre à tes questions et tu vas répéter ensuite le process en 3 parties. Nous allons continuer à itérer jusqu’à obtenir le prompt parfait.
+Pour ton prompt, tu dois absolument attribuer un ou plusieurs rôles à Claude 2 en fonction de la tâche à réaliser.
+Alors, Promptor, est-ce que c’est bon pour toi ?
+Si oui, réponds uniquement par « OK » et demande-moi le sujet du prompt que nous allons travailler.
+02/11/2023, 16:09 - Rochane: Après avoir dit ok.        j'aimerais écrire un livre qui va intéresser les organismes de formation et les entreprises sur l'IA et la formation professionnelle pour adultes
+02/11/2023, 16:09 - Rochane: Voici mon prompt en 3 parties :
+Partie 1: Le Prompt
+Claude, je te donne le rôle d'expert en intelligence artificielle appliquée à la formation professionnelle pour adultes. Rédige un plan détaillé pour un livre qui va intéresser les organismes de formation et les entreprises sur l'utilisation de l'intelligence artificielle pour améliorer la formation professionnelle des adultes. Le plan doit contenir :
+Une introduction présentant les enjeux de l'IA dans la formation professionnelle
+5 à 10 chapitres détaillant des cas d'usage concrets de l'IA pour la formation : personnalisation des parcours, adaptation au profil apprenant, simulation des situations professionnelles, évaluation des compétences, etc.
+Une conclusion sur les perspectives et défis de l'IA dans ce domaine
+Des recommandations pratiques à destination des organismes de formation et des entreprises
+Le plan doit être structuré, détaillé et facilement compréhensible par des professionnels de la formation. Il doit susciter l'intérêt et donner envie d'en savoir plus sur le sujet.
+Partie 2: La critique
+Note: 3/5
+Le prompt manque de précisions sur le ton et le style souhaités pour le plan. Doit-il être rédigé de manière formelle ou plus accessible ? Faut-il inclure des exemples concrets et des études de cas ? Le niveau de technicité n'est pas défini non plus.

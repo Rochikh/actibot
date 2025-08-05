@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 14
+
+=== CONTENU ===
+23/04/2024, 08:47 - +33 7 49 40 50 92: Un très bon papier de Mollick & Mollick (encore) sur le prompt engineering et l'innovation en éducation, avec de beaux exemples. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802463
+23/04/2024, 09:29 - Lucie: Merci pour la ressource. Conservez la précieusement car à un moment leurs papiers deviennent payant. Je vais lire ça avec attention.
+23/04/2024, 09:30 - Lucie: <Médias omis>
+23/04/2024, 10:20 - ‎+33 6 87 72 32 30 est parti·e
+23/04/2024, 10:53 - +33 6 20 97 18 83: @33623620347 Bonjour Emmanuelle, je suis ingénieur pédagogique et en parallèle enseignante d'anglais. Votre tentative m'a interpellée. Peut-être  qu'il faudrait preciser dans le prompt les attendus du niveau CECRL pour lequel vous souhaitez avoir  une production.  Je ne sais pas si c'est deja ainsi que vous aviez procédé. Je compte travailler un test de positionnement de mes étudiants pour la rentrée prochaine en utilisant les attendus du CERLC. La formation qu'ils suivent est assez singulière (licence pluridisciplaire sportif de haut niveau) . Pourriez-Vous me dire si vous retentez  si vous avez réussi à obtenir un résultat satisfaisant.
+23/04/2024, 12:15 - Jean-Marc Everard: Bonjour à toutes, bonjour à tous. Est-ce que quelqu’un saurait comment tester Llama 3? Est-ce uniquement sur un serveur propre ou y a-t-il une interface quelque part?
+23/04/2024, 12:17 - +34 618 97 47 94: @32496968742 tu peux tester sur BlueGPT et comparer avec d'autres
+23/04/2024, 12:17 - Guillaume CLEMENT: Safebrain 😉 <Ce message a été modifié>
+23/04/2024, 12:17 - +34 618 97 47 94: https://bluegpt.app/
+23/04/2024, 12:18 - +34 618 97 47 94: <Médias omis>
+23/04/2024, 12:20 - Jean-Marc Everard: Merci beaucoup à tous les 2!
+23/04/2024, 12:37 - +33 6 49 84 08 41: <Médias omis>
+23/04/2024, 12:39 - Clément Cahagne: <Médias omis>
+23/04/2024, 12:40 - +33 6 89 06 86 68: Tu peut le tester en te connectant gratuitement sur https://groq.com la rapidité de reponse y est impressionnante car ils utilisent une infra informatique ultra optimisé pour l'IA

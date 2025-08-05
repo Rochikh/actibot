@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 18
+
+=== CONTENU ===
+10/09/2024, 15:01 - +212 644-562660: y a seeker ai aussi ca marche avec claude sonnet pour 20 euros
+10/09/2024, 15:03 - Ahmadou Ba: ton bot est crée avec outil ?
+10/09/2024, 15:03 - +33 6 14 90 22 14: Bonjour à tous pour faire de la transcription vidéo to texte sur des fichiers volumineux que me conseillez vous ?
+10/09/2024, 15:07 - +212 644-562660: https://thewh1teagle.github.io/vibe/
+10/09/2024, 15:10 - +33 6 14 90 22 14: Merci je vais regarder
+10/09/2024, 15:15 - +33 6 72 75 43 48: Je viens de tester très concluant pour ma part 😉🙏
+10/09/2024, 15:35 - ‎+41 76 372 28 94 a demandé à rejoindre le groupe.
+10/09/2024, 15:46 - Jean-Marc Everard: Je viens de tester pour un outil permettant d'extraire un transcript sous forme de sous-titres, les traduire et ré-injecter et synchroniser les sous-titres traduits. Les propositions me semblent vraiment pas mal. Si cela intéresse quelqu'un je pourrai faire ici un petit compte rendu de mes expérimentations à ce sujet, sachant que j'ai Adobe Première aussi. ... Mais donc actibot est très bien. Merci 🙏
+10/09/2024, 15:58 - ‎+41 76 372 28 94 a rejoint le groupe à partir de la communauté.
+10/09/2024, 16:00 - +33 6 49 84 08 41: Top ! Tu as fait ce bot avec quel outil ?
+10/09/2024, 16:00 - Rochane: Claude, Make, OpenAi ( assistant) et carrd 🙂
+10/09/2024, 17:04 - Jacques BARATTI: <Médias omis>
+10/09/2024, 17:04 - Jacques BARATTI: <Médias omis>
+10/09/2024, 17:05 - ‎~ Amal Mahious est parti·e
+10/09/2024, 17:07 - Gregoire IA: Je vois passer un message qui est en lien avec l'éducation ? 😯
+pour les plans de cours j'avais développé un BOT sur POE.com : https://poe.com/Novagogie_courseplan <Ce message a été modifié>
+10/09/2024, 17:09 - Gregoire IA: Si vous avez d'autres besoins pour développer des contenus de formation faites moi signe. Il y a aussi ma chaine qui aborde ce que l'IA permet (et ne permet pas) : https://www.youtube.com/@novagogie
+10/09/2024, 17:12 - Gregoire IA: S'il y a des férus de Dubstep 🎧 voila un titre qui illustre 2 vidéos que j'avais pu produire sur des dangers de l'IA https://youtu.be/Nxt5ucnJV5w?si=NbaY7wNoi1ttNOZx

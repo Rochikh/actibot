@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 32
+
+=== CONTENU ===
+Rencontrer d'autres personnes intéressées par l'IA.
+Développer un esprit critique face aux technologies.
+En résumé, les Cafés IA sont une initiative unique en France qui permet de démocratiser l'intelligence artificielle et de favoriser le débat autour de cette technologie.
+21/11/2024, 16:38 - Rochane: Intéressant : Différence entre RAG et RIG 😁
+https://www.journaldunet.com/intelligence-artificielle/1536601-rag-vs-rig-quel-systeme-choisir-pour-ameliorer-son-ia/
+Le RAG et le RIG représentent deux approches distinctes pour améliorer les performances des modèles de langage (LLM), chacune avec ses propres caractéristiques et cas d'usage.
+## Fonctionnement des deux approches
+**Le RAG (Retrieval Augmented Generation)** fonctionne de manière linéaire en trois étapes :
+- Conversion de la question en vecteur numérique
+- Recherche des documents pertinents
+- Génération de la réponse en une seule fois[1]
+**Le RIG (Retrieval Interleaved Generation)** adopte une approche interactive et itérative :
+- Le modèle formule lui-même des requêtes structurées
+- Il s'interrompt pour chercher des informations précises pendant la génération
+- Il intègre progressivement les données trouvées dans sa réponse[1]
+## Avantages et inconvénients
+**Avantages du RIG :**
+- Réponses plus pertinentes et mieux documentées
+- Capacité d'identifier les besoins en information au fil de la réponse
+- Réduction de la dépendance aux grands jeux de données préentraînés[3]
+**Limitations du RIG :**
+- Implémentation technique complexe
+- Coût computationnel plus élevé
+- Temps de latence légèrement supérieur[1]
+## Cas d'usage appropriés
+| RAG | RIG |
+|-----|-----|
+| Requêtes simples et factuelles | Requêtes complexes nécessitant plusieurs sources |
+| Documentation textuelle peu complexe | Interaction avec bases de données structurées |
+| Chatbots généralistes | Agents spécialisés |
+| Réponses rapides | Analyses approfondies |[1]
+Pour les entreprises, le choix entre RAG et RIG dépendra principalement de la complexité des cas d'usage et des ressources disponibles. Le RAG reste la solution la plus adaptée pour des besoins généraux, tandis que le RIG excelle dans des situations nécessitant une précision accrue et une interaction plus sophistiquée avec les données[1].

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 21
+
+=== CONTENU ===
+13/02/2025, 19:26 - Rochane: Vous avez supprimé ce message
+13/02/2025, 19:30 - +34 670 25 08 22: <Médias omis>
+13/02/2025, 19:44 - +33 6 52 73 73 42: Le podcast de Notebook LM propose une version bêta pour rejoindre la discussion.
+Quelqu'un à t'il déjà testé !?
+J'ai voulu tenter mais cela moulinait après avoir interrompu le podcast et après m'avoir laissé poser ma question.
+Le traitement est-il (très) long ou bien la version bêta n'est pas stable (ce qui semblerait logique puisque version bêta !).
+Précision j'ai fait plusieurs tests avec ma question formulée en anglais et en français, mon podcast, lui, est en français.
+Merci pour vos retours.
+13/02/2025, 19:45 - Votre code de sécurité avec +212 690-281034 a changé. Appuyez pour en savoir plus.
+13/02/2025, 19:47 - Votre code de sécurité avec +212 690-281034 a changé. Appuyez pour en savoir plus.
+13/02/2025, 20:11 - Gregoire IA: Oui, ça bugue tout le temps 😅
+Et quand ça fonctionne, les animateurs reparlent en anglaise.
+Du vrai bêta 🫏
+13/02/2025, 20:24 - +33 6 52 73 73 42: On va patienter encore un peu ! 😅
+13/02/2025, 20:34 - Rochane: Perso, je l'ai testé en anglais plusieurs fois en me présentant, les animateurs m'ont salué et répondu. Jamais eu de soucis
+13/02/2025, 20:38 - +33 6 52 73 73 42: Ah ... et tu peux relancer le "débat" !? Faire en sorte d'approfondir/revenir sur un point particulier !?
+13/02/2025, 20:44 - Rochane: Exactement
+13/02/2025, 20:47 - +33 6 52 73 73 42: Ça c'est plutôt très bien ! Et pr l'accent québécois (charmant au demeurant) ... j'ai essayé d'ajouter cette spécificité ds mon prompt ... pas vu trop de changement ! Une piste !?
+13/02/2025, 20:50 - Rochane: Il faut savoir que l'original étant en anglais, tout artifice pour passer par une autre langue ou accent, ce n'est pas natif ni naturel. Du coup, je crains que les astuces ne soient nombreuses <Ce message a été modifié>
+13/02/2025, 21:00 - +33 6 52 73 73 42: À suivre ... Merci pr tes (précieux) retours Rochane !
+13/02/2025, 22:07 - Votre code de sécurité avec ~ PL Systems unitronics France a changé. Appuyez pour en savoir plus.

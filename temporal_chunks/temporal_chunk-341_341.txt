@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 14
+
+=== CONTENU ===
+Evi utilise la reconnaissance et la synthèse vocale pour tenir des conversations naturelles à l'oral. Elle est capable d'analyser les émotions dans la voix de son interlocuteur et d'adapter sa réponse en conséquence, en utilisant un ton similaire [[1]](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/).
+Cependant, il est important de noter que cette technologie est encore limitée à l'anglais pour le moment [[1]](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/).
+---
+Learn more:
+1. [Bluffant : cette intelligence artificielle parle de vive voix et réagit à vos émotions](https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-parle-vive-voix-reagit-vos-emotions-112485/)
+2. [ChatGPT - IA : Les "émotions" que les programmes d'intelligence artificielle prétendent avoir développées - BBC News Afrique](https://www.bbc.com/afrique/monde-64854674)
+3. [Intelligence artificielle : une machine peut-elle ressentir de l’émotion ?](https://www.lemonde.fr/pixels/article/2015/10/12/intelligence-artificielle-une-machine-peut-elle-ressentir-de-l-emotion_4787837_4408996.html)
+29/03/2024, 10:36 - Jean-Marc Everard: Ah oui? Cool, je vais essayer 👍🏻
+29/03/2024, 10:39 - Yvelines: Testé,  je pense que ça ferait une bonne piste d'activité avec mes étudiants pour bosser leur compétence orale en anglais
+29/03/2024, 10:40 - Yvelines: Merci @33649535198 pour le partage
+29/03/2024, 10:47 - Rochane: Effectivement, je viens de le tester et même si notre anglais est approximatif, il est bienveillant et répond à toutes nos questions https://demo.hume.ai
+29/03/2024, 10:57 - +41 78 927 90 96: Incroyable cet outil!
+29/03/2024, 11:19 - Yvelines: Oui et dans un langage assez naturel, meilleur rendu à l'oral que sur ChatGPT pour moi
+29/03/2024, 11:26 - +33 6 25 21 27 26: Amazing ! Merci Rochane. <Ce message a été modifié>

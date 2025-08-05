@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 24
+
+=== CONTENU ===
+Christophe Batier parlera d'un prof qui a codé les grands algos d'IA pour mieux les comprendre
+Jean-Marc.Everard montrer Miro utilise l'IA pour améliorer la collaboration visuelle (mind maps, synthétise du contenu et organise les idées)
+Amina Ykhlef nous présentera un GPT tuteur pour améliorer ton anglais.
+Alors, tu viens ?
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+21/02/2025, 12:05 - ‎~ Sabrin Housni a ajouté +32 498 35 42 93
+21/02/2025, 12:06 - Vous avez épinglé un message
+21/02/2025, 12:07 - Vous avez épinglé un message
+21/02/2025, 12:32 - Nadia ER-RAJI: Ce message a été supprimé.
+21/02/2025, 18:58 - ‎+33 7 85 84 60 78 a demandé à ajouter +33 6 09 97 05 10.
+21/02/2025, 19:01 - Votre code de sécurité avec Cours en visio a changé. Appuyez pour en savoir plus.
+21/02/2025, 19:29 - +34 683 61 41 61: Ça à l'air hyper intéressant mais est-ce que quelqu'un pourrait me donner quelques explications ou un lien pour comprendre ce qui est écrit s'il vous plaît ?
+21/02/2025, 19:51 - +33 6 49 95 38 23: Ça fait un réacteur nucléaire.
+21/02/2025, 20:16 - StéphaneIA: Il suffit d'aller sur Gemini.google.com avec un compte Gmail et vous avez acces à tout. Sur mobile avec l'application aussi.
+21/02/2025, 20:28 - +34 683 61 41 61: D'accord merci
+21/02/2025, 20:47 - Votre code de sécurité avec Cours en visio a changé. Appuyez pour en savoir plus.
+22/02/2025, 07:50 - ‎+33 7 85 84 60 78 a ajouté +33 6 09 97 05 10
+22/02/2025, 09:54 - ‎+33 6 51 71 42 78 a demandé à rejoindre le groupe.
+22/02/2025, 16:26 - Votre code de sécurité avec +32 486 28 39 86 a changé. Appuyez pour en savoir plus.
+22/02/2025, 17:57 - ‎+33 6 17 63 66 55 a demandé à rejoindre le groupe.
+23/02/2025, 09:58 - +41 79 258 90 36: Pour ceux/celles qui cherchent un chatbot AI bon marché, open source voir https://typebot.io <Ce message a été modifié>
+23/02/2025, 10:07 - ‎+33 6 51 71 42 78 a rejoint le groupe à partir de la communauté.
+23/02/2025, 10:07 - ‎+33 6 17 63 66 55 a rejoint le groupe à partir de la communauté.

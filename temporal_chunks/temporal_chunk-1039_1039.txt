@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 576
+Messages: 19
+
+=== CONTENU ===
+07/10/2024, 17:04 - +33 6 77 09 47 45: Ok
+07/10/2024, 17:06 - +33 6 49 95 38 23: Je suis assez satisfait de comfyui.
+07/10/2024, 17:10 - Fred IA: Bonjour. Sauf erreur, comfyui s'exécute en local et nécessite une carte graphique nvidia dédiée très costaud (12Go ?) Vous confirmez ? <Ce message a été modifié>
+07/10/2024, 17:25 - +33 6 50 57 17 44: Complètement d’accord. En 5 minutes tu peux produire très simplement mais il faut plusieurs jours pour arriver à des résultats satisfaisants. Néanmoins le rapport qualité / prix est imbattable
+07/10/2024, 17:25 - ‎+33 6 25 42 87 21 est parti·e
+07/10/2024, 17:46 - ‎+33 6 75 01 93 21 est parti·e
+07/10/2024, 17:49 - +33 6 02 20 69 43: Je peux pas garantir la taille de la carte :)
+07/10/2024, 17:56 - Votre code de sécurité avec +32 487 20 25 03 a changé. Appuyez pour en savoir plus.
+07/10/2024, 18:15 - Votre code de sécurité avec +32 487 20 25 03 a changé. Appuyez pour en savoir plus.
+07/10/2024, 21:14 - ‎+33 6 83 92 86 05 est parti·e
+08/10/2024, 01:23 - Samba BA: Bsr à tous,
+J'aimerais vous demander si vous avez des conseils ou des informations supplémentaires, des sources pertinentes, des données et aussi des prompts dans le domaine du Conseil consultatif de jeunes à la délégation de l'Union européenne au Sénégal.
+Merci pour toutes informations pertinentes.
+08/10/2024, 04:50 - +33 6 49 95 38 23: 12Go de vram seront assez rapidement limitants. <Ce message a été modifié>
+08/10/2024, 07:09 - +41 76 372 28 94: Bonjour. Je n'ai rien de spécifique relatif à votre demande, mais voici ma collection personnelle de prompts qui pourrait vous aider à apprendre à rédiger les vôtres : https://docs.google.com/document/d/1O-QgIsW5UtMYjW5SFV9nF9vPnZb2J-dZ5849lT6PWFw/edit?usp=drivesdk
+08/10/2024, 07:12 - Rochane: Une vraie mine de trésor ! Merci
+08/10/2024, 08:35 - Lucie: Tu as essayé ideogram ?
+08/10/2024, 09:04 - ‎+33 6 26 15 38 78 a été remplacé par +34 613 02 05 45
+08/10/2024, 09:16 - Rochane: Profitez en maintenant ! Napkin.ai transforme rapidement le texte en visuels éducatifs attrayants. *Gratuit pour le moment*, cet outil mérite vraiment d'être testé (Dominique nous en a parlé souvent). Il facilite la création d'infographies, de diagrammes et de présentations engageantes,  Franchement, vous économiserez un temps fou  🙂

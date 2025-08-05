@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 17
+
+=== CONTENU ===
+06/06/2024, 13:06 - Votre code de sécurité avec +216 20 919 363 a changé. Appuyez pour en savoir plus.
+06/06/2024, 13:55 - ‎+33 6 49 93 45 52 est parti·e
+06/06/2024, 14:26 - +351 932 291 666: Pour les novices, débutants ou pour intégrer des bases manquantes, voici un bon cours d’introduction (gratuit sur Coursera) sur le fonctionnement des LLM, et différentes techniques de prompting : https://www.vanderbilt.edu/online-learning/program-type/courses/
+Commencer par : OpenAI GPTs: creating your own custom AI assistant
+Petit truc : personnellement je passe les vidéos en x1,5 voir x2 pour certaines.
+06/06/2024, 16:55 - +33 6 72 75 43 48: Merci beaucoup en quelle langue est le cours ?
+06/06/2024, 17:03 - +351 932 291 666: Je prends en anglais mais je pense que si vous choisissez français vous aurez les docs en français, pour les vidéos les sous-titrages sont dispos. Pour info, à ce stade les IA semblent plus efficace en anglais, ce qui n’enlève pas la qualité des résultats en français.
+Je conçois très bien que l’anglais représente une barrière mais actuellement l’IA est surtout anglo-saxone. L’utilisation de l’anglais représente aujourd’hui un avantage pour les IA et ça risque de durer car même les modèles européens ne pourront négliger le marché anglais (si on segment par langue) qui est hyper dominant.
+06/06/2024, 17:01 - ‎+33 6 04 46 69 14 a demandé à rejoindre le groupe.
+06/06/2024, 17:01 - ‎+33 7 88 93 01 60 a demandé à rejoindre le groupe.
+06/06/2024, 17:01 - ‎+33 6 25 42 87 21 a demandé à rejoindre le groupe.
+06/06/2024, 17:01 - ‎+33 6 03 33 82 32 a demandé à rejoindre le groupe.
+06/06/2024, 17:04 - ‎+33 6 88 10 25 47 a demandé à rejoindre le groupe.
+06/06/2024, 17:04 - ‎+33 6 22 99 27 05 a demandé à rejoindre le groupe.
+06/06/2024, 17:10 - ‎+33 6 68 31 74 03 a demandé à rejoindre le groupe.
+06/06/2024, 17:10 - ‎+33 6 68 31 74 03 a rejoint le groupe à partir de la communauté.
+06/06/2024, 17:10 - ‎+33 6 22 99 27 05 a rejoint le groupe à partir de la communauté.

@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 22
+
+=== CONTENU ===
+- [](#) La configuration des paramètres linguistiques est discutée, notamment en arabe.
+- [](#) Possibilité de choisir la langue prédominante pour l'interface et le contenu.
+- [](#) Capacité à travailler dans différentes langues européennes et planification d'intégration de nouvelles langues.
+##  Projets en Cours et Formation Linguistique
+- [](#) Discussion sur la transposition des projets existants pour les formations linguistiques.
+- [](#) Présentation du système de token pour les abonnements aux cours de langue.
+- [](#) Détails sur la quantité de token allouée par an pour les cours.
+##  Coûts et Modèles Économiques
+- [](#) Explication des coûts associés aux tokens utilisés pour les cours.
+- [](#) Différentes gammes de prix des tokens en fonction des besoins.
+- [](#) Estimation du coût moyen pour générer et livrer un contenu pédagogique.
+##  Améliorations Futures du Système
+- [](#) Préparation d'un dispositif d'entraînement incluant un tutorat personnalisé.
+- [](#) Introduction prochaine de vidéos pédagogiques avec scénarios et dialogues personnalisés.
+04/06/2024, 17:29 - +32 498 78 46 36: <Médias omis>
+04/06/2024, 17:44 - +32 486 30 88 22: A ce propos, est ce que quelqu'un a un lien vers le jeu de Google pour s'entraîner au reverse prompt a partir d'images ? J'ai essayé de le trouver mais je suis rentré brocouille comme on dit dans le Bouchonnoy
+04/06/2024, 17:47 - Clément Cahagne: https://artsandculture.google.com/experiment/jwG3m7wQShZngw
+04/06/2024, 17:51 - +33 6 22 42 57 92: Cf. Le test de la chambre chinoise très bien expliqué dans le mooc "elementsofai" de l'université d'Helsinki.
+04/06/2024, 18:02 - LIO: Merciiiii.
+Le test de Turing est carément insuffisant.
+Je pense a un lac artificiel, par exemple sur des photos on ne sait pas faire la différence entre un naturel et artificiel, il faut d'autres éléments pour compléter.
+04/06/2024, 18:08 - +33 6 22 42 57 92: Ils en parlent dans le mooc justement parce que le test de Turing n'est pas suffisant pour définir une méthode d'IA 😉

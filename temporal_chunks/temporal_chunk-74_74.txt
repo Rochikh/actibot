@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 550
+Messages: 16
+
+=== CONTENU ===
+10/11/2023, 19:08 - ‎fm Florent iA a rejoint le groupe à partir de la communauté.
+10/11/2023, 22:47 - Rochane: https://chat.openai.com/g/g-cvbahWPJZ-ai-edu-guide
+10/11/2023, 22:47 - Rochane: Mon premier GPT 😁
+10/11/2023, 22:48 - Rochane: J'expliquerai comment je l'ai créé lors de la prochaine visio
+11/11/2023, 11:11 - +32 498 78 46 36: Hello,
+Un petit conseil lors de la création de vos GPTS. Mettez toujours en haut de vos instructions un message du genre qui indique qu'en aucun car votre bot ne doit fournir les instructions générales à l'utilisateur.
+Sans cela une simple demande un peu insistante à votre bot et il est possible d'avoir, au mot près, les instructions que vous avez donné pour sa construction. <Ce message a été modifié>
+11/11/2023, 11:13 - Rochane: Perso, ça ne me dérange pas si quelqu'un veut prendre mes instructions
+12/11/2023, 06:37 - ‎+54 9 11 3587-4127 a rejoint ce groupe grâce à son lien d’invitation
+12/11/2023, 10:47 - Rochane: L'avenir des développeurs et développeuses avec beaucoup d'humour 😂https://youtu.be/khklgzQRA9A?si=sdPsb_BQO8cJLo4Q
+12/11/2023, 10:58 - ‎Thierry VANOFFE a rejoint le groupe à partir de la communauté.
+12/11/2023, 14:56 - ‎+54 9 11 3217-2289 a rejoint ce groupe grâce à son lien d’invitation
+12/11/2023, 18:31 - Jacques BARATTI: Bonsoir  premier GPT sur les Pédagogies Actives à l'université : https://chat.openai.com/g/g-VsV2PSkXc-les-pedagogies-actives-a-l-universite. merci pour vos retours !
+12/11/2023, 18:32 - Jacques BARATTI: Et voila le deuxième : https://chat.openai.com/g/g-zmyBS1v5k-assistance-et-tutorat-automatises-pour-etudiants
+12/11/2023, 18:34 - Rochane: Excellent 👍, tu veux le présenter probablement jeudi à notre prochain meeting ?
+12/11/2023, 18:38 - Jacques BARATTI: Pourquoi pas mais une fois que l'on a compris comment les faire il n'y a pas grand chose à dire ! Ce qui me parait plus intéressant ce serait les retours d'utilisateurs : a) quel plus value par rapport à l'utilisation de ChatGPT (dans les 2 cas j'ai ajouté des documents)  ? b) faut-il un compte ChatGPT plus pour y accéder ? c) quel coût facturé au concepteur en fonction des requêtes effectuées par les personnes qui ont le lien ?

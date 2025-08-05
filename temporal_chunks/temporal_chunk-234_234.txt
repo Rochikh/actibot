@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 16
+
+=== CONTENU ===
+29/02/2024, 16:29 - Agathe: Le prochain live ? J'ai dû rater un épisode :)
+et je veux bien faire une démo parce que je pense l'adopter très vite.
+29/02/2024, 16:30 - Rochane: Super merci, ce sera mi Mars probablement
+29/02/2024, 16:36 - Agathe: OK et ça se passe où et comment ?  (j'imagine que je suis arriviée ici par le biai d'un autre live mais je vois passer trop de choses en ce moment et je m'y perds 😅
+29/02/2024, 16:42 - Rochane: Ok, on a déjà fait 4 ou 5 lives à raison d'une fois par mois environ. En général, ça se passe en 1 heure de temps, souvent le soir à 20h. Tout le monde est libre de présenter un outil ou une pratique pédagogique et c'est l'opportunité pour interagir entre pairs 🙂
+29/02/2024, 16:42 - Agathe: Merci @33612461406 🌺 J'adoooore cet outil et en plus il n'y a pas que de l'IA et on peut tout à fait créer un cours "from scratch" aussi simplement qu'avec Rise 360 ! Bien sûr les possibilités d'activités sont moins importantes mais c'est une super alternative pour des modules courts à intégrer dans des parcours plus complexes.
+29/02/2024, 16:43 - Guillaume Singeot: ça se passe de 20h à 21h d'habitude en visio. @33681609994 fais signe quand tu sens prête.
+29/02/2024, 16:44 - Guillaume Singeot: tu as fais comment pour le passer en français? je ne vois pas où changer la langue
+29/02/2024, 16:46 - Agathe: Genial ! et ces lives sont lancés ici dans la discussion ?
+29/02/2024, 16:47 - Guillaume Singeot: oui
+29/02/2024, 16:53 - Guillaume Singeot: tu as réussi a le passer en français ? je ne vois pas où changer la langue
+29/02/2024, 16:54 - Rochane: Et si dans ton prompt, tu écris "en français"
+29/02/2024, 16:54 - Agathe: En fait je n'ai rien demandé, je fais juste ma description en français et l'appli génère mes slides en français
+29/02/2024, 16:54 - Agathe: et me parle en français aussi
+29/02/2024, 16:54 - Guillaume Singeot: oui ça doit être ça.
+29/02/2024, 16:56 - +32 479 58 54 12: Par contre, je ne trouve pas d'infos sur les tarifs de cet outil 🤔

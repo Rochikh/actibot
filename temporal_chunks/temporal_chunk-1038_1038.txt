@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 12
+
+=== CONTENU ===
+07/10/2024, 16:27 - Hoang: Quelqu’un a t il pris un abonnement Midjourney ? Si oui, quel est son retour par rapport au rapport qualité prix ? J’essaye des plateformes gratuites comme Leonardo Ai, Flux 1 mais je ne suis pas assez satisfait (peut être les prompts…). Et de ce que je vois comme production Midjourney, cela a l’air vraiment bien
+07/10/2024, 16:28 - Clément Cahagne: Ca vaut clairement les 10€ / mois… Quand tu compares aux outils gratuits, et bien c’est incomparable. Y’a un gouffre avec tout ce que j’ai pu tester. Temps de prise en main un peu plus long en revanche.
+07/10/2024, 16:28 - Adrien Bock IA: Ça marche bien, mais il faut beaucoup beaucoup pratiquer pour avoir des bons résultats et c’est très technique comme manière de réaliser des visuels
+07/10/2024, 16:39 - +33 6 52 73 73 42: J'ai testé Craiyon ... c'est correct pr une solution gratuite !
+07/10/2024, 17:04 - +33 7 63 58 01 55: @32488683833 Je confirme. Pour moi, la difficulté réside essentiellement dans la maîtrise du vocabulaire de l'image (en anglais). Ne pas hésiter à se faire assister par une IA textuelle (ChatGPT...)  pour générer les prompts ou utiliser la commande /describe, très utile pour dénicher des termes précis et se mettre sur la bonne voie.
+Autant les IA génératrices de texte se valent plus ou moins, autant pour l'image, il y a Midjourney et il y a les autres. <Ce message a été modifié>
+07/10/2024, 17:04 - +33 6 99 15 13 77: Moi 😏
+07/10/2024, 17:04 - +33 6 77 09 47 45: Ok
+07/10/2024, 17:06 - +33 6 49 95 38 23: Je suis assez satisfait de comfyui.
+07/10/2024, 17:10 - Fred IA: Bonjour. Sauf erreur, comfyui s'exécute en local et nécessite une carte graphique nvidia dédiée très costaud (12Go ?) Vous confirmez ? <Ce message a été modifié>
+07/10/2024, 17:25 - +33 6 50 57 17 44: Complètement d’accord. En 5 minutes tu peux produire très simplement mais il faut plusieurs jours pour arriver à des résultats satisfaisants. Néanmoins le rapport qualité / prix est imbattable
+07/10/2024, 17:25 - ‎+33 6 25 42 87 21 est parti·e

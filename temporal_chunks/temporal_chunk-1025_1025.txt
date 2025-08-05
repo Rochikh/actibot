@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 13
+
+=== CONTENU ===
+03/10/2024, 08:19 - Rochane: https://antidote-digital.com/blog/meilleurs-podcasts-ia/?utm_source=perplexity
+03/10/2024, 08:21 - +32 484 68 10 13: Merciiiii !
+03/10/2024, 09:01 - Rochane: Bravo à @33610720856
+Je participe à l’événement “Sortie du livre "Les IA textuelles en formation" de Lucie Dhorne”. Rejoignez-moi aujourd’hui.
+https://www.linkedin.com/events/sortiedulivre-lesiatextuellesen7237865619163893760
+03/10/2024, 09:01 - +33 7 63 58 01 55: Merci 😊 Le même article avec les chaînes YouTube serait top aussi !
+03/10/2024, 09:03 - +33 6 49 95 38 23: Je vous conseille aussi http://www.idris.fr/panoramia.html <Ce message a été modifié>
+03/10/2024, 09:05 - Fred IA: https://www.youtube.com/@MarketingAIInstitute/videos
+03/10/2024, 09:10 - Francois Bocquet: Malheureusement non. Cette opération ne s’appelle pas de l’anonymisation mais de la pseudonymisation. C’est une mesure de minimisation car elle protège vis à vis du sous traitant (si l’éditeur du service a bien ce statut) mais n’empêche pas le RGPD de s’appliquer. Par ailleurs une adresse IP est une donnée à caractère personnel (voir jurisprudence). Il faut s’informer car une donnée a caractère personnel utilise une definition (art 4) qui est bien plus large que « des infos perso ». Celles ci sont des donnés à caractère personnel directement identifiantes. La definition d’une DCP c’est toute information relative à une personne identifiable de façon directe ou indirecte (par le responsable de traitement).
+03/10/2024, 09:12 - Francois Bocquet: L’encodage est bien une pseudonymisation. L’anonymisation est un autre processus (se renseigner sur les différences entre les deux processus par exemple sur le site de la CNIL). Si les données sont anonymes le RGPD ne s’applique pas. Si elles sont pseudonymisees le RGPD s’applique.
+03/10/2024, 10:33 - +33 6 49 95 38 23: Faire tourner un modèle en local supprime ces soucis.
+03/10/2024, 10:49 - Lucie: Merci @33649535198 pour ton soutien 🙏
+Je vous lis même si je commente ou réagis peu.

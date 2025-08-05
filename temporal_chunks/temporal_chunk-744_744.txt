@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 13
+
+=== CONTENU ===
+26/07/2024, 10:05 - Batier Christophe: Pour le moment c'est un projet (voir meme un concept) voici ce qu'il a déclaré
+est le point culminant de ma passion pour l'IA et l'éducation sur environ 2 décennies. Mon intérêt pour l'éducation m'a amené des didacticiels YouTube sur les Rubik's Cubes au démarrage du CS231n à Stanford, en passant par ma plus récente série Zero-to-Hero AI. Tandis que mon travail dans l'IA m'a fait passer de la recherche universitaire à Stanford aux produits du monde réel chez Tesla et à la recherche AGI à OpenAI. Jusqu'à présent, tout mon travail combinant les deux n'a été effectué qu'à temps partiel, en tant que quêtes parallèles à mon "vrai travail", donc je suis très excité de me lancer et de construire quelque chose de génial, professionnellement et à temps plein.
+Il est encore tôt, mais je voulais annoncer la société afin de pouvoir construire publiquement au lieu de garder un secret qui ne l'est pas. Liens sortants avec un peu plus d'informations dans la réponse !
+26/07/2024, 10:06 - Batier Christophe: avec ce proto de contenu annoncé en tout modestie:
+Notre premier produit sera évidemment le meilleur cours d'IA au monde, LLM101n. Il s'agit d'un cours de premier cycle qui guide l'étudiant dans la formation de sa propre IA, très similaire à une version plus petite de l'IA Teaching Assistant lui-même. Le matériel de cours sera disponible en ligne, mais nous prévoyons également de former des cohortes numériques et physiques de personnes qui le suivront ensemble.
+26/07/2024, 10:08 - Batier Christophe: cela vient à la suite du projet un peu similaire de la khan academy
+(pas encore dispo en Europe)
+https://www.khanmigo.ai/
+26/07/2024, 10:10 - Batier Christophe: Bill Gates en parlait dans son blog debut juillet
+https://www.gatesnotes.com/My-trip-to-the-frontier-of-AI-education?WT.mc_id=20240709100000_Khan-Academy-Network_BG-EM
+26/07/2024, 10:22 - Rochane: Waw super projet !
+Content @33785744116 que tu nous aies rejoints. 😁
+26/07/2024, 10:22 - Clément Cahagne: https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education?lng=fr&geo=fr

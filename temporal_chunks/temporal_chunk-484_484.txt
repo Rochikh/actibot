@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 16
+
+=== CONTENU ===
+Alain Damasio (auteur de science-fiction) offre une vision sociologique vraiment intéressante sur l’IA🙂
+03/05/2024, 09:12 - Guillaume Singeot: Je plussoie encore plus la publication de @33614272586 : Damasio est  un des trop nombreux auteurs de science fiction français très pertinent sur le futur de la technologie, le monde du travail et de la société au sens large.
+03/05/2024, 09:16 - Guillaume Singeot: Pendant que nous badinons de bon matin, est ce que certain.es d'entre vous aurez un peu moins d'une heure à consacrer à une étudiante pour un entretien en Visio sur la modularisation (plutôt dans le contexte français) ? (elle stresse pour ses exams, on est tous passer par là😉🤣) son contact : charlotte.dieutre@icloud.com  Merci pour elle!
+03/05/2024, 09:21 - LIO: Mail envoyé 😇
+03/05/2024, 11:55 - +33 6 86 57 88 00: Je ne me souviens pas qu'ils m'aient demandé mon téléphone. Je recommence.
+03/05/2024, 12:14 - Fred IA: Pour Claude, j'ai testé avec un autre compte Google et ça ne fonctionnait pas effectivement. J'ai fait d'autres tests et j'ai pu trouver une solution :
+1) On se connecte en vpn aux US (un vpn gratuit type CyberGhost en extension chrome, suffit largement)
+2) direction Claude ai, on crée son compte avec une adresse Gmail et il faut également saisir son numéro de mobile de cette manière : +33 06 xx xx xx xx. On reçoit un sms quelques minutes plus tard avec un code (ce n'est pas instantané)
+3) on se connecte ainsi à Claude avec succès.
+4) on se deconnecte de Claude et du vpn
+5) Aux prochaines connexions à Claude et uniquement avec l'adresse Gmail qui a été utilisée à l'étape 2) : plus besoin de vpn 😀
+03/05/2024, 12:15 - +33 6 86 57 88 00: <Médias omis>
+03/05/2024, 12:49 - +33 6 86 57 88 00: Et existe-t-il une solution pour tester l'abonnement?
+03/05/2024, 15:53 - ‎Pierrick BRIAND est parti·e
+03/05/2024, 16:34 - Fred IA: La version par défaut de Claude est gratuite
+03/05/2024, 16:36 - +33 6 86 57 88 00: Yes. Mais je voudrais tester les limites de celle avec abonnement. Sauf que ça bloque...

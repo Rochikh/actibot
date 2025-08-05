@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 15
+
+=== CONTENU ===
+19/03/2025, 15:51 - +32 479 82 01 20: Regarde Cloudron, Coolify ou Elest.io. Ils permettent de déployer assez facilement des apps OS comme n8n ou Baserow. La doc est assez bien faite!
+19/03/2025, 15:57 - +33 6 85 03 31 84: Je viens de tester sans Abonnement (avec Gemini 2.0 Flash) et ça marche;
+Voici un exemple de résultats :
+https://g.co/gemini/share/e02662616ef5
+19/03/2025, 16:02 - +33 6 85 03 31 84: En input, je lui ai fourni la réponse (en anglais) qu’il m’avait généré dans ce premier échange :
+https://g.co/gemini/share/c1dabf58e84e
+19/03/2025, 16:05 - +33 6 85 03 31 84: J’ai ensuite refait un 2eme test équivalent en lui fournissant, en input, la même réponse mais traduite en français : le fichier audio généré dans ce 2eme test est toujours en anglais (ce n’est pas exactement le même car il en régénère un nouveau à chaque fois, évidemment)
+19/03/2025, 22:56 - Votre code de sécurité avec +212 690-281034 a changé. Appuyez pour en savoir plus.
+19/03/2025, 23:03 - Votre code de sécurité avec +212 690-281034 a changé. Appuyez pour en savoir plus.
+20/03/2025, 07:09 - Jean-Marc Everard: Perso je l’ai installé sur un VPS Hostinger. L’installation était sans souci mais l’association avec un nom de domaine et ensuite faire les connections avec les outils, là je galère un peu. Est-ce que quelqu’un a des bons tutos pour cela ? Ce sera génial parce que cette partie on en parle pas trop souvent dans les vidéos ;-). Installer la clef SSH sur le VPS se fait aussi par la ligne de commande…
+20/03/2025, 07:52 - Rochane: Avec Chat Gpt ou Claude en lui partageant tes captures d'écran, ça doit se faire 🙂 <Ce message a été modifié>
+20/03/2025, 07:56 - Rochane: <Médias omis>
+20/03/2025, 08:01 - Jean-Marc Everard: Merci 🙏 oui, je n’ai pas encore de réflexe mais en effet je dois pouvoir être aidé comme ça ! Ou sur le Google AI studio
+20/03/2025, 08:44 - +32 475 86 01 57: On dit "bluffante" 😁
+20/03/2025, 08:52 - +33 7 84 33 02 62: Bonjour, avez-vous des retours sur team gpt d’open ai ? Version collaborative permettant de partager entre autres les gpt’s maison ..

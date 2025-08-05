@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 12
+
+=== CONTENU ===
+12/02/2025, 16:01 - Rochane: Un calculateur pour évaluer l'impact écologique des modèles d'intelligence artificielle https://huggingface.co/spaces/genai-impact/ecologits-calculator
+12/02/2025, 16:09 - Rochane: Dernière MAJ du Chatbot de la communauté maintenant 😊
+https://actibot.replit.app/
+12/02/2025, 18:42 - +33 6 66 98 84 23: Merci Francois pour ton annalyse.je vais voir avec les collègues et le proviseur. Ce qui est fou ,c'est qu'aucunes recommendations académiques ne sont données à ce sujet."Faites de l'ia mais on ne vous dit pas dans quel cadre réglementaire"
+12/02/2025, 18:56 - +33 7 83 62 43 52: Il semblerait que l'on devrait proposer courant mars un cadre réglementaire institutionnel. Mais je n'en sais pas plus.
+12/02/2025, 19:15 - +33 7 83 62 43 52: ...que l'on devrait nous proposer ... :-)
+12/02/2025, 21:34 - +33 6 71 11 12 91: Résultats curieux...
+Juste un seul exemple pour une petite conversation (400 output tokens) :
+Anthopic Haiku (modèle léger) : 22.1Wh et = 2228 PAR NYC en émissions de gaz à effet de serre.
+Quand on pourra faire un seul PAR NYC avec 22 Wh, ce sera génial, mais on n'y est pas... 😉
+13/02/2025, 08:22 - +33 6 74 39 90 60: Ho la la je me sens totalement largué. Du coup je vais tenter de reformuler pour voir si je comprend quand même un peu :. donc pour une recherche simple sans utiliser l'IA en réflexion profonde consommation électrique 22.1 Watt/heure de ce fait cela représente combien de gramme de CO2 ? et en comparaison a une recherche google ou un déplacement au CDI ou à la bibliothèque universitaire où je vais bien sûr en voiture puisque je suis jeune permis et que je ne peu plus me passer de ma voiture (on peu toujours mentir à 55 ans 😊) pour avoir une comparaison ?
+13/02/2025, 09:18 - +33 7 87 35 78 96: Normal de se sentir perdu ! On trouve pas mal de choses sur le net sur cette question essentielle du cout énergétique. Je viens de trouver cette étude qui re actualise certaines hypothèses.  https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use

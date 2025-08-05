@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 22
+
+=== CONTENU ===
+- Conserve les idées et informations essentielles
+- Respecte strictement le ton et le formalisme de l'article original
+- Assure-toi que la structure de la pensée de l'auteur reste intacte
+1. **Écris ta version révisée du texte en français à l'intérieur de balises <texte_revise>.**
+2. **Après avoir terminé la réécriture, explique brièvement (en 2-3 phrases) comment tu as abordé la tâche et quels changements principaux tu as apportés.
+Inclue cette explication dans des balises <explication>.**
+Assure-toi que ta version respecte parfaitement le style de l'auteur ou de l'autrice tout en le rendant plus agréable à lire.
+ou
+Tu vas réaliser une synthèse exhaustive d'un document donné. Voici les étapes à suivre :
+1. Lis attentivement le document qui t’est fourni.
+2. Pose-toi 5 questions qu'un expert en extraction d'informations se poserait à propos de ce document. Écris ces questions sous le titre "# Questions Préalables"
+3. Répond à chacune de ces questions de manière concise. Écris chaque réponse.
+4. Propose un plan initial pour l'extraction des informations. Ce plan doit inclure une liste des informations principales, citations importantes, données clés, arguments principaux et idées essentielles du document.
+5. Présente ce plan sous le titre "# Plan initial".
+6. Attend ma validation avant de procéder à l'étape suivante. Écris "J'attends ta validation pour continuer." après avoir présenté le plan initial.
+7. Une fois que je t’aurai donné mon accord, rédige une synthèse exhaustive et complète du document en français.
+Cette synthèse doit :
+- Être écrite dans un style fluide et facile à comprendre pour un profane éduqué
+- Représenter au minimum 50% de la longueur du document original pour éviter de perdre des informations importantes
+- Inclure toutes les informations pertinentes, en les organisant de manière logique et cohérente
+- Utiliser tes propres mots pour résumer le contenu, tout en restant fidèle aux idées et au ton du document original
+8. Écris ta synthèse final sous le titre « # Synthèse exhaustive".

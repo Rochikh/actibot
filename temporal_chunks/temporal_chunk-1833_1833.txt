@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 586
+Messages: 10
+
+=== CONTENU ===
+- **Téléchargement du Jeu** : Le jeu "CRÉDITS IA" est disponible en téléchargement au format PDF via un lien fourni.
+- **Application CarteMD** : Les cartes peuvent être générées et gérées via l'application CarteMD de Cédric Eyssette, disponible sur la forge des communs numériques.
+### Contexte et Développement
+Ce projet fait partie des initiatives de la Direction du Numérique pour l'Éducation (DNE) et du site DRANE de l'Académie de Lyon. Il vise à promouvoir une utilisation collective et raisonnée de l'IA dans un cadre éducatif.
+En résumé, les cartes "CRÉDITS IA" sont un outil pédagogique conçu pour aider les élèves à comprendre et à utiliser l'IA de manière responsable et stratégique, tout en développant leur esprit critique et leur responsabilité numérique.
+https://cartesmd.forge.apps.education.fr/
+27/02/2025, 08:51 - +32 483 60 53 96: Intéressant. C'est clairement une bonne piste pour différents formats d’interaction de classe et introduire l’ia comme assistant de travaux de groupe et/ou assistant de la classe/TP.
+Au delà de ca, je pense qu'il est bien aussi d'avoir des outils plus transparents sur nos consommations "credits/tokens" en fonction des modeles utilises. C'est un point qui me semble pertinent au sein d'outils institutionnels comme à l’université qui veulent prôner un usage critique et responsable.
+Pas parce qu'on veut l'imposer, mais parce c'est ce que les personnes nous demandent en formation et pour leurs etudiants. Plus de transparence sur l'impact de leurs usages.
+27/02/2025, 08:58 - +33 7 87 35 78 96: Un Proxi pour avoir une idée du cout des modèles c'est de voir combien de token ils consomment dans des offres comme Magai.co Un modèle comme OpenAI o3 est à x3 le volume de token, le modèle 4o est à x1 mais un o3 mini est à x0,5 … Gemini affiche lui x0,1. Donc avec la même requete et une même longueur de réponse on a un facteur de 1 à 30 en termes de consommation du budget de tokens. Ce proxy est faussé par les offres commerciales que tel modèle peut proposer à Magai, mais il reflete bien de manière concrete la situation des entreprises. Face à de gros volumes de data on ne regarde pas uniquement la qualité des réponses mais aussi le coût. Si Gemini est disons 30% moins efficace … Ok c'est pas le top du top mais il est 30 fois moins cher que le o3 et dix fois moins cher que le 4o !

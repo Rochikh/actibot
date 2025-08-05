@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 20
+
+=== CONTENU ===
+26/03/2025, 16:02 - Clément Cahagne: <Médias omis>
+26/03/2025, 16:02 - +33 6 52 73 73 42: Carrément ressemblant !
+26/03/2025, 16:02 - Clément Cahagne: Merci
+26/03/2025, 16:03 - Clément Cahagne: Je le prends bien 😂
+26/03/2025, 16:23 - +33 6 72 75 43 48: Super 👍 merci Charlotte j’ai testé mais j’ai plusieurs erreurs d’écriture , comment les as tu corriger ? Je lui ai demandé de le faire c’était pire 😳
+26/03/2025, 16:28 - +33 6 72 75 43 48: Oui difficile de faire le tri face  aux articles et recos contradictoires 🧐merci
+26/03/2025, 19:21 - Jean-Marc Everard: Quand même on voit bien l'inspiration je trouve 😉
+26/03/2025, 19:22 - Jean-Marc Everard: C'est notamment le noeud de pap qui fait tout. il faut que je me trouve un accessoir de ce type. Une lavalikère ?
+26/03/2025, 19:22 - Jean-Marc Everard: lavalière
+26/03/2025, 20:42 - +32 477 78 78 50: Idem le résultat global est intéressant pour ne pas dire bluffant. Mais il y a des erreurs et impossible à corriger 🥲
+Si qqu'un a une technique pour apporter des corrections, merci de les partager. Le prompt de départ était pourtant précis et suivi de cette question : pose-moi des questions avant de générer les images pour affiner ce prompt
+26/03/2025, 21:05 - Rochane: Pour le texte, il est possible d'importer l'image dans Canva et la modifier.
+26/03/2025, 21:21 - Clément Cahagne: Clique sur l’image, utilise le lasso pour sélectionner, puis reprompt sur cette partie sélectionnée uniquement
+26/03/2025, 21:45 - ‎+33 6 17 90 46 23 a demandé à rejoindre le groupe.
+26/03/2025, 22:02 - ‎+33 6 17 90 46 23 a rejoint le groupe à partir de la communauté.
+26/03/2025, 22:50 - +33 6 19 89 32 62: Sur un ça a été mieux mais pas sur l’autre donc j’ai modifié avec juste les voyants et j’ai remis du texte par dessus !!! Comme en bricolage j’ai bidouillé  au final !
+27/03/2025, 06:37 - +32 475 86 01 57: Canva?
+27/03/2025, 06:51 - Rochane: <Médias omis>
+27/03/2025, 06:55 - ‎+33 6 70 46 13 52 est parti·e
+27/03/2025, 08:54 - +32 479 29 01 81: Vivement ce soir !

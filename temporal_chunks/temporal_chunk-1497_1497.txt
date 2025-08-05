@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 19
+
+=== CONTENU ===
+30/12/2024, 20:53 - StéphaneIA: Il parlait aussi de la base vectorielle à mettre en place ?
+30/12/2024, 20:55 - Rochane: Pas encore fini, peut-être la suite du MOOC 😀
+30/12/2024, 21:03 - StéphaneIA: Si c'est juste du prompting alors ce n'est pas du RAG
+30/12/2024, 21:06 - +1 (581) 688-4841: Stp, avec quelle IA réalises-tu des cartes conceptuelles aussi fiables?
+30/12/2024, 21:06 - Rochane: GPT Whimesical ( store de chat Gpt)
+30/12/2024, 21:07 - +1 (581) 688-4841: Thanks
+30/12/2024, 21:09 - +33 6 71 11 12 91: Juste pour être précis : https://whimsical.com/product-updates/whimsical-diagrams-gpt
+30/12/2024, 22:57 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+31/12/2024, 08:52 - +33 6 24 33 06 13: Bonne nouvelle qu’ils aient intégré l’IA ! Super outil whimsical !
+31/12/2024, 11:12 - Rochane: Petit dernier partage de l'année 2024: le podcast généré par notebooklm du MOOC sur l'IA agentique. Le rendu est un peu différent de mes attentes : le bouton *personnaliser* pour générer le podcast a finalement une grande importance : au delà du fait, de le forcer à le faire en français, je l'ai invité à mettre le focus sur l'IA et l'éducation à travers des exemples d'apprentissage et d'enseignement. Il a tenu compte des sources du MOOC mais a sorti des exemples hors MOOC. Je le découvre 😀
+31/12/2024, 11:13 - Rochane: <Médias omis>
+31/12/2024, 11:49 - Amadou GuisséIA: Pourtant , de mon côté il m'a généré un podcast intéressant sur les relations Est-Ouest de 1947 aux années 1990, une leçon d'histoire.
+https://youtu.be/RIQFZzlEfGU?si=n9qOmfo_DKPhC98S
+31/12/2024, 11:47 - ‎+33 6 84 29 70 31 est parti·e
+31/12/2024, 12:01 - +213 558 04 82 89: Merci pour ce partage.
+C'est possible de me donner le lien vers le MOOC svp?
+31/12/2024, 12:01 - Rochane: Regarde dans les messages d'hier 😀
+31/12/2024, 12:07 - +32 475 86 01 57: Si quelqu un peut remettre le lien, je n etais pas encore inscrit et je n y ai pas accès
+31/12/2024, 12:09 - Rochane: https://www.coursera.org/learn/agentic-ai/

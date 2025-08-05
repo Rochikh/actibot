@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 11
+
+=== CONTENU ===
+15/06/2024, 22:37 - Francois Bocquet: Oui c’est ça. Le traitement doit être au registre de l’organisation
+15/06/2024, 22:40 - LIO: Si pas il faut déclencher l'inscription par une fiche dcp.
+Justifier tout les traitements et la faire valider par le dpo
+16/06/2024, 05:32 - +32 479 58 54 12: Je me demandais si ChatGPT pouvait faire une ACP pour analyser les données. J'ai testé et j'ai réalisé que les résultats sont quasiment les mêmes, qu'on lui demande ou non une ACP. J'en déduis que l'ACP fait partie de son mode habituel par defaut pour analyser des résultats. Qu'en pensez-vous?
+16/06/2024, 11:31 - Rochane: À mon avis, il faut toujours préciser dans le prompt le type d'analyse que tu souhaites, plutôt que de t'en remettre aux choix par défaut de ChatGPT. Peut être aussi, il est possible d'explorer le code généré pour comprendre précisément les traitements appliqués aux données.
+16/06/2024, 11:33 - +32 479 58 54 12: Bien sûr. Il faut préciser ce que l'on veut. Ici j'étais juste étonnée de constater qu'il faisait une ACP par défaut... même pour les utilisateurs qui n'ont jamais entendu parler d'ACP 😄
+16/06/2024, 11:36 - Rochane: Ici, ils disent qu'il sélectionne au cas par cas https://help.openai.com/en/articles/9213685-extracting-insights-with-chatgpt-data-analysis
+16/06/2024, 11:46 - +33 6 14 16 68 64: Le compte rendu, le support et le lien pour accéder au replay du webinaire de Julien Morive sont disponibles ici : https://apolearn.com/webinaire-usages-pedagogiques-ia/
+16/06/2024, 12:10 - Fred IA: Annonce d'une nouvelle version "Chat GPT edu" dédiée aux universitaires et aux professeurs : https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html
+16/06/2024, 12:13 - Rochane: Excellent!
+OpenAI a lancé une nouvelle version de ChatGPT spécialement conçue pour les universités [[1]](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html). Cette version, appelée ChatGPT Edu, est destinée aux établissements scolaires qui souhaitent déployer l'intelligence artificielle sur leur campus. Voici les points clés à retenir :

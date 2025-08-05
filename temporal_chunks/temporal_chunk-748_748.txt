@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 18
+
+=== CONTENU ===
+26/07/2024, 11:53 - Votre code de sécurité avec +33 6 60 22 85 02 a changé. Appuyez pour en savoir plus.
+26/07/2024, 12:19 - Francois Bocquet: Soit ils utiliseront des plugins soit ils utiliseront des modèles open sources soit ils tenteront de bricoler leur propres outils et ils disparaîtront à moyen terme.
+26/07/2024, 12:48 - Batier Christophe: Y a  plusieurs voies à explorer
+1-c'est d'avoir un serveur d'inference avec un modele finetuné couplé au lms pour faire un chatbot par cours qui va chercher les contenus fichiers en RAG ou les contenus en base au en Rag sql
+Et coté prof un générateur de contenu pédagogique personnalisé : qcm supports ppt flashcard...
+2- mise en place de briques autour de l'adaptivlearning avec
+Generation d'activité et de parcours personnalisé à partir des docs déposées par lesenseignants et des data enregistrees sur les competences des étudiants
+3-analyse des traces laissées par les utilisateurs pour proposer la aussi des pistes pédagogiques mais cette ci pour les enseignants
+Sinon on commence a voir des LMS nouvelle generatiln integrant une partie de ce que je viens de decrire en 3 points
+Comme par exemple Didask
+26/07/2024, 15:32 - Votre code de sécurité avec +33 6 60 22 85 02 a changé. Appuyez pour en savoir plus.
+26/07/2024, 19:28 - Votre code de sécurité avec Technopedagogue Djieh 🔥🖥️🔥 a changé. Appuyez pour en savoir plus.
+26/07/2024, 20:27 - Votre code de sécurité avec +33 6 23 84 29 25 a changé. Appuyez pour en savoir plus.
+27/07/2024, 10:35 - Rochane: J'ai récupéré l'archive de nos échanges depuis le début et demandé à l'IA d'en faire un résumé:
+Bienvenue dans la communauté WhatsApp Ai-Dialogue Actif !
+Ce résumé présente un aperçu des principales discussions de cette communauté au cours des derniers mois. Nos membres sont des éducateurs, des chercheurs et des passionnés de technologie qui partagent une passion pour l'exploration de l'intersection entre l'intelligence artificielle (IA) et l'éducation.
+Thèmes clés et perspectives:
+L'essor des outils d'IA: La communauté a été témoin d'un afflux rapide de nouveaux outils d'IA, en particulier pour la création de contenu, l'apprentissage et l'enseignement.

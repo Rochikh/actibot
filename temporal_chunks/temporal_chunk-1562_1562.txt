@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 15
+
+=== CONTENU ===
+10/01/2025, 15:29 - StéphaneIA: Merci @447776747507 c'est intéressant. De mes recherches et lecture j'avais vu que quand on fait ce genre de chose le LLM va avoir tendance à détaillé sa réponse pour apporter plus de précision, ce qui est intéressant dans certains contextes. Personnellement dans un article j'avais comparé les résultats sur des questions d'un test de QI en mettant un prompt type COT et un prompt normal. J'ai constaté que cela avait eu peu d'effet sur la réponse finale mais par contre en COT la réponse était plus détaillée. Pour la compréhension le détails c'est bien mais si on veut juste le résultat final alors pas trop d'intérêt. C'est pour cela que je questionne ces méthodes, est ce que juste en ajoutant "détaille ta réponse on aurait pas le même type de résultat ?
+10/01/2025, 15:30 - +44 7776 747507: Merci @33688213252 très intéressant!
+10/01/2025, 15:49 - Rochane: Le bot scenario Creator a été amélioré en UX
+https://scenariocreator.rochane.fr/
+10/01/2025, 16:14 - ‎+33 7 82 75 61 47 a demandé à rejoindre le groupe.
+10/01/2025, 16:38 - ‎+33 7 82 75 61 47 a rejoint ce groupe grâce à son lien d’invitation
+10/01/2025, 17:07 - Votre code de sécurité avec +32 474 81 39 84 a changé. Appuyez pour en savoir plus.
+10/01/2025, 17:21 - Votre code de sécurité avec ~ MR a changé. Appuyez pour en savoir plus.
+10/01/2025, 19:16 - Votre code de sécurité avec +57 313 4959160 a changé. Appuyez pour en savoir plus.
+10/01/2025, 19:40 - +41 79 258 90 36: Ce Hack fonctionne aussi très bien en Allemand en remplaçant French par German. Grand merci Rochane.
+10/01/2025, 20:45 - Rochane: <Médias omis>
+10/01/2025, 20:46 - +33 6 19 04 48 10: Bravo Rochane pour l’article dans Digital Learning Academy 👏
+10/01/2025, 20:47 - Rochane: Tu peux mettre le lien, ça ne me dit rien 🤔
+10/01/2025, 20:48 - +33 6 19 04 48 10: https://digital-learning-academy.com/ia-et-competences-le-futur-de-la-formation-professionnelle-2/?_sc=NTcyMTIwOSM4MTQ1NQ%3D%3D
+10/01/2025, 20:48 - Rochane: Ok le podcast. Merci pour le rappel 😀

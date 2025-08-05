@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 572
+Messages: 22
+
+=== CONTENU ===
+15/08/2024, 19:41 - +1 (438) 225-3821: 😱
+15/08/2024, 20:29 - +33 6 76 07 83 70: Merci de m'accepter parmi vous
+16/08/2024, 06:49 - Votre code de sécurité avec +216 24 679 092 a changé. Appuyez pour en savoir plus.
+16/08/2024, 07:40 - +33 6 76 07 83 70: Bonjour,
+Quelle IA permet de générer des slides à partir d'un livre pdf? Merci
+16/08/2024, 07:48 - +32 493 87 42 05: J'aime bien moi "Gamma IA"
+16/08/2024, 07:51 - Vincent DROUOT: Oui, moi aussi, j’utilise Gamma pour faire des slides à partir de PDF.
+Tu peux essayer :
+https://try.gamma.app/n617zew9g13x
+16/08/2024, 08:02 - +212 644-562660: Coassemble
+16/08/2024, 08:06 - +216 25 000 725: Bonjour
+Je rencontre un vrai problème, peut-être que c'est aussi le cas de pas mal d'entre vous, c'est de ne pas avoir la possibilité de payer l'accès à un usage pro de  l'IA.😭😭
+16/08/2024, 08:07 - Vincent DROUOT: Quelle IA ?
+16/08/2024, 08:08 - +33 6 76 07 83 70: Merci
+16/08/2024, 08:17 - +216 25 000 725: Chatgpt pro par exemple
+16/08/2024, 08:18 - +212 644-562660: Ouai c'est plutôt navrant, mais on doit s'y habituer comme même. Essaies plutôt d'en trouver des alternatives aux ia payantes. Alternativeto.net peut t'aider à en trouver qulques unes
+16/08/2024, 08:22 - Vincent DROUOT: Il t’indique quoi comme blocage ? car la Tunisie fait partie des pays où OpenAI fourni ses services pour les versions gratuites de ChaGPT mais aussi les version Plus et Team.
+16/08/2024, 08:22 - Vincent DROUOT: https://platform.openai.com/docs/supported-countries
+16/08/2024, 08:24 - +216 25 000 725: Ce n'est pas un blocage mais légèrement depuis la Tunisie nous n'avons pas la possibilité de payer en devise
+16/08/2024, 08:25 - +216 25 000 725: Ttes les IA déposent de version payante plus riche qui est payante
+16/08/2024, 08:28 - +212 644-562660: Ah je croyais avoir lu que le problème était plutôt d'ordre financier que technique. Mes excuses. Ceci dit essayez plutôt avec un vpn, proton vpn me semble utile
+16/08/2024, 08:28 - Rochane: Tu peux toujours te créer un compte sur Claude, Chat Gpt et maintenant, les versions gratuites ont quasiment les mêmes fonctionnalités que payantes sauf que c'est réduit en nombre de conversations. Après tu as une IA incroyable gratuite, illimitée qui est Gemini pro 1.5 en passant par cette interface

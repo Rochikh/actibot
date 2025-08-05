@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 9
+
+=== CONTENU ===
+Juste un seul exemple pour une petite conversation (400 output tokens) :
+Anthopic Haiku (modèle léger) : 22.1Wh et = 2228 PAR NYC en émissions de gaz à effet de serre.
+Quand on pourra faire un seul PAR NYC avec 22 Wh, ce sera génial, mais on n'y est pas... 😉
+13/02/2025, 08:22 - +33 6 74 39 90 60: Ho la la je me sens totalement largué. Du coup je vais tenter de reformuler pour voir si je comprend quand même un peu :. donc pour une recherche simple sans utiliser l'IA en réflexion profonde consommation électrique 22.1 Watt/heure de ce fait cela représente combien de gramme de CO2 ? et en comparaison a une recherche google ou un déplacement au CDI ou à la bibliothèque universitaire où je vais bien sûr en voiture puisque je suis jeune permis et que je ne peu plus me passer de ma voiture (on peu toujours mentir à 55 ans 😊) pour avoir une comparaison ?
+13/02/2025, 09:18 - +33 7 87 35 78 96: Normal de se sentir perdu ! On trouve pas mal de choses sur le net sur cette question essentielle du cout énergétique. Je viens de trouver cette étude qui re actualise certaines hypothèses.  https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use
+Vous avez aussi ce post qui donne pas mal de sources : https://intelligence-artificielle.developpez.com/actu/363731/Les-outils-d-IA-consomment-jusqu-a-4-fois-plus-d-eau-que-prevu-d-apres-une-etude-de-l-Universite-de-Californie/
+A mon humble avis les simulations les calculs estimés sont nécessaires car il faut bien répondre à ces questions mais in fine c'est en exigeant de la part de ces acteurs de l'IA une communication claire sur leur consommation d'eau et d'énergie qu'on aura une véritable idée de l'impact <Ce message a été modifié>
+13/02/2025, 09:26 - Rochane: *Synthèse exhaustive*
+L'étude réalisée par Epoch AI présente une analyse approfondie de la consommation énergétique de ChatGPT, révisant significativement à la baisse les estimations précédentes. Cette recherche, publiée en février 2025, apporte un éclairage nouveau sur l'impact environnemental réel des modèles de langage.

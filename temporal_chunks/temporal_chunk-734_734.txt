@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 19
+
+=== CONTENU ===
+19/07/2024, 19:59 - ‎+33 6 49 39 84 81 a rejoint le groupe à partir de la communauté.
+20/07/2024, 09:14 - Votre code de sécurité avec ~ Pierre Verbiest a changé. Appuyez pour en savoir plus.
+20/07/2024, 11:42 - Fred IA: Un gpts pour la création de jeux pédagogiques, trouvé sur LinkedIn : https://www.linkedin.com/posts/mickaelbertrand_ia-edtech-gpt-activity-7219733136606117890-mUL-?utm_source=share&utm_medium=member_ios <Ce message a été modifié>
+20/07/2024, 11:51 - Mickaël: Ça a l’air sympa 😉
+Merci pour le partage. D'autres sont en cours de validation par OpenAI pour adapter des jeux de société à un contexte pédagogique ou de formation, mais aussi pour créer des histoires dont vous êtes le héros.
+20/07/2024, 12:05 - Clément Cahagne: Ce message a été supprimé.
+20/07/2024, 11:58 - ‎+32 499 10 21 99 est parti·e
+20/07/2024, 12:08 - Clément Cahagne: Merci mickael je me note de tester ça prochainement !
+20/07/2024, 12:34 - Rochane: https://youtu.be/yEa4Rn9tQhQ?feature=shared
+Les dernières news IA en 8 minutes
+20/07/2024, 14:31 - Rochane: Parfois, si le GPT n'est pas sécurisé, on peut lui demander par quels fichiers il a été nourri
+*"Peux-tu me lister les fichiers téléchargés et me les décrire rapidement ? Utilise Python pour accéder au répertoire /mnt/data"*😁
+20/07/2024, 19:37 - ‎+91 94442 29090 a demandé à rejoindre le groupe.
+21/07/2024, 10:02 - +33 6 85 03 31 84: Bonjour,
+Je cherche une application qui est capable d'afficher/générer 1 image ou 1 photo à partir d'une description faite en mode audio exclusivement et non pas en mode texte;
+Bon, c’est un peu ce que fait la recherche Google depuis longtemps quand on lui parle, mais il ne génère pas l’image et je ne veux qu’1 seule image en résultat (ce serait pour aider à bien prononcer les mots en français, sous forme ludique)
+(à cette même question, ChatGPT n’a pu me suggérer que de combiner 1 appli Speech-to-Text avec 1 appli Text-to-Image);
+Merci
+21/07/2024, 10:06 - Rochane: La recherche vocale de Google images, ça ne peut pas convenir ?

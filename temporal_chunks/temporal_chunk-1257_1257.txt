@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 20
+
+=== CONTENU ===
+16/11/2024, 15:21 - Francois Bocquet: Il est étonnant que les CGU soient les mêmes sur les deux services.
+16/11/2024, 15:21 - Francois Bocquet: Il faut que je retrouve les mentions RGPD sur le domaine education avec utilisation de Gemini et playground + Notebooklm
+16/11/2024, 15:23 - Francois Bocquet: Le même prompt sur Copilot Claude ou OpenAi donnerai je pense le même résultat
+16/11/2024, 15:24 - Francois Bocquet: Il y a des points anxiogènes dans l’analyse mais qui ne devraient pas l’être (transmission de DCP à des sous traitants par exemple)
+16/11/2024, 16:57 - Votre code de sécurité avec +33 6 11 25 29 68 a changé. Appuyez pour en savoir plus.
+16/11/2024, 17:49 - ‎+33 6 64 76 54 01 a demandé à rejoindre le groupe.
+16/11/2024, 18:00 - ‎+33 6 64 76 54 01 a rejoint ce groupe grâce à son lien d’invitation
+16/11/2024, 19:37 - Letizia ALLEGRINI: Merci beaucoup
+16/11/2024, 19:38 - +33 6 09 28 08 24: Bonsoir tour le monde.
+Je voudrais gagner du temps sur de l’adaptation de devis. En gros je passe beaucoup de temps à faire de la mise en page et à adapter certains contenus. Auriez vous des astuces ou des outils à conseiller ? D’avance merci pour l’aide
+16/11/2024, 19:56 - Rochane: Il est possible de faire une automatisation avec airtable et Google docs que tu transformes en PDF via un template qui serait ton devis.
+L'idée est que tu rentres les informations dans airtable et tu génères le devis en PDF automatiquement. Ça nécessite des connaissances en no code 🙂
+16/11/2024, 19:58 - +32 479 82 01 20: J'allais dire pareil
+16/11/2024, 19:58 - +32 479 82 01 20: Créer un modèle sur Gdoc
+16/11/2024, 19:58 - +32 479 82 01 20: Et automatiser le remplissage avec une base Airtable et Make
+16/11/2024, 19:59 - +32 479 82 01 20: ☺️
+16/11/2024, 20:17 - +33 6 09 28 08 24: Merci beaucoup pour ton retour
+17/11/2024, 04:47 - Votre code de sécurité avec +212 771-103991 a changé. Appuyez pour en savoir plus.
+17/11/2024, 06:00 - ‎+216 28 533 786 est parti·e
+17/11/2024, 11:05 - ‎+32 498 66 16 08 est parti·e

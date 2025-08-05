@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 16
+
+=== CONTENU ===
+13/03/2024, 18:25 - Jacques BARATTI: vous pouvez utiliser le navigateur Opera (gratuit) qui permet d'avoir un VPN gratuit et vous localiser aux Etats Unis
+13/03/2024, 18:27 - Rochane: Sans VPN ?
+13/03/2024, 18:28 - +34 618 97 47 94: Sans VPN, sans mode privé et avec l’option espagnol qui n’apparaît pas dans la liste non plus
+13/03/2024, 18:29 - +33 6 13 43 54 52: Quel Vpn vous utilisez ?
+13/03/2024, 18:29 - Jacques BARATTI: j'ai fait deux tests rapides avec Claude 3 donc : créer 5 questions QCM avec feedback sur le code génétique et conversion au format GIFT pour importation dans Moodle ==> le résultat est plutôt intéressant. 2ème test sur la correction de mémoire d'étudiants : Claude s'en sort bcp mieux que Chat GPT (on donne une grille critériée d'évaluation avec un barème, plus le mémoire à évaluer, il note et donne des commentaires)
+13/03/2024, 18:29 - Rochane: Tu as rentré une adresse mail ou connexion avec Google ?
+13/03/2024, 18:31 - Jacques BARATTI: <Médias omis>
+13/03/2024, 18:40 - Fred IA: Pour Claude, en utilisant l'extension Chrome gratuite "CyberGhost VPN", on se connecte sans problème aux US et ça marche parfaitement 😉
+13/03/2024, 18:41 - Rochane: En mettant ton numéro de téléphone ?
+13/03/2024, 18:43 - Fred IA: Tu te connectes via ce vpn et ensuite, effectivement, tu saisies ton  numéro de portable en commençant par +33... Et on reçoit bien le code par tel
+13/03/2024, 18:44 - Rochane: Il me reste à éclaircir cette question de vpn, pourquoi certains n'ont pas eu à mettre leur vpn comme Margot et moi et d'autres si
+13/03/2024, 18:45 - Fred IA: Effectivement ça c'est étrange
+13/03/2024, 18:48 - +33 6 76 04 48 20: Les voies de l’informatique… 😅
+13/03/2024, 19:08 - +32 495 10 43 00: pour ceux que cela intéresseraient il y a une conference a UCL quel avenir pour l'ia 21/3 gratuit mais sur inscription  https://www.printempsdessciencesucl.be/evenement/7/activite/753
+13/03/2024, 19:20 - Jacques BARATTI: oui j'ai testé ça fonctionne bien aussi
+13/03/2024, 19:23 - +33 6 70 46 13 52: Est-ce seulement en presentiel?

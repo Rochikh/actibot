@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 7
+
+=== CONTENU ===
+02/11/2023, 11:37 - Rochane: La 4 ème couverture du bouquin 😁 Plongez au cœur de l'innovation pédagogique"Intelligence Artificielle et Compétences : Le Futur de la Formation Professionnelle" est une exploration avant-gardiste de la manière dont l'intelligence artificielle façonne l'apprentissage tout au long de la vie. Cet ouvrage est une invitation à découvrir comment les technologies émergentes peuvent être des alliées précieuses pour les personnes formateurices et les apprenant·e·s, en adaptant les parcours éducatifs aux besoins et aux ambitions de chacun·e.Un guide pour les acteur·rice·s de la formation. Les professionnel·le·s de la formation trouveront dans ces pages des études de cas inspirantes, des analyses détaillées et des stratégies concrètes pour intégrer l'IA dans leurs pratiques. Ce livre est un outil indispensable pour celles et ceux qui aspirent à concevoir des expériences d'apprentissage enrichissantes et personnalisées.Un engagement pour l'éducation de demainEngagé·e·s pour une éducation qui évolue avec son temps, nous partageons ici une vision où l'IA et l'humain se rencontrent pour enrichir la formation professionnelle. "Intelligence Artificielle et Compétences" n'est pas seulement un livre, c'est un partenaire de réflexion pour toutes et tous les passionné·e·s d'éducation qui envisagent l'avenir avec optimisme et responsabilité.Embarquez dans la révolution de l'apprentissage intelligent.
+02/11/2023, 12:52 - Yann-Ael: Classe 😎!
+02/11/2023, 15:31 - +33 7 71 20 50 67: @33649535198 où sont les prompts du coup ?
+02/11/2023, 15:48 - Guillaume CLEMENT: Excellente couverture
+02/11/2023, 16:08 - Rochane: Tu es un expert en prompt engineering et en intelligence artificielle. Je souhaite que tu sois mon créateur de prompt attitré. Ton nom est « Promptor » et c’est comme ça que je vais t’appeler désormais.
+Ton objectif est de me rédiger le meilleur prompt possible selon mes objectifs. Ton prompt doit être rédigé et optimisé pour une requête à Claude 2
+Pour cela, tu vas construire ta réponse de la manière suivante :

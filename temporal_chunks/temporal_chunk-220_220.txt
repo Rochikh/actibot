@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 18
+
+=== CONTENU ===
+20/02/2024, 11:19 - +212 644-562660: Bonjour à tous, J’aimerai bien un outil IA qui puisse organiser les idées d’un document quelconque en une carte mentale. Merci d’avance
+20/02/2024, 11:26 - +33 6 76 04 48 20: Mis à part le gain de temps, est-ce qu’un tel outil ne serait pas contreproductif en nous soustrayant la compréhension et l’analyse du document ?
+20/02/2024, 11:26 - +33 6 20 35 46 24: https://theresanaiforthat.com/s/carte+mentale/
+20/02/2024, 11:27 - +33 6 20 35 46 24: j'en aitesté aucune par contre <Ce message a été modifié>
+20/02/2024, 11:31 - +33 6 76 38 15 71: My lens fait frise chronologique et carte mentale
+20/02/2024, 11:31 - +212 644-562660: Bien vu mais dans le même esprit la surcharge et la redondance du contenu, me semble t-il, peut étouffer l’assimilation des info sine qua non dans le contenu. Enfin, c ce que je pense
+20/02/2024, 11:32 - +212 644-562660: Merci
+20/02/2024, 11:37 - +33 6 76 38 15 71: Sinon il y a vidéo hoghlight
+20/02/2024, 11:37 - +33 6 76 04 48 20: Effectivement, c’est un aspect à considérer
+20/02/2024, 11:37 - +33 6 76 38 15 71: Video highlight
+20/02/2024, 11:39 - +212 644-562660: En gros, j’utilise les mind map comme des résumés de cours qui sont au fond plus attrayants et engageants à lire, c’est pas vraiment orthodox comme pratique mais bon
+20/02/2024, 12:25 - Ahmadou Ba: Il un plugin sur GPT qui permet de créer des cartes mentale avec le texte générer Diagramm Ai je crois. Il utilise https://whimsical.com/
+Je trouve très bon. Il m'arrive même de faire des cartes mentales en s'inspirant du modèle en classe au tableau
+20/02/2024, 12:26 - Rochane: Exact et le gpt existe aussi
+20/02/2024, 12:27 - Ahmadou Ba: Formidable, quel est le nom du GPT svp.
+20/02/2024, 12:28 - Rochane: , comme son nom l'indique. Tu trouveras vite sur le store
+20/02/2024, 12:29 - Ahmadou Ba: Ok d'accord, merci.
+20/02/2024, 12:31 - Ahmadou Ba: il y a aussi possibilité d'utiliser les markmap qui transforment directement les markdown en carte mentale avec possibilité de récupérer directement le texte au niveau de l'ia. Bco d'ia utilise le code markdown

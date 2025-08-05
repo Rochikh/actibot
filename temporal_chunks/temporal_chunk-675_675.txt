@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 9
+
+=== CONTENU ===
+26/06/2024, 07:41 - Vous avez épinglé un message
+26/06/2024, 08:07 - +33 6 37 67 45 67: null
+26/06/2024, 09:10 - Ludovic IA: Oui, Perplexity est une autre "bullshit machine", il n'y a toujours pas d'IA générative ayant le sens de la véracité. Néanmoins, le gros plus de Perplexity, c'est qu'il donne les sources de ses affirmations, donc ça permet d'ajouter une étape de vérification des sources essentielles pour du fact-checking. Le vrai challenge étant que Perplexity est assez doué, comme toutes les IA, pour te faire croire qu'il dit la vérité même s'il n'en sait rien. Ajouter systématiquement dans ses requêtes à Perplexity un " Si tu ne trouves pas de source fiable permettant de valider ces informations, dis le" permet de contrebalancer en partie ce problème.
+26/06/2024, 09:24 - +33 6 88 57 53 04: Perplexity ne donne pas les sources mais des sources connexes je crois.
+J'ai creusé plusieurs fois ses "sources" sans y trouver les éléments précis qu'il mettait dans sa réponse.
+D'autres ont ils fait également ce constat ?
+26/06/2024, 09:31 - Céline Averseng: Est-ce que vous avez des retours sur le duel Chat GPT 4o - Perplexity ? Je dois renouveler ma licence et j'hésite entre les deux. Pour la partie génération de quiz que j'ai assez longuement testé, les deux sont assez performants, mais pour le reste, je ne sais pas.
+26/06/2024, 10:04 - Jean-Marc Everard: L’avantage de perplexity est que l’on peut choisir le modèle, soit ChatGPT 4O, Claude 3.5 sonnet ou Claude 3 opus (ou un modèle propre à Perplexity basé sur Llama 3). Néanmoins, à l’usage j’ai l’impression que ses retours ne sont pas tout à fait identiques à ceux faits directement par ChatGpt même quand on choisit son modèle. Néanmoins, s’il ne fallait en garder qu’un, dans l’état actuel je choisirais perplexity. En vrai, perso je vais garder les 2 abonnements parce que je souhaite bénéficier rapidement de ChatGPT next quand il sortira 😉.
+26/06/2024, 10:06 - Rochane: Pareil que Jean Marc, les assistants de openai m'aident beaucoup dans les automatisations et pour des recherches rapides, Perplexity est d'un grand secours..

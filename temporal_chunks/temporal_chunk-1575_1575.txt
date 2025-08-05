@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 15
+
+=== CONTENU ===
+L’émission aborde des questions essentielles:
+•
+L'utilisation responsable de l'IA: comment éviter la triche et le plagiat ? Comment développer l'esprit critique des élèves face à des outils puissants et parfois trompeurs ?
+•
+La différenciation pédagogique: comment l'IA peut-elle aider à personnaliser l'apprentissage et répondre aux besoins de chaque élève tout en maintenant la cohésion du groupe classe ?
+•
+L’éducation au numérique: comment former les élèves et les enseignants à une utilisation responsable et critique des outils numériques, y compris l'IA ?
+•
+La protection des données: comment garantir la sécurité et la confidentialité des données des élèves dans un contexte d'utilisation accrue de l'IA ?
+L’émission conclut sur la nécessité d’une formation massive des enseignants à tous les niveaux du système éducatif pour les préparer aux défis et aux opportunités de l’IA. Il s'agit de doter les enseignants des connaissances et des compétences nécessaires pour accompagner les élèves dans un monde où l'IA est omniprésente.
+15/01/2025, 09:38 - +33 6 25 79 50 95: Ça alors !
+Selon un test évoqué dans cette courte chronique radio (2') les robots conversationnels (chatGPT et Cie) montrerait une forme de déclin cognitif lorsqu'on les sollicitent trop.
+Si ce constat est corroboré par d'autres tests/études cela viendrait alors renforcer l'idée selon laquelle les IA s'appauvrissent, et ce contrairement aux discours marketing savamment orchestrés par les éditeurs tels Open AI qui comme le dirait buzz l'éclair : vers l'AGI et l'au delà (ASI) ;-)
+Trêve de plaisanterie quelqu'un.e pourrait m'expliquer ce paradoxe d'un appauvrissement constaté d'un côté et de l'autre d'annonces claironnées sur des AGI (agents IA, capacité de raisonnement de niveau PHD).
+Et quelles en seraient les raisons ? : est-ce dû notamment à l'apprentissage automatique de données scrappées sur la toile. Données sujettes à caution voire de plus en plus polarisée avec par exemple cette intention impulsée outre Atlantique de modérer de moins en moins les contributions des utilisateurs (X, face de bouc) ?

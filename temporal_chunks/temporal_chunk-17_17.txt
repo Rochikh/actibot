@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 575
+Messages: 18
+
+=== CONTENU ===
+26/10/2023, 11:17 - Ahmadou Ba: Oui mais wooclap existe et peut importer des fichiers à partir de wooflash https://www.wooclap.com
+26/10/2023, 11:18 - ‎+32 497 91 17 24 a rejoint ce groupe grâce à son lien d’invitation
+26/10/2023, 11:54 - ‎+32 494 07 27 37 a rejoint le groupe à partir de la communauté.
+26/10/2023, 12:57 - Larissa: J'ai essayé Tally et le problème est qu'il ne me laisse pas lui dire quelles sont les bonnes réponses...c'est axé Sondage et Retour mais pas bonne réponse, mauvaise réponse. Je dois ajouter des conditional logic ce qui complique les choses. Même problème avec Google Forms.
+26/10/2023, 12:58 - ‎+32 471 59 75 84 a rejoint ce groupe grâce à son lien d’invitation
+26/10/2023, 12:58 - Guillaume CLEMENT: Vous avez déjà essayé "Fillout"
+26/10/2023, 12:58 - Larissa: Non, merci pour le tuyau.
+26/10/2023, 13:00 - +32 479 44 06 71: J'y serai normalement. Effectivement, bcp sur l'IA 😃
+26/10/2023, 13:02 - Larissa: Même problème....axé sur des sondages et retours, pas sur des exercises Vrai, Faux.
+26/10/2023, 13:02 - +33 7 71 20 50 67: Google Forms permet très facilement de transformer un questionnaire en quiz avec paramètrage des bonnes réponses. C'est très simple.
+26/10/2023, 13:03 - +32 479 44 06 71: @352691781557 Et pourquoi pas en combinant tout ça dans Digistep de La Digitale ?
+26/10/2023, 13:03 - +32 479 44 06 71: Tu peux créer différentes sections
+26/10/2023, 13:04 - +32 479 44 06 71: Et intégrer des liens vers les vidéos
+26/10/2023, 13:04 - Larissa: Tu utiliserais donc l'option logic conditionnel pour circumventer le problème, c'est ça?
+26/10/2023, 13:04 - +32 479 44 06 71: Et même verrouiller les différentes étapes avec des codes d'accès
+26/10/2023, 13:04 - Larissa: Merci. J'y jete un coup d'oeil
+26/10/2023, 13:06 - +33 7 71 20 50 67: Je crois bien ne pas avoir compris ta question du coup... Si tu veux afficher des réponses, Forms le fait très bien. Je ne vois pas le besoin de condition ?
+26/10/2023, 13:09 - Larissa: Dans Moodle, je peux ajouter des questions du type Multiple Choice où je peux tagger les bonnes réponses. Si les participants donnent des mauvaises réponses, ils ne verront pas la prochaine section par exemple. Dans Forms, je ne peux pas faire ceci comme il est établi sur des sondages et retours...pas sur des "exercises".

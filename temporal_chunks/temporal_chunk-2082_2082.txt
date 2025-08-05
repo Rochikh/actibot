@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 14
+
+=== CONTENU ===
+14/04/2025, 18:39 - +32 498 78 46 36: Pour celles et ceux qui veulent tester un agent IA, je vous conseille de regarder du côté de Google et de son Firebase studio. Après avoir testé Manus, Deepsite, Genspark, c'est finalement lui que je préfère (et je n'ai pas de billes chez Google). C'est un vrai agent IA à la Manus, avec les qualités UX Google en plus. J'ai rédigé 6 étapes à respecter pour les agents IA. Ah oui ! Et ici pas d'histoire de crédits comme sur Manus ou Genspark. Enjoy
+https://www.linkedin.com/posts/johan-creeten_firebase-studio-activity-7317584992631422977-5o3N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdwCNIBxbRe03zaunM_TZ6CgCm7Uykf1EY
+14/04/2025, 18:41 - Sébastien Place: Nan c'est irréparable, le joint de culasse est rompu c'est mort faut changer tout le bloc moteur ...
+(oui on me colle un flingue sur la nuque en fait j'ose pas bouger du clavier)
+14/04/2025, 21:01 - Letizia ALLEGRINI: Bonsoir à tous depuis quelque temps je rencontre des difficultés à réaliser des podcast en français sur notebooklm avez vous des conseils à me donner. Le prompt que j'utilisais ne semble plus fonctionner merci à tous
+14/04/2025, 21:05 - Rochane: Est-ce celui ci ?
+This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…
+14/04/2025, 21:05 - estelle Duterage Drion IA: Cc les amis
+Voici la question que l’on vient de me poser Sais-tu s'il est possible de traduire le dialectal marocain en français grâce à l'IA ?
+14/04/2025, 21:06 - Letizia ALLEGRINI: Merci Rochane mon prompt était moins complet je vais tester celui ci.
+14/04/2025, 21:07 - +33 6 52 73 73 42: J'ai eu les mêmes déboires en live pas plus tard que la semaine dernière ! 😅
+14/04/2025, 21:09 - Letizia ALLEGRINI: Oui moi aussi
+14/04/2025, 21:12 - +33 7 83 62 43 52: Ce message a été supprimé.
+14/04/2025, 21:22 - Letizia ALLEGRINI: Aie je crois que cela ne fonctionne plus snif c'était vraiment bien

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 21
+
+=== CONTENU ===
+-  Lorsqu'un tiers traite les données pour le compte du responsable initial (par exemple un éditeur avec Discord), un contrat de sous-traitance est nécessaire pour garantir le respect du RGPD.
+##  Obligations Additionnelles du Responsable de Traitement
+# Risques et Sanctions
+-  Les risques sont faibles, mais des sanctions administratives peuvent être appliquées en cas de plainte d'un parent d'élève.
+-  Les chefs d'établissement et directeurs de centre de formation peuvent faire l'objet de sanctions pénales, contrairement aux enseignants.
+-  Les données personnelles sont traitées par le responsable de traitement, tel que le recteur ou le directeur, dans le cadre éducatif.
+# Responsabilités et Traitement des Données
+-  Différentes autorités sont responsables du traitement des données selon le niveau scolaire.
+-  Le président d'université est souvent responsable du traitement des données dans l'enseignement supérieur.
+-  L'enseignant n'est jamais responsable du traitement des données personnelles.
+# Protection des Données Personnelles
+-  Des identifiants collectifs pour les élèves permettent de respecter la réglementation sur la protection des données.
+-  Les données traitées servent à améliorer les systèmes éducatifs et peuvent être réutilisées pour entraîner des modèles.
+# Risques liés à la technologie
+-  Risques associés à la technologie, notamment liés aux données personnelles stockées en entraînement primaire et secondaire.
+-  Risques de régurgitation de données personnelles par des requêtes dans les modèles, pouvant divulguer des informations sensibles.
+-  Problèmes de discrimination liés aux biais des modèles pouvant impacter les feedbacks, notations et prédictions.
+# Services et responsabilités
+-  Différenciation entre services personnels et professionnels, avec restrictions d'utilisation pour les salariés et élèves.
+-  Services "bêtes" pour un usage quotidien personnel, non destinés à un usage professionnel institutionnel.
+-  Contrats entre éditeurs et institutions pour l'utilisation de services professionnels sous conditions spécifiques.

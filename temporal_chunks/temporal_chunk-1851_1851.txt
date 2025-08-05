@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 18
+
+=== CONTENU ===
+Ca va mettre 2hà implémenter car il y a beaucoup de prompts/agents à faire communiquer ensemble, mais il y a moyen j'imagine de créer un agent chapitre avec leur p’ateforme multi agent:.- un agent contrôle editorial global qui est chef de:
+- un copywriter qui crée un style précis de la manière d'écrire et de citer les sources
+- un coach d'écrivain correcteur
+- un coach orthographe et lisibilité correcteur
+Ces trois agents discutent donc dans l'ordre avec des sous agents écrivain:
+- un écrivain intro
+- un écrivain chp 1
+- ...
+- un écrivain conclusion
+Le but étant de faire communiquer l'équipe des 3 agents dans une boucle d'écriture avec chaque sous écrivain
+Donc chaque partie est revue et corrigée 2-3 fois sur base d'un brief et de relecture d'agents
+Ensuite à la fin le contrôle editorial écrit à la fin une explication du travail (abstract et la méthode pour l'écrire)
+02/03/2025, 20:03 - +32 483 60 53 96: Mais bon en vrai si c'est pour écrire qu'un seul document long, autant passer par les premier3s méthodes. Si c'est pour écrire plusieurs formats longs à l'avenir alors investir son argent et temps dans un process multi agents peut être intéressant.
+02/03/2025, 20:04 - +32 483 60 53 96: J'ai la question bcp à l’université, et jamais je leur conseillerai de faire du multi agents haha pour l'intégrité quand même.
+Aussi je le conseillerai (long prompt) que à des personnes qui maîtrisent leur sujet comme des chercheurs ou professeurs. Jamais des étudiants.
+02/03/2025, 20:13 - +32 483 60 53 96: Aussi faut savoir que c'est plus dans des contextes de soumissions de projets pour des appels à projets et moins de la recherche ou publications scientifiques je précise!
+02/03/2025, 20:15 - +32 483 60 53 96: Jusqu'ici les chercheurs font une partie côté contenu scientifiqur sans ia
+Mais j'ai déjà des témoignages que dans les peer review d'articles il y a un enjeu à détecter des dépôts fait par de l’ia (que ce soit ce qu'on review mais aussi comment on fait le peer review) >> plus gros risque pour la science et lintegrite académique

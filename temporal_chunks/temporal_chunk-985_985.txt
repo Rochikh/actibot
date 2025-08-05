@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 18
+
+=== CONTENU ===
+25/09/2024, 17:10 - +33 6 70 02 97 35: Oui ça fonctionne
+25/09/2024, 17:10 - +33 6 70 02 97 35: <Médias omis>
+25/09/2024, 17:12 - Ahmadou Ba: Donc verifie la co figuration de votre GPT, cela doit être, un probléme a votre niveau si vous ne parvenez pas à acceder à votre GPT, mettez le à jour.
+25/09/2024, 17:13 - +33 6 70 02 97 35: Ok ☺️ merci
+25/09/2024, 17:14 - Ahmadou Ba: C'est un assistant pour concevoir des fiches pédagogiques pour l'élémentaire, il est entrain selon les curricula de l'education de base en vigueur au Sénégal, pour ceux qui voudrez le tester.
+25/09/2024, 21:11 - +212 644-562660: <Médias omis>
+25/09/2024, 21:30 - ‎+33 7 50 92 87 55 est parti·e
+25/09/2024, 21:33 - fm Florent iA: Il me semble que c'est optionnel. Perso c'est en essai pour 20 jours encore malgré abo annuel.
+Par ailleurs c'est pas fou fou comme résultat mais intégré c'est déjà un début 😅 <Ce message a été modifié>
+25/09/2024, 21:39 - Rochane: Attention essai de 10 jours et après, il faudra payer 240 EUR en plus de la licence annuelle
+26/09/2024, 10:10 - +32 479 94 80 38: Bonjour, je cherche un prompt (ou une IA spécialisée ?) qui me permette de traiter un batch de 30 pages de verbatims (issus d'une enquête quanti et quali) afin d'en extraire les codes, les mots-clés, les thématiques principales, les thèmes qui reviennent régulièrement, etc. QQun aurait cela sous la main ? merci!
+26/09/2024, 10:12 - Rochane: Salut Manuela, tu as testé aistudio.google ?
+26/09/2024, 10:14 - +34 683 61 41 61: Le Sphinx Quali faisait cela très bien. Analyse lexicale et sémantique
+26/09/2024, 10:19 - +34 683 61 41 61: Il s´agit de faire une analyse des verbatims en catégorisant un certain nombre de lemmes. Après le logiciel fait le reste ! On ne parle pas forcément d'IA mais les processus sont les mêmes
+26/09/2024, 10:23 - +32 479 94 80 38: Excellent, merci Serge!
+26/09/2024, 10:23 - +32 479 94 80 38: non!
+26/09/2024, 10:24 - +32 479 94 80 38: tu le conseilles pour cet usage ?
+26/09/2024, 10:38 - Rochane: Oui

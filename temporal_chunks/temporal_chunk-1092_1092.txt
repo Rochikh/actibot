@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 12
+
+=== CONTENU ===
+19/10/2024, 10:13 - Jean-Marc Everard: OK, merci du conseil Rochane. Je vais faire cela 👍🏻
+19/10/2024, 10:24 - +33 6 88 57 53 04: Assez déçu par cette vidéo...
+Intéressante pour pointer quelques défauts dans des prompts auto proclamés comme experts mais elle ne propose pas bcp de pistes d'amélioration. Tout au plus, quelques conseils ponctuels, sans réécriture des prompts pour les améliorer.
+Par ailleurs, l'auteur passe un temps démesuré à mettre en avant ses propres formations. C'est le jeu mais la densité et la richesse de cette vidéo ne me semble pas convaincantes...
+19/10/2024, 10:41 - Hoang: Oui j’ai laissé un commentaire dans ce sens, ce que j’ai aimé ça l’analyse des prompts dit « parfait » des youtubeurs. Clairement, il aurait été beaucoup plus pertinent de mettre en application avec des cas d’usages et des exemples
+19/10/2024, 12:31 - +33 6 64 50 56 67: Bonjour, je prépare une présentation sur la webradio scolaire et j'ai posté mon document en français sur https://notebooklm.google.com/ pour voir ce que cela donnait. Le résultat est bluffant. J'ai vu quelques critiques sur les réseaux qui indiquaient que le résultat n'était pas naturel...j'avoue je me pose des questions (à part pour la mention de google classroom alors que je parlais d'ENT dans mon document, mais bon normal) https://notebooklm.google.com/notebook/8a40922d-0e69-4dcf-9d08-a283a3cf6d3d/audio
+19/10/2024, 12:36 - Rochane: Le truc le plus apprécié et difficile à imiter ce sont les voix naturelles 🙂
+19/10/2024, 17:52 - +216 25 000 725: Est-ce qu'il y a une IA qui permet de créer le contenu d'un cours à partir d'un plan de cours
+19/10/2024, 17:59 - +33 6 68 31 74 03: Ce message a été supprimé.
+19/10/2024, 18:33 - +32 493 87 42 05: Magicschool ai et learningstudio ai
+19/10/2024, 18:35 - +32 493 87 42 05: https://youtu.be/Hl7OzqPld50?si=T_Rj0FFq3uZMlWnz
+19/10/2024, 18:47 - Gregoire IA: Attention à l'alignement pedagogique, ces outils ne le respectent pas toujours et tu risque d'avoir un contenu de cours qui ne sera pas adapté

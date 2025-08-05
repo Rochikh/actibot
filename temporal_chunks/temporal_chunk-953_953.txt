@@ -1,0 +1,35 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 27
+
+=== CONTENU ===
+19/09/2024, 09:55 - ‎+33 6 72 27 57 91 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 10:07 - +32 496 42 84 33: Merci! je viens de tester, ça marche pour les villes mais au niveau des rues ça coince.
+19/09/2024, 10:09 - +33 7 86 61 52 66: Il faudra tricher un peu dans les textes 😱🤪
+19/09/2024, 11:57 - ‎+32 476 87 27 04 a demandé à rejoindre le groupe.
+19/09/2024, 12:05 - ‎+32 497 76 20 94 a demandé à rejoindre le groupe.
+19/09/2024, 12:36 - ‎+32 476 87 27 04 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 12:36 - ‎+32 497 76 20 94 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 12:40 - ‎+32 474 05 34 87 a demandé à rejoindre le groupe.
+19/09/2024, 12:50 - ‎+32 496 93 38 31 a demandé à rejoindre le groupe.
+19/09/2024, 12:53 - ‎+32 483 02 83 90 a demandé à rejoindre le groupe.
+19/09/2024, 13:31 - ‎+33 6 95 64 90 15 a demandé à rejoindre le groupe.
+19/09/2024, 14:07 - ‎+33 6 95 64 90 15 a rejoint le groupe à partir de la communauté.
+19/09/2024, 14:07 - ‎+32 483 02 83 90 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 14:07 - ‎+32 496 93 38 31 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 14:07 - ‎+32 474 05 34 87 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 15:04 - Votre code de sécurité avec +33 6 98 44 93 11 a changé. Appuyez pour en savoir plus.
+19/09/2024, 16:28 - Votre code de sécurité avec +216 28 533 786 a changé. Appuyez pour en savoir plus.
+19/09/2024, 16:39 - Votre code de sécurité avec +216 28 533 786 a changé. Appuyez pour en savoir plus.
+20/09/2024, 08:47 - ‎+32 495 20 19 14 a demandé à rejoindre le groupe.
+20/09/2024, 09:59 - Fred IA: Bonjour,
+Du nouveau avec OpenAI et les nouveaux modèles strawberry :
+Chat GPT Plus :
+- 01-preview : désormais 50 messages par semaine possible
+- 01-mini : désormais  50 messages par jour possible
+Chat GPT gratuit :
+- Accès à 01-mini (limitation non précisée, mais inférieure à celle de Chat GPT Plus)
+20/09/2024, 10:00 - Fred IA: <Médias omis>

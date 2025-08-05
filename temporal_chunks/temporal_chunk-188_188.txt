@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 12
+
+=== CONTENU ===
+J’ai suivi cette formation. C’est assez poussé. Env. 350h. Ça passe sans prerequis en python en étant bien motivé.
+03/02/2024, 16:34 - +212 665-149535: Gratuite
+03/02/2024, 16:34 - +212 658-518929: Non. C’est payant et assez cher en effet. Mais la qualité est excellente. Pour avoir quelques bases, une formation gratuite suffit. Pour explorer de nouvelles perspectives professionnelles, il faut aller plus loin. Tout dépends du projet et des objectifs recherchés. <Ce message a été modifié>
+03/02/2024, 17:46 - Rochane: L'adoption de l'Artificial Intelligence Act (AI Act) par les membres de l'Union européenne marque une étape significative dans la régulation de l'intelligence artificielle (IA) à l'échelle mondiale. Voici les points clés de cette nouvelle législation :
+Adoption unanime: Le 2 février, les Vingt-Sept ont unanimement approuvé l'AI Act, une législation pionnière destinée à réguler l'utilisation de l'IA au sein de l'UE. Cette approbation unanime témoigne d'un large consensus sur la nécessité de contrôler le développement et l'application de l'IA.
+Entrée en vigueur: La législation est prévue pour entrer en vigueur le 30 avril, avec une application graduelle des différentes dispositions sur plusieurs années. Cette période d'application échelonnée permettra aux acteurs de l'IA de s'adapter aux nouvelles exigences réglementaires.
+Étapes clés:
+Dans les 6 mois : interdiction effective des cas d'usage de l'IA jugés inacceptables ou dangereux.
+Dans l'année : application des obligations générales pour les acteurs impliqués dans l'IA.
+Dans les 2 ans : mise en œuvre de toutes les contraintes législatives pour tous les cas d'usage de l'IA.
+Dans les 3 ans : délai supplémentaire accordé pour les applications d'IA à haut risque nécessitant une évaluation externe.
+Équilibre entre innovation et sécurité: L'AI Act vise à trouver un juste milieu entre le soutien à l'innovation technologique et la protection des droits fondamentaux des citoyens, assurant ainsi un développement de l'IA à la fois sûr et respectueux des valeurs européennes.

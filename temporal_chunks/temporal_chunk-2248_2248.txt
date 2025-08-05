@@ -1,0 +1,36 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 28
+
+=== CONTENU ===
+- Varied sentence structure and length
+- Presence of idiomatic expressions or colloquialisms
+- Personal anecdotes or unique perspectives
+- Subtle humor or wit
+- Inconsistencies or minor errors that an AI might not make
+Provide a detailed analysis of your findings. Discuss specific examples from the text that support your observations. Consider both the content and the style of writing.
+After your analysis, provide a conclusion about whether you believe the text was written by an AI or a human. Include a confidence score from 0 to 100, where 0 means "Certainly human-written" and 100 means "Certainly AI-generated".
+Present your response in the following format:
+<analysis>
+[Your detailed analysis here]
+</analysis>
+<conclusion>
+[Your conclusion about AI or human authorship]
+</conclusion>
+<confidence_score>
+[Your confidence score from 0 to 100]
+</confidence_score>
+Remember to base your analysis solely on the characteristics of the text itself, without making assumptions about the author's identity or background.
+17/06/2025, 12:27 - Batier Christophe: <Médias omis>
+17/06/2025, 14:50 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+17/06/2025, 19:13 - Votre code de sécurité avec ~ JM a changé. Appuyez pour en savoir plus.
+17/06/2025, 19:45 - Rochane: J'ai un dossier NotebookLM depuis plus d'un an dans lequel j'ai fait de la curation avec 103 sources. J'ai généré ce podcast qui reprend l'idée générale en citant quelques passages.
+À partir de l'audio, j'ai testé l'outil jogg.ai pour le transformer en vidéo, il m'a généré une vidéo de presque 250Mo que j'ai mis dans un Drive
+bit.ly/veilleIA2025
+17/06/2025, 19:46 - estelle Duterage Drion IA: C’est quoi de la curation? <Ce message a été modifié>
+17/06/2025, 19:48 - Rochane: En gros, c'est filtrer une grande masse de sources et l'organiser dans un but de la partager
+17/06/2025, 19:48 - estelle Duterage Drion IA: Ah ok
+17/06/2025, 19:51 - Fred IA: Et avec jogg.ai, tu as pu générer la vidéo sans abonnement particulier ? C'est top <Ce message a été modifié>

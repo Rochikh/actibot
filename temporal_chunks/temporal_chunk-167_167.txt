@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 20
+
+=== CONTENU ===
+20/01/2024, 19:29 - Votre code de sécurité avec +33 6 24 47 73 06 a changé. Appuyez pour en savoir plus.
+21/01/2024, 12:38 - Jacques BARATTI: Super un grand merci pour le partage 👍
+21/01/2024, 17:29 - ‎+33 6 87 86 78 87 a rejoint le groupe à partir de la communauté.
+22/01/2024, 10:18 - +33 6 88 57 53 04: Bonjour
+Avec la version 3.5 de chat gpt, je souhaiterais obtenir des réponses sous la forme d'une synthèse vocale (si possible, sans avoir à faire des copier/coller dans un autre outil à chaque fois).
+Auriez-vous une solution technique à me proposer ?
+Bonne journée
+Simon
+22/01/2024, 10:29 - Rochane: Chat GPt 3.5 ne génère aucun fichier. Tu peux simplement avoir une réponse vocale si tu utilises l'App
+22/01/2024, 10:32 - Rochane: Ou alors, tu passes par une automatisation avec un outil comme Make ou zapier avec l'API Openai ( payante)
+22/01/2024, 11:44 - +33 6 88 57 53 04: Ok. Merci
+23/01/2024, 09:12 - ‎+33 7 85 04 14 98 est parti·e
+23/01/2024, 15:42 - Votre code de sécurité avec +33 6 52 87 33 55 a changé. Appuyez pour en savoir plus.
+23/01/2024, 15:44 - Laurent The Cure: Bonjour à tous, il me semble que vous avez parlé de la possibilité de repousser la limite d'utilisation de GPT-4 en remplissant le formulaire. je ne retrouve pas cette information dans la conversation. Y'a-t-il des "bonnes" et "mauvaises" réponses dans le remplissage de ce formulaire ?
+23/01/2024, 15:44 - Laurent The Cure: merci d'avance
+23/01/2024, 15:45 - Laurent The Cure: Question subsidiaire :
+"You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again after 5:32 PM."
+C'est l'heure de quel fuseau horaire ?
+23/01/2024, 15:46 - Rochane: En fait, quand tu arrives à ta limite, il te dit que tu ne peux pas continuer avant telle heure, tu as juste derrière un lien " en savoir plus" . C'est ce lien qui pointe sur le formulaire 🙂 <Ce message a été modifié>
+23/01/2024, 15:47 - Laurent The Cure: oui j'ai vu cela mais je voulais savoir si n'importe quelle réponse (How are you using ChatGPT?

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 19
+
+=== CONTENU ===
+💡 Impact concret : Non-conformité avec le principe de licéité du RGPD qui exige une base juridique spécifique pour chaque traitement, fragilisant la validité du consentement.
+2. Conformité aux droits des utilisateurs
+Exercice des droits RGPD
+⚠ Constat : Absence de mention des droits RGPD fondamentaux et de leur procédure d'exercice
+📝 Explication : Les droits d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité garantis par le RGPD ne sont pas explicitement mentionnés.
+💡 Impact concret : L'utilisateur n'est pas correctement informé sur ses droits ni sur la manière de les exercer, ce qui est contraire à l'obligation de transparence du RGPD.
+Information sur les cookies
+⚠ Constat : Définition générique des cookies sans précision sur leur utilisation
+📝 Explication : Les cookies sont définis comme "petits fichiers placés sur votre ordinateur" mais sans détail sur les types utilisés, leur durée de conservation ni les finalités précises.
+💡 Impact concret : Impossibilité pour l'utilisateur de gérer efficacement sa vie privée en ligne et non-conformité avec la directive ePrivacy et les lignes directrices du CEPD sur le consentement aux cookies.
+3. Sécurité et gouvernance des données
+Sous-traitance et partage de données
+⚠ Constat : Mention vague des "Service Providers" sans liste précise
+📝 Explication : La politique mentionne le recours à des prestataires de services sans identifier ces entités ni préciser les garanties contractuelles et organisationnelles mises en place.
+💡 Impact concret : L'utilisateur ne peut pas évaluer les risques liés au partage de ses données avec des tiers, potentiellement situés hors UE.
+Mesures de sécurité
+⚠ Constat : Absence d'information sur les mesures de sécurité
+📝 Explication : Aucune mention des mesures techniques et organisationnelles mises en œuvre pour protéger les données personnelles contre les accès non autorisés ou les fuites.
+💡 Impact concret : Impossibilité d'évaluer le niveau de protection accordé aux données personnelles et risque accru d'incidents de sécurité non détectés ou non communiqués.

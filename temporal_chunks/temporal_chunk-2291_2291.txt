@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+Le plus complet du marché et gratuit à mon avis
+https://youtu.be/geR9PeCuHK4?feature=shared
+30/06/2025, 17:04 - Gregoire IA: Je bugue sur ce sujet, si on pouvait organiser un atelier ce serait génial
+30/06/2025, 17:05 - Gregoire IA: Pas de pb pour développer des assistants mais les agents c'est autre chose et je n'arrive jamais à faire 😅
+30/06/2025, 17:11 - +32 498 78 46 36: J'ai créé un test de 7 questions afin d'obtenir son profil de maturité à l'IA, des points d'attention, et des pistes d'amélioration. Il est disponible sur mon Github en licence CC-BY-2.0, n'hésitez pas à le copier, l'améliorer etc ;)
+https://www.linkedin.com/posts/johan-creeten_quel-genre-dutilisateur-dia-%C3%AAtes-vous-activity-7345468372085534721-DfLo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdwCNIBxbRe03zaunM_TZ6CgCm7Uykf1EY
+30/06/2025, 17:20 - Rochane: Bravo Johan, ça fait réfléchir et parfois c'est difficile de trancher entre 2 propositions. J'ai eu 86%😁
+30/06/2025, 17:29 - +44 7776 747507: Bienvenu au club! 😁
+30/06/2025, 17:32 - +44 7776 747507: Merci @33649535198, Drake est très généreux et beaucoup moins 'vendeur (salesy)' que d'autres!
+30/06/2025, 18:26 - Jean-Marc Everard: Je plussoie. J’ai un serveur dédié n8n mais c’est la galère pour le connecter convenablement aux outils etc… je voudrais aussi créer un agent purement en local avec n8n et Ollama. Sur papier ça doit être possible, dans les faits je galère…
+01/07/2025, 01:12 - Gregoire IA: J'avais publié sur ce point, je serais curieux de faire ce test pour croiser avec mon carrousel
+01/07/2025, 09:56 - Votre code de sécurité avec ~ Jean-Baptiste a changé. Appuyez pour en savoir plus.
+01/07/2025, 09:58 - ‎+62 877-3060-7092 a demandé à rejoindre le groupe.
+01/07/2025, 10:15 - +33 6 33 75 30 50: Bonjour à tous. S’il en est qui tout comme moi pensent qu’il n’y a pas de changement sans changement de vocabulaire et que parfois nous manquons de mots pour nommer les  transformations induites par l’IA, alors peut-être serez-vous intéressés par ce projet :

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 12
+
+=== CONTENU ===
+09/02/2024, 17:57 - Rochane: J'ai appris un truc dans un Mooc, à mettre dans les Custom Instructions qui permet de générer un lien pour préparer le mail à être envoyé à partir de son client messagerie, sauf que chez moi le lien hypertexte n'est pas cliquable. Quelqu'un peut tester "Whenever I ask you to create an email, also add a mailto link under it with:[Send Email](mailto:[email-address]?[subject]=[subject-text]&[body]=[body-text])"
+09/02/2024, 18:11 - Rochane: 🤣 https://kulturegeek.fr/news-304518/insolite-utilise-chatgpt-discuter-plus-5000-femmes-tinder-ca-marche
+10/02/2024, 13:21 - +33 6 86 72 33 98: Bonjour, connaissez-vous une IA pour élaborer des CV? Merci pour ce groupe et pour les partages et la générosité de tous ses membres! 🙏
+10/02/2024, 13:24 - +33 6 86 72 33 98: Jusqu'à présent, j'utilise Canva mais peut être y en a t'il d'autres?
+10/02/2024, 13:33 - Rochane: https://resumake.io/generator/skills
+10/02/2024, 13:41 - +32 493 87 42 05: Bonjour, svp connaissez-vous une IA autres et peut-être plus performant que Canva qui aide dans la conception des eBook? Je vous remercie par avance!
+10/02/2024, 13:57 - +33 6 76 04 48 20: Bonjour, après consultation, je pense qu’il y a un autre moyen de procéder : on ne trouve pas à proprement parler d’IA qui puisse permettre de rédiger un CV, on peut le demander à ChatGPT, mais il risque de partir dans tous les sens.
+Une autre façon de procéder peut-être plus pragmatique serait de rentrer un CV dans ChatGPT, et de lui demander de l’interpréter ou de le reformuler.
+Une deuxième façon de procéder serait d’entrer chacune des expériences vécues pour lui demander la même chose, de même pour chacun des domaines de compétences, en lui demandant de les requalifier, de demander des adjectifs, qui puissent permettre de mettre la compétence en valeur.
+Il s’agit en fait d’utiliser l’IA comme un outil ((ce qu’elle est véritablement) plutôt que de lui demander de faire le travail à notre place.
+Qu’en pensez-vous ?
+10/02/2024, 19:11 - ‎+212 644-562660 a rejoint le groupe à partir de la communauté.

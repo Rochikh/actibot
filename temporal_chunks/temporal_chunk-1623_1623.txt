@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 11
+
+=== CONTENU ===
+21/01/2025, 19:13 - Francois Bocquet: A mon avis il manque une confrontation IRL avec évaluation de la pertinence du raisonnement et de références à l’oral. L’aveu ne me parait pas éthique ni suffisant :-(
+21/01/2025, 19:31 - +32 483 60 53 96: Oui évidemment, avec une confrontation IRL
+21/01/2025, 19:32 - +32 483 60 53 96: Tout à fait
+21/01/2025, 19:57 - +32 483 60 53 96: Par là je veux dire qu’il va surement avoir très peu de sanctions.
+La clarification des fiches descriptives des cours avec les usages autorisés est la clé, ainsi que l'adaptation des évaluations. Mais il faut déjà pouvoir former les enseignants et intégrer des acquis d’apprentissage aussi dans certains cours liés aux IA.
+21/01/2025, 20:04 - +33 6 46 86 16 67: <Médias omis>
+21/01/2025, 20:05 - +33 6 46 86 16 67: Outil pour préparer le grand oral 🤯
+21/01/2025, 22:14 - +33 6 46 86 16 67: Après quelque tests ; il laisse passer sans souci un texte de 3 minutes sans problématique ni plan juste des idées à l’arrache. Mais quand même une belle aide ! J’aimerais vous lire à ce sujet si vous testez :)
+21/01/2025, 22:24 - Daniel Pappalardo: Je vais essayer et je te dirai. J'ai testé co-grader un outil IA de correction de devoir et utilisé Gemini aussi dans le même usage. Sans être parfait j'ai été impressionné par leurs capacités à évaluer des dissertations par capacités. En revanche ils étaient moins performants pour corriger une commentaire de document. Après j'ai dû affiner régulièrement le prompt de départ avec quelques exemples d'argumentation pour qu'ils puissent être plus pertinent. Pour le moment cela ne nous remplace pas, mais on est quand même sur quelque chose de fonctionnel et pour le coup peu subjectif .
+21/01/2025, 22:27 - +33 6 46 86 16 67: J’ai utilisé ChatGPT avec un prompt pour évaluer les textes de mes élèves, bien sûr en anonymisant, expliquant mes critères… (podcasts radios), c’est pas mal comme base. Après je dois toujours y revenir mais ça aide bien.
+21/01/2025, 22:27 - +33 6 42 26 64 70: il y a sûrement moyen de faire un bon grand prompt avec le sujet en variable et le balancer via Upmeet ou Plaud, mais l’idée est bonne et surtout si elle est gratuite ! Par contre, sûrement pas grand chose de RGPD la dedans…

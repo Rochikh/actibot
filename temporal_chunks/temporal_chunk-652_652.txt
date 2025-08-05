@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 13
+
+=== CONTENU ===
+bit.ly/2024BFIA
+17/06/2024, 19:46 - +41 79 326 51 40: Merci beaucoup 🙏🏻
+17/06/2024, 20:01 - Yann-Ael: Aussi, le site Vittascience qui permet de mettre en place des activités assez variées et concrètes en IA https://en.vittascience.com/ia/ (avec interface similaire à la Teachable Machine, et possibilité de programmer avec les modèles ensuite en Scratch ou Python)
+17/06/2024, 20:03 - +41 79 326 51 40: Trop bien! Merci infiniment
+17/06/2024, 20:16 - ‎+33 6 66 56 87 96 a rejoint le groupe à partir de la communauté.
+17/06/2024, 20:16 - ‎+33 6 37 67 45 67 a rejoint le groupe à partir de la communauté.
+17/06/2024, 20:16 - ‎+33 6 07 16 70 19 a rejoint le groupe à partir de la communauté.
+17/06/2024, 20:34 - ‎+33 6 33 81 62 28 a demandé à rejoindre le groupe.
+17/06/2024, 20:41 - ‎+33 6 33 81 62 28 a rejoint le groupe à partir de la communauté.
+17/06/2024, 20:45 - +33 6 20 97 18 83: Bonjour @41793265140, Si mes souvenirs sont bons en termes de bonnes pratiques de la formulation du prompt @33614272586  avait proposé une superbe ressource très complète destinée aux ingénieures mais qui a mon avis peut-être réadapté à un jeune public. Enfin, je ne sais pas si la ressource est toujours disponible en partage dans ce groupe?  Ou le lien vers le replay de sa présentation. Ça m'intéresse aussi, j'accompagne sur la formation  des enseignants et des étudiants à l'IA dans le supérieur.
+17/06/2024, 21:05 - +41 79 326 51 40: Merci beaucoup pour ces références. 😍Je vais aller voir.
+En fait, *je m'interroge surtout sur la possibilité et/ou le bien fondé d'une évaluation des prompts produits par mes élèves.* Cette année je leur ai donné les fondements des prompts... Cependant, j'ai réalisé qu'en fait ils connaissent la théorie mais, ensuite, ils reviennent aux vieux automatismes et utilisent chatgpt comme un moteur de recherche... voire fournissent des documents hors sujets ou infondés... J'aimerais trouver une solution viable pour la prochaine année.
+17/06/2024, 21:08 - Vincent DROUOT: @33620971883 Oui en effet il y a des prompts très bien pensés, réalisés par ce couple d’Universitaire.

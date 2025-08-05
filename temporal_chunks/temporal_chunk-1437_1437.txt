@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 19
+
+=== CONTENU ===
+18/12/2024, 10:55 - ‎+33 7 69 51 13 31 a rejoint ce groupe grâce à son lien d’invitation
+18/12/2024, 10:55 - ‎+33 6 17 95 18 89 a rejoint ce groupe grâce à son lien d’invitation
+18/12/2024, 11:39 - +33 6 17 95 18 89: Bonjour à tous, merci pour l’ajout 😊
+18/12/2024, 11:43 - François JOURDE: Pour info, la conversation se poursuit aussi ici https://www.linkedin.com/posts/jourde_rag-in-schools-deployment-or-development-activity-7274809640209551361-dnbL?utm_source=share&utm_medium=member_desktop
+18/12/2024, 13:44 - ‎Adrien Bock IA a demandé à ajouter +33 6 65 15 04 66.
+18/12/2024, 15:34 - Votre code de sécurité avec +33 7 83 16 44 23 a changé. Appuyez pour en savoir plus.
+18/12/2024, 15:53 - +33 6 76 07 83 70: Bonjour,  je cherche un outil pour des réunions visio sans limite dans le temps, zoom est payant. Est-ce qu'il vaut le coup ou connaissez-vous un outil meilleur. Merci pour vos retours
+18/12/2024, 15:54 - ‎Adrien Bock IA a ajouté +33 6 65 15 04 66
+18/12/2024, 15:55 - +33 6 17 95 18 89: Jitsi Meet
+18/12/2024, 15:56 - +213 770 60 32 81: Pour des petites réunions, Jitsi Meet ou Whereby sont idéaux grâce à leur simplicité.
+Pour des groupes plus grands, essayez Google Meet ou Microsoft Teams.
+Si vous cherchez une solution open source pour personnaliser, explorez BigBlueButton ou Jitsi Meet.
+18/12/2024, 15:57 - +33 6 76 07 83 70: Merci je vais essayer
+18/12/2024, 16:46 - +33 7 83 62 43 52: Si vous êtes agent de l'éducation nationale vous avez accès à Visio agent via AppsEdu. Gratuit, respecte le RGPD, ... Et très intuitif :-)
+18/12/2024, 16:59 - +34 618 97 47 94: Dicte.ai et Noota.io
+18/12/2024, 16:59 - +34 618 97 47 94: Pour des entretiens en présentiel
+18/12/2024, 17:36 - +33 6 88 57 53 04: L'application LOKAS de Framasoft fonctionne très bien aussi. Gratuite ET libre
+18/12/2024, 17:36 - +33 6 88 57 53 04: https://framablog.org/2024/12/03/enregistrer-et-transcrire-vos-reunions-avec-lokas/
+18/12/2024, 17:38 - +33 6 64 50 56 67: Avec le site pour une vision intéressante sur l ia. https://framamia.org/fr/

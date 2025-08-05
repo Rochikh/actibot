@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 12
+
+=== CONTENU ===
+Il y a qq erreurs d'élocution et d'interprétation du document (les fameuses hallucinations) mais j'imagine que l'outil va progresser. Peut-être qu'en anglais, il se débrouille mieux...
+23/10/2024, 07:12 - +33 7 63 58 01 55: J'ai retrouvé la source de l'info : https://www.linkedin.com/feed/update/urn:li:activity:7254450274101080066?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7254450274101080066%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+23/10/2024, 08:23 - ‎+33 6 35 93 35 80 est parti·e
+23/10/2024, 08:42 - Rochane: Hahahaha, ils parlent de nous 😀 (export de la conversation du groupe avec l'instruction de parler en français) https://notebooklm.google.com/notebook/819ababc-4719-428f-b9f7-ade8727296b9/audio
+23/10/2024, 08:49 - martinyemani IA: Super. Bravo pour l'initiative Rochane..!!!
+23/10/2024, 08:53 - +32 498 78 46 36: C'est quand même pas mal fichu! Ca reste générique et flou dans les questions réponses du podcast mais je suppose que c'est juste une histoire de le customiser avec un prompt qui demande plus d'exemples concrets.
+23/10/2024, 09:22 - +33 7 87 35 78 96: Il faut essayer de très bien structurer un document avant de le soumettre. Plus le document sera structuré avec si possible présentation d'arguments pour puis contre et enfin synthèse plus le système saura gérer non ? J'ai testé avec un doc bien structuré (un livre blanc en anglais) et cela a bien marché
+23/10/2024, 09:41 - ‎+32 496 26 68 83 est parti·e
+23/10/2024, 09:55 - +41 76 372 28 94: Il y a deux voix en particuliers que j'ai adorées dans ce podcast. Hyper réalistes. Très agréables à écouter. Hélas il et elle ne parlent que quelques secondes. Ce serait hyper cool de pouvoir customiser les voix également !
+23/10/2024, 12:20 - Rochane: À quel moment du podcast ?
+23/10/2024, 12:38 - +33 7 63 58 01 55: Apparemment Wondercraft fait un boulot plus qualitatif et plus riche avec possibilité de cloner sa voix, entre autres, mais assez limité en gratuit (et assez cher en payant).
+https://www.wondercraft.ai/

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 12
+
+=== CONTENU ===
+Désactive la sauvegarde Google Drive en sélectionnant "Jamais"
+Appuie sur "SAUVEGARDER" pour lancer une sauvegarde locale
+Et voilà, WhatsApp sauvegardera automatiquement tes discussions et médias tous les jours à 2h du matin dans le dossier WhatsApp > Databases de ton stockage interne. Les 7 dernières sauvegardes sont conservées.
+12/05/2024, 16:34 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+12/05/2024, 17:32 - Rochane: Benoit partage son expérience d'écriture de roman avec l'IA de manière authentique et structurée, en trouvant un bon équilibre entre le récit personnel de son processus créatif pas à pas et des conseils universels pour inspirer d'autres auteurs, le tout avec un style clair et des exemples concrets qui rendent son propos facile à suivre. Je trouve cette expérience très riche🙂
+https://generationia.flint.media/p/comment-ecrire-un-roman-en-7-jours-avec-chat-gpt-ia
+12/05/2024, 18:40 - Rochane: Un article intéressant sur des tests de prompts
+https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html
+12/05/2024, 18:45 - Rochane: Le passage sur l'esprit critique et la créativité dans l'IA est fort intéressant
+https://www.universcience.fr/fr/esprit-critique/barometre-esprit-critique-2024
+12/05/2024, 21:16 - Thierry VANOFFE: Hello grosse semaine d'annonces IA en perspective, ça commence ce lundi soir avec OPEN AI. Ludo Salenne fait un live le lundi 13 mai à 21H pour en discuter : https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAAAdxfk8BjNfV0uOhVJwDxQbuUq9nCkQqERw%22%5D&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAdxfk8BjNfV0uOhVJwDxQbuUq9nCkQqERw&keywords=ludovic%20salenne&position=0&searchId=1fbf8c43-ac7b-4b92-ba1a-c56307213632&sid=uY%2C&sortBy=%22date_posted%22&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7195460072133591040%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse) et du côté de mardi 14 mai conférence Google IO à 19H
+13/05/2024, 12:26 - Guillaume Singeot: On commence à voir apparaître des référencements IA en fonction des métiers et des secteurs d'activités.

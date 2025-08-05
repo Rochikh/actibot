@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 7
+
+=== CONTENU ===
+12/03/2025, 09:30 - +33 6 63 78 33 03: Bonjour, c'est une question de statistique. En effet, sans doute 99,9 % des images de lapins sur Internet montrent seulement deux oreilles. On obtient le même résultat avec les montres : 99,9 % des cadrans de montre sur Internet affichent 10h10, car c'est plus joli ou plus vendeur. Il est donc impossible de demander une montre avec affichant 17h23...
+12/03/2025, 10:10 - Daniel Pappalardo: Il y a une discussion dans ce contexte particulier, qui pose des interrogations sur les outils et suites non européennes, leur usage en éducation (office 365, les outils de visios etc) qui appelle à la plus grande prudence et à l'usage d'"outils "souverains" Pour les visios par exemple après COVID  nous n'utilisons plus que des outils développés par l'état. Pour les suites numériques la question reste plus ouverte que tranchée...
+12/03/2025, 10:10 - Daniel Pappalardo: Au sein de l'Education Nationale en France
+12/03/2025, 10:11 - +33 7 69 51 13 31: <Médias omis>
+12/03/2025, 10:38 - Francois Bocquet: Pour les suites une note a été transmise aux recteurs fin février. Pourtant, Il n’y a pas à date de suites d’outils « souverains » équivalents ni même comparables aux suites Office 365 éducation ou Workspace Education qui proposent en plus des outils bureautiques, de l’IA générative CoPilot et Gemini utilisables de façon légale vis à vis du RGPD. Et si le principe de non dépendance et de souveraineté devait s’appliquer alors les systèmes d’exploitation comme android iOS MacOS ChromeOS ou Windows seraient également inutilisables puisqu’ils propagent  quantité de données parfois critiques hors UE lors d’usages scolaires. Insistons sur le fait que seul Mistral serait utilisable en appliquant ce même principe de souveraineté ou encore des instances locales sur les PC ou des serveurs locaux de LLM open source (Llama ou Deepseek en plus de Mistral). Ça l’imiterait pas mal les pratiques non ?
+12/03/2025, 10:38 - ‎+33 6 86 26 57 40 est parti·e
+12/03/2025, 10:47 - +33 6 19 89 32 62: C’est pour cela qu’il faudrait peut être apprendre à maximiser l’utilisation de Mistral en parallèle des maintenant.

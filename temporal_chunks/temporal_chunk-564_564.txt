@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 539
+Messages: 13
+
+=== CONTENU ===
+30/05/2024, 17:15 - Pierrick BRIAND: https://www.linkedin.com/feed/update/urn:li:activity:7201950002569527298/
+30/05/2024, 17:31 - ‎+33 6 95 26 98 39 a rejoint le groupe à partir de la communauté.
+30/05/2024, 19:26 - +33 6 25 79 50 95: Bonjour la communauté
+Après Mistral qui avait lancé un LLM moins gourmand, Microsoft annonce la sortie de petits modèles de langage hébergés sur Azure ou pouvant fonctionner en local sur un ordi ou un smartphone.
+Parmi vous, qui pourrait m'expliquer comment installer ce mini LLM sur mon smartphone ? (après l'avoir téléchargé sur hugging face)
+Et peut-être partager ensemble nos retours d'expériences lorsque nous l'aurons testé.
+Question complémentaire : faire tourner localement un LLM garantit la confidentialité des données entrantes (prompts) et sortantes (reponses) ?
+https://www.actuia.com/actualite/microsoft-presente-phi-3-la-nouvelle-generation-de-ses-modeles-de-langage-de-petite-taille/
+30/05/2024, 19:29 - Rochane: Perso, j'ai jamais testé car je n'ai pas de machine puissante et je ne suis pas sur windows mais curieux d'avoir des retours d'expérience 🙂
+30/05/2024, 19:39 - Pierrick BRIAND: Bonsoir @33625795095
+Tu dois parler de Phi-3 Mini sur smartphone. C’est clair qu’un modèle local offre en théorie plus de contrôle et plus de confidentialité à l'usage, mais il hérite aussi en partie des caractéristiques de ses données d'entraînement, qui restent opaques. Les données utilisées pour entraîner le modèle en amont soulèvent pas mal de questions car Phi-3 a été entraîné sur des « données web fortement filtrées » et des « données synthétiques ». Si tu peux tester ce mini LLM et partager tes retours, ce serait une excellente idée !
+30/05/2024, 21:24 - +33 6 81 36 11 13: Bonsoir , voici un lien vers une question sur Perplexity. comment je peux prévenir l'IA que sa réponse est fausse? Lien : https://www.perplexity.ai/search/Bonjour-Je-suis-UFYJ3Uw8Q4CcTuz9Nf3nlw
+30/05/2024, 21:27 - Rochane: C'est connu que l'IA n'est pas forte en maths même si Gpt 4o commence à être meilleur. Tu as testé Gpt 4o ( c'est gratuit) ? Et donne lui un rôle de prof de maths avec une grande expérience 🙂

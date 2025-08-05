@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+4. **Utiliser des outils spécifiques** : Des outils comme **Gamma** ou **Lumen5** peuvent également aider à créer des présentations à partir de textes en générant automatiquement des diapositives.
+5. **Exporter le fichier** : Finalement, exporte ta présentation au format souhaité (PowerPoint, Google Slides, etc.) pour pouvoir la partager ou la présenter.
+N'hésite pas à explorer des outils comme Canva pour des designs attrayants ! 🎨✨
+10/09/2024, 14:31 - +32 479 58 54 12: <Médias omis>
+10/09/2024, 14:33 - Rochane: il a l'information dans sa base de connaissance que l'on a partagé l'outil suno.ai, il prend ton contexte et te répond
+10/09/2024, 14:41 - +32 479 58 54 12: Comme je disais. Du pour et du contre 🤔. Pas encore convaincue mais c'est trop long d'un discuter ici. Prevoir peut-être un réunion en ligne avec un petit groupe d'interesses ?
+10/09/2024, 14:50 - StéphaneIA: L'extraction de contenu avec une IA est quelque chose qui fonctionne bien. Je le fais beaucoup avec Gemini car 2 millions de token en input. Je viens juste de faire un article pour questionner un Google Doc https://medium.com/@stephane.giron/discuss-with-your-google-docs-with-google-apps-script-and-gemini-1-5-flash-7f80abef8cb2
+10/09/2024, 14:55 - StéphaneIA: Pour ce genre de besoin j'irai aussi vers NotebookLM de Google
+10/09/2024, 15:00 - +32 479 58 54 12: Extraire des "pépites" des contenus echangés est certainement une bonne chose pour debuter. Mais il faudrait aussi aller plus loin et inciter chacun à partager ses propres pépites et ses besoins dans la base de connaissances pour la faire  grandir 🤔
+10/09/2024, 15:01 - +212 644-562660: y a seeker ai aussi ca marche avec claude sonnet pour 20 euros
+10/09/2024, 15:03 - Ahmadou Ba: ton bot est crée avec outil ?
+10/09/2024, 15:03 - +33 6 14 90 22 14: Bonjour à tous pour faire de la transcription vidéo to texte sur des fichiers volumineux que me conseillez vous ?
+10/09/2024, 15:07 - +212 644-562660: https://thewh1teagle.github.io/vibe/
+10/09/2024, 15:10 - +33 6 14 90 22 14: Merci je vais regarder

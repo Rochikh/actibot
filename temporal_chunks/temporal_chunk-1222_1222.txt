@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 16
+
+=== CONTENU ===
+12/11/2024, 18:34 - ‎+32 497 34 36 33 a demandé à ajouter Juliette Sciarrelli.
+12/11/2024, 18:37 - Jean-Marc Everard: Bon appétit ! le lien est celui-ci  et je le remettrai encore encore avant le live de 20h… https://bit.ly/3CmXwrq
+12/11/2024, 18:37 - Jean-Marc Everard: Euh.. 14h pour toi alors certainement.
+12/11/2024, 18:38 - ‎+32 497 34 36 33 a ajouté Juliette Sciarrelli
+12/11/2024, 19:13 - martinyemani IA: On pourrait enregistrer le son avec Audacity et faire le montage du podcast à sa convenance
+12/11/2024, 19:17 - Jacques BARATTI: Oui c'est une solution possible, on récupère un fichier wav que l'on peut donc facilement couper en morceaux de la taille choisie avec Audacity. On perd un peu de la logique globale (intro,...) mais c'est une solution. L'autre possibilité est de poser des questions sur du texte/documents plus petits en taille car la durée de la discussion dépend des données textuelles sur lesquelles on travaille
+12/11/2024, 19:19 - martinyemani IA: Oui poser des questions est une idée pertinente
+12/11/2024, 19:35 - Francois Bocquet: ca arrive dans quelques temps. Traduction en cours…
+12/11/2024, 19:39 - +33 6 20 97 18 83: Cet événement à t-il lieu aujourd'hui? Parce que sans date de précisée c'est difficile de se situer.
+12/11/2024, 19:42 - Jean-Marc Everard: Bonjour/bonsoir, oui c’est aujourd’hui. C’est vrai que la linéarité du flux d’informations sur ce canal de discussion tend à compliquer la compréhension. Mais oui, c’est donc dans 17 minutes, sur ce lien : https://bit.ly/3CmXwrq
+12/11/2024, 19:43 - +33 6 20 97 18 83: Merci!
+12/11/2024, 19:57 - Jean-Marc Everard: Petit rappel : nous nous retrouvons pour le live en suivant ce lien dans 2 minutes… https://bit.ly/3CmXwrq
+12/11/2024, 19:57 - Gregoire IA: merci, je suis dans la file d'attente ;-)
+12/11/2024, 19:57 - +33 6 26 04 96 40: Moi aussi
+12/11/2024, 22:17 - Votre code de sécurité avec +33 6 24 10 13 66 a changé. Appuyez pour en savoir plus.
+12/11/2024, 22:36 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 593
+Messages: 23
+
+=== CONTENU ===
+17/05/2025, 10:08 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+17/05/2025, 11:19 - Rochane: ‎Textai.vcf (fichier joint)
+17/05/2025, 11:19 - Rochane: Un nouveau chat beau à tester en lui posant toutes les questions
+17/05/2025, 11:42 - ‎Oumayma est parti·e
+17/05/2025, 16:05 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+17/05/2025, 17:00 - Rochane: ÉVÉNEMENT : Live le jeudi 29 mai !
+Heure de début de l’événement : 1748541600000
+Événement annulé : false
+Description de l’événement : Hello la team Iarena !
+On reprend les lives ce jeudi 29 mai de 20h à 21h (heure de Paris). Au menu :
+Natacha du Canada nous parlera de CABIIA, une communauté bilingue autour de l’IA en formation pro et éducation des adultes.
+Clément présentera sa méthode en deux temps pour passer d’un canevas de réflexion à un system prompt prêt à l’emploi, avec son GPT maison.
+Christophe partagera une ressource originale : tous les grands algos d’IA codés… dans Excel. Oui, c’est possible !
+Antonin nous montrera comment un chatbot peut t’aider à ne pas te noyer sous les nouveautés IA.
+Et pour finir, Gilles racontera comment il a réalisé un court-métrage avec plusieurs outils IA et pas mal de débrouille.
+Viens faire un tour, ça promet d’être riche et concret. À jeudi !
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+17/05/2025, 17:01 - Vous avez épinglé un message
+17/05/2025, 17:46 - Votre code de sécurité avec +216 96 532 639 a changé. Appuyez pour en savoir plus.
+17/05/2025, 17:55 - Votre code de sécurité avec +216 96 532 639 a changé. Appuyez pour en savoir plus.
+17/05/2025, 17:56 - Votre code de sécurité avec +216 96 532 639 a changé. Appuyez pour en savoir plus.
+17/05/2025, 18:31 - Jean-Marc Everard: Vu aujourd’hui sur linkedIn via le republish de @33679020995 : 14  compétences essentielles pour les étudiants utilisant l’IA générative (infographie au départ d’un article scientifique). Bon, ça finit par rejoindre toutes les compétences nécessaires pour utiliser l’IA en général mais je trouve la visualisation intéressante. https://www.linkedin.com/posts/hamid-saffari_%C3%A9tude-de-krause-et-al-2025-identifie-activity-7327390271489413120-QNBA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAABhKE0BszLk3tZgFp5moEHI_m3Ar6_v75E

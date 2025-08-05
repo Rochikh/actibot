@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 559
+Messages: 16
+
+=== CONTENU ===
+25/03/2025, 21:35 - +33 6 72 75 43 48: Ce message a été supprimé.
+26/03/2025, 06:52 - +33 6 72 75 43 48: https://brave.com/leo/
+Brave est un navigateur alternatif encore trop méconnu : sécurisé, confidentiel et ultra-rapide (d'autant plus sur tablette et mobile).  Il intègre depuis deux ans un assistant #IA — LEO (semblable à Perplexity) qui ne cesse de s’améliorer (recherches web, discussions,…) Cerise sur le navigateur : Les conversations avec Leo sont privées, anonymes et sécurisées.
+Source : Philippe Gérard
+26/03/2025, 07:32 - Rochane: La liste d’attente pour pouvoir tester « Comet », le futur navigateur de Perplexity boosté à l’IA, est ici : https://www.perplexity.ai/comet
+26/03/2025, 07:39 - +33 7 85 94 69 69: Il est connu brave
+26/03/2025, 07:41 - +33 6 72 75 43 48: Peut être …probablement que je n’assure pas une veille suffisante 😂
+26/03/2025, 07:44 - +33 7 85 94 69 69: Non j’ai pas dis mais la nouvelle génération les jeunes l’utilisent bcp (Après c’est peut être parce que je suis en cyber)
+26/03/2025, 07:47 - +33 6 72 75 43 48: Probablement j’ai beaucoup de jeunes autour de moi dans des cursus RH ou management… ils ne connaissent pas 😉
+26/03/2025, 07:47 - Ahmadou Ba: Même moi je viens de le découvrir mais il assure grave hein.
+26/03/2025, 08:22 - +33 7 88 05 39 17: Je trouve ca super interessant. Apres le retour que me feraient des profs serait « on fait comment pour verifier ca », le conformité legale (rgpd tout ca) par exemple mais pas que…je ne sais pas si ma reponse est claire. En tout cas ca pose des bases vraiment pertinentes. A ta dispo pour en discuter :-)
+26/03/2025, 08:24 - +32 496 25 51 91: Curieux de voir la différence avec Arc browser du coup.
+Sur smartphone c’est incroyable pour les recherches : il synthétise la demande, génère une recherche net et synthétise les résultats des 5-10premiers liens trouvés sur Chromium <Ce message a été modifié>
+26/03/2025, 08:43 - +33 6 43 10 07 29: null
+26/03/2025, 08:45 - Rochane: <Médias omis>
+26/03/2025, 08:50 - +33 7 87 35 78 96: Bon le béton c'est pas mon truc mais pour avoir du texte sans faute et des schémas … je vais tester cela d'autant plus que j'ai une formation IA à 360 avec revue d'un max d'outils à mettre à jour

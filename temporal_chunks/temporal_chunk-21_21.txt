@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 567
+Messages: 19
+
+=== CONTENU ===
+27/10/2023, 12:11 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 31/10 20h-21h :
+https://us06web.zoom.us/j/81276204849?pwd=5KLWiYAFf5xxwF3qT2IB5aPEAbbUUt.1
+Meeting ID: 812 7620 4849
+Passcode: 204873
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaitre de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+Je reposterai ce message dimanche après midi et mardi vers 13h et 18h pour les nouveaux inscrits.
+27/10/2023, 12:14 - ‎+216 54 135 972 est parti·e
+27/10/2023, 12:25 - +33 6 75 25 12 22: Merci beaucoup
+27/10/2023, 15:01 - Guillaume Singeot: Est-ce quelqu'un sait si Smart Import est disponible sur H5P ? si oui, comment ? si non...ben tant pis 😋
+27/10/2023, 15:05 - Rochane: 😃
+https://chat.openai.com/share/e8bad08d-3e14-49ad-bd0c-ceaec7d4e232
+27/10/2023, 15:06 - Guillaume Singeot: ça c'est malin! 🤣 et bien vu!
+27/10/2023, 15:20 - +1 (514) 231-2798: Livre blanc “Enseigner et apprendre à l’ère de l’Intelligence Artificielle, Acculturation, intégration et usages créatifs de l’IA en éducation”.
+https://is.gd/9u5PmU
+27/10/2023, 16:47 - Ahmadou Ba: Trop fort!✌️
+27/10/2023, 16:47 - +33 6 14 90 22 14: https://collimateur.uqam.ca/collimateur/enseigner-lutilisation-responsable-de-lia/
+27/10/2023, 17:03 - Guillaume Singeot: Sauf qu'en fait pas tant que ça : la réponse ne prend pas en compte certains aspects et  n'est pas assez détaillée : ça ne marche que sur la version payante. Mais c'est déjà pas mal!
+27/10/2023, 17:07 - Rochane: Dans les liens qu'iel donne, c'est le .com donc version payante. En plus, ça n'a pas été précisé que l'on cherche une solution gratuite 🙂
+27/10/2023, 17:10 - Ahmadou Ba: Mais c'est l'idée d'aller interroger ChatGPT qui l'est plutôt. C'est la réponse juste à temps voulu au lieu d'attendre que quelqu'un ait une idée. Mais comme toutes les réponses de l'IA elle n'est pas satisfaisante à 100% moi je serai incapable de le réussir d'après l'explication donnée.

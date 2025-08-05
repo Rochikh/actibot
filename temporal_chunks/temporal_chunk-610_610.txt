@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 21
+
+=== CONTENU ===
+A quand donc tout un chacun disposera sur son brightphone d'un coach ou précepteur personnel virtuel et bienveillant ?
+https://www.babelio.com/livres/Damasio-Scarlett-et-Novak/1298200
+05/06/2024, 14:42 - Clément Cahagne: Vous avez des articles référence sur l’impact écologique des outils d’IAG par hasard ? Si possible des articles récents ?
+05/06/2024, 14:43 - Clément Cahagne: A part cet articles super que je viens de retrouver 😉
+05/06/2024, 14:44 - +31 6 38399231: https://generationia.flint.media/p/comment-calculer-vraiment-impact-carbone-de-chatgpt-climat-ia-eau
+05/06/2024, 14:46 - LIO: https://www.nature.com/articles/s41598-024-54271-x
+05/06/2024, 22:11 - Votre code de sécurité avec ~ Aurore a changé. Appuyez pour en savoir plus.
+06/06/2024, 04:30 - Votre code de sécurité avec ~ Youssef Barj a changé. Appuyez pour en savoir plus.
+06/06/2024, 09:05 - Pierrick BRIAND: Bonne nouvelle pour les fans de Gemini ! 🎉 L'appli est enfin dispo en France !
+👉 Android : vous pouvez la télécharger direct sur le Play Store.
+👉 iOS : pas encore d'appli dédiée, mais vous pouvez l'essayer dans l'appli Google.
+À vos téléchargements ! 🚀
+06/06/2024, 09:15 - +33 6 62 83 20 00: Merci Pierrick
+06/06/2024, 09:35 - Votre code de sécurité avec Pierrick BRIAND a changé. Appuyez pour en savoir plus.
+06/06/2024, 09:38 - ‎+33 6 83 82 41 60 a demandé à rejoindre le groupe.
+06/06/2024, 09:38 - ‎+33 6 83 82 41 60 a rejoint le groupe à partir de la communauté.
+06/06/2024, 13:06 - Votre code de sécurité avec +216 20 919 363 a changé. Appuyez pour en savoir plus.
+06/06/2024, 13:55 - ‎+33 6 49 93 45 52 est parti·e
+06/06/2024, 14:26 - +351 932 291 666: Pour les novices, débutants ou pour intégrer des bases manquantes, voici un bon cours d’introduction (gratuit sur Coursera) sur le fonctionnement des LLM, et différentes techniques de prompting : https://www.vanderbilt.edu/online-learning/program-type/courses/
+Commencer par : OpenAI GPTs: creating your own custom AI assistant
+Petit truc : personnellement je passe les vidéos en x1,5 voir x2 pour certaines.

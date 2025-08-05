@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 690
+Messages: 21
+
+=== CONTENU ===
+29/11/2024, 09:06 - Jean-Marc Everard: des expressions désuètes voulais-je écrire
+29/11/2024, 09:18 - Rochane: Sur notebook lm, pour avoir un podcast en français, il faut personnaliser avec ce hack ( différent de celui que l'on a posté)
+*This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…*
+29/11/2024, 09:24 - martinyemani IA: Comment amener Notebook à prononcer les sigles?
+29/11/2024, 10:15 - Teodorina Tiba: Je n'ai pas de réponse pour Notebook LM mais en testant la génération des sous-titres avec Whisper j'ai eu l'agréable surprise des sigles et autres éléments exotiques ( formules chimiques) parfaitement générés
+29/11/2024, 11:44 - Votre code de sécurité avec +33 6 49 45 01 44 a changé. Appuyez pour en savoir plus.
+29/11/2024, 12:02 - +33 6 86 63 43 38: Bonjour tout le monde,
+je me pose une question par rapport à l outil ( ordinateur) que vous utilisez, et lequel serait le plus adapté aujourd'hui pour l'IA.
+Je dois changé d ordi de bureau et ça va tellement vite que j ai peur que ce soit vite obsolète.
+Des avis ?
+Merci,
+Bonne journée 😊
+29/11/2024, 12:14 - ‎+32 499 96 34 17 a demandé à rejoindre le groupe.
+29/11/2024, 12:15 - ‎+32 492 17 07 67 a demandé à rejoindre le groupe.
+29/11/2024, 12:24 - Fred IA: <Médias omis>
+29/11/2024, 13:07 - ‎+32 492 17 07 67 a rejoint ce groupe grâce à son lien d’invitation
+29/11/2024, 13:07 - ‎+32 499 96 34 17 a rejoint ce groupe grâce à son lien d’invitation
+29/11/2024, 17:34 - Votre code de sécurité avec +33 6 81 33 60 27 a changé. Appuyez pour en savoir plus.
+29/11/2024, 19:15 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+29/11/2024, 19:34 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+29/11/2024, 23:00 - +41 76 372 28 94: Bonjour @33686634338. Je ne suis pas certain d’avoir vraiment compris votre question. Pour faire tourner une IA en local il faut beaucoup de RAM et une grosse carte graphique. Vu la vitesse ou ça évolue, le matériel deviendra probablement obsolète assez vite effectivement. A mon avis, le mieux est de louer un serveur en ligne avec une puissance variable en fonction de vos besoins. Perso j’aimerai bien monter un serveur avec une H100 pour les élèves de mon établissement, mais je ne pense pas que mon école soit prête à investir autant d’argent. Donc pour l’instant mes élèves utilisent les serveurs des solutions commerciales en ligne, car les versions open sources sont vraiment bof (mais je n’ai testé que les plus petits modèles, vu que je n’ai pas un gros laptop).

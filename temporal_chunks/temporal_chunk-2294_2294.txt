@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 637
+Messages: 8
+
+=== CONTENU ===
+02/07/2025, 09:17 - Votre code de sécurité avec Yvelines a changé. Appuyez pour en savoir plus.
+02/07/2025, 09:26 - Daniel Pappalardo: Google annonce le déploiement de son IA pour l'éducation. L'intérêt d'après l'article : des outils, comme les outils videos,  NotebookLM et la possibilité de créer des agents avec ses cours. En étant très très  prudent en France côté RGPD, cela pourrait intéresser les enseignants qui utilisent déjà la plateforme Classroom. Classe du futur : Google déploie son IA Gemini dans toutes les écoles, même en France - Les Numériques https://share.google/aEHTh4RuyhyAQ71kN
+02/07/2025, 09:35 - +33 6 77 09 47 45: Bonjour, la DNE demande avec insistance et autorité, de ne pas utiliser les solutions états-uniennes dans l'éducation nationale. Donc ça va poser problème, je pense ? Non ?
+02/07/2025, 09:49 - ‎~ Valentin Sanouiller est parti·e
+02/07/2025, 09:49 - Francois Bocquet: Attention de bien mettre en œuvre les mesures préalables aux traitements avec les suites Microsoft O365 avec CoPilot et Google Workspace avec Gemini (ou encore Canva ou suite Adobe) pour que le responsable de traitement s’assure de la mise en conformité avec le RGPD. Je confirme que les traitements réalisés avec ces suites peuvent être conformes au RGPD.
+02/07/2025, 09:52 - Francois Bocquet: De façon tout à fait étonnante le DNE réitère l’interdiction d’utiliser les suites bureautiques US mais ne s’exprime pas sur l’utilisation massive des téléphones, tablettes ou PC avec des comptes mails obligatoires souvent grand public et sans MDM, mais en plus le même DNE ne trouve rien à dire quant à l’utilisation de services d’IA US même lorsqu’ils sont utilisés par des enseignants ou des élèves et sans conformité RGPD. Tout cela est réellement étrange…
+02/07/2025, 09:53 - Francois Bocquet: Et j’ai peut être une explication !
+02/07/2025, 09:56 - Daniel Pappalardo: Oui ce n'est pas conforme au RGPD.en l'état  François a très bien précisé dans quel cadre il est possible de le faire. Je relaye l'information de son existence et comme vous, insiste sur l'attention portée à la reglementation. Donc ces solutions telles qu'elles apparaissent actuellement, ne doivent pas être utilisées en cours en France devant les élèves sans mise en conformité (même si des écoles primaires utilisent visiblement classroom) Mais la solution est intéressante pour les utilisateurs de Google Classroom avec des quizz IA etc. que d'autres systèmes éducatifs francophones (ou pas)  utilisent. En connaissant les risques... <Ce message a été modifié>

@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 24
+
+=== CONTENU ===
+19/09/2024, 06:29 - ‎+689 87 77 13 35 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 06:29 - ‎+33 6 11 92 56 43 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 06:29 - ‎+33 6 60 24 44 97 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 07:46 - Rochane: Prof de lycée pro
+19/09/2024, 07:48 - +33 6 15 79 19 04: Fidel navamuel a fait une présentation de l'outil récemment :
+https://outilstice.com/2024/09/textomap-carte-interactive-a-partir-dun-texte/
+19/09/2024, 08:34 - +33 7 86 61 52 66: Bonjour Michele
+Textomap récupère les info concernant les lieux   du texte que tu as déposé et créé une carte interactive en indiquant le parcours suivi. Les lieux nommés apparaissent sur la carte
+19/09/2024, 08:34 - +33 7 86 61 52 66: Il faut tester
+19/09/2024, 08:34 - ‎+262 692 03 59 89 a demandé à rejoindre le groupe.
+19/09/2024, 08:35 - ‎+262 692 03 59 89 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 09:03 - ‎+33 6 72 27 57 91 a demandé à rejoindre le groupe.
+19/09/2024, 09:37 - ‎+33 6 43 10 07 29 a demandé à rejoindre le groupe.
+19/09/2024, 09:52 - +33 6 49 95 38 23: Ce message a été supprimé.
+19/09/2024, 09:51 - ‎+33 7 83 63 26 78 a demandé à rejoindre le groupe.
+19/09/2024, 09:51 - ‎+33 7 83 63 26 78 a demandé à rejoindre le groupe.
+19/09/2024, 09:54 - +33 6 49 95 38 23: Avec whisper c'est illimité (ou whisper.cpp sur cpu).
+19/09/2024, 09:55 - ‎+33 7 83 63 26 78 a rejoint le groupe à partir de la communauté.
+19/09/2024, 09:55 - ‎+33 6 43 10 07 29 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 09:55 - ‎+33 6 72 27 57 91 a rejoint ce groupe grâce à son lien d’invitation
+19/09/2024, 10:07 - +32 496 42 84 33: Merci! je viens de tester, ça marche pour les villes mais au niveau des rues ça coince.
+19/09/2024, 10:09 - +33 7 86 61 52 66: Il faudra tricher un peu dans les textes 😱🤪
+19/09/2024, 11:57 - ‎+32 476 87 27 04 a demandé à rejoindre le groupe.
+19/09/2024, 12:05 - ‎+32 497 76 20 94 a demandé à rejoindre le groupe.

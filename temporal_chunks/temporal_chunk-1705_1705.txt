@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 15
+
+=== CONTENU ===
+Dans le cadre de mes expérimentations pour les activités d'enseignant, je souhaite amorcer un projet autour de la correction des copies par l'IA.
+Je suis convaincu qu'à court ou moyen terme, les copies de bac (comme d'autres examens) seront "pré-corrigées" par une IA puis la notation sera ajustée et validée par l'opérateur humain.
+Je suis cependant très attaché au respect du cadre légal et du respect des données personnelles... Comment alors concilier ces éléments ?
+Anonymisation, autorisations parentales et institutionnelles... j'imagine que le chemin doit être complexe avant d'atteindre une éventuelle conformité.
+Pour info, j'ai reçu une fin de non recevoir de la doyenne des inspecteurs de mon académie pour une expérimentation sur des copies de bac pour la prochaine session 😢
+Je ne comprends pas comment le collègue de Lyon, dont on lit le travail sur le Café Péda aujourd'hui, a réussi à avoir les validations académiques.
+https://cafepedagogique.net/2025/02/03/thibaud-hayette-lia-peut-elle-corriger-nos-copies/
+Auriez-vous des suggestions de lectures à me proposer ? D'autres pistes ?
+03/02/2025, 16:46 - ‎+33 6 72 87 77 56 a demandé à rejoindre le groupe.
+03/02/2025, 16:47 - ‎+33 6 89 54 90 68 a demandé à rejoindre le groupe.
+03/02/2025, 16:55 - ‎+33 6 89 54 90 68 a rejoint ce groupe grâce à son lien d’invitation
+03/02/2025, 16:55 - ‎+33 6 72 87 77 56 a rejoint ce groupe grâce à son lien d’invitation
+03/02/2025, 17:14 - ‎+33 6 12 30 28 84 est parti·e
+03/02/2025, 18:08 - Mickaël: Bonjour. J'aime beaucoup Viktorovitch mais il est très loin d'être à l'origine du concept de post vérité. C'est un concept bien travaillé depuis pas mal d'année maintenant : https://www.meta-media.fr/2017/01/30/mais-qui-donc-a-invente-la-post-verite.html
+03/02/2025, 18:14 - Mickaël: Salut Simon. Alors tout d'abord, tu es chaleureusement invité mercredi aux RDV de la pédagogie de l'académie de Dijon. On anime un atelier sur les enjeux de l'évaluation à l'ère de l'IA avec Jean-Luc Pernette, directeur adjoint de la délégation au numérique éducatif.

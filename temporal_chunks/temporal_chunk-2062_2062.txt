@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 13
+
+=== CONTENU ===
+07/04/2025, 23:56 - Gregoire IA: Sans IA le LMS Moodle le fait
+07/04/2025, 23:58 - Gregoire IA: Publiée il y a 1 an, alors oui les outils ont évolué mais ce que je dis garde encore tout son sens... On peut encore mieux le faire et avec qques nouveaux outils comme notebook 🤗
+https://youtu.be/p5H8jVqUK8o
+08/04/2025, 08:03 - +33 6 72 75 43 48: Merci 🙏 bonne journée
+08/04/2025, 08:29 - +33 6 22 65 42 40: Bonjour à tous, je cherche un moyen d'évaluer des étudiants sur leur capacité à utiliser l'IA générative. Savez-vous s'il existe des outils / métriques permettant de faire cela ?
+08/04/2025, 08:29 - +33 6 22 65 42 40: Par exemple, on pourrait penser à un système qui classifie les questions posées par l'étudiant dans une matrice [question ouverte/question fermée] en abscisse et [question de définition / question d'approfondissement] en ordonnée. Mais c'est un peu pauvre comme exemple
+08/04/2025, 09:22 - +32 475 86 01 57: Un custom GPT?  (Ou hugging chat) Si c est une évaluation diagnostique, tu n as pas forcément besoin d une métrique très précise...
+08/04/2025, 15:56 - +33 6 22 65 42 40: J'aimerais utiliser un moyen déterministe (qui n'utilise pas l'IA)
+08/04/2025, 16:47 - +41 76 372 28 94: Recyclez un vieux test et donnez le leur à faire en travail à la maison. Corrigez-le à la main comme avant. Ceux qui n’auront pas la note maximale seront ceux qui n’ont pas encore bien appris à utiliser l’IA 😀 <Ce message a été modifié>
+08/04/2025, 16:56 - Rochane: On peut imaginer que pour évaluer les compétences en IA générative, on utilise des rubriques structurées qui mesurent la qualité des prompts, la compréhension technique et l'application critique des résultats obtenus....
+08/04/2025, 17:39 - +33 6 22 65 42 40: Hahaha pour les tests classiques ça peut alimenter une réflexion en effet ! Mais ici il serait question de noter non pas le résultat, mais la façon d'y arriver
+08/04/2025, 17:41 - +33 6 22 65 42 40: Oui précisément !
+La question ici est de savoir comment évaluer ces différents éléments

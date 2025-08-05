@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 13
+
+=== CONTENU ===
+13/11/2024, 21:13 - Jean-Marc Everard: Et honnêtement, je ne sais pas quelle consommation d’électricité ou d’eau son visionnage entraîne mais faisons en sorte que ça serve 😉
+13/11/2024, 22:25 - +41 79 258 90 36: Je coupe les textes trop long en plusieurs parties.
+14/11/2024, 07:07 - ‎+33 6 62 90 01 91 a demandé à rejoindre le groupe.
+14/11/2024, 07:29 - ‎+33 6 62 90 01 91 a rejoint ce groupe grâce à son lien d’invitation
+14/11/2024, 08:49 - Jean-Marc Everard: Bonjour, Bonne nouvelle : voici un guide comme il y en a de plus en plus mais celui-ci m'a l'air bien écrit et équilibré à première vue : "L’utilisation pédagogique, éthique et légale de l’intelligence artificielle générative (au Québec)" https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/Guide-utilisation-pedagogique-ethique-legale-IA-personnel-enseignant.pdf
+14/11/2024, 09:02 - +32 479 29 01 81: Bonjour je dois retranscrire un écrit manuscrit. Quel programme IA me conseillez-vous ? Merci pour votre aide.
+14/11/2024, 09:05 - Rochane: N'hésite pas à questionner actibot.carrd.co
+Bienvenue dans la communauté IAréna Éducative ! 😊
+Pour retranscrire un écrit manuscrit, je te conseille d'essayer Transkribus ou MyScript. Ces programmes sont bien adaptés pour transformer des textes numérisés en écriture manuscrite. Si tu cherches à faire de la transcription audio, des applications comme Speechnotes ou Descript peuvent également être très utiles.
+N'hésite pas à tester ces outils et à partager ton expérience avec nous ! Si tu as d'autres questions, je suis là pour t'aider. 📚✍️
+14/11/2024, 09:08 - +32 479 82 01 20: D'ailleurs Rochane tu n'aurais pas une vidéo sur comment tu as construit Actibot ? 😊 Je suis curieux de voir comment ça marche. 😄
+14/11/2024, 09:12 - Rochane: Promis, je vais le faire 🙂
+14/11/2024, 09:29 - +33 6 50 57 17 44: Il faut que tu privilégies des outils « speech to speech » tu enregistres ta voix dessus (si cela te convient à titre personnel) et celle ci est changée par l’IA. S’il n’y a pas trop de mots techniques il ne devrait pas y avoir de soucis. Eleven Labs fait cela très bien pour une bonne panoplie de voix françaises.

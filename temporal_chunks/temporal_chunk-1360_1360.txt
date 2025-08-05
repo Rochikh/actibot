@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 17
+
+=== CONTENU ===
+https://438c52ee.streaklinks.com/CNkgijzWVoE9glrXXADeseVc/https%3A%2F%2Fwww.askvera.org%2Flegales%2Fpolitiques-de-confidentialite
+Sur le plan juridique, l’utilisation de Vera par des élèves mineurs entre bel et bien dans le champ d’application du RGPD. Voici la réponse de Numéricité (en copie), qui nous accompagne sur le plan juridique :
+L’utilisation de Vera par des élèves mineurs entre effectivement dans le champ d’application du RGPD dès lors que Vera traitera leur numéro de téléphone – et ce même si la durée de conservation est très brève.
+Lorsqu’un traitement de données personnelles concerne des mineurs de moins de 15 ans, le consentement des représentants légaux (les parents) est nécessaire.
+Mais ceci n’est pas toujours le cas ! En effet, si Vera est utilisée par les élèves dans le cadre scolaire et donc sous le contrôle du ministère de l’Education nationale (par exemple les professeurs), le consentement n'est plus nécessaire. On peut s'appuyer sur la mission d’intérêt public (entendue comme étant l'éducation) du ministère pour traiter les données.
+30/11/2024, 12:38 - Rochane: Avec le prompt CGU
+Je vais procéder à une analyse détaillée des politiques de confidentialité de VERA selon les 4 axes demandés.
+# 1. Analyse des traitements de données
+⚠️ **Utilisation d'OpenAI/GPT-4 sans garanties suffisantes**
+📝 {{Nous ne pouvons pas garantir que ces données ne seront pas traitées par OpenAI à d'autres fins, telles que l'amélioration de leurs modèles}}
+💡 Les utilisateurs risquent de voir leurs données personnelles utilisées pour entraîner les modèles d'OpenAI sans contrôle réel
+⚠️ **Durée de conservation significative des messages**
+📝 Conservation de 6 mois pour les messages et conversations
+💡 Cette durée pourrait être excessive au regard du principe de minimisation des données du RGPD
+⚠️ **Finalités larges et peu détaillées**
+📝 {{Améliorer et optimiser les performances du service VERA}} sans plus de précisions
+💡 Manque de transparence sur l'utilisation réelle des données à des fins d'amélioration

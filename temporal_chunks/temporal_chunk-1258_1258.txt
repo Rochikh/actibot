@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 652
+Messages: 17
+
+=== CONTENU ===
+16/11/2024, 19:59 - +32 479 82 01 20: ☺️
+16/11/2024, 20:17 - +33 6 09 28 08 24: Merci beaucoup pour ton retour
+17/11/2024, 04:47 - Votre code de sécurité avec +212 771-103991 a changé. Appuyez pour en savoir plus.
+17/11/2024, 06:00 - ‎+216 28 533 786 est parti·e
+17/11/2024, 11:05 - ‎+32 498 66 16 08 est parti·e
+17/11/2024, 11:10 - ‎+213 674 30 83 19 a demandé à rejoindre le groupe.
+17/11/2024, 11:10 - ‎+213 674 30 83 19 a rejoint ce groupe grâce à son lien d’invitation
+17/11/2024, 11:11 - ‎+213 556 74 08 70 a demandé à rejoindre le groupe.
+17/11/2024, 11:11 - ‎+213 556 74 08 70 a rejoint ce groupe grâce à son lien d’invitation
+17/11/2024, 11:14 - ‎+213 770 60 32 81 a demandé à rejoindre le groupe.
+17/11/2024, 11:51 - ‎+213 770 60 32 81 a rejoint le groupe à partir de la communauté.
+17/11/2024, 13:47 - Votre code de sécurité avec Hadjer a changé. Appuyez pour en savoir plus.
+17/11/2024, 15:42 - Votre code de sécurité avec +212 771-103991 a changé. Appuyez pour en savoir plus.
+17/11/2024, 16:43 - ‎+51 994 748 708 a demandé à rejoindre le groupe.
+17/11/2024, 16:59 - Jean-Marc Everard: L’UCLouvain vient de sortir les résultats d’un groupe de travail sur l’Utilisation responsable de l’Intelligence Artificielle générative. C’est en OER : https://lnkd.in/e3vhrKWS. Cela couvre selon moi beaucoup de points. Tout ça me renforce dans la nécessité de créer des RAG en local sur des machines déjà utilisées pour d’autres tâches par ailleurs. Mais bon, je n’y suis pas encore. D’autre part, la nécessité de formation, sensibilisations réflexions etc. est toujours plus criante. La question qui reste, qui est le même que celle qui concerne le dérèglement climatique etc… comment toucher et convaincre ceux qui utilisent l’IA générative en n’ayant aucune envie de même ne fut-ce que penser à tous ces aspects. Il s’agit de développer l’esprit critique et l’inclusion numérique de façon très large dans la population.
+17/11/2024, 17:03 - Clément Cahagne: Bonjour tout le monde !
+Je vous partage ici un nouveau GPTs d’aide au prompting, qui vise à accompagner les utilisateurs dans la rédaction de prompts ACTIF (framework Action Contexte Tonalité Identité Format). J’utilise ce framework dans mes formations, et j’ai tâché de le rendre didactique via une méthode dite indirecte : il questionne l’utilisateur sur ces 5 éléments afin d’aboutir à quelque chose de pertinent. La seconde fonctionnalité m’aide dans mes corrections : il transforme un prompt qui n’est pas ACTIF en prompt ACTIF en se basant sur le prompt « mal rédigé » de l’utilisateur et une base de connaissance sur le framework.

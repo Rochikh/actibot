@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 18
+
+=== CONTENU ===
+Des recommandations pratiques à destination des organismes de formation et des entreprises
+Le plan doit être structuré, détaillé et facilement compréhensible par des professionnels de la formation. Il doit susciter l'intérêt et donner envie d'en savoir plus sur le sujet.
+Partie 2: La critique
+Note: 3/5
+Le prompt manque de précisions sur le ton et le style souhaités pour le plan. Doit-il être rédigé de manière formelle ou plus accessible ? Faut-il inclure des exemples concrets et des études de cas ? Le niveau de technicité n'est pas défini non plus.
+La structure générale est pertinente mais mériterait d'être affinée, notamment sur le nombre de chapitres et leur organisation. Les recommandations pratiques pourraient faire l'objet d'une partie dédiée plutôt que d'être intégrées à la conclusion.
+Enfin, le prompt ne donne pas d'indications sur le volume souhaité pour ce plan. Une estimation du nombre de pages ou de mots pour chaque partie serait utile.
+Partie 3: Les questions
+Dois-je rédiger le plan de manière formelle ou avec un style plus accessible ?
+Quel niveau de technicité souhaites-tu pour la présentation des cas d'usage de l'IA ? Très concret ou plutôt conceptuel ?
+Combien de chapitres détaillés sur les cas d'usage imagines-tu ? 5 me semble peu.
+Penses-tu qu'il faille un chapitre dédié aux recommandations pratiques plutôt que de les intégrer à la conclusion ?
+Quel volume global est souhaité pour ce plan ? Nombre de pages ou de mots par partie pour me guider.
+02/11/2023, 16:11 - Rochane: Voici mes réponses à tes questions :
+Le style doit être accessible, concret et illustré d'exemples. Il s'agit de susciter l'intérêt de professionnels pas nécessairement experts en IA.
+Présente les cas d'usage de façon concrète, avec des exemples d'applications existantes ou en cours de développement. Évite un niveau trop conceptuel.
+Je pense qu'il faut viser plutôt 8 à 10 chapitres détaillés sur les usages de l'IA, pour couvrir bien le sujet.
+Oui il vaut mieux un chapitre dédié aux recommandations pratiques, cela permettra d'aller plus loin.

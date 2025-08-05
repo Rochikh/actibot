@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 10
+
+=== CONTENU ===
+19/01/2024, 20:32 - Lucie: Sympa l'idée de donner ses contenus via notion
+20/01/2024, 08:49 - Thierry VANOFFE: Coucou Lucie seras tu avec ton livre au salon learning technologies semaine pro à paris ? Peut on l’acheter la bas ? Sinon qui passe sur ce salon ? J’y serai le premier jour mercredi pour ma part. Bon we !
+20/01/2024, 09:12 - Lucie: <Médias omis>
+20/01/2024, 17:00 - Ahmadou Ba: Bonjour,
+Je projette d'organiser une petite formation sur l'utilisation de ChatGPT par les élèves. J'avoue c'est une entreprise assez risquée vu les craintes que cela suscite chez nous (tricherie, paresse intellectuelle). Mais je vais faire ce pari risqué.
+Si vous l'avez déjà fait, ou vous avez déjà des exemples d'activités sur lesquelles faire travailler les élèves, j'essayera de l'adapter en HG et je vous partagerai ma scénarisation avant de dérouler la séance.
+20/01/2024, 17:11 - Rochane: Est ce que tu peux nous donner le context et quand tu vas faire cette formation ? ( On se croirait avec Chat GPT 😂)
+20/01/2024, 17:22 - Ahmadou Ba: Bon au début de l'année j'avais projeter de faire une formation des enseignants et des élèves dans l'academie de thies (250 enseignants et 500 élèves) dans le cadre d'un projet de notre association SENUM j'avais fais la scénarisation complète et avais formé les formateurs qui devrait m'epauler. Mais au dernier moment, ils ont dit que c trop tôt de former les élèves aux IA gen. Finalement ce sont les enseignants qui ont été formé. Et D'après les retour que j'ai reçu, ils ont apprécié la formation mais reste un peu réticent pour l'utilisation pour les eleves et les inspecteurs exigent des participant qu'ils dupliquent la formation aupres des collègue et des élèves.
+Alors je me dis que c injuste que je forme des enseignants qui forment leurs élèves sans que je forme les miens alors que je suis dans une autre académie.
+20/01/2024, 17:22 - Lucie: Ma préconisation : fais leur remplir une fiche d'usage pour travailler leur pensée critique. Comment ont ils utilisé l'IA. Apports. Limites. Etc...

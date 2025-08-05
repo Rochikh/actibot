@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 556
+Messages: 14
+
+=== CONTENU ===
+Je présenterai aussi NotebookLM, qui offre des synthèses et permet de générer des podcasts d’environ 15 minutes en français à partir de leurs cours.
+Tous ces outils seront présentés en direct sur des cas d'usages très proche de leur réalité.
+À noter que je travaille en collaboration avec l’ensemble des enseignants pour préparer cette intervention et obtenir leur adhésion.
+Qu’en pensez-vous ? Avez-vous des suggestions pour enrichir cette conférence et la rendre encore plus utile aux lycéens ?
+11/03/2025, 08:37 - +32 486 98 03 36: Perso je suis très attachée à expliquer que chatgpt c est un outil comme les autres  si vous bosser si vous avez de la culture générale et si votre prompt est de haut niveau ça vous aidera à avoir un bon résultat, si vous avez pas envie de vous fouler ça donnera un résultat médiocre et ça puera l IA. Bref c est pas un outil qui bossera à votre place. Ça c est un  leurre. <Ce message a été modifié>
+11/03/2025, 09:05 - +33 6 85 97 38 11: <Médias omis>
+11/03/2025, 09:05 - +33 6 85 97 38 11: <Médias omis>
+11/03/2025, 09:14 - Rochane: Je ferai un test avec tout ce que tu as écrit pour challenger l'IA sur deep research de chat Gpt où perplexity ( gratuit) pour avoir des sources et des idées auxquelles je n'aurais pas pensé
+11/03/2025, 10:18 - +41 76 372 28 94: J’ajouterai un chapitre futur proche dans lequel je parlerai de la vitesse d’évolution du domaine et des compétences utiles pour le monde de demain, comme développer l’esprit critique, apprendre à problématiser, etc. <Ce message a été modifié>
+11/03/2025, 10:30 - +41 79 258 90 36: Ce message a été supprimé.
+11/03/2025, 10:58 - estelle Duterage Drion IA: Coucou, je trouve ta démarche assez exhaustive. Par contre tu dis pouvoir générer des podcasts en français, c’est sur quelle fonctionnalité de LLM notre book?
+Les audios en dessous du rectangle de requête ou à droite ?
+Je croyais qu’on pouvait le faire qu’en anglais mais peut-être que je me trompe
+11/03/2025, 11:03 - +33 6 75 41 23 05: Non c’est possible en français. J’ai encore essayé la semaine dernière. Il faut lui préciser en anglais dans le prompt de personnalisation que les deux speakers doivent parler obligatoirement français. <Ce message a été modifié>

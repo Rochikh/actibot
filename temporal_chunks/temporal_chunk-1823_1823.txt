@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 19
+
+=== CONTENU ===
+24/02/2025, 22:05 - Jean-Marc Everard: Ok. Et j’aime bien mistral de toute façon. 👍🏻. Grok j’avoue que je m’en méfie un peu mais plutôt à cause de l’homme qui est derrière…
+24/02/2025, 22:10 - Adrien Bock IA: Teste le style et pousse le dans ses retranchements… c’est bcp moins rigide que chatgpt
+24/02/2025, 22:58 - +33 7 88 34 34 08: Ce message a été supprimé.
+25/02/2025, 05:52 - Votre code de sécurité avec ~ frederique a changé. Appuyez pour en savoir plus.
+25/02/2025, 06:59 - Jean-Marc Everard: Ok merci du conseil. De toute façon c’est toujours un aller-retour IA-humain.
+25/02/2025, 14:10 - +33 6 62 83 20 00: Hello à tous, il y a un live qui vient de démarrer sur l'IA et la productivité si ce thème vous intéresse avec @33617460828  https://streamyard.com/watch/SvfjSMUNa6UK
+25/02/2025, 15:40 - ‎+33 6 51 68 86 45 a demandé à ajouter +33 6 67 46 43 54.
+25/02/2025, 16:43 - +33 6 85 03 31 84: Bonjour,
+je cherche un outil de type TTS (text-to-speech) capable de générer un dialogue avec 2 voix distinctes à partir du texte de ce dialogue ;
+J’ai "scanné" le tchat via https://actibot.replit.app/ et j’ai fait des recherches par ailleurs sans parvenir à trouver vraiment quelque chose …
+*Je cherche surtout quelqu’un qui en aurait une expérience concrète ;*
+25/02/2025, 17:21 - Rochane: Elevenlabs le fait très bien
+25/02/2025, 17:21 - ‎~ Umu CT a ajouté ~ Amad
+25/02/2025, 17:22 - +33 6 85 03 31 84: Pas trop compliqué pour faire comprendre à l’outil quelles lignes du texte correspondent à la voix n°1 ou à la voix ´°2 …?
+C’est payant pour générer un dialogue, je suppose ? <Ce message a été modifié>
+25/02/2025, 17:27 - Rochane: Ma collègue en a fait en néerlandais et m'a dit que ça marche très bien. Très intuitif et tu as 10000 crédits qui te permettront de générer pas mal d'audios
+25/02/2025, 17:28 - +33 6 69 98 28 93: En dialogue à deux voix?
+25/02/2025, 17:29 - Rochane: Oui, ça marche
+25/02/2025, 17:31 - Votre code de sécurité avec +41 76 596 03 15 a changé. Appuyez pour en savoir plus.

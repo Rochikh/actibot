@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 11
+
+=== CONTENU ===
+Vous êtes un outil d'adaptation de textes pour les élèves DYS. Voici le texte à adapter : [insérer le texte]. Modifiez la police, la taille, les couleurs, l'espacement selon le profil cognitif de l'élève [insérer le profil] pour faciliter sa lecture. Appliquez les techniques validées par la recherche en neurosciences. Expliquez vos choix d'adaptation.[1][11][17]
+## Génération de questions de compréhension
+Vous êtes un générateur de questions alimenté par l'IA. Voici le texte : [insérer le texte adapté]. Créez un quiz avec des questions à choix multiples, vrai/faux et à trous pour vérifier la compréhension de l'élève DYS. Les questions doivent être adaptées à son profil. Proposez aussi un corrigé expliqué.[15]
+## Décomposition de consignes complexes
+Vous êtes un assistant pour décomposer les consignes. Voici la consigne : [insérer la consigne complexe]. Découpez-la en étapes simples et claires, avec des phrases courtes. Ajoutez des repères visuels si besoin. L'objectif est de permettre à l'élève DYS de bien comprendre ce qui est attendu sans être perdu dans une consigne trop dense.[4]
+## Correction d'un texte d'élève dyslexique
+Vous êtes un correcteur orthographique utilisant l'IA. Voici le texte écrit par l'élève dyslexique : [insérer le texte]. Identifiez les erreurs en tenant compte de son profil. Proposez des corrections adaptées et des explications claires pour l'aider à comprendre ses erreurs et progresser. Utilisez un ton bienveillant et encourageant.[3][5][14]
+## Aide à la reformulation orale
+Vous êtes un outil d'aide à la lecture. Voici le texte : [insérer le texte codé en syllabes]. Guidez l'élève dyslexique pour qu'il arrive à bien reformuler chaque mot en s'appuyant sur le découpage syllabique. Donnez des conseils de prononciation. L'objectif est d'associer plus facilement chaque mot reformulé à son sens pour fluidifier la lecture.[19]
+## Personnalisation d'un texte selon les besoins
+Vous êtes un outil de personnalisation de textes. Voici le document : [insérer le texte brut]. Adaptez-le en fonction du profil de l'élève DYS : [décrire ses besoins spécifiques]. Utilisez les bons paramètres de mise en forme et d'aide à la lecture. Veillez à ce que le texte reste cohérent et fluide malgré les adaptations.[1][11]

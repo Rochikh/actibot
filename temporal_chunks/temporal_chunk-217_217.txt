@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 18
+
+=== CONTENU ===
+19/02/2024, 08:44 - +32 498 78 46 36: Bonjour,
+Une vidéo d'explication sur Sora (OpenAI) et sur l'IA générative de vidéos en général : https://youtu.be/iH7oqFxHe6A?feature=shared
+19/02/2024, 10:25 - Guillaume Singeot: Suis je le seul à devoirs passer par un VPN pour y avoir accès ? L'antivirus râle aussi de votre coté?
+19/02/2024, 10:26 - Rochane: De mon côté, pas besoin de vpn
+19/02/2024, 10:49 - ‎+33 6 95 04 24 28 a rejoint le groupe à partir de la communauté.
+19/02/2024, 10:54 - ‎+33 6 60 37 22 43 a rejoint le groupe à partir de la communauté.
+19/02/2024, 11:21 - +33 6 22 14 03 93: Merci pour la partage, toujours friand pour l’actualité IA : )
+Par contre il doit arrêter la coke parce que son débit … 😅
+19/02/2024, 11:51 - +33 6 22 14 03 93: excellent merci !
+19/02/2024, 12:10 - Guillaume Singeot: Il te manque quoi sur ce fil ?
+19/02/2024, 12:20 - Guillaume Singeot: Puisqu'il y a pas mal de choses pour nos cousins belges (🥰) voici un nouveau cycle de Communotic consacré à l'IA en formation réservé aux Normands (💪💪, avec votre humble serviteur!)  https://www.linkedin.com/feed/update/urn:li:activity:7165284535948017665/
+19/02/2024, 12:35 - ‎+33 6 64 41 15 81 a rejoint le groupe à partir de la communauté.
+19/02/2024, 13:57 - +33 7 82 60 42 89: Non ce fil est parfait. Merci 🙏
+Je voulais juste savoir si vous connaissiez d’autres groupes ou réseaux à suivre absolument sur le sujet car tout cela m’intéresse. Merci 🙏
+19/02/2024, 14:17 - +237 99148639: Bonjour a tous, j'essaye d'avoir des articles sur  les usages d'IA en didactique professionnelle, mais visiblement je m'y prends pas bien ou il y'en a pas assez,  quelqu'un pour m'aider s'il vous plait
+19/02/2024, 16:02 - Guillaume Singeot: De ce type ? https://www.oecd-ilibrary.org/sites/4f0c23c5-fr/index.html?itemId=/content/component/4f0c23c5-fr#section-d1e17616-3407c575a2
+19/02/2024, 16:05 - +689 87 78 58 86: Bonjour à tous,
+Certains ont-ils déjà été sollicités par des collègues souhaitant utiliser des IA, génératives en particulier, tout en respectant au mieux le RGPD ? Si oui, quels conseils avez-vous pu leur donner ?

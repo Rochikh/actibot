@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 20
+
+=== CONTENU ===
+13/01/2025, 15:05 - Jean-Marc Everard: Ok, merci beaucoup. Je pense avoir vu ce genre d'usage dans des vidéos sur BOLT mais en effet, c'est pratique d'avoir un espace qui gère les clefs API je pense.
+13/01/2025, 15:41 - +32 495 45 71 42: Hello la communauté
+Pourriez vous m expliquer comment génèrent une conversation en français sur lmnotebook?
+13/01/2025, 15:46 - +33 6 74 39 90 60: Bonjour
+la pluspart des IA que j'ai testé en retranscription de fichier audio pour des réunion de 2h
+sont soit payantes soit limitées
+y a t'il un outils non limitée non payant ?
+13/01/2025, 15:52 - +33 6 88 57 53 04: Lokas ?!?
+13/01/2025, 16:19 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+13/01/2025, 16:19 - Votre code de sécurité avec ~ Sabrina a changé. Appuyez pour en savoir plus.
+13/01/2025, 16:34 - Rochane: Posé la question à actibot.replit.app, tu verras que ça marche
+13/01/2025, 16:36 - Rochane: aistudio.Google.com avec ce prompt
+Generate audio diarization, including transcriptions and speaker information for each transcription, for this interview. Organize the transcription by the time they happened.
+13/01/2025, 17:24 - +41 79 258 90 36: <Médias omis>
+13/01/2025, 18:42 - +33 6 71 11 12 91: Ce soft semble intéressant mais il y a un avertissement à l'installation. Est-il *vraiment* fiable ou peut-il contenir des spywares ou autres saloperies, à votre connaissance ?
+13/01/2025, 19:14 - +33 6 74 39 90 60: intéressant si on enregistre avec elle mais là mon fichier audio est déjà généré
+13/01/2025, 19:16 - ‎Adrien Bock IA a demandé à ajouter +32 493 10 18 10.
+13/01/2025, 19:21 - +33 7 86 61 52 66: Moi j’utilise D-ID et c’est excellent ! 👌🏽
+13/01/2025, 21:24 - +41 79 258 90 36: Mon Bitdefender, Total Security l'a laissé passé et depuis que je l'utilise, je n'ai pas constaté des activités particulières. Je ne suis pas non plus un gros poisson et je jongle avec les programmes depuis plus de 60 ans.😀
+13/01/2025, 21:49 - ‎Adrien Bock IA a ajouté ~ Nikauw

@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 9
+
+=== CONTENU ===
+📔Cela s’inscrit très directement dans les scénarios que j’explore dans mon livre hashtag#Hyperarme (https://hyperarme.com) sur les enjeux hashtag#géopolitiques de l’IA. Alors, décryptage?
+1️⃣Il y a une forte rivalité Chine – USA sur le leadership en IA. Ces systèmes ne sont plus seulement des produits cools de la hashtag#SiliconValley, mais de véritables enjeux de pouvoir et de sécurité nationale. "Le leader en IA dominera le monde" a dit Poutine.
+2️⃣Les Chinois sont derrière les Américains mais avancent vite. De plus, s’ils sont en retard sur la recherche et les hashtag#algorithmes, il y a une chose qu’ils font mieux que les Américains: hashtag#construire.
+Ex: ils ont construit en 10 ans autant de capacité énergétique que tout ce que les USA ont.
+3️⃣Or la bataille de l’IA se joue d'abord sur le plan hashtag#industriel. En effet, la "bitter lesson" (leçon amère) de l’IA est qu’il est plus efficace de faire des algorithmes plus gros et plus gourmands (ce sont les Scaling Laws), que d’améliorer les algorithmes.
+4️⃣La voie royale de l’IA est donc : avoir plus de hashtag#données et plus de puissance de calcul. Ça coûte plus cher que de faire de la recherche, mais c’est aussi plus facile: il "suffit" d’investir. C’est donc ce qu’ont fait les USA, pour ne pas laisser la Chine les prendre de vitesse.
+5️⃣Une question demeure: comment alimenter tout ça? On peut estimer que les clusters réalisables avec 100MM de $ nécessiteront une puissance énergétique d'~10GW (=10 gros réacteurs hashtag#nucléaires = la puissance d’un Etat américain moyen).
+⚡Ici prend tout son sens la dérégulation rapide que Trump met en place, sa sortie des accords de Paris et son slogan "Drill, baby, drill" qui ouvre grand les vannes à l’industrie hashtag#pétrolière. Construire les infrastructures et raccorder l’énergie à la grid prend du temps, mais l’IA est au cœur des politiques et la gabegie hashtag#énergétique est instituée.
+6️⃣Enfin, avec une telle puissance de calcul, associée aux améliorations actuelles sur le test-time compute et le test-time training (des IA qui hashtag#raisonnent et qui continuent d’apprendre à l’usage), il faut s’attendre à ce que des hashtag#superintelligences voient le jour..Hmm.. Sous 3 ans?

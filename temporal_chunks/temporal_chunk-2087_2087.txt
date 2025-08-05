@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 20
+
+=== CONTENU ===
+16/04/2025, 19:39 - Votre code de sécurité avec ~ Leo Cohen a changé. Appuyez pour en savoir plus.
+17/04/2025, 03:48 - +1 (782) 809-6917: null
+17/04/2025, 06:03 - estelle Duterage Drion IA: Bonjour les amis, j’ai un document qui est sur CANVA avec beaucoup d’erreurs d’orthographe et de formulation assez lourde, pour le rectifier, est-ce que je dois le reprendre bloc par bloc en m’aidant de l’IA intégrée que je n’ai jamais testée ?
+est-ce que vous avez une meilleure méthode à me proposer ?
+17/04/2025, 07:06 - +32 498 78 46 36: Est-ce que quelqu'un sait si l'intégration de Copilot dans Word, Excel, etc est effective ? Il me semble qu'il faut une licence particulière (Copilot Studio ?) mais cet article des numériques me met le doute en parlant de 60 crédits pour chaque utilisateur M365...
+https://www.lesnumeriques.com/intelligence-artificielle/adieu-clippy-bonjour-copilot-l-ia-revolutionne-l-utilisation-de-word-excel-powerpoint-et-outlook-a235501.html
+17/04/2025, 07:13 - Rochane: Tu as utilisé "Écriture magique" de Canva pour une première correction rapide ?
+17/04/2025, 07:16 - Vous avez supprimé +1 (782) 809-6917
+17/04/2025, 07:17 - estelle Duterage Drion IA: Bah non j’ai fait bêtement copier coller chaque bloc, mais oui j’ai vu cela. Après, je me suis dit que c’était beaucoup plus simple, tu as un tutoriel à me proposer? Je suis nulle
+17/04/2025, 07:25 - Rochane: # Tutoriel pour utiliser l'Écriture magique de Canva
+L'Écriture magique est un outil d'IA intégré à Canva qui vous permet de générer ou modifier du texte facilement. Voici comment l'utiliser efficacement :
+## Accéder à l'Écriture magique
+Il existe deux méthodes principales pour accéder à cette fonctionnalité :
+**Méthode 1 : Via un document texte**
+1. Connectez-vous à Canva
+2. Cliquez sur "Canva Docs" ou "Doc" sur la page d'accueil
+3. Créez un document vierge
+4. Cliquez sur le signe "+" à côté de la phrase d'inspiration
+5. Sélectionnez "Écriture magique"[3]
+**Méthode 2 : Via un design existant**

@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 9
+
+=== CONTENU ===
+17/12/2024, 21:20 - Francois Bocquet: Alors le respect de l’article 28 est absolument nécessaire tout comme l’AIPD (art 35) est également obligatoire dans la plupart des cas voir https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4
+17/12/2024, 21:21 - +33 7 86 18 83 63: Je connais bien la réglementation.  Elle est pratiquée pour les projets à plusieurs millions. Je l'ai déjà fait quand il y a un DPO .
+Mais là on parle de projets pour des petites écoles. Et nos outils sont conformes RGPD.
+17/12/2024, 21:22 - +33 7 86 18 83 63: Ça s'applique à nos fournisseurs technologiques surtout.
+17/12/2024, 21:24 - ‎+33 7 57 02 28 21 est parti·e
+17/12/2024, 21:27 - Francois Bocquet: Je maintiens ma position : petite ou grande les directeurs des écoles sont responsables de traitement et doivent désigner un DPO. Ils doivent tenir des registres et doivent mettre en œuvre les démarches préalables. Si vous êtes in prestataire ou un fournisseur alors vous êtes sous traitant au sens du RGPD et devez proposer un DPA pour permettre au responsable d’être en conformité. Si cela n’est pas fait, alors il ne peut y avoir de conformité RGPD. Je le rappelle : un outil n’est jamais conforme seul un traitement peut être conforme ou non.
+17/12/2024, 21:29 - Francois Bocquet: Non. L’article 28 s’applique au traitement mis en œuvre par le responsable de traitement avec ses sous traitant de rang 1. Ceux ci doivent aussi appliquer les exigences de cet article avec leurs propres sous traitants de rang 2. C’est une obligation légale.
+17/12/2024, 21:43 - Francois Bocquet: La réglementation ne dit absolument qu’il y a un seuil financier pour s’appliquer. Elle s’applique même pour un projet gratuit. Le DPO n’est pas toujours obligatoire mais le règlement s’applique même s’il n’y a pas de DPO (cependant je recommande très fortement la désignation d’un DPO pour tout organisme de formation ou école privée. Pour le public c’est réglé car c’est obligatoire.
+17/12/2024, 22:51 - ‎+212 631-698223 a demandé à ajouter +212 638-407858.

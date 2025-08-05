@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 9
+
+=== CONTENU ===
+21/01/2025, 13:12 - +33 6 58 35 08 39: Le consentement s’applique quand même dans ce cas. Il s’applique en établissement et en formation , indépendamment du caractère commercial puisqu’il est exigé en établissement scolaire pour un enregistrement audio ou vidéo.
+21/01/2025, 13:48 - Francois Bocquet: Oui mais ça n’a pas de rapport avec le RGPD mais ça a un rapport avec la protection de l’image. La liceite du traitement ne peut reposer sur le consentement si pas de traitement marketing ou de données de santé. Le critère de liceite au sens RGPD est dans ce cas soit l’exécution d’un contrat soit l’intérêt légitime.
+21/01/2025, 13:49 - Francois Bocquet: Ici c’est l’art 9 du code civil qui s’applique pour les autorisations
+21/01/2025, 13:49 - Francois Bocquet: https://www.ac-paris.fr/diffuser-l-image-ou-la-voix-d-une-personne-quelles-autorisations-et-combien-de-temps-125525
+21/01/2025, 14:28 - +33 6 42 26 64 70: Bonjour tout le monde, j’aimerai vous soumettre l’idée suivante : Après avoir constaté la simplicité de l’installation de LM Studio permettant l’utilisation locale d’une IA (Llama, Lucie ou autre plus ou moins open source), quelle limite voyez vous à son déploiement sur les postes d’un établissement scolaire ?
+21/01/2025, 14:29 - ‎+33 6 25 26 03 02 a rejoint ce groupe grâce à son lien d’invitation
+21/01/2025, 14:29 - ‎+33 6 81 88 18 95 a rejoint ce groupe grâce à son lien d’invitation
+21/01/2025, 14:34 - Gregoire IA: Lm studio permet de televerser des fichiers pour les questionner avec une IA ? C'était non avec mes derniers essais mais ils datent
+21/01/2025, 14:38 - +32 479 94 80 38: Bonjour, je crée des prompts de type tutorat dans des ia généralistes (ici copilot par ex.) pour lui faire produire des exercices adaptés pour les élèves. le problème, c'est que les propositions de requêtes automatiques de Copilot me donnent en fait les bonnes réponses à l'exercice. savez-vous comment désactiver ces propositions de requêtes automatiques ? (spoiler : copilot ne sait pas lui-même :)). mercii!

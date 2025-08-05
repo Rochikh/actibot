@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 12
+
+=== CONTENU ===
+- **Évolution des modèles économiques** : Les médias devront s'adapter à cette nouvelle forme de distribution de leurs contenus.
+Cette initiative d'OpenAI représente une étape importante dans l'évolution des agents conversationnels et pourrait avoir un impact significatif sur la manière dont nous accédons à l'information à l'avenir. Elle souligne également l'importance croissante de la collaboration entre les entreprises technologiques et les médias traditionnels dans l'écosystème numérique actuel.
+26/07/2024, 10:26 - Mickaël: Est-ce que quelqu'un aurait des références sur les usages réels de Khanmigo ? Derrières les conférences Ted et les vidéos promotionnelles depuis plus d'un an (+ quelques articles très généraux dans les médias US), j'ai l'impression que l'outil reste à l'état de promesse et n'est pas encore opérationnel.
+26/07/2024, 10:27 - Mickaël: <Médias omis>
+26/07/2024, 10:31 - Clément Cahagne: Tous les développements de bot ai sur des plate-forme type moodle sont (pour l'instant) des développements spécifiques qui ne verront à priori pas le jour pour le commun des mortels. J'ai des collègues qui ont fait ça récemment : c'est du sur mesure pour leur plate-forme
+26/07/2024, 10:48 - Votre code de sécurité avec Technopedagogue Djieh 🔥🖥️🔥 a changé. Appuyez pour en savoir plus.
+26/07/2024, 11:09 - Pierrick: Impatient de voir comment des LMS implantés comme Moodle ou leurs partenaires vont réagir
+26/07/2024, 11:53 - Votre code de sécurité avec +33 6 60 22 85 02 a changé. Appuyez pour en savoir plus.
+26/07/2024, 12:19 - Francois Bocquet: Soit ils utiliseront des plugins soit ils utiliseront des modèles open sources soit ils tenteront de bricoler leur propres outils et ils disparaîtront à moyen terme.
+26/07/2024, 12:48 - Batier Christophe: Y a  plusieurs voies à explorer
+1-c'est d'avoir un serveur d'inference avec un modele finetuné couplé au lms pour faire un chatbot par cours qui va chercher les contenus fichiers en RAG ou les contenus en base au en Rag sql
+Et coté prof un générateur de contenu pédagogique personnalisé : qcm supports ppt flashcard...

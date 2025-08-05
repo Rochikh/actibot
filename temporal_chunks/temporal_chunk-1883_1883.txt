@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 24
+
+=== CONTENU ===
+05/03/2025, 16:57 - +33 7 86 18 83 63: Bonjour
+Je cherche une IA qui transforme du contenu écrit en MP4, MP3, QUIZZ via une API.
+Est-ce que vous connaissez une solution pour ce besoin ?
+05/03/2025, 16:59 - +33 6 46 86 16 67: J’ai testé la recherche approfondie sur ChatGPT et… suis perplexe par rapport aux erreurs ! C’est wahoo ou je suis tombée dans un panneau ?
+05/03/2025, 17:07 - +33 6 66 98 84 23: Vous connaissez genspark.ai apparemment cela à l'air bien.Agrégation d'IA et recherche de données
+J'ai un code de parrainage  1mois offert pour le parrain et l'adhérent si cela vous intéresse
+https://www.genspark.ai/invite?invite_code=ZjQ3NWJhNDhMNDg1OUxhMWI0TDM0OWJMZmQ5OWYyZWQ5YjE4
+05/03/2025, 17:19 - Rochane: Le text to video est le plus dur. Teste un peu le GPT invideo sur chat Gpt et si tu es satisfait du résultat, possible d'utiliser l'API
+05/03/2025, 17:21 - +33 7 86 18 83 63: Merci et pour mp3 et quizz ?
+05/03/2025, 17:23 - Rochane: Oui ça existe, c'est plus facile
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:07 - +33 6 71 11 12 91: <Médias omis>
+05/03/2025, 18:10 - Adrien Bock IA: Deepgram
+05/03/2025, 18:19 - +33 6 80 15 26 95: Bonsoir k2r2 Assistant pédagogique fournit api pour faire cela. Si vous voulez plus d infos contacter moi en direct (attention c est un produit payant)
+05/03/2025, 18:27 - +33 7 86 18 83 63: Merci messieurs je vais regarder
+05/03/2025, 18:35 - +33 7 86 18 83 63: Quelle solution par exemple ?
+05/03/2025, 18:53 - Daniel Pappalardo: Quizz : Wooflash ou Quizziz. Mp3 si c'est du texte pour créer un dialogue ou monologue elevenlabs par exemple.
+05/03/2025, 19:51 - +32 475 86 01 57: Le prompt ultime n'existe pas, alleluia!

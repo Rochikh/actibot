@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 16
+
+=== CONTENU ===
+15/12/2023, 12:09 - Ahmadou Ba: J'ai commencé à lui faire rédiger des plans de cours mais le résultats est plutôt satisfaisant. Je vais vous partager des plans de cours.
+15/12/2023, 12:09 - +32 470 11 45 36: Top! Merci pour le partage.
+15/12/2023, 12:09 - +32 470 11 45 36: Les plans de cours sont en général très bon avec un prompt adéquat dans gpt. <Ce message a été modifié>
+15/12/2023, 12:10 - Ahmadou Ba: Si vous avez des suggestions pour améliorer les instructions également je suis preneur.
+15/12/2023, 12:14 - Ahmadou Ba: <Médias omis>
+15/12/2023, 12:15 - ‎+54 9 11 3217-2289 est parti·e
+15/12/2023, 12:15 - Ahmadou Ba: Mais j'ai constaté qu'il accepte de résumer des textes et des articles mais il refuse systématiquement de me fournir des extraits pour mes devoirs de commentaire. Je ne sais pas pourquoi?
+15/12/2023, 12:51 - Laurent The Cure: merci à tous pour les partages !
+15/12/2023, 13:07 - +32 470 11 45 36: Oui. Il n’a pas les droits.
+15/12/2023, 13:15 - Ahmadou Ba: Ah d’accord c bon à savoir. Pour contourner je lui fournit mes propres extraits
+15/12/2023, 18:08 - +33 6 74 03 79 35: Bonjour a tous et a toutes, connaissez-vous une IA gratuite pour transcrire et résumer une réunion enregistrée en audio ?
+15/12/2023, 18:10 - Ahmadou Ba: Exactement ce que je chercher tout à l’heure
+15/12/2023, 18:11 - Ahmadou Ba: Et je suis tombé sur ça
+15/12/2023, 18:11 - Ahmadou Ba: Il existe plusieurs outils d'intelligence artificielle qui peuvent enregistrer des réunions Meet. Voici quelques options :
+1. **Noota** : C'est un assistant de réunion augmenté par l'IA qui automatise la prise de notes et génère des rapports de réunion sur mesure¹. Avec Noota, vous pouvez enregistrer chaque réunion, maintenir votre CRM à jour et transformer vos appels en intelligence économique¹.
+2. **MeetGeek** : C'est un autre outil que vous pouvez utiliser pour enregistrer vos réunions, générer de brefs résumés et les partager avec vos collègues⁴. L’outil peut entrer et enregistrer vos réunions Meet, Zoom ou Teams en utilisant le lien d’invitation à la réunion⁴.

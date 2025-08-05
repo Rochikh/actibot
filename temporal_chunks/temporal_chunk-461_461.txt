@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 624
+Messages: 7
+
+=== CONTENU ===
+23/04/2024, 21:17 - +33 6 64 50 56 67: Bonsoir Francois. Merci et je suis bien consciente de la différence. Je pointe juste la démarche pédagogique qui inclut la réflexion autour de la conception de réponses attendues autour de questions type ce qui peut aiguiser l’esprit critique par exemple des élèves. Je pense qu’on s’émerveille un peu trop sur des outils hébergés à l’étranger et qui pillent des données non contrôlées. Et que notre énergie devrait se tourner vers une création d’outils qui se basent sur un corpus de données sélectionnées.
+À nous de savoir si on veut se laisser porter et emporter ou essayer de trouver d’autres voies. <Ce message a été modifié>
+23/04/2024, 21:18 - +33 6 64 50 56 67: Et pour info je vous ai trouvé bien plus sévère quand il s’agissait de juger monoral.net par exemple
+24/04/2024, 08:59 - +33 7 49 40 50 92: Je te laisse la main si tu veux 🙂. J'ai juste testé la génération adaptée au format des activités. Je n'ai pas testé Smart Import. Il y a 14j d'essai. La démo avec la vidéo interactive est bluffante. Ils utilisent le LLM Falcon pour cela.
+24/04/2024, 09:32 - +1 (514) 709-1726: Pour celles et ceux qui sont intéressés par l’utilisation de l’AI dans l’enseignement-apprentissage des langues, j’ai rédigé un petit article qui décortique l’utilisation des avatars pour remplacer les profs de langue et notamment l’APP Praktika: https://www.cyriele-kiening.com/post/praktika-avatar-ai-génératifs-pour-apprendre-une-langue
+Je me suis donnée pour objectif d’analyser en profondeur 1 outil par mois. Si vous avez connaissance de nouveaux outils ou App destinés à l’enseignement des langues, partagez-les ici et il me fera plaisir de creuser le sujet. 😃
+24/04/2024, 09:40 - Francois Bocquet: @33664505667 pour monoral.net la question relève de l’application du RGPD en particulier parce la notion de donnée a caractère personnel n’est pas comprise par l’éditeur du service. La voix est une donnée a caractère personnel que la personne soit identifié ou non. Par ailleurs comme beaucoup de services produits par des équipes bénévoles la notion de responsabilité de traitement n’est pas non plus comprise alors qu’elle est fondamentale surtout en contexte éducatif. La plupart des services analysés ici ne peuvent être utilisés en contexte pédagogique avec des élèves mineurs en France. Ça n’empêche pas de les découvrir et d’en tester les potentialités mais ça empêche de les utiliser en déploiement si l’on respecte la loi comme tout agent public.

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 14
+
+=== CONTENU ===
+2️⃣ modèles génération: David a conclu que les grands LLM comme Deepseek et GPT-4 offrent les meilleures réponses, avec des performances supérieures aux petits LLM.
+3️⃣ modèles reclassement: David a analysé l'impact des modèles de reclassement, montrant que le re-ranking améliore les résultats, surtout avec des bases de données larges.
+➡️ Stratégies de Découpage: David ROMEUF  a analysé les différentes stratégies de découpage des documents, concluant que le découpage en tokens avec recouvrement est généralement le plus efficace.
+1️⃣Stratégies Chunking : David a analysé les différentes stratégies de découpage des documents, comme le découpage en tokens, en caractères, et en sections, et a conclu que le découpage en Tokens avec recouvrement est généralement le plus efficace.
+2️⃣tests découpage: David a testé des configurations avec différents nombres de tokens et de recouvrements, montrant que le découpage en 250 tokens avec 50 tokens de recouvrement offre les meilleurs résultats.
+23/04/2025, 16:34 - Votre code de sécurité avec ~ Guénolé TANGUY a changé. Appuyez pour en savoir plus.
+23/04/2025, 18:46 - Rochane: Vidéo très intéressante avec des cas d'usage de notebook lm et Gemini 2.5
+https://youtu.be/0jWJVjAR6fI?feature=shared
+23/04/2025, 21:28 - Francois Bocquet: Un pourcentage beaucoup plus élevé d’enseignants déclarent intégrer l’intelligence artificielle dans leurs cours cette année scolaire par rapport à l’année précédente.  https://www.edweek.org/technology/more-teachers-say-theyre-using-ai-in-their-lessons-heres-how/2025/03
+24/04/2025, 07:47 - Votre code de sécurité avec +33 6 75 61 92 23 a changé. Appuyez pour en savoir plus.
+24/04/2025, 11:55 - Votre code de sécurité avec +1 (514) 709-1726 a changé. Appuyez pour en savoir plus.
+24/04/2025, 13:05 - estelle Duterage Drion IA: Ce message a été supprimé.
+24/04/2025, 14:37 - Votre code de sécurité avec +216 23 149 077 a changé. Appuyez pour en savoir plus.
+24/04/2025, 15:14 - Rochane: Désolé, je suis en congé depuis presque 2 semaines et si on veut rester sur notre régularité mensuelle d'un live de partage de pratiques et d'outils, il faut le *faire avant la fin du mois.*

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 645
+Messages: 12
+
+=== CONTENU ===
+27/12/2024, 01:03 - +41 76 372 28 94: Chez moi il y a un bouton « Ouvrir dans Docs » dans l’interface pour Gemini 1.5 en mode « Deep Search », mais ce bouton n’est pas présent dans Gemini 2.0 (qui ne propose pas le mode « deep search », même s’il met quelques liens).
+27/12/2024, 01:03 - +41 76 372 28 94: <Médias omis>
+27/12/2024, 08:31 - StéphaneIA: @41792589036 c'est un peu voguent mais en fait 1.5 pro advanced c'est l'abonnement pour Gemini sur les comptes perso pour le deep search. 2.0 avanced c'est le nom du modèle qu'on retrouve soir aistudio et Gemini
+27/12/2024, 08:32 - StéphaneIA: @41763722894 j'ai vu une étude qui disait que perplexity avait 30% de ses affirmations non trouvées dans les sources mentionnées
+27/12/2024, 08:35 - StéphaneIA: Pour ce sujet on touche un point important des LLMs je pense eux ce qu'ils font c'est produite des tokens en devinant le prochaines mots. Donc ce n'est pas comme nous comme ils produisent et qu'ils ne font pas un résumé au sens propre du terme ils peuvent inventer des choses
+27/12/2024, 08:35 - +41 76 372 28 94: Voici le retour de Perplexity Pro sur la même question : https://www.perplexity.ai/search/identifie-les-12-questions-les-h.RCQ.IuTeu3N93BBtU8tA
+Ici le check des sources est rapide, il n’y en a qu’une !
+27/12/2024, 08:38 - StéphaneIA: J'en vois 10?
+27/12/2024, 08:38 - +41 76 372 28 94: Dans le texte, c’est toujours la no 9 qui est référencée.
+27/12/2024, 08:40 - StéphaneIA: De mon point de vue ces technologies sont intéressantes pour monter vite en connaissances sur un sujet et travailler sur les idées et le plan mais jamais je les prendrai pour réponses finales
+27/12/2024, 08:41 - StéphaneIA: Certains disent que c'est un peu la limite de ces IA. Le soucis des hallucinations et le fait qu'ils génèrent des tokens fait que le résultat ne peut pas être complètement fiable
+27/12/2024, 08:47 - +41 76 372 28 94: Oui, c’est super important qu’on montre ces limitations aux élèves. Et aussi qu’on leur montre ce que O1 / O3 sont capables de faire… car c’est juste dingue au niveau des contradictions ! A la fois super humain et pas capable de nous comprendre. Il faut aussi les faire jouer à la fabrique de trombones (https://www.youtube.com/watch?v=ZP7T6WAK3Ow et https://www.decisionproblem.com/paperclips). Très important pour qu’ils comprennent les risques d’accorder de la confiance à une entité agentique non fiable (ce qui est arrivé à Apple Intelligence récemment https://www.tomsguide.com/ai/apple-intelligence/apple-faces-criticism-after-shockingly-bad-apple-intelligence-headline-errors) !

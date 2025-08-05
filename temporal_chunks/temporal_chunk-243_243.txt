@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 621
+Messages: 14
+
+=== CONTENU ===
+01/03/2024, 09:26 - Ahmadou Ba: je l'ai testé hier mais je lui ai juste filé un de mes cours en lui demandant de ne pas le modifié, j'ai trouvé le travail très intéressant et il me propose même des quiz. Par contre l'intégration des image n'est pas top, elles ne sont pas bien contextualisé. C un concurrent sérieux de gamma surtout ils propose le déploiement sur un lms
+01/03/2024, 09:31 - Ahmadou Ba: Perplexity et copilot oui mais lui il ne génère pas il puise directement sur le web. Moi c outils je l'ai considère comme des outils de recherche. Si tu prends une réponse de perplexity que tu colle dans google il t sort directement la source Où la citation est extraite de même que quand on clique sur le lien. C'est pourquoi ChatGPT les dépasse de loin.
+01/03/2024, 09:35 - +33 6 22 14 03 93: Merci pour le partage : )
+01/03/2024, 10:21 - +33 6 63 72 18 15: Hyper interessant ! En train de tester 😀
+01/03/2024, 10:36 - +33 6 22 14 03 93: <Médias omis>
+01/03/2024, 10:46 - +33 6 22 14 03 93: J’ai fait quelques recherches au sujet de la création d’une communauté hybride gratuite et payante, suite à vos recommandations il est ressorti Skool et circle.
+D’après les quelques vidéos réalisées par des pros, Skool semble le plus approprié. Il est créé par Alex Hormozi qui a investi une grosse somme dans son projet.
+Je vous joins une vidéo assez convaincante sur le comparatif (en anglais)
+https://youtu.be/AD3xLEglNhg?si=YaV3Bva6-TZYksJ5
+01/03/2024, 10:52 - +32 479 58 54 12: Est ce que quelqu'un connaît un outil permettant de générer une ligne du temps de manière automatisée et mise à jour sur base de news. Je pense à une ligne du temps qui reprendrait les nouveautés en matière d'IA. Ce serait trop prenant de le faire manuellement.
+Mais peut-être faut-il créer un process d'automatisation plus élaboré 🤔
+01/03/2024, 10:53 - Rochane: Tu as mylens.ai mais je ne suis pas sûr que ça réponde à ton besoin
+01/03/2024, 10:54 - +32 479 58 54 12: Merci. Je vais tester 🙂
+01/03/2024, 10:58 - Francois Bocquet: Sous un angle RGPD, service US dont le siège est aux US et l’hébergement aux US. Il n’y a pas d’adresse de contact légal en Europe alors que c’est obligatoire donc à vérifier si l’on souhaite que le traitement soit conforme au RGPD. Par ailleurs, pas de contrat B2B avec l’entité responsable de la communauté qui est RT donc contrat B2C exclusif ce qui exclut une utilisation institutionnel (pour un établissement ou un organisme). Utilisable seulement à titre privé donc.

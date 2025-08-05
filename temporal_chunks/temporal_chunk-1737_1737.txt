@@ -1,0 +1,35 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 27
+
+=== CONTENU ===
+08/02/2025, 10:48 - Daniel Pappalardo: Vidnoz moins bien qu'Heygen mais la version gratuite est bien (3mn par jour de vidéo et accès à pas mal d'avatars et de voix) Pour les cartes mentales Mapify.
+08/02/2025, 11:23 - Rochane: Merci à François pour le partage de ce témoignage de Jacques Attali d'une minute
+https://dms.licdn.com/playlist/vid/v2/D4E05AQFa2bHvryinMw/mp4-720p-30fp-crf28/B4EZTR8lJHHgBg-/0/1738689218261?e=1739617200&v=beta&t=WeOhoQ1vb27JYst0FQR45JjoZWk9jsPLgu6aYt_SQWY
+08/02/2025, 11:27 - Rochane: <Médias omis>
+08/02/2025, 11:29 - Rochane: Résumé pour ce modèle :
+Tarification :
+Le modèle est gratuit pour les entrées et sorties, indépendamment du nombre de jetons (<= 128K ou > 128K).
+Meilleures Utilisations :
+Compréhension multimodale : Capacité à traiter et comprendre différents types de données.
+Raisonnement : Aptitude à résoudre des problèmes complexes.
+Codage : Assistance pour les tâches de programmation.
+Cas d'Utilisation :
+Raisonnement sur des problèmes complexes.
+Démonstration du processus de pensée du modèle.
+Résolution de problèmes de code et de mathématiques difficiles.
+Caractéristiques Techniques :
+Date de coupure des connaissances : Août 2024.
+Limites de taux : 10 requêtes par minute (RPM) gratuitement, avec une option payante pour 10 RPM supplémentaires, jusqu'à 1500 requêtes par jour.
+Latence : Ajustable selon les besoins.
+Outils :
+Exécution de code : Capacité à exécuter du code, ce qui est utile pour les tâches de programmation.
+Paramètres Avancés :
+Température : Réglable pour contrôler la créativité et la variabilité des réponses générées par le modèle.
+Ce modèle semble être conçu pour des tâches avancées
+08/02/2025, 12:53 - Votre code de sécurité avec ~ SENE Mbaye a changé. Appuyez pour en savoir plus.
+08/02/2025, 16:24 - Francois Bocquet: Et voici la version française du référentiel de compétences en IA pour les apprenants publier par l’Unesco. https://unesdoc.unesco.org/ark:/48223/pf0000392652
+08/02/2025, 16:32 - Adrien Bock IA: merci François!

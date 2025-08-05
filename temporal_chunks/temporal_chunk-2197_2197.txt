@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 19
+
+=== CONTENU ===
+Je l’ai acheté d'un salon du livre ✅ <Ce message a été modifié>
+24/05/2025, 11:53 - Rochane: <Médias omis>
+24/05/2025, 12:16 - +33 6 66 98 84 23: Super, il n'y a pas un pb avec l'image de Google et la nom de Claude dans le cadre "recherche et analyse"?
+24/05/2025, 12:27 - Rochane: Si si , il faut la refaire 😁
+24/05/2025, 12:50 - Votre code de sécurité avec +33 6 13 43 54 52 a changé. Appuyez pour en savoir plus.
+24/05/2025, 12:51 - StéphaneIA: Confidentialité je dirai Google workspace ou solution payante
+24/05/2025, 12:53 - StéphaneIA: Pour la recherche le top c'est un compte Google workspace ou Gemini pro pour faire une deep research avec 2.5 pro sinon en gratuit c'est avec 2.5 flash qui est bien mais un cran en dessous
+24/05/2025, 12:54 - +33 6 72 87 77 56: Héllo et Perplexity ?
+24/05/2025, 12:58 - Rochane: Pas dans ma base de connaissances mais effectivement, il faut le considérer
+24/05/2025, 12:58 - Votre code de sécurité avec ~ Delphine a changé. Appuyez pour en savoir plus.
+24/05/2025, 14:37 - Votre code de sécurité avec +33 6 13 43 54 52 a changé. Appuyez pour en savoir plus.
+24/05/2025, 14:12 - +33 6 75 50 01 00: Je ne vois pas Perplexity. Il serait dans quelles catégories ?
+24/05/2025, 15:32 - Votre code de sécurité avec +33 6 13 43 54 52 a changé. Appuyez pour en savoir plus.
+24/05/2025, 17:25 - +33 6 95 89 89 20: Ce message a été supprimé.
+24/05/2025, 17:59 - +33 6 85 03 31 84: Avec un peu de retard par rapport à ce post,
+j’ai testé le mode *Stream* de *Google AI Studio* avec cette option "*partage d’écran*" sur Windows (option non dispo sur iPhone), utile notamment pour avoir de l’aide en *audio* sur ce que l’on est en train de faire à l’écran : ça marche plutôt bien et en plusieurs langues dont le français.
+CI-joint une vidéo qui décrit bien le cas d’usage :
+https://youtu.be/3yDiNZs41Z4 <Ce message a été modifié>
+24/05/2025, 19:26 - +32 498 78 46 36: Comme certains, j'avais été déçu de la mise à jour en français de stream (alors qu'en anglais il contextualise bcp mieux). Peut-être qu'il y a eu une màj si cela fonctionne mieux.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 15
+
+=== CONTENU ===
+Conçu pour l'inférence sur un seul nœud
+123 milliards de paramètres
+https://chat.mistral.ai/chat
+25/07/2024, 18:42 - Sel MEH: Merci Mickael
+25/07/2024, 20:54 - +31 6 38399231: Bonsoir, j'ai traduit un gros document dans Chatgpt.0 depuis une version Word mais il y a un bug pour l'extraire en une fois, auriez-vous un conseil ? Merci d'avance
+25/07/2024, 21:09 - Ahmadou Ba: Il y a des separateurs de prompts
+25/07/2024, 21:09 - Ahmadou Ba: https://chatgpt-prompt-splitter.jjdiaz.dev/
+25/07/2024, 21:10 - +31 6 38399231: Mille mercis 🌸
+26/07/2024, 09:55 - Batier Christophe: Andrej Karpathy un des co fondateur d'Open AI viens de lancer https://eurekalabs.ai/ Plateforme LMS/AI
+26/07/2024, 10:01 - +33 6 49 84 08 41: C'est à dire ?
+26/07/2024, 10:05 - Batier Christophe: Pour le moment c'est un projet (voir meme un concept) voici ce qu'il a déclaré
+est le point culminant de ma passion pour l'IA et l'éducation sur environ 2 décennies. Mon intérêt pour l'éducation m'a amené des didacticiels YouTube sur les Rubik's Cubes au démarrage du CS231n à Stanford, en passant par ma plus récente série Zero-to-Hero AI. Tandis que mon travail dans l'IA m'a fait passer de la recherche universitaire à Stanford aux produits du monde réel chez Tesla et à la recherche AGI à OpenAI. Jusqu'à présent, tout mon travail combinant les deux n'a été effectué qu'à temps partiel, en tant que quêtes parallèles à mon "vrai travail", donc je suis très excité de me lancer et de construire quelque chose de génial, professionnellement et à temps plein.
+Il est encore tôt, mais je voulais annoncer la société afin de pouvoir construire publiquement au lieu de garder un secret qui ne l'est pas. Liens sortants avec un peu plus d'informations dans la réponse !
+26/07/2024, 10:06 - Batier Christophe: avec ce proto de contenu annoncé en tout modestie:
+Notre premier produit sera évidemment le meilleur cours d'IA au monde, LLM101n. Il s'agit d'un cours de premier cycle qui guide l'étudiant dans la formation de sa propre IA, très similaire à une version plus petite de l'IA Teaching Assistant lui-même. Le matériel de cours sera disponible en ligne, mais nous prévoyons également de former des cohortes numériques et physiques de personnes qui le suivront ensemble.

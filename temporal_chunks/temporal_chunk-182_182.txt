@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 585
+Messages: 12
+
+=== CONTENU ===
+28/01/2024, 16:09 - Jean-Marc Everard: Merci, je vais en tout cas essayer de le suivre. Bon je crois que je vais prendre le certificat. Là je suis en train de préparer un workshop qui dépasse un peu le L&D : sur l’usage de l’IA en RH. Là aussi les possibilités pourraient être vraiment intéressantes. Je n’ai pas eu le temps et l’esprit de donner ma touche finale dans le Off, mais je pense que l’IA devrait nous rendre plus humain (en nous poussant à nous en différencier ?). C’est mon espoir en tout cas 🙂 et le centre de mes usages ou présentations futures.
+28/01/2024, 21:16 - +33 6 76 22 89 28: Intéressée de vous suivre sur ce sujet IA et RH,
+28/01/2024, 21:51 - Rochane: https://www.forbes.fr/business/ia-generative-et-rh-chronique-dune-revolution-annoncee/
+28/01/2024, 22:28 - Jean-Marc Everard: En gros, tous les processus RH sont impacté par l’IA, depuis la description de fonction pour le recrutement jusqu’à l’exit interview de départ à la retraite. Il faut que je mette beaucoup de choses en ligne je pense… ça va simplement me demander un peu d’organisation… 🫠😉
+29/01/2024, 08:52 - ‎+33 6 65 47 79 98 a rejoint le groupe à partir de la communauté.
+29/01/2024, 09:27 - Larissa: Salut tout le monde, est-ce que vous avez ou savez où je peux trouver une liste de toutes les conférences qui ont un rapport avec la digitalisation dans le secteur de l'éducation? Merci!!
+29/01/2024, 09:28 - Larissa: https://www.gettingsmart.com/2024/01/02/cant-miss-education-conferences-in-2024/
+29/01/2024, 09:29 - Larissa: J'ai trouvé ceci mais c'est très axé US
+29/01/2024, 12:21 - Rochane: https://www.educatech-expo.com/programmes/programme-conferences-plenieres
+29/01/2024, 12:21 - Rochane: https://etreprof.fr/ressources/4328/6-conferences-sur-le-numerique-a-decouvrir-absolument-au-salon-educateceducatice-2021
+29/01/2024, 12:23 - Rochane: https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263
+29/01/2024, 12:37 - Laurent The Cure: bonjour à tous. Afin de ne pas polluer ce groupe, je voulais savoir si quelqu'un pouvait m'aider (en dehors de ce groupe) à rédiger un prompt destiné à obtenir un audit SEO d'un site que je suis en cours de crééer. J'ai fait plusieurs tentatives mais je n'obtiens que des conseils généraux et nos des actions concrètes à mener. Peut être est ce que j'en demande trop

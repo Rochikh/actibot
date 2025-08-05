@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 12
+
+=== CONTENU ===
+Vous pourriez être tenté de demander à DALL·E de générer du texte à votre image, en lui donnant des instructions telles que "un ciel bleu avec des nuages ​​blancs et le mot bonjour en skywriting".
+Cependant, ce n’est pas un moyen fiable ou efficace de créer du texte. DALL·E n'est actuellement pas conçu pour produire du texte, mais pour générer des images réalistes et artistiques basées sur vos mots-clés ou expressions. À l’heure actuelle, il n’a pas de compréhension spécifique de l’écriture, des étiquettes ou de tout autre texte courant et produit souvent des résultats déformés ou inintelligibles.
+https://help.openai.com/en/articles/6781228-how-can-i-generate-text-in-my-image
+03/01/2024, 18:45 - +32 498 78 46 36: Il en va de même pour l'OCR. J'ai déjà essayé plusieurs fois de lui faire utiliser l'OCR sur un PDF ou une image où il y avait du texte et cela est décevant pour ne pas dire catastrophique :)
+03/01/2024, 18:47 - Laurent The Cure: Merci pour la réponse. ce qui est étrange c'est qu'il comprend tout de même une partie des instructions "texte". Dans les 2 exemples postés, une fois il oublie le 2eme L de Allez , dans le second il ajoute un L à "L'OM".
+03/01/2024, 18:49 - +32 498 78 46 36: Oui j'ai déjà remarqué que cela se joue toujours à une lettre ou deux. J'ai quand même posé la questions sur le forum d'OpenAI, il y a parfois des petits malins qui ont des workaround. Sinon voir si Midjourney est plus efficace
+03/01/2024, 18:49 - +33 6 75 41 23 05: La version 6 gère le texte sur image maintenant, en effet
+03/01/2024, 18:52 - +32 498 78 46 36: Dommage que Midjourney n'offre par une ou deux générations d'image par mois gratuitement <Ce message a été modifié>
+03/01/2024, 19:22 - Laurent The Cure: tout à fait du coup je ne testerai pas sur midjourney
+03/01/2024, 19:39 - Ahmadou Ba: <Médias omis>
+03/01/2024, 19:39 - Ahmadou Ba: je crois que j'ai réussi à avoir les écritures correctement
+03/01/2024, 19:39 - Laurent The Cure: pouvez vous partager le prompt ? c'est sur Dall-e ?

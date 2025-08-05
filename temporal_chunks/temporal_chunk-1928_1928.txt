@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 16
+
+=== CONTENU ===
+08/03/2025, 09:57 - Rochane: pour avoir accès aux dernières news dans Actibot : *"dans ta base de connaissance il y a un document sur les dernières news, résume le moi"*
+08/03/2025, 10:19 - Rochane: <Médias omis>
+08/03/2025, 10:20 - Rochane: Résume des news de la semaine en audio avec des animateurs plutôt calmes ( merci @32496384964 )
+08/03/2025, 10:22 - ‎+63 963 216 1588 a demandé à rejoindre le groupe.
+08/03/2025, 10:22 - +33 6 08 73 04 79: @Rochane, SVP, tu pourrais nous redonner le lien pour accéder à cette base ? 🙏🙏
+08/03/2025, 10:29 - Rochane: actibot.replit.app
+08/03/2025, 10:29 - ‎+63 963 216 1588 a rejoint ce groupe grâce à son lien d’invitation
+08/03/2025, 10:30 - +63 963 216 1588: null
+08/03/2025, 11:03 - Vous avez supprimé +63 963 216 1588
+08/03/2025, 11:46 - Jean-Marc Everard: Je plussois! J’ai vu une démo de teach up récemment qui allait dans le sens de l’adaptiv Learning boosté à l’IA avec en plus un tuteur IA. Ça le semblait plutôt prometteur comme orientation.
+08/03/2025, 12:17 - +44 7776 747507: Effectivement, une des contraintes pour suivre les traces de l'apprenant et faire de l'adaptive n'est pas forcément technique mais règlementaire!
+Le travail en backstage d'une équipe dédiée à cette thématique chez Stellia explique le coût !
+08/03/2025, 12:29 - +33 6 42 26 64 70: Je suis d’accord ! Mais ici aussi, ce n’est pas donné financièrement et difficile après d’en sortir sans perdre ce que l’on y a produit. Ce ne sont pas les seuls, et c est une vrai problématique à prendre en compte au moins du choix de son prestataire.
+08/03/2025, 12:33 - +33 7 66 46 62 19: Bonjour
+Quel est le meilleur outil pour traduire 1 formation du français vers l'anglais svp.
+08/03/2025, 12:44 - Jean-Marc Everard: D’accord avec toi, et malheureusement, contrairement à K2R2 ou Nolej, le SCORM exporté est un remote scorm donc toutes les ressources restent chez teach up. Mais je peux comprendre dans la mesure où l’adaptiv se fait chez eux. Mon collègue Bram Lauwers avait développé un plug in Moodle pour de l’adaptiv (avec la firme CBlue) mais sans IA. Je ne sais pas si sur la version 4.5 il y a des choses qui vont dans ce sens avec des API vers des modèles ?

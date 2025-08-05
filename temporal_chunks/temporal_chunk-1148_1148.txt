@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 636
+Messages: 6
+
+=== CONTENU ===
+28/10/2024, 10:18 - Jean-Marc Everard: Bonjour Géraldine, en fait on l'a déjà abordé dans nos échanges et c'est quelque chose auquel pas mal d'entre nous est très sensible. Il y a effectivement une tension, d'ailleurs à plein de niveau de la société et pas seulement sur l'usage du numérique, entre les usages et les coûts carbone et/ou environnementaux. il y a d'office une sorte de concurrence d'usage et des arbitrages qui sont à faire (en partie sur les sources et usages de l'énergie). Il y a déjà pas mal de littérature dans un sens ou l'autre, j'ai commencé "Green IA" de Gilles Babinet, pas mal. Je pense que le premier pas est d'être conscient, ensuite il y a des actions plus ou moins gourmandes que d'autres. J'ai adhéré il y a quelques mois au Shift project, notamment pour me renseigner d'avantage sur ces questions.
+28/10/2024, 10:31 - +41 76 372 28 94: Pas convaincu par la réponse de ChatGpt. Il ne mentionne même pas que nous sommes dans une logique de croissance exponentielle, ce qui, mathématiquement, signifierait doubler le nombre d'éoliennes et de panneaux solaires sur terre tous les 6 mois pour compenser la croissance juste en besoins énergétiques et sans compenser les énergies grises.
+Non, pour moi le seul espoir de la logique accélérationniste c'est qu'on fasse de tels progrès que la fusion soit rapidement maîtrisée grâce aux IA et que les GAFAM et les
+BATX soient contrôlés par un gouvernement mondial (en plus d'arrêter d'utiliser des pommes et des logiciels propriétaires dans nos écoles : mais ça c'est une goutte d'eau dans l'immensité de l'absurdité de notre société).
+28/10/2024, 12:09 - Francois Bocquet: On peut aussi augmenter le nombre de centrales nucléaires ou encore placer les data centers dans les pays ou l’energie hydraulique est sans limites. Pas obligé de mettre des panneaux solaires et des éoliennes 😉
+28/10/2024, 12:39 - Daniel Pappalardo: As-tu pensé à une classe renversée ? C'est le fait de faire faire le cours par les élèves pour développer leurs compétences et leurs capacités de réflexion dans la phase de conception. L'IA est super intéressante car tu les accompagnes en cours et leur montre que c'est bien un outil de conception. Je faisais ça avant l'IA avec les collégiens, je fais ça maintenant avec you.com (gratuit sans compte mais limité à ChatGPT 3.5) en limitant aussi leur accès avec un ou deux prompts selon le cours (pour ne pas abuser de l'outil et l'aspect environnemental aussi) Bien entendu ils ont tous les documents, un cahier des charges précis etc...

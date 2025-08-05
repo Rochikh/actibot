@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 17
+
+=== CONTENU ===
+15/01/2025, 14:12 - +34 683 61 41 61: Bonjour, pas du tout spécialiste de la génération d'image, je n'arrive pas à en générer comportant du texte intelligible en français (tests sur Dall.e et divers  modèles de Leonardo).
+Auriez-vous vous une solution s'il vous plaît ?
+15/01/2025, 14:13 - Rochane: teste ideogram.ai
+15/01/2025, 14:13 - +34 683 61 41 61: 👌 je vais essayer, merci
+15/01/2025, 14:27 - +961 76 159 844: Ideogram en effet est un des meilleurs dans le combo text image.
+Autre solution suivant le besoin : générer une image sans texte puis ajouter le texte avec Canva.
+15/01/2025, 14:47 - +32 477 78 78 50: L’un ou l’une d’entre vous aurait des retours d’expériences sur « GENfm » d’Eleven Labs? Générateur de podcasts dans 34 langues au départ de docs, PDFs, ebooks….?
+15/01/2025, 14:51 - Adrien Bock IA: je vous ai envoyé un message privé à ce sujet
+15/01/2025, 15:28 - Rochane: Ce serait bien aussi d'interagir et d'échanger ici si ça peut aider la communauté 😀
+15/01/2025, 15:29 - Adrien Bock IA: https://www.youtube.com/watch?v=3s3Rstjucco&ab_channel=Johan%3ASolutionsDigitales
+15/01/2025, 15:29 - Clément Cahagne: Quel enfer ces podcasts en français... Uncanny valley bonjour 👋
+15/01/2025, 15:33 - Rochane: C'est pas gratuit comme notebook lm mais à 22$ le mois minimum <Ce message a été modifié>
+15/01/2025, 15:40 - +33 6 43 60 12 59: Bonjour à tous, ma question est peut être naïve mais comment gérer vous la bibliothèque de vos prompts ? Désolé si elle est hors-sol et inappropriée dans le groupe...
+15/01/2025, 15:43 - Rochane: Perso, j'utilise une banque de prompts dans l'outil text blaze, une extension chrome qui te permet de les organiser par dossier et surtout par raccourcis : style si tu paramètres /abcd, ça te génère un certain prompt.
+L'equivalent Android sur téléphone s'appelle " saisie rapide"
+15/01/2025, 16:03 - Rochane: Mise à jour *aujourd'hui* du Bot actibot.replit.app 😉
+15/01/2025, 16:17 - +33 6 71 11 12 91: Text blaze est très bien... mais pour Chrome uniquement. Comme je boycotte Google autant que possible, j'utilise Firefox, et pour les prompts : une base Notion. Moins pratique pour un accès rapide mais permet de classer un nombre beaucoup plus grand de prompts par type d'usage, avec tris, filtres...

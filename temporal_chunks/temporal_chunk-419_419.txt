@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 684
+Messages: 19
+
+=== CONTENU ===
+15/04/2024, 19:07 - ‎+39 340 161 0964 a été ajouté·e
+15/04/2024, 19:35 - Rochane: Excellente ressource. Merci
+16/04/2024, 07:12 - +32 474 71 74 96: <Médias omis>
+16/04/2024, 07:25 - +33 6 22 42 57 92: Bonjour @32474717496 ,
+Je ne suis pas spécialiste et n'ai lu qu'en diagonal très rapidement mais, dans un exercice dans la partie "productivité " tu proposes un prompt pour rédiger un rapport hebdomadaire avec des donnés à fournir. Il me semble qu'il faudrait mettre un avertissement pour ne pas fournir des données personnelles ou sensibles à l'IA.
+Qu'en pensez-vous les autres ?
+16/04/2024, 07:25 - ‎+33 6 79 30 50 60 a rejoint ce groupe grâce à son lien d’invitation
+16/04/2024, 07:32 - +32 474 71 74 96: Bonjour Benoît,
+Tout à fait d’accord.
+Excellente suggestion, merci!!
+16/04/2024, 07:32 - +33 6 22 42 57 92: Je lirai le reste avec attention 😉
+16/04/2024, 07:34 - +32 474 71 74 96: Je pense aussi retravailler la forme à un moment donné dans une mise à jour pour rendre le tout un peu plus lisible.
+16/04/2024, 07:36 - Pierrick BRIAND: Bonjour Benoit,
+Tu as parfaitement raison. Dans le cadre de la formation "Maîtriser l'IA pour la formation" proposée par Apolearn Academy, nous avons intégré à plusieurs reprises des avertissements concernant l'origine et la l’usage des contenus générés par l'intelligence artificielle.
+En tant qu’éditeur de contenus, il est préférable d'anticiper dès à présent cette problématique sur tout nos supports, car le projet européen AI Act obligera prochainement tous les éditeurs de contenu à faire preuve de transparence quant à l'origine et à l'usage de l'intelligence artificielle dans leurs productions.
+16/04/2024, 07:37 - Rochane: Cette IA est incroyable udio.com. Elle est gratuite et vous permet de créer de la musique et des chansons . Exemple https://www.udio.com/songs/jGjYfsRosZjYTkSBdFgEyF
+16/04/2024, 07:40 - Rochane: <Médias omis>
+16/04/2024, 07:43 - +33 6 22 42 57 92: Utilisé systématiquement 😉
+16/04/2024, 07:51 - Pierrick BRIAND: Certaines entreprises telles que Google paient des éditeurs pour publier des articles générés par l'IA sans en informer les lecteurs, ce qui soulève des questions d'éthique et de transparence. Bien que les outils d'IA permettent de produire rapidement des contenus à moindre coût, la qualité et la fiabilité de ces textes restent incertaines et peuvent parfois être approximatives. De plus, l'utilisation croissante de l'IA par les éditeurs soulève des questions de droits d'auteur. Il est donc important d'informer les lecteurs des risques encourus lorsque l'on utilise l'IA pour générer du contenu, afin qu'ils puissent prendre des décisions éclairées et faire preuve de discernement face aux contenus générés automatiquement.

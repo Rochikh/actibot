@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 12
+
+=== CONTENU ===
+- Former les professionnels à l'utilisation de l'IA en complément de leur pratique
+En conclusion, l'IA bouscule le milieu de la santé mentale en offrant de nouvelles possibilités d'accompagnement, mais soulève également des questions éthiques et pratiques qui devront être adressées pour garantir la sécurité et le bien-être des patients.
+07/08/2024, 11:14 - Rochane: <Médias omis>
+07/08/2024, 11:23 - +852 5530 1861: Pour la génération de sous-titres (et à condition que la vidéo ne soit pas trop longue), Capcut fait un super boulot. https://www.capcut.com. Veed.io également. https://www.veed.io/use-cases/subtitles-transcription. Il y en a plein d’autres (que je n’ai pas essayés mais que j’ai listés et peut vous donner si ça vous intéresse).
+07/08/2024, 11:51 - +32 496 30 69 33: Bonjour, vu le nombres d experts dans ce chat. connaissez-vous des IA qui font le layout de rapports word ou pdf comme des infographistes? pour avoir un visuel percutant (pas en powerpoint mais en pdf ou autre format) .Si possible gratuitement. je pense Gamma, canva mais en connaissez-vous d autres?
+07/08/2024, 11:54 - Rochane: Teste piktochart ai et storydoc qui offre un essai de 14 jours gratuits
+07/08/2024, 12:13 - +33 6 49 84 08 41: Hello,
+Je m'éclate toujours autant avec Mistral qui me corrige mes conversions PDF scanné > Word 🤭.
+En revanche, il bugue régulièrement après une certaine quantité de texte... Ça vous le fait aussi ?
+Vous auriez une astuce pour le relancer sans qu'il recommence depuis le début ?
+07/08/2024, 14:48 - +33 6 37 28 05 42: https://www.facebook.com/share/p/JwNn9Wwp1AtJQBC5/?mibextid=K35XfP
+07/08/2024, 15:14 - Hoang: Bonjour à tous, avez vous pu tester ce GPT ? Website Instantly 🌠Multipage --> via ChatGPT? j'aimerai créer un site internet pour mon EPN en y intégrant par la suite du contenu pédagogique en ligne (payant à ce moment la), mon objectif serait de créer un site qui pourrait être aussi utilisé comme plateforme d'apprentissage pour des formations, etc,..

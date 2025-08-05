@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 572
+Messages: 13
+
+=== CONTENU ===
+13/06/2025, 13:32 - +33 6 70 57 72 80: Leur différence
+13/06/2025, 13:36 - ‎+31 6 11534974 a rejoint ce groupe grâce à son lien d’invitation
+13/06/2025, 13:36 - ‎+33 6 31 68 07 76 a rejoint le groupe à partir de la communauté.
+13/06/2025, 13:36 - ‎+32 495 52 00 43 a rejoint le groupe à partir de la communauté.
+13/06/2025, 13:51 - +33 6 25 79 50 95: L'idée est de l'utiliser comme un RAG privé sans avoir à anonymiser tous ses documents. Cela peut par ailleurs réduire son empreinte carbone si cela tourne en local.
+D'autres personnes auraient-elles déjà testé
+https://www.nomic.ai/gpt4all
+Ou autre solution analogue ?
+13/06/2025, 13:59 - Francois Bocquet: Beaucoup de problèmes dans ces mentions légales. Pour faire court : en contexte éducation nationale en France aucun éditeur ne peut être responsable de traitement (sauf éventuellement pour les traitements relevant du marketing de ses services). Donc l’éditeur est systématiquement sous traitant lors d’un usage par des enseignants avec ou sans élèves. Si la connexion se fait par le GAR pas de soucis puisque la responsabilité de traitement est réputée être assumée par le ministère. Si le GAR n’est pas utilisé soit le chef d’établissement soit le recteur DOIT être responsable de traitement. Cela implique donc un contrat avec un accord de sous traitance avec l’éditeur et des inscriptions aux registres du responsable de traitement prealalbles à toute mise en œuvre.
+13/06/2025, 13:59 - Francois Bocquet: Pour faire court si un enseignant crée lui même son compte, les traitements ne peuvent être conformes au RGPD.
+13/06/2025, 14:00 - +33 6 72 75 43 48: Bonjour est ce que certains utilisent Chat in a Box et si oui ? Quelles sont les spécifiées ou point particuliers / un chatbot classique ?
+13/06/2025, 14:01 - Francois Bocquet: Et il ne peut y avoir de contrat (acceptation des CGU) même pour un service gratuit entre un enseignant et un éditeur sans ces accords de sous traitance (ou accès via le GAR).
+13/06/2025, 14:03 - +33 6 65 65 01 37: Je te remercie François pour ces précisions. On est dans un contexte bien particulier de l’enseignement français au Maroc, le cadre éducatif français s’applique mais le cadre légal semble relever de la législation du pays, donc le Maroc. Je vais essayer de creuser le sujet :)

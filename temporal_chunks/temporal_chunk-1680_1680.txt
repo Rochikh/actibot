@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 18
+
+=== CONTENU ===
+28/01/2025, 17:40 - +44 7776 747507: Requête: Bonjour communauté, je prépare un post LinkedIn sur Perplexity, mais je ne le maîtrise pas complètement Est-ce qu'il y a un expert en la matière pour revoir/conseiller? Merci d'avance
+28/01/2025, 17:44 - Gregoire IA: Veux tu me contacter sur LinkedIn, j'ai justement publié un carrousel sur cet outil. Ce serait peut être une base pour toi
+28/01/2025, 17:46 - Gregoire IA: Un de mes best seller :-p
+https://www.linkedin.com/feed/update/urn:li:activity:7279741819502882816/
+28/01/2025, 17:47 - +44 7776 747507: Super, c'est fait; merci Grégoire!
+28/01/2025, 17:47 - Gregoire IA: Même celui sur NotebookLM n’a pas fait mieux 😉
+28/01/2025, 17:52 - +33 6 71 11 12 91: Répondu en privé, et ici pour que tu aies mon contact en clair !
+28/01/2025, 20:58 - Votre code de sécurité avec +33 6 09 20 84 84 a changé. Appuyez pour en savoir plus.
+28/01/2025, 21:38 - Votre code de sécurité avec +33 6 09 20 84 84 a changé. Appuyez pour en savoir plus.
+28/01/2025, 21:56 - Votre code de sécurité avec ~ Shaft a changé. Appuyez pour en savoir plus.
+28/01/2025, 22:40 - +33 6 19 89 32 62: J’ai fait bien pire : j’ai acheté des actions Atos 🤔😅 je crois que je vais rester dans la formation. On aurait mieux fait d’acheter des bitcoins trump 😝🤣
+29/01/2025, 03:29 - Votre code de sécurité avec ~ Eleonore a changé. Appuyez pour en savoir plus.
+29/01/2025, 13:45 - +32 479 82 01 20: Même Testachats s'en mêle 😊
+https://www.7sur7.be/belgique/testachats-depose-plainte-contre-deepseek-au-nom-de-la-vie-privee-des-belges~a00c4ccb/
+29/01/2025, 14:13 - Votre code de sécurité avec +33 6 80 34 60 52 a changé. Appuyez pour en savoir plus.
+29/01/2025, 14:13 - Votre code de sécurité avec +221 77 508 48 04 a changé. Appuyez pour en savoir plus.
+29/01/2025, 14:13 - Adrien Bock IA: Si vous voulez inviter des gens et éviter les « no-show » en webinaire ou rendez-vous, voici un prompt pour créer un URL avec votre évent directement ajouter dans l’agenda :
+«  Génère un lien Google Agenda raccourci pour un événement avec les détails suivants :

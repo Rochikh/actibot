@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 19
+
+=== CONTENU ===
+C’est payant pour générer un dialogue, je suppose ? <Ce message a été modifié>
+25/02/2025, 17:27 - Rochane: Ma collègue en a fait en néerlandais et m'a dit que ça marche très bien. Très intuitif et tu as 10000 crédits qui te permettront de générer pas mal d'audios
+25/02/2025, 17:28 - +33 6 69 98 28 93: En dialogue à deux voix?
+25/02/2025, 17:29 - Rochane: Oui, ça marche
+25/02/2025, 17:31 - Votre code de sécurité avec +41 76 596 03 15 a changé. Appuyez pour en savoir plus.
+25/02/2025, 17:33 - +33 6 69 98 28 93: J'ai cherché mais je ne dois pas être douée🤦‍♀️
+25/02/2025, 17:35 - Votre code de sécurité avec +41 76 596 03 15 a changé. Appuyez pour en savoir plus.
+25/02/2025, 17:37 - +33 6 85 03 31 84: Ok, je vais tester ça ;
+Merci !
+25/02/2025, 17:39 - +33 6 69 98 28 93: Doit on enregistrer les 2 voix séparémment?
+25/02/2025, 17:40 - Rochane: Non il les génère après avoir choisi 2 personnages. Essaie
+25/02/2025, 17:43 - ‎+32 496 10 67 14 est parti·e
+25/02/2025, 17:47 - +33 6 69 98 28 93: Sur podcast il faut que j'upgrade visiblement...pour y accéder. J'ai encore mes 10,000 crédits pourtant😔
+25/02/2025, 18:25 - +33 6 85 03 31 84: Oui, visiblement, il faut le niveau de souscription *Starter* (5$/mois) qui permet de générer 1 dialogue à 2 voix en utilisant le modèle *Podcast*
+25/02/2025, 18:26 - +32 479 82 01 20: https://www.aiengineerpack.com/
+25/02/2025, 18:27 - +32 479 82 01 20: N'hésitez pas à utiliser ces coupons
+25/02/2025, 18:27 - +32 479 82 01 20: Il y a 3 mois gratuits a ElevenLabs justement 😊
+25/02/2025, 20:41 - Jean-Marc Everard: Article très intéressant sur les compétences en litteraratie IA à développer chez les étudiants. Christiane Caneva le résume très bien sur LinkedIn : https://www.linkedin.com/posts/christiane-caneva-ph-d_conceptualizing-digital-literacy-for-the-activity-7300187151797833728-5dha?utm_medium=ios_app&rcm=ACoAAABhKE0BszLk3tZgFp5moEHI_m3Ar6_v75E&utm_source=social_share_send&utm_campaign=copy_link
+25/02/2025, 21:00 - Rochane: Ludo Salene a fait une expérience très intéressante : connecter Chat Gpt à Claude 3.7 pour créer une application

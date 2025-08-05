@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 20
+
+=== CONTENU ===
+06/02/2025, 11:58 - ‎+33 6 86 05 85 44 a demandé à rejoindre le groupe.
+06/02/2025, 12:01 - ‎+33 6 07 14 45 01 a demandé à rejoindre le groupe.
+06/02/2025, 12:28 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+06/02/2025, 12:39 - Jean-Marc Everard: Oui je viens de voir ça avec la vidéo de Shubham : https://youtu.be/z8nWipbfiBg?si=hHj1HhWaTfu42_Xd Ca a l'air énorme, sur Hugging Face.
+06/02/2025, 13:31 - ‎+33 6 07 14 45 01 a rejoint ce groupe grâce à son lien d’invitation
+06/02/2025, 13:31 - ‎+33 6 86 05 85 44 a rejoint ce groupe grâce à son lien d’invitation
+06/02/2025, 13:31 - ‎+212 611-888188 a rejoint ce groupe grâce à son lien d’invitation
+06/02/2025, 13:35 - +33 6 77 76 67 12: https://www.lefigaro.fr/medias/france-culture-diffuse-ce-vendredi-une-emission-entierement-creee-par-l-ia-20250206
+06/02/2025, 15:19 - +44 7776 747507: <Médias omis>
+06/02/2025, 15:23 - +44 7776 747507: Et la dernière nouvelle: OpenAi déploie Search à tous, sans même devoir s'inscrire (et bien sûr c'est juste une coincidence après l'annonce de Google…)! <Ce message a été modifié>
+06/02/2025, 15:29 - +44 7776 747507: <Médias omis>
+06/02/2025, 17:12 - +33 6 50 57 17 44: Et le chatbot est franchement super bien fait ✅
+06/02/2025, 17:13 - Clément Cahagne: Merci @33650571744  🙂
+06/02/2025, 17:15 - +44 7776 747507: Je confirme: un vrai travail de pro!
+06/02/2025, 17:41 - ‎+32 478 69 45 30 est parti·e
+06/02/2025, 17:54 - Votre code de sécurité avec +32 474 05 34 87 a changé. Appuyez pour en savoir plus.
+06/02/2025, 17:59 - Votre code de sécurité avec +32 474 05 34 87 a changé. Appuyez pour en savoir plus.
+07/02/2025, 07:31 - Votre code de sécurité avec ~ Brice Gaillard a changé. Appuyez pour en savoir plus.
+07/02/2025, 09:14 - +44 7776 747507: <Médias omis>
+07/02/2025, 09:22 - +33 6 79 72 76 62: Bonjour petite question pour les professionnels de la rgpd, je vais intervenir dans une classe de première, j'aimerais savoir si je peux faire installer LM studio sur les ordinateurs du lycée, et s'ils s'en servent est-ce qu'on respectera la rgpd ? Merci d'avance et bonne journée.

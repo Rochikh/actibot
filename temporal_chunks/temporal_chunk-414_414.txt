@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 10
+
+=== CONTENU ===
+12/04/2024, 14:51 - Clément Cahagne: J’ai vu; désolé j’ai pas été assez rapide 😉
+Je trouve aussi l’analogie quelque peu… étrange. Dans le sens où l’énergie dépensée dans le cycle de développement d’un modèle de langue doit être fort supérieur à l’entrainement d’un humain par ses deux parents. M’enfin bref, ça doit être si peu par rapport à l’entrainement et à l’usage que c’est surement anecdotique
+12/04/2024, 14:59 - LIO: Je n'ai pas encore commemcé la lecture de l'étude mais concernant les émissions de co2,
+Prend-telle en compte l'impact de la masse d'images "ratées" par l'ia?
+Si l'ia emet entre 310 et 2900 fois moins de co2 par image mais qu'elle produit 5000 fois plus d'images "Non pertinentes" que l'humain. Alors le rapport change non?
+12/04/2024, 15:05 - Clément Cahagne: Pas de précision à ce sujet.
+12/04/2024, 15:06 - Jean-Marc Everard: Je pense en effet que si l’article a quand même un intérêt et est une première approche, il montre surtout la complexité d’un tel calcul étant donné le nombre de paramètres qu’il faudrait idéalement prendre en compte et puis l’aspect très systémique de tout cela (où sont les data center ? A-t-on dûrn construire spécifiquement pour tel ou tel modèle? Et puis tout cela repose bcp sur des moyennes mais l’empreinte carbone des humains est très inégalement répartie etc etc. Mais bon, je préfère un essaie comme celui-ci que rien du tout ! Et puis ça montre qu’il y a quand même une possibilité de réflexion sur l’empreinte carbone « by design ».
+12/04/2024, 15:06 - LIO: La dimensions qualitative serait intéressante à étudier
+12/04/2024, 15:08 - +33 6 51 43 08 14: Ce message a été supprimé.
+12/04/2024, 15:12 - Clément Cahagne: Je suis d’accord Lio. Je suis aussi d’accord Jean Marc. Pour avoir fait des analyses de cycle de vie par le passé, et avoir trainé dans le monde de l’énergie, il est vrai que ce ne sont pas des choses facilement quantifiable. Cependant, l’approche scientifique proposée est je trouve plutôt intéressante et pertinente. La comparaison entre un dessinateur indien et américain montre qu’ils ont pris ces aspects géographiques dans leurs études. Donc oui, on ne retrouve pas tous les aspects, mais ça a le mérite d’exister et de montrer des tendances.

@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 16
+
+=== CONTENU ===
+08/12/2023, 09:10 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11186245/fr/la-boite-noire-20-une-newsletter-du-groupe-academique-intelligence-artificielle
+08/12/2023, 12:34 - Votre code de sécurité avec Luc deleplanque a changé. Appuyez pour en savoir plus.
+08/12/2023, 14:16 - Votre code de sécurité avec Luc deleplanque a changé. Appuyez pour en savoir plus.
+08/12/2023, 20:37 - +33 7 68 67 76 16: Oups, j'ai un souci avec mon pc. J'essaie de me reconnecter à la visio du webinaire
+08/12/2023, 20:44 - +33 7 68 67 76 16: Je visionnerai le replay, j'ai un mal fou à me reconnecter
+09/12/2023, 08:27 - Guillaume Singeot: Bonjour Voici le lien vers le replay (disponible jusqu'au 28 décembre) https://tubedu.org/w/onmp3e51j9cUMzP3gC1i4B
+09/12/2023, 16:34 - Rochane: Pour les utilisateurs et utilisatrices de GPT4, astuce pour ne plus être bloqué par la limite de 40 messages toutes les 3 heures 🙂https://youtu.be/tVZFgociGfQ?si=H1Mu3zJNeJSOvX9S
+09/12/2023, 19:33 - Rochane: <Médias omis>
+09/12/2023, 20:58 - +32 498 78 46 36: Ah je plussoie au niveau des ppt Gamma c'est vraiment top
+10/12/2023, 12:27 - Jacques BARATTI: J'utilise régulièrement c'est très bien
+10/12/2023, 12:30 - Rochane: Et tu as acheté la licence ou alors tu les crédits donnés te suffisent ?
+10/12/2023, 13:08 - Jacques BARATTI: J'ai pris un abonnement un an
+C'est un peu cher (180  €) mais c'est très utile pour préparer un diaporama (nécessité de retouches)
+10/12/2023, 13:31 - Laurent The Cure: Bonjour tout le monde. Tellement déçu et "frustré" de pas mettre décidé à temps et avoir pris l'update vers chatgpt4... Savez vous s'il y a une alternative qui me permettrait de tester les GPTs partagés ici, dont je ne peux rien faire ?
+Merci d'avance pour vos réponses
+10/12/2023, 13:32 - Jean-Marc Everard: Je l’ai un peu utilisé mais je me demandais : Est-ce que le temps passé à la retouche est suffisamment faible pour rentabiliser l’investissement selon vous ? Y a-t-il d’autres avantages à l’abonnement ?

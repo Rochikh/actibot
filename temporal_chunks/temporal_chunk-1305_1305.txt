@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 17
+
+=== CONTENU ===
+| Requêtes simples et factuelles | Requêtes complexes nécessitant plusieurs sources |
+| Documentation textuelle peu complexe | Interaction avec bases de données structurées |
+| Chatbots généralistes | Agents spécialisés |
+| Réponses rapides | Analyses approfondies |[1]
+Pour les entreprises, le choix entre RAG et RIG dépendra principalement de la complexité des cas d'usage et des ressources disponibles. Le RAG reste la solution la plus adaptée pour des besoins généraux, tandis que le RIG excelle dans des situations nécessitant une précision accrue et une interaction plus sophistiquée avec les données[1].
+Citations :
+[1] https://www.journaldunet.com/intelligence-artificielle/1536601-rag-vs-rig-quel-systeme-choisir-pour-ameliorer-son-ia/
+[2] Enhancing AI Accuracy: From Retrieval Augmented Generation ... https://ajithp.com/2024/09/13/enhancing-ai-accuracy-from-retrieval-augmented-generation-rag-to-retrieval-interleaved-generation-rig-with-googles-datagemma/
+[3] RAG vs RIG: The Next Leap in AI Knowledge Retrieval | Arabian Post https://thearabianpost.com/rag-vs-rig-the-next-leap-in-ai-knowledge-retrieval/
+[4] What is Retrieval-Augmented Generation (RAG)? - K2view https://www.k2view.com/what-is-retrieval-augmented-generation
+[5] Grounding AI in reality with a little help from Data Commons https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/
+[6] 7 Practical Applications of RAG Models and their Impact on Society https://hyperight.com/7-practical-applications-of-rag-models-and-their-impact-on-society/
+21/11/2024, 16:48 - +213 558 04 82 89: Comment svp?
+21/11/2024, 16:51 - Rochane: <Médias omis>
+21/11/2024, 16:52 - +213 558 04 82 89: Un grand merci à vous 🙏
+21/11/2024, 16:53 - +33 6 19 75 63 49: Je l’ai fait avec moi-même (avec heygen), et ça marche bien mais un œil habitué peut voir que c’est de l’IA. La vidéo était très courte donc c’était gratuit.
+21/11/2024, 18:07 - +33 7 63 58 01 55: Merci @33619756349 et @33675775911 pour ces excellentes références 👍🏻👍🏻

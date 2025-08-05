@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 588
+Messages: 7
+
+=== CONTENU ===
+2) D’un autre côté, j’ai (j’avais - j’ai maintenant supprimé les IP) un serveur perso avec les IP anonymes de personnes en provenance de :
+- l’école (j'ai découvert, en les supprimant du serveur, que je n'ai que deux IP différentes : celles des proxy - donc impossible de savoir quel élève c'est sauf en croisant les données avec celles des responsables réseaux et d'autres logs auxquels je n'ai pas accès)
+- ou leur téléphone portable (là beaucoup d’IP différentes s’ils passent par la 4G et pas par le wifi de l’école)
+Et donc ça (l'IP de leur téléphone portable 4G) c’est une donnée privée et ça pose problème, car ce n’est pas stocké sur le serveur de l’école, mais sur mon serveur perso. Ainsi je deviens responsable de traitement et je n’ai pas le droit de l’être car je n’ai pas la responsabilité juridique nécessaire => d’ou la nécessité de ne rien stocker sur le serveur, pas même une IP, pour ne pas devenir responsable de traitement.
+C’est bien ça la différence et donc le problème ? Quand j’ai un fichier *non anonyme* avec des informations personnelles, c’est l’école qui est responsable à ma place, quand j’ai un serveur perso avec des logs avec des IP *totalement anonymes* (pas pseudomisées, mais bien anonymes) c’est moi qui suis responsable donc ça pose problème si je ne fais pas le nécessaire, c'est-à-dire une "inscription dans un registre accessible au public", explicitant que les IP ne sont accessibles que par moi, conservées que pour des raisons de sécurité, et que les logs sont régulièrement effacés ?
+P.S. : Ce n'est plus la situation actuelle, vu que je n'ai plus de traces d'IP dans les logs du serveur : j'ai trouvé comment ne pas les conserver. Je rends donc mon serveur potentiellement vulnérable à une attaque (sauf que j'ai fait le nécessaire pour distinguer les IP des élèves des IP de la page de connexion ou il y a la demande de mot de passe, et a priori donc une page qui n'est utilisée que par les enseignants et pas par les élèves).
+03/11/2024, 10:54 - Francois Bocquet: Pour la première question : pour que ce traitement soit conforme il faut effectivement que le chef d’établissement ai inscrit au registre ce traitement et que tu ai vérifié cette inscription ou questionne le chef d’établissement sur ce point. Il est vraisemblable que ça ne soit pas fait et que par conséquent ce traitement soit illégal.

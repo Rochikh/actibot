@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 21
+
+=== CONTENU ===
+- Projet > Notion
+- Talk & workshop > Notebook
+09/12/2024, 14:21 - ‎+44 7473 851271 a demandé à rejoindre le groupe.
+09/12/2024, 15:11 - +33 6 19 89 32 62: Oui logique mais je ne sais pas si j’y arriverai 🫣😂
+09/12/2024, 15:49 - ‎+44 7473 851271 a rejoint le groupe à partir de la communauté.
+09/12/2024, 16:22 - +213 770 60 32 81: Dans le cadre d'une conception pedagogique est ce que parmi vous y'a quelqu'un qui peut me dire ou est ce que je peux trouver un programme ou outil pour la norme scorm.
+09/12/2024, 16:27 - Rochane: Scorm est une norme internationale pour la création de modules e-learning. En général, c'est un fichier ZIP qui contient tous les médias pour l'intégrer dans un LMS type Moodle. Des outils comme Rise d'Articulate permettent de générer du contenu Scorm....
+09/12/2024, 16:34 - ‎+33 7 76 69 31 56 a demandé à rejoindre le groupe.
+09/12/2024, 16:38 - Francois Bocquet: Nolej, Stellia, K2R2 ou Edunao génèrent aussi du Scorm
+09/12/2024, 16:45 - ‎+33 7 76 69 31 56 a rejoint ce groupe grâce à son lien d’invitation
+09/12/2024, 16:49 - +212 677-525852: @33609919228
+09/12/2024, 17:05 - ‎+33 6 19 04 48 10 a demandé à rejoindre le groupe.
+09/12/2024, 17:08 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+09/12/2024, 18:43 - +33 7 63 58 01 55: Hello! Pourquoi utiliser Obsidian plutôt que Notion dans ton système ?
+09/12/2024, 19:10 - +55 11 94241-1993: Bonjour ,
+J’aimerais connaître le hack exact pour générer des podcasts en français sur Notebook .
+J’ai demandé au chatbot mais ce n’est pas précis .
+J’aimerais bien connaître le hack svp
+09/12/2024, 19:19 - +32 477 78 78 50: Le voici et encore merci à Rochane  😀 :
+"This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify."
+09/12/2024, 19:21 - +55 11 94241-1993: Mais je mets ça dans la barre de discussion ?

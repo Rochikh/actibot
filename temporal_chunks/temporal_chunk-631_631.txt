@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 19
+
+=== CONTENU ===
+13/06/2024, 14:40 - ‎+33 6 62 78 15 04 a rejoint le groupe à partir de la communauté.
+13/06/2024, 14:41 - Rochane: Videohighlight ?
+13/06/2024, 14:59 - Votre code de sécurité avec ~ Ghofrane Lassoued a changé. Appuyez pour en savoir plus.
+13/06/2024, 15:08 - +33 6 15 81 18 04: https://www.descript.com/ extrait les scripts efficacement. Mais seulement une heure de vidéo sur la version gratuite...
+13/06/2024, 16:50 - Pierrick: Bonjour, le projet Colab suivant fait bien le job à partir de moteurs open source https://colab.research.google.com/github/kazuki-sf/youtube-whisper/blob/main/youtube_whisper.ipynb#scrollTo=jtLfALwPdKAx
+13/06/2024, 18:03 - ‎+33 6 11 19 82 78 a demandé à rejoindre le groupe.
+13/06/2024, 19:34 - ‎+33 6 11 19 82 78 a rejoint ce groupe grâce à son lien d’invitation
+13/06/2024, 19:46 - +33 6 34 15 77 84: merci beaucoup c’est super sympa 😊
+13/06/2024, 19:48 - +33 6 34 15 77 84: merci beaucoup tip cool
+13/06/2024, 20:02 - +31 6 38399231: Ce message a été supprimé.
+13/06/2024, 20:06 - ‎+33 6 26 04 96 40 a demandé à rejoindre le groupe.
+13/06/2024, 20:08 - ‎+33 6 26 04 96 40 a rejoint le groupe à partir de la communauté.
+13/06/2024, 20:16 - Rochane: TurboScribe convertit l'audio et la vidéo en texte avec une précision très élevée en quelques secondes, dans plus de 98 langues.
+Il permet de télécharger jusqu'à 50 fichiers à la fois, chacun pouvant durer jusqu'à 10 heures.
+TurboScribe offre une précision impressionnante, même avec des conditions acoustiques difficiles comme le bruit de fond ou les accents.
+Il dispose d'outils pour améliorer la qualité audio comme la restauration audio par IA et la prise en charge de formats haute qualité.
+TurboScribe permet de sous-titrer automatiquement les cours pour les rendre accessibles à tous, y compris en plusieurs langues.
+Il facilite la création de supports de révisions interactifs en générant une transcription enrichissable du cours.
+Les transcriptions permettent aux enseignants d'analyser et d'améliorer leurs pratiques pédagogiques.

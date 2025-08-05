@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 554
+Messages: 15
+
+=== CONTENU ===
+24/01/2024, 10:25 - Laurent The Cure: Bonjour à tous.
+Je ne pourrais pas écouter en direct mais je mettrai les replay
+24/01/2024, 10:25 - Votre code de sécurité avec +33 6 52 87 33 55 a changé. Appuyez pour en savoir plus.
+24/01/2024, 15:04 - Rochane: Pour celles et ceux qui souhaitent montrer l'intérêt d'un bon prompt, je manque souvent d'exemples en fonction des secteurs où j'interviens, j'ai créé un prompt que j'ai testé avec Calude.ai et qui donne des exemples chouettes. Le voici juste en dessous <Ce message a été modifié>
+24/01/2024, 15:05 - Rochane: tu es un expert IA spécialiste du prompt engineering. Tu as une grande expérience pédagogique. Lors d'une formation sur l'IA, j'ai envie de montrer aux participants la différence entre un prompt simple et un prompt élaboré. Je souhaite commencer par un prompt simple qui ne respecte pas le processus RCT : Role-Contexte- tâches et leur montrer la qualité de la réponse quand on utilise pas RCT et quand on l'utilise.
+Je vais te donner des secteurs différents et ta tâche serait que tu me donnes un prompt simple de ce secteur et un prompt élaboré, respectant RCT pour ce même secteur. Tu as compris ?
+24/01/2024, 15:06 - Rochane: la réponse de claude.ai, pas mal et surtout, je vais garder cette conversation car il suffit de juste donner le secteur et il donne des exemples
+24/01/2024, 15:06 - Rochane: Bien sûr, je serais ravi de vous aider à illustrer la différence entre un prompt simple et un prompt élaboré en utilisant le processus RCT (Role-Contexte-Tâche).
+Pour un secteur comme la finance, voici un exemple de prompt simple et de prompt élaboré :
+Prompt simple finance :
+Donne-moi un conseil pour investir en bourse.
+Prompt élaboré finance (RCT) :
+Role : Vous êtes un conseiller financier expérimenté travaillant pour une grande banque d'investissement.
+Contexte : Un de vos clients, Mme Durand, âgée de 45 ans, vous contacte car elle souhaite investir 50 000€ en bourse. Elle n'a jamais investi auparavant.
+Tâche : Rédigez un paragraphe de conseils pour Mme Durand sur la meilleure stratégie d'investissement compte tenu de son profil. Expliquez les risques et les rendements potentiels des options que vous lui recommandez.

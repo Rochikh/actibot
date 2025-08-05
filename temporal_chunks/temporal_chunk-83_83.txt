@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+13/11/2023, 22:11 - Thierry VANOFFE: Quel est ton métier et tes passions on va te trouver des cas d’usages de ouf pour t’aider à y voir l’intérêt et t’augmenter (pas le salaire par contre ) 😉
+13/11/2023, 22:17 - Ahmadou Ba: Moi avec ce que je fais je crois GPT 3 et Claude y suffit. Réactualiser les cours , créer des activités apprentissage, des quiz, écrire des scénarii pédagogiques.
+Mais je dois naviguer entre Copilot qui roule à GPT 4 , Claude et dalle 3 de bing.
+Mais j’avoue avoir tout cela en un seul endroit est très tentant
+13/11/2023, 22:17 - Laurent The Cure: Je suis sans emploi mais je co gère un riad à agadir (Maroc) en tentant de m'occuper du marketing digital (je suis auto didacte même si j'ai suivi une formation cpf dans la domaine). L'activité locative a démarré en février, et après avoir fait un bel été, il est nécessaire de développer le remplissage, notamment hors saison. À terme, si j'arrive à augmenter le CA je serais salarié du riad tout en ayant une activité marketing digitale
+14/11/2023, 10:13 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de jeudi 16/11 de 20h à 21h
+https://us06web.zoom.us/j/84835899595?pwd=TbghLOfnmzhar79c2dslbkDKovOeks.1
+Meeting ID: 848 3589 9595
+Passcode: 361254
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+Je reposterai ce message jeudi 16/11 vers 17h15 pour les nouveaux inscrits.
+14/11/2023, 15:52 - +32 486 46 29 06: Bonjour à tous, est ce que vous pouvez me suggerer un site gratuit pour mettre en page avec l ia un document long sur Word en l important? Gamma est limité à 5000 caractères et ne reprend pas de manière fiable l ensemble de mon document. Merci d avance :-)

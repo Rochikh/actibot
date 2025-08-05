@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 13
+
+=== CONTENU ===
+https://team-gpt.com/
+20/03/2025, 09:48 - Vincent DROUOT: C’est bien ce qui me semblait. Donc attention, ce n’est pas d’Open AI cette plateforme (qui est vraiment bien faite). C’est une plateforme indépendante d’Open AI et qui a une offre multi-modèles (GPT, Claude, Gemini, DeepSeek, Mistral, Llama…) pour créer des assistants en mode collaboratif et pour partager des prompts de manière organisée.
+20/03/2025, 09:49 - +33 7 84 33 02 62: C’est cela oui , une sorte d’agregateur comme il en existe d’autres. Merci. Tu l’as utilisé ?
+20/03/2025, 09:50 - ‎+33 6 99 49 97 19 est parti·e
+20/03/2025, 09:56 - Vincent DROUOT: Pas toujours, enfin, il y a une subtilité. Si vous avez un compte ChatGPT Plus à 25€/mois, vous pouvez partager vos GPT avec tout autre personne ayant un compte ChatGPT gratuit ou Plus.
+Par contre, si tu as un compte ChatGPT Team, tes GPTs ne sont partageables qu’avec les membres de la Team. 😔
+20/03/2025, 10:01 - Vincent DROUOT: J’ai eu droit à une demo oui, car on ne peut pas s’abonner directement, ils forcent toute personne à prendre rdv pour un onboarding (la plateforme étant tellement riche en fonctionnalités qu’ils préfèrent faire faire le tour du propriétaire avant de se lancer et etre perdu ou passer à coté des fonctionnalités clés.
+Apres c’est $20/ utilisateur
+/ mois.
+Cet outil à un vrai intérêt lorsque l’on travaille en equipe en entreprise et que l’on veut intégré l’IA et interagir facilement avec ses collègues.
+20/03/2025, 10:04 - Vincent DROUOT: aussi, c’est une boite américaine basée à San Francisco. C’est pb avec les outils comme Poe. Autant aller sur des solutions française, hébergées en France et RGPD pour ce type de plateforme.
+20/03/2025, 10:33 - ‎+212 707-779888 a été remplacé par +212 663-856129
+20/03/2025, 10:57 - Francois Bocquet: Important : un service hébergé aux USA peut être utilisé de façon conforme au RGPD et un service hébergé en France n’offre pas nécessairement les garanties necessaires pour que les traitements soient conformes au RGPD. restons pragmatiques ;-)

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 21
+
+=== CONTENU ===
+Je te demande  :
+- Que ta réponse soit soignée et qu'elle ne dépasse pas 150 mots.
+- Que tu relèves et corrige toutes les fautes de conjugaison, d'orthographe, de grammaire et autres que je commets, c'est le plus important.
+- Que tu me poses une question dans ta réponse.
+Tes questions doivent toujours être en anglais et tu ne dois utiliser le français que pour expliquer mes erreurs.
+Maintenant, commençons à nous entraîner, tu peux me poser une question d'abord.
+--- FIN DU PROMPT ---
+Une fois ce prompt copier / coller dans ChatGPT, la discussion va commencer.
+Il va te parler en anglais, dire qu'il comprend et te poser une question.
+Tu dois y répondre en anglais.
+Si tu commets une erreur, il va te le dire, et te poser d'autres questions pour continuer la conversation.
+Discute avec lui 15 minutes / jour pour drastiquement améliorer ton niveau d'anglais.
+Tu parles couramment anglais ?
+P.-S. : Cette méthode fonctionne avec n'importe quelle langue, il suffit d'adapter le prompt 😉
+Merci à Geoffrey Maurin pour l’astuce sympa, rapide et efficace 👌
+29/10/2023, 09:10 - Luc deleplanque: Sans oublier que vous pouvez coupler avec les « instructions vocales » et là vous avec un prof à domicile 🏡… qui peut même décrire des situations perçues par le biais d’images, donnant lieu à une découverte de vocabulaire contextuel… bref : soucis pour nos amis prof de Langues ‼️
+Pas que … si vous changez la langue par une thématique professionnelle vous avez le même résultat …
+Repenser l’enseignement est une obligation pour tirer parti de l’IA comme une opportunité ⁉️ <Ce message a été modifié>
+29/10/2023, 09:17 - +32 498 78 46 36: Je l'ai testé avec le russe en mode GPT4 vocal via l'app d'openai il y a quand même quelques couacs niveaux prononciations mais je suis certain que dans quelques mois ces couacs seront déjà de l'histoire ancienne.
+29/10/2023, 12:15 - Ahmadou Ba: Je viens de tester votre prompt, il est vraiment bon. Merci.
+29/10/2023, 14:32 - ‎+33 6 26 15 38 78 a rejoint le groupe à partir de la communauté.

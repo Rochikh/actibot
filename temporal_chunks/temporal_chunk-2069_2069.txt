@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 17
+
+=== CONTENU ===
+10/04/2025, 14:52 - ‎+32 460 24 51 33 a demandé à rejoindre le groupe.
+10/04/2025, 16:19 - +33 6 34 15 77 84: Bonjour, du coup c’est quoi la formule magique sur Manus? j’avoue que j’ai du mal à me repérer là dessus… les prompts ne devant pas être formulés de la même manière que sur ChatGPT ou autre PERPLEXITY, j’avoue avoir un peu de mal et je ne souhaite pas griller les 1000 crédits d’un coup d’un seul. Qui peut aider?
+10/04/2025, 16:20 - +33 6 86 05 85 44: Question sur manus intéressante
+10/04/2025, 16:20 - +33 6 86 05 85 44: 👍
+10/04/2025, 16:31 - Jean-Marc Everard: Je ne sais pas si c’est une formule magique (il n’y en a jamais) mais d’habitude, ce que je fait est de décrire mon projet d’app. Dans Claude et lui demander de rédiger un bon prompt pour être compris par une IA developpeuse. Ceci dit, je ne l’avais pas fait pour l’app. Sur l’esprit critique et n’ai donné que les grandes lignes à Manus en demandant un produit fini ou presque. Ceci dit, pour la deuxième app. Que je suis en train de développer, on se comprend moins bien 🙃.
+10/04/2025, 16:49 - +33 6 34 15 77 84: merci ☺️
+10/04/2025, 16:56 - +32 475 86 01 57: C est pas une formule, c est un chiffre..  et c est en dollars 😁
+10/04/2025, 17:11 - ‎+32 460 24 51 33 a rejoint ce groupe grâce à son lien d’invitation
+10/04/2025, 21:28 - ‎+33 7 71 10 77 25 est parti·e
+11/04/2025, 06:55 - +32 498 78 46 36: <Médias omis>
+11/04/2025, 06:56 - +32 498 78 46 36: Guide officiel de Google pour le prompt engineering (à mettre dans vos notebooklm) <Ce message a été modifié>
+11/04/2025, 08:09 - Votre code de sécurité avec ~ Emily a changé. Appuyez pour en savoir plus.
+11/04/2025, 08:25 - Jean-Marc Everard: C'est pas faux 😁
+11/04/2025, 12:11 - +32 498 78 46 36: <Médias omis>
+11/04/2025, 12:28 - +41 76 372 28 94: Dust.tt ou IBM Watsonx.ai <Ce message a été modifié>
+11/04/2025, 13:03 - Votre code de sécurité avec +32 486 62 44 69 a changé. Appuyez pour en savoir plus.
+11/04/2025, 14:04 - +33 6 07 14 45 01: https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1

@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 9
+
+=== CONTENU ===
+23/06/2025, 21:03 - Letizia ALLEGRINI: https://nuage03.apps.education.fr/index.php/s/8NYoNcZMfSCDPmX
+23/06/2025, 21:04 - ‎~ Sebastien Boussely a ajouté +33 6 76 97 32 40
+24/06/2025, 05:55 - +32 498 78 46 36: https://11.ai/
+Par Eleven Labs. C'est gratuit pour les prochaines semaines. <Ce message a été modifié>
+24/06/2025, 06:01 - Clément Cahagne: A tester ! De mon côté j’intègre de plus en plus d’agents conversationnels Speech to Speech dans mes formations pour réaliser des mises en pratique ou des évaluations. Le dernier : un « faux salarié » souhaitant suivre une formation de formateur. L’objectif de mes apprenants : l’appeler et évaluer le besoin de formation. Remonter ses caractéristiques personnelles et professionnelle. Evaluer sa motivation.
+Très efficace lorsque bien intégré dans le déroulé (briefing, et surtout débriefing)
+24/06/2025, 07:39 - Francois Bocquet: Très intéressant mais je m’interroge sur le terme employé « être vigilant sur les données ». Ce n’est pas identique à « respecter le RGPD et respecter le RIA ». C’est d’ailleurs rappelé par la CNIL. Respecter le RGPD tant pour les enseignants que pour les responsables de traitement ce n’est pas seulement être vigilant : c’est d’abord appliquer toutes les mesures préalables exigées par ces règlements et cela dès maintenant. Se limiter à une « vigilance » ne peut être suffisant, ne pas mettre en œuvre les mesures préalables est constitutif d’un délit. Je sais que ça n’arrange personne et que ça oblige les responsables à mettre à disposition les services et traitements adaptés pour les enseignants et pour les élèves mais c’est un passage obligé pour respecter les obligations légales. Être vigilant n’est pas suffisant pour que la loi soit respectée. Et c’est la première chose indiquée dans le texte : les traitements doivent respecter le RGPD et le RIA. À discuter si nécessaire…
+24/06/2025, 07:53 - +32 498 78 46 36: Avec quels outils fais-tu cela ?
+24/06/2025, 08:10 - Letizia ALLEGRINI: Tout a fait d'accord le principe était de réaliser une infographie avec les grands principes mais pour apporter des précisions la version pdf à un lien cliquablevqui renvoie sur la faq de la cnil. L'article publié sur linkedin le précise également 😀

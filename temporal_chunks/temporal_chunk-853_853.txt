@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 17
+
+=== CONTENU ===
+31/08/2024, 08:51 - +32 479 58 54 12: C'est vrai qu'il y a des milliers de tâches possibles 😏 Mais ce serait tellement  pratique.
+Ce sont des points qui sont souvent traités dans des articles de blogs, des posts  LinkedIn... mais ils sont abordés plic-ploc. Ce serait super de les centraliser.
+Par exemple: redaction de posts pour les réseaux sociaux, creation de personas, creation de logo, changer le fond d'une image...
+31/08/2024, 08:51 - ‎+33 6 83 82 41 60 est parti·e
+31/08/2024, 20:39 - Rochane: @32494542705 propose une traduction FR de l’AI Assessment Scale de @lfurze et ses collègues, un cadre pour aider les enseignants à clarifier l’utilisation acceptable (ou requise) de l’IA générative par les apprenants dans les travaux d’évaluation https://github.com/jourde/echelle-evaluation-avec-IA/ :  (CC BY-NC-SA)
+01/09/2024, 12:26 - Mickaël: Un document intéressant qui vient compléter d'autres productions qui commencent à se préciser, notamment celui de Pascal Mariaux publié en juin 2024 : https://drane.ac-lyon.fr/spip/Evaluer-les-usages-des-eleves-d
+02/09/2024, 07:00 - Rochane: https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/laure-bertrand-enseignante-et-chercheuse-on-apprend-aux-etudiants-a-travailler-sans-l-ia-puis-avec-l-ia-pour-les-sensibiliser-a-un-usage-raisonne_6643188.html
+3 minutes de témoignage sur l'usage de l'IA chez les étudiant·e·s intéressant <Ce message a été modifié>
+02/09/2024, 09:42 - +212 644-562660: null
+02/09/2024, 09:42 - +212 644-562660: null
+02/09/2024, 09:42 - +212 644-562660: null
+02/09/2024, 09:42 - +212 644-562660: null
+02/09/2024, 09:42 - +212 644-562660: null
+02/09/2024, 10:50 - Mickaël: Et si on le faisait ?
+Proposition de tableur avec une entrée "catégories", puis description de la tâche, et enfin "prompts / GPTs ou outils".
+https://docs.google.com/spreadsheets/d/16J_POZwGwmbnP_ZPvjWYD8vuJ2dNQuX66uZHV_4sDdc/edit?usp=sharing
+02/09/2024, 11:03 - +32 479 58 54 12: Bonne idée et si on s'y met nombreux cela pourrait etre très riche en contenus 😍. Notion serait sans doute plus souple 🤔

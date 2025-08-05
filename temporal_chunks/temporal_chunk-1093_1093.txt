@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 17
+
+=== CONTENU ===
+19/10/2024, 17:52 - +216 25 000 725: Est-ce qu'il y a une IA qui permet de créer le contenu d'un cours à partir d'un plan de cours
+19/10/2024, 17:59 - +33 6 68 31 74 03: Ce message a été supprimé.
+19/10/2024, 18:33 - +32 493 87 42 05: Magicschool ai et learningstudio ai
+19/10/2024, 18:35 - +32 493 87 42 05: https://youtu.be/Hl7OzqPld50?si=T_Rj0FFq3uZMlWnz
+19/10/2024, 18:47 - Gregoire IA: Attention à l'alignement pedagogique, ces outils ne le respectent pas toujours et tu risque d'avoir un contenu de cours qui ne sera pas adapté
+19/10/2024, 18:49 - Gregoire IA: https://youtube.com/shorts/muUSL4GuYzM?feature=share
++ regarde ma video aur la technique du RAG
+19/10/2024, 18:49 - Rochane: Exactement, par contre, mon bot scénario creator le respecte. Il a été prompté dans ce sens 🙂
+scenariocreator.rochane.fr
+19/10/2024, 18:50 - +216 25 000 725: Mon point de vu consiste gérer un plan via ChatGPT en respectant l'alignement pédagogique puis je la création de cours en respectant ce plan
+19/10/2024, 18:50 - Gregoire IA: aussi, pour développer un cours je ne me lasserai jamais que de conseiller d'y aller avec Claude Sonnet (voir GPT4o preview maintenant) + Gemini pour scénariser les activités d'équipe (je ne sais pas pkoi mais c le LLM qui propose les activités les plus interressantes par rapport au plan de cours et les objectifs d'apprentissaghe
+19/10/2024, 18:51 - Gregoire IA: idem, as-tu alimenté du BOT avec des ressources pour l'aider à respecter les bonnes pratiques d'alignement ?
+19/10/2024, 18:51 - +216 25 000 725: Ça je le connais. C'est pour le scénario et pas le contenu
+19/10/2024, 18:51 - Rochane: Oui, sur l'assistant OpenAI et je peux encore ajouter pour l'améliorer
+19/10/2024, 18:52 - Gregoire IA: alors vas-y avec preview, les autres versions de GPT ne sont pas les plus performantes (sans quoi vas y avec Claude et Gemini pour les exercices comme je te disais)
+19/10/2024, 18:59 - +32 471 13 93 15: Essaie avec gamma.app
+19/10/2024, 19:00 - +32 471 13 93 15: Pour ça Natural Reader est pas mal 🤗

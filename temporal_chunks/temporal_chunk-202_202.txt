@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 11
+
+=== CONTENU ===
+12/02/2024, 17:01 - Guillaume Singeot: il ne me sembla pas : https://www.now.be/tous-les-replays-du-off/   et il y a plein de choses intéressantes!
+12/02/2024, 21:37 - ‎+41 78 670 37 57 est parti·e
+14/02/2024, 11:44 - +32 497 91 17 24: Bonjour, 👋 quelqu’un a trouvé une solution pour utiliser Claude ? 🤗 J’ai vu la proposition de @33649535198 mais pas de numéro étranger de mon côté … 🥲bonne journée
+14/02/2024, 12:10 - +32 470 11 45 36: Et via perplexity ?
+14/02/2024, 12:14 - Jean-Marc Everard: Bonjour, une de mes collègues d'un autre organisme fédéral belge est à la recherche de personnes ou petites organisations capable de donner des formations en Français et en néerlandais sur les fondamentaux de l'IA, les évolutions attendues (je suppose les défis et enjeux aussi) et le prompt engineering. Je le ferais bien moi-même mais s'il y a beaucoup de sessions (je ne sais pas quelle est l'ampleur du public visé), j'ai peur que ce ne soit incompatible avec mon agenda et puis en interne au fédéral c'est souvent plus tricky. Ils ont déjà lancé un premier appel d'offre sans succès. Des idées ? Merci d'avance.
+14/02/2024, 12:21 - +33 6 86 72 33 98: https://linktr.ee/LucieDhorne
+14/02/2024, 12:23 - +33 6 86 72 33 98: https://www.linkedin.com/in/yvan-demumieux?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+14/02/2024, 12:31 - +32 479 58 54 12: Interessee mais pas en néerlandais. 🙂 https://www.linkedin.com/in/dominique-moraux-consultante/
+14/02/2024, 12:37 - Jean-Marc Everard: Merci beaucoup pour vos réponses. J'avais déjà indiqué certains d'entre vous à cette collègue mais attention, et c'est là que le bât blesse souvent, il s'agit de formations (je pense de préférence en présentiel à Bruxelles) en Français ET Néerlandais. Les mêmes sessions dans les 2 langues (pas forcément en même temps).
+14/02/2024, 12:40 - Jean-Marc Everard: Administration Fédérale Belge bilingue (+sensibilités) oblige... 🫤
+14/02/2024, 12:43 - Guillaume CLEMENT: je ne maitrise pas le néerlandais malheureusement

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 6
+
+=== CONTENU ===
+21/08/2024, 10:19 - Jean-Marc Everard: Depuis l'arrivée du Jobsdeal en Belgique et sa traduction au niveau du secteur public (avec par exemple le droit à 5 jours de formation annuel par personne en moyenne sur 5 ans), je reçois beaucoup de demandes d'aide pour créer des plans de formation. J'y ai d'abord répondu en créant un GPTS adapté, un "projet" dans perplexity et des notes dans NotebookLM, mais tout cela continue de donner des réponses trop high level. Pour être plus concret, il faut davantage de données utilisateurs, mais de même que pour la création de dispositifs de formations à distance innovants en utilisant des méthodes comme le design Thinking par exemple, une des grosses difficultés est de trouver les publics adéquats et qui sont d'accord de répondre à des enquêtes, de participer à des focus groups ou encore de tester les solutions. Ca fait beaucoup de monde à solliciter et tout le monde est trop occupé ... Dans cet article très bien sourcé, le Dr. Philippa Hardman propose une utilisation intriguante et intelligente des grandes améliorations de l'IA dans l'imitation des réponses humaines, y compris émotionelles, en donnant des pistes pour diminuer les biais et les difficultés dans l'utilisation des ces personas générés par IA : https://drphilippahardman.substack.com/p/the-ai-sounding-board?utm_campaign=email-half-post&r=q4nlg&utm_source=substack&utm_medium=email
+21/08/2024, 10:38 - Rochane: Merci pour ce partage Jean-Marc, article très intéressant avec ce concept de l'utilisation de l'IA comme caisse de résonance.
+Peut être créer de très courts sondages (2-3 questions) envoyés régulièrement, avec des éléments ludiques pour augmenter l'engagement. Cela te permet d'avoir une collecte continue de données ciblées de manière moins intrusive et motivante. Non ?
+21/08/2024, 10:53 - ‎+32 496 30 69 33 a demandé à ajouter +32 479 49 85 21.
+21/08/2024, 11:21 - ‎+33 6 82 23 97 12 a été remplacé par +33 6 85 86 83 63
+21/08/2024, 11:26 - ‎+33 6 85 86 83 63 a été remplacé par +33 6 82 23 97 12

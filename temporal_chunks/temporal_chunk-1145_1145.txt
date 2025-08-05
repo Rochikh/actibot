@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 6
+
+=== CONTENU ===
+Te former continuellement : Comprendre le fonctionnement des IA et leurs impacts permet de les utiliser de manière plus pertinente et responsable. Plus tu es conscient des enjeux, mieux tu sauras les intégrer dans ton quotidien sans excès.
+Conclusion
+Utiliser les IA de façon responsable repose sur la modération, l’optimisation des requêtes, et le choix de services éthiques et éco-responsables. Ces outils peuvent être extrêmement utiles pour améliorer l'efficacité de nos actions, mais leur usage doit être réfléchi pour éviter un gaspillage inutile de ressources énergétiques et minimiser leur impact social et environnemental.
+28/10/2024, 10:18 - Jean-Marc Everard: Bonjour Géraldine, en fait on l'a déjà abordé dans nos échanges et c'est quelque chose auquel pas mal d'entre nous est très sensible. Il y a effectivement une tension, d'ailleurs à plein de niveau de la société et pas seulement sur l'usage du numérique, entre les usages et les coûts carbone et/ou environnementaux. il y a d'office une sorte de concurrence d'usage et des arbitrages qui sont à faire (en partie sur les sources et usages de l'énergie). Il y a déjà pas mal de littérature dans un sens ou l'autre, j'ai commencé "Green IA" de Gilles Babinet, pas mal. Je pense que le premier pas est d'être conscient, ensuite il y a des actions plus ou moins gourmandes que d'autres. J'ai adhéré il y a quelques mois au Shift project, notamment pour me renseigner d'avantage sur ces questions.
+28/10/2024, 10:31 - +41 76 372 28 94: Pas convaincu par la réponse de ChatGpt. Il ne mentionne même pas que nous sommes dans une logique de croissance exponentielle, ce qui, mathématiquement, signifierait doubler le nombre d'éoliennes et de panneaux solaires sur terre tous les 6 mois pour compenser la croissance juste en besoins énergétiques et sans compenser les énergies grises.
+Non, pour moi le seul espoir de la logique accélérationniste c'est qu'on fasse de tels progrès que la fusion soit rapidement maîtrisée grâce aux IA et que les GAFAM et les

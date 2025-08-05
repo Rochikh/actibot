@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 7
+
+=== CONTENU ===
+Quel est le meilleur outil pour traduire 1 formation du français vers l'anglais svp.
+08/03/2025, 12:44 - Jean-Marc Everard: D’accord avec toi, et malheureusement, contrairement à K2R2 ou Nolej, le SCORM exporté est un remote scorm donc toutes les ressources restent chez teach up. Mais je peux comprendre dans la mesure où l’adaptiv se fait chez eux. Mon collègue Bram Lauwers avait développé un plug in Moodle pour de l’adaptiv (avec la firme CBlue) mais sans IA. Je ne sais pas si sur la version 4.5 il y a des choses qui vont dans ce sens avec des API vers des modèles ?
+08/03/2025, 13:03 - Rochane: Quel est le support de cette formation ? Ppt, pdf, ...?
+08/03/2025, 13:44 - +33 7 66 46 62 19: Le support est un rise (Articulate) il y a du texte, vidéos et images (tableau..)
+08/03/2025, 13:54 - +33 6 42 26 64 70: Ouch…pas simple…soit il existe maintenant dans Rise un fonction de traduction. Après tout dépend si tu as accès à l’édition de cette formation dans Rise. Alors il faut passer par la traduction texte par texte. Sinon, si tu n’a pas l’accès en édition, cela va dépendre aussi aussi de la forme du contenu de ta formation: si on y a des exrecices, des activités particulières avec des images, des vidéos…si elle est dans un format type diapo, une solution de secours : si tu peux exporter la formation de rise en pdf, tu peux toujours tenter de l’injecter dans une IA et lui demander t’extraire le plan détaillé de cette formation en français , puis demander de la reconstruire sous forme de diapo (en utilisant une ia type  via gamma) mais cela risque de perdre beaucoup de son contenu en route…l’idée serait d’utiliser l’ia pour reconstruire la formation au plus proche
+08/03/2025, 13:54 - Francois Bocquet: Quels sont les problemes de nature réglementaire ? D’après mon expérience il n’y a pas de questions impossibles à résoudre.
+08/03/2025, 13:57 - +33 6 42 26 64 70: Contractuellement, j’imagine que la question de sa production à la sortie du contrat doit être spécifiée…mais chez eux (teach up) tout se fait en ligne, dans leur interface (et c’est vraiment chouette)…donc pas de format de sortie editable en dehors de leur environnement…de mémoire…cela a peut être évolué

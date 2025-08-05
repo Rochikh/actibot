@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 593
+Messages: 18
+
+=== CONTENU ===
+21/01/2025, 22:28 - +33 6 46 86 16 67: Upmeet ? Plaud ?
+21/01/2025, 22:28 - +33 6 46 86 16 67: Je veux bien un upgrade 😂
+21/01/2025, 22:32 - +33 6 42 26 64 70: Outils IA pour compte rendu de réunions.
+21/01/2025, 22:33 - +33 6 46 86 16 67: Merci !
+21/01/2025, 22:34 - +33 6 42 26 64 70: Et pour info et avoir tester les deux, Plaud est incroyable mais un peu cher…mais incroyable
+21/01/2025, 22:38 - +33 6 46 86 16 67: Et la question des données pour le coup ? Tu achètes le boîtier et ensuite tu payes un abo ?
+21/01/2025, 22:39 - +32 479 82 01 20: Bonsoir. Quelqu'un a déjà généré un eBook sur base d'un PDF ou un DOC ? Si y'a des REX je suis preneur. 😊
+21/01/2025, 22:46 - +41 79 258 90 36: Ces 2500+ ChatGPT Prompt Templates vous intéressent? https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da?p=7287d592d0964b619b4f4e7b2fe1e34b&pm=s
+21/01/2025, 23:00 - Ahmadou Ba: J'ai jamais compris l'intérêt des banques de prompt. Après il suffit de demander à GPT ce que l'on veut en prenant soin d'être le plus explicite possible. J'ai même configurer un optimiseur de prompt pour m'assister dans la rédaction de certains de mes prompts. Dans un prompt le contexte est primordial, copier les prompts des autres me semble peu pertinent.
+21/01/2025, 23:01 - Ahmadou Ba: https://chatgpt.com/g/g-TLOR9LP5u-prompt-optimiseur
+21/01/2025, 23:02 - +41 79 258 90 36: Tu peux t'en inspirer et cela peut te permettre de gagner du temps surtout si on est un débutant.
+21/01/2025, 23:02 - Ahmadou Ba: vous pouvez le tester pour voir s'il fait l'affaire
+21/01/2025, 23:09 - +33 6 89 33 49 33: Selon moi, c'est tout à fait illégal.
+1. Enregistrement sans consentement préalable versus droit à l'image
+2. Diffusion de contenu propriétaire
+Ce qu'en dit Juribot.
+Vous souhaitez savoir si l'enregistrement d'un cours à l'insu d'un participant et la distribution du transcript aux autres participants est légal.
+En vertu du droit français, l'enregistrement d'une conversation ou d'un cours sans le consentement des personnes présentes peut constituer une violation de la vie privée et des droits de la défense. En effet, selon l'article 226-1 du Code pénal, "le fait, par une personne, d'enregistrer, sans le consentement de l'autre, une conversation à laquelle elle participe, est puni d'un an d'emprisonnement et de 45 000 euros d'amende".

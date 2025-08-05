@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 16
+
+=== CONTENU ===
+Auriez-vous des formations / tutos / ressources diverses à me conseiller pour comprendre le fonctionnement et la création d’un chat bot avec IA ?
+Je voudrais maîtriser avant de proposer à mes collègues d’en co-créer un avec des élèves (lycée).
+Bonne journée!
+26/11/2024, 12:06 - Pierrick: Bonjour Marie, la resosurces suivante me semble adaptée à votre besoin elle a été présenté à Ludovia cette année par une enseignante Cordialement Pierrick https://magistere.education.fr/dgesco/course/view.php?id=3132
+26/11/2024, 12:19 - +33 6 77 78 84 93: @33649535198 qui doit-on contacter en privé svp?
+26/11/2024, 12:19 - ‎~ Agathe est parti·e
+26/11/2024, 12:27 - +33 6 77 78 84 93: Merci beaucoup !
+26/11/2024, 13:07 - ‎+32 477 95 34 42 a demandé à rejoindre le groupe.
+26/11/2024, 13:10 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+26/11/2024, 13:11 - ‎+32 477 95 34 42 a rejoint le groupe à partir de la communauté.
+26/11/2024, 13:30 - +33 6 14 16 68 64: Je recommande aussi cette formation créée par @33672091809 https://academy.apolearn.com/classroom/29444
+26/11/2024, 14:00 - ‎Badi Badkoubé a demandé à rejoindre le groupe.
+26/11/2024, 14:14 - +33 6 59 13 42 11: Bonjour,
+Je vous remercie pour toute cette mine d informations. Pourriez vous, s il vous plaît, m indiquer si Mistral est une bonne alternative à chatgpt. Je recherche une IA comme chatgpt mais qui soit européenne en raison des questions RGPD.
+26/11/2024, 14:17 - Francois Bocquet: Rappel : le fait que ce soit européen ne garantit pas du tout la conformité RGPD. Depuis le 10 juillet 2023 l’utilisation de services basés aux USA est à nouveau possible sans autre formalité (clauses de contrat type nécessaire jusqu’au 10 juillet 2023). En revanche d’autres critères sont nécessaires suivant la nature de l’utilisation (a titre personnel ou à titre professionnel).
+26/11/2024, 14:23 - +33 6 59 13 42 11: Merci beaucoup pour ce retour.  Auriez vous un lien qui puisse me permettre d être au fait de ces critères.  Merci d avance.

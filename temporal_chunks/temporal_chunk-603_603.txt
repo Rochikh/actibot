@@ -1,0 +1,35 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 27
+
+=== CONTENU ===
+-  Génération automatique de questions par l'IA sans besoin de retravailler.
+#  Personnalisation des Cas d'Étude
+-  Modification facile des éléments des cas d'étude pour varier les réponses des étudiants.
+-  Génération de feedbacks personnalisés pour chaque question créée.
+#  Comparaison entre Différentes Solutions
+-  Comparaison entre Wuflash, 3, 5, 4 et Perfex City pour la création d'exercices.
+-  Analyse des fonctionnalités offertes par Wuflash et ses limitations en termes de variété dans les questions.
+#  Évaluation des Outils de Génération d'Exercices
+-  Critique sur la variété et la répétitivité des choix proposés par certains outils.
+-  Avantages et inconvénients de l'utilisation de différents outils comme Chat d'Épétit 3, 5, 4.
+#  Expérience avec Parplexity
+-  Utilisation de Parplexity pour générer des exercices avec possibilité limitée sans abonnement payant.
+-  Identification d'erreurs dans les réponses générées par l'outil Chat d'Épétit.
+#  Efficacité de Parplexity
+- [](4152)s Evaluation positive de Parplexity qui trouve correctement les bonnes réponses uniques ou multiples.
+# [#](4172)s Limitations et Avantages de Parplexity
+- [] (4172)s Utilisation gratuite limitée à cinq requêtes par jour avec possibilité d'amélioration.
+#  Réflexion sur l'amélioration des réponses aux questions ouvertes
+-  Discussion sur la correction des réponses aux questions ouvertes et les défis rencontrés.
+-  Test de correction sur des documents Word avec difficultés d'évaluation de la forme.
+-  Invitation à revoir dans un mois pour discuter des progrès réalisés.
+#  Partage de ressources pédagogiques en ligne
+-  Disponibilité des présentations et liens vers les ressources pédagogiques en ligne.
+-  Annonce d'une plateforme en ligne offrant divers contenus éducatifs.
+#  Présentation d'un outil pédagogique avancé
+-  Introduction à un outil nommé 4-2-R2 pour la création de contenus pédagogiques.
+-  Description des fonctionnalités de l'outil et son utilisation dans le domaine de l'enseignement supérieur.

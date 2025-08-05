@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 19
+
+=== CONTENU ===
+29/02/2024, 18:43 - +33 6 20 35 46 24: L’intelligence artificielle dans les LMS. Pour l’instant c’est plutôt des promesses de ce que j’en ai vu.
+Beaucoup de bla-bla
+Mais si vous vous êtes tombés sur une pépite, ça m’intéresse d’avoir le nom
+29/02/2024, 18:44 - Rochane: Apolearn
+29/02/2024, 18:47 - +33 6 87 86 78 87: Onlineformapro très avancé lms, outils création et surtout plusieurs produits de formation orient’IA, IT Training….
+29/02/2024, 19:04 - Francois Bocquet: Il y a depuis longtemps de l’IA sur du Moodle via les plugins xAPI ou Caliper. Le LORIA a mis ça en place pour l’université de Nancy.
+29/02/2024, 19:04 - Francois Bocquet: Stellia fait aussi un LMS sur ses contenus
+29/02/2024, 19:09 - Rochane: <Médias omis>
+29/02/2024, 19:09 - Rochane: Vous avez supprimé ce message
+29/02/2024, 19:09 - Rochane: Encore, un nouvel outil venant du Canada 🙂
+29/02/2024, 19:41 - Rochane: (extrait d'un autre groupe).  Salut à tous en cherchant un peu, j'ai trouvé un outil assez sympa en lifetime.
+C'est pour ceux qui vendent des formations les coachs etc...
+Il vous permet d'héberger vos formations en nombre illimité et étudiants illimités, il utilise l'IA pour vous faire les pages de ventes de vos formation que vous pouvez vendre directement sur la plateforme.
+Ils prennent aucune commissions sur les ventes, donc vous achetez l'outil en lifetime, un paiement pour un accès à vie et vous êtes tranquille...
+C'est un lien affilié certes mais c'est un super outil donc je vous conseille de regarder ça.
+Voici le lien 👉🏻: appsumo.8odi.net/QyrqqM
+29/02/2024, 20:28 - Pierrick BRIAND: Agathe, on en parle si tu veux !
+29/02/2024, 20:30 - Pierrick BRIAND: Bonjour Guillaume, ce sera avec plaisir de vous présenter les innovations sur notre plate-forme. Il y a bien d’autres choses que la génération de quiz.
+29/02/2024, 21:18 - Ahmadou Ba: Interessant article qui soulève un vrai problème. L'autre j'ai rédigé un rapport que j'ai soumis à ChatGPT pour correction, il m'a proposé une version améliorer vraiment rien à dire avec carrément mes idées ce que je voulais vraiment dire. Mais quand j'ai passé l'article dans Scribbe, on m'a dit que le niveau de plagiat était très élevé. Alors j'ai décidé de rester avec les correcteurs orthographiques traditionnelles.

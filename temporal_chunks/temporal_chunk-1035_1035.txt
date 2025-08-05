@@ -1,0 +1,36 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 666
+Messages: 28
+
+=== CONTENU ===
+05/10/2024, 18:38 - +33 6 49 95 38 23: @33676381571 sinon il y a  ça https://github.com/Ucas-HaoranWei/GOT-OCR2.0
+05/10/2024, 20:47 - +33 6 49 84 08 41: Le site pdf24 m'a bien servi à moi, + correction des confusions après dans Mistral
+05/10/2024, 22:37 - +33 6 49 84 08 41: null
+05/10/2024, 23:02 - ‎+32 484 02 33 40 est parti·e
+06/10/2024, 09:30 - ‎+33 6 37 64 30 94 a demandé à rejoindre le groupe.
+06/10/2024, 10:02 - ‎+33 6 37 64 30 94 a rejoint ce groupe grâce à son lien d’invitation
+06/10/2024, 10:30 - ‎+33 6 38 05 86 57 est parti·e
+06/10/2024, 11:14 - ‎+33 6 28 84 68 23 est parti·e
+06/10/2024, 12:37 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+06/10/2024, 13:49 - +33 6 51 88 68 57: Quel bot ???
+06/10/2024, 14:40 - Rochane: actibot.carrd.co
+06/10/2024, 16:34 - +33 6 85 03 31 84: Le lien de ce bot est dans la description du présent groupe WhatsApp: on ne peut pas le rater (utile quand on n’est pas dans ce groupe depuis le début)
+06/10/2024, 17:09 - ‎+223 61 12 50 51 a demandé à rejoindre le groupe.
+06/10/2024, 17:34 - ‎+33 6 85 94 41 33 est parti·e
+06/10/2024, 19:04 - ‎+223 61 12 50 51 a rejoint ce groupe grâce à son lien d’invitation
+06/10/2024, 19:10 - Vous avez épinglé un message
+06/10/2024, 19:14 - ‎+32 476 87 27 04 a demandé à ajouter +32 495 26 56 77.
+06/10/2024, 19:18 - Oumayma: Bonsoir
+Quelq'un peut m'aider? J'ai besoin d'un site qui fait une présentation par AI
+06/10/2024, 19:18 - ‎+995 595 43 20 25 a demandé à rejoindre le groupe.
+06/10/2024, 19:21 - +33 6 13 43 58 18: https://gamma.app/
+06/10/2024, 19:21 - Oumayma: Merci beaucoup
+06/10/2024, 19:37 - ‎+32 476 87 27 04 a ajouté +32 495 26 56 77
+06/10/2024, 19:37 - ‎+995 595 43 20 25 a rejoint le groupe à partir de la communauté.
+06/10/2024, 20:04 - +33 6 28 06 83 96: une IA par jour
+06/10/2024, 20:05 - +33 6 28 06 83 96: https://www.uneiaparjour.fr/
+06/10/2024, 21:16 - ‎+33 6 10 44 33 82 a demandé à rejoindre le groupe.
+06/10/2024, 21:33 - Jean-Marc Everard: Bonjour, je profite de la demande d’Hélène car je galère un peu avec une automatisation via make mais dont je suis à peu près certain que quelqu’un se sert déjà. Ma question : comment faire pour que ça marche bien. Explication : je suis abonné à un grand nombre de newsletters sur L’IA et il me faudrait quasiment un autre full Time pour toutes les lire. Du coup, je voulais les labelliser AI via Gmail + ChatGPT, puis prendre tous les mails de la journée labellisés AI et en faire un résumé. Mais cela en optimisant le nombre de pas et d’opérations de façon à ne pas être trop gourmand énergétiquement. Quelqu’un aurait-il/elle une solution géniale ?

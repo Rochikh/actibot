@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 13
+
+=== CONTENU ===
+21/10/2024, 08:18 - +33 6 28 06 83 96: https://eyssette.forge.aeif.fr/chatMD/
+21/10/2024, 08:18 - +33 6 28 06 83 96: vous connaissez déjà sûrement mais je partage une découverte pour moi
+21/10/2024, 08:20 - Rochane: Avant de cliquer, explique nous de quoi il s'agit stp
+21/10/2024, 08:21 - +33 6 28 06 83 96: ChatMD est un chatbot que l'on peut facilement configurer par soi-même en Markdown. C'est un outil libre et gratuit
+21/10/2024, 08:22 - +33 6 28 06 83 96: https://tube-sciences-technologies.apps.education.fr/w/jhJtHTQsR9gPj2EQsCQvCy
+21/10/2024, 08:34 - Letizia ALLEGRINI: @cedric esseyte de la drane de Lyon en est l'auteur
+21/10/2024, 09:44 - +33 6 64 50 56 67: Oui mais c’est un long travail et les infos dans le tuto pas toujours suffisantes quand on débute
+21/10/2024, 09:45 - +33 6 64 50 56 67: Ca peut être à tenter en collaboration avec les élèves pour créer un bot de révision sur une séquence.
+21/10/2024, 10:04 - Clément Cahagne: Pour celles et ceux que ça intéresse : podcast du jour sur Rdv en terre digitale sur NotebookLM
+https://smartlink.ausha.co/rendez-vous-en-terre-digitale/notebooklm
+21/10/2024, 10:09 - Daniel Pappalardo: Je m'en sers régulièrement pour accompagner les élèves dans les apprentissages, mais aussi dans les jeux où ils peuvent interroger des personnages historiques.... Comparé à d'autres chatbots comme Mizou c'est vrai que c'est plus long à faire (mais quand on doit les programmer c'est encore plus long !) mais RGPD et pour le coup complètement gratuit ce qui n'est pas le cas des bots semblables sur le marché (botpress, snatchbot...)L'avantage est d'avoir un bot bien verrouillé sur ce qu'on lui demande de répondre (même si le LLM est possible) On essaye bientôt une version pour l'aide en ligne du site de la Drane de Corse. Encore merci à l'auteur du coup pour son travail précieux.
+21/10/2024, 10:26 - ‎+49 176 21724804 est parti·e
+21/10/2024, 12:10 - Rochane: https://philippesilberzahn.com/2024/10/21/la-grande-petoche-comment-la-france-va-rater-la-revolution-de-l-ia/

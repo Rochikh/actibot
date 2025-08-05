@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 17
+
+=== CONTENU ===
+01/01/2025, 11:29 - Rochane: <Médias omis>
+01/01/2025, 11:58 - zp: <Médias omis>
+01/01/2025, 12:12 - ‎+33 6 59 44 35 31 est parti·e
+01/01/2025, 12:48 - Jean-Marc Everard: Pareil! Plus tous les superlatifs et les paraphrases trop enjouées. C’est très américain et au départ c’est plutôt positifs mais au bout d’un moment c’est too much 😉.
+01/01/2025, 12:52 - Jean-Marc Everard: Oui, comme le dis aussi Lucie dans son bouquin, les choix technologiques ne sont jamais politiquement neutres. Il nous appartient d’essayer de transcender cela pour le bien de nos apprenants en nous basant sur la science et en nous forgeant des opinions plutôt qu’en nous contenant d’avoir des opinions (comme le dis Étienne Klein).
+01/01/2025, 12:58 - Ahmadou Ba: Ça plutôt, une bonne idée de créer un document collaboratif où nous allons mettre tous les mots qu'utilise ChatGPT. Ça serait une bonne base pour traquer les contenus générés par GPT, cela peut aider pour personnaliser davantage les produits
+01/01/2025, 13:03 - Rochane: Bonne idée, lance-le 😀
+01/01/2025, 14:41 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+01/01/2025, 13:57 - ‎+33 7 60 00 58 08 est parti·e
+01/01/2025, 14:00 - ‎+32 494 79 75 92 est parti·e
+01/01/2025, 14:12 - Ahmadou Ba: As-tu une idée sur comment procéder je crée un Google docs ou tu relances le formulaire d'airtable ?
+01/01/2025, 19:43 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+01/01/2025, 20:04 - +33 6 52 73 73 42: Qqun à une idée d'une IA capable d'analyser un QCM au format pdf et de répondre correctement aux questions de ce QCM !?
+01/01/2025, 20:07 - Rochane: Claude est le meilleur pour ça. Après, tout dépend des questions du QCM, si ça nécessite une connaissance récente, peut-être pas puisque Claude n'est pas connecté.
+Tu as essayé avec Chat Gpt ?
+01/01/2025, 20:09 - +32 477 95 34 42: Perso je le fais avec chatgpt 4 pour mes eval
+01/01/2025, 20:10 - +33 6 52 73 73 42: Oui oui ... parfois les réponses apportées sont erronées ! 😅

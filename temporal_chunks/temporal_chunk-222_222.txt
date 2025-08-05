@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 564
+Messages: 13
+
+=== CONTENU ===
+Claude est bon sur les synthèses. ChatGPT a tendance à être prolixe des fois
+21/02/2024, 10:27 - Jean-Marc Everard: Bonjour Richard, pour bien comprendre la question : est-ce un storyboard pédagogique pour un module de digital training ou bien une formation synchrone?
+21/02/2024, 11:24 - +33 6 76 04 48 20: Bonjour Jean-Marc, il s’agira d’une module de formation synchrone
+21/02/2024, 11:40 - ‎+32 494 30 81 69 a rejoint le groupe à partir de la communauté.
+21/02/2024, 13:06 - Rochane: Bonjour à toutes et tous, voici le lien pour notre visio de mercredi 21 février de 20h à 21h
+https://us06web.zoom.us/j/81297500306?pwd=05WfgzrQBwxX6Nmd4r4k0Nj12RYAyR.1
+ID de réunion: 812 9750 0306
+Code secret: 453538La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+21/02/2024, 14:18 - ‎+32 492 79 73 53 a rejoint le groupe à partir de la communauté.
+21/02/2024, 15:48 - Guillaume Singeot: @33676044820 https://www.almanack.ai/
+21/02/2024, 16:51 - +225 08 64 97 90: https://www.linkedin.com/posts/comptoir-de-la-formation_top-4-des-outils-ia-gratuits-%C3%A0-utiliser-en-activity-7165978471536476161-bcZN?utm_source=share&utm_medium=member_android
+21/02/2024, 22:15 - Rochane: Merci pour les échanges riches de ce live. Désolé @32496968742 , on n'a pas eu le temps de regarder ta vidéo mais j'espère que tu viendras la prochaine fois en débattre directement sur un sujet très important des défis de l'éthique dans l'IA https://youtu.be/MAzoKd1EbZE
+21/02/2024, 22:24 - Jean-Marc Everard: Bonsoir Rochane et tout le monde. Avec plaisir mais le mercredi soir (et le lundi d'ailleurs 😉) resteront compliqués pour moi pendant plusieurs mois encore. Mais ce sera avec plaisir que je viendrai partager avec vous. D'ailleurs, et c'était un peu mon message, l'IA présente les 2 facettes de toute avancée technologique : risques, contraintes mais aussi bénéfices. A nous de trouver l'équilibre. Bonne soirée.

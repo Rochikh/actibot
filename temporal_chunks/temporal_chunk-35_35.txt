@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 13
+
+=== CONTENU ===
+31/10/2023, 16:00 - Luc deleplanque: SONDAGE  :
+L'option MUR semble majoritaire, deux options restent à départager :
+OPTION  : Un Mur sur "La DIGITALE" voir plus haut dans la conversation, le 1er QR Code (‎5 votes)
+OPTION  : Un Mur sur "PADLET" voir juste au dessus dans la conversation, le 2sd QR Code (‎4 votes)
+31/10/2023, 16:13 - +41 79 276 46 84: Personnellement pour avoir testé plusieurs manières de partager du contenu dans mon institution, j'ai constaté qu'on arrive très vite aux limites d'outils comme des dossiers, des mind Map ou des padlet car c'est fortement dépendant de comment c'est classer et chacun a sa manière de classer. En plus il y a tj des  outils inclassables.
+Et dès qu'il y a un certain nombre de ressources on ne trouve plus rien à moins de tout parcourir méticuleusement.
+Il faudrait, à mon avis, une base de données dans laquelle on peut inclure des tags, des catégories, des "like"...  pour chaque outil et qu'il y ait une possibilité de recherche par mot clé.
+SharePoint le fait assez bien avec les listes mais c'est que en interne d'une institution.
+Si vous connaissez un autre outil qui permet ça, ça pourrait être bien.
+31/10/2023, 16:18 - Guillaume Singeot: ça dépend des ressources (taille, nature) mais j'ai utilisé Trello en mode gratuit avec un système de couleur légendé utilisant les étiquettes
+31/10/2023, 16:21 - Luc deleplanque: Je suis assez d'accord avec toi sur la problématique de recherche ... la BdD peut être générée sur base du Post dans  le Mur (qui est accessible par un lien spécifique) en suite les mots ou tags peuvent faire l'objet de remarques au poste. La  chose restant à savoir qui et comment, le fait... 😉 Je pense que AirTable est plus dans la logique de BdD mais les Tags (plus limités) de Trello restent une option aussi 👐
+31/10/2023, 16:23 - Luc deleplanque: Nous pourrions mettre en place un groupe / atelier pour automatiser l'opération avec Make... qu'en pensez-vous... ⁉️
+31/10/2023, 16:24 - Rochane: Effectivement Airtable est un outil très flexible et l'on peut passer un formulaire ouvert à toutes et à tous pour déposer des URL ou des documents pour être affichés selon plusieurs vues

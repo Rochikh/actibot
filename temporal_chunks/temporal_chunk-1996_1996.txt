@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 14
+
+=== CONTENU ===
+23/03/2025, 21:41 - +33 6 58 35 08 39: Merci beaucoup, je vais creuser ces pistes !
+23/03/2025, 22:28 - +33 7 85 94 69 69: Après oui Gemini aussi
+24/03/2025, 05:51 - Votre code de sécurité avec +212 714-324644 a changé. Appuyez pour en savoir plus.
+24/03/2025, 07:00 - ‎+1 (415) 712-6663 a demandé à rejoindre le groupe.
+24/03/2025, 11:31 - +33 6 60 20 86 76: Bonjour, membre d’un projet européen sur l’IA pour l’éducation aux langues, j’ai établi une première ébauche de lignes directrices afin de permettre une utilisation de cet outil dans une optique d’apprentissage responsable, autonome et de qualité. Pourriez-vous me donner votre avis sur cette ébauche afin de l’enrichir ? Étant tous utilisateurs assidus de cet outil, votre avis me sera précieux! Merci d’avance 😊
+24/03/2025, 11:33 - +33 6 60 20 86 76: <Médias omis>
+24/03/2025, 11:56 - Francois Bocquet: La partie « conforme au cadre juridique » sera complexe à valider pour des projets portés par une institution educative. Bien penser à l’application du RGPD et du RIA…
+24/03/2025, 13:14 - ‎+1 (415) 712-6663 a rejoint le groupe à partir de la communauté.
+24/03/2025, 16:25 - +33 6 33 75 30 50: Antonin me retire le mots de la bouche
+24/03/2025, 16:31 - +33 6 42 26 64 70: Subsidiaire mais à prendre aussi en compte dans l’avenir de l’apprentissage des langues étrangères pour les générations futures…un vrai débat de fond qui trop souvent est évité poliment https://www.01net.com/actualites/airpods-devraient-traduire-temps-reel-ios-19.html
+24/03/2025, 17:00 - +33 6 19 75 63 49: Grande réflexion à mener pour nous qui les enseignons
+24/03/2025, 17:04 - Gregoire IA: Est ce que cela change vraiment la question de fond ?
+24/03/2025, 19:22 - +33 6 64 47 07 94: Un livre traduit par différents traducteurs donne des ouvrages quelque peu différents. La traduction by IA donnera-t-elle celle de référence incontestable officielle mais dénuée d'humanité ? Si oui, quel monde sans intérêt et sans imperfection.
+24/03/2025, 19:47 - +33 6 49 84 08 41: Hello, je suis un grand fan de Notebook LM mais je le trouve peu réactif lorsqu'on coche/décoche des sources.

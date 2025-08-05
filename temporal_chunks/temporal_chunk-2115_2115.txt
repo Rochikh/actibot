@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 16
+
+=== CONTENU ===
+amCharts permet de créer aisément des dataviz 100 % mobile responsive pour les intégrer sur un site web.
+Graphes, diagrammes et cartographies peuvent être personnalisés à souhait, des couleurs à la mise en forme en passant par les animations.
+https://www.highcharts.com/,
+Highcharts se destine principalement au développeurs, qui y trouveront une solution pratique pour intégrer des data visualisations esthétiques et interactives sur un site web.
+Toutefois, l’outil dispose d’une fonctionnalité appelée Highcharts Cloud, pensée pour permettre à n’importe quel utilisateur de créer beaux diagrammes interactifs.
+Ces derniers peuvent alors être facilement postés sur un blog ou encore [partagés sur les réseaux sociaux](https://www.codeur.com/blog/causes-partage-reseaux-sociaux/).
+https://toucantoco.com/fr/solution.html
+Toucan Toco est une entreprise française qui aide les grandes entreprises à transformer des données brutes complexes en des data visualisations et des histoires interactives.
+Très utile pour les décisionnaires en entreprise, qui ont besoin de mieux comprendre les données liées à leurs problématiques métier (et qui peuvent ainsi prendre les meilleures décisions).
+http://www.chartjs.org/
+Avec 8 types de représentations différentes et une grande flexibilité, [Chart.js](http://www.chartjs.org/) est un des outils les plus appopriés pour les designers et développeurs qui souhaitent créer des dataviz. Cet outil open source propose des visuels animés et personnalisables pour égayer toutes vos données.
+https://www.zingchart.com/
+ZingChart dispose d’une bibliothèque de data visualisations très fournie (plus d’une centaines de templates) sur laquelle vous pouvez vous appuyer pour illustrer vos propres informations.
+https://d3js.org/
+S’il n’est pas le plus accessible de la liste, [D3.js](https://d3js.org/) est l’un des outils les plus poussés pour faire de la data visualisation, à condition d’être maîtrisé.
+Il est particulièrement performant pour créer des contenus dynamiques dotés de transitions animés.

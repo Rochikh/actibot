@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 15
+
+=== CONTENU ===
+24/06/2025, 07:53 - +32 498 78 46 36: Avec quels outils fais-tu cela ?
+24/06/2025, 08:10 - Letizia ALLEGRINI: Tout a fait d'accord le principe était de réaliser une infographie avec les grands principes mais pour apporter des précisions la version pdf à un lien cliquablevqui renvoie sur la faq de la cnil. L'article publié sur linkedin le précise également 😀
+24/06/2025, 08:17 - Francois Bocquet: Le principal soucis de la formule c’est que ça permet à chacun d’affirmer qu’il est vigilant et que par conséquent ça suffit et que le problème du cadre légal est réglé. Par ailleurs indiquer que les services grand public peuvent être utilisés est contraire à l’application du RGPD. Et la c’est une grosse erreur du cadre. Seul des services contractualisés par les responsables de traitement peuvent être utilisés y compris par des enseignants. C’est pour cela que tant que des services d’IA ne seront pas accessibles à travers le GAR et les ENT ou via les espaces professionnels des enseignants, le RGPD ne pourra pas être respecté et les responsables de traitements seront en situation délictuelle (relire le site de la CNIL : https://www.cnil.fr/fr/les-sanctions-penales)
+24/06/2025, 09:26 - +33 6 66 98 84 23: Bonjour, on a bien rendez-vous ce soir pour la visio ?
+24/06/2025, 11:04 - Rochane: Oui, à 20h, heure Paris.
+Lien épinglé en haut 🙂
+24/06/2025, 11:15 - Rochane: <Médias omis>
+24/06/2025, 11:15 - Rochane: <Médias omis>
+24/06/2025, 11:32 - +213 770 60 32 81: Bonjour quelqu'un peut m'orienter pour generer des qcm a partir d'un pdf avec l'outil IA merci d'avance
+24/06/2025, 11:33 - +33 6 52 73 73 42: Tu peux utiliser NotebookLM !
+24/06/2025, 11:35 - +33 6 52 73 73 42: Il y a pléthore de tuto sur internet ! Très simple d'utilisation !!
+24/06/2025, 11:38 - +213 770 60 32 81: Merci beaucoup
+24/06/2025, 13:20 - ‎+33 6 08 73 04 79 a demandé à ajouter +33 6 12 24 25 01.
+24/06/2025, 19:26 - Votre code de sécurité avec +40 774 429 836 a changé. Appuyez pour en savoir plus.
+24/06/2025, 19:39 - Rochane: Rdv pour le live dans 15 minutes sur bit.ly/iaedu2024

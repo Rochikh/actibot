@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 6
+
+=== CONTENU ===
+26/05/2025, 17:01 - +213 770 60 32 81: Qu'est ce que vous me conseillez pour moodle et IA, est ce que j'utilise les plugins spéciale moodle tel que openai, ou bien j'utilise des liens externes qui génère IA et je l’intègre dans mes cours, merci d'avance.
+26/05/2025, 17:04 - ‎+33 6 16 12 56 63 est parti·e
+26/05/2025, 17:36 - +33 6 52 73 73 42: Moodle et IA !? Pour quelles applications : création de cours !? Gestion des étudiants !?
+26/05/2025, 18:02 - +33 6 42 26 64 70: Pour Moodle et IA, si tu as un compte IA open ai ou azure IA, alors je te conseille de renseigner dans les paramètres ton API et ton projet (que tu trouveras du côté du prestataire IA) et de profiter (depuis Moodle 4.5) des ses fonctionnalités (pas dingues mais efficaces et qui devraient évoluer) qui résument les textes « lisible » d’un cours ou génèrent du texte ou encore génèrent des images pour illustrer tes cours (directement dans Moodle). Tu as aussi deux plugins sympas, l’un est un bloc assistant IA qui peut  être restreint et servir d’assistant à tes étudiants mais attention aux tokens consommés . L’autre permet de générer des questions directement dans une banque de question à partir d’un corpus texte…très sympa et utile. Après, il existe à l’extérieur pour moi deux générateurs de cours tout fait au format mbz(format Moodle) : K2R2 (complet orienté activité Moodle) et Noledj (orienté H5P…qui devrait aussi être bientôt intégré dans les cours K2R2)…mais faut payer 💰 . Enfin, comme discuté plus haut, presque toutes les IA peuvent te générer des questions au format XML Moodle ou mieux au format Gift (dont le très bon gpts de M. Barati). Pour la gestion des étudiant, rien vu de convaincant pour l’instant, si ce n’est la génération de fichiers csv qui inscrivent avec beaucoup d’option (cohortes, sorties etc) avec une IA. Si besoin de détails suplémentaires ou techniques, n’hésite pas. <Ce message a été modifié>
+26/05/2025, 18:08 - Clotilde IA: OK je vais essayer alors 😊 <Ce message a été modifié>
+26/05/2025, 19:04 - Votre code de sécurité avec +32 479 67 09 41 a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,37 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 29
+
+=== CONTENU ===
+OPTION  : ChromeOS (‎6 votes)
+OPTION  : Linux (‎3 votes)
+OPTION  : Autre (‎1 vote)
+18/10/2024, 21:34 - Rochane: SONDAGE  :
+Idem pour les outils IA Générative
+OPTION  : Chat Gpt (‎104 votes)
+OPTION  : Copilot (‎45 votes)
+OPTION  : Gemini (‎29 votes)
+OPTION  : Claude (‎31 votes)
+OPTION  : Perplexity (‎47 votes)
+OPTION  : Mistral (‎14 votes)
+OPTION  : Autres (‎16 votes)
+19/10/2024, 08:52 - Rochane: https://youtube.com/shorts/l97Fd-sR3aE?feature=shared
+Si vous voulez créer un chat bot en 10 minutes avec chatbase.co
+C'est payant et la version gratuite est limitée
+19/10/2024, 09:05 - Rochane: actibot.carrd.co, le robot de la communauté est à jour !
+19/10/2024, 09:10 - Jacques BARATTI: Merci Rochane ce robot est très utile !
+19/10/2024, 09:20 - +33 6 79 72 76 62: null
+19/10/2024, 09:20 - +33 6 79 72 76 62: null
+19/10/2024, 09:20 - +33 6 79 72 76 62: null
+19/10/2024, 09:20 - +33 6 79 72 76 62: null
+19/10/2024, 09:47 - +41 76 372 28 94: Une petite impression de déjà vu 🤣
+19/10/2024, 10:11 - Jean-Marc Everard: Quelqu’un a-t-il essayé ? Ca fait des années que j’aimerais installer un Chatbot sur un des sites dont je suis responsable mais pour le faire via l’interne la procédure est tellement lourde que ça en est décourageant.
+19/10/2024, 10:12 - Rochane: Tu peux tester avec la version gratuite Jean-Marc, ça va vite 🙂
+19/10/2024, 10:13 - Jean-Marc Everard: OK, merci du conseil Rochane. Je vais faire cela 👍🏻
+19/10/2024, 10:24 - +33 6 88 57 53 04: Assez déçu par cette vidéo...
+Intéressante pour pointer quelques défauts dans des prompts auto proclamés comme experts mais elle ne propose pas bcp de pistes d'amélioration. Tout au plus, quelques conseils ponctuels, sans réécriture des prompts pour les améliorer.
+Par ailleurs, l'auteur passe un temps démesuré à mettre en avant ses propres formations. C'est le jeu mais la densité et la richesse de cette vidéo ne me semble pas convaincantes...
+19/10/2024, 10:41 - Hoang: Oui j’ai laissé un commentaire dans ce sens, ce que j’ai aimé ça l’analyse des prompts dit « parfait » des youtubeurs. Clairement, il aurait été beaucoup plus pertinent de mettre en application avec des cas d’usages et des exemples

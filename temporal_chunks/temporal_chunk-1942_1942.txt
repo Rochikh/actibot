@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 10
+
+=== CONTENU ===
+10/03/2025, 22:17 - Votre code de sécurité avec +33 7 63 74 10 73 a changé. Appuyez pour en savoir plus.
+11/03/2025, 08:10 - +33 7 61 63 06 10: Salut à tous,
+Dans le cadre de mes fonctions, je vais animer une conférence de 1h30 à destination de lycéens sur le thème : Comment l’intelligence artificielle générative peut vous aider à réussir.
+Je prévois d’aborder brièvement l’histoire de l’intelligence artificielle avant d’expliquer son fonctionnement, en mettant en avant ses limites (biais, hallucinations) et contraintes (cout environnemental, protection de données...). J’insisterai particulièrement sur la nécessité de faire preuve d’esprit critique face aux résultats obtenus.
+En tant que père de cinq enfants de 6 à 21 ans, j’utilise personnellement l’IA pour les accompagner dans leurs études, notamment avec ChatGPT (et autres modèles), qui permet de générer des QCM, des textes à trous, des fiches de révision ou encore de reformuler des textes à partir de leurs cours. J’exploite également Perplexity pour approfondir des recherches sur différents sujets.
+Je présenterai aussi NotebookLM, qui offre des synthèses et permet de générer des podcasts d’environ 15 minutes en français à partir de leurs cours.
+Tous ces outils seront présentés en direct sur des cas d'usages très proche de leur réalité.
+À noter que je travaille en collaboration avec l’ensemble des enseignants pour préparer cette intervention et obtenir leur adhésion.
+Qu’en pensez-vous ? Avez-vous des suggestions pour enrichir cette conférence et la rendre encore plus utile aux lycéens ?
+11/03/2025, 08:37 - +32 486 98 03 36: Perso je suis très attachée à expliquer que chatgpt c est un outil comme les autres  si vous bosser si vous avez de la culture générale et si votre prompt est de haut niveau ça vous aidera à avoir un bon résultat, si vous avez pas envie de vous fouler ça donnera un résultat médiocre et ça puera l IA. Bref c est pas un outil qui bossera à votre place. Ça c est un  leurre. <Ce message a été modifié>

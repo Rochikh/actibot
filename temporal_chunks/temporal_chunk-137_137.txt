@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 16
+
+=== CONTENU ===
+vous pouvez le tester, vos suggestions pour son amélioration sont les bienvenues.
+22/12/2023, 15:27 - Rochane: Top, vraiment bien, je l'ai un peu titillé à la fin😁 https://chat.openai.com/share/dbf7647b-883e-4649-aba3-ee89c5423e25
+22/12/2023, 15:45 - Laurent The Cure: tu as martyrisé in GPT... pas joli ça ! 🤣
+22/12/2023, 15:50 - Ahmadou Ba: Franchement vous l’avez malmené 🤣 mais il s’est quand même bien défendu.
+22/12/2023, 15:50 - Ahmadou Ba: Intéressant cela confirme l’idée que le secret se trouve dans un bon prompt. Merci bcp pour ce retour
+22/12/2023, 17:10 - Rochane: Possibilité d'archiver désormais les conversations sur Chat gpt pour faire un peu le ménage 🙂
+22/12/2023, 22:14 - Rochane: https://youtu.be/chzJy7qHkCA?feature=shared Énorme cette vidéo, ça vaut vraiment le coup de prendre 7 minutes pour la regarder 🙂
+22/12/2023, 22:20 - Laurent The Cure: Géniale cette vidéo merci Rochane
+22/12/2023, 22:21 - Thierry VANOFFE: Merci excellent !
+23/12/2023, 00:47 - Ahmadou Ba: Il est fort
+24/12/2023, 10:35 - Rochane: https://generationia.flint.media/ je suis abonné à cette newsletter depuis 6 mois et je peux vous dire que c'est la meilleure que j'ai vue parmi d'autres 👽
+24/12/2023, 10:45 - Thierry VANOFFE: Inscription faite ! Merci Rochane. J’ai parcouru quelques billets de blog. Vraiment très bien fait et instructif. Merci pour ce cadeau 🎁
+24/12/2023, 10:50 - Laurent The Cure: Inscrit Également merci pour le partage
+24/12/2023, 13:44 - Rochane: https://youtu.be/0q-TC4JTPK8?feature=shared J'adore le concept et le scénario de ces vidéos. Le gars, il a intégré une vraie IA (Personnage nommé ADA) et il lui pose des questions et récupère ses réponses qu'il remet dans ElevenLab. J'aime beaucoup son humour et sa façon de ne pas trop se prendre la tête 😏
+24/12/2023, 18:04 - Thierry VANOFFE: Est ce que qqn connaît une bonne ia : audio to text ? L’idée est de faire de la dictée vocale en marchant et de retrouver le texte ensuite dans le cloud 😉
+24/12/2023, 18:09 - Rochane: Tu as essayé transcript.lol ?

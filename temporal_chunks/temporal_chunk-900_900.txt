@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 21
+
+=== CONTENU ===
+08/09/2024, 18:43 - Fred IA: Auriez vous une astuce pour retrouver facilement des prompts / conversations réalisés dans ChatGPT ?  Certes, ils sont listés dans la colonne de gauche, mais il n'y a pas de moteur de recherche et pas moyen de categoriser.. Donc si vous avez des astuces, je suis preneur, merci par avance 🙂 <Ce message a été modifié>
+08/09/2024, 18:44 - +33 6 72 75 43 48: Pareil 😂impossible de créer des dossiers
+08/09/2024, 18:45 - ‎+212 669-764440 est parti·e
+08/09/2024, 18:46 - Fred IA: (J'ai du mettre plus d'une heure à retrouver un prompt créé il y a quelques mois, donc, ce n'est pas très pratique de ce côté là)
+08/09/2024, 18:47 - Vincent DROUOT: Perso j’utilise une extension à Chrome qui permet d’avoir un moteur de recherche efficace et de créer des dossiers.
+Et si vous décidez de la retirer, cela remet en place proprement sans rien casser à vos conversations :
+Son nom :
+Superpower ChatGPT
+6.0.10
+08/09/2024, 18:47 - Vincent DROUOT: https://chromewebstore.google.com/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?hl=fr
+08/09/2024, 18:47 - Vincent DROUOT: <Médias omis>
+08/09/2024, 18:48 - +33 6 72 75 43 48: Mais c’est génial ça ! Merci beaucoup pour ton aide ! Je vais essayer 😉
+08/09/2024, 18:48 - Fred IA: Génial, merci beaucoup pour l'astuce !
+08/09/2024, 18:49 - +212 644-562660: 😯 ca marche tres bien de mon coté, mille merci
+08/09/2024, 18:50 - Vincent DROUOT: Au début, cela prend un peu de temps car il va synchroniser les titres des discussions dans sa base de données (c’est d’ailleurs un paramètre, moi j’ai demandé d’indexer 405 conversation)
+08/09/2024, 18:50 - Vincent DROUOT: <Médias omis>
+08/09/2024, 18:50 - Vincent DROUOT: une fois que cela est terminé, you can enjoy the ride 😉
+08/09/2024, 18:52 - +212 644-562660: je pense qu’il y a une limite coté création de dossiers dans la version gratuite pas vrai?
+08/09/2024, 18:53 - Vincent DROUOT: Exact 😉
+08/09/2024, 19:17 - ‎+32 477 70 17 33 est parti·e
+08/09/2024, 19:23 - +33 6 72 75 43 48: Pour le moment je galère j’ai toujours utilisé le navigateur Edge et du coup j arrive pas à basculer sur Google 😡

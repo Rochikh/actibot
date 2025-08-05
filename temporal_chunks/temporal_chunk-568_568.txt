@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 20
+
+=== CONTENU ===
+31/05/2024, 12:44 - ‎+351 932 291 666 a demandé à rejoindre le groupe.
+31/05/2024, 13:01 - ‎+33 6 62 42 82 55 a demandé à rejoindre le groupe.
+31/05/2024, 13:06 - ‎+351 932 291 666 a rejoint le groupe à partir de la communauté.
+31/05/2024, 13:07 - ‎+33 6 21 18 14 57 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 13:07 - ‎+33 6 62 42 82 55 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 13:21 - ‎+33 7 81 59 46 87 a demandé à rejoindre le groupe.
+31/05/2024, 13:31 - Jean-Marc Everard: 😀oui, je suis en train de tester aussi les pages sur Perplexity, en théorie ça ouvre des perspectives mais je ne suis pas encore très loin dans les tests. Pour répondre à Arnaud, j’ai aussi vu passer Private LLM pour installer des modèles en local. Payant (pas trop cher) et aucune idée des performances cependant…
+31/05/2024, 13:35 - ‎+33 6 62 95 45 08 a demandé à rejoindre le groupe.
+31/05/2024, 14:33 - ‎+33 6 77 84 11 24 a demandé à rejoindre le groupe.
+31/05/2024, 14:43 - ‎+33 6 62 83 20 00 a demandé à rejoindre le groupe.
+31/05/2024, 14:44 - ‎+33 7 81 01 98 22 a demandé à rejoindre le groupe.
+31/05/2024, 14:48 - ‎+33 6 95 02 72 77 a demandé à rejoindre le groupe.
+31/05/2024, 15:02 - ‎+33 6 62 95 45 08 a rejoint le groupe à partir de la communauté.
+31/05/2024, 15:02 - ‎+33 7 81 59 46 87 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 15:02 - ‎+33 6 77 84 11 24 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 15:02 - ‎+33 6 62 83 20 00 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 15:02 - ‎+33 7 81 01 98 22 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 15:02 - ‎+33 6 95 02 72 77 a rejoint ce groupe grâce à son lien d’invitation
+31/05/2024, 16:12 - Jean-Marc Everard: Bonjour, merci beaucoup pour le partage. Ca fait déjà un paquet d’outils tester. Est-ce qu’au final seuls les étoiles restent dans ta besace d’ingénieur pédagogique ou bien continues-tu des les utiliser en fonction des cas ?
+31/05/2024, 16:13 - Rochane: J'ai repéré l'outil 100% gratuit, videohighlight et il est vraiment top !

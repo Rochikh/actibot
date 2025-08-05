@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 13
+
+=== CONTENU ===
+15/06/2024, 22:04 - Yvelines: Top, merci!
+15/06/2024, 22:06 - +33 6 88 57 53 04: Super ressource, merci François.
+On gagnerait à l'afficher davantage dans les écoles et eple (avec un accompagnement des collègues de la communauté éducative, pas que prof)
+15/06/2024, 22:07 - +33 6 72 75 43 48: Merci beaucoup mais je n’arrive pas à l’ouvrir 😉il me demande de mettre à jour mon navigateur ?
+15/06/2024, 22:11 - Francois Bocquet: Le gros soucis c’est que la responsabilité de respecter le RGPD n’incombe pas aux enseignants mais aux seuls chefs d’établissement ou aux DASEN pour le primaire (même pas les IEN).  La seule chose à indiquer aux enseignants c’est de vérifier que le traitement qu’ils souhaitent mettre en œuvre est possible c’est à dire soit il est inscrit au registre des traitements (on peut le consulter) soit il n’y a pas de données à caractère personnel (par anonymisation par regroupement d’utilisateurs ou utilisation d’un proxy).
+15/06/2024, 22:11 - Francois Bocquet: Bizarre !
+15/06/2024, 22:24 - LIO: Idem pour les formateurs ou concepteurs de formations digitalisées.
+Si un outil n'est pas référencé on est restreints.
+15/06/2024, 22:37 - Francois Bocquet: Oui c’est ça. Le traitement doit être au registre de l’organisation
+15/06/2024, 22:40 - LIO: Si pas il faut déclencher l'inscription par une fiche dcp.
+Justifier tout les traitements et la faire valider par le dpo
+16/06/2024, 05:32 - +32 479 58 54 12: Je me demandais si ChatGPT pouvait faire une ACP pour analyser les données. J'ai testé et j'ai réalisé que les résultats sont quasiment les mêmes, qu'on lui demande ou non une ACP. J'en déduis que l'ACP fait partie de son mode habituel par defaut pour analyser des résultats. Qu'en pensez-vous?
+16/06/2024, 11:31 - Rochane: À mon avis, il faut toujours préciser dans le prompt le type d'analyse que tu souhaites, plutôt que de t'en remettre aux choix par défaut de ChatGPT. Peut être aussi, il est possible d'explorer le code généré pour comprendre précisément les traitements appliqués aux données.

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 13
+
+=== CONTENU ===
+24/10/2024, 19:36 - martinyemani IA: Merci
+24/10/2024, 19:37 - ‎+237 6 97 15 58 93 a rejoint ce groupe grâce à son lien d’invitation
+24/10/2024, 19:39 - Rochane: J'ai l'impression que si on est dans le RAG ( sources internes apportées par l'utilisateur), les hallucinations sont beaucoup moindre. Typiquement, le cas de Notebook LM
+24/10/2024, 19:40 - +237 6 56 90 71 30: Exactly 👍🏾
+24/10/2024, 19:53 - +41 79 326 51 40: https://www.linkedin.com/posts/kirthigan_on-peut-d%C3%A9sormais-cr%C3%A9er-autant-de-voix-que-activity-7254857488599048193-jUC2?utm_source=share&utm_medium=member_android
+Pour celles et ceux qui cherchent à créer des "voix sur mesure", il semblerait que cela soit possible avec le Voice Design de ElevenLabs. Je n'ai pas testé mais j'ai souvent vu des remarques à ce sujet dans ce groupe, donc je poste au cas où cela pourrait servir à qqun...
+24/10/2024, 20:16 - +33 6 03 06 04 34: Quel niveau ? AIforeducation, grosse plateforme US sur la GenAI avec des tonnes de ressources gratuites sinon : https://www.france-education-international.fr/en/expertises/cooperation-education/projets/ai4t-artificial-intelligence-and-teachers
+24/10/2024, 20:22 - ‎+237 6 90 98 08 52 a demandé à rejoindre le groupe.
+24/10/2024, 20:29 - ‎+237 6 90 98 08 52 a rejoint ce groupe grâce à son lien d’invitation
+24/10/2024, 20:29 - Ahmed Yagoubu: Je cherche un expert en numérique éducatif avec quoi  concrétiser un projet au profit de communautés apprenantes scolaires et universitaires et de professionnels de l enseignement
+24/10/2024, 21:01 - Fred IA: En passant par framapad pour construire le texte en markdown, ça fonctionne pour la mise en place de chatMD 🙂
+24/10/2024, 21:51 - +33 6 58 35 08 39: Digipage permet aussi d’écrire en markdown
+24/10/2024, 22:05 - Fred IA: Je l'ai également testé mais sauf erreur, digipage ne permet pas de protéger la page que vous rédigez. Dommage car digipage est plus pratique pour voir le résultat du markdown (framapad est protégé mais ne permet pas la previsualisation). Aucune solution parfaite donc. Preneur si quelqu'un  trouve mieux. Également preneur si quelqu'un sait comment connecter un LLM à chatMD

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 11
+
+=== CONTENU ===
+LM Studio peut être utilisé dans un établissement scolaire français en conformité avec le RGPD, à condition que :
+•	Les traitements de données personnelles soient minimisés ou absents.
+•	Une analyse approfondie du logiciel confirme qu’il ne transfère aucune donnée vers l’extérieur.
+•	Les utilisateurs soient informés de manière transparente.
+•	Des mesures techniques et organisationnelles soient mises en place pour sécuriser l’usage.
+Si vous envisagez un usage précis du logiciel, je peux vous aider à vérifier les fonctionnalités spécifiques ou à rédiger les documents nécessaires, comme une AIPD ou une politique de confidentialité.
+21/01/2025, 15:37 - +33 6 42 26 64 70: Je vais en parler au DPO de l’académie, mais aussi à mon chef d’établissement, et proposer une expérimentation avec llama ou Lucie comme tuteur ou assistant pédagogique le temps des aides aux devoirs dans un premier temps <Ce message a été modifié>
+21/01/2025, 15:44 - Francois Bocquet: GPT raconte ici des bêtises en particulier sur le consentement. Aucun consentement n’est requis pour les traitements relevant de la responsabilité d’un chef d’établissement. Le critère de liceite pour l’art 6 doit être UNIQUEMENT l’exercice d’une mission de service public. Donc aucun consentement de la part des élèves ou des parents. Par ailleurs il ne peut y avoir absence de traitement de données à caractère personnel (DCP) ici puisque les utilisateurs sont logues et que toutes leurs traces  sont des DCP.
+21/01/2025, 15:45 - Francois Bocquet: Logiquement c’est ton chef d’établissement qui doit solliciter le DPD qu’il a ou son prédécesseur à désigné.
+21/01/2025, 15:46 - Francois Bocquet: Si le traitement est instruit et porté au registre de l’établissement alors tu pourras le mettre en œuvre en toute conformité. Si ce n’est pas le cas, prudence absolue…
+21/01/2025, 15:49 - Francois Bocquet: Attention également LM sTudio est disponible pour une utilisation personnelle. Mais la règle change pour une utilisation professionnelle -> Can I use LM Studio at work?

@@ -1,0 +1,43 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 35
+
+=== CONTENU ===
+Tu gagnes en rigueur et en tranquillité.
+4. Rédiger un compte-rendu de réunion
+Tu envoies une transcription ou des notes brutes, l’IA fait un CR propre et hiérarchisé.
+Adaptable au niveau de formalité souhaité.
+5. Réécrire un texte dans un autre style
+Tu donnes ton texte, et l’IA le reformule en plus formel, plus inclusif, plus fluide, etc.
+Gain de temps et montée en qualité.
+6. Ébaucher une lettre de motivation ou une offre de service
+Tu donnes ton contexte, l’IA te propose une trame argumentée.
+Parfait comme point de départ à personnaliser.
+7. Identifier des angles morts dans un projet
+Tu présentes une stratégie, et l’IA te questionne sur les non-dits, risques, oublis.
+Un miroir utile pour anticiper les impasses.
+8. Comparer des options de manière structurée
+L’IA établit un tableau avantages/inconvénients pour t’aider à décider.
+Objectiver les choix sans tout faire seul.
+9. Jouer le rôle de collègue critique bienveillant
+Tu exposes une idée, l’IA la challenge en douceur.
+Un outil pour muscler ton raisonnement sans jugement.
+10. Évaluer les impacts d’un changement
+Tu décris un changement à venir, et l’IA en explore les effets potentiels.
+Elle peut simuler des réactions, proposer des mesures d’accompagnement.
+11. Simuler des réactions d’un public cible
+Tu testes un message ou une décision, et l’IA t’indique comment différents profils pourraient réagir.
+Utile pour anticiper les malentendus ou résistances.
+12. Créer un quiz ou une évaluation formative
+Tu donnes un contenu ou thème, et l’IA génère des QCM ou questions ouvertes.
+Facilite l’évaluation en formation ou animation.
+13. Transformer un contenu en support pédagogique
+À partir d’un document complexe, l’IA crée un PowerPoint ou une fiche claire.
+Parfait pour rendre accessible une matière dense.
+14. Créer des modèles de rapports ou PV
+Tu précises le type de document, l’IA fournit un canevas réutilisable.
+Gain de temps pour des tâches administratives récurrentes.
+15. Fusionner plusieurs documents

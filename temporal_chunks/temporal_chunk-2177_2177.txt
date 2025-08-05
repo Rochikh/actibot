@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 18
+
+=== CONTENU ===
+14/05/2025, 19:10 - Ahmadou Ba: J'ai l'impression que ChatGPT est devenu plus lent, qui a déjà fais le constat.
+14/05/2025, 20:20 - +33 7 66 46 62 19: Bonjour
+Je compte animer un stand sur mon projet professionnel le 3 juillet (création d'un organisme de formation autour de l'ingénierie pédagogique, l'apprentissage autour des environnements virtuels, robotique...). Bref si vous avez des idées d'animation courte, autour de l'IAG ou autres. Plus d'infos en mp si besoin. Merci.
+14/05/2025, 20:59 - Rochane: On a fait une roue de l'hybridation avec genially, ça peut être utile
+https://view.genially.com/61a89c558d32e80e09bbd0a2
+14/05/2025, 21:00 - +33 7 66 46 62 19: Merci beaucoup. Super l idée ! <Ce message a été modifié>
+14/05/2025, 23:25 - +33 6 85 03 31 84: C’est tiré du site WordWall, cette roue non ?
+15/05/2025, 00:33 - +33 7 86 18 83 63: Je parle du document orignal pas celui de genspark
+15/05/2025, 07:28 - Rochane: https://www.linkedin.com/pulse/analyse-du-co%25C3%25BBt-environnemental-des-ia-g%25C3%25A9n%25C3%25A9ratives-en-johan-creeten-wvgoe/?trackingId=qRwLBKJASxKJXu%2FaxcDV1Q%3D%3D
+15/05/2025, 07:43 - +32 496 25 51 91: Hello tout le monde ! Un retour à faire sur Monica.im ? Apparement c’est un excellent complément à Chatgpt
+15/05/2025, 08:00 - Rochane: Et c'est quoi ?
+15/05/2025, 08:09 - +32 496 25 51 91: https://vm.tiktok.com/ZNdMKajSF/
+15/05/2025, 08:09 - +32 496 25 51 91: Un outil génératif, de retranscription et lecture de documents - entre autres.
+15/05/2025, 08:19 - +33 7 86 18 83 63: Merci. La transformation est vraiment bien
+15/05/2025, 08:40 - Votre code de sécurité avec +33 6 58 37 51 82 a changé. Appuyez pour en savoir plus.
+15/05/2025, 09:30 - +237 54717211: Bonjour . Qui a expérimenté un outil IA de conversion docx vers latex?
+15/05/2025, 11:11 - Rochane: Pour les habitué·e·s à la plateforme Google Ai studio, j'ai l'impression que ça a changé dans le sens où je ne retrouve plus les modèles de génération d'images 🤔
+15/05/2025, 13:11 - +41 79 326 51 40: Ça m'intéresse également.

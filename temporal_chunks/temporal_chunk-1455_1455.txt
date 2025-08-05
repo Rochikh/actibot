@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 18
+
+=== CONTENU ===
+23/12/2024, 09:49 - StéphaneIA: @33628353450 Si le projet repose essentiellement sur la vidéo, le seul modèle qui a ces capacités c'est le nouveau Gemini 2.0 Flash. En première intention vous pouvez faire des tests sur AI Studio en chargeant les vidéos à la main et en demandant par exemple si il y a des améliorations possibles ou si il peut catégoriser les grandes idées par exemple. Tout cela sera du prompt et est assez facile à tester sur aistudio.google.com. Si après il faut faire du conseil en live par exemple ce serait possible mais pour cela ce sera du développement.
+23/12/2024, 09:59 - Rochane: Le Chat Bot de la communauté vient d'être mis à jour
+actibot.carrd.co
+23/12/2024, 10:01 - +33 7 67 14 12 50: Ce message a été supprimé.
+23/12/2024, 10:16 - Francois Bocquet: Peut être regarder du côté de Vocacoach pour une partie de la question https://vocacoach.fr/ ?
+23/12/2024, 12:02 - +33 7 83 62 43 52: Bonjour
+Y a t'il un replay de cet atelier svp ?
+Merci de vos retours
+23/12/2024, 12:11 - Rochane: https://drive.google.com/file/d/17R5kE_r1o8_u5W_oMetZiZEPi5Hb5m5k/view?usp=drivesdk
+23/12/2024, 12:15 - ‎+216 92 339 856 a demandé à rejoindre le groupe.
+23/12/2024, 12:15 - ‎+216 23 149 077 a demandé à rejoindre le groupe.
+23/12/2024, 12:16 - ‎+216 22 610 392 a demandé à rejoindre le groupe.
+23/12/2024, 12:34 - +32 495 45 71 42: <Médias omis>
+23/12/2024, 12:49 - ‎+216 22 610 392 a rejoint le groupe à partir de la communauté.
+23/12/2024, 12:50 - ‎+216 23 149 077 a rejoint le groupe à partir de la communauté.
+23/12/2024, 12:50 - ‎+216 92 339 856 a rejoint le groupe à partir de la communauté.
+23/12/2024, 13:12 - estelle Duterage Drion IA: Merci Pierrick pour ces conseils je suis en lien avec la fondation orange qui y voit un intérêt
+Et un incubateur pour tout cela car comme tu me le fais sentir avoir des idées, ça ne suffit pas derrière, il y a évidemment tout le champ technologique et le champ financier à prendre en compte donc il faut savoir s’entourer. Je vais étudier ce que tu m’as dit durant ces vacances et je te remercie beaucoup.

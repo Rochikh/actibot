@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 552
+Messages: 6
+
+=== CONTENU ===
+11/10/2024, 10:48 - Hoang: Une nouvelle technique réduit de 95 % la consommation d'énergie de l'IA : une perspective intéressante alors que l'IA générative accélère la crise climatique en raison de sa forte consommation d'énergie: https://intelligence-artificielle.developpez.com/actu/363672/Une-nouvelle-technique-reduit-de-95-pourcent-la-consommation-d-energie-de-l-IA-une-perspective-interessante-alors-que-l-IA-generative-accelere-la-crise-climatique-en-raison-de-sa-forte-consommation-d-energie/
+11/10/2024, 10:52 - ‎+66 85 815 6720 a rejoint ce groupe grâce à son lien d’invitation
+11/10/2024, 10:52 - ‎+33 6 99 51 72 70 a rejoint ce groupe grâce à son lien d’invitation
+11/10/2024, 11:47 - Hoang: Bonjour à tous, quelques demandes de conseils. J'ai comme projet de tester la rédaction d'un mini roman basé sur une histoire (personnelle), avec une trame complète déjà élaborée, des personnages déjà défini. L'idée est de testé la capacité de rédaction, de mémoire (fidélité du support de base) et de créativité sur base de mon support. J'essayerai ensuite d'animer ce roman soit par de courte vidéo, soit sous forme d'audio book. Je vais pour cela passer par l'IA pour la rédaction des différents chapitre et la production du reste.  Quelle serait d'après vous la méthodologie pour la rédaction? J'ai créé un GPT qui se spécialise dans la rédaction de roman, mais je ne peux pas utiliser la version avec Canva que je trouve excellent, car cela permet de modifier directement le contenu, la forme et la formulation. J'ai déjà testé Claude et perplexity mais ce qu'ils ont produit ne m'a pas convaincu. Aussi je me demande si je lui fourni des fiches détaillé de mes personnages, il gardera ces informations dans le traitement et la rédaction. Avez vous déjà pu expérimenter ce type de production?
+11/10/2024, 11:48 - Hoang: aussi si il y a des lecteurs qui souhaite lire ce que je produirai progressivement, ils peuvent me contacter directement 😊
+11/10/2024, 11:55 - +33 6 77 09 47 45: Bonjour, je suis à la recherche d'un ia, gratuite si possible, ou d'une appli, qui va me permettre de transformer un document en HTML (généré par ia) en un document word. Si vous avez des idées, je les prends, merci.

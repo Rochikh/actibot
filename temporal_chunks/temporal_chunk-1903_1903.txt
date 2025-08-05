@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 10
+
+=== CONTENU ===
+Les annexes fournissent des informations détaillées sur la typologie des centres de données, un premier calcul de l'empreinte carbone des projets de centres de données mondiaux, et une méthodologie pour réaliser et interpréter des estimations de la consommation électrique des centres de données. Ces éléments soulignent la complexité du sujet et la nécessité d'une approche rigoureuse et collaborative pour progresser dans l'analyse et la définition de solutions. <Ce message a été modifié>
+06/03/2025, 14:21 - +33 7 63 58 01 55: Le rapport final sera publié à l'automne prochain.
+06/03/2025, 16:00 - ‎+33 6 38 35 21 70 a demandé à rejoindre le groupe.
+06/03/2025, 16:50 - Votre code de sécurité avec +33 6 50 95 11 98 a changé. Appuyez pour en savoir plus.
+06/03/2025, 18:58 - Votre code de sécurité avec Benoit Groupe gPT a changé. Appuyez pour en savoir plus.
+06/03/2025, 20:22 - Laurent The Cure: Bonsoir, auriez vous des conseils de plugins à absolument installer dans moodle pour créer ma première plate-forme lms ? J'entends des plugins pour aider à la création, et d'autres pour améliorer l'ergonomie de la plate-forme pour le créateur/formateur et d'autres pour l'apprenant. Merci pour vos conseils. Actibot m'en a conseillé 3 qui ne me sont pas utiles (AI to question, AI to image et OPENAI chat block).
+J'ai installé H5P.
+06/03/2025, 20:29 - ‎+33 6 38 35 21 70 a rejoint le groupe à partir de la communauté.
+06/03/2025, 20:42 - +33 6 52 73 73 42: Tt va dépendre de ce que tu veux faire de ton LMS !
+06/03/2025, 20:53 - Laurent The Cure: Je débute (dans la création de parcours de formation puisque que je suis en cours d'acquisition du titre FPA et surtout dans moodle). J'ai créé un groupe de travail avec d'autres apprenants FPA. J'aimerai créer une formation *l'IA générative pour les formateurs* en distantiel synchrone (séances via discord) et asynchrone. Je vais intégrer des modules videos, des prestations genially, des simulations de création text to image, text to vidéo, video to text, création de quiz, gestion d'un groupe d'apprenants... Au passage vos idées suggestions de modules sont bienvenues. La formation est un prétexte, L'objectif est plus d'apprendre (pour moi) puis de leur montrer les possibilités de moodle et d'un LMS.

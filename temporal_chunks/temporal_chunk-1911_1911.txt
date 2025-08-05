@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 12
+
+=== CONTENU ===
+06/03/2025, 22:24 - Laurent The Cure: j'ai stoppé l'installation de H5P sur vos conseils
+06/03/2025, 22:24 - +33 6 42 26 64 70: J’avoue ne pas vraiment cerner votre objectif…vous souhaitez créer une formation, ok sur quoi exactement ? Pouvez vous préciser davantage ?
+06/03/2025, 22:25 - Laurent The Cure: À l'issue de la formation de 5 heures, les participants seront capables d'intégrer de manière pertinente et éthique les outils d'intelligence artificielle dans la conception de leurs programmes de formation, en utilisant au moins 3 outils différents de génération de contenu (texte, image, autre), tout en maintenant un regard critique sur les résultats produits. <Ce message a été modifié>
+06/03/2025, 22:26 - +33 6 42 26 64 70: Ok c’est plus clair…et vous voulez qu’un LMS soit le support de cette formation.
+06/03/2025, 22:27 - Laurent The Cure: je souhaitais faire d'une pierre deux coups étant donné que durant mon stage, je vais utiliser un LMS pour la 1ere fois. je voulais donc comprendre le fonctionnement d'un LMS, et faire mon retour d'expérience au groupe
+06/03/2025, 22:27 - +33 6 42 26 64 70: Pour l’objectif, c’est la fabrication du programme ou des contenus de la formationqui est visée ?
+06/03/2025, 22:28 - +33 6 42 26 64 70: Ou les deux ;)
+06/03/2025, 22:28 - +33 6 42 26 64 70: Vous disposez de combien de temps ?
+06/03/2025, 22:29 - Laurent The Cure: ile devront savoir utiliser de manière "primaire" les outils IAG, charge à eux de se perfectionner et ensuite l'utiliser dans leurs propres formations futures
+06/03/2025, 22:30 - Laurent The Cure: c'est un challenge que je me suis fixé, sans contrainte de temps si ce n'est  avant l'été
+06/03/2025, 22:30 - Gregoire IA: La question est de comprendre comment vous voulez que le parcours réagisse, quels sont les niveaux d'interaction attendus entre étudiants, entre eux et vous, entre eux et la machine (LMS).
+Il faut voir après comment vous voulez les évaluer,.formatif inclus. Et les impacts sur le parcours (interactions étudiants/ machine).

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 575
+Messages: 6
+
+=== CONTENU ===
+28/09/2024, 17:20 - Ahmadou Ba: J'aimerais bien savoir entre l'abonnement à GPT et l'utilisation de l'API qu'est ce qui plus rentable  ?  L'API peut elle offrir tous les avantages de l'abonnement. Si vous avez une documentation qui fait la comparaison suis preneur.
+28/09/2024, 17:24 - Rochane: tout dépend de ton usage et si ça reste pas trop intensif, prendre un portefeuille de 5 à 10 euros, tu verras si c'est plus rentable via le playground. Ce qui est bien, c'est que tu peux contrôler ta consommation quasi en temps réel et utiliser les différents modèles en fonction de tes besoins
+28/09/2024, 17:30 - Ahmadou Ba: Oui recement je me suis rendu compte que j'utilise rarement GPT, donc mon abonnement de vingt dollar c presque à perte, d'autant plus que le GPT que j'ai crées sont accessible sans abonnement. Les modèle Io preview je l'utilise rarement. Franchement je m'interroge vraiment, mais j'ai peur de ne pas avoir les competences necessaire d'utiliser l'API.
+28/09/2024, 17:32 - Rochane: L'API est un plus dans le cas où tu utilises une automatisation ou une utilisation de certaines applis sur Huggingface par exemple. Franchement, tu seras surpris du nombre d'interactions que tu peux avoir et tu pourrais même dépenser moins de 5 € par mois pour un usage régulier <Ce message a été modifié>
+28/09/2024, 17:49 - Francois Bocquet: Je continue à t’embêter ;-) mais c’est pour la bonne cause. L’accès ici n’est pas du tout anonyme. Il est pseudonymisé puisque l’enseignant attribue un cookie par eleve et que celui ci accède de chez lui avec l’adresse ip de la famille. Du point de vue du responsable de traitement il y a minimisation (pas d’identité en clair mais un cookie qui sert de pseudo) et le cookie est relié à un eleve donné sur la console de l’enseignant et reste donc identifiable. Le fait que le sous traitant qui édite le service et l’API ne puisse faire le lien entre la personne et le cookie n’est pas suffisant pour que le RGPD ne s’applique pas. Dans ce cas il faut donc un contrat de sous traitance avec l’éditeur, une inscription au registre de l’établissement et une notice d’information compréhensible et respectant l’article 13 et 14 du RGPD pour les élèves et leurs responsables légaux.
+28/09/2024, 18:24 - Rochane: Tu confirmes François l'output de ChatGpt ?

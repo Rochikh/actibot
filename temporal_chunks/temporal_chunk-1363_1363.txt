@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 14
+
+=== CONTENU ===
+30/11/2024, 17:51 - Nadia ER-RAJI: null
+30/11/2024, 17:56 - +33 6 71 11 12 91: Après NotebookLM (génération de text-to-podcast ultra rapide mais limité à 2 voix standards) et Playnote (avec davantage de formats et des options vocales variées dont le clonage de votre propre voix, par contre généré en 10 min.), c’est au tour d’ElevenLabs d’entrer dans la course des text-to-Podcasts.
+Le modèle d’Eleven Labs propose de transformer articles, PDF et ebooks en podcasts audio personnalisés via son application ElevenReader. Des voix IA réalistes animent le contenu. C’est disponible en 32 langues, excusez du peu.
+Source : https://iagenerative.substack.com/p/its-black-fraiday#media-25cd91e1-c977-4fe4-ad9e-edf4aaf1e9d5
+30/11/2024, 17:57 - Rochane: Excellent, j'attendais ça depuis longtemps
+30/11/2024, 18:03 - +33 6 19 89 32 62: Dans cette vidéo l’auteur présente un autre outil développé aussi en test par Google après Notebook qui est Illuminate (générer des conversations audio à partir de texte). https://youtu.be/ltJxOH2-New?si=zZ7cJx9QMLx6cDkR
+30/11/2024, 18:05 - +33 6 19 89 32 62: J’ai testé aussi Napkin qui est présenté dans cette vidéo pour faire des schémas à partir de texte. C’est pas mal pour un début. Encore en test.
+30/11/2024, 19:32 - ‎+32 486 80 77 37 est parti·e
+30/11/2024, 20:11 - Rochane: actibot.carrd.co a été mis a jour aujourd'hui 😀
+30/11/2024, 20:57 - +33 6 66 98 84 23: J'ai testé pour imager mes cours et faire des fiches bilan. Pas mal !
+30/11/2024, 20:57 - Vincent DROUOT: J’ai compilé avec l’aide Perplexity les recommandations techniques pour pouvoir faire tourner un LLM en local.
+30/11/2024, 20:57 - Vincent DROUOT: https://www.perplexity.ai/page/les-ordinateur-portable-adapte-2B.__mBpQ.2NkvOeV2JSQQ
+30/11/2024, 20:58 - Vincent DROUOT: Perso, j’utilise GPT4ALL sur mon Macbook Pro M1 Max avec 32 Go de RAM. Installation très facile, et un large choix de modèle LLM.
+Cela fonctionne bien, mais je trouve la performance et la qualité des réponses moins bonne qu’un ChatGPT 4o ou un Claude 3.5 Sonnet via leur chat en ligne. Mais au moins, mes discussions sont privées 😎

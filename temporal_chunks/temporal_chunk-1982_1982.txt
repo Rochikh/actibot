@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 10
+
+=== CONTENU ===
+20/03/2025, 11:22 - Vincent DROUOT: à nouveau, attention, nous parlons de 2 produits differents, Team GPT et ChatGPT Team, sont 2 entreprises différentes
+20/03/2025, 12:40 - Francois Bocquet: Oui J’ai bien compris. La possibilité d’un contrat a avec clauses de sous traitance existe bien chez OpenAI. Je n’ai pas vérifié chez TeamGPT. Pro Tips : si un éditeur vous propose une console pour administrer vos utilisateurs alors il a dû prévoir sa situation de sous traitant et il sera possible de rendre les traitements conformes. Si le compte est crée directement par l’utilisateur et qu’il n’y a pas de console d’administration de compte alors par design le service est conçu pour que l’éditeur soit responsable de traitement et il n’est pas possible de l’utiliser légalement (en dehors d’un usage personnel et non professionnel sauf si l’on est travailleur indépendant et que l’on se limite au traitement de ses propres données.
+20/03/2025, 12:55 - +44 7776 747507: Justement, est-ce que les consultants indépendants sont tenus par une quelconque obligation dans ce contexte?
+20/03/2025, 13:27 - Francois Bocquet: Oui ils ne doivent traiter que leurs données à caractère personnel seulement (données de compte, documents analysés et traces laissées) et ne traiter aucune données relatives à des tiers (pas de données relatives aux stagiaires par exemple). Si une activité d’apprentissage fait à appel à l’utilisation de services d’IA par les stagiaires alors ces services doivent avoir fait l’objet de contrats et avenants gérés par l’organisme de formation ou par l’entreprise qui fait appel au consultant.
+20/03/2025, 13:32 - +221 76 125 29 15: Bonjour chers collègues. Dans le cadre d'un projet de recherche, je voudrais créer un agent IA sur n8n.
+Je sollicite un accompagnement pour ce travail
+20/03/2025, 13:39 - +229 62 23 73 28: Bonjour @221761252915,
+J'espere que vous allez bien.
+N'hésitez pas si vous avez des préoccupations particulières pour mettre en place votre workflow sur n8n.
+20/03/2025, 14:32 - +33 7 86 61 52 66: <Médias omis>

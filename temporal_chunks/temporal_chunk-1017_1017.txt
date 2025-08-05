@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 23
+
+=== CONTENU ===
+GOOGLE: 	Your cholesterol is not good, sir.
+CALLER:  	How the hell do you know that?
+GOOGLE: 	Well, we cross-referenced your home phone number with your medical records. We have the result of your blood tests for the last 7 years.
+CALLER:  	Okay, but I do not want your rotten vegetarian pizza!  I already take medication for my cholesterol.
+GOOGLE: 	Excuse me sir, but you have not taken your medication regularly.  According to our database, you purchased only a box of 30 cholesterol tablets once at Lloyds Pharmacy, 4 months ago.
+CALLER:  	I bought more from another Pharmacy.
+GOOGLE: 	That doesn’t show on your credit card statement.
+CALLER: 	I paid in cash.
+GOOGLE: 	But you did not withdraw enough cash according to your bank statement.
+CALLER:  	I have other sources of cash.
+GOOGLE: 	That doesn’t show on your latest tax returns, unless you bought them using an undeclared income source, which is against the law!
+CALLER:   	WHAT THE HELL!
+GOOGLE: 	I'm sorry sir, we use such information only with the sole intention of helping you.
+CALLER:  	Enough already!  I'm sick to death of Google, Facebook, Twitter, WhatsApp and all the others.  I'm going to an island without the internet, TV, where there is no phone service and no one to watch me or spy on me.
+GOOGLE:  	I understand sir, but you need to renew your passport first. It expired 6 weeks ago...
+Welcome to the future
+30/09/2024, 20:48 - ‎+33 6 76 03 91 27 est parti·e
+30/09/2024, 20:55 - Jean-Marc Everard: Pour ceux qui ont + ou - mon âge et la ref : SOS bonheur !
+30/09/2024, 21:38 - ‎+225 07 01 18 23 a demandé à rejoindre le groupe.
+01/10/2024, 07:47 - +32 498 78 46 36: https://www.futura-sciences.com/planete/actualites/environnement-voici-ce-consomme-simple-requete-chatgpt-116342/
+Quelques chiffres sur l'énergie consommée par ChatGPT...
+Une requête qui génère 100 mots = 1 bouteille d'eau et 14 ampoules Led allumées pendant une heure <Ce message a été modifié>
+01/10/2024, 07:55 - ‎+225 07 01 18 23 a rejoint ce groupe grâce à son lien d’invitation

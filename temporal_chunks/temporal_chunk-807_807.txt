@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 13
+
+=== CONTENU ===
+Concernant Research Rabbit, il fournit les réseaux d’auteurs ce qui permet d’explorer d’autres auteurs par ricochet nous amène à des articles que l’IA ne fournit pas spontanément…ça élargit notre horizon rapidement . Il y a ensuite un gros travail personnel de tri, de contrôle, de lectures afin de retourner vers l’IA pour lui poser des recherches plus ciblées. L’IA n’est qu’un assistant à ce stade.
+Bonne recherche.
+06/08/2024, 23:07 - Samba BA: Tout à fait raison
+07/08/2024, 03:35 - Votre code de sécurité avec +216 23 847 949 a changé. Appuyez pour en savoir plus.
+07/08/2024, 00:45 - Hoang: Bonsoir à tous, dans ma recherche de perfectionner mes prompts, je suis tombé sur ce site : https://neuralwriter.com/fr/ est ce que vous connaissez? il s'agit d'un site qui permet de reformuler nos prompts, mais pas que, il y a différentes options en plus sur le site. Je suis actuellement en train de le tester et cela m'aide pas mal à formuler des prompts plus détaillés.
+07/08/2024, 08:11 - ‎+33 6 17 84 40 74 a demandé à rejoindre le groupe.
+07/08/2024, 08:46 - Votre code de sécurité avec +33 6 79 56 97 82 a changé. Appuyez pour en savoir plus.
+07/08/2024, 10:52 - +852 5530 1861: Bonjour, Oui, il y a de plus en plus de plugins qui permettent de faire ça ou en tout cas d’avoir un peu d’IA dans Obsidian. Le meilleur est probablement Copilot. https://github.com/logancyang/obsidian-copilot
+07/08/2024, 10:54 - +852 5530 1861: A noter que Msty permet d’importer tout son “vault” est de l’utiliser comme “knowledge stack” (désolé. Ça fait très Van Dam, mais je ne sais pas comment traduire en français). https://msty.app/
+07/08/2024, 10:55 - +852 5530 1861: J’en profite pour saluer tout le monde et remercier les créateurs de ce groupe !
+07/08/2024, 10:57 - +237 6 90 60 45 17: Bonjour
+07/08/2024, 11:08 - ‎+33 6 17 84 40 74 a rejoint ce groupe grâce à son lien d’invitation
+07/08/2024, 11:10 - Rochane: Merci de nous avoir rejoint et je suis sûr que tu vas nous apporter pas mal de bonnes pratiques avec ton expérience dans l'innovation pédagogique 🙂

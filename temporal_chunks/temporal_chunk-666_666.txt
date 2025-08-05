@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 17
+
+=== CONTENU ===
+22/06/2024, 16:54 - Yann-Ael: Merci pour le feedback. C’est une fonctionnalité que je souhaiterais développer, je vous tiendrai informé si j’y parviens.
+22/06/2024, 18:31 - +33 6 14 16 68 64: Est-ce que ça s'appuye sur le soustitre ou tu analyse vraiment la vidéo ?
+22/06/2024, 18:59 - +33 6 52 49 10 78: Lien de l'enquête en question ?
+22/06/2024, 20:58 - +33 7 63 58 01 55: Elle est épinglée en haut de la conversation ☝🏻
+22/06/2024, 21:06 - Vous avez ajouté Ferey, Ludovic IA et +32 473 56 48 57
+23/06/2024, 10:10 - ‎+33 6 28 05 56 84 a demandé à rejoindre le groupe.
+23/06/2024, 10:24 - ‎+33 6 28 05 56 84 a rejoint le groupe à partir de la communauté.
+23/06/2024, 12:54 - ‎+33 6 02 07 62 09 est parti·e
+23/06/2024, 13:27 - +33 6 52 61 52 03: Bonjour à tous,
+Je suis actuellement en Master 2 Développement RH et Formation Digitale. Mon mémoire de fin d’études porte sur l’utilisation de l’Intelligence Artificielle dans la formation professionnelle (plus précisément dans la conception de "e-learning" mais également pour ce que cela peut apporter à l’expérience des apprenants).
+Auriez-vous des recommandations de littérature à ce sujet ?
+Je vous remercie et vous souhaite un bon dimanche
+23/06/2024, 13:33 - Guillaume Singeot: retrouvez les replays ici : https://tubedu.org/c/iapedagogie/videos (y compris celui du 20 juin)
+23/06/2024, 14:02 - +34 625 50 86 26: Bonjour ! Tu connais déjà peut être mais "Je maîtrise : l'IA pour la formation " de Lucie Dhorne. Ses interventions dans les webinaires ou podcasts sont toujours très intéressantes aussi!
+23/06/2024, 14:47 - +33 6 52 61 52 03: Effectivement je connais, raison de plus pour m’y intéresser !! Merci :)
+23/06/2024, 15:04 - Guillaume Singeot: https://www.librairiepradoparadis.fr/product/1905817/cristol-denis-apprendre-a-l-ere-de-l-intelligence-artificielle-revolution-defis-opportunites
+23/06/2024, 15:05 - Guillaume Singeot: Bonjour tout le monde ! et plus particulièrement aux utilisateurs de H5P. Auriez vous essayé ToTeach? Avez vous réussi à créer des "worksheets"? Si oui, comment ?

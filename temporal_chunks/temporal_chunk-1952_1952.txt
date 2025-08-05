@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 7
+
+=== CONTENU ===
+12/03/2025, 11:23 - Daniel Pappalardo: Oui je faisais référence à cette note. Et je partage les mêmes doutes que toi ! D'ailleurs des collectivités ont fait le choix de laisser office pour open office tandis que d'autres ont fourni les licences... Disponible sur certains ENT... Pas simple tout ça...
+12/03/2025, 11:27 - +33 6 71 11 12 91: Pour les suites, il y a quand même des outils, certes un peu moins fignolés mais très utilisables quand même, avec la suite de Framasoft (https://degooglisons-internet.org/fr/)
+12/03/2025, 11:30 - Francois Bocquet: En fait c’est assez simple : l’offre de services bureautique ou IA n’est pas au niveau sur le plan fonctionnel. Les décideurs souhaitent offrir des services de qualité. Ceux qui développent des services au Ministère n’ont pas d’autres solutions pour les faire utiliser que d’interdire l’utilisation des services concurrents en prétextant de l’application du RGPD et d’une doctrine « souveraine ». Mais ils ne peuvent appliquer cette même doctrine sur les autres services puisque que le mini ne produit pour le mien ni Système d’exploitation ni services d’IA ;-)
+12/03/2025, 11:36 - Francois Bocquet: 1 les outils de Framasoft ne sont pas utilisables en contexte scolaire car non conforme au RGPD (mentions légales inadaptées et pas de contrat de sous traitance possible et pas de console de gestion des utilisateurs)
+2 il faut avoir utilisé, ou mieux administré, une suite bureautique intégrée pour comprendre que ce n’est pas qu’une simple question de fignolage mais bien une question d’efficience globale et de qualité de service. Les suites en questions inter opèrent avec les systèmes d’exploitation et les consoles de MDM/MAM et disposent de consoles de gestion avancées tant pour les administrateurs que pour les enseignants. Ça n’existe dans aucune de « solutions » présentées comme alternatives depuis des années.
+12/03/2025, 13:09 - +33 6 77 62 11 76: Bonjour, j’ai vu que Gemma 3 est sorti aujourd’hui.
+https://blog.google/technology/developers/gemma-3/

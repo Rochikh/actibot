@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 11
+
+=== CONTENU ===
+08/11/2024, 09:05 - Jean-Marc Everard: Bonjour, je trouve que l'article est globallement intéressant. La vidéo sur l'horreur existancielle de l'usine à trombonne est très bien aussi. Ce qui me frappe à ce stade, est que l'IA adopte des choix que l'on trouve constestables (même si les mêmes choix sont faits par des millions d'humains tous les jours) parce qu'on lui demande de performer, d'optimiser etc... Est-ce que ça n'interroge pas davantage sur les questions à poser à l'IA ou les demandes "raisonnables" à lui faire tout autant que sur les stratégies qu'elle adopte ? La vrai compétence du futur sera la capacité à problématiser correctement et à poser les bonnes questions. Dans 2001 l'Odyssée de l'espace, "HAL" dérape parce ce qu'il est soumi à une injonction paradoxale.
+08/11/2024, 09:40 - +33 6 64 48 37 32: J’imagine que La dimension RAG
+Permet ou permettra une amélioration considérable des hallucinations ou des mensonges.
+Chatbot + LMMs et/ou Navigateur + Documentation/preuve
+08/11/2024, 09:41 - Votre code de sécurité avec ~ Christ-L a changé. Appuyez pour en savoir plus.
+08/11/2024, 10:05 - Votre code de sécurité avec ~ Christ-L a changé. Appuyez pour en savoir plus.
+08/11/2024, 10:06 - +33 6 46 86 16 67: Merci Jean Marc pour cette approche qui me convient bien et m’apporte des pistes de réflexions. Jean si tu as un peu de temps je veux bien un peu d’explications :)
+08/11/2024, 12:58 - ‎Clotilde IA a demandé à ajouter +32 486 10 26 68.
+08/11/2024, 12:59 - ‎Clotilde IA a demandé à ajouter +32 499 51 04 68.
+08/11/2024, 14:47 - Gregoire IA: Les RAG est la méthode que je pousse depuis 8 mois, c'est presque une compétence fondamentale pour tout enseignant (en fait, pour tout le monde) selon moi. Je ne peux m'empêcher de vous partager ma vidéo publiée quasi au début du projet de ma chaîne : https://youtu.be/-Yszvuz_ivg
+08/11/2024, 14:49 - Gregoire IA: @33646861667 Je reviens régulièrement sur le RAG mais aussi d'autres modèles et approches car on peut limiter les hallucinations...surtout.quand on parle de certains sujets pour lesquels même le précieux GPT peut dire n'importe quoi 😂😅

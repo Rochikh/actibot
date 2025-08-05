@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 599
+Messages: 14
+
+=== CONTENU ===
+26/11/2024, 14:00 - ‎Badi Badkoubé a demandé à rejoindre le groupe.
+26/11/2024, 14:14 - +33 6 59 13 42 11: Bonjour,
+Je vous remercie pour toute cette mine d informations. Pourriez vous, s il vous plaît, m indiquer si Mistral est une bonne alternative à chatgpt. Je recherche une IA comme chatgpt mais qui soit européenne en raison des questions RGPD.
+26/11/2024, 14:17 - Francois Bocquet: Rappel : le fait que ce soit européen ne garantit pas du tout la conformité RGPD. Depuis le 10 juillet 2023 l’utilisation de services basés aux USA est à nouveau possible sans autre formalité (clauses de contrat type nécessaire jusqu’au 10 juillet 2023). En revanche d’autres critères sont nécessaires suivant la nature de l’utilisation (a titre personnel ou à titre professionnel).
+26/11/2024, 14:23 - +33 6 59 13 42 11: Merci beaucoup pour ce retour.  Auriez vous un lien qui puisse me permettre d être au fait de ces critères.  Merci d avance.
+26/11/2024, 14:25 - ‎Badi Badkoubé a rejoint ce groupe grâce à son lien d’invitation
+26/11/2024, 14:38 - ‎+33 6 11 33 72 43 a demandé à rejoindre le groupe.
+26/11/2024, 14:41 - martinyemani IA: Il existe un groupe dédié  à la co-création des chatbot dans cette communauté
+26/11/2024, 14:45 - +33 6 77 78 84 93: Bonjour et merci. Je viens de la rejoindre mais au vu du descriptif je pense que je ne serai pas au niveau sur le plan informatique...
+26/11/2024, 15:11 - ‎+33 6 11 33 72 43 a rejoint ce groupe grâce à son lien d’invitation
+26/11/2024, 15:13 - Francois Bocquet: Selon quel statut de contrat ? Usage personnel (hors professionnel) ou usage professionnel (en précisant si travailleur indépendant ou salarié d’une instituion et si possible la nature de l’institution.
+26/11/2024, 15:14 - +33 6 59 13 42 11: Usage professionnel en tant que salarié d une institution. Pardon
+26/11/2024, 15:14 - +33 6 59 13 42 11: Transport public
+26/11/2024, 15:29 - Francois Bocquet: Dans ce cas tu ne peux utiliser légalement que des services auxquels ton employeur a souscrit pour ses salariés. La conformité est avérée si le traitement mis en œuvre est bien inscrit au registre tenu par l’employeur et que les salariés doivent consulter. Poser la question au DPO désigné par l’employeur pour savoir si le traitement est inscrit. Pour ce faire l’employeur doit avoir signé un contrat de sous traitance avec l’éditeur du service (DPA pour data processing amendment).

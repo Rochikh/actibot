@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 12
+
+=== CONTENU ===
+03/01/2024, 16:58 - +33 6 75 41 23 05: Bonjour
+Essayez de séparer chaque lettre par un espace. Parfois ça améliore le texte sur image.
+03/01/2024, 16:59 - Laurent The Cure: je tente merci
+03/01/2024, 17:00 - Laurent The Cure: <Médias omis>
+03/01/2024, 18:30 - Thierry VANOFFE: peut etre qu'en 2024 ça changera le texte correctement écrit... En tout cas c'est super courant les fautes d'ortho et les lettres manquantes...
+03/01/2024, 18:38 - Rochane: Si vous voulez avoir une idée concrète de l'ia dans la géopolitique et comprendre tous les enjeux, je vous conseille cette vidéo de 52 minutes qui donne des sources fiables https://youtu.be/lXlbOE0cLPI?feature=shared
+03/01/2024, 18:44 - +32 498 78 46 36: Pour le soucis du texte dans l'image. C'est un problème structurel des LLM actuels. Réponse de l'article officiel d'OpenAI :
+Vous pourriez être tenté de demander à DALL·E de générer du texte à votre image, en lui donnant des instructions telles que "un ciel bleu avec des nuages ​​blancs et le mot bonjour en skywriting".
+Cependant, ce n’est pas un moyen fiable ou efficace de créer du texte. DALL·E n'est actuellement pas conçu pour produire du texte, mais pour générer des images réalistes et artistiques basées sur vos mots-clés ou expressions. À l’heure actuelle, il n’a pas de compréhension spécifique de l’écriture, des étiquettes ou de tout autre texte courant et produit souvent des résultats déformés ou inintelligibles.
+https://help.openai.com/en/articles/6781228-how-can-i-generate-text-in-my-image
+03/01/2024, 18:45 - +32 498 78 46 36: Il en va de même pour l'OCR. J'ai déjà essayé plusieurs fois de lui faire utiliser l'OCR sur un PDF ou une image où il y avait du texte et cela est décevant pour ne pas dire catastrophique :)
+03/01/2024, 18:47 - Laurent The Cure: Merci pour la réponse. ce qui est étrange c'est qu'il comprend tout de même une partie des instructions "texte". Dans les 2 exemples postés, une fois il oublie le 2eme L de Allez , dans le second il ajoute un L à "L'OM".

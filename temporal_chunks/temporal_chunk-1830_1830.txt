@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 20
+
+=== CONTENU ===
+Rejoignez-nous pour échanger autour des meilleurs outils d’apprentissage lors du TOP100 Tools, le 22 mai 2025.
+Cet événement, organisé par le SPF Stratégie et Appui BOSA en collaboration avec Groupe Epsilon asbl et Bedrijfsopleidingen.be - Stimulearning, rassemble depuis 11 ans les responsables de formation et formateurs des secteurs public et privé.
+Si vous souhaitez enrichir le panel des intervenants, n’hésitez pas à me contacter en MP !
+👉 Vous trouverez plus d’informations sur le TOP100 Tools sur le site de Stimulearning by Bedrijfsopleidingen.be
+26/02/2025, 17:55 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+26/02/2025, 19:53 - 🗓 ‎Prochain live (ce jeudi à 20h -Paris-) mis à jour
+26/02/2025, 19:54 - Vous avez épinglé un message
+26/02/2025, 19:55 - Rochane: <Médias omis>
+26/02/2025, 20:00 - +33 6 66 98 84 23: Bonsoir, aurais tu le lien de ce webinaire ?
+26/02/2025, 20:22 - +33 6 15 10 29 55: Bonsoir, Je suis intéressée également !
+26/02/2025, 20:35 - +33 6 72 75 43 48: Bonsoir désolée j’ai perdu le lien vers le bot pour les outils ? Je recherche un outil qui fait des rébus ? Ça existe ? Merci
+26/02/2025, 21:04 - +41 76 372 28 94: Le lien est en description du groupe. Le re-voici : https://actibot.replit.app/
+26/02/2025, 21:17 - +33 6 71 11 12 91: - http://rebus-o-matic.com/
+- https://dorebu.fr/?trk=public_post-text
+Mais je viens de tester, le résultat est assez nul...
+26/02/2025, 21:28 - Rochane: Tout est dans l'invitation qui est épinglée en haut de page
+26/02/2025, 21:38 - ‎+33 6 15 10 29 55 a demandé à ajouter +33 6 75 24 49 00.
+26/02/2025, 21:46 - +33 6 72 75 43 48: Merci JM je connaissais rébus o matic en effet mais bof … je vais regarder les 2 autres 🙏
+26/02/2025, 22:21 - Votre code de sécurité avec ~ Les RochDur a changé. Appuyez pour en savoir plus.
+26/02/2025, 22:22 - +34 683 61 41 61: Bonsoir, connaissez-vous un moyen pour créer un chatbot partageable qui fonctionnerait comme NotebookLM uniquement sur une base documentaire fournie et sans enregistrement des historiques ?

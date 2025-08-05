@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 13
+
+=== CONTENU ===
+31/07/2024, 08:28 - Vincent DROUOT: https://www.perplexity.ai/page/how-perplexity-indexes-website-F3cXNGZvQcatnq.Go.Y2AA
+31/07/2024, 08:31 - Vincent DROUOT: News : Canva rachète Leonardo.AI
+31/07/2024, 08:45 - +33 6 19 29 82 01: Si on obtient Leonardo dans Canva ça va être génial.
+31/07/2024, 08:59 - +32 479 58 54 12: Mais je ne comprends toujours pas où ils stockent tout ça ? Quand on voit les serveurs gigantesques dont a besoin Google 🤔
+31/07/2024, 09:11 - Jacques BARATTI: Petit Quiz sur l'IA en 10 questions (merci Mickael !) https://view.genially.com/668fe04fc021520c065cbe46
+31/07/2024, 09:27 - Mickaël: Merci @33649535198 surtout. Cette ressource avait été partagée sur cette liste si mes souvenirs sont exacts.
+31/07/2024, 09:33 - Pierrick BRIAND: J'ai effectué des recherches sur cette information. Leonardo AI, qui compte déjà plus de 19 millions d'utilisateurs, restera accessible via sa propre plateforme web pour la création d'images et de vidéos. Les 120 employés de Leonardo AI rejoignent les équipes de Canva, très apprécié pour la simplicité d'utilisation de ses outils, accessibles même aux non-experts. La technologie de Leonardo AI sera intégrée à la suite Magic Studio de Canva, ce qui pourrait potentiellement surpasser les capacités actuelles d'Adobe et de Gamma en matière de création de présentations assistée par IA.
+31/07/2024, 09:35 - +33 6 19 29 82 01: C'est clair que c'est un bon investissement pour Canva vu la qualité de Leonardo
+31/07/2024, 09:35 - Clément Cahagne: « ce qui pourrait potentiellement surpasser les capacités actuelles d'Adobe et de Gamma en matière de création de présentations assistée par IA. »
+Mouais… L’emphase sur l’utilisation du POURRAIT POTENTIELLEMENT est importante ici à mon sens.
+31/07/2024, 10:41 - +33 6 02 20 69 43: Je ne sais si c’est vraiment génial… à l’époque il y avait blueWillow, racheté et devenu payant par la suite…
+31/07/2024, 10:42 - +33 6 19 29 82 01: J'espère que le studio magique ne sera plus cher en effet.
+31/07/2024, 10:44 - Hoang: Si vous ne le faites pas par bonté, mettez les formes par pragmatisme. Source : Slate.fr https://search.app/DDdb5DPo2zdt7eBPA

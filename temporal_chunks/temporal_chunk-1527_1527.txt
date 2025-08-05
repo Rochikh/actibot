@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 8
+
+=== CONTENU ===
+06/01/2025, 20:23 - Jean-Marc Everard: Personnellement j’ai tout de même eu une expérience récente qui m’a troublée avec NotebookLM. C’était certes dans une note qui comportait beaucoup de sources, dont une qui servait d’instructions détaillées auxquelles les prompts se réfèrent. Il s’agit pour moi de créer une sorte de conseiller d’orientation professionnelle à partir de là (plus exactement un assistant qui peut déblayer le terrain pour un accompagnateur de carrière). J’en fais souvent la démonstration en utilisant un prompt calibré. Mais les 2 dernières fois, j’ai obtenu une réponse assez bien comme souvent, mais qui comportait des hallucinations. Par exemple NotebookLM inventait un SPF qui n’existait pas (une Ministère ^^), probablement sur base du fait que beaucoup de SPF étaient cités dans la base de connaissance… J’avoue que ça m’a un peu perturbé… Est-ce que quelqu’un d’autre a déjà remarqué des résultats équivalents ?
+06/01/2025, 20:26 - Rochane: Et tu as essayé de chercher la source de cette "hallucination" pour voir d'où il l'a sortie ?
+06/01/2025, 20:31 - +33 7 66 46 62 19: Bonsoir
+Je viens de jeter un oeil sur certains de vos travaux. Félicitations pour votre travail et engagement.
+Je suis sur vos pas...un peu loin derrière 😊...en reprise  d'etudes en master 2 meef ingénierie pédagogique numérique et en alternance comme ingénieure pédagogique.
+Je prépare le sujet de mémoire suivant "En quoi l'intelligence artificielle générative impact l'enseignement supérieur". Dans les jours à venir, j'aimerais déposer ici un sondage sur le sujet, voire d'échanger avec vous ou d'autres sur ce thème.
+06/01/2025, 20:32 - Rochane: Messagerie privée svp
+06/01/2025, 20:34 - Jean-Marc Everard: Il (Iel ? J’essaie de non genrer le IA pour garder leur caractère non humain) ne l’indiquait pas a priori mais je vais retourner voir. je pense qu’iel l’a « déduit » du fait que beaucoup de noms de SPF se référait à des compétences. Il m’a inventé un SPF Culture… Cocasse quand on vient d’entendre le commentaire de Georges-Louis Bouchez (désolé pour la private joke qui s’adresse aux Belges, pour les autres :  c’est un des négociateurs pour former un nouveau gouvernement qui suggérait qu’il faudrait supprimer le ministre de la culture…)

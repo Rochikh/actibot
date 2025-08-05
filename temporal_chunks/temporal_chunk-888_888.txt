@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 18
+
+=== CONTENU ===
+08/09/2024, 10:03 - Adrien Bock IA: J’ai pensé à faire des modules sur les
+« handicaps invisibles » ou « troubles dys ».
+J’ai mis ça dans un post mais je cherche des organismes soécialisés dessus qui seraient intéressés de présenter ça concrètement.
+Voici mon post à ce sujet : https://www.linkedin.com/posts/adrien-bock-5480ab281_dys-activity-7213443758653083649-zJBk?utm_source=share&utm_medium=member_ios <Ce message a été modifié>
+08/09/2024, 10:05 - Pierrick BRIAND: Merci Adrien pour ta première contribution ! Un petit indice : il existe un site gouvernemental qui propose des solutions pouvant nous éclairer sur ce sujet. Je te laisse le découvrir !
+08/09/2024, 10:07 - Adrien Bock IA: En Belgique?
+08/09/2024, 10:08 - Pierrick BRIAND: Non, il s’agit d’un site gouvernemental français
+08/09/2024, 10:12 - Pierrick BRIAND: Pour ceux qui souhaitent participer au défi et qui manque un peu d’inspiration, je vous ai adressé une liste des thèmes clés à explorer pour une IA inclusive dans l'éducation sur lesquels vous pourriez effectuer des recherches et trouver des solutions :
+La personnalisation de l'apprentissage (apprentissage adaptatif, tutorat intelligent)
+L’accessibilité (liste des outils d'assistance, traduction/sous-titrage)
+L’dentification précoce des difficultés (l’analyse de données, le suivi de la progression, etc)
+La lutte contre les biais et les discriminations (l’équité, la formation des formateurs, etc)
+La collaboration et inclusion sociale (les outils d’IA collaboratifs, les environnements virtuels inclusifs) <Ce message a été modifié>
+08/09/2024, 10:15 - Pierrick BRIAND: Adrien, je ne te laisse pas attendre plus longtemps, voici le site gouvernemental français : https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/
+08/09/2024, 10:22 - +237 6 56 90 71 30: Excellent sujet👍🏾👍🏾👍🏾
+08/09/2024, 10:29 - +33 6 88 57 53 04: Bonjour
+Super initiative, merci !
+Avez vous prévu de compiler les contributions de façon à pouvoir les retrouver facilement à posteriori ?

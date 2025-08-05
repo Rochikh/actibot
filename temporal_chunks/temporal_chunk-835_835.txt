@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+21/08/2024, 21:26 - ‎+33 6 20 49 74 79 a demandé à rejoindre le groupe.
+22/08/2024, 09:11 - ‎+33 6 20 49 74 79 a rejoint ce groupe grâce à son lien d’invitation
+22/08/2024, 09:11 - Rochane: ElevenLabs s'associe à Bridging Voice et la Fondation Scott-Morgan pour offrir gratuitement sa technologie de clonage vocal aux patients atteints de SLA/MND. Cette initiative vise à préserver leur identité vocale, améliorant ainsi leur qualité de vie et leur communication.
+https://bridgingvoice.org/news/elevenlabs-bridging-voice-partnership/?utm_source=perplexity
+22/08/2024, 09:54 - Votre code de sécurité avec Guillaume CLEMENT a changé. Appuyez pour en savoir plus.
+22/08/2024, 11:40 - Pierrick BRIAND: <Médias omis>
+22/08/2024, 14:00 - Jean-Marc Everard: Chouette, et apparemment ils appliquent aussi les 3 bvidéos gratuites à ceux qui avaient un plan mais qui l'on abandonné 😉.
+22/08/2024, 14:25 - +33 6 02 20 69 43: On peut faire le parallèle avec tetris non? Si une brique est mal posée alors le résultat final sera moindre…
+22/08/2024, 14:40 - +32 479 94 80 38: bonjour, avec toute la réserve qu'il s'agit d'appliquer avec des données de recherches, quelle IA conseillez-vous pour analyser les résultats d'une collecte de données de type quali ? merci!
+22/08/2024, 14:56 - Pierrick BRIAND: Ce n’est pas faux !
+22/08/2024, 16:06 - Ahmadou Ba: Je viens de créer un GPT pour m'aider dans cette tâche, je lui ai tout simplement comment lire et interpreter les données. Par exemple une vakeur test sup à 1.96 signifie que la forme est significative ainsi de suite. Il faut bien mettre des gardes dire ce qu'il faut et ce qu'il ne faut pas faire. Apres tu récupéres son interprétation et tu affines. <Ce message a été modifié>
+22/08/2024, 16:08 - Ahmadou Ba: Je crois c'est la méthode la plus sûre, tu contrôles le process du début à la fin. J'ai même empeché openai d'utiliser les données pour entraîner ses modèles <Ce message a été modifié>
+22/08/2024, 16:09 - ‎+33 7 81 23 89 05 est parti·e
+22/08/2024, 16:12 - Rochane: Tu peux partager le lien de ce gpt ?

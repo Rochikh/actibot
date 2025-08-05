@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 12
+
+=== CONTENU ===
+18/06/2024, 17:27 - Rochane: Microsoft propose un add-in gratuit "Translator for PowerPoint" qui permet de traduire facilement vos diapositives dans de nombreuses langues, dont le français. Il suffit d'installer l'add-in depuis le store Office, puis vous pourrez traduire tout le texte en un clic. La qualité de traduction est plutôt bonne.
+18/06/2024, 17:38 - +33 6 72 75 43 48: Ok super pas trop compliqué d’installer l’add in ??
+18/06/2024, 17:39 - Rochane: Je ne sais pas
+18/06/2024, 17:41 - Rochane: https://youtu.be/6Pmtl5j5C3A?feature=shared
+18/06/2024, 17:43 - +34 618 97 47 94: - Dans Canva pro/edu tu as l’option. Il faut y télécharger ton document et dans le menu il te l’offre
+- DeepL aussi et te permet de garder le même format mais ça doit pas être un document trop lourd
+18/06/2024, 17:44 - +49 179 7891950: Ce message a été supprimé.
+18/06/2024, 17:51 - +33 6 72 75 43 48: Ok pas d’abonnement canva pro ja vais tester deepL merci
+18/06/2024, 18:05 - +41 79 326 51 40: On peut obtenir un compte pro enseignant en prouvant qu'on est enseignant. Ici : https://www.canva.com/fr_fr/education/?msockid=21d2b348fc546ad61103a7d4fd5f6bea
+18/06/2024, 18:25 - ‎+33 6 85 85 11 33 est parti·e
+18/06/2024, 20:03 - Rochane: J'ai automatisé une aide au service de nos formateurs. Il suffit juste qu'ils envoient un email à bftice@bftice.be en expliquant leur problème en lien avec la techopedagogie et ils auront une réponse. Si ça ne marche pas, ils peuvent demander un guichet numérique et on se voit en one to one. Vous pouvez tester et j'en ferai une démo en expliquant la démarche lors du live de jeudi 🙂
+18/06/2024, 20:58 - Pierrick BRIAND: Bonjour @33614272586 ⁩, ton sujet me préoccupe depuis que tu l'as posté. Du coup, j'ai fait un peu de recherches et il semblerait que ce ne soit pas aussi simple que cela n'y paraît. Je suis parti du principe d'intégrer Pongo sur des outils comme ChatGPT ou Perplexity, tous deux dotés d'interfaces conversationnelles, et pour le second, d'un outil de recherche élaboré (peut-être que j’ai fait mauvaise route, si tu peux me le dire…)

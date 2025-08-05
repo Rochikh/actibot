@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 15
+
+=== CONTENU ===
+08/02/2024, 17:02 - Rochane: Avec très peu de modifications, j'ai obtenu ça https://chat.openai.com/share/596d41ce-67cb-4079-a0d1-5a43d623c102
+08/02/2024, 17:44 - ‎+33 6 58 61 98 09 est parti·e
+08/02/2024, 22:15 - Thierry VANOFFE: Attention Bard et Duet AI deviennent GEMINI depuis aujourd'hui et c'est vraiment (enfin !) du lourd ce que Google vient de sortir. A suivre dans les prochains jours.
+08/02/2024, 22:17 - Guillaume CLEMENT: je suis dessus à l'instant @33681508047
+08/02/2024, 22:18 - Guillaume CLEMENT: c'est assez ouf j'avoue
+08/02/2024, 22:18 - Rochane: Ludo salenne a sorti aujourd'hui une vidéo sur Gemini ultra et c'est vraiment pas top
+08/02/2024, 22:21 - Jacques BARATTI: Vu la vidéo de Ludo, il est réservé sur Gemini Advanced (la version payante)
+08/02/2024, 22:33 - Guillaume CLEMENT: l'envoi direct avec Gdocs/Gmail est très appréciable tu trouve pas ?
+08/02/2024, 22:46 - +33 7 86 01 11 31: Merci pour ces informations
+09/02/2024, 08:00 - Céline Averseng: Il y a mistral aussi
+09/02/2024, 08:24 - Jean-Marc Everard: Merci déjà pour ces infos sur Gemini, je vais tester aujourd’hui. C’est vrai que jusque là j’étais moyennement convaincu mais s’il y a du changement c’est p-e bien. Il ne faut pas oublier que petit à petit on va être victime de biais cognitifs comme ceux de familiarité et de confirmation qui vont nous faire préférer ce qu’on maîtrise déjà…
+09/02/2024, 08:26 - Guillaume CLEMENT: C'est un risque @32496968742
+09/02/2024, 08:44 - Ahmadou Ba: Je suis d'avis, je l'ai tester hier, il est bon et en plus il permet d'insérer des images et des fichiers dans le prompt. Mais également constater que les liens des sites fournis ne sont pas toujours bons.
+09/02/2024, 09:04 - Thierry VANOFFE: normal il a testé en français et le service arrive en France dans moins d'un mois, faut utiliser la version anglaise pour voir le vrai potentiel, en tout cas c'est au niveau de chat GPT 4 pour info à ce jour...
+09/02/2024, 10:25 - ‎+33 6 45 48 92 22 a rejoint le groupe à partir de la communauté.

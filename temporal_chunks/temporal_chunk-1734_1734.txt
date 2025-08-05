@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 6
+
+=== CONTENU ===
+08/02/2025, 09:01 - Jean-Marc Everard: Bonjour, pour les avatars UA je conseille HeyGen, mais gratuit très limité…
+08/02/2025, 10:17 - estelle Duterage Drion IA: Pour créer sa dictée et des points orthographiques précis https://educajou.forge.apps.education.fr/dictia/
+08/02/2025, 10:41 - Votre code de sécurité avec ~ SAFA CHEBIL a changé. Appuyez pour en savoir plus.
+08/02/2025, 10:42 - Francois Bocquet: Bonjour Grégoire. Je ne comprends pas la phrase « si aucune donnée ne sort de l’école il n’y a pas de problème ». Le RGPD s’applique systématiquement dès lors que des données à caractère personnel (DCP) sont traitées. Si nécessaire relire la définition des DCP et de ce qu’est un traitement dans l’article 4 du RGPD. Ensuite que le traitement soit local, avec du logiciel libre ou même sur du papier n’a pas d’importance avec le fait que le RGPD s’applique. C’est toujours le traitement vu du print de vue du responsable de traitement qui doit être pris en compte et pas le logiciel utilisé (un traitement peut nécessiter plusieurs logiciels et un même logiciel peut permettre des traitements conformes ou pas). En revanche le fait qu’il n’y ai pas de sous traitants si le traitement reste local facilite la mise en conformité puisque cela allège considérablement le volet contractuel et l’audit de sécurité sur le code, sur les conditions d’hébergement et de sous traitance secondaire. Pour résumer : tout traitement de DCP implique le respect du RGPD même si le traitement est local et même si le traitement est sous traité a un prestataire dit « éthique » (je pense par exemple aux traitements mis en œuvre sur la Digitale ou les Framatrucs qui sont non conformes au RGPD en usage scolaire même s’ils s’annoncent « éthiques »).
+08/02/2025, 10:48 - Daniel Pappalardo: Vidnoz moins bien qu'Heygen mais la version gratuite est bien (3mn par jour de vidéo et accès à pas mal d'avatars et de voix) Pour les cartes mentales Mapify.
+08/02/2025, 11:23 - Rochane: Merci à François pour le partage de ce témoignage de Jacques Attali d'une minute

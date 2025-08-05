@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 13
+
+=== CONTENU ===
+26/06/2025, 15:53 - +33 6 89 54 90 68: il y a pas mal de solutions déjà existantes
+26/06/2025, 15:54 - +33 7 80 42 87 32: Il s'agirait de cas pratiques en toxicologie par exemple, le chatbot prendrait le rôle d'un internet et donnerait le context à l'étudiant qui pourrait alors demander des précisions (antécédents, symptômes) et demander de faire des analyses etc
+26/06/2025, 15:54 - Rochane: C'est vrai qu'il y a une distinction entre agent et assistant comme le dit @15144328040 . Pour les licences gratuites ou edu, on peut créer des agents mais sans base de connaissances j'ai l'impression ( enfin uniquement des URL) et pour les agents IA, c'est mieux paramétrable, notamment avec une base de connaissances PDF...
+À valider car je ne maîtrise pas très bien cet écosystème
+26/06/2025, 15:55 - +33 7 80 42 87 32: Effectivement sur Copilot, en tout cas avec la version de notre université on peut uniquement donner des URLs et pas de documents
+26/06/2025, 15:56 - Gregoire IA: Quel genre de.processus voulez vous automatiser ?
+26/06/2025, 16:00 - +33 7 80 42 87 32: On voudrait que les étudiants puissent l'utiliser en autonomie et que la chatbot s'adapte aux demandes de l'étudiant. Impossible pour le moment d'utiliser chatGPT payant et les GPTs, nous n'avons que Copilot Studio
+26/06/2025, 16:05 - Gregoire IA: Dans ce cas un assistant IA ferait l'affaire mais sans base de connaissance il y a le danger de perdre l'alignement pédagogique avec le cours.
+Êtes vous avec Moodle pour la diffusion des cours ? Lui et d'autres LMS ont leur plugins IA et certains font ce que vous décrivez
+26/06/2025, 16:06 - Gregoire IA: Pour info, j'avais développé un agent vocal avec sa propre base documentaire avec eleven labs, intégration facile du moment que vous pouvez éditer du code html
+26/06/2025, 16:07 - +33 7 85 03 62 08: Sinon dans Google il y a les Gems aussi qui permettent d'ajouter des documents pdf
+26/06/2025, 16:07 - +33 7 85 03 62 08: Et c'est gratuit
+26/06/2025, 16:08 - +33 7 85 03 62 08: Ça dépend de la complexité de ce que vous faites, mais ça peut peut être se tenter

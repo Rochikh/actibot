@@ -1,0 +1,37 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 29
+
+=== CONTENU ===
+- Identifier les garanties particulières pour données sensibles
+4. **Points de vigilance spécifiques**
+- Repérer les usages d'IA/algorithmes impactant l'utilisateur
+- Examiner la conformité DSA/DMA si applicable
+- Vérifier les mécanismes de recours proposés
+- Identifier les zones grises ou imprécisions importantes
+**# Format de réponse**
+- Structure en markdown avec titres et sous-titres
+- Pour chaque point critique, utiliser ce format :
+⚠ [Constat]
+📝 [Explication]
+💡 [Impact concret pour l'utilisateur]
+- Passages problématiques entre doubles accolades {{ }}
+- Conclusion avec échelle de risque :
+🟢 Faible
+🟡 Modéré
+🔴 Élevé
+L'objectif est de fournir une analyse équilibrée et actuelle des enjeux, en évitant les fausses alertes tout en identifiant les véritables risques pour l'utilisateur.
+Demande-moi les CGU à analyser.
+07/01/2025, 13:08 - Ahmadou Ba: Ah bon j'avais pas encore posé une question sur Tian An Men. Mais il prend des ressources pour faire du RAG, cela peut attenuer la censure.
+07/01/2025, 13:09 - +33 6 71 11 12 91: Oui, mais tout part à Pékin... Vérifie avec le prompt ci-dessus. Perso, il est hors de question que je l'utilise, mais chacun fait ce qu'il veut.
+07/01/2025, 13:10 - Rochane: Si vous activez la connexion au web, il est moins censuré
+07/01/2025, 13:15 - Rochane: Découvrez le kit open source SPLC : formez-vous à l’IA dès aujourd’hui avec des ressources accessibles, gratuites et modulables. Bravo @32479823712 https://splc.be/kit-open-source-de-formation-a-lia/
+07/01/2025, 13:16 - Ahmadou Ba: <Médias omis>
+07/01/2025, 13:17 - Ahmadou Ba: 😅 ils ne plaisantent pas les chinois.
+07/01/2025, 13:18 - Sébastien Place: Merci beaucoup Rochane pour le partage !
+07/01/2025, 13:25 - Rochane: Toi avec ta casquette Microsoft, tu ne pourras pas le mettre dans notebooklm.google.com pour générer un podcast mais on peut te le faire 😁
+07/01/2025, 14:38 - ‎Adrien Bock IA a demandé à ajouter +32 473 35 22 65.
+07/01/2025, 14:55 - ‎+43 664 9605094 a demandé à rejoindre le groupe.

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 11
+
+=== CONTENU ===
+16/05/2024, 16:03 - Francois Bocquet: Source sur le site de la CNIL : https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3
+16/05/2024, 16:03 - Francois Bocquet: Article 13 - Informations à fournir lorsque des données à caractère personnel sont collectées auprès de la personne concernée
+16/05/2024, 16:05 - Jacques BARATTI: Merci François pour ces précisions. Si c'est OpenSource cela confère une certaine garantie il me semble pour l'article 13 je en connais pas...
+16/05/2024, 16:05 - +33 6 22 42 57 92: J'y ai accès depuis hier soir depuis un compte gratuit 🤷‍♂️ Grand Est de la France
+16/05/2024, 16:08 - Francois Bocquet: La garantie ne peut être apportée par le code disponible sur le dépôt puisque celui est modifiable et peut donc être installé avec d’autres fonctionnalités. Par ailleurs le code source ne peut préjuger des finalités de traitements ni des modalités d’information des personnes. Il est possible de procéder à des traitements illégaux avec un simple tableur de Libre Office ou avec un site web n’utilisant que du logiciel libre.
+16/05/2024, 16:29 - ‎+33 6 49 25 14 53 a demandé à rejoindre le groupe.
+16/05/2024, 16:49 - ‎+33 6 49 25 14 53 a rejoint le groupe à partir de la communauté.
+16/05/2024, 17:03 - Fabien IA: Avec plaisir @33699361169 merci pour ton message
+16/05/2024, 17:14 - Guillaume Singeot: PDF interactif avec une Table des Matières afin de mieux appréhender le texte final du Règlement européen sur l’IA; Il est noté dans le descriptif "Notre pdf est destiné à devenir un outil particulièrement utile pour tous les praticiens et les passionnés de la réglementation européenne sur l’IA.". Cependant, ça ne me parait ni pratique ni passionnant ...😜 https://ai-regulation.com/ai-act-en-francais-avec-table-des-matieres-interactive/
+16/05/2024, 18:39 - +33 6 19 29 82 01: Non RGPD
+16/05/2024, 20:17 - Francois Bocquet: Ben si ! Ça nécessite d’avoir inscrit le traitement au registre et d’avoir signé les contrats adéquats tout comme avec Office 365 Éducation. On parle bien ici de l’utilisation d’un domaine Éducation valide par le chef d’établissement et inscrit au registre des traitements de celui ci.

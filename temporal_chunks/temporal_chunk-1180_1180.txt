@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 644
+Messages: 6
+
+=== CONTENU ===
+C’est bien ça la différence et donc le problème ? Quand j’ai un fichier *non anonyme* avec des informations personnelles, c’est l’école qui est responsable à ma place, quand j’ai un serveur perso avec des logs avec des IP *totalement anonymes* (pas pseudomisées, mais bien anonymes) c’est moi qui suis responsable donc ça pose problème si je ne fais pas le nécessaire, c'est-à-dire une "inscription dans un registre accessible au public", explicitant que les IP ne sont accessibles que par moi, conservées que pour des raisons de sécurité, et que les logs sont régulièrement effacés ?
+P.S. : Ce n'est plus la situation actuelle, vu que je n'ai plus de traces d'IP dans les logs du serveur : j'ai trouvé comment ne pas les conserver. Je rends donc mon serveur potentiellement vulnérable à une attaque (sauf que j'ai fait le nécessaire pour distinguer les IP des élèves des IP de la page de connexion ou il y a la demande de mot de passe, et a priori donc une page qui n'est utilisée que par les enseignants et pas par les élèves).
+03/11/2024, 10:54 - Francois Bocquet: Pour la première question : pour que ce traitement soit conforme il faut effectivement que le chef d’établissement ai inscrit au registre ce traitement et que tu ai vérifié cette inscription ou questionne le chef d’établissement sur ce point. Il est vraisemblable que ça ne soit pas fait et que par conséquent ce traitement soit illégal.
+03/11/2024, 11:25 - ‎+33 6 37 64 30 94 est parti·e
+03/11/2024, 12:16 - Francois Bocquet: Pour le second : les IP ne sont pas anonymes par principe (jurisprudence existante) mais elles sont effectivement anonymisees par groupement par le proxy de l’école (même si elle reste reidentifiables par le responsable de traitement de l’établissement si la connexion est réalisée avec un login et un mot de passe. Ensuite l’IP reste une DCP depuis le domicile et depuis le portable d’un élève. Même si tu ne gère pas de lof dans l’application normalement ton serveur web gère des logs (y compris pour des raisons légales ou de cyber sécurité). Ces logs sont des traitements de données à caractère personnel. Le travail que tu as fait est un excellent travail de minimisation des risques. Mais ça reste un traitement de DCP qui doit être inscrit au registre de l’établissement pour ton instance. La même démarche doit être réalisée pour chaque instance. C’est pour cette raison qu’une instance peut être conforme et une autre pas conforme tout en utilisant le même logiciel.
+03/11/2024, 12:49 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.

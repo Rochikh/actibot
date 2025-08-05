@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 6
+
+=== CONTENU ===
+28/09/2024, 10:45 - Rochane: Waw, excellente initiative, si tu veux bien nous faire une démo lors de notre prochain live d'octobre 🙂
+28/09/2024, 10:46 - Francois Bocquet: Voilà une à pproche innovante et très intéressante 👍 Elle permettra de faire une étude de cas pour l’analyse conformité RGPD ;-) Je veux bien que l’on regarde ça ensemble un de ces jours si ça intéresse le responsable de traitement de ton institution.
+28/09/2024, 10:59 - +41 76 372 28 94: Merci @33662364404. Vu qu'en passant par l'API, OpenAI ne conserve pas les données. Vu qu'il n'y a pas d'identification ou de login des élèves. Vu que rien n'est stocké sur le serveur et le code est en open source. Je pense être du coup aux normes de la RGPD 😅 ! <Ce message a été modifié>
+28/09/2024, 11:07 - Francois Bocquet: Ben non ! Pourquoi ? Parce que ce qui compte c’est le traitement de données à caractère personnel, celle de l’enseignnt et celles des élèves même si c’est un pseudonyme éleve qui est transmis au sous traitant (ici open Ai). Le fait que rien ne soit stocké durablement ni conservé n’empêche pas qu’il y ai des traitements. Le fait que le code soit open source n’a aucune conséquence sur la conformité RGPD. En plus il est obligatoire de mettre en place un contrat de sous traitance entre l’éditeur open Ai et le responsable de traitement (ton chef d’établissement ou ton recteur ou ton Ministre). Donc possible de mettre un tel traitement en conformité mais il reste du boulot. Le plus simple serait de disposer d’un service dédié à l’éducation opéré par le Ministère lui même ou par un sous traitant avec lequel le Ministère contracte dans les clous. Sinon ça sera vraiment très compliqué…
+28/09/2024, 11:12 - Rochane: Plus je m'intéresse à ce règlement et moins je comprends. Il est vraiment trop rigide et je comprends pourquoi les acteurs IA comme Meta ou OpenAI ont demandé à la communauté européenne d'assouplir leurs règlements
+Les US innovent, la Chine copie et l'Europe réglemente 😁 <Ce message a été modifié>

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+11/03/2024, 08:22 - Rochane: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 12 mars de 20h à 21h
+https://us06web.zoom.us/j/84168913250?pwd=KoCHaWXbSCxHbE7A7Fi0Cx0v6djxob.1
+ID de réunion: 841 6891 3250
+Code secret: 792017
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+11/03/2024, 08:22 - Rochane: Au programme de ce live : Lucie qui va présenter une formation pour apprendre le français développée pour Harvard .  Mickaël qui propose : "Mobiliser la taxonomie de Bloom révisée pour adapter les évaluations aux nouveaux contextes culturels et technologiques induits par l'émergence des IA génératives". Agathe qui montrera  comment créer une capsule digitale en 2 minutes avec l'IA de Coassemble, à partir d'un document ou d'une simple description, puis modifier et personnaliser le rendu. Guillaume présentera les nouveautés d'une solution 100% RGPD, notamment pour les entreprises. Vincent qui parlera de sa formation en ligne sur l'IA et l'éducation. Pierrick qui présentera un LMS très simple avec une couche IA intéressante et s'il reste un peu de temps, je vous montrerai un outil gratuit qui analyse des PDF, Word....
+11/03/2024, 08:23 - ‎+212 611-520459 est parti·e
+11/03/2024, 08:45 - ‎+33 6 20 97 18 83 a rejoint le groupe à partir de la communauté.
+11/03/2024, 11:13 - Clément Cahagne: Bonjour à tous ! Si jamais cela vous intéresse, voici un gpt pour affiner l’écriture d’obj pédagogiques.
+Encore en test de mon côté, mais si vous souhaitez m’aider et le tester vous aussi, voici le lien
+https://chat.openai.com/g/g-f9PVJF4Of-l-affineur-d-objectifs-pedagogiques
+11/03/2024, 11:21 - Rochane: un peu violent la note de / que j'ai obtenue 😁

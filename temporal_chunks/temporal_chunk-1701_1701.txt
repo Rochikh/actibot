@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 20
+
+=== CONTENU ===
+02/02/2025, 15:05 - +32 479 56 05 93: Bonjour, jeudi au webinaire une personne a parlé d'une  conférence sur l'apprentissage des langues et l IA
+02/02/2025, 17:09 - Rochane: Une conférence et des ateliers que j'ai animés lors d'un rassemblement d'inspecteurs en Belgique.
+Voici les contenus 😉
+bit.ly/cfipIA
+02/02/2025, 17:28 - Mickaël: Et rien sur l'éducation, ni sur l'enseignement... 🤬
+02/02/2025, 17:56 - ‎+32 477 96 87 89 a été ajouté·e
+02/02/2025, 17:56 - ‎Vous est parti·e
+02/02/2025, 17:57 - +33 6 19 75 63 49: Est ce ceci? https://www.britishcouncil.fr/programmes/programmes-anglais/education/projets/ia
+02/02/2025, 18:00 - Luis Galindo: Bonjour Mickaël, bonjour à tous, pour information, concernant l'éducation, l'événement aura lieu le 7 février de 10h00 à 13h00 et sera diffusé (YuoTube) en anglais et en français, je vous enverrai toutes les informations demain
+02/02/2025, 18:03 - Vous avez été ajouté·e
+02/02/2025, 18:03 - ‎+32 477 96 87 89 est parti·e
+02/02/2025, 18:09 - Jean-Marc Everard: Hello, je rebondi sur la question des installation en local. Suis-je le seul à avoir eu des problèmes avec Docker pour lancer Openweb Gui comme interface de Llama sur Mac ? Merci
+02/02/2025, 18:20 - ‎+32 477 96 87 89 a été ajouté·e
+02/02/2025, 18:20 - ‎Vous est parti·e
+02/02/2025, 18:28 - Vous avez été ajouté·e
+02/02/2025, 18:49 - +33 7 84 33 02 62: Bonjour @rochane , je viens de regarder fact navigator ton extension et je m interrogeais sur son fonctionnement… comment parvient-elle à debunker l’information ? Je voudrais accompagner sur le fact checking  des apprenants , en complément d’un pilote avec la solution « be my média » …
+02/02/2025, 19:13 - +41 79 258 90 36: Ce message a été supprimé.
+02/02/2025, 19:13 - ‎~ Fa est parti·e
+02/02/2025, 19:50 - Gregoire IA: Si vous ne me suivez pas, voilà le lien de ma publication de ce dimanche : analyse de Deepseek pour une intégration en éducation :
+https://www.linkedin.com/posts/aribautg_deepseek-liagen-qui-me-perturbe-ugcPost-7291195403016818688-wcHn?utm_source=share&utm_medium=member_android

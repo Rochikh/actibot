@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 13
+
+=== CONTENU ===
+26/10/2023, 07:08 - Larissa: Bonjour Guillaume, non. Merci pour cette idée. Je connais pas.
+26/10/2023, 07:08 - Rochane: Mais tu crées des rubriques dans Google forms avec dans la première rubrique ( page) ta vidéo et en passant à la suite les questions. Tu as aussi Tally qui le fait très bien et parfois avec plus de possibilités
+26/10/2023, 07:09 - Rochane: On peut embeder une vidéo dans un G Form
+26/10/2023, 07:10 - Larissa: Smart...et je peux créer des pages séparés pour des séquences de vidéos.....malin ça. Merci!
+26/10/2023, 07:12 - Larissa: Ce message a été supprimé.
+26/10/2023, 07:19 - Larissa: https://www.educatech-expo.com - Super opportunité pour celles et ceux qui ont le temps...bcp de sessions sur l'IA et l'éducation.
+26/10/2023, 07:36 - Luc deleplanque: Bonjour Larissa, la proposition de Rochane est en effet pertinente 😉 et couplée à un Google site cela fonctionne très bien … dans ton GForm, tu peux aussi exploiter un itinéraire à embranchement avec des questions aiguillages, ce qui permet une adaptation à l’utilisateur … excellente poursuite… 🙏
+26/10/2023, 08:19 - ‎+33 7 81 13 39 48 a rejoint le groupe à partir de la communauté.
+26/10/2023, 08:26 - Larissa: https://eden-europe.eu/2023-european-open-and-digital-learning-week-eodlw-education-in-the-digital-age-what-can-we-do-better-programme-announced/ - Je suis ce consortium aussi. Ils ont une semaine de séances en ligne bientôt avec des sessions sur l'IA en anglais.
+26/10/2023, 08:36 - ‎+33 6 15 20 18 94 a rejoint le groupe à partir de la communauté.
+26/10/2023, 09:09 - ‎Jean-Marc Everard a rejoint le groupe à partir de la communauté.
+26/10/2023, 09:35 - ‎+32 495 27 41 00 a rejoint le groupe à partir de la communauté.
+26/10/2023, 10:40 - Ahmadou Ba: Google Forms est bon bon pour ça mais s’il récupère les mails, il peut embêter les utilisateurs avec le captcha surtout s’il y a bcp de connexion en simultané et ça c démotivant. J’ai essayé Wooclap il est bon et puis vous pouvez partager des ressources indépendamment du quiz. Les élèves peuvent utiliser leur nom ou des pseudo.

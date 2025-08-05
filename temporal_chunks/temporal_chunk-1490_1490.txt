@@ -1,0 +1,36 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 28
+
+=== CONTENU ===
+La politique de confidentialité ne mentionne pas explicitement la transparence en cas d'incident de sécurité.
+**📝 Explication:**
+Les utilisateurs ne sont pas informés des procédures mises en place pour les informer en cas d'incident de sécurité affectant leurs données.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs ne savent pas quand et comment ils seront informés en cas de violation de leurs données, ce qui peut retarder leur capacité à prendre des mesures de protection.
+---
+#### 3. Examiner la politique de partage avec les tiers
+**⚠️ Constat:**
+DeepSeek partage les données avec des partenaires publicitaires, des partenaires d'analyse et des tiers dans le cadre de transactions corporatives.
+**📝 Explication:**
+Le partage de données avec des tiers est large et non spécifique, ce qui peut être problématique en termes de confidentialité.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs peuvent se retrouver avec leurs données partagées avec des tiers sans leur consentement explicite, ce qui viole le RGPD.
+---
+#### 4. Identifier les garanties particulières pour données sensibles
+**⚠️ Constat:**
+La politique de confidentialité ne mentionne pas explicitement les données sensibles et les garanties particulières associées.
+**📝 Explication:**
+Les données sensibles (comme les données de santé, les opinions politiques, etc.) ne sont pas traitées de manière spécifique, ce qui peut être illégal selon le RGPD.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs ne savent pas comment leurs données sensibles sont protégées, ce qui peut les exposer à des risques de discrimination ou d'exploitation.
+---
+### Points de vigilance spécifiques
+#### 1. Repérer les usages d'IA/algorithmes impactant l'utilisateur
+**⚠️ Constat:**
+DeepSeek utilise des modèles de langage AI pour fournir ses services, mais ne fournit pas de transparence sur les algorithmes utilisés.
+**📝 Explication:**
+Les algorithmes utilisés pour traiter les données des utilisateurs ne sont pas décrits, ce qui peut entraîner des décisions automatisées injustes ou opaques.

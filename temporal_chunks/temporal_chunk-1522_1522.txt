@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 24
+
+=== CONTENU ===
+A partir d'extraits de divers textes du groupe
+, modifiés par divers outils numériques , pour en faire une chanson.
+Utilisation du programme SUNO ( choix voix, rythmes  instruments), BanLab, pour le mixage son, montage via CANVA, Movavi...
+Voici une proposition structurée pour l’élaboration de cette vidéo pour le débat, en suivant les étapes que vous avez décrites :
+Étapes pour la création de la vidéo :
+1. Préparation du contenu :
+Sélection des textes : Choisir des extraits pertinents des textes du groupe. Ces extraits doivent être en lien avec les thématiques ou arguments du débat.
+Modification des textes : Adapter les extraits en utilisant des outils numériques pour leur donner une structure poétique ou rythmique. Vous pouvez jouer sur la métrique, les rimes, ou simplifier les phrases pour une meilleure mise en chanson.
+2. Création de la chanson :
+Transformation en chanson :
+Utiliser le programme SUNO pour générer la voix, les rythmes et les instruments.
+Faire des essais avec différentes voix et styles pour trouver la combinaison la plus adaptée à l’ambiance souhaitée pour le débat.
+Collaboration avec des collègues ou étudiants (si applicable) pour enrichir les idées créatives et améliorer la composition.
+3. Mixage audio :
+Importer la piste générée dans un logiciel comme BandLab.
+Ajouter des effets, ajuster les niveaux sonores, et mixer les différentes pistes (voix, musique, etc.).
+Vérifier que le mixage final est clair et agréable à écouter.
+4. Création de la vidéo :
+Montage visuel :
+Utiliser des outils comme CANVA pour créer des visuels attractifs : images de fond, textes animés, graphiques ou autres éléments visuels.
+Intégrer les pistes audio mixées dans le montage vidéo avec Movavi ou un autre éditeur vidéo.
+Ajout de sous-titres et transitions : Inclure des sous-titres synchronisés avec la chanson pour une meilleure compréhension. Ajouter des transitions pour dynamiser la vidéo.
+5. Finalisation et exportation :
+Relire et ajuster : Vérifier que tous les éléments (audio, visuels, transitions) s’accordent parfaitement.

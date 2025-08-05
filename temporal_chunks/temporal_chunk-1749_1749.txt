@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 581
+Messages: 12
+
+=== CONTENU ===
+11/02/2025, 13:50 - Francois Bocquet: Le plus simple est de demander au DPd académique la liste des analyses d’impacts réalisées et l’extrait du registre contenant les services d’IA utilisables au niveau national et académique. Pour l’établissement demander au chef d’établissement qui a l’obligation dans le code de l’éducation de tenir à disposition du public son registre des traitements.
+11/02/2025, 13:53 - Francois Bocquet: Notons que le plan stratégique d’intégration de l’IA n’inclut ni le terme « données personnelles » ni le terme « RGPD ». Ça doit les jetons 😱😳😰
+11/02/2025, 13:53 - Francois Bocquet: Ça fout les jetons
+11/02/2025, 14:05 - +33 6 76 04 48 20: Je pense que bon nombre d’élèves « formeront » leurs enseignants…
+11/02/2025, 14:20 - +33 6 73 29 84 68: Ce serait particulièrement inquiétant que cette problématique, spécialisée s’il est, soit laissé aux hasards des découvertes personnelles.
+11/02/2025, 14:32 - François JOURDE: Attention pour DuckDuvckGo AI: "Duck.ai is only intended for and available to people who are age 13 or older.
+If you are under the age of majority in your jurisdiction, you must have your parent or legal guardian's permission to use Duck.ai."
+11/02/2025, 14:36 - Francois Bocquet: Logique et exigé pour tout service utilisé aux USA ! Duck.ai est très bien pour une découverte personnelle mais ne peut être utilisé de façon professionnelle seul ou avec des élèves car il propose des traitements illégaux en contexte scolaire (pas de sous traitance possible, pas de représentation en Europe, pas d’analyse d’impact possible et donc pas d’inscription possible au registre). Seuls les services explicitement autorisés (inscrit à l’un des registres) sont utilisables en déploiement.
+11/02/2025, 14:46 - Alix van Zeebroeck: <Médias omis>
+11/02/2025, 16:37 - Votre code de sécurité avec +32 485 16 69 09 a changé. Appuyez pour en savoir plus.
+11/02/2025, 16:44 - Votre code de sécurité avec +32 485 16 69 09 a changé. Appuyez pour en savoir plus.
+11/02/2025, 17:00 - Daniel Pappalardo: Cela dit les élèves sont plus des utilisateurs que connaisseurs des outils, implications géopolitiques, usage des données, coût environnemental, inégalités générés pour les entraînements, perception occidentale du monde par les LLM .. etc. Ils me demandent même ce qu'est un algorithme 😇

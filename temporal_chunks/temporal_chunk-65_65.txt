@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+09/11/2023, 15:40 - +33 7 71 20 50 67: <Médias omis>
+09/11/2023, 21:36 - Rochane: Ça y est, la nouvelle version de chat GPt est arrivée chez moi et en plus, la création de gpts est possible. Une pluie de cas d'usage 👍
+09/11/2023, 21:38 - Ahmadou Ba: Ils n'arrêtent de vanter ses mérites. Je crois que je vais finalement passer à GPT 4
+09/11/2023, 21:39 - Ahmadou Ba: Mais le problème à quel point l'usage de GPT ou des IA génératives est considéré comme du plagiat ou de la violation du droit d'auteur. Qu'en serat-il s'il est utilisé pour la rédaction d'article universitaire (mémoire ou rapport)
+09/11/2023, 21:40 - Lucie: GPT4 est vraiment incomparable au 3. Après ils parlent de baisser le prix des abonnements pour une meilleure accessibilité. Mais 20$ pour nous Francais et pour la puissance du produit c'est rien
+09/11/2023, 21:41 - Rochane: Je donne une formation aux masters IPM ( Ingénieur pédagogique multimédia) et ils m'ont rendu des travaux en citant Chat GPT et en montrant tous leurs prompts. Ils ont eu une très bonne note 🙂
+09/11/2023, 21:44 - Ahmadou Ba: Espérons que tous les enseignants seront aussi compréhensible que vous l'êtes.
+09/11/2023, 22:14 - ‎Laurent The Cure a rejoint le groupe à partir de la communauté.
+10/11/2023, 07:09 - Jean-Marc Everard: Bonjour, j’aimerais utiliser les nouveaux outils de Open AI pour créer un GPTs mais je ne les trouve pas (suis abonné GPT+). Quelqu’un a -t-il une idée de la façon d’activer ou trouver cela ? Merci d’avance 🙏😉.
+10/11/2023, 07:23 - Rochane: Est-ce que tu as une nouvelle interface avec le menu GPt 4 et Gpt3.5 en haut à gauche et non plus en haut au milieu ?
+10/11/2023, 07:38 - +32 498 78 46 36: <Médias omis>
+10/11/2023, 07:43 - +32 498 78 46 36: Je me faisais une réflexion sur les GPT's. Pour le moment un GPT créé et partagé en public ne sera fonctionnel que pour les abonnés Plus. Cela devrait être accessible aux comptes ChatGPT gratuits dans les prochains jours ... normalement. Autant le savoir si vous comptiez déjà tester les GPT's avec vos apprenants 😉

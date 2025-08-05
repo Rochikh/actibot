@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 15
+
+=== CONTENU ===
+11/11/2024, 17:52 - Zaragoza JUAN JOSÉ IA: Il y a une fonction pour cloner la voix.
+11/11/2024, 17:53 - +33 6 72 75 43 48: Merci je vais tester
+11/11/2024, 17:54 - +33 6 66 98 84 23: Bonjour, quelqu'un a t'il essayé de transcrire le rapport en français ? J'ai essayé avec les outils gratuits mais il est trop long. Même DeepL ne veut pas !Merci
+11/11/2024, 18:50 - +33 6 62 05 94 71: D'où l'utilité des traducteurs humains, considérés comme coûtant cher mais mal payés au final. La tâche est énorme, c'est pourquoi les traductions du document dans différentes langues est toujours largement différée. Si on me paye, je le fais, délai 8 jours 😆
+11/11/2024, 18:55 - Fred IA: Bonsoir. Je ne retrouve pas l'astuce donnée sur ce canal pour générer un podcast en français via Notebooklm. De mémoire, il fallait saisir une commande particulière.. Si certains s'en rappellent, ce serait génial, merci par avance
+11/11/2024, 18:56 - Ahmadou Ba: La capacité des IA est largement surestimée. Il y a un niveau de standardisation des productions assez eleve. Interrogée les differentes IA sur la même question, les idées générer sont presque les mêmes.
+11/11/2024, 18:58 - Gregoire IA: Hosts are only allowed to speak French, no other language is permitted
+> tu peux ajouter d'autres consignes pour ton prompt mais il faut séparer les prompts avec un retour à la ligne. J'ai eu besoin de lui indiquer comment prononcer un mot, ou comme je le fais dans ma video de ce matin, lui dire que les interviewers (hosts) m'avaient parlé avant ! <Ce message a été modifié>
+11/11/2024, 18:58 - Gregoire IA: https://youtu.be/nijdlmb1zw4à
+version FR en cours
+11/11/2024, 19:11 - Fred IA: <Médias omis>
+11/11/2024, 19:12 - Fred IA: Merci 👍
+12/11/2024, 07:14 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+12/11/2024, 09:37 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+12/11/2024, 12:03 - Votre code de sécurité avec +32 493 87 42 05 a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 15
+
+=== CONTENU ===
+13/11/2023, 21:58 - Laurent The Cure: Merci Thierry et Rochane. L'abonnement donne accès à quelle version ?
+13/11/2023, 21:58 - Thierry VANOFFE: On est d’accord qu’avec la version à 20 balles HT on a accès à tout cela rochane ?
+13/11/2023, 21:58 - Rochane: Gpt 4 Turbo
+13/11/2023, 21:58 - Thierry VANOFFE: Pour moi tout
+13/11/2023, 21:59 - Rochane: C'est toujours la version la plus actualisée
+13/11/2023, 21:59 - Rochane: Yep
+13/11/2023, 22:00 - Thierry VANOFFE: Il semblerait qu’aujourd’hui c’est turbo un peu avant c’est gpt 4 plus et encore un peu avant juste gpt … donc finalement c’est la version payante qui s’améliore et change de nom car y a plus de fonctionnalités ou capacités. En phase rochane ?
+13/11/2023, 22:03 - Ahmadou Ba: Finalement c une danse endiablée impossible de suivre le rythme. Je n’ose pas imaginer ce que cela sera dans un an
+13/11/2023, 22:05 - Laurent The Cure: Je vais réfléchir à passer le pas et tester l'utilité pour moi
+13/11/2023, 22:05 - Laurent The Cure: Merci
+13/11/2023, 22:11 - Thierry VANOFFE: Quel est ton métier et tes passions on va te trouver des cas d’usages de ouf pour t’aider à y voir l’intérêt et t’augmenter (pas le salaire par contre ) 😉
+13/11/2023, 22:17 - Ahmadou Ba: Moi avec ce que je fais je crois GPT 3 et Claude y suffit. Réactualiser les cours , créer des activités apprentissage, des quiz, écrire des scénarii pédagogiques.
+Mais je dois naviguer entre Copilot qui roule à GPT 4 , Claude et dalle 3 de bing.
+Mais j’avoue avoir tout cela en un seul endroit est très tentant
+13/11/2023, 22:17 - Laurent The Cure: Je suis sans emploi mais je co gère un riad à agadir (Maroc) en tentant de m'occuper du marketing digital (je suis auto didacte même si j'ai suivi une formation cpf dans la domaine). L'activité locative a démarré en février, et après avoir fait un bel été, il est nécessaire de développer le remplissage, notamment hors saison. À terme, si j'arrive à augmenter le CA je serais salarié du riad tout en ayant une activité marketing digitale

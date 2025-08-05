@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 15
+
+=== CONTENU ===
+1. Enregistrement sans consentement préalable versus droit à l'image
+2. Diffusion de contenu propriétaire
+Ce qu'en dit Juribot.
+Vous souhaitez savoir si l'enregistrement d'un cours à l'insu d'un participant et la distribution du transcript aux autres participants est légal.
+En vertu du droit français, l'enregistrement d'une conversation ou d'un cours sans le consentement des personnes présentes peut constituer une violation de la vie privée et des droits de la défense. En effet, selon l'article 226-1 du Code pénal, "le fait, par une personne, d'enregistrer, sans le consentement de l'autre, une conversation à laquelle elle participe, est puni d'un an d'emprisonnement et de 45 000 euros d'amende".
+De plus, la jurisprudence a établi que l'enregistrement clandestin, même dans un cadre professionnel ou éducatif, compromet les droits des personnes concernées (Cass. Crim. 16 Décembre 1997 n°96-85.589).
+Il est donc probable que l'enregistrement et la distribution du transcript sans consentement soient considérés comme illégaux, sauf si les participants avaient été informés et avaient donné leur accord.
+En résumé, sans le consentement des participants, l'enregistrement et la distribution du transcript sont susceptibles d'être illégaux.
+22/01/2025, 01:26 - ‎+212 638-407858 est parti·e
+22/01/2025, 07:36 - +32 479 94 80 38: Oui … il enlève les verbes infinitifs à conjuguer dans mon texte à trous mais pas les suggestions automatiques … et ce n’est nulle part dans les paramètres (limités!) de Copilot …
+22/01/2025, 08:13 - Rochane: Teste la même chose avec Deepseek, tu serais impressionnée de la qualité des réponses
+22/01/2025, 09:17 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+22/01/2025, 09:37 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+22/01/2025, 09:41 - Francois Bocquet: +1 pour moi ;-)
+22/01/2025, 09:54 - +33 6 43 60 12 59: Deepseek a changé ses CGU le 20 janvier, peut on lui faire un peu plus confiance du coup ?

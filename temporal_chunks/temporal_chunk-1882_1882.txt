@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 19
+
+=== CONTENU ===
+05/03/2025, 13:01 - Francois Bocquet: Avez vous découvert Aria sur le navigateur Opéra (gratuit sans compte et illimité) repéré par @33637483689 ? Ça paraît intéressant !
+05/03/2025, 13:03 - Francois Bocquet: C’est ici https://www.opera.com/fr/features/aria
+05/03/2025, 14:23 - +33 6 66 98 84 23: Effectivement il est intégré au navigateur. Pas mal pour quelques besoins mais limité dans la profondeur des réponses
+05/03/2025, 16:03 - +33 6 85 97 38 11: Bonjour à tous,
+Je fais du pro Bono pour une association qui accompagne des jeunes entrepreneurs à impact. Je me suis lancé le défi de construire pour ces entrepreneurs, une formation à l’IA…C’est ma 1ere formation. Certes je pourrais demander à une IA de la faire mais j’ai appris qu’il n’était pas « sage » de déléguer ce que l’on ne connait pas. Je suis donc à l’écoute de vos conseils, source, agents IA dédié à la formation, comment ancrer le savoir …
+Les messages que je souhaite faire passer à travers cette formation sont les suivants :
+L’iA est plurielle, mathématiques, se trompe et a un impact écologique.
+Faire de l’IA, son assistant, son stagiaire et non l’inverse.
+Le prompt ultime est une chimère
+Des cas d’usage propre à l’entrepreneur
+…
+Merci pour vos retours, vos conseils, vos mises en garde…
+Très bonne journée
+05/03/2025, 16:05 - Francois Bocquet: Peut être utiliser le pluriel (les IA) et élargir le champs aux IA non génératives (c’est à dire sans instruction générative -prompt en francais-) qui sont également précieuses pour des jeunes entrepreneurs ?
+05/03/2025, 16:57 - +33 7 86 18 83 63: Bonjour
+Je cherche une IA qui transforme du contenu écrit en MP4, MP3, QUIZZ via une API.
+Est-ce que vous connaissez une solution pour ce besoin ?
+05/03/2025, 16:59 - +33 6 46 86 16 67: J’ai testé la recherche approfondie sur ChatGPT et… suis perplexe par rapport aux erreurs ! C’est wahoo ou je suis tombée dans un panneau ?
+05/03/2025, 17:07 - +33 6 66 98 84 23: Vous connaissez genspark.ai apparemment cela à l'air bien.Agrégation d'IA et recherche de données

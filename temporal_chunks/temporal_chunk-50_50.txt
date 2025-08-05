@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 18
+
+=== CONTENU ===
+03/11/2023, 07:25 - +33 7 71 20 50 67: Bjr à tous, j'ai un souci technique que je n'arrive pas à solutionner. 1er-J'ai un Chromebook, ChatGPT fonctionne parfaitement dessus au travers de Google Chrome. 2-sur mon téléphone Android idem. 3-sur mon PC Windows, quel que soit le navigateur j'ai un erreur et pas moyen de faire une seule requête. Avez-vous déjà rencontré ce problème ? Merci
+03/11/2023, 07:26 - Rochane: Vous avez supprimé ce message
+03/11/2023, 08:02 - ‎+32 472 39 50 83 a rejoint le groupe à partir de la communauté.
+03/11/2023, 08:28 - ‎+32 496 87 29 98 a rejoint ce groupe grâce à son lien d’invitation
+03/11/2023, 08:45 - Guillaume CLEMENT: Salut a tous
+Vue ce matin sur LinkedIn pour ceux que ça intéresse
+Bonne journée
+https://innovatim.ch/produit/gptbible/
+03/11/2023, 10:10 - +33 6 85 18 84 20: Bonjour à tous,
+Une ressource de très grande qualité sur la façon de concevoir les différents types de prompts, conçue par Clément Cahagne et en accès libre. Il a produit un gros travail de fond qui va vous aider à booster vos prompts : https://clementcahagne.notion.site/Prompt-Engineering-les-mod-les-d-change-39616702a90f463fb64b353e18e2361c 😉
+03/11/2023, 10:13 - Rochane: Excellente ressource bien structurée sur cette page Notion. Merci pour le partage 🙂
+03/11/2023, 10:25 - Jacques BARATTI: presque 100€ quand même !
+03/11/2023, 10:29 - ‎+43 660 6721233 est parti·e
+03/11/2023, 11:01 - Jacques BARATTI: <Médias omis>
+03/11/2023, 11:04 - Ahmadou Ba: Je dois le tester ce magic shool.
+03/11/2023, 11:14 - Lucie: Oui c'est la ressource que je vous ai transmise en visio cette semaine sur le résumé de son cours Coursera
+03/11/2023, 11:14 - Lucie: Ça ne m'inspire pas
+03/11/2023, 16:08 - Rochane: L'article discute l'intégration de l'IA comme ChatGPT dans les salles de classe et son impact sur l'intégrité académique. Il souligne des questions clés comme la définition de la triche, l'ajustement des pratiques pédagogiques traditionnelles, et comment préparer les élèves à un avenir avec l'IA. Il propose également une réflexion sur l'utilisation responsable de l'IA pour améliorer l'apprentissage, tout en soulignant la nécessité d'attendre les directives officielles avant d'intégrer l'IA dans les salles de classe québécoises

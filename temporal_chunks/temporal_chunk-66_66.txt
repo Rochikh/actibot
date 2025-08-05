@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 6
+
+=== CONTENU ===
+09/11/2023, 22:14 - ‎Laurent The Cure a rejoint le groupe à partir de la communauté.
+10/11/2023, 07:09 - Jean-Marc Everard: Bonjour, j’aimerais utiliser les nouveaux outils de Open AI pour créer un GPTs mais je ne les trouve pas (suis abonné GPT+). Quelqu’un a -t-il une idée de la façon d’activer ou trouver cela ? Merci d’avance 🙏😉.
+10/11/2023, 07:23 - Rochane: Est-ce que tu as une nouvelle interface avec le menu GPt 4 et Gpt3.5 en haut à gauche et non plus en haut au milieu ?
+10/11/2023, 07:38 - +32 498 78 46 36: <Médias omis>
+10/11/2023, 07:43 - +32 498 78 46 36: Je me faisais une réflexion sur les GPT's. Pour le moment un GPT créé et partagé en public ne sera fonctionnel que pour les abonnés Plus. Cela devrait être accessible aux comptes ChatGPT gratuits dans les prochains jours ... normalement. Autant le savoir si vous comptiez déjà tester les GPT's avec vos apprenants 😉
+10/11/2023, 07:44 - Rochane: Il n'est pas possible de partager un accès direct à GPT ou ChatGPT d'OpenAI avec le public sans que les utilisateurs aient besoin de créer un compte OpenAI. Cela est dû aux politiques d'OpenAI concernant l'accès et l'utilisation de ses modèles IA, qui nécessitent une authentification et des accords d'utilisation spécifiques.Cependant, il existe des moyens de rendre l'accès à des applications basées sur GPT ou ChatGPT plus accessible, tout en respectant les directives d'OpenAI :Intégration via API : Les développeurs peuvent intégrer GPT ou ChatGPT dans leurs propres applications ou sites web via l'API OpenAI. Les utilisateurs finaux n'ont pas besoin de créer un compte OpenAI pour interagir avec l'IA via ces applications, mais le développeur doit avoir un compte et respecter les politiques d'OpenAI.Démos Publiques : Parfois, OpenAI ou des tiers développeurs créent des démos publiques accessibles à tous, mais ces démos sont généralement limitées en fonctionnalité et en capacité pour éviter les abus.Partenariats Éducatifs ou de Recherche : Dans certains cas, OpenAI établit des partenariats avec des institutions éducatives ou de recherche pour permettre un accès plus large à ses modèles pour des fins éducatives ou de recherche.

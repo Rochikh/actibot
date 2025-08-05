@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 554
+Messages: 14
+
+=== CONTENU ===
+11/04/2024, 15:13 - Guillaume Singeot: Bonjour! Est ce que quelqu'un aurait tester https://paperpal.com ? (avec un texte en français) merci
+11/04/2024, 15:24 - +237 6 56 90 71 30: Moi je suis enseignant d'allemand depuis 10 ans au Cameroun.
+Et je trouve que c'est un gros gâchis et un retard énorme que nous prenons ici lorsque les administrations scolaires interdisent le téléphone portable ou la tablette à l'école aux élèves.
+C'est pour cela que je pense qu'il vaut mieux déjà avoir le droit de s'en servir...
+11/04/2024, 15:35 - +33 7 49 40 50 92: Hello.  J'ai bcp aimé la présentation de Laetitia hier soir (et la démo d'automatisation 🙂). Est ce que le Genially est accessible ? Sinon LAetiti est passé (trop) rapidement sur des logos de type CC qui indiquaient le niveau d'usage attendu d'une IA dans une activité... quelqu'un sait il où trouver ces logos ?
+11/04/2024, 15:38 - Guillaume Singeot: Le lien Genially https://view.genial.ly/660e6ccdf62301001483be53 (message de Rochane un peu plus haut) le lien logo https://mpeters.uqo.ca/transparent-use-of-artificial-intelligence/20240320_ia_logos_en_/  (il y a la version francisée des logos dans le Genially de Laetitia
+11/04/2024, 15:49 - +221 78 114 78 29: Pour relativiser, je dirai que tout dépend de la cible, du programme, des objectifs du cours et de la formation de l'enseignant lui-même. Dans certains pays le problème ne se pose même pas. C'est du numérique à 100 pour cent.
+11/04/2024, 15:52 - Yvelines: Évidemment !
+11/04/2024, 16:07 - +33 6 86 63 43 38: Bonjour,
+Pouvez me rappeler l IA qui permet de générer des cartes mentales, svp?
+11/04/2024, 16:09 - Guillaume Singeot: https://whimsical.com/ est souvent cité ici. Sinon https://latelierduformateur.fr/creer-des-mindmaps-avec-lia/
+11/04/2024, 16:09 - +33 6 86 63 43 38: Merci
+11/04/2024, 16:18 - Rochane: Vous avez supprimé ce message
+11/04/2024, 19:57 - Jacques BARATTI: Pour ceux qui le souhaitent vous pouvez tester ce GPT appelé DynaMentor qui répond à toutes les questions que les étudiants (et autres) se posent au sujet des Pédagogies actives à l'université ou ailleurs. Le prompt est largement inspiré du livre de Lucie (merci !!!) https://chat.openai.com/g/g-VsV2PSkXc-dynamentor

@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 9
+
+=== CONTENU ===
+30/06/2024, 09:39 - +33 7 63 58 01 55: Merci pour ces infos, tu as des liens vers ces publications ou au moins leurs titres exacts ? C'est Perplexity qui t'as dit ? 😊
+30/06/2024, 09:41 - +33 7 63 58 01 55: Ce message a été supprimé.
+30/06/2024, 09:42 - Rochane: https://www.midilibre.fr/2024/06/29/un-coup-de-semonce-au-sein-du-milieu-educatif-pour-les-correcteurs-dexamen-reconnaitre-une-copie-redigee-par-lia-est-un-defi-12046465.php
+30/06/2024, 09:51 - +33 7 63 58 01 55: Super, merci 👍🏻
+30/06/2024, 10:12 - +41 79 326 51 40: https://www.justgeek.fr/duckduckgo-ai-chat-126951/?fbclid=IwZXh0bgNhZW0CMTEAAR11EVR25ba9wJf4oSkhelpOWIL6_JR1-4lbvk0YQEUVc15x5xWuO5dT6vY_aem_2oVWOj0CYnkY1SUJBS4kxA
+Avec le *lancement de DuckDuckGo AI Chat* , la firme propose désormais un *chatbot IA anonyme et sécurisé,* basé sur divers modèles, comme gpt 3-5 Turbo ou Claude 3 Haiku (moins performants que certains modèles, mais on y gagne côté protection des données)
+30/06/2024, 10:19 - +41 79 326 51 40: <Médias omis>
+30/06/2024, 10:52 - Francois Bocquet: Pour être précis, Duck.ai n’anonymise pas mais pseudonymise les données des utilisateurs pour que le service continue de savoir à quelle adresse IP est renvoyé le résultat des requêtes alors que ChatGPT ou Claude ne peut savoir d’où vient la requête. Duck.ai agit comme un proxy. Il minimise au sens du RGPD mais traite toujours des données à caractère personnel même s’il n’y a pas de compte. Une utilisation derrière un proxy d’établissement renforce encore cette minimisation mais le traitement relève toujours du RGPD même si c’est pour le moment le service qui minimise le mieux les risques d’autant que les données ne sont pas réutilisées pour d’autres finalités que pour rendre le service. En tous cas bien plus proche de la conformité que les services qui nécessitent un compte pour chaque utilisateur sans que l’on puisse signer d’accord de sous traitance avec eux…
+30/06/2024, 17:23 - Jean-Marc Everard: Merci beaucoup pou l’info. Faut-il faire partie d’erasmus + pour ouvrir s‘inscrire ? (Ceci dit 2 de mes filles ont fait dé échanges Eramus plus cette année 😉 ).

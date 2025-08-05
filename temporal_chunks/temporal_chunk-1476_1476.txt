@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 7
+
+=== CONTENU ===
+27/12/2024, 00:36 - +41 76 372 28 94: Petit bémol après avoir checké toutes les références. Il en manque (une thématique n’en propose aucune par exemple). Et plus grave, 3% des références sont fausses (texte non trouvé). Alors j’ai checké peut-être un peu vite les 43 liens et lu en diagonale, mais bon… Perplexity joue aussi parfois des tours. Donc ça mâche le travail mais en version Gemini Advanced 1.5 Pro, ce n’est pas 100% fiable (ce qui est étonant puisque ici il s’agit juste de surfer sur internet et de résumer ce que l’on lit). <Ce message a été modifié>
+27/12/2024, 00:57 - +41 79 258 90 36: J'ai repris votre question dans Gemini Advanced 2.0 en  ajoutant seulement que je voulais une version Française et Allemande.  J'ai bien reçu 12 réponses mais totalement différentes de la vôtre. Par ailleurs, pour conserver les réponses, j'ai dû effectuer un copy/paste sous word. Gemini ne pouvais que de me livrer une version TXT à copier. Comment avez-vous réalisé votre fichier sous Google doc? Je ferai d'autres tests ce matin.
+27/12/2024, 01:03 - +41 76 372 28 94: Chez moi il y a un bouton « Ouvrir dans Docs » dans l’interface pour Gemini 1.5 en mode « Deep Search », mais ce bouton n’est pas présent dans Gemini 2.0 (qui ne propose pas le mode « deep search », même s’il met quelques liens).
+27/12/2024, 01:03 - +41 76 372 28 94: <Médias omis>
+27/12/2024, 08:31 - StéphaneIA: @41792589036 c'est un peu voguent mais en fait 1.5 pro advanced c'est l'abonnement pour Gemini sur les comptes perso pour le deep search. 2.0 avanced c'est le nom du modèle qu'on retrouve soir aistudio et Gemini
+27/12/2024, 08:32 - StéphaneIA: @41763722894 j'ai vu une étude qui disait que perplexity avait 30% de ses affirmations non trouvées dans les sources mentionnées
+27/12/2024, 08:35 - StéphaneIA: Pour ce sujet on touche un point important des LLMs je pense eux ce qu'ils font c'est produite des tokens en devinant le prochaines mots. Donc ce n'est pas comme nous comme ils produisent et qu'ils ne font pas un résumé au sens propre du terme ils peuvent inventer des choses

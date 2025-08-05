@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 21
+
+=== CONTENU ===
+16/05/2025, 16:45 - ‎+33 6 76 85 72 20 est parti·e
+16/05/2025, 18:59 - +33 6 07 14 45 01: Pour quelques documents, LibreOffice.org avait une option d'import docx et d'export latex dans mon souvenir.
+En complément pour info, sur arXiv.org les LaTex sont convertis en HTML avec la librairie  https://math.nist.gov/~BMiller/LaTeXML/ <Ce message a été modifié>
+16/05/2025, 19:24 - +33 6 66 98 84 23: Bonsoir, désolé j'ai une présentation à faire sur un mémoire, auriez vous des outils à me conseiller pour réaliser une présentation sympa en visuel (15-20 slides)?Merci d'avance de vos retour
+16/05/2025, 19:25 - +32 496 83 53 39: Bonsoir peux tu essayer gamma ?
+16/05/2025, 19:25 - +32 496 83 53 39: Gama ou gamma ia
+16/05/2025, 19:25 - +32 496 83 53 39: Il y a déjà une version gratuite
+16/05/2025, 19:26 - +33 6 66 98 84 23: Oui ,j'avais testé pour autre chose mais pourquoi pas
+16/05/2025, 19:27 - +32 496 83 53 39: Assez facile et rapide
+16/05/2025, 19:27 - +32 496 83 53 39: Et ajustable
+16/05/2025, 19:27 - +32 496 83 53 39: Ne pas hésiter dans le besoin
+16/05/2025, 20:04 - +33 6 71 11 12 91: Ou napkin
+17/05/2025, 07:49 - Clotilde IA: Pour gamma gratuit, tu seras limité à 10 slides en téléchargement. Par contre, si tu présentes depuis l’outil, tu peux monter à beaucoup plus.
+P.S. : si tu n’avais pas encore de compte gamma, en cliquant sur ce lien ( https://gamma.app/signup?r=cahsptstmg0xzpo) nous auront tous les deux 200 crédits de requêtes ia (pour aller plus vite dans la génération des slides, par ex avec des images (via Flux) qui illustrent automatiquement tes propos…)
+Merci et bon travail !
+17/05/2025, 10:03 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+17/05/2025, 10:08 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+17/05/2025, 11:19 - Rochane: ‎Textai.vcf (fichier joint)
+17/05/2025, 11:19 - Rochane: Un nouveau chat beau à tester en lui posant toutes les questions
+17/05/2025, 11:42 - ‎Oumayma est parti·e
+17/05/2025, 16:05 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.

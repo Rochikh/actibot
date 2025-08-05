@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 594
+Messages: 7
+
+=== CONTENU ===
+02/07/2025, 09:49 - ‎~ Valentin Sanouiller est parti·e
+02/07/2025, 09:49 - Francois Bocquet: Attention de bien mettre en œuvre les mesures préalables aux traitements avec les suites Microsoft O365 avec CoPilot et Google Workspace avec Gemini (ou encore Canva ou suite Adobe) pour que le responsable de traitement s’assure de la mise en conformité avec le RGPD. Je confirme que les traitements réalisés avec ces suites peuvent être conformes au RGPD.
+02/07/2025, 09:52 - Francois Bocquet: De façon tout à fait étonnante le DNE réitère l’interdiction d’utiliser les suites bureautiques US mais ne s’exprime pas sur l’utilisation massive des téléphones, tablettes ou PC avec des comptes mails obligatoires souvent grand public et sans MDM, mais en plus le même DNE ne trouve rien à dire quant à l’utilisation de services d’IA US même lorsqu’ils sont utilisés par des enseignants ou des élèves et sans conformité RGPD. Tout cela est réellement étrange…
+02/07/2025, 09:53 - Francois Bocquet: Et j’ai peut être une explication !
+02/07/2025, 09:56 - Daniel Pappalardo: Oui ce n'est pas conforme au RGPD.en l'état  François a très bien précisé dans quel cadre il est possible de le faire. Je relaye l'information de son existence et comme vous, insiste sur l'attention portée à la reglementation. Donc ces solutions telles qu'elles apparaissent actuellement, ne doivent pas être utilisées en cours en France devant les élèves sans mise en conformité (même si des écoles primaires utilisent visiblement classroom) Mais la solution est intéressante pour les utilisateurs de Google Classroom avec des quizz IA etc. que d'autres systèmes éducatifs francophones (ou pas)  utilisent. En connaissant les risques... <Ce message a été modifié>
+02/07/2025, 09:57 - +33 6 77 09 47 45: 👍
+02/07/2025, 10:01 - Francois Bocquet: Ça n’est pas exact. La conformité RGPD des suites bureautiques Google et Microsoft avec des contrats B2B est avérée depuis de nombreuses années. Ces services disposent de toutes les certifications ISO nécessaires et sont même certifiées HDS (hébergement des données de santé) par le Ministère de la santé français. Elles disposent des contrats et avenants conformes à l’article 28 du RGPD. A condition que les mesures préalables obligatoires soient mise en œuvre ces services sont conformes alors que l’utilisation de services grand public ne peut jamais l’être.

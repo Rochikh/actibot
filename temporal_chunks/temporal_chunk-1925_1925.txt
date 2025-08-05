@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 16
+
+=== CONTENU ===
+07/03/2025, 11:14 - Clément Cahagne: C'est les deux. L'outil ne doit pas accentuer ou encourager la non compétence des utilisateurs.
+07/03/2025, 11:16 - +32 483 60 53 96: 1 et 3 faisable ; merci beaucoup
+Pour le 2 qui touchent aux Learning analytics et comportements, quels sont pour toi les données cles à analyser (nbre de sessions, reussite à des eval formative, temps focus etc...)?
+Pas sur quon puisse facilement justifier l'usage des analytics dans notre contexte
+Donc je suis très curieux
+07/03/2025, 11:17 - Clément Cahagne: Sur le point 2 quand je dis utilisateur je dis concepteur / inge peda et pas apprenant
+07/03/2025, 11:20 - +32 483 60 53 96: Oh ok interessant ✨️🤗
+07/03/2025, 11:52 - +33 6 76 38 15 71: Je n'arrive pas à avoir un podcast en français avec notebook LM y a t-il une astuce ?
+07/03/2025, 11:52 - Rochane: This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…
+07/03/2025, 11:53 - +33 7 63 58 01 55: Ce message a été supprimé.
+07/03/2025, 11:54 - +33 6 71 11 12 91: oui, il m' a pris de vitesse ! J'ai pourtant simplement voulu faire un copier-coller ! 😀
+07/03/2025, 11:54 - +33 6 52 73 73 42: Pareil !
+07/03/2025, 11:57 - +32 496 38 49 64: NotebookLM fait aussi le job  si ce prompt est en français. Un truc sympa aussi, c’est de le personnaliser : préciser l’école ou le lieu, le contexte, le nom que l’on souhaite donner aux animateurs ( ne fonctionne pas toujours) et même le nom de l’enseignant, de l’école, de la boîte…
+07/03/2025, 11:58 - Rochane: Je l'ai dans mes raccourcis et d'ailleurs, je vous recommande https://play.google.com/store/apps/details?id=app.text_expansion.octopus
+pour Android <Ce message a été modifié>
+07/03/2025, 11:58 - +32 496 38 49 64: Lui donner des suggestions aussi sur le ton : les intervenants ne se coupent pas la parole, ne sont pas trop extasiés … est utile aussi.

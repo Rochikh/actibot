@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 556
+Messages: 9
+
+=== CONTENU ===
+Je trouve les explications du fondateur d'OVH intéressantes et claires.
+80% du cout d'un data center pour IA c'est l'achat des cartes ! 20% pour la construction.
+L'intérêt de passer sur les superchips c'est que la distance entre les cartes est réduite et c'est le facteur limitant pour avoir une bonne efficacité, donc avec les super cartes de dernière generation le datacenter fonctionne beaucoup mieux. Mais, car il y a un mais la puissance habituelle par rack ou par baie ne suffit plus. De 20Kw on passe à 120 KW ou 240 KW dans le même espace et là faire passer de l'air ne suffit plus pour refroidir il faut de l'eau. Voilà pourquoi les ventes des dernières super cartes de NVDIA sont en forte hausse, et pourquoi il faut des datacenters refroidis à l'eau. La bonne nouvelle c'est qu'ils sont plus efficaces malgré l'aspect monstre énergivore.
+Autre point à noter : bien distinguer la phase de mise au point du modèle qui exige une capacité de calcul colossale de la phase d'utilisation. D'après lui l'inférence peut se faire avec des unités plus petites qui peuvent être localisées près des utilisateurs (on pourrait aussi penser les localiser là où l'energie est verte et le refroidissement  plus facile un pays froid avec de l'hydro électricité par ex;)
+Voilà le post :https://www.linkedin.com/posts/octave-klaba-3a0b3632_depuis-quelques-jours-on-entend-beaucoup-activity-7294997565928861698-SEJ5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACdRy8BHdbfWMdxMSGbJuDJREQZR7hXc7M
+14/02/2025, 09:41 - +33 7 87 35 78 96: Présentation du calculateur à la journée compar:IA
+https://www.youtube.com/watch?v=i7IAJUzjk0c
+14/02/2025, 09:43 - +33 7 66 46 62 19: Des pictos pour les créations avec ou sans IA proposés par l’université du Québec à Chicoutimi https://www.uqac.ca/ressourcespedago/iag/
+14/02/2025, 10:29 - +352 661 354 647: Bonjour, est ce que quelqu’un aurait ici connaissance de formation de qualité pour découvrir l’usage d’outils IA permettant une meilleure organisation au sens large dans un travail administratif (gestion de procédure, tâches, délais) ? Ou bien alors plus précisément peut-être dans le cadre des marchés publics (on ne sait jamais ;-) ) ? Merci par avance ! Bonne journée à tous!

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 15
+
+=== CONTENU ===
+08/04/2025, 18:36 - +1 (581) 688-4841: Je l'ai retrouvé. Merci beaucoup
+08/04/2025, 19:38 - Thierry VANOFFE: Hello la communauté, 50 mn pour être au top sur NotebookLM de chez Google (une dinguerie cette application) : https://www.youtube.com/watch?v=CubPH4XIxuU&t=2s
+08/04/2025, 20:30 - ‎~ Karen est parti·e
+08/04/2025, 22:52 - +33 6 22 65 42 40: C'est génial comme idée ! Merci pour le partage
+09/04/2025, 00:41 - +32 475 86 01 57: D autant plus que les llm sont souvent trop gentils... Sinon, avec magic school, quand tu créés un classe, tu as accès aux conversations que t'es étudiants ont avec le llm... Mais c est de l artisanat (c est bien aussi l artisanat)
+09/04/2025, 07:10 - +41 76 372 28 94: https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude Pas de surprise. C'est bien quand même d'avoir ces statistiques US explicites.
+09/04/2025, 07:42 - Rochane: La moitié des étudiants quand même :
+Fourniture de réponses à des questions à choix multiples
+Réponses directes à des questions d'examen
+Réécriture de textes pour éviter la détection de plagiat
+Inquiétant 🤔 <Ce message a été modifié>
+09/04/2025, 07:54 - +41 76 372 28 94: Moi je m'y attendais. J'aurai fait pareil à leur âge. Il a trop d'autres choses extraordinaires à faire que de répondre à un QCM quand on a 20 ans, non ?
+09/04/2025, 08:25 - +32 475 86 01 57: La détection de plagiat c est une illusion que j ai abandonnée depuis longtemps... Faut revenir aux bases
+09/04/2025, 09:05 - Ahmadou Ba: Plus inquiétant encore le fait que l'IA est plus utilisée pour des activités du niveau cognitif supérieur de la taxonomie de Bloom. Ils se déchargent carrément sur l'IA pour la création, l'analyse et l'execution des tâches et cela pour des disciplines à la pointe de la technologie.
+09/04/2025, 09:13 - Rochane: Je ne l'avais pas compris comme ça en lisant l'article. J'avais juste imaginé que c'est bien de se faire aider pour des niveau élevés mais sans penser qu'ils se déchargent sur l'IA. Plutôt, comme aide

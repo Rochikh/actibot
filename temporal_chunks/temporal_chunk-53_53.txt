@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 19
+
+=== CONTENU ===
+04/11/2023, 08:37 - Rochane: <Médias omis>
+04/11/2023, 09:48 - Ahmadou Ba: A mon avis à l’ère de l’IA, il faudra revoir carrément ce concept de plagiat. Après tout les IA génératives ne font que restituer les données qu’elles ont ingurgitées durant leur entraînement. Tout ce qui vient de l’IA n’est il pas le fruit d’un plagiat.
+04/11/2023, 09:50 - +32 492 85 81 22: <Médias omis>
+04/11/2023, 09:52 - +32 498 78 46 36: Il ~dessine~ prompte bien.
+04/11/2023, 09:53 - +32 492 85 81 22: Et il n'en est pas peu fier
+04/11/2023, 10:21 - +33 7 44 72 54 02: Une recension des écrits de 1970 à 2022 sur les rôles de l’enseignant et de l’intelligence artificielle dans le domaine de l’IA en éducation    https://www.linkedin.com/posts/alexandre-lepage-8b395351_notre-recension-des-%C3%A9crits-avec-normand-activity-7125243630562222080-04T9?utm_source=share&utm_medium=member_android
+04/11/2023, 10:27 - Rochane: Intéressant, j'ai eu une explication avec chat GPt vision Cette infographie décrit les interactions entre les apprenants, les enseignants, les savoirs (connaissances), et l'intelligence artificielle (IA) dans un contexte éducatif. Voici une explication de chaque interaction :
+1. **Interactions IA - apprenants**:
+- Examine les effets cognitifs et comportementaux de l'utilisation de l'IA par l'apprenant.
+- Questionne s'il y a des effets de bord négatifs.
+- Analyse comment l'apprenant interagit avec l'IA.
+- Interroge le contrôle qu'a l'apprenant sur l'IA.
+2. **Interactions IA - enseignants**:
+- Explore les actions enseignantes qu'on cherche à automatiser avec l'IA.
+- Réfléchit sur ce qui est perdu lorsqu'on remplace des actions informelles par des actions automatisées.
+- Discute pourquoi et comment un enseignant adopterait l'IA.
+- S'interroge sur le rôle de l'enseignant dans l'interprétation, la complétion, ou la régulation des actions de l'IA.
+3. **Interactions IA - savoirs**:
+- Questionne la marge de manœuvre de l'IA pour prendre des décisions en ce qui concerne les contenus à enseigner.

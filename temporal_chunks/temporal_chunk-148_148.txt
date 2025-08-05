@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 581
+Messages: 16
+
+=== CONTENU ===
+05/01/2024, 15:57 - Lucie: Un petit extrait pris de mon livre 🤫
+05/01/2024, 15:58 - Lucie: En tout cas si tu postes sur IN dis le j'irais te soutenir j'aime bien le usecase.
+05/01/2024, 15:58 - Rochane: C'est déjà fait 😁
+05/01/2024, 15:59 - Lucie: Ce message a été supprimé.
+05/01/2024, 16:19 - Jacques BARATTI: Bravo Rochane ! Je viens juste de découvrir les possibilités offertes par "Make" surtout avec, comme tu l'as fait, un couplage avec ChatGPT. Un nouveau monde à explorer
+05/01/2024, 16:25 - Rochane: Top Lucie, je connaissais l'astuce vba généré même avec chat gpt 3.5 mais j'ignorais la possibilité de générer tes images sur PowerPoint sans Copilot. On en reparlera mardi dans le live si tu es présente 😊
+05/01/2024, 16:33 - Lucie: Oula mais ce n'est pas du tout la vidéo que je voulais envoyer... Je crois que j'ai besoin de vacances. Attends je recommence. J'envoie la bonne
+05/01/2024, 16:35 - Lucie: 😅 Cette situation aurait pu être pire 😅😅
+05/01/2024, 16:36 - Lucie: <Médias omis>
+05/01/2024, 16:44 - Rochane: Top
+2 questions est ce que ça ne devient pas payant ton extension après un certain nombre de réponses ? Et seconde question ou plutôt constatation, le potentiel de l'ia se trouve dans la correction de questions ouvertes or, ce n'est pas le cas ici je présume 😊 <Ce message a été modifié>
+05/01/2024, 16:51 - Lucie: Yes. Deux bonnes questions.
+La première je ne sais pas, je n'ai pas vu de business model derrière.
+Et pour la seconde je vois plus ça comme un test de positionnement avant la formation. Test que les formateurs ne font pas car "pas  de temps" et qui pourtant devrait être obligatoire avant chaque formation pour vérifier que les pré-requis sont bien en place et peut-être re-router les apprenants.
+05/01/2024, 17:01 - +33 7 64 08 12 10: Il peut aussi être intéressant de proposer le quizz en début (positionnement) et en fin pour voir le delta entre les deux réponses au même questionnaire pour chacun des participants.
+05/01/2024, 17:06 - Ahmadou Ba: J'avais demandé à mon GPt de me faire un pré-test et post test pour une formation mais il a juste interroger les participants sur le contenue. La différence entre les deux tests de se situent au niveau de la profondeur des questions c a d le niveau taxonomique. J'ai décidé alors d'en faire une évaluation ipsative

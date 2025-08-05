@@ -1,0 +1,38 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 30
+
+=== CONTENU ===
+Analyse stratégique des CGU - Privacy Policy de Kimi
+1. Analyse des traitements de données
+1.1 Proportionnalité des collectes de données
+⚠ [Constat]
+La politique affirme que les données personnelles sont « retenues sur [le] appareil et ne sont pas collectées par [nous] ». Cependant, elle mentionne l’utilisation de services tiers susceptibles de collecter des informations d’identification.
+📝 [Explication]
+La formulation ambiguë laisse entendre que l’éditeur ne collecte pas directement les données, mais autorise des tiers à le faire. Aucune précision n’est donnée sur la nature, la quantité ou la finalité de ces collectes.
+💡 [Impact]
+L’utilisateur européen ignore quelles données sont réellement collectées et par qui, entrainant un manque de transparence sur la proportionnalité des traitements.
+1.2 Durée de conservation
+⚠ [Constat]
+Aucune mention de la durée de conservation des données par l’éditeur ou les tiers.
+📝 [Explication]
+Le RGPD exige une durée de conservation limitée au strict nécessaire. L’absence d’information empêche l’évaluation de la conformité.
+💡 [Impact]
+Les données risquent d’être conservées indûment, augmentant les risques d’exposition.
+1.3 Finalités de traitement et légitimité
+⚠ [Constat]
+Les finalités des traitements par les tiers (« services connexes », « analyse de l’utilisation ») sont vagues.
+📝 [Explication]
+Le RGPD impose une finalité explicite et une base légale (consentement, contrat, etc.). Les tiers pourraient utiliser les données hors des attentes de l’utilisateur.
+💡 [Impact]
+Les utilisateurs ne maîtrisent pas les usages de leurs données, potentiellement abusifs.
+1.4 Chaîne de sous-traitance et responsabilités
+⚠ [Constat]
+Les tiers ont accès aux données mais sont seulement « obligés de ne pas les divulguer ».
+📝 [Explication]
+Le RGPD exige des contrats contraignants avec les sous-traitants (art. 28). Aucune preuve de ces garanties n’est fournie.
+💡 [Impact]
+Les utilisateurs ne bénéficient pas de protections adéquates en cas de faille chez un tiers.

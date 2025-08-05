@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 21
+
+=== CONTENU ===
+26/03/2025, 13:28 - Rochane: Regarde en haut, il en parle. Je crois que tout est sorti à partir d'un prompt
+26/03/2025, 13:41 - +33 6 09 28 08 24: <Médias omis>
+26/03/2025, 13:50 - Francois Bocquet: Ouch ! Ça vaut le coût d’être lu !
+26/03/2025, 14:29 - +33 6 19 89 32 62: <Médias omis>
+26/03/2025, 14:29 - +33 6 19 89 32 62: Je suis en train du coup de tester des séquences de BD en essayant de conserver les mêmes personnages dans des situations différentes.
+26/03/2025, 14:32 - +33 6 19 04 48 10: Bravo 👏quel est votre prompt pour obtenir ce résultat svp ?
+26/03/2025, 14:48 - +33 6 99 86 52 93: Excellent !👌
+26/03/2025, 14:49 - Gregoire IA: Très prometteur, ChatGPT répond à un réel besoin avec ça. Merci + + pour ces premiers tests très réussis je trouve.
+Je vois déjà plein de belles choses pour le storytelling
+26/03/2025, 15:20 - +33 6 19 89 32 62: Je n’ai meme pas vraiment « prompté ». J’étais en échange pédagogique avec chat GPT sur mon concept fil rouge de pilote d’avion et j’ai mis : « Pourrais tu me préparer un prompt et un script pour faire une petite BD avec le pilote sur une page A4 4 cases. »
+Sa réponse : Concept : L’avocat est un pilote de vigilance
+Titre de la BD : “Avant de décoller, je vérifie mes voyants”
+Prompt pour générer les images IA :
+“Comic strip in 4 panels on an A4 page, featuring a lawyer dressed like a pilot in a stylized airplane cockpit. He checks different warning lights labeled ‘Client’, ‘Beneficiary Owner’, ‘Purpose’, ‘Funds’. Panels include cockpit interior, red and orange indicators, then green. Style: clear lines, professional and a bit humorous, suitable for legal e-learning. Add thought bubbles and labels for each light.”
+Script Bd :
+Case 1
+Illustration : Avocat avec casque de pilote, assis dans un cockpit stylisé d’avion, prêt à décoller. Il regarde un grand tableau de bord avec plusieurs voyants étiquetés.
+🗨️ Texte (bulle de pensée) :
+“Avant de m’engager, je dois vérifier mes indicateurs…”
+🔖 Voyants visibles :
+Client – Bénéficiaire effectif – Objet – Flux

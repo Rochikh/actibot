@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 10
+
+=== CONTENU ===
+27/10/2023, 16:47 - Ahmadou Ba: Trop fort!✌️
+27/10/2023, 16:47 - +33 6 14 90 22 14: https://collimateur.uqam.ca/collimateur/enseigner-lutilisation-responsable-de-lia/
+27/10/2023, 17:03 - Guillaume Singeot: Sauf qu'en fait pas tant que ça : la réponse ne prend pas en compte certains aspects et  n'est pas assez détaillée : ça ne marche que sur la version payante. Mais c'est déjà pas mal!
+27/10/2023, 17:07 - Rochane: Dans les liens qu'iel donne, c'est le .com donc version payante. En plus, ça n'a pas été précisé que l'on cherche une solution gratuite 🙂
+27/10/2023, 17:10 - Ahmadou Ba: Mais c'est l'idée d'aller interroger ChatGPT qui l'est plutôt. C'est la réponse juste à temps voulu au lieu d'attendre que quelqu'un ait une idée. Mais comme toutes les réponses de l'IA elle n'est pas satisfaisante à 100% moi je serai incapable de le réussir d'après l'explication donnée.
+27/10/2023, 17:16 - Guillaume Singeot: Et oui,  Rochane 👍 ce fameux prompt!  Mais je suis Rouennais (donc Normand donc Français) donc par principe je râle, je critique, je me contredis...surtout à la veille d'un weekend! 😊 .Totalement d'accord avec Ahmadou : l'idée me m'était pas venue de poser la question à l'IA. ça pose des questions sur nos propres compétences et notre devenir professionnel (ça y est! je râle tout seul sur la réforme des retraites! Vivement la prochaine grève... 😜)
+27/10/2023, 17:23 - Ahmadou Ba: Ne seriez vous pas sénégalais par hasard, les râleurs et les grévistes c'est par ici. 🤣
+27/10/2023, 19:04 - Karim BS: Salut Rochane. C’est Karim (Bureau & Services). Si tu fais bien référence à HeyGen, alors je suis très intéressé 🤩🤩🤩
+27/10/2023, 19:20 - Rochane: Non pas heygen, je garde la surprise 😁
+27/10/2023, 19:49 - +33 7 44 72 54 02: Research Rabbit est une application web, elle utilise l’ia pour vous aider à trouver et organiser la bibliographie. Elle permet de visualiser les articles qui vous intéressent dans un graphique interactif, montrant les liens entre eux et les auteurs les plus influents. https://www.researchrabbit.ai/

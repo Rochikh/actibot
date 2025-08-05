@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 19
+
+=== CONTENU ===
+https://da.van.ac/first-learn-the-rules-black-monday-edition/
+07/04/2025, 10:46 - +33 6 11 92 56 43: Bonjour. Pourriez-Vous me conseiller un ou des outils IA  pour créer des formules et mieux exploiter Excel
+07/04/2025, 10:48 - +33 6 52 73 73 42: Copilot est désormais intégré ds la solution Office.
+07/04/2025, 10:54 - +33 6 11 92 56 43: Merci
+07/04/2025, 10:55 - +32 498 78 46 36: Cela dépend de ce que l'on veut dire par intégration. Pour l'avoir réellement intégré dans Excel, il faut une licence particulière (et payante). sinon il faudra utiliser son fichier Excel en l'ouvrant via Edge et ouvrir le Copilot intégré à Edge.
+07/04/2025, 10:57 - +33 6 52 73 73 42: "Google AI studio" permet le partage d'écran et a la possibilité d'apporter une aide. (jamais testé !)
+07/04/2025, 10:59 - +33 6 52 73 73 42: Après les bons vieux bouquins et autres tuto "classiques" Excel ne sont pas à exclure ! (il n'y a pas que l'IA !) <Ce message a été modifié>
+07/04/2025, 11:00 - +32 479 82 01 20: https://app.formulabot.com/ai-excel-formula-generator
+07/04/2025, 11:14 - +33 6 11 92 56 43: Merci
+07/04/2025, 12:09 - +33 6 46 89 36 24: Bonjour, avez-vous déjà utilisé Chatgpt pour corriger des fautes d’orthographe dans un fichier Excel ? Savez-vous comment faire ? Merci par avance pour votre aide
+07/04/2025, 12:13 - +32 475 86 01 57: La  classe, bravo!
+07/04/2025, 12:21 - +32 489 24 76 78: oh merci !
+07/04/2025, 12:33 - Rochane: Pour t'éviter de copier coller le texte d'excel vers chat Gpt, il paraît qu'il ya une nouvelle extension
+https://www.datacamp.com/fr/tutorial/chatgpt-for-excel?utm_source=perplexity
+07/04/2025, 12:37 - +33 6 46 89 36 24: Ah intéressant ! Merci beaucoup je vais regarder ça !!
+07/04/2025, 13:00 - +33 6 46 89 36 24: On dirait que ça n’intègre pas le correcteur orthographique ….
+07/04/2025, 13:26 - Imane IA: <Médias omis>
+07/04/2025, 14:54 - +33 6 49 84 08 41: Il faut garder la foi, Imane 😉
+07/04/2025, 16:16 - +33 7 44 11 22 11: Je vais montrer ton CV à la directrice de l'organisme de formation où je fais mon stage.

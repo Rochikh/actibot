@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+16/02/2024, 12:23 - Rochane: Tu as essayé le gpt canva voire dans Canva  directement ? <Ce message a été modifié>
+16/02/2024, 12:24 - Rochane: Dans canva directement
+16/02/2024, 12:25 - Guillaume Singeot: Oui et je ne me sort pas. avec Canva, avec gpt et avec les deux ensemble :(
+16/02/2024, 12:33 - +33 6 34 01 06 77: Bonjour, peut-être essayer avec adobe firefly? Il y a la possibilité également de sélectionner une partie de l’image générée et la changer
+16/02/2024, 12:34 - Guillaume Singeot: je vais donc explorer Firefly plus que je ne l'ai fait actuellement. Merci!
+16/02/2024, 12:40 - Guillaume Singeot: Quelqu'un a essayé https://beta.dreamstudio.ai/ ?
+16/02/2024, 13:32 - Jacques BARATTI: Connaissez-vous des solutions pour créer des ChatBots pédagogiques dont l'accès soit gratuits pour les usagers (contrairement aux GPTs d'OpenAI) ?
+16/02/2024, 13:34 - Guillaume Singeot: un truc comme ça ? https://stellia.ai/produit
+16/02/2024, 13:35 - +33 6 20 35 46 24: Bonjour à tous, j’ai rejoint ce groupe il y a peu et vraiment c’est une mine d’information et de partage incroyable.
+Je me demandais si il y avait déjà un endroit où était sauvegardé l’ensemble des outils qui étaient partagés sur ce groupe WhatsApp ?
+En effet, c’est tout le problème de WhatsApp, on ne voit que les messages à partir du moment où on rentre dans le groupe 😅
+16/02/2024, 13:37 - Letizia ALLEGRINI: Bonjour depuis peu vous avez la possibilité d'utiliser trois outils ChatMD ou huggingchat ou opengpts je vous transmet les tutoriels réalisés par la DRANE Paca
+16/02/2024, 13:38 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197894/fr/opengpt-c-est-quoi
+16/02/2024, 13:38 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197878/fr/huggingchat-un-chatbot-opensource
+16/02/2024, 13:40 - Letizia ALLEGRINI: https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11196334/fr/decouvrir-chatmd
+16/02/2024, 13:40 - ‎+33 6 65 40 15 28 a rejoint le groupe à partir de la communauté.

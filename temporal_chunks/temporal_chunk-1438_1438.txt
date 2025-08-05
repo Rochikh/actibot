@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 553
+Messages: 17
+
+=== CONTENU ===
+18/12/2024, 16:59 - +34 618 97 47 94: Dicte.ai et Noota.io
+18/12/2024, 16:59 - +34 618 97 47 94: Pour des entretiens en présentiel
+18/12/2024, 17:36 - +33 6 88 57 53 04: L'application LOKAS de Framasoft fonctionne très bien aussi. Gratuite ET libre
+18/12/2024, 17:36 - +33 6 88 57 53 04: https://framablog.org/2024/12/03/enregistrer-et-transcrire-vos-reunions-avec-lokas/
+18/12/2024, 17:38 - +33 6 64 50 56 67: Avec le site pour une vision intéressante sur l ia. https://framamia.org/fr/
+Lokas limitée à 5 transcriptions par jour. Basée sur whisper.
+18/12/2024, 17:48 - +33 6 07 80 60 88: Vous avez les dictées automatiques des documents Word et Google Doc
+18/12/2024, 19:22 - +33 6 25 79 50 95: "A l'ère de l'IA, apprendre à apprendre consiste plus que jamais à apprendre à rester humain, dans ce que notre intelligence a de plus précieux et de plus singulier. Créativité, pensée critique, réflexivité, aptitude au dialogue et à la collaboration : autant de dispositions proprement humaines que l'IA peut stimuler et enrichir, à condition de ne pas les déléguer aveuglément à la machine. À nous de construire une IA à visage humain, qui soit une alliée bienveillante et exigeante dans le difficile apprentissage de nous-mêmes."
+Content que cette communauté colibrI Apporte sa contribution ;-)
+https://cursus.edu/fr/32384/apprendre-a-apprendre-avec-lia
+18/12/2024, 19:27 - +33 6 25 21 27 26: Bonjour, y a t-il un outil pour effectuer des comptes rendus de réunions sur Microsoft teams ? Merci
+18/12/2024, 19:28 - +33 6 99 15 13 77: Bonsoir, pas spécifiquement pour Teams mais il y a Fireflies, TL;DV et Leexi (parmi d'autres)
+18/12/2024, 19:28 - +33 6 49 84 08 41: Moi j'enregistre la vidéo sur Teams, je récupère le texte via Stream et je le colle dans NotebookLM
+18/12/2024, 19:28 - +33 7 86 18 83 63: Copilot
+18/12/2024, 19:29 - +33 6 49 84 08 41: Très efficace
+18/12/2024, 19:57 - Sébastien Place: Microsoft Copilot 365
+18/12/2024, 20:01 - François JOURDE: Je ne sais plus quel coût de licence suppose Microsoft Copilot 365, mais dans un environement Education de Microsoft on peut aussi, comme cela a été évoqué, uploder l'enregistrement audio dans Word online qui se chargera de la transcription.

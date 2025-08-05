@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 589
+Messages: 15
+
+=== CONTENU ===
+26/10/2023, 13:04 - Larissa: Tu utiliserais donc l'option logic conditionnel pour circumventer le problème, c'est ça?
+26/10/2023, 13:04 - +32 479 44 06 71: Et même verrouiller les différentes étapes avec des codes d'accès
+26/10/2023, 13:04 - Larissa: Merci. J'y jete un coup d'oeil
+26/10/2023, 13:06 - +33 7 71 20 50 67: Je crois bien ne pas avoir compris ta question du coup... Si tu veux afficher des réponses, Forms le fait très bien. Je ne vois pas le besoin de condition ?
+26/10/2023, 13:09 - Larissa: Dans Moodle, je peux ajouter des questions du type Multiple Choice où je peux tagger les bonnes réponses. Si les participants donnent des mauvaises réponses, ils ne verront pas la prochaine section par exemple. Dans Forms, je ne peux pas faire ceci comme il est établi sur des sondages et retours...pas sur des "exercises".
+26/10/2023, 13:12 - Larissa: Bref, c'est un Whatsapp pour l'IA....donc désolée pour le détour....je vais voir comment je me débrouille. :)
+26/10/2023, 13:14 - Rochane: Comme nous sommes sur l'IA dans ce groupe et je peux partager mon expérience dans Moodle. Il est possible d'importer un fichier XML d'un questionnaire et à la base j'avais un fichier Excel. Sur chat GPt, il m'a transformé mon fichier Excel en XML et le tour a été joué en l'important dans Moodle 😁 Attention, je l'ai bien préparé par des prompts...
+26/10/2023, 15:22 - ‎+58 414-0445031 a rejoint le groupe à partir de la communauté.
+26/10/2023, 17:31 - ‎+33 7 52 66 78 66 a rejoint le groupe à partir de la communauté.
+26/10/2023, 17:34 - ‎+33 6 70 31 98 34 a rejoint le groupe à partir de la communauté.
+26/10/2023, 19:03 - ‎+33 7 68 42 16 91 a rejoint le groupe à partir de la communauté.
+26/10/2023, 19:34 - Votre code de sécurité avec +33 6 34 01 06 77 a changé. Appuyez pour en savoir plus.
+26/10/2023, 19:43 - ‎Iulia Grosman AIM a rejoint le groupe à partir de la communauté.
+26/10/2023, 20:54 - ‎Souhila BENALI a rejoint le groupe à partir de la communauté.
+26/10/2023, 22:28 - Rochane: Une liste complète de plugins ChatGPT éducatifs sur ScriptByAI. Les plugins vont de la transformation de vidéos YouTube en guides d'étude, à l'accès à des ressources de codage, et l'assistance à la recherche académique. Une ressource précieuse pour les enseignant⋅e⋅s et les étudiant⋅e⋅s cherchant à enrichir leur expérience d'apprentissage avec l'IA.

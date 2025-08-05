@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 15
+
+=== CONTENU ===
+23/01/2024, 15:45 - Laurent The Cure: Question subsidiaire :
+"You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again after 5:32 PM."
+C'est l'heure de quel fuseau horaire ?
+23/01/2024, 15:46 - Rochane: En fait, quand tu arrives à ta limite, il te dit que tu ne peux pas continuer avant telle heure, tu as juste derrière un lien " en savoir plus" . C'est ce lien qui pointe sur le formulaire 🙂 <Ce message a été modifié>
+23/01/2024, 15:47 - Laurent The Cure: oui j'ai vu cela mais je voulais savoir si n'importe quelle réponse (How are you using ChatGPT?
+Personal Work Education Other) fonctionnerait
+23/01/2024, 15:48 - Rochane: Ah ça je ne sais pas. C'est eux qui décident
+23/01/2024, 15:48 - Ahmadou Ba: Je l'ai une fois mais bon apparemment cela ne fonctionne pas. J'ai mentionné que je j'utilisais pour un usage pédagogique peut-être que c a cause de ça. Seules les entreprise qui peuvent en bénéficier
+23/01/2024, 15:50 - Laurent The Cure: Merci. Je vais tester professionnel (car je l'utilise pour les 3 personnel, travail et éducation en tant que formateur)
+23/01/2024, 15:55 - Laurent The Cure: je suppose que c'est le fuseau horaire américain mais lequel ?
+23/01/2024, 15:59 - Laurent The Cure: ChatGPT m'a répondu (il suffisait de penser à demander à la source)
+I apologize for the confusion. The time mentioned in the message is in UTC (Coordinated Universal Time). You can try again after 5:32 PM in the UTC time zone.
+24/01/2024, 08:57 - Rochane: https://app.heygen.com/share/973eaa1b9528439f81860d2da7a2e706
+24/01/2024, 09:25 - +33 6 52 49 10 78: @33649535198 je dirais que tu as utilisé Heygen et suivi le process à savoir enregistrer un 1 min face caméra et ensuite soit ton audio dans un autre soft que tu as importé, soit directement dans Heygen. On est là-dessus ou pas du tout ?
+24/01/2024, 09:34 - Rochane: oui c'est à peu près ça : tu crées ton avatar en parlant 30 secondes et ensuite, tu crées ta vidéo juste avec le texte que tu souhaites. En vrai, j'ai jamais dit ce texte et c'est juste mon clone. Vous pouvez tester, c'est gratuit pour un test 🙂

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 13
+
+=== CONTENU ===
+02/01/2025, 13:26 - Jean-Marc Everard: Je trouve aussi que le résultat est très bien. J’ai fait une ligne du temps des technologies de communication depuis l’âge de pierre en images fixes et rien que pour ça j’ai un peu galéré, avec en plus des stéréotypes dont je n’ai pas eu tout de suite conscience.
+02/01/2025, 13:26 - Jean-Marc Everard: Donc bravo !
+02/01/2025, 13:40 - +33 6 19 89 32 62: Merci @32496968742 en effet on galère et il y a des stéréotypes (!) et sur Hailuo il me faisait n’importe quoi à chaque  milieu de vidéo (les hommes devenaient des femmes, coco chanel sortait une robe blanche de nulle part !)😜 je n’ai toujours pas compris pourquoi ! Pareil pour elevenlabs en voice to voice j’ai eu deux rendus très différents avec quasiment les mêmes enregistrements de base 🤓
+02/01/2025, 13:47 - Francois Bocquet: A découvrir : https://huggingface.co/spaces/drewThomasson/ebook2audiobook permet de transformer des EPUB en livres audio avec pas mal d’options ! (Pas encore testé)
+02/01/2025, 13:48 - Francois Bocquet: Et voici un service de traduction pour documents techniques avec tableaux et illustrations https://x-doc.ai/
+02/01/2025, 14:09 - +33 7 83 16 44 23: Bonjour, ça peut être intéressant si les voix ne sont pas juste des voix robotiques car sinon plusieurs app et logiciels le permettent déjà. Si quelqu'un reste, je serai intéressée par un retour, merci ☺️
+02/01/2025, 14:09 - +33 7 83 16 44 23: Teste*
+02/01/2025, 14:40 - Rochane: je teste mais pas en local et j'ai toujours cette erreur Error
+🤨👉⚠️ This is a non-functional GUI Demo, please duplicate this space or run it locally for full functionality, more info on github.
+02/01/2025, 14:48 - Votre code de sécurité avec +995 595 43 20 25 a changé. Appuyez pour en savoir plus.
+02/01/2025, 14:51 - ‎+33 6 24 05 10 18 a demandé à rejoindre le groupe.
+02/01/2025, 15:21 - ‎+33 6 24 05 10 18 a rejoint le groupe à partir de la communauté.
+02/01/2025, 16:01 - +33 6 02 20 69 43: Pitch ou faisait de la conversation pré paramètre… il y a pleins d’outils maintenant sur le marché, mais tout dépend l’objectif recherché et le public…???

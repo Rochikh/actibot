@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 16
+
+=== CONTENU ===
+03/03/2025, 17:06 - +33 6 43 60 12 59: <Médias omis>
+03/03/2025, 17:06 - +33 6 43 60 12 59: Est-ce que passer à la version payante va me permettre de lever cet obstacle ? Je n'arrive pas à comprendre sur le site de Claude...
+03/03/2025, 17:07 - +32 483 60 53 96: Oui en partie
+03/03/2025, 17:08 - +32 483 60 53 96: Quand tu crees un document ecrit par exemple ca cree un artefact de texte par exemple ; et plus tu prompts, plus tu peux ajouter des parties dans le meme "artefact" Je fais ca tres souvent
+03/03/2025, 17:08 - +32 483 60 53 96: Moi je nai pas de probleme de limites
+Faut voir ce que tu as demande comme tâche
+03/03/2025, 17:09 - +33 6 43 60 12 59: Création d'une application html...
+03/03/2025, 17:22 - +212 644-562660: Au fait y'a un outil qui vous lis les conditions d'utilisation et même avertit l'utilisateurs des termes cheloux. Faut juste entrer le nom du service et ça vous donne tout ce qu'il faut savoir en bullet points https://tosdr.org/fr
+03/03/2025, 18:43 - +33 6 11 30 29 26: Ce message a été supprimé.
+03/03/2025, 21:02 - Votre code de sécurité avec ~ Reda a changé. Appuyez pour en savoir plus.
+04/03/2025, 07:37 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+04/03/2025, 07:42 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+04/03/2025, 07:46 - Votre code de sécurité avec +33 6 74 05 09 80 a changé. Appuyez pour en savoir plus.
+04/03/2025, 07:53 - ‎+33 7 67 26 44 49 est parti·e
+04/03/2025, 07:58 - Votre code de sécurité avec +33 6 74 05 09 80 a changé. Appuyez pour en savoir plus.
+04/03/2025, 09:07 - +33 6 19 75 63 49: Bonjour, je ne crois pas avoir vu cela dans la discussion et je vous prie de m’excuser si cela a déjà été signalé, mais pour ceux qui s’intéressent aux agents AI (pas eu le temps de mon côté mais j’espère le trouver) Convergence a sorti un agent IA open source. Les résultats sur Coursera sont impressionnants je trouve (et inquiétants pour mes cours en ligne! Vraiment toute la pédagogie est à revoir!). Voici le lien https://convergence.ai/proxy_lite/

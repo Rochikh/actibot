@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 15
+
+=== CONTENU ===
+07/03/2025, 09:02 - +33 6 70 57 72 80: Cela pousse à une autre ingénierie
+07/03/2025, 09:04 - +32 483 60 53 96: D'où ma question de quelles les fonctionnalités trouvees les plus pertinentes et efficaces par les conseillers ou professeurs sur les LMS augmenté de l'IA?
+Ca permet de faire des master prompts qui sont (1) sous controle des utilisateurs, (2) seront utilises dans un environnement clean et securises, (3) pourront s'adapter aux besoins specifiques des professeurs.
+Exemple: j'ai recréé un master prompt pour un generateur de consignes de travail qui est inspiré de la fonctionnalité de Blackboard. <Ce message a été modifié>
+07/03/2025, 09:23 - Clément Cahagne: Si, ils sont extrêmement dangereux pour des gens non compétents dans le domaine de l’ingénierie pédagogique, ou des gens non avertis des limites des llm actuels.
+07/03/2025, 09:40 - Clément Cahagne: Pour répondre à ta question, voici mes top 3 des fonctionnalités ia que j'aimerais voir sur les lms boosté à l'ia.
+1. La possibilité pour le formateur ingenieur pédagogique ou concepteur de prompter lui même pour ne pas subir le system prompt du lms qui, à coup sûr, ne répond pas à tous les besoins de l'utilisateur
+2. ⁠une meta IA qui analyse tout ce qui est fait par l'utilisateur pour poser des questions et mettre l'utilisateur en posture réflexive par rapport à ses productions via l'ia.
+3. ⁠le tuteur lA basé sur les contenus de la plate-forme
+07/03/2025, 09:58 - +33 6 42 26 64 70: Pour les 2 et 3, il y avait à l’époque Professeurbob.ai qui bossait là-dessus…je crois qu’ils sont maintenant devenu Stelia.
+07/03/2025, 09:59 - +33 6 42 26 64 70: <Médias omis>
+07/03/2025, 09:59 - +33 6 42 26 64 70: <Médias omis>
+07/03/2025, 10:00 - +33 6 42 26 64 70: <Médias omis>
+07/03/2025, 10:00 - +33 6 42 26 64 70: C’est une solution qui s’intègre à votre LMS (c’est compatible moodle)
+07/03/2025, 10:04 - +33 6 42 26 64 70: Français et RGPD (normalement) et ils travaillent en étroite collaboration avec le recherche et éducation. Pour voir traité avec eux, c’est du très fiable et solide (enfin àç l’époque, c’était il y a deux ans..)

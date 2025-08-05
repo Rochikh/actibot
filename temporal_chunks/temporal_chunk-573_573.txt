@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 12
+
+=== CONTENU ===
+Utilisateurs plus jeunes: Les jeunes sont beaucoup plus susceptibles d'avoir utilisé l'IA générative, en particulier ChatGPT.
+Information et création de médias: Les gens utilisent l'IA générative principalement pour obtenir des informations (répondre à des questions, demander conseil) et créer des médias (texte, images, audio, vidéo, code).
+L'utilisation de l'actualité est rare: Seuls 5 % des personnes interrogées dans les six pays ont utilisé l'IA générative pour obtenir les dernières nouvelles.
+Attentes concernant l'impact de l'IA générative:
+Impact large anticipé: La plupart des personnes interrogées s'attendent à ce que l'IA générative ait un impact important sur divers secteurs, notamment les médias d'information (66 %), la science (66 %) et la politique (51 %).
+Moins de confiance dans certains secteurs: La confiance dans les institutions pour utiliser l'IA générative de manière responsable est généralement faible, en particulier pour les entreprises de médias sociaux, les médias d'information et les acteurs politiques.
+Impact personnel et sociétal mitigé: Une majorité s'attend à ce que l'IA générative améliore leur vie, mais beaucoup sont incertains. Les points de vue sur l'impact sociétal sont plus pessimistes, une minorité importante s'attendant à ce qu'elle aggrave les choses.
+Optimisme pour la science et les soins de santé: Les gens sont plus optimistes quant à l'utilisation de l'IA générative dans la science et les soins de santé.
+Pessimisme quant à l'actualité et à l'emploi: Un sentiment globalement négatif existe quant à l'impact de l'IA générative sur l'actualité et la sécurité de l'emploi.
+Perceptions du public sur l'IA dans le journalisme:
+L'utilisation de l'IA est perçue: Beaucoup pensent que les journalistes utilisent déjà l'IA pour des tâches telles que la correction, la rédaction de titres et l'analyse de données.
+Confiance limitée dans la surveillance humaine: Seulement environ un tiers des personnes interrogées pensent que les rédacteurs en chef vérifient les sorties de l'IA avant la publication.

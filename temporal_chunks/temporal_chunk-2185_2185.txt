@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 12
+
+=== CONTENU ===
+20/05/2025, 15:03 - ‎~ Christophe BAILLEUL a ajouté ~ Fanny
+20/05/2025, 18:27 - +33 6 85 68 80 93: Bonjour. (Je remercie Christophe de m’avoir ajouté à votre groupe, vos éclairages seront précieux.)
+Selon vous quelle est la meilleure IA pour générer des quizs (à partir d’un support, cours ou contenu partagé avec mes apprenants) pour une évaluation formatrice ?
+20/05/2025, 18:59 - Rochane: NotebookLM ( se base que sur le contenu),  Les modèles LLM comme Chat Gpt, Copilot, Claude, Mistral.peuvent le faire aussi puisque même dans leur version gratuite, ils acceptent de joindre des fichiers
+20/05/2025, 19:04 - +32 483 60 53 96: Chez nous pour ce cas d'usage specifique, on utilise wooflash et cest tres utilisé (1 etudiant sur 4)
+20/05/2025, 19:18 - ‎+33 6 73 53 45 40 est parti·e
+20/05/2025, 19:55 - +32 475 86 01 57: Et wooflash est gratuit pour les écoles. Tu peux aussi chercher "quizz wizard" qui est l outil utilisé par wooflash et qui est accessible gratuitement
+20/05/2025, 20:01 - Daniel Pappalardo: Et accessible via le GAR quand on demande les licences dans le cadre de TNE et on est RGPD dans ce cas précis. Sinon y a Quizizz dans le même genre.
+20/05/2025, 20:43 - Céline Averseng: Claude ou Chat GPT en précisant bien la cible et ce qu'on veut dans un 1er prompt puis 2d prompt pour créer le fichier d'import Moodle Gift ou Aiken (les plus rapide). Possible aussi en xml mais plus long. J'avais fait une présentation il y a quelques temps et un article sur Management & Datascience : https://management-datascience.org/articles/36943/. Je n'avais pas testé Claude à l'époque (il y a 6 mois) et c'est clairement mon préféré à présent...
+20/05/2025, 20:54 - Rochane: Ça mérite une petite démo en live 😁
+21/05/2025, 04:13 - Votre code de sécurité avec ~ Lolo a changé. Appuyez pour en savoir plus.
+21/05/2025, 07:25 - Jacques BARATTI: Vous pouvez utiliser (gratuitement) le GPT "QCM et Bloom" en suivant ce lien https://chatgpt.com/g/g-HuRI6Nw6Y-qcm-et-bloom. Il génère des QCM sur votre document, à divers niveaux de la taxonomie de Bloom (mémoriser, comprendre, appliquer,...) et donne un feedback pour chaque réponse (essentiel pour une évaluation formative). Il convertit vos questions au format "Gift" pour un transfert aisé dans Moodle

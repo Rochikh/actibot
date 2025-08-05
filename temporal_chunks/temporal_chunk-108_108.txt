@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 20
+
+=== CONTENU ===
+Résumés Intelligents : Mentionnez la fonction de résumés automatiques de Fireflies, qui aide à extraire les points clés et les décisions prises lors des réunion​
+​​
+​】.
+Compatibilité avec Diverses Plateformes : Rassurez-les sur la facilité d'intégration de Fireflies avec plusieurs applications de vidéoconférence et systèmes d'exploitatio​
+​】.
+Confidentialité et Sécurité : Assurez-les que la confidentialité et la sécurité des données sont prises au sérieux par Fireflies, ce qui est essentiel pour protéger les informations sensibles discutées lors des réunions.
+En mettant en avant ces avantages, vous pouvez aider à surmonter les réticences en montrant comment Fireflies améliore l'efficacité et la qualité des réunions.
+🌐 Sources
+fireflies.ai - Fireflies.ai | AI notetaker to transcribe, summarize, analyze
+fireflies.ai - Fireflies vs. Read.ai: Which Is Better?
+theprocesshacker.com - Fireflies vs Otter AI: Which AI Meeting Assistant is Better?
+avoma.com - Otter vs Fireflies: Comparison, Pricing & Alternatives
+bloks.app - The 8 Best AI Meeting Assistants for Summarizing Meetings
+clickup.com - 10 Best AI Transcription Tools To Try in 2023
+23/11/2023, 14:19 - Rochane: Pour ceux et celles qui n'ont pas Chat gpt plus ( version payante), j'ai expérimenté cet outil gratuit qui vous permet d'analyser des PDF, Word... Il est plutôt efficace https://chat.seekerchat.ai
+23/11/2023, 14:28 - Ahmadou Ba: Je viens de le tester mais il ne reconnait aucun de mes fichiers pdf ou excel
+23/11/2023, 14:28 - Ahmadou Ba: J'ai raté quelques choses ?
+23/11/2023, 14:29 - Rochane: Moi je lui ai mis un pdf et un Word, ça a bien marché. Essaie d'enregistrer ton excel en PDF ?
+23/11/2023, 14:34 - Ahmadou Ba: Effectivement j'ai téléchargé dans la mauvaise bibliothèque
+23/11/2023, 15:23 - +32 498 78 46 36: Hello, je ne sais pas si ce lien a déjà été posté mais voici le site de Sébastien Place (https://splc.be/) expert Microsoft Education qui met parfois (de + en +) le focus sur l'IA pédagogique <Ce message a été modifié>

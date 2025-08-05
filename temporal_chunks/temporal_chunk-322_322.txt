@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 17
+
+=== CONTENU ===
+22/03/2024, 15:48 - Rochane: Voici les informations essentielles tirées des résultats de recherche pour "http://pdoungtio.over-blog.net/article-33703318.html":
+Titre: INTEGRATION DES TIC DANS L’EDUCATION (fin) - STRATEGIE D ACCOMPAGNEMENT DU CHANGEMENT
+1. Modèle-synthèse de Carole Raby (2004) [[1]](http://pdoungtio.over-blog.net/article-33703318.html):
+- Le modèle propose un processus en quatre stades pour passer de la non utilisation des TIC à une utilisation exemplaire.
+- Les stades sont: sensibilisation, utilisation personnelle, utilisation professionnelle et utilisation pédagogique.
+- Les stades peuvent se chevaucher et ne se succèdent pas forcément l'un à l'autre.
+- L'utilisation pédagogique des TIC regroupe cinq étapes: motivation, familiarisation, infusion, exploration et appropriation.
+2. Obstacles à l'intégration des TIC dans le monde [[1]](http://pdoungtio.over-blog.net/article-33703318.html):
+- Le manque de fonds suffisants pour les technologies.
+- Le développement et la mise à jour de banques de ressources numériques.
+- L'indexation normalisée et la diffusion des ressources numériques.
+- La qualité et l'évaluation des ressources numériques éducatives.
+---
+Learn more:
+1. [INTEGRATION DES TIC DANS L’EDUCATION (fin) - STRATEGIE D ACCOMPAGNEMENT DU CHANGEMENT](http://pdoungtio.over-blog.net/article-33703318.html)
+2. [Formation et pratique enseignante des TICE dans l'enseignement de français aux cycles secondaire collégial et qualifiant](https://www.epi.asso.fr/revue/articles/a1909c.htm)
+3. [(PDF) École togolaise et numérique éducatif : vers la construction d’un modèle d’observation pour une intégration équitable des TIC dans le système éducatif togolais et des pays africains | Akouété Apedjinou - Academia.edu](https://www.academia.edu/100589273/%C3%89cole_togolaise_et_num%C3%A9rique_%C3%A9ducatif_vers_la_construction_d_un_mod%C3%A8le_d_observation_pour_une_int%C3%A9gration_%C3%A9quitable_des_TIC_dans_le_syst%C3%A8me_%C3%A9ducatif_togolais_et_des_pays_africains?uc-sb-sw=113818001)

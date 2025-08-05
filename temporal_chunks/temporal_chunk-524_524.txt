@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 14
+
+=== CONTENU ===
+16/05/2024, 20:32 - Ahmed Yagoubu: Je souhaiterais savoir comment digitaliser une formation ?
+16/05/2024, 21:24 - Jacques BARATTI: pouvez-vous donner le lien pour se connecter ?
+16/05/2024, 22:41 - +33 6 19 29 82 01: Alors il faut en discuter avec les Drane car on nous a interdit d'utiliser Google Educ ou l'offre de Microsoft. On a quand même un stockage hors UE donc non RGPD
+16/05/2024, 22:49 - Francois Bocquet: Le RGPD ne s’oppose pas du tout à des stockage hors UE. Il y a même une liste de pays adéquats qui intègre depuis juillet 2023 les USA. Il n’y a donc pas de problèmes de ce côté là. Cette argument est bien une infox. Ensuite il est possible de proposer des arguments militants ou protectionnistes pour empêcher les utilisateurs d’utiliser autre chose que les ENT…
+16/05/2024, 22:51 - Francois Bocquet: A ce jour et tant que l’EN ne propose pas de LLM avec des connexions passant par le DSI des ENT ou du GAR aucun service d’IA n’est utilisable en contexte scolaire sauf ceux accessibles depuis un compte Édu Microsoft ou Google Workspace ou des abonnements pro chez Adobe ou Canva. Aucun abonnement perso n’est utilisable en conformité RGPD en usage professionnel dans l’éducation en France.
+16/05/2024, 23:03 - +33 6 19 29 82 01: Ce message a été supprimé.
+16/05/2024, 23:10 - +33 6 19 29 82 01: Merci pour ces indications.
+16/05/2024, 23:11 - ‎+216 93 958 095 est parti·e
+17/05/2024, 05:22 - ‎+216 92 143 508 est parti·e
+17/05/2024, 04:58 - +689 89 60 06 24: Il y a de très bons modules du CNED Digitaliser vos formations
+https://www.cned.fr/qualifications-professionnelles/digitaliser-vos-formations
+17/05/2024, 07:20 - Pierrick BRIAND: Merci beaucoup Guillaume pour cette information, mais je tiens à attirer votre attention.
+L'AI Act doit encore être formellement approuvé par le Conseil de l'UE. La publication au Journal Officiel de l'UE est attendue entre mai et juillet 2024.
+L'AI Act entrera en vigueur 20 jours après sa publication et la plupart de ses dispositions s'appliqueront 24 mois plus tard, sauf :

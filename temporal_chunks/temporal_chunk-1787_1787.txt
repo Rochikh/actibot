@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 14
+
+=== CONTENU ===
+15/02/2025, 18:36 - Daniel Pappalardo: Gemini 2.0 flash
+15/02/2025, 20:07 - Adrien Bock IA: Source?
+15/02/2025, 20:22 - Daniel Pappalardo: Jusqu'en décembre on pouvait lui demander de'utiliser Gemini 2.0 en expérimental ou 1.5. Maintenant c'est 2.0 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.google/technology/google-labs/notebooklm-new-features-december-2024/&ved=2ahUKEwjQ2YCWs8aLAxU7TKQEHfz8FzUQFnoECCwQAQ&usg=AOvVaw3MkTV1BXPNaax_6mQbl4GD <Ce message a été modifié>
+15/02/2025, 21:15 - +41 79 258 90 36: Synthèse exhaustiveou petite astuce que j'utilise
+16/02/2025, 10:35 - Daniel Pappalardo: <Médias omis>
+16/02/2025, 10:35 - Daniel Pappalardo: <Médias omis>
+16/02/2025, 10:35 - Daniel Pappalardo: <Médias omis>
+16/02/2025, 10:37 - Daniel Pappalardo: <Médias omis>
+16/02/2025, 10:42 - Daniel Pappalardo: Un premier retour : il est un peu lent mais offre une protection des données et est vraiment très utile pour faire travailler les élèves en classe avec. Mais encore une fois sans certitude du RGPD. Cela dit on est sur un site ministériel avec tous les avertissements possibles sans compte et sans connexions préalables.
+16/02/2025, 12:04 - Francois Bocquet: Intéressant. Je vais regarder. Pour les usages pédagogiques je recommande vraiment Vittascience (https://fr.vittascience.com/ia/) qui est utilisable avec le GAR (donc conforme au RGPD sans discussion puisque sous responsabilité de traitement du Ministère et permet d’accéder à plusieurs LLM pour générer du texte et des images. Lien vers l’accès GAR à paramétrer par l’administrateur GAR de l’établissement https://fr.vittascience.com/gar
+16/02/2025, 13:39 - ‎+32 493 05 06 18 est parti·e
+16/02/2025, 14:24 - Votre code de sécurité avec ~ Sandra a changé. Appuyez pour en savoir plus.
+16/02/2025, 15:20 - +33 6 19 89 32 62: Oui je n’ai pas free mais je l’ai dit à tous mes amis ayant free et ça fonctionne même avec un petit forfait !
+16/02/2025, 15:47 - Rochane: Merci à @33662364404  pour ce partage https://media.licdn.com/dms/document/media/v2/D4D1FAQFjC2bZWPYyKQ/feedshare-document-pdf-analyzed/B4DZUJwj1wHwAY-/0/1739625491916?e=1740614400&v=beta&t=--yejJ770--NPYwl9zE34n6TMtZtgHwNDtyTy4K8ITU dont j'ai fait le résumé ici :

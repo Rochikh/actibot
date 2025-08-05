@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 22
+
+=== CONTENU ===
+Mon éditeur m'a dit que Amazon avait refait une commande du livre car déjà en rupture de stock
+15/02/2024, 13:26 - +33 6 84 84 42 61: Yep, avec plaisir
+15/02/2024, 17:04 - Cyril Divoul: SONDAGE  :
+Je suis actuellement une formation sur « L’IA au service des entreprises ». Le but est de comprendre l’IA, ML, DL, d’en comprendre les implications et d’aborder la gestion de projet. Souhaitez-vous en discuter ?
+OPTION  : Non, cela ne l’intéresse pas, je préfère parler des outils. (‎0 vote)
+OPTION  : Oui, pourquoi pas ? (‎5 votes)
+OPTION  : Oui et j’ai des questions (générales) (‎5 votes)
+15/02/2024, 18:05 - Guillaume Singeot: <Médias omis>
+15/02/2024, 18:07 - Rochane: Super Cyril, il y a un sondage dans le groupe Annonce pour proposer aussi ton partage. Merci 🙏
+15/02/2024, 18:07 - Rochane: Tu veux bien le partager mercredi prochain ?
+15/02/2024, 18:09 - Guillaume Singeot: j'ai du rater une info : il se passe quoi mercredi prochain ? ou ? quand ? avec qui ?
+15/02/2024, 18:09 - Rochane: Il y a un live, regarde le groupe annonce, surtout le sondage 🙂
+15/02/2024, 18:11 - Guillaume Singeot: c'est fait! tu veux un lien pour mercredi ?
+15/02/2024, 18:29 - Guillaume Singeot: Ce message a été supprimé.
+15/02/2024, 18:55 - Ahmadou Ba: bjr, qui connais un moyen ou un astuce pour diffuser  pour diffuser un module opale en ligne.
+15/02/2024, 18:59 - Guillaume Singeot: tu l'as sous quel format ? dispose tu d'un lms type Moodle ?
+15/02/2024, 19:07 - Ahmadou Ba: Ah c le problème, pas de lms de types moodle, ni serveur propre🤣
+15/02/2024, 19:09 - Guillaume Singeot: https://moodle.com/fr/solutions/moodlecloud/  Moodle en version cloud et gratuite?
+15/02/2024, 19:11 - Ahmadou Ba: Ah bon merci, j'avais installé Moodle en local pour faire mes test, mais je ne savais pas qu'on pouvais le déployer en ligne gratuitement.
+15/02/2024, 19:17 - Enes Cornelis: https://x.com/openai/status/1758192957386342435
+OPENAI sort un modele VIDEO, c’est INCROYABOE
+15/02/2024, 19:18 - Guillaume Singeot: Version limitée dans le temps (1 mois de mémoire) et sur la taille des fichiers qu'on peut déposer. Sinon, https://moodlebox.net/fr/

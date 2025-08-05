@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 24
+
+=== CONTENU ===
+04/02/2025, 14:50 - +33 6 30 73 41 57: Bonjour,
+Peut on générer un doc ou un pdf conforme à une requête en gardant les formulaires et caractères spéciaux ?
+Y a t’il un outil tiers pour ça ?
+Merci de vos réponses.
+04/02/2025, 14:53 - ‎+235 66 40 60 44 a rejoint le groupe à partir de la communauté.
+04/02/2025, 14:54 - ‎+32 476 99 47 74 a rejoint ce groupe grâce à son lien d’invitation
+04/02/2025, 15:52 - +32 498 78 46 36: Je le remets ici car je trouve que cet exercice de prompt (qui fonctionne en français) est top pour les débutants afin de leur montrer l'intérêt de la contextualisation ... concrètement.
+https://artsandculture.google.com/experiment/say-what-you-see/jwG3m7wQShZngw
+04/02/2025, 16:02 - ‎+32 495 25 73 66 a demandé à ajouter +33 6 99 49 97 19.
+04/02/2025, 16:09 - ‎~ Meilyn a ajouté +33 6 99 49 97 19
+04/02/2025, 18:25 - Votre code de sécurité avec +33 7 87 52 50 74 a changé. Appuyez pour en savoir plus.
+04/02/2025, 19:09 - ‎~ Guillaume DANIEL est parti·e
+04/02/2025, 20:23 - François JOURDE: Bonjour, j'ai manqué "Yannick: Modèle ABC Learning Design et lA pour des
+pédagogies diversifiées". Les diapos sont-elles accessibles ?
+04/02/2025, 20:28 - Rochane: Il va les partager
+04/02/2025, 22:13 - ‎+33 6 47 70 40 52 est parti·e
+04/02/2025, 22:34 - +44 7776 747507: Bonsoir, est-ce que quelqu'un pourrait remontrer la façon d'utiliser  "bit.ly" svp? J'ai trouvé sur le net mais c'est plus fiable quand c'est vous🙏🏼
+04/02/2025, 22:54 - Laurent The Cure: Bonsoir,
+Utiliser bit.ly pour faire quoi ? raccourcisseur d'URL ou création de QRCodes ? Autre ? <Ce message a été modifié>
+05/02/2025, 07:02 - Votre code de sécurité avec +41 78 748 45 97 a changé. Appuyez pour en savoir plus.
+05/02/2025, 00:46 - Gregoire IA: Dans ce cas pour faire corriger des copies il y a 2 pistes :
+la recommandation des premières heures, avoir une IA en locale
+Sinon, anonymiser les copies
+05/02/2025, 00:57 - +33 6 44 00 26 13: Bonsoir tout le monde. Où pourrais je faire un pitch pour présenter un rapide e-learning sur la CNV à un jury pour une certification svp ? En vous remerciant par avance

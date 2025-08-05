@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 16
+
+=== CONTENU ===
+https://youtu.be/MO0tpmt5kFI?si=wfLulf7maOjBmCJe
+04/05/2025, 11:25 - Ahmadou Ba: La seule que j'ai oas aimé c'est la mention de  " les sources disent ..." je vais mettre dans le prompt qu'ils evitent cela la prochaine fois
+04/05/2025, 12:26 - +32 498 78 46 36: https://www.francetvinfo.fr/internet/telephonie/skype-m-a-apporte-mon-couple-comment-le-doyen-des-logiciels-d-appels-en-ligne-debranche-lundi-a-change-la-vie-de-millions-d-internautes_7177887.html
+Article plus light du dimanche. Skype sera définitivement débranché demain. Quelle évolution rapide dans le domaine numérique depuis le modem 48hz au monde actuel des agents IA 😵‍💫 <Ce message a été modifié>
+04/05/2025, 14:42 - Votre code de sécurité avec +33 6 11 25 29 68 a changé. Appuyez pour en savoir plus.
+04/05/2025, 18:05 - Votre code de sécurité avec +33 6 32 56 35 32 a changé. Appuyez pour en savoir plus.
+04/05/2025, 18:30 - ‎+33 7 75 95 30 12 a demandé à rejoindre le groupe.
+04/05/2025, 20:59 - Votre code de sécurité avec ~ Ghofrane Lassoued a changé. Appuyez pour en savoir plus.
+04/05/2025, 22:43 - Votre code de sécurité avec ~ Nabil Gasmi a changé. Appuyez pour en savoir plus.
+04/05/2025, 23:11 - Votre code de sécurité avec ~ Nabil Gasmi a changé. Appuyez pour en savoir plus.
+05/05/2025, 00:21 - Votre code de sécurité avec ~ Ghofrane Lassoued a changé. Appuyez pour en savoir plus.
+05/05/2025, 09:38 - Batier Christophe: <Médias omis>
+05/05/2025, 10:02 - ‎+33 7 75 95 30 12 a rejoint ce groupe grâce à son lien d’invitation
+05/05/2025, 11:32 - +33 6 62 05 94 71: l'un d'entre vous a-til déjà tenté fructueusement de faire générer une enquête à soumettre à des nouveaux lycéens (i.e. 2nde) sur leurs usages scolaires et personnels de l'IA ? ce que j'ai obtenu avec ChatPGT et Gemini n'est pas très satisfaisant.
+05/05/2025, 11:35 - +32 475 86 01 57: Prompt?
+05/05/2025, 11:38 - +33 6 62 05 94 71: Génère une enquête à soumettre à des élèves de 15 ans entrant en seconde destinée à obtenir une vision globale de leurs usages des intelligences artificielles génératives d'abord dans leurs usages scolaires et leurs usages personnels. Inclus des questions sur leur impression de la pertinence de ces outils.

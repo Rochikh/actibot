@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 561
+Messages: 25
+
+=== CONTENU ===
+05/07/2024, 18:30 - ‎+33 6 32 20 02 28 est parti·e
+05/07/2024, 19:36 - +1 (514) 709-1726: <Médias omis>
+05/07/2024, 19:56 - +33 7 44 11 22 11: Ce livre est une pépite.🥰
+06/07/2024, 11:36 - ‎+33 6 20 69 82 20 a demandé à ajouter +33 7 71 10 77 25.
+06/07/2024, 13:36 - Guillaume Singeot: Help 😄 quels outils IA préconisez vous pour une création de vidéo ? (Prise en main rapide et en version gratuite, si possible interface en français. Vidéo explicative, de formation, etc..pas pour les réseaux ou pour la promotion)
+06/07/2024, 13:38 - +33 6 72 75 43 48: Bonne question je suis preneuse 😉
+06/07/2024, 13:38 - +32 493 87 42 05: Pictoty ai je crois
+06/07/2024, 14:59 - ‎+216 23 869 166 a demandé à rejoindre le groupe.
+06/07/2024, 15:58 - +222 46 48 18 36: Bonjour à tous, je viens de créer une application AI de traduction pour l'intégrer dans ma plateforme moodle dont voici le guide:
+https://websim.ai/c/34YzVH26fyhVGmGSr
+Je cherche l'avis des développeurs: quels risques?
+06/07/2024, 16:28 - ‎+33 6 20 69 82 20 a ajouté +33 7 71 10 77 25
+06/07/2024, 16:28 - ‎+216 23 869 166 a rejoint le groupe à partir de la communauté.
+06/07/2024, 16:30 - Rochane: Il y aussi un Gpt openai qui fonctionne bien : invideo
+06/07/2024, 17:05 - Lucie: Hello Guillaume.
+Il y a Pictory ou Visla. @33649535198 il y a plusieurs Bots qui s'appellent Invideo tu as le Link ?
+06/07/2024, 18:10 - Rochane: J'espère ne pas me tromper
+https://chatgpt.com/g/g-flgCdvoVQ-thumbnail-maker-4-0
+06/07/2024, 18:23 - Rochane: Non, c'est celui-ci ( à partir de la minute 7'42)
+https://youtu.be/xH0d4IqVQfk?feature=shared
+07/07/2024, 10:12 - ‎+216 23 869 166 a demandé à ajouter +49 176 21724804.
+07/07/2024, 11:19 - Votre code de sécurité avec +33 6 26 15 38 78 a changé. Appuyez pour en savoir plus.
+07/07/2024, 15:07 - ‎+216 23 869 166 a ajouté +49 176 21724804
+07/07/2024, 21:56 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+08/07/2024, 07:19 - Rochane: InternLM 2.5 7B, développé par le Shanghai AI Laboratory (financé par le gouvernement chinois) est léger, vraiment plus fort en math que les autres modèles open source et à une large fenêtre de contexte de 1 million de tokens : https://github.com/InternLM/InternLM

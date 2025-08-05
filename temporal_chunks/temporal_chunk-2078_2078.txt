@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 16
+
+=== CONTENU ===
+J'ai déjà essayé de transcrire une réunion Teams avec l'outil intégré et  quelle catastrophe ! (en meme temps je suis en Belgique et on ne lésine pas sur les accents 😁) <Ce message a été modifié>
+13/04/2025, 20:28 - +32 475 86 01 57: Copilot est vraiment à la ramasse...
+13/04/2025, 21:45 - +33 7 85 94 69 69: On est d'accord
+13/04/2025, 22:31 - Votre code de sécurité avec ~ Morgane Bencheikh a changé. Appuyez pour en savoir plus.
+14/04/2025, 07:31 - Vincent DROUOT: Oui… je donne des formations sur Copilot Pro et Copilot M365, sur le papier c’est beau (la théorie et les arguments marketing) mais dans la pratique la puissance n’y ai pas du tout !! C’est très décevant. Sans parler de la médiocrité du design des PowerPoint… 🤪
+14/04/2025, 07:33 - Vincent DROUOT: C’est ton compte Livestorm ? ou bien un replay que tu veux récupérer (dans ce cas là, il y a un soucis de droits d’auteur)
+14/04/2025, 07:34 - +33 6 72 75 43 48: Merci Vincent c’est un replay mais ce n’est pas pour réutiliser le contenu c’est pour aller à l’essentiel : j’ai 5 webinars en retard 😉
+14/04/2025, 07:36 - Vincent DROUOT: je comprends, ça m’arrive tout le temps 😉
+Tu peux utiliser une extension Chrome qui télécharge les videos d’une page web pour récupérer le MP4
+14/04/2025, 07:39 - +33 6 72 75 43 48: Merci beaucoup 😊 très bonne journée à toi
+14/04/2025, 07:44 - Rochane: Que penses-tu de copilot studio à plus de 200 euros par mois ?
+Trouves-tu vraiment que c'est aussi puissant qu'ils le présentent ?
+14/04/2025, 07:53 - Vincent DROUOT: C’est très décevant aussi… les reponses sont parfois incohérentes… pire qu’un GPT 3.5 lol et gros soucis de sécurité…
+Sur le papier c’est intéressant car connecté avec Power Platform - Power Automate.
+Mais la puissance n’y ai pas, surtout quand on est habitué à du GPT 4o et aux assistants et agents que l’on peut créer avec les outils Open AI
+14/04/2025, 08:11 - Rochane: J'arrive pas à comprendre avec tous les moyens de Microsoft qu'ils ont et ne sont pas capables de concurrencer les autres IA 🤔

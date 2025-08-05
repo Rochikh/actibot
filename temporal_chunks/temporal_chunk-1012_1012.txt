@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 22
+
+=== CONTENU ===
+30/09/2024, 08:11 - ‎+33 6 28 06 83 96 a demandé à rejoindre le groupe.
+30/09/2024, 08:27 - ‎+33 6 28 06 83 96 a rejoint ce groupe grâce à son lien d’invitation
+30/09/2024, 08:59 - Votre code de sécurité avec Meltem a changé. Appuyez pour en savoir plus.
+30/09/2024, 10:36 - ‎+33 6 16 85 87 26 a demandé à rejoindre le groupe.
+30/09/2024, 10:36 - ‎+33 6 16 85 87 26 a rejoint ce groupe grâce à son lien d’invitation
+30/09/2024, 10:38 - +33 6 49 84 08 41: Hello tout le monde, je lis pas mal de trucs ces derniers jours sur les API dans cette conversation... quelqu'un pourrait m'expliquer vite fait ce que c'est ? je ne suis pas sûr de comprendre ;) Merci !
+30/09/2024, 10:40 - +33 6 16 85 87 26: Slt, c'est un protocole qui permet d'intégrer l'IA dans une application, sans passer par la page du chat.
+30/09/2024, 10:41 - +33 6 49 84 08 41: ok, comme le code html d'une application tierce que tu mets sur ton site web quoi
+30/09/2024, 10:43 - +33 6 16 85 87 26: Oui et c'est dynamique
+30/09/2024, 10:45 - +33 6 49 84 08 41: merci
+30/09/2024, 10:50 - ‎+33 7 69 65 65 19 a demandé à rejoindre le groupe.
+30/09/2024, 10:51 - ‎+33 7 69 65 65 19 a rejoint ce groupe grâce à son lien d’invitation
+30/09/2024, 11:24 - Hoang: pour faire  le plus simple possible : imagine un cable (virtuel) qui permet à deux applications de communiquer entre elles, en gros. <Ce message a été modifié>
+30/09/2024, 11:51 - ‎+229 60 82 81 66 a demandé à rejoindre le groupe.
+30/09/2024, 13:32 - +221 76 125 29 15: Super intéressant
+30/09/2024, 13:35 - ‎+33 6 82 61 51 23 a demandé à rejoindre le groupe.
+30/09/2024, 13:36 - ‎+33 7 89 20 08 64 a demandé à rejoindre le groupe.
+30/09/2024, 13:53 - ‎+33 7 89 20 08 64 a rejoint ce groupe grâce à son lien d’invitation
+30/09/2024, 13:53 - ‎+33 6 82 61 51 23 a rejoint ce groupe grâce à son lien d’invitation
+30/09/2024, 14:01 - ‎+33 6 50 57 17 44 a demandé à rejoindre le groupe.
+30/09/2024, 14:40 - ‎+33 6 50 57 17 44 a rejoint ce groupe grâce à son lien d’invitation
+30/09/2024, 14:55 - Votre code de sécurité avec ~ Marie Anne Dupuis a changé. Appuyez pour en savoir plus.

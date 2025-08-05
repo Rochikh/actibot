@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 570
+Messages: 19
+
+=== CONTENU ===
+25/11/2023, 11:54 - Thierry VANOFFE: Bonjour, voici le lien d'un magazine consacré à l'IA et la DATA (interview de Rochane en page 40/41). C'est gratuit pour le télécharger : https://thierryvanoffe.com/telechargez-le-numerimag-6/
+25/11/2023, 12:03 - Laurent The Cure: Merci
+25/11/2023, 13:58 - Laurent The Cure: bonjour à tous. J'ai reçu cela dans  ma boite mail. Je partage au cas où.
+Laurent
+Formation sur les ressources d'IA pour l'enseignement avec International Open Academy (87% de réduction) https://www.groupon.fr/deals/international-open-academy-1901?utm_campaign=UserReferral&utm_medium=email&utm_source=deal_ita
+25/11/2023, 15:45 - +33 7 64 08 12 10: @33611028249  Le résumé produit est de bonne qualité, il propose un résumé des échanges, les actions à venir si elles ont été mentionnées et on retrouve une transcription complète des échanges. <Ce message a été modifié>
+26/11/2023, 08:36 - Rochane: Un prompt excellent (Pour Chat GPT plus) qui permet de créer des slides (Ppt, Google Slides....)
+Utilise code interpreter pour créer une présentation de type powerpoint avec ces [X] slides.
+Voici comment faire :
+- Pour chaque slide génère une image et ajoute le texte.
+- Une fois que les [X] images sont générées associe les à chaque slide.
+- Utilise code interpreter pour créer la présentation powerpoint.
+[TEXTE DE LA PRESENTATION]
+Exemple pour la Saga d'Open ai (j'ai trouvé le texte et je l'ai testé avec ce prompt)
+https://docs.google.com/presentation/d/1q2iD6UIueynzcInS7mRZ0950jBaFlu-6B-bQzmO8fJA/present#slide=id.p1
+26/11/2023, 08:40 - Thierry VANOFFE: Coucou partage la slide à toute personne disposant du lien.
+26/11/2023, 08:43 - Rochane: Ah je pensais que c'était chat GPt qui le fait. Finalement c'est nul 😁
+26/11/2023, 08:44 - Thierry VANOFFE: Excellent la slide ! Il patauge hélas toujours sur le texte des images … mais c’est déjà juste dingue .
+26/11/2023, 09:33 - Rochane: Petire astuce : Pour  accéder aux extensions de Google Bard, il faut faire une petite manipulation : va sur ton compte Google, clique sur “Informations personnelles” et sélectionne anglais dans la langue principale à la place de “français”. Puis va sur la page de Bard. Il faut ensuite activer chaque extension en cliquant sur la petite pièce de puzzle en haut à droite.

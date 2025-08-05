@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 25
+
+=== CONTENU ===
+22/09/2024, 19:12 - ‎+221 77 508 48 04 a rejoint ce groupe grâce à son lien d’invitation
+22/09/2024, 19:20 - +32 476 87 27 04: null
+22/09/2024, 19:47 - ‎+33 6 32 33 75 11 est parti·e
+22/09/2024, 20:12 - +689 87 78 58 86: <Médias omis>
+22/09/2024, 20:17 - Rochane: Je ne me souviens pas que Christophe Batier ait partagé une page Notion
+22/09/2024, 20:23 - +689 87 78 58 86: Je confonds peut-être, il y a tellement de ressources 😅
+22/09/2024, 20:33 - ‎+221 76 598 97 25 a demandé à rejoindre le groupe.
+22/09/2024, 20:45 - ‎+221 76 598 97 25 a rejoint ce groupe grâce à son lien d’invitation
+22/09/2024, 21:12 - Rochane: Mise à jour de toutes les infos à ce jour pour le bot de la communauté
+actibot.carrd.co
+22/09/2024, 21:19 - Benoit Groupe gPT: Merci @33649535198 vraiment génial ce bot !! 🙏
+22/09/2024, 21:21 - +32 479 58 54 12: Merci🙏 Dommage qu'il ne propose pas Napkin pour illustrer un texte 😉
+22/09/2024, 21:43 - Ahmed Yagoubu: null
+22/09/2024, 21:59 - +222 46 48 18 36: null
+22/09/2024, 22:05 - Votre code de sécurité avec ~ MR a changé. Appuyez pour en savoir plus.
+22/09/2024, 22:05 - Rochane: Tous les liens qui seront partagés ici sans explication, seront automatiquement supprimés. Merci 🙂
+22/09/2024, 22:11 - ‎+212 649-940385 a demandé à rejoindre le groupe.
+22/09/2024, 22:26 - ‎+212 649-940385 a rejoint ce groupe grâce à son lien d’invitation
+23/09/2024, 02:12 - ‎+33 6 08 33 93 87 est parti·e
+23/09/2024, 07:53 - +33 6 28 05 56 84: Ce ne sont pas des organisations commerciales privées contrairement à ceux qui proposent des outils IA.
+23/09/2024, 08:01 - Rochane: <Médias omis>
+23/09/2024, 08:04 - +33 6 49 95 38 23: Je mets le lien  vers segment anything 2 de Meta
+https://github.com/facebookresearch/segment-anything-2 il est possible de l'utiliser en conjonction avec Yolo.
+23/09/2024, 08:25 - Rochane: Tu peux expliquer stp à quoi ça sert 🙂?
+23/09/2024, 09:29 - +33 6 49 95 38 23: Comme l'a demandé @33672275791 , flouter des visages par exemple. Avec comfyui https://github.com/kijai/ComfyUI-segment-anything-2

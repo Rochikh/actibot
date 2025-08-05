@@ -1,0 +1,39 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 31
+
+=== CONTENU ===
+{{ARCHIVE_CONTENT}}
+</archive_content>
+Please follow these steps to complete the task:
+1. Carefully read through the entire archive content.
+2. As you read, identify the most significant and recurring themes related to AI and education.
+3. Pay special attention to:
+- Innovative ideas or approaches
+- Challenges and potential solutions discussed
+- Notable projects or case studies mentioned
+- Key debates or differing viewpoints within the community
+4. Extract the most important information, ensuring that you capture the essence of the discussions without losing critical details.
+5. Organize the extracted information into coherent sections or bullet points.
+6. Prioritize information that would be most valuable to new members joining the community.
+7. Ensure that your summary focuses primarily on the intersection of AI and education, as this is the main topic of interest for the community.
+8. Create a concise summary that fits within one page. This may require you to be selective and prioritize the most crucial information.
+9. Use clear and concise language, avoiding jargon or overly technical terms that might be unfamiliar to new members.
+10. Include a brief introduction explaining the purpose of the summary and its relevance to new community members.
+Please provide your summary within <summary> tags. Remember to keep it to a maximum of one page in length, focusing on the most important aspects of the AI and education discussions from the community archives.
+27/07/2024, 10:45 - Rochane: Vous avez supprimé ce message
+27/07/2024, 10:51 - Rochane: Voici le top 10 des outils cités dans la conversation WhatsApp, basé sur le nombre d'occurrences :
+ChatGPT: 338 messages
+Perplexity: 120 messages
+Gamma: 65 messages
+Claude: 55 messages
+Canva: 53 messages
+Google Forms: 46 messages
+DeepL: 35 messages
+Moodle: 34 messages
+Wooclap: 33 messages
+Notion: 28 messages
+Il est important de noter que cette liste est basée uniquement sur le nombre d'occurrences et ne reflète pas forcément l'utilisation réelle de chaque outil ni son importance pour la communauté.

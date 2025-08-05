@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 13
+
+=== CONTENU ===
+14/05/2024, 17:47 - +32 479 58 54 12: Ça c'est le cas depuis longtemps. Et toujours une voix très désagréable et monocorde.
+14/05/2024, 17:53 - Rochane: Oui mais la nouvelle n'est pas encore mise en vigueur
+14/05/2024, 17:53 - +33 7 85 94 69 69: Ouais sûrement j’ai jamais testé  qu’il me réponde par voix
+14/05/2024, 17:54 - Fred IA: Bonjour. De ce que j'en ai compris, les users payants peuvent utiliser gpt-4o jusqu'à 80 messages toutes les 3h. Et ensuite, ils peuvent basculer sur gpt 4 turbo. Tandis que les users gratuits ont une capacité de messages 5 fois plus petite sur gpt-4o ; et dès qu'elle est atteinte, ils peuvent basculer sur gpt 3.5
+14/05/2024, 18:22 - Fred IA: En complément : https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4-gpt-4-turbo-and-gpt-4o
+14/05/2024, 18:35 - Pierrick BRIAND: <Médias omis>
+14/05/2024, 18:39 - Pierrick BRIAND: Bonsoir Fred,
+Je me permets de compléter les informations que tu as partagées. J’ai interrogé directement la version  ChatGPT4o. Voici sa réponse :
+Sa capacité d'utilisation de tokens est alignée avec celle de ChatGPT-4.0, offrant les mêmes limites de 8 000 tokens par interaction standard, et jusqu'à 32 000 tokens pour les usages nécessitant des traitements plus importants.
+Sa limite d'utilisation en termes de tokens et, par extension, de mots (un token correspond à environ 4 caractères de texte en anglais, ou environ 0,75 mot), est équivalente à celle de ChatGPT-4.0. Cela signifie que les utilisateurs peuvent s'attendre aux mêmes capacités en termes de longueur et de complexité des interactions. <Ce message a été modifié>
+14/05/2024, 19:22 - Jacques BARATTI: merci Pierrick pour cette vidéo c'est très clair
+14/05/2024, 20:12 - Pierrick BRIAND: Cela peut vous intéresser !
+Le Conseil supérieur de l'éducation et la Commission de l'éthique en science et en technologie du Québec ont publié un rapport analysant les impacts de l'IA générative sur la formation, l'évaluation et le développement professionnel en enseignement supérieur.

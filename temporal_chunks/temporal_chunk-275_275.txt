@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 9
+
+=== CONTENU ===
+18H-19H (CET)- L’IA va telle sauver ou tuer l’éducation ouverte ? Alain Goudey & Bastien Masse
+La discussion abordera les liens entre l'intelligence artificielle et l'éducation ouverte, mettant en évidence les opportunités, les défis et les implications éthiques. Nous examinerons le rôle croissant de l'IA dans ce domaine, réfléchissant à son impact sur l'accès à l'éducation et l'autonomie des apprenants.
+Pour vous inscrire : https://app.livestorm.co/https-www-oeglobal-org/oeweek-2024-lia-va-t-elle-sauver-ou-tuer-leducation-ouverte-alain-goudey-and-bastien-masse?type=detailed
+06/03/2024, 17:26 - Guillaume Singeot: Oyez, Oyez ! Avis aux Normandes et Normands de cette communauté : Rejoignez Communotic et participez à https://communotic.normandie.fr/agenda/atelier-de-decouverte-lusage-doutils-dintelligence-artificielle-en-formation. Je vous laisse deviner qui anime cette journée qui s'annonce splendide et ensoleillée... 😉
+06/03/2024, 17:30 - ‎+33 6 35 32 61 27 a rejoint le groupe à partir de la communauté.
+07/03/2024, 07:31 - Rochane: https://korii.slate.fr/tech/intelligence-artificielle-performance-test-maths-serie-star-trek-jeu-role-chatbot-grand-modele-langage-ia
+L'article de Korii discute de la performance d'une intelligence artificielle (IA) dans un test de mathématiques inspiré par la série Star Trek. Cette IA, un grand modèle de langage similaire à un chatbot, a été mise à l'épreuve dans un contexte de jeu de rôle, démontrant ainsi ses capacités avancées. L'expérience souligne l'évolution et l'efficacité croissantes des modèles de langage dans des tâches complexes, illustrant leur potentiel dans des applications variées, y compris l'éducation et le divertissement.
+07/03/2024, 07:44 - +41 79 326 51 40: Bon pour l'instant, je trouve qu'elles sont bien loin d'être satisfaisantes en maths, même pour des calculs basiques. J'aimerais bien voir ce que ça donnera lorsque l'on "couplera" des ia de type nlp avec wolfram alpha par exemple...
+07/03/2024, 08:31 - Rochane: Tu as essayé le GPt Wolfram ?

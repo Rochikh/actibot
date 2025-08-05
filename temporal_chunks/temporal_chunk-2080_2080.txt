@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 15
+
+=== CONTENU ===
+🏆 https://www.univ-nantes.fr/universite/vision-strategie-et-grands-projets/deux-chercheurs-de-nantes-universite-recompses-par-le-prestigieux-prix-merlot
+Bonne semaine à toutes et à tous !
+14/04/2025, 10:24 - Imane IA: Bonjour, j'aimerais bien savoir si vous avez trouvé ou lu des travaux sur cette problématique : Comment l’intégration de l’intelligence artificielle générative dans la conception des plans de formation modifie-t-elle les pratiques professionnelles, les compétences requises et les postures des ingénieurs pédagogiques dans l’enseignement supérieur ?
+14/04/2025, 10:56 - +33 7 44 72 54 02: Voici une étude qui ne répond pas directement à ta question, mais qui s’en approche...
+https://collimateur.uqam.ca/a-la-une/quel-est-limpact-de-lia-dans-le-conseil-et-la-conception-pedagogique/
+Bonne journée.
+14/04/2025, 11:38 - StéphaneIA: Faut migrer sur Workspace 😊 pour le coup avec gemini 2.0 et 2.5 on va vraiment des chose sympa maintenant. Au début c'était un peu compliqué aussi.
+14/04/2025, 16:03 - +32 475 86 01 57: Ils ne sont pas pressés, leurs clients sont largement captifs... Pour l instant... je n arrive pas a digérer cette décision qui a été prise il y a deux ans dans mon école et contre mon avis de passer sur microsoft... Parce que la femme du directeur elle a teams et teams c est bien 😁
+14/04/2025, 17:34 - +32 498 78 46 36: <Médias omis>
+14/04/2025, 17:53 - Rochane: <Médias omis>
+14/04/2025, 17:56 - Sébastien Place: De ?
+14/04/2025, 18:06 - Rochane: Microsoft et l'IA ( voir un peu plus haut les échanges avec @33614272586 )
+14/04/2025, 18:13 - Sébastien Place: Ok, cool mais à ma petite échelle je ne suis pas certain d'apporter quelque chose d'utile dans la discussion.
+14/04/2025, 18:16 - +32 475 86 01 57: Je suis impatient de le voir jeudi en webinaire sur les chabot avec copilot 😁😇
+14/04/2025, 18:21 - Sébastien Place: Nan mais vraiment il fera beau normalement jeudi. Faut s'oxygener et prendre le soleil au lieu de rester encore devant un écran après les heures de travail. Ça n'en vaut pas la peine

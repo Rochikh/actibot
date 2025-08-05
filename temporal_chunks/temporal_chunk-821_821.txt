@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 546
+Messages: 15
+
+=== CONTENU ===
+16/08/2024, 08:22 - Vincent DROUOT: https://platform.openai.com/docs/supported-countries
+16/08/2024, 08:24 - +216 25 000 725: Ce n'est pas un blocage mais légèrement depuis la Tunisie nous n'avons pas la possibilité de payer en devise
+16/08/2024, 08:25 - +216 25 000 725: Ttes les IA déposent de version payante plus riche qui est payante
+16/08/2024, 08:28 - +212 644-562660: Ah je croyais avoir lu que le problème était plutôt d'ordre financier que technique. Mes excuses. Ceci dit essayez plutôt avec un vpn, proton vpn me semble utile
+16/08/2024, 08:28 - Rochane: Tu peux toujours te créer un compte sur Claude, Chat Gpt et maintenant, les versions gratuites ont quasiment les mêmes fonctionnalités que payantes sauf que c'est réduit en nombre de conversations. Après tu as une IA incroyable gratuite, illimitée qui est Gemini pro 1.5 en passant par cette interface
+https://aistudio.google.com/app/prompts/new_chat
+16/08/2024, 08:33 - +212 644-562660: Anthropic, pour ce que ca vaut, n'apprecie pas que ses utilisateurs utilisent des vpns dans sa plateforme. Alors attention si vous pensez à utiliser un vpn contourner ce probleme
+16/08/2024, 08:54 - Fabien IA: 🔥 IA ET ANTROPOCÈNE 🔥
+En entendant la matinale de France Inter de ce matin sur l’impact écologique de l’IA, m’est revenu en mémoire le travail de Jean Vioulac sur ce même antropocène. Quelqu’un a-t-il lu le premier tome des Métaphysiques de l’antropocène ? https://www.puf.com/metaphysique-de-lanthropocene-2
+16/08/2024, 21:05 - Votre code de sécurité avec ~ Bariza a changé. Appuyez pour en savoir plus.
+16/08/2024, 22:24 - Ahmadou Ba: Bonsoir,
+Qui connait une IA qui peut aider à créer des bandes dessinées pour enfant.
+16/08/2024, 22:31 - ‎+32 484 26 65 69 a demandé à rejoindre le groupe.
+16/08/2024, 22:36 - +237 6 56 90 71 30: Je suis preneur aussi...
+16/08/2024, 22:41 - Amadou GuisséIA: *Pixton* : est une plateforme qui permet de créer des bandes dessinées en ligne avec des outils simples et intuitifs. Bien qu'elle ne soit pas entièrement basée sur l'IA, elle offre de nombreuses fonctionnalités qui facilitent la création de bandes dessinées, en particulier pour les enfants. <Ce message a été modifié>

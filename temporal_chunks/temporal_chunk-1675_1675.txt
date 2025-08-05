@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 9
+
+=== CONTENU ===
+Pour les conseillers, techno pedagogues, enseignants ou meme chercheurs...
+Si ca existait deja, tant pis mais je veux bien vos references 🤗
+Dans la dynamique du partage de ressources ouvertes et pour pouvoir mesurer au mieux les impacts qu’on cherche à avoir avec ces dispositifs, ca me semble être un minimum.
+Est-ce que ca vous interesse ? (Si oui. Reagissez et je vous le partage)
+28/01/2025, 09:16 - Laurent The Cure: Bonjour Robin, je suis intéressé pour ma future activité de Formateur merci
+28/01/2025, 09:17 - Rochane: le live d'après demain est full mais si tu veux bien nous en parler au live de février, ce serait top !. Merci pour ton partage
+28/01/2025, 10:14 - StéphaneIA: Hello, j'ai fait quelques tests avec Mistral, je n'ai pas trop utilisé Le Chat mais de mes quelques tests j'ai trouvé que c'étaiot plutot bien. J'ai pricipalement utilisé mistral au travers d'un add-on worksapce que j'ai développé onleeAssistant qui permet d'utiliser lemodèles pour répondre à des emails, analyser des docs etc... J'ai bien aimé Mistral sur la partie Fr car je trouve qu'il s'exprime bien et sur la partie analyse je l'ai trouvé assez profond dans ce qu'il retournait. Par contre mon principalement souci est la performance de l'API. Les Add-ons workpace on un timeout de 45s et avec Mistral si trop de contexte ça répond trop lentement. Pour moi actuellement la principale barrière est le temps de réponses de l'api. Après on peut utiliser des API plus petite comme Pixtral 12B mais alors les réponses sont un cran en dessous, avec Pixtral Large si trop de contexte alors il met trop de temops. Pb que je n'ai aps avec Gemini et OpenAI, même si OpenAI est plus lent que Gemini.
+28/01/2025, 10:15 - StéphaneIA: J'espère que les avancés de Deepseek permettront à Mistral d'améliorer leur infra afin d'augmenter les performances. Si tel est le cas on pourrait avoirune belle solution Européenne pour concurrencer les autres modèles.
+28/01/2025, 10:20 - +33 6 13 73 04 14: Bonjour Robin, je suis intéressé par ta proposition. Merci et bonne journée

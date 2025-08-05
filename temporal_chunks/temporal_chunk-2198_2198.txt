@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 17
+
+=== CONTENU ===
+24/05/2025, 17:59 - +33 6 85 03 31 84: Avec un peu de retard par rapport à ce post,
+j’ai testé le mode *Stream* de *Google AI Studio* avec cette option "*partage d’écran*" sur Windows (option non dispo sur iPhone), utile notamment pour avoir de l’aide en *audio* sur ce que l’on est en train de faire à l’écran : ça marche plutôt bien et en plusieurs langues dont le français.
+CI-joint une vidéo qui décrit bien le cas d’usage :
+https://youtu.be/3yDiNZs41Z4 <Ce message a été modifié>
+24/05/2025, 19:26 - +32 498 78 46 36: Comme certains, j'avais été déçu de la mise à jour en français de stream (alors qu'en anglais il contextualise bcp mieux). Peut-être qu'il y a eu une màj si cela fonctionne mieux.
+24/05/2025, 20:05 - +33 6 85 03 31 84: C’est vrai que le peu que j’ai testé *en français*, il avait tendance à répondre à mes questions sans trop s’occuper de ce que j’affichais à l’écran, et, après lui avoir indiqué que sa réponse ne collait pas avec les options disponibles, il corrigeait sa réponse en tenant compte du contenu de mon écran <Ce message a été modifié>
+25/05/2025, 00:28 - ‎+33 6 87 28 13 42 est parti·e
+25/05/2025, 10:07 - +33 7 66 54 11 11: Pareil plutôt déçu par ma nouvelle version de Google Studio AI en mode streaming.
+En français la synchronisation ne se fait pas très bien et j'ai même eu de gros blancs.
+25/05/2025, 12:29 - Votre code de sécurité avec +33 6 03 76 76 88 a changé. Appuyez pour en savoir plus.
+25/05/2025, 14:21 - +32 498 78 46 36: Ce message a été supprimé.
+25/05/2025, 15:53 - estelle Duterage Drion IA: Bonjour en regardant mes gpt je tombe sur Sora mais je ne sais plus ce que c’est…
+25/05/2025, 16:04 - Fred IA: Bonjour. C'est un module de chatgpt  (plus) qui fait du text to vidéo (ou image to vidéo) <Ce message a été modifié>
+25/05/2025, 16:24 - estelle Duterage Drion IA: Ok
+25/05/2025, 18:53 - +33 7 75 95 30 12: Le bon reflexe: Demande à ChatGPT 😇
+25/05/2025, 19:02 - StéphaneIA: Ou une recherche Google 🙂 <Ce message a été modifié>
+25/05/2025, 19:28 - ‎+33 6 49 80 16 49 est parti·e

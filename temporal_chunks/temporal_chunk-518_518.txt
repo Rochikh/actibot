@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 13
+
+=== CONTENU ===
+16/05/2024, 11:44 - ‎+33 6 86 96 79 63 a rejoint ce groupe grâce à son lien d’invitation
+16/05/2024, 12:52 - +33 6 70 46 13 52: Salut la communauté, connaitriez-vous un outil qui permette la transcription écrite d'un entretien orale? (Exemple pour faciliter le travail dans le cadre d'un mémoire de recherche) outils gratuit de préférence. Merci par avance 😉
+16/05/2024, 12:53 - Clément Cahagne: Gladia ! Français en plus ;-)
+16/05/2024, 12:53 - Fabien IA: Tu dois avoir des contraintes en matière de confidentialité des données non ?
+16/05/2024, 12:56 - Guillaume Singeot: Dans le cadre d'entretien en physique, j' avais poser un micro sur la table et utiliser la   dictée vocale de Google docs . Ça demandait une relecture, la mise en forme, quelques corrections mais ça m'avait fait 90% de la retranscription
+16/05/2024, 13:17 - +33 6 25 79 50 95: Pour être vertueux jusqu'au bout, après avoir eu en amont l'accord de celles et ceux que tu as enregistré.e.s,  et que tu  souhaites disposer d'un outil de retranscription (audio vers texte) respectueux de la vie privée, alors tu peux tester https://scribe.cemea.org/
+16/05/2024, 13:18 - +33 6 25 79 50 95: Merci à Jacques Rodet : (source qui m'a permis de découvrir cet outil, parmi d'autres)
+16/05/2024, 13:19 - +33 6 25 79 50 95: Ce message a été supprimé.
+16/05/2024, 13:36 - Votre code de sécurité avec ~ Damien Van Achter a changé. Appuyez pour en savoir plus.
+16/05/2024, 13:46 - +33 6 70 46 13 52: Ce n'est pas pour moi, c'est pour les étudiants en M2. Mais en effet excellente remarque
+16/05/2024, 13:49 - Francois Bocquet: Service intéressant mais bien que le site indique respecter le RGPD ce n’est pas le cas puisque l’article 13 imposant une information complète des personnes concernées n’est pas respecté :-( Dommage car il n’y a pas grand chose à faire pour que les traitements soient conformes.
+16/05/2024, 13:49 - Francois Bocquet: En clair ce n’est pas du tout vertueux pour le moment…
+16/05/2024, 13:53 - Votre code de sécurité avec ~ Damien Van Achter a changé. Appuyez pour en savoir plus.

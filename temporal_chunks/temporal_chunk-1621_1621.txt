@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 563
+Messages: 13
+
+=== CONTENU ===
+Le chat en ligne je n'ai pas encore testé.
+21/01/2025, 18:47 - +33 6 52 73 73 42: J'ai fait un test rapide du chat en lui posant une question ... Le résultat n'est pas déconnant !
+21/01/2025, 18:56 - +32 483 60 53 96: Lm Studio: J'ai eu un call avec eux il y a deux semaines.
+Ils sont ouverts à réaliser des démonstrations.
+Ils proposent trois manières de deployer: installation sur les machines individuelles (comme un usage personnel), l’usage de LM Studio pour déployer le serveur local sur une machine et utiliser d’autres interfaces ou alors déployer sur des ordinateurs de la bibliothèque ou salle sur chaque compte utilisateur.
+Comme dit François, le mieux serait d'avoir un stockage en dehors de la machine.
+C’est à réfléchir et tester (j'espère pouvoir tester avec un groupe d’utilisateurs dans les prochaines semaines) <Ce message a été modifié>
+21/01/2025, 18:58 - +32 483 60 53 96: Lm Studio: l n’y a pas d’option professionnel ou "at work" comme ils disent. C'est juste un call de decouverte pour eux afin de faire un suivi plus proche.
+Je cite: on veut être le logiciel le plus sécurisé et facile d’utilisation pour dialoguer avec des LLM.
+Il avait également quelques exemples d’universités qui l’utilisaient en cours de méthodologie pour faire une initiation à l’ia aux etats unis. <Ce message a été modifié>
+21/01/2025, 19:03 - +32 483 60 53 96: Sujet détection IA : Les balises posées chez nous (UCLouvain) recommandent de ne pas s'appuyer sur l’option des outils de détection de production IA. Par contre l'usage de détection de plagiat reste très important.
+Exemple: il y a eu une détection de plagiat sur un groupe 7 élèves qui avaient poser le même prompt sur le même modèle avec la même idée sur un petit travail personnel de communication, il a eu une détection de plagiat entre les travaux. Trop similaire. La raison: ils ont eu une introduction à l’IA à l’heure juste avant et ils ont fait la même manipulation.
+21/01/2025, 19:06 - +32 483 60 53 96: Sujet détection IA : on préconise le re-questionnement du dispositif d'évaluation, mais aussi le principe de transparence (citer et exoliquer sa methode avec l’ia) et de conservation des traces pour le travail rendu, au cas où il y a une demande  explicite de l’enseignant.

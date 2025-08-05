@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 556
+Messages: 13
+
+=== CONTENU ===
+14/03/2025, 22:15 - +33 6 61 87 35 92: Je pars à Marseille demain samedi 15 à 8h. depuis La Bégude de Mazenc … si cela intéresse quelqu'un… contact en MP
+14/03/2025, 23:48 - +41 79 258 90 36: https://philogpt.vmirebeau.fr Un site permettant de dialoguer avec des philosophes mais aussi avec un professeur et un enfant, le tout sélectionnable par filtre, avec des sources. <Ce message a été modifié>
+15/03/2025, 08:08 - +33 6 51 51 98 20: Bonjour à tous. Connaissez-vous un outil pour extraire des images d'un pdf ? Merci
+15/03/2025, 09:11 - Rochane: Plusieurs outils en ligne permettent de le faire comme slallpdf je crois.
+Sinon, astuce qui pourrait marcher, renomme ton pdf en .zip et quand tu l'extrais, tu peux retrouver un dossier avec les images
+15/03/2025, 09:14 - +41 79 258 90 36: Je clique dessus et fait un copy/past de l'image. Souvent je transfère dans un logiciel gratuit pour améliorer les couleurs, par ex. IrfanView. <Ce message a été modifié>
+15/03/2025, 09:15 - Vous avez supprimé +1 (620) 945-9340
+15/03/2025, 09:28 - +33 7 87 38 87 69: Snagit de TechSmith
+15/03/2025, 09:31 - Rochane: actibot.replit.app a été mis a jour avec une nouveauté, je lui ai rajouté les dernières news de la semaine issues de ma  veille IA. Il suffit de lui poser la question 😉
+15/03/2025, 09:33 - Francois Bocquet: Publié par B Formet Gemini 2.0 Flash Experimental est un modèle en version beta disponible sur le « Ai Studio » de Google (https://aistudio.google.com/) : multimodal, il accepte plusieurs fichiers pdf, images, vidéos et audios en entrée. Gratuit et sans limites  https://www.uneiaparjour.fr/gemini-2-0-flash-experimental/
+15/03/2025, 10:32 - +33 6 51 51 98 20: Merci  tous . Je vais vite tester. Merci beaucoup et belle journée à  tous.
+15/03/2025, 10:48 - +33 6 67 46 43 54: Bonjour j’ai besoin d’un outil gratuit efficace  pour mettre  les vidéos des cours  qui sont que en anglais en français svp merci
+15/03/2025, 11:08 - Rochane: TurboScribe : Cet outil permet de transcrire et sous-titrer automatiquement des vidéos, avec une offre gratuite généreuse (3 transcriptions par jour de 30 minutes maximum). Il prend en charge plusieurs langues, ce qui pourrait t'aider à créer des sous-titres en français.

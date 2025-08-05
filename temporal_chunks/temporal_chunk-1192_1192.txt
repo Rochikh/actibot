@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 18
+
+=== CONTENU ===
+- les applications possibles (assistant pédago pour l'enseignant.e, tutorat individuel pour l'élève, pour piloter le système éducatif)
+- les usages actuels avec un pourcentage qui semble inversement proportionnel côté élèves Vs enseignants
+- Recommandations et scénarios pour intégrer l'IA dans l'éducation
+https://www.senat.fr/rap/r24-101/r24-101-syn.pdf
+06/11/2024, 10:36 - +32 479 29 01 81: Lucie, quel est le contenu et l’usage des cartes ?
+06/11/2024, 11:55 - Lucie: Bonjour Phil.
+Alors chaque livre est accompagné d'un outil didactique. C'est un peu mon approche bloom. Les livres sont sans les niveaux cognitifs 1&2 et les outils sont en niveau 3.
+Le livre 1 est sorti avec les cartes "Creativ'prompt" pour apprendre à prompter en prompt image.
+Le livre 2 est sorti avec "le plan promptable" pour apprendre à prompter en prompt texte.
+Les deux outils sont des "framework" qui donnent une méthodologie pour obtenir les meilleurs résultats en IA Gen.
+Les cartes contiennent le vocabulaire technique de l'image+ les tokens qui ont du poids + les visuels liés à chaque mot + l'ordre.
+Le plan promptable contient la méthodologie déclinée par métier/secteur de l'entreprise+ des exemples.
+Les deux outils ont une notice d'utilisation.
+Voilà ;)
+06/11/2024, 12:22 - +32 479 29 01 81: Merci Lucie pour cette description détaillée. Je vais commander et je te donnerai mon avis 🙏
+06/11/2024, 12:23 - +32 479 82 01 20: Moi qui cherchais de la lecture pour la fin de l'année...je crois que j'ai trouvé 😊
+06/11/2024, 12:26 - Lucie: Avec grand plaisir. 🙏
+06/11/2024, 18:05 - +33 6 79 02 09 95: Hello all, depuis que j’ai passé la Fresque des IA Pédagogiques en Creative Commons, il y a déjà une quinzaine de personnes qui sont devenues facilitatrices. Si vous même voulez le devenir et proposer la fresque à vos clients ou en interne, ou juste la vivre pour votre culture perso, je propose une dernière date en 2024. Ce sera le 17 décembre : https://my.weezevent.com/fresque-ia-pedagogiques. Au plaisir de vous y croiser :)

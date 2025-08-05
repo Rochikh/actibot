@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 11
+
+=== CONTENU ===
+Ceci n’empêche pas le problème de la correction linguistique cependant…
+Pour la formation et la conception on a largement intégré l’IA dès sa sortie, mais pour l’évaluation en *langues* a long terme je ne vois pas bcp de solutions…
+Mais on parle surtout d’outils dernièrement dans ce groupe, peut être que je suis hors sujet!
+28/10/2024, 08:30 - +33 6 19 75 63 49: Merci Grégoire. On est sur la même longueur d’ondes je pense pour ce qui est regard critique sur le contenu généré avec IA. Tu nous diras ce que ça donne!
+28/10/2024, 09:13 - +41 76 372 28 94: @33619756349 : Si jamais, avec https://educh.at qui est en open source et qui respecte maintenant à 100% la RGPD pour les élèves grâce aux feedback de François, vous pouvez offrir ChatGpt en classe aux élèves qui ne souhaitent pas se créer de compte.
+28/10/2024, 09:17 - ‎+33 6 02 20 69 43 a demandé à ajouter +33 6 07 22 81 91.
+28/10/2024, 09:19 - ‎~ MaxFavero a ajouté ~ Karen
+28/10/2024, 09:25 - +33 6 19 75 63 49: Merci c’est sympa! Je pensais plutôt aux objections relatives à l’impact environnemental mais ça me servira tout de même. En revanche je tombe sur une page de connexion avec adresse IP et je ne sais pas trop quoi rentrer!
+28/10/2024, 09:29 - +41 76 372 28 94: C'est pas gratuit car c'est moi qui paye pour mes élèves, donc je ne donne pas le mot de passe, mais j'offre les sources et volontiers des explications sur comment l'installer sur votre propre serveur à l'école ou ailleurs en désactivant la collecte des IP (qui se fait par défaut sur le serveur) pour rester conforme à la RGPD. Les sources sont ici : https://github.com/4nd4ny/EduChat-o1 <Ce message a été modifié>
+28/10/2024, 09:40 - +32 498 32 22 00: Heureuse de lire pour la première fois ici que d’autres (si j’ai bien compris de jeunes étudiants en plus) vivent aussi cette tension entre s’amuser, performer, être plus productifs et les impacts occasionnés par nos actions. Merci de l’avoir souligné !
+28/10/2024, 09:42 - +32 498 32 22 00: Des conseils par ici pour utiliser l’IA de manière « responsable » ?

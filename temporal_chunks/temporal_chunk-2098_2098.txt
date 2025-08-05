@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 10
+
+=== CONTENU ===
+La première partie explique comment utiliser la fonction Agents dans Copilot Chat mais le plus polyvalent se trouve en seconde partie avec une petite dizaine de "recettes" d'agents à caractère pédagogiques (vous pourrez sans nul doute les appliquer facilement) sur d'autres outils.
+Notamment un assistant de création de séquence selon la Taxonomie de Bloom, un assistant pour chercheur (thèse ou TFE), un assistant pour préparer des réunions parents élèves personnalisées ...
+Les agents sont aussi telechargeables directement sur la page si vous utilisez Copilot Chat en environnement Microsoft 365.
+https://splc.be/mes-agents-edu-pour-copilot-chat/
+19/04/2025, 11:39 - +33 7 86 61 52 66: J’ai exactement le même problème… qq aurait une astuce?
+19/04/2025, 12:21 - +33 6 81 41 67 96: Il faut simplement tester, retester, retester jusqu'à ce que ça marche. Il n'y a pas forcément de stabilité, mais ça marche. En étant, comme souvent, patient, même si on aimerait bien que ça marche en appuyant sur un bouton. Bon courage !
+19/04/2025, 12:22 - +33 7 86 61 52 66: Merci !! 🙏
+19/04/2025, 12:38 - Francois Bocquet: Très intéressant mais grande prudence quant aux données injectées pour scénarios meeting mentor. Cela n’est possible qu’à le dans un cadre RGPD parfaitement conforme car des données précieuses relatives aux élèves et à leurs familles sont traitées.
+19/04/2025, 13:02 - Sébastien Place: Oui tu as tout à fait raison. Dans le cadre présenté les données sont couvertes par le DPA associé aux licences Microsoft 365 de l'établissement. L'usage des prompts en dehors de ce cadre est à la responsabilité des professeurs et de l'institution.
+19/04/2025, 13:24 - Francois Bocquet: C’est ça. Si le traitement est inscrit au registre et que sles perzonnes concernées sont informées des traitements en plus de la signature du DPA c’est correct. Mais en dehors d’un tel cadre le traitement est complément illégal et risqué. La responsabilité administrative et pénale incombe au responsable de traitement (chef d’établissement) et les enseignants devraient être informés de l’illégalité d’un traitement de cette nature sans que le cadre soit stabilisé par celui ci.

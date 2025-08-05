@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 15
+
+=== CONTENU ===
+Nous devrions avoir un choix bcp plus facile voire qu’il le détecte automatiquement puisqu’il le fait déjà dans son mode de réponse dans les interactions.
+Je pense qu’ils sont sur le sujet d’où le blocage de l’ancien prompt. Mais comme ils ont lancé depuis peu la mindmap puis la fonction « sources » , ils distillent leurs effets de lancement.
+Merci en tous cas pour le nouveau hack ! Bonne journée à tous.
+29/04/2025, 10:19 - +33 6 62 17 05 18: Et si l’intelligence artificielle devenait un levier pour améliorer nos évaluations ? https://www.linkedin.com/posts/sandrine-decamps-4a875437_aria-helha-intelligenceartificielle-activity-7316385627350917121-1grv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQbqO0BVrAfqoSHTbfRm6EzvYd6GmxSKp0
+29/04/2025, 10:20 - +33 6 62 17 05 18: Replay + Les outils internes d'Intelligence Artificielle générative dans les établissements supérieurs : https://www.amue.fr/publications/actualites/details/replay-les-outils-internes-dintelligence-artificielle-generative-dans-les-etablissements-superieurs
+29/04/2025, 16:41 - Sébastien Place: ✍️ J’ai récemment publié un premier article dédié à la création d’agents IA pour aider les professeurs dans leur travail.
+Pour faire suite à cette première publication, je vous propose aujourd’hui le deuxième article de la série, inspiré notamment de mes collègues Geri Gillespy, Jethro Seghers, Ovi Barcelo et Carlos Fernandez avec de nouveaux agents dédiés cette fois aux usages des professeurs ET des élèves.
+Voici la liste des Agents proposés pour vous inspirer :
+- Assistant d’enseignement réciproque
+- Partenaire de coaching
+- Assistant de Newsletter de classe
+- Correcteur de copies manuscrites
+- Assistant d’histoire
+- BOT-A-SAURUS le Créateur d’Agents
+🙌 Dans cet article, vous trouverez à nouveau des instructions détaillées pour créer ces agents vous-même. J’ai également pris soin de vous fournir les 6 agents en téléchargement direct (voir mon précédent article pour apprendre rapidement comment les importer).

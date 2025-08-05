@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 14
+
+=== CONTENU ===
+03/12/2024, 08:59 - +33 6 64 50 56 67: Oui ça se fait en local. Les exports peuvent parfois comporter des erreurs.
+03/12/2024, 09:11 - +33 6 64 47 07 94: Équipe accessible type de licence sain gros potentiel de mise en partage des micros enseignements réalisés mais toujours en version 0.xxx.
+03/12/2024, 10:02 - +41 76 372 28 94: Ça me fait un peu penser à https://www.learnflow.ch/ui/home que je ne connais pas assez bien pour pouvoir vous dire les différences.
+03/12/2024, 10:33 - Jean-Marc Everard: Savez-vous s'il est possible de l'installer sur un serveur ailleurs ? Y a-t-il un Github ou quoi ?
+03/12/2024, 12:16 - +33 6 64 47 07 94: L'éditeur est en stand alone. Ce qui est développé s'exporte pour consommation depuis l'appli epoc.
+03/12/2024, 13:41 - Laurent The Cure: bonjour à toutes et à tous. Même si je ne suis pas très actif sur ce groupe, sachez que j'apprécie beaucoup vos échanges (qui me dépassent un peu parfois je l'avoues)
+j'ai besoin de votre éclairage.
+- par rapport à ma précédente question, ma fille et moi avons adopté Léo (Iamleo.ai) qui nous est très utile en abonnement illimité. Je vous en remercies !!
+- un autre besoin, qui me concerne un peu plus : J'ai une série d'une 30aine de PDF qui correspondent à mes notes de cours de formation elearning ou présentiel. J'aimerais pouvoir créer un outil qui irait chercher des réponses précises *dans ces notes* (et pas sur internet) pour répondre à des quizz (vrai faux), QCM (questions fermées) ou donner des bases pour un travail rédactionnel (exemple quelles sont les étapes pour créer un plan de formation ?). Est ce que NotebookLM est le meilleur outil pour cela ?
+merci d'avance
+03/12/2024, 14:12 - StéphaneIA: Pour le deuxième point notebookLM sera le mieux je pense
+03/12/2024, 19:29 - +33 7 84 33 02 62: IA & évaluation | bonjour pour celles et ceux intéressés par ce sujet, avez vous vu la ressource proposée par l’unil
+https://miro.com/app/board/uXjVLWSbC0Q=/ ? <Ce message a été modifié>
+03/12/2024, 19:35 - +33 7 84 33 02 62: @33662364404 je ne sais pas comment l’interpréter ? Au fait - je pensais que le référentiel IA pour les apprenants unesco avait été traduit en français… pas trouvé ;-(

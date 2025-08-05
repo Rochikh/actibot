@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 21
+
+=== CONTENU ===
+10/11/2024, 16:40 - Fred IA: 60 outils IA répartis par catégorie : https://www.uneiaparjour.fr/wp-content/uploads/2024/10/Selection-outils-uneIAparjour-1024.pdf
+10/11/2024, 16:40 - Fred IA: (Octobre 2024)
+10/11/2024, 16:49 - +33 6 19 75 63 49: Ceci peut t’intéresser https://youtu.be/4b7e8K795bE?si=5Kft0PaPmsEKjz1t
+10/11/2024, 17:06 - +33 6 34 25 63 34: Merci je vais regarder ça !
+10/11/2024, 17:15 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+10/11/2024, 17:15 - +33 6 34 01 06 77: Bonjour est-ce que vous pourriez me recommander des outils d’IA pour m’aider à créer une formation de A à Z?
+10/11/2024, 17:16 - Rochane: Teste un peu mon chat bot scenariocreator.rochane.fr
+🙂
+10/11/2024, 17:22 - +33 6 34 01 06 77: Okk je vais le tester merci 🙂
+10/11/2024, 17:26 - +33 7 88 34 34 08: null
+10/11/2024, 17:50 - Votre code de sécurité avec +33 7 67 58 67 55 a changé. Appuyez pour en savoir plus.
+10/11/2024, 18:41 - Letizia ALLEGRINI: Bonjour à tous est ce que quelqu'un aurait la version en français du référentiel de compétences ia pour les élèves de l UNESCO ? Merci encore
+10/11/2024, 18:43 - +33 6 43 10 07 29: Hello,
+Il y a déjà beaucoup d'éléments ici: https://www.unesco.org/fr/articles/ce-quil-faut-savoir-sur-les-nouveaux-referentiels-de-competences-en-ia-de-lunesco-pour-les-eleves-et
+10/11/2024, 18:44 - +33 6 43 10 07 29: Je crois qu'il n'est pas encore disponible en Français
+10/11/2024, 18:45 - Letizia ALLEGRINI: Merci ben j'avais espoir d'avoir la version intégrale mais vous avez sûrement raison 1😀
+10/11/2024, 18:45 - martinyemani IA: Affirmatif
+10/11/2024, 19:23 - martinyemani IA: Ce message a été supprimé.
+10/11/2024, 20:50 - Rochane: Pas encore sorti en français Letizia, il me semble
+10/11/2024, 20:52 - Letizia ALLEGRINI: Il me semblait aussi mais on ne sait jamais merci à tous
+11/11/2024, 08:00 - Rochane: Si vous voulez faire de l'analyse de données avec Chat Gpt, cette vidéo illustre bien la puissance de cette fonctionnalité

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 15
+
+=== CONTENU ===
+07/04/2025, 17:10 - +57 321 4039390: Ok merci,mais c'est pour que l'outil crée un questionnaire à choix multiple à partir de la vidéo...
+07/04/2025, 17:31 - +34 683 61 41 61: Nolej
+07/04/2025, 17:42 - +32 477 45 68 37: Quiz wizard ?
+07/04/2025, 18:12 - +32 498 78 46 36: NotebookLM fait effectivement bien cela
+07/04/2025, 18:20 - Gregoire IA: On parle de rediger les questions (et leurs rétroactions) ou... De les coder et générer une activité Interactive ? En bonus, l'activité doit-elle envoyer les resultats dans un LMS... Et si oui, lequel
+07/04/2025, 18:21 - Gregoire IA: NotebookLM fait la partie rédactionnelle mais pas le reste. Les llm leaders comme GPT, Claude ou Deepseek sont maintenant tous capables de coder et générer des app. La question est plus de savoir exactement ce dont on a besoin 😅 <Ce message a été modifié>
+07/04/2025, 18:31 - ‎+33 6 80 06 37 23 est parti·e
+07/04/2025, 19:02 - Votre code de sécurité avec ~ Eleonore a changé. Appuyez pour en savoir plus.
+07/04/2025, 22:48 - +33 6 72 75 43 48: Bonjour à tous , je cherche à créer des parcours de formation pour adultes qui soient interactifs et adaptatifs … comment le faire avec l’IA ? Quelles solutions ou méthodologies me conseillez-vous ? Merci beaucoup Michèle
+07/04/2025, 22:52 - Ahmadou Ba: A ce rythme bientôt, les élèves de l'élémentaire pourront rédiger leurs théses surtout pour certaines disciplines des sciences humaines, droit et litteraire. Et des thèses de trés grande qualité. 😅
+07/04/2025, 23:56 - Gregoire IA: Sans IA le LMS Moodle le fait
+07/04/2025, 23:58 - Gregoire IA: Publiée il y a 1 an, alors oui les outils ont évolué mais ce que je dis garde encore tout son sens... On peut encore mieux le faire et avec qques nouveaux outils comme notebook 🤗
+https://youtu.be/p5H8jVqUK8o
+08/04/2025, 08:03 - +33 6 72 75 43 48: Merci 🙏 bonne journée
+08/04/2025, 08:29 - +33 6 22 65 42 40: Bonjour à tous, je cherche un moyen d'évaluer des étudiants sur leur capacité à utiliser l'IA générative. Savez-vous s'il existe des outils / métriques permettant de faire cela ?

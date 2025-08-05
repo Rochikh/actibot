@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 15
+
+=== CONTENU ===
+3- est il techniquement possible
+4- est il financièrement jouable
+En général les personnes commencent par le 3 en insistant sur le choix d’un outil… et ce n’est pas la bonne approche en phase de déploiement ;-)
+19/04/2025, 13:28 - Francois Bocquet: La légalité renvoie au code de l’éducation et autres codes applicables, au RGPD et au RIA en vigueur depuis février dernier.
+19/04/2025, 13:38 - Sébastien Place: T'as vu, j'avance bien sur ma formation DPO 😊
+19/04/2025, 14:01 - Adrien Bock IA: Salut à tous, on fait un évènement justement autour de l’aspect juridique, RGPD, propriété intellectuelle,IA act etc.. Le 8 mai à Louvain-la-Neuve. À 18h30. C’est gratuit et on aura un avocat spécialisé qui a fait sa thèse de déjà il y a 10 ans sur la robotique.
+19/04/2025, 14:04 - Clotilde IA: Est-ce que ça sera aussi en ligne ? Ça serait chouette.
+19/04/2025, 14:26 - +33 6 72 75 43 48: Oui pour les provinciaux 😉
+19/04/2025, 15:30 - Francois Bocquet: Co-STORM : Obtenez un rapport de type Wikipédia sur votre sujet avec l'IA
+STORM est un prototype de recherche qui prend en charge la curation interactive des connaissances.
+https://storm.genie.stanford.edu/
+19/04/2025, 15:38 - Adrien Bock IA: Pour s’inscrire, c’est par ici : https://passpass.be/events/232/AI-Business-Hub-3
+19/04/2025, 15:39 - Adrien Bock IA: Si l’un d’entre vous souhaite intervenir et a de la valeur à partager, il reste une place 🙂
+20/04/2025, 10:07 - estelle Duterage Drion IA: Vous en pensez quoi de cet outil ?https://fr.plaud.ai/
+20/04/2025, 10:13 - +32 498 78 46 36: Je ne connaissais pas mais à première vue je ne comprends pas pourquoi ils inventent un hardware qui est natif dans n'importe quel smartphone. Pour ce qui est de l'appli et de l'IA, je susi dubitatif (comme toute IA de transcription vocale) car j'ai l'impression qu'il ne faut pas que plusieurs voix se superposent, que l'accent des personnes ne soit pas trop exotique, etc. Sinon il fait une transcription totalement folasse 😁 <Ce message a été modifié>

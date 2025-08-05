@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 17
+
+=== CONTENU ===
+16/08/2024, 22:24 - Ahmadou Ba: Bonsoir,
+Qui connait une IA qui peut aider à créer des bandes dessinées pour enfant.
+16/08/2024, 22:31 - ‎+32 484 26 65 69 a demandé à rejoindre le groupe.
+16/08/2024, 22:36 - +237 6 56 90 71 30: Je suis preneur aussi...
+16/08/2024, 22:41 - Amadou GuisséIA: *Pixton* : est une plateforme qui permet de créer des bandes dessinées en ligne avec des outils simples et intuitifs. Bien qu'elle ne soit pas entièrement basée sur l'IA, elle offre de nombreuses fonctionnalités qui facilitent la création de bandes dessinées, en particulier pour les enfants. <Ce message a été modifié>
+16/08/2024, 22:41 - +237 6 56 90 71 30: Merci 👍🏾
+16/08/2024, 22:42 - Amadou GuisséIA: Vous pouvez utiliser chat gpt pour générer des dialogues ou des scénarios et de bandes dessinées
+16/08/2024, 22:43 - Amadou GuisséIA: En associant cela avec des générateurs d'images IA, vous pouvez créer des bandes dessinées complètes.
+16/08/2024, 22:44 - Amadou GuisséIA: *MidJourney / DALL-E* : Ces outils d'IA peuvent générer des illustrations à partir de descriptions textuelles. Vous pouvez décrire une scène ou un personnage, et l'IA générera une image correspondante. Ensuite, vous pouvez assembler ces images pour créer une bande dessinée. <Ce message a été modifié>
+16/08/2024, 23:09 - +33 6 99 36 11 69: https://www.storywizard.ai/
+16/08/2024, 23:12 - Amadou GuisséIA: Très pratique 👍🏿
+17/08/2024, 07:27 - ‎+32 484 26 65 69 a rejoint ce groupe grâce à son lien d’invitation
+17/08/2024, 13:12 - Rochane: Hello, une petite expérience que je n'ai pas encore partagée. Il s'agit de la création d'une extension chrome qui permet d'obtenir les résumés de n'importe quelle vidéo youtube. J'ai commencé de Scratch et j'ai fait à l'arrache une vidéo de 2 minutes pour expliquer cette expérience 🙂
+https://youtu.be/iiPpvDVSec8?feature=shared
+17/08/2024, 14:01 - +33 6 76 07 83 70: Merci
+17/08/2024, 14:05 - Pierrick BRIAND: Whaou Merci Rochane.
+17/08/2024, 14:07 - Hoang: Est ce que la version de Claude free a suffit ou tu as la licence payante ?

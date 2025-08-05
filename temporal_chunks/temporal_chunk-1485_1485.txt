@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 553
+Messages: 19
+
+=== CONTENU ===
+30/12/2024, 11:40 - ‎+33 7 65 29 62 99 a rejoint ce groupe grâce à son lien d’invitation
+30/12/2024, 12:53 - ‎Mayeul IA Rougevin a demandé à rejoindre le groupe.
+30/12/2024, 15:03 - +33 6 77 78 84 93: Bonjour à toutes et tous ! Savez-vous si la version de chatGPT qui inclue un moteur de recherche est accessible gratuitement? Pour moi ce n’était que la version payante mais j’ai l’impression que la version gratuite le propose … je me trompe?
+30/12/2024, 15:07 - +33 6 72 75 43 48: Oui
+30/12/2024, 15:09 - +33 6 71 11 12 91: Oui, c'est gratuit (et non "oui,  je me trompe")
+30/12/2024, 15:26 - ‎Mayeul IA Rougevin a rejoint ce groupe grâce à son lien d’invitation
+30/12/2024, 15:31 - Rochane: Je vous recommande la communauté IA de Mayeul Rougevin ainsi que sa chaîne Youtube 😀
+https://www.skool.com/ia-mastery
+30/12/2024, 15:40 - +41 79 258 90 36: Je confirme. Je me suis abonné aujourd'hui. Ensuite inscrivez-vous sur le GPT Prompt IA Expert de Blow Doc qui élabore des prompts optimisés.
+30/12/2024, 15:40 - +33 6 19 04 48 10: Ce message a été supprimé.
+30/12/2024, 15:56 - Rochane: Je viens de tester les CGU de Deepseek qui est la nouvelle IA Open Source et avec le prompt CGU, on obtient le résultat suivant
+### Analyse des traitements de données
+#### 1. Évaluer la proportionnalité des collectes de données
+**⚠️ Constat:**
+La politique de confidentialité de DeepSeek collecte une large gamme de données, y compris des données personnelles sensibles telles que les données d'identification, les données d'interaction avec les chatbots, les données de paiement, etc.
+**📝 Explication:**
+DeepSeek collecte des données à partir de plusieurs sources, y compris les informations fournies directement par l'utilisateur, les données collectées automatiquement (comme les adresses IP, les identifiants de périphériques, etc.) et les données provenant de tiers (comme les partenaires publicitaires et les réseaux sociaux).
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs européens devraient s'inquiéter de la large gamme de données collectées, car cela peut entraîner une utilisation excessive de leurs données personnelles, ce qui est contraire au principe de minimisation prévu par le RGPD.

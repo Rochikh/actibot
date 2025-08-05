@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 16
+
+=== CONTENU ===
+Alors je me dis que c injuste que je forme des enseignants qui forment leurs élèves sans que je forme les miens alors que je suis dans une autre académie.
+20/01/2024, 17:22 - Lucie: Ma préconisation : fais leur remplir une fiche d'usage pour travailler leur pensée critique. Comment ont ils utilisé l'IA. Apports. Limites. Etc...
+20/01/2024, 17:24 - Ahmadou Ba: oui mais je doute que bcp le connaisse déjà, quand j'en ai référence en classe j'ai l'impression qu'ils ne connaissent pas. D'ailleurs bcp d'enseignant ne le connaissais pas lors de ma formation
+20/01/2024, 17:26 - Lucie: Oui c'est pour ça. Cette fiche est comme un rapport d'étonnement. Imagine que c'est une classe découverte ;) ils restent et écrivent leurs découvertes. Que sait il faire ? Quelles sont ses lumites. Que puis je faire avec ? Est-ce, ce que je que peux faire avec est bien ou mal etc ?
+20/01/2024, 17:29 - Ahmadou Ba: ah vous proposez d'abord une sorte d'évaluation diagnostique pour faire l'État des lieux avant de me lancer. Merci pour bcp
+20/01/2024, 17:51 - +32 496 53 14 94: J'ai commencé avec un wooclap… 50% des étudiants n'avaient jamais utilisé l'IA (cadres de santé).
+20/01/2024, 17:53 - +32 496 53 14 94: Voici une copie de ma scénarisation. https://nathaliezandecki.notion.site/sc-narisation-cours-IA-05c31d666048479e8499989c3c631020?pvs=4
+20/01/2024, 17:54 - Ahmadou Ba: Merci beaucoup.
+20/01/2024, 17:57 - Ahmadou Ba: J'ai jeté un rapide coup d'œil mais c bien structuré. Merci je m'y pencherai davantage.
+20/01/2024, 18:21 - Rochane: Merci pour le partage Nathalie, très intéressant et très inspirant
+20/01/2024, 18:23 - +32 496 53 14 94: Avec plaisir...
+20/01/2024, 19:29 - Votre code de sécurité avec +33 6 24 47 73 06 a changé. Appuyez pour en savoir plus.
+21/01/2024, 12:38 - Jacques BARATTI: Super un grand merci pour le partage 👍
+21/01/2024, 17:29 - ‎+33 6 87 86 78 87 a rejoint le groupe à partir de la communauté.
+22/01/2024, 10:18 - +33 6 88 57 53 04: Bonjour
+Avec la version 3.5 de chat gpt, je souhaiterais obtenir des réponses sous la forme d'une synthèse vocale (si possible, sans avoir à faire des copier/coller dans un autre outil à chaque fois).

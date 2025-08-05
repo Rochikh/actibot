@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 11
+
+=== CONTENU ===
+11/03/2024, 08:45 - ‎+33 6 20 97 18 83 a rejoint le groupe à partir de la communauté.
+11/03/2024, 11:13 - Clément Cahagne: Bonjour à tous ! Si jamais cela vous intéresse, voici un gpt pour affiner l’écriture d’obj pédagogiques.
+Encore en test de mon côté, mais si vous souhaitez m’aider et le tester vous aussi, voici le lien
+https://chat.openai.com/g/g-f9PVJF4Of-l-affineur-d-objectifs-pedagogiques
+11/03/2024, 11:21 - Rochane: un peu violent la note de / que j'ai obtenue 😁
+11/03/2024, 11:26 - Rochane: 0/10 , je voulais dire mais sinon c'est top la sensibilisation aux verbes de Bloom et il m'a bien corrigé pour le verbe comprendre qui n'est pas considéré comme un verbe de Bloom....
+11/03/2024, 11:48 - Clément Cahagne: Je lui ai demandé un peu de violence dans sa notation en effet, sur demande du client 😀
+11/03/2024, 12:19 - +237 6 90 60 45 17: Merci
+11/03/2024, 16:36 - Jacques BARATTI: Bonjour Clément. J'ai testé le GPT sur une UE d'AMU faite en distanciel synchrone sur les pédagogies actives et le tutorat. On a une note globale entre 3 et 4 (sachant qu'on est noté sur 8 car nous n'avons pas d'évaluation). Les retours sont extrêmement pertinents par rapport aux verbes de Bloom à utiliser et au fait que l'objectif doit être observable et mesurable (ce que l'on oublie assez facilement). Le top c'est qu'il propose une version optimisé. Bravo ! Seule petite observation on a mis "à la fin de cette séquence l'étudiant sera capable de…" et une liste d'objectifs, il a tendance a comprendre que c'est un seul objectif et du coup il dit qu'il y a plusieurs verbes d'actions pour un objectif mais ce détail est mineur. Encore bravo. Tu nous diras quand il est disponible que l'on puisse le diffuser ?
+11/03/2024, 16:42 - Clément Cahagne: Un grand merci pour ce retour. Super. Je suis d'accord sur l'observation, j'ai du mal à contraindre quand un utilisateur copie colle plusieurs objectifs.
+11/03/2024, 20:05 - +33 6 76 04 48 20: Est-ce que la réunion a commencé ? Parce que Zoom me dit qu’on est en attente de la connexion de l’hôte…

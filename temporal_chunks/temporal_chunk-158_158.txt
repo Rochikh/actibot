@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 19
+
+=== CONTENU ===
+Qui a testé cette IA, elle propose de belles choses en éducation
+https://app.curvedo.com/dashboard
+10/01/2024, 21:25 - Ahmadou Ba: jetez un coup d'oeil au tableau de bord
+10/01/2024, 21:26 - Ahmadou Ba: il parait qu'il y a un nouveau plan d'équipe sur ChatGPT à 25 $par mois
+11/01/2024, 08:38 - Jacques BARATTI: <Médias omis>
+11/01/2024, 13:04 - Rochane: https://www.linkedin.com/posts/jcoutou_scoop-chatgpt-lance-team-pour-les-entreprises-activity-7151100984046362624-ctEw?utm_source=share&utm_medium=member_android Très bon post au sujet de chat gpt entreprise
+11/01/2024, 13:20 - +32 470 11 45 36: je vois une "bulle" à coté de certains gpt. comme un commentaire. qqun sait comment les visualiser?
+11/01/2024, 21:07 - ‎+33 6 32 20 02 28 a rejoint le groupe à partir de la communauté.
+11/01/2024, 21:09 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+12/01/2024, 07:08 - Votre code de sécurité avec +32 497 17 83 17 a changé. Appuyez pour en savoir plus.
+12/01/2024, 14:12 - Rochane: https://youtu.be/EERI0tMELQk?feature=shared Vraiment intéressant cette vidéo sur les GPT
+12/01/2024, 14:57 - ‎~ Steve est parti·e
+12/01/2024, 16:39 - +33 6 18 81 55 47: https://lms.fun-mooc.fr/courses/course-v1:inria+41032+session01/info
+12/01/2024, 17:28 - +234 916 194 1836: null
+12/01/2024, 22:59 - +237 99148639: null
+13/01/2024, 01:17 - ‎+33 6 27 83 22 20 a rejoint le groupe à partir de la communauté.
+13/01/2024, 09:42 - Rochane: Si vous voulez utiliser midjourney, c'est vraiment une belle pratique https://generationia.flint.media/p/reinventez-vos-prompts-pour-exploiter-puissance-midjourney-6
+13/01/2024, 10:37 - Rochane: Hahaha en 2 minutes, paroles dans chat gpt et musique dans Suno Listen to Pythagore on Suno! 🎵 https://app.suno.ai/song/147edaab-ebbc-4477-8d26-711cffc57e19
+13/01/2024, 10:47 - Laurent The Cure: La question que je me pose est : doit on obligatoirement lui parler dans la langue de Shakespeare ? Traduire du Balzac en anglais n'est déjà pas chose aisée. Chatgpt me direz vous ? Of course, my dear ! Bryan is still in the kitchen dealing with the pudding in the fridge.

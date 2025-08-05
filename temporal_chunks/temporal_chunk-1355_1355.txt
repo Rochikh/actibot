@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 17
+
+=== CONTENU ===
+28/11/2024, 12:32 - ‎+33 7 63 32 49 64 est parti·e
+28/11/2024, 12:45 - ‎~ Loly a ajouté ~ Jordi Santos
+28/11/2024, 13:29 - +32 483 62 49 50: Bonjour, merci de m'avoir acceptée dans la communauté 🙂 j'ai rencontré Rochane hier à louvain la neuve, c'est comme ça que je me suis dit : top, ça a l'air super intéressant 👍 belle journée 🌞
+28/11/2024, 18:37 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+28/11/2024, 19:09 - Fred IA: Audition de Clara Chappaz du 26/11/24. https://youtu.be/uSnzBZLZ7J4?si=J0Wbq-aBZWpCqPPh
+28/11/2024, 21:01 - ‎+33 6 15 37 23 28 est parti·e
+28/11/2024, 21:06 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+29/11/2024, 04:56 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+29/11/2024, 06:40 - Jean-Marc Everard: Bienvenue, je vous suis effectivement depuis un moment, chouette que vous ayez rejoint la communauté.
+29/11/2024, 06:45 - Jean-Marc Everard: J’arrive comme les carabiniers d’offenbach mais Twitter : @jmeprof (https://x.com/jmeprof) , Bluesky : @jmereve.bsky.social
+29/11/2024, 08:49 - +33 6 50 57 17 44: Je connaissais pas cette expression !! 😂🥁🎺🎻
+29/11/2024, 09:06 - Jean-Marc Everard: Ouiii! Pour le revival des expressions  saperlipopette 😂! Ca va être abracadabrantesque !
+29/11/2024, 09:06 - Jean-Marc Everard: des expressions désuètes voulais-je écrire
+29/11/2024, 09:18 - Rochane: Sur notebook lm, pour avoir un podcast en français, il faut personnaliser avec ce hack ( différent de celui que l'on a posté)
+*This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…*
+29/11/2024, 09:24 - martinyemani IA: Comment amener Notebook à prononcer les sigles?
+29/11/2024, 10:15 - Teodorina Tiba: Je n'ai pas de réponse pour Notebook LM mais en testant la génération des sous-titres avec Whisper j'ai eu l'agréable surprise des sigles et autres éléments exotiques ( formules chimiques) parfaitement générés

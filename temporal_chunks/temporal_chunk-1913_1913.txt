@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 13
+
+=== CONTENU ===
+06/03/2025, 22:32 - +33 6 42 26 64 70: Beaucoup de ressources pour apprendre à utiliser Moodle sont disponibles et la communauté très réactive
+06/03/2025, 22:33 - Laurent The Cure: les évaluations seront formatives pour les différents outils IAG existant (quiz kahoot pour classement des IAG les plus connues suivant leurs catégories par exemple), et entre pairs : ils devront soumettre leurs créations aux autres (groupes ? si beaucoup de personnes)
+06/03/2025, 22:33 - Gregoire IA: Je monte des.moodle en 10 jours, intégration des parcours.inclus. d'ici cet été cela aurait un luxe que j'aimerais avoir plus souvent 😅
+06/03/2025, 22:33 - +33 6 42 26 64 70: Et en choisissant Moodle, vous choisissez un LMS pérenne et utilisé par beaucoup de monde
+06/03/2025, 22:34 - Laurent The Cure: c'est une démarche volontaire, bénévole avec pour but de partager mon apprentissage avec eux et leur donner envie
+06/03/2025, 22:34 - +33 6 42 26 64 70: Pour cela Moodle intégre l’activité Atelier, très pertinente !
+06/03/2025, 22:35 - +33 6 42 26 64 70: Je parle de l’évaluation par les pairs
+06/03/2025, 22:35 - Gregoire IA: A priori les plugins vanilles - cad déjà intégrés - devaient faire l'affaire. Atelier pour les evales par les pairs est top en effet.
+06/03/2025, 22:35 - Laurent The Cure: je suis en cours d'élaboration de mon SPD
+06/03/2025, 22:36 - Gregoire IA: H5p est une bonne alternative si on ne veut pas aller avec des logiciels auteurais attention pour le suivi des apprentissages. C'est assez faible. Pour ça que je préfère rester avez Test... Moins beau mais tellement plus aidant pour le.suivi des traces d'apprentissage
+06/03/2025, 22:37 - +33 6 42 26 64 70: H5P pour le côté sexy et intégrable dans les pages, et Test pour le sommatif
+06/03/2025, 22:38 - Gregoire IA: Il faut vérifier si vous avez besoin de gérer des groupes de travail. Certaines versions de Moodle ont maintenant besoin  d'installer le plugin pour créer les groupes
+06/03/2025, 22:38 - +33 6 42 26 64 70: Ne pas non plus passer à côté des open badges qui fonctionnent très bien pour la valorisation et motivation

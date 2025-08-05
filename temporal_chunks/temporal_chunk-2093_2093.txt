@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 11
+
+=== CONTENU ===
+18/04/2025, 07:02 - +33 6 64 50 56 67: Un extrait d'un article : Vendre des « notebooks » : le projet du créateur de NotebookLM
+D’ici la fin de l’année 2025, l’équipe derrière NotebookLM a un grand projet : développer un modèle commercial. Son idée est de vous permettre de vendre un « notebook » avec un accès à un grand nombre de sources, de notes et un chatbot entraîné sur un sujet spécifique. On peut imaginer un coach sportif virtuel par exemple.
+« On veut faire des notebooks un nouveau moyen de distribution. Au lieu de simplement publier des livres ou des articles, tu pourrais réunir des ensembles de sources, de notes et de lectures, puis vendre ces notebooks », révèle à Numerama en avant-première le concepteur du service.
+18/04/2025, 08:50 - +33 6 88 84 60 60: Vendre un notebook avec les sources des autres, cela ne va pas poser de problème au niveau des droits d'auteur ?
+18/04/2025, 08:59 - +33 6 64 47 07 94: Certainement à moins que les sources soient en licence CC qui l'autorise.
+18/04/2025, 10:18 - ‎+33 7 67 58 67 55 est parti·e
+18/04/2025, 10:22 - +33 6 17 70 40 43: Ce message a été supprimé.
+18/04/2025, 10:28 - +33 6 17 70 40 43: Bonjour a tous, je vous écris car je me souviens d’avoir vu passer des icones pour indiquer à l’étudiant si l’utilisation de l’IA était autorisée. De mémoire il y’avait trois icone/ logo. A tout hasard, quelqu’un aurait ces icones à disposition. Car je viens de remonter la conversation impossible de remettre la main dessus. D’avance merci et bonne fin de semaine à tous
+18/04/2025, 10:36 - Clément Cahagne: Je ne sais pas si tu parles de cette échelle : https://github.com/jourde/echelle-evaluation-avec-IA
+18/04/2025, 10:44 - Jean-Marc Everard: très belle explications sur l'IA. Pour le podcast de notebookLM, il m'est arrivé la même mésaventure en démo il n'y a aps longtemps. je vais tester les meilleures façon de retrouver nos hosts francophones au léger accent préférés... Merci en tout cas et super boulot !
+18/04/2025, 10:48 - Jean-Marc Everard: <Médias omis>

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 17
+
+=== CONTENU ===
+15/02/2024, 09:52 - Rochane: https://youtu.be/M4R7IjUounI?feature=shared
+15/02/2024, 09:52 - +33 6 20 35 46 24: excellent je suis justement en train de la regarder7
+15/02/2024, 09:59 - +34 618 97 47 94: Bonjour à tous,
+Merci pour tout ces partages, c’est intéressant de voir comment et quels outils vous utilisez le plus.
+Je m’appelle Gaëlle Collas, expatriée à Barcelone, je vais donner une formation sur l’intégration de l’IA dans l’éducation du 18 au 22 mars à Barcelone.
+Elle est financiée par Erasmus
+https://dorea.org/erasmuscourses/integrating-ai-in-education/
+Si ça vous intéresse il reste des places.
+Mais surtout j’ai une question pour vous:
+Si vous assistiez à une telle formation, qu’en espèreriez-vous?
+Merci!
+15/02/2024, 10:11 - +33 6 11 53 71 34: Bonjour et merci de tous vos partages ! De mon côté je débute en IA et ne peux pas vous apporter encore grand chose.
+Notre organisme de formation cherche également à organiser 1/2 journée auprès des équipes pour les initier à  l'IA en formation à Rambouillet (France). Auriez-vous des suggestions, contacts ?
+15/02/2024, 10:15 - +34 618 97 47 94: Je donne des formations en tant qu’indépendante pour entreprises aussi mais en ligne.
+Je pourrais me déplacer si c’est pour plusieurs jours.
+15/02/2024, 10:17 - +33 6 11 53 71 34: Nous concernant ce n'est  qu'une approche en présentiel d'une 1/2 journée mais je retiens votre proposition pour une autre intervention éventuelle. Merci !
+15/02/2024, 11:01 - Jean-Marc Everard: Bonjour Gaëlle, je sais que ce n'est pas pratique mais cela dépend, comme vous vous en doutez, énormément du niveau préalable d'usage de votre public. J'ai donné récemment un workshop pour un public mixte (quelques-uns un peu initiés, ayant tester quelques trucs et d'autres totalement novices). Leurs attentes étaient d'avoir à la fois des infos pratiques sur "où trouver des IA ? Comment les choisir ? Quels en sont les possibilités et limitations ?". Ensuite quelques mots sur les défis/ AI act, éthique, écologique, de confidentialité, sobriété  etc.  Avoir une vision d'avenir un peu. Et ensuite pouvoir expérimenter concrètement sur des cas d'usages qui leur parlent.

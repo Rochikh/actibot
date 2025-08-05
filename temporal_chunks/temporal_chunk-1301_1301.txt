@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 19
+
+=== CONTENU ===
+21/11/2024, 15:56 - +33 6 19 75 63 49: https://www.digitaleducationcouncil.com/post/digital-education-council-global-ai-student-survey-2024
+21/11/2024, 16:17 - +213 558 04 82 89: Bonjour, je souhaite traduire une vidéo de l'anglais en français. Auriez -vous un outil IA fiable ?
+21/11/2024, 16:17 - Rochane: HeyGen
+21/11/2024, 16:17 - Gregoire IA: Heygen le fait mais c payant
+21/11/2024, 16:18 - +213 558 04 82 89: Un outil gratuit svp ?
+21/11/2024, 16:19 - Gregoire IA: Essaie Google,.il y a une version pour traduire le.doc. je ne sais pas s'il serait faire une vidéo.
+Sinon,.bricolage... Mais tu peux toujours utiliser youtube pour récupérer le trsnscript et tu fais traduire ca
+21/11/2024, 16:20 - +213 558 04 82 89: Oui mais je veux une traduction verbale
+21/11/2024, 16:27 - Ahmadou Ba: Est ce que cela existe même ? Même dans les films ils font du couplage. Et voulez avoir une IA qui fait ça sans que les personnages ne soient des avatars crées par IA.
+21/11/2024, 16:28 - Rochane: Oui oui, c'est possible
+21/11/2024, 16:31 - Francois Bocquet: Autre sujet : qui aurait déja participé ou organisé des Cafés IA (https://cafeia.org/) en France ? Je suis bien tenté d’en organiser dans ma petite ville juste à côté de Lyon. Je suis preneur de toute expérience…
+21/11/2024, 16:32 - Francois Bocquet: voici quelques informations synthétiques sur les cafés IA :
+21/11/2024, 16:32 - Francois Bocquet: Les Cafés IA : une plongée au cœur de l'intelligence artificielle
+Qu'est-ce qu'un Café IA ?
+Les Cafés IA sont des événements conviviaux et accessibles à tous, conçus pour favoriser la compréhension et le débat autour de l'intelligence artificielle (IA). Ces rencontres permettent de :
+Démystifier l'IA : En présentant des concepts complexes de manière simple et ludique.
+Favoriser le partage : En créant un espace d'échange entre experts, passionnés et curieux.
+Expérimenter : En proposant des ateliers pratiques et des démonstrations.
+Débattre : En abordant les enjeux éthiques, sociaux et économiques de l'IA.

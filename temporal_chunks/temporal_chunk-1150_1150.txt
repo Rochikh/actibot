@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 9
+
+=== CONTENU ===
+28/10/2024, 12:09 - Francois Bocquet: On peut aussi augmenter le nombre de centrales nucléaires ou encore placer les data centers dans les pays ou l’energie hydraulique est sans limites. Pas obligé de mettre des panneaux solaires et des éoliennes 😉
+28/10/2024, 12:39 - Daniel Pappalardo: As-tu pensé à une classe renversée ? C'est le fait de faire faire le cours par les élèves pour développer leurs compétences et leurs capacités de réflexion dans la phase de conception. L'IA est super intéressante car tu les accompagnes en cours et leur montre que c'est bien un outil de conception. Je faisais ça avant l'IA avec les collégiens, je fais ça maintenant avec you.com (gratuit sans compte mais limité à ChatGPT 3.5) en limitant aussi leur accès avec un ou deux prompts selon le cours (pour ne pas abuser de l'outil et l'aspect environnemental aussi) Bien entendu ils ont tous les documents, un cahier des charges précis etc...
+28/10/2024, 12:58 - Rochane: Peux-tu nous partager ce cahier des charges ?, ça m'intéresse 🙂
+28/10/2024, 13:07 - Fred IA: Bonjour Daniel. Je n'ai pas regardé dans le détail mais j'ai l'impression que you.com permettrait de créer (gratuitement ?) des bots personnalisés, façon GPTs (?)
+28/10/2024, 13:19 - +33 6 28 06 83 96: Bonjour, je cherche pour une formation d'enseignants en éco-gestion un outil leur permettant de concevoir des scénari pédagogiques de 55 minutes qu'ils pourront ensuite étudier, critiquer, améliorer. Je cherche un assistant personnel à utiliser dans le cadre d'une formation.
+28/10/2024, 13:23 - +33 6 63 78 33 03: Bonjour il y a K2R2 https://www.e-charlemagne.com/index.php/k2r2-assistant-pedagogique/
+28/10/2024, 13:26 - Rochane: oui et on aura Marie-Pierre Dubost, la fondatrice du groupe, qui présentera cet outil le 12 novembre en live à 20h
+28/10/2024, 13:28 - +33 6 28 06 83 96: Est-il payant ?
+28/10/2024, 13:40 - Daniel Pappalardo: Oui mais à condition  'avoir un compte Google dans ce cas là. Et la version gratuite est vite limitée pour cet usage de mémoire.

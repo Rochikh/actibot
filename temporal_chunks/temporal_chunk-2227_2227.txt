@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 12
+
+=== CONTENU ===
+05/06/2025, 22:24 - +33 6 89 54 90 68: Juste une question très sérieuse :
+- un CRM est hébergé sur des serveurs distants (comme un LLM)
+- ⁠est ce qu’un LLM stocke la donne quand c’est un output (lors d’une session qui n’autorise pas l’usage des données pour entraînement)
+- ⁠si oui quelle est la différence d’un point de vue RGPD entre un CRM et un usage LLM?
+05/06/2025, 22:38 - Clotilde IA: Dans cette vidéo, quand il bascule sur les réglages, le bouton est On, il le met sur Off pour montrer où il est, et il le remet sur On en disant « Moi je le laisse activé, ça ne me dérange pas. »
+Et j’avais déjà remarqué dans une autre vidéo où il montrait les réglages qu’il avait laissé ça activé aussi…
+05/06/2025, 22:39 - Francois Bocquet: C’est une question de finalité (nature des données traitées et objectifs) et de moyens mis en œuvre en SaaS (contrats passés avec les sous traitants et en particulier conformité article 28 du RGPD)
+05/06/2025, 22:40 - Gregoire IA: C'est tout le problème ses vidéos, il veut montrer toutes les fonctionnalités mais manque de mise en perspective. Je lui en avais touché un mot mais il pense déjà le faire
+05/06/2025, 22:44 - Clotilde IA: Qu’est-ce que tu appelles un LLM correctement contrôlé ? Est-ce que tu parles d’un LLM installé sur un serveur interne ou un ordi perso ?
+Est-ce qu’un outil naturellement plus confidentiel comme Claude pourrait convenir ? Et qu’en est-il de la fonction ou maintenant on peut donner accès à tout notre écosystème Google à Claude? (et particulièrement si on a un fichier client sur Google sheet -ce qui n’est probablement pas RGPD non plus)
+05/06/2025, 22:57 - Francois Bocquet: C’est un LLM soit que tu gères directement soit pour lequel tu as des garanties contractuelles de sous traitance et une analyse d’impact réalisées te permettant d’estimer le risque acceptable.
+05/06/2025, 23:00 - Francois Bocquet: Si c’est un Google sheet sur un compte GMail ça craint. Si c’est un Google Sheet sur un domaine Workspace correctement paramètré et avec les dispositions nécessaires au respect du RGPD ça peut être OK

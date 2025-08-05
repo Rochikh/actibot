@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 13
+
+=== CONTENU ===
+Enseignant voulant exploiter les *chatbot* avec les élèves, je reste sans succès après des heures de recherches et tests. Mon souhait : un outil gratuit dans lequel implémenter des fichiers perso (pdf ou autre) en guise de connaissances (pas besoin qu'il soit connecté à la recherche en ligne) et permettant de répondre à plus de 10 messages. Dans l'idéal pouvoir concevoir plus de 3 bots.
+Une idée pour m'aider ?
+PS : déjà tenté entre autres Mizou, Botpress, Poe, ChatMD, OwnAI, Tidio, Copilot GPT (supprimé)
+(merci d'avance et merci pour tout ce que vous partagez ici !) 🙂 <Ce message a été modifié>
+16/07/2024, 22:10 - Hoang: Bonjour, as tu déjà essayé NotebooKLM?
+16/07/2024, 22:11 - Hoang: Concrètement, NotebookLM permet de rassembler différentes sources (des recherches, des notes, ou des documents), et l'intelligence artificielle de Google (Gemini 1.5) se charge d'organiser le tout et de rendre l'ensemble plus cohérent. Chaque projet peut contenir 50 sources de 500.000 mots chacune, soit un total de 25 millions de mots.
+16/07/2024, 22:12 - Ahmadou Ba: essaye https://snatchbot.me/
+16/07/2024, 22:12 - +1 (613) 890-3412: il demande une adresse Google pour l'utiliser même en consultation, ce qui n'est pas RGPD donc pas autorisé pour les élèves :(
+16/07/2024, 22:14 - Hoang: Si tu crées des adresses Gmail pour tes étudiants ? C’est ce qu on fait pour nos stagiaires (genre stagiaire1@gmail.com, etc,..)
+16/07/2024, 22:15 - Francois Bocquet: Les adresses de domaine Google pour Éducation peuvent être conformes au RGPD. Possible aussi de créer une adresse générique qui ne sera utilisée que pour ce service
+16/07/2024, 22:15 - Francois Bocquet: Can n’est pas conforme non plus mais ça limite les risques
+16/07/2024, 22:16 - Francois Bocquet: Seules des adresses crées au sein d’un domaine workspace for éducation peuvent proposer des traitements conformes.
+16/07/2024, 22:17 - +1 (613) 890-3412: Solution peu applicable dans la réalité d'un cours, notamment avec les élèves plus jeunes (collège) et l'Education nationale ne travaille pas sous Google 😞

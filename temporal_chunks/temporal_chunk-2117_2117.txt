@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 20
+
+=== CONTENU ===
+- Mermaid : coller le code dans https://mermaid.live/ (attention aux parenthèses)
+- PlantUML : coller le code dans https://www.plantuml.com/
+- …. (chercher les deux précédents pour en trouver plein d'autres, puis chercher le nom du langage + online editor pour trouver un site ou coller le langage généré)
+Ensuite, éditer le code pour ajuster le diagramme, puis exporter le diagramme au format SVG qui est importable dans Powerpoint par exemple.
+Les diagrammes produits ne sont pas "infographiques" mais en revanche, ils peuvent contenir beaucoup plus d'étapes (le nouveau générateur d'image de chatGPT dérapant encore assez souvent avec les diagrammes complexes)
+23/04/2025, 14:30 - Votre code de sécurité avec ~ Echo'pub a changé. Appuyez pour en savoir plus.
+23/04/2025, 14:34 - Votre code de sécurité avec ~ Echo'pub a changé. Appuyez pour en savoir plus.
+23/04/2025, 15:50 - +33 6 62 42 82 55: Bonjour
+Je suis une néophyte de la pratique IA.
+Je cherche une formation sur prompt sur mistral ; auriez vous des ressources ( formateurs, livres … à me conseiller)
+23/04/2025, 16:01 - +32 475 86 01 57: https://obsidian-bit-ac7.notion.site/Accueil-formation-prompt-19cfa5fdbf55804b8908fca29fa2964b?pvs=4
+23/04/2025, 16:01 - +32 475 86 01 57: Conçu pour les prof mais pas tant que ça
+23/04/2025, 16:08 - +32 475 86 01 57: Principes valables sur mistral
+23/04/2025, 16:24 - Batier Christophe: Pour ceux qui voudraient optimiser les performances de leur serveurs d'inférence notamment sur la partie RAG je vous invite à consulter le replay de l'intervention de David Romeuf
+📣 Replay du WebMeeting13  #IA4Sup du 17 Avril 2025
+avec David ROMEUF
+Comparaison et configuration de système RAG
+https://youtu.be/45Rmouhs1qg
+➡️ Évaluation des Systèmes RAG: David ROMEUF  présente une évaluation de plusieurs systèmes RAG, en testant différentes configurations et  en faisant varier leurs paramètres pour déterminer les meilleures performances.
+Il les teste avec différents modèles d'intégration, de génération de réponses, et de reclassement.

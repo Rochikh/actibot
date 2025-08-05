@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 18
+
+=== CONTENU ===
+21/05/2025, 17:48 - +33 6 80 72 23 73: Top, mais b...de m...pourquoi pas encore un bot gemini dans les espaces de "chat". Ce serait trop bien d'ajouter Gémini comme membres des équipes. Au plus près de leurs besoins/projets.
+21/05/2025, 17:48 - +33 6 80 72 23 73: Vais attendre encore...
+🙂
+21/05/2025, 17:51 - StéphaneIA: Google I/O c'est plus grande public comme conférence donc pas trop orienté entreprise mais Gemini comme user dans un Google chat Space ça arrive pour les comptes workspace
+21/05/2025, 17:57 - +33 6 80 72 23 73: QUAND ???????????
+21/05/2025, 17:58 - StéphaneIA: Ils l'avaient montré a next de mémoire. Mais je ne serai dire quand.
+21/05/2025, 18:00 - StéphaneIA: Pour le moment c'est dans le side panel https://support.google.com/chat/answer/15395284
+21/05/2025, 18:53 - +33 6 80 72 23 73: Je le veux dedans ! Comme un membre de l’espace !
+21/05/2025, 18:53 - +33 6 80 72 23 73: :-)
+21/05/2025, 19:13 - Jacques BARATTI: Merci pour ce retour positif, n'hésitez pas à suggérer des améliorations !
+21/05/2025, 21:35 - +33 6 72 75 43 48: Bonjour Jacques j’ai testé également à partir du concept de la courbe de l’oubli ! Bravo c’est conforme à mes attentes.. je ne vois pas d’amélioration à date 😉
+21/05/2025, 21:38 - Jacques BARATTI: Merci pour ce retour ! J'ai aussi fait un GTP pour créer des flashcards (cartes mémoires) avec intégration dans ANKI. C'est ici : https://chatgpt.com/g/g-68110420c624819189c4b3d0c29a5026-dynamentor-createur-de-flashcards
+21/05/2025, 22:47 - Laurent The Cure: Bonsoir, est ce que quelqu'un pourrait m'aider dans l'automatisation d'une évaluation à tendance formatrice en distanciel avec MAKE s'il vous plaît.
+Si un(e) spécialiste de MAKE acceptait de m'accorder un peu de son temps et de m'accompagner pour améliorer ma toute première automatisation avec MAKE, ce serait très apprécié !
+Merci
+Laurent
+(pardon si MAKE n'était pas considéré comme de l'IA, et donc pour mon post hors sujet) <Ce message a été modifié>
+21/05/2025, 23:01 - Rochane: On passe en MP

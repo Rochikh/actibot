@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 17
+
+=== CONTENU ===
+03/03/2024, 10:08 - Rochane: Oui, on améliore la génération de texte par correction des informations récupérées
+03/03/2024, 10:25 - +32 479 58 54 12: Génial Whimsical, je ne connaissais pas 🙂
+03/03/2024, 10:41 - +33 6 84 84 42 61: https://www.thats-ai.org/fr-CH
+03/03/2024, 10:41 - +33 6 84 84 42 61: Jamais inutile de rappeler tout ça !
+03/03/2024, 10:50 - Jacques BARATTI: J'ai créé un GPT pour utiliser la méthode CRAG (proposée par Rochane !) il est disponible ici (https://chat.openai.com/g/g-MTr2mTF8u-utiliser-la-methode-crag)
+03/03/2024, 10:52 - Jacques BARATTI: si vous voulez créer une Mindmap avec le résultat vous pouvez utiliser le GPT Whimsical Diagrams
+03/03/2024, 10:59 - Rochane: 📊*Microsoft lance "Copilot for Finance"*
+Microsoft vient de dévoiler une version de son assistant IA axée sur la finance, appelée Copilot for Finance, destinée à aider les équipes à accélérer certains processus.
+*Quelques détails* :
+- L'outil IA s'intègre avec des plateformes financières existantes comme *Dynamics 365*, ainsi qu'avec des applications *Microsoft* telles qu'Outlook, Excel et Teams.
+- Les principaux avantages comprennent la rationalisation des *audits*, la simplification des processus de recouvrement et l'accélération du *reporting* financier.
+- Microsoft explore également des versions futures de Copilot adaptées à d'autres secteurs comme le *marketing* et la gestion de la supply chain.
+🔗 *Plus de détails ici* : https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/?utm_source=www.therundown.ai&utm_medium=newsletter&utm_campaign=gpt-5-is-getting-a-body
+03/03/2024, 11:57 - +32 498 78 46 36: Est-ce que cela fait partie de l'abo Copilot Pro ?
+03/03/2024, 12:25 - ‎+33 6 81 53 14 89 a rejoint le groupe à partir de la communauté.
+03/03/2024, 12:38 - ‎+33 6 49 39 74 11 a rejoint le groupe à partir de la communauté.
+03/03/2024, 12:41 - ‎+33 6 51 88 66 89 a rejoint le groupe à partir de la communauté.

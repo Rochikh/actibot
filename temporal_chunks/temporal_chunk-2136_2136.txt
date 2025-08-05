@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 16
+
+=== CONTENU ===
+30/04/2025, 20:42 - ‎Aristide Konan a rejoint ce groupe grâce à son lien d’invitation
+30/04/2025, 20:43 - Aristide Konan: Bonsoir à tous et à toutes merci de m'avoir accepté.
+30/04/2025, 20:48 - Rochane: Tout à fait !
+J'ai bien aimé la méthode de ludo Salenne dans sa dernière vidéo du jour :
+Il prend une thématique importante, il génère 3 articles dans 3 LLM différents : OpenAI l'américain O3 en deepresearch, Qween3 le chinois en research et Mistral le français.
+Il récupère 3 articles différents avec 3 vues différentes. Il met ça dans NotebookLM, y rajoute du contenu avec la nouvelle section découvrir et demande un script de X slides à partir de tout ce contenu ainsi qu'un podcast.
+Il prend le script de NotebookLM pour la présentation et le le met dans Genspark.ai avec la nouvelle fonctionnalité ai slides et récupère une super présentation
+https://youtu.be/d7J6AsUBKvM?feature=shared
+30/04/2025, 21:08 - Votre code de sécurité avec +216 99 796 418 a changé. Appuyez pour en savoir plus.
+30/04/2025, 21:38 - +33 7 66 54 11 11: Effectivement et ce n'est pas très étrange.
+Deepmind en 2010 avait déjà planté le décor même si pour la voiture autonome ce fut un flop
+30/04/2025, 21:38 - +33 7 66 54 11 11: Deepmind c'est Google
+30/04/2025, 21:39 - +33 6 86 63 43 38: On peut choisir la langue maintenant ;)
+30/04/2025, 21:59 - Jean-Marc Everard: Wouha, je ne l’ai pas encore vue mais ça m’a l’air très intelligent et surtout interessant à faire avec des apprenants comme exemple de combinaisons de modèles et d’usages. Je vais tenter l’approche ! Sinon. Je suis en train de comparer des résultats en vibe  coding entre manus et Replit. Je viens bientôt avec des résultats j’espère 🤞
+30/04/2025, 22:00 - Jean-Marc Everard: En effet ils planchent là dessus depuis un moment mais au moment de la sortie de ChatGPT 3 ils ont eu l’air un peu largués. Ce sont encore des projets « 20% » qui rattrapent tout…
+30/04/2025, 22:15 - Rochane: Le blog du modérateur a partagé un prompt qui pousse Chat Gpt ( ou un autre LLM) a être direct sans flatterie

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 17
+
+=== CONTENU ===
+11/10/2024, 11:55 - +33 6 77 09 47 45: Bonjour, je suis à la recherche d'un ia, gratuite si possible, ou d'une appli, qui va me permettre de transformer un document en HTML (généré par ia) en un document word. Si vous avez des idées, je les prends, merci.
+11/10/2024, 11:56 - Rochane: Chat Gpt 🤔
+11/10/2024, 11:59 - Francois Bocquet: Sinon passer par la conversion via Google Doc ?
+11/10/2024, 12:00 - Rochane: J'y ai pensé mais ça marche dans ce sens ?
+11/10/2024, 12:00 - Jean-Marc Everard: Bonjour Fred, ça m'intéresse aussi. Je vais essayer. L'interface est un peu chargée me semble-t-il mais je vais chercher un peu.
+11/10/2024, 12:06 - Jean-Marc Everard: Benoît Raphaël avait expliqué comment il s'y était pris pour écrire un roman dans sa newsletter : https://generationia.flint.media/p/comment-ecrire-un-roman-en-7-jours-avec-chat-gpt-ia
+11/10/2024, 12:22 - +33 6 77 09 47 45: Chat gpt ne répond pas correctement. Ou bien je ne sais pas faire. Je vais essayer avec Google Doc...
+11/10/2024, 12:48 - Rochane: <Médias omis>
+11/10/2024, 13:29 - Yvelines: Top merci!
+11/10/2024, 13:32 - +33 6 28 06 83 96: et l'IA dans tout ça qu'apporte t-elle dans nos processus cognitifs ?
+11/10/2024, 13:36 - Rochane: Pour une fois, on en parle pas 😁 J'ai juste trouvé cette ressource intéressante et ça parle d'I et non d'IA
+11/10/2024, 13:37 - +33 6 28 06 83 96: non mais vraiment je me demande ce qui va surgir de tous ces recours aux IA dans la manière d'apprendre
+11/10/2024, 13:41 - Rochane: <Médias omis>
+11/10/2024, 13:43 - zp: Bonjour  a tous y a t'il un spécialiste création extension chrome( ou autre moteur de recherche) dans le groupe ? Merci
+11/10/2024, 13:43 - +32 498 78 46 36: Ce message a été supprimé.
+11/10/2024, 13:46 - +33 6 72 75 43 48: Bonjour Rochane : une vidéo sur le sujet sympa https://www.youtube.com/watch?v=tfXcUfP81w4
+11/10/2024, 13:47 - Rochane: Ce webinaire avec @33675775911  a eu lieu hier, j'espère qu'il ne m'en veut pas de partager le Replay https://www.youtube.com/watch?v=4882JJVGl-A

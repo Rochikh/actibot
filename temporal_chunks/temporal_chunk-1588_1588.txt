@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 559
+Messages: 20
+
+=== CONTENU ===
+17/01/2025, 09:55 - +33 6 80 25 63 41: Quelle IA utilises-tu pour faire ce genre de synthèse ? Notebook ? ChatGPT?
+17/01/2025, 10:04 - Rochane: Vous avez supprimé ce message
+17/01/2025, 10:08 - +33 6 80 25 63 41: Merci pour le partage :)
+17/01/2025, 10:42 - +33 6 08 73 04 79: Bonjour,
+Pour info (mais elle est peut etre déjà connue de beaucoup) un projet d’IA open source « openEDIAG » pour la filière EdTech, pour aider à personnaliser les parcours. https://openediag.com
+Je n’ai pas testé !
+17/01/2025, 12:03 - +33 6 71 11 12 91: Attention à ne pas partager les prompts de Benoist Raphaël par monts et par vaux : sa bibliothèque de prompts a une grande valeur.
+Elle est réservée à celles et ceux qui ont acheté une formation avec lui (certaines sont très peu chères !).
+Pas très grave pour un prompt ponctuel, mais svp ne pillons pas son travail. Merci de votre compréhension. 💚
+17/01/2025, 12:08 - Rochane: Tout à fait et je pense que c'est la deuxième fois que je le fais. Tu as raison. Il m'est arrivé de partager ses prompts mais de sa newsletter publique. Merci pour le rappel
+17/01/2025, 12:26 - Rochane: D'ailleurs, je l'ai supprimé 😀
+17/01/2025, 12:54 - +32 479 56 05 93: null
+17/01/2025, 14:01 - Laurent The Cure: Edit : L'astuce marche très bien pour générer le podcast en français, hélas, lorsqu'on passe en mode interactif, la réponse se fait en anglais.
+17/01/2025, 14:03 - Rochane: Oui et il faut poser ta question en anglais
+17/01/2025, 14:08 - estelle Duterage Drion IA: Avez vous des infos sur Lucie ?
+https://huggingface.co/spaces/Tonic/Lucie-7B
+17/01/2025, 14:54 - Rochane: intéressant :
+Comparaison des limites entre NotebookLM et NotebookLM Plus
+Avec NotebookLM, vous pouvez créer jusqu'à 100 notebooks pouvant chacun contenir jusqu'à 50 sources. Chacune de ces sources peut inclure jusqu'à 500 000 mots. Tous les utilisateurs commencent avec maximum 50 requêtes et 3 générations audio par jour.
+Si vous passez à NotebookLM Plus, vos limites d'utilisation sont au moins multipliées par 5. Vous pouvez créer jusqu'à 500 notebooks et utiliser 300 sources par notebook. Le nombre de requêtes augmente lui aussi. Les limites passent à maximum 500 requêtes de discussion et 20 générations audio par jour.

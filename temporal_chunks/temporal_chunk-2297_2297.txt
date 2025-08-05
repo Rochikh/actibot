@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 7
+
+=== CONTENU ===
+02/07/2025, 09:56 - Daniel Pappalardo: Oui ce n'est pas conforme au RGPD.en l'état  François a très bien précisé dans quel cadre il est possible de le faire. Je relaye l'information de son existence et comme vous, insiste sur l'attention portée à la reglementation. Donc ces solutions telles qu'elles apparaissent actuellement, ne doivent pas être utilisées en cours en France devant les élèves sans mise en conformité (même si des écoles primaires utilisent visiblement classroom) Mais la solution est intéressante pour les utilisateurs de Google Classroom avec des quizz IA etc. que d'autres systèmes éducatifs francophones (ou pas)  utilisent. En connaissant les risques... <Ce message a été modifié>
+02/07/2025, 09:57 - +33 6 77 09 47 45: 👍
+02/07/2025, 10:01 - Francois Bocquet: Ça n’est pas exact. La conformité RGPD des suites bureautiques Google et Microsoft avec des contrats B2B est avérée depuis de nombreuses années. Ces services disposent de toutes les certifications ISO nécessaires et sont même certifiées HDS (hébergement des données de santé) par le Ministère de la santé français. Elles disposent des contrats et avenants conformes à l’article 28 du RGPD. A condition que les mesures préalables obligatoires soient mise en œuvre ces services sont conformes alors que l’utilisation de services grand public ne peut jamais l’être.
+02/07/2025, 10:02 - Daniel Pappalardo: Oui j'ai reprécisé.
+02/07/2025, 10:02 - Francois Bocquet: En revanche il ne fait utiliser que des services professionnels avec les contrats adéquats. Ils se reconnaissent facilement. Seuls les services dont les comptes d’accès sont créés par l’administrateur du service au sein de l’institution peuvent être conformes.
+02/07/2025, 10:03 - Francois Bocquet: En clair si vous utilisez professionnellement des services Google avec un compte en gmail.com alors ça ne peut être conforme au RGPD. Idem pour CoPilot…
+02/07/2025, 10:04 - Francois Bocquet: Et c’est la même chose pour Anthropic, Mistral, Poe, OpenAI, Deepseek,… seuls les comptes pros administrés par votre institution peuvent être conformes pour un usage professionnel (missions à exercer dans le cadre de vos fonctions).

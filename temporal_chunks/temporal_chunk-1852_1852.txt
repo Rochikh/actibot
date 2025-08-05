@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 554
+Messages: 14
+
+=== CONTENU ===
+02/03/2025, 20:04 - +32 483 60 53 96: J'ai la question bcp à l’université, et jamais je leur conseillerai de faire du multi agents haha pour l'intégrité quand même.
+Aussi je le conseillerai (long prompt) que à des personnes qui maîtrisent leur sujet comme des chercheurs ou professeurs. Jamais des étudiants.
+02/03/2025, 20:13 - +32 483 60 53 96: Aussi faut savoir que c'est plus dans des contextes de soumissions de projets pour des appels à projets et moins de la recherche ou publications scientifiques je précise!
+02/03/2025, 20:15 - +32 483 60 53 96: Jusqu'ici les chercheurs font une partie côté contenu scientifiqur sans ia
+Mais j'ai déjà des témoignages que dans les peer review d'articles il y a un enjeu à détecter des dépôts fait par de l’ia (que ce soit ce qu'on review mais aussi comment on fait le peer review) >> plus gros risque pour la science et lintegrite académique
+02/03/2025, 20:17 - +33 6 34 15 77 84: ☺️ merci beaucoup ☺️
+02/03/2025, 20:18 - +33 6 34 15 77 84: là les gars vous me parlez chinois 😂
+02/03/2025, 20:19 - +32 483 60 53 96: Tout depend ton contexte haha
+Je suis dans le train jai juste cherche des pistes pour écrire des textes de 35-40 pages
+02/03/2025, 20:21 - +33 6 34 15 77 84: mai’s je vais essayer les premières propositions 😉☺️
+02/03/2025, 20:21 - +32 483 60 53 96: Un outil payant? Tu comptes utiliser quel outil?
+02/03/2025, 20:23 - +33 6 34 15 77 84: non j’ai déjà chat gpt en payant non les toutes premières propositions
+02/03/2025, 21:22 - StéphaneIA: Reorganiser du texte si c'est déplacer des sections mot pour mot alors ça me paraît impossible à 100%. Le sujet des tokens en output a été soulevé et donc ça sera forcément du travail par morceau. Les decompositions évoquées ci-dessus sont de bonnes idées.
+Ensuite si il faut du mot pour mot alors c'est impossible car une ia générative génère du texte de manière statistique donc jamais ellevne "déplacera" des sections de textes. Si il ne faut pas toucher le texte original alors demander comment ont peut réorganiser les textes et déplacer à la main ok sinon faire demander à l'IA de proposer une nouvelle organisation et après de générer les sections morceaux par morceaux mais ce ne sera plus le texte original.

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 6
+
+=== CONTENU ===
+https://flint.podia.com/maitriser-chatgpt-sans-bullshit/nx9l3
+21/11/2024, 09:23 - +33 6 77 78 84 93: Peut-on en savoir plus sur ces outils stp ?
+21/11/2024, 09:34 - +41 76 372 28 94: Gratuit ? Non je n'en connais pas. En février dernier j'ai pu tester un peu Copilot en version bêta intégré à Excel sous Windows. Je suis sur Macintosh en ce moment. Je ne sais pas ou ils en sont du déploiement. C'était pas super performant à l'époque. Maintenant il y a Gemini qui arrive dans Google Drive. Tu pourrais aussi essayer, vu que l'import des fichiers Excel marche assez bien.
+21/11/2024, 10:05 - Votre code de sécurité avec +32 479 34 96 53 a changé. Appuyez pour en savoir plus.
+21/11/2024, 12:22 - +33 6 59 35 23 38: Bonjour Julie, merci pour ton retour. En ce qui concerne le problème avec Mizou de devoir payer pour récupérer les résultats des étudiants, je me pose une question : les étudiants bénéficient-ils quand même d'un feedback pertinent lors de leur utilisation ? Si oui, le problème n'affecte que l'évaluation sommative, et donc utiliser la version gratuite en fournissant une évaluation formative me convient tout à fait personnellement. Je n'ai pas eu le temps de tester l'outil encore, mais d'emblée, voyant que le modèle sur lequel s'appuie la version gratuite est 3.5, j'imagine que la fluidité des échanges n'est peut-être pas optimale. As-tu des retours à nous partager sur Mizou ?
+21/11/2024, 12:32 - +33 6 59 35 23 38: Oulala, ça, c'est sûr...un vaste problème. ! A mon avis, ne pouvant éviter le raz-de-marée de l'IA, nous pouvons déjà au moins, en mutualisant nos pratiques, en rendre l'usage plus efficient, et donc économiser la quantité de calcul nécessaire à l'aboutissement d'un projet en partageant des prompts qui ont fait leurs preuves. Ensuite, des études comparant l'impact carbone de l'activité "classique" de l'enseignement des langues avec celui d'une pratique incluant l'usage de l'IA pourrait peut-être nous surprendre. C'est le fameux exemple du lave-vaisselle, plus vertueux en termes de gaspillage de l'eau. Mais je ne fais que supposer, il nous faut vraiment être vigilants !

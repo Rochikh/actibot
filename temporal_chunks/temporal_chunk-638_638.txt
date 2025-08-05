@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 18
+
+=== CONTENU ===
+14/06/2024, 13:23 - +49 179 7891950: Ce message a été supprimé.
+14/06/2024, 13:30 - +33 6 20 39 29 65: C'est ce que j'ai fait mais il modifie complètement la mise en forme😶‍🌫️😶‍🌫️
+14/06/2024, 13:33 - +32 498 78 46 36: Et avec une base de prompt comme ceci "J'ai un QCM sous format Word (.docx) contenant 50 questions numérotées, chacune avec 4 choix de réponse (A, B, C, D). Je souhaite réorganiser ces questions de manière aléatoire tout en préservant la mise en forme originale du document.
+effectue cette tâche en t'assurant que le format du texte, des questions et des choix de réponses soit strictement respecté dans le document final ?"
+14/06/2024, 13:35 - Rochane: Il y a un Gpt qui s'appelle doc maker qui pourrait peut être t'aider 🙂
+14/06/2024, 13:52 - Pierrick BRIAND: Bonjour à tous, le webinaire avec Julien Morice débute à 14h, on vous attend nombreux 😉
+https://app.livestorm.co/apolearn/usages-pedagogiques-de-l-ia/live?s=7b9ed170-2d90-441f-9b68-07735b1edf98
+14/06/2024, 13:55 - +33 6 20 39 29 65: Merci pour les retour
+14/06/2024, 15:04 - ‎+33 7 81 59 46 87 est parti·e
+14/06/2024, 18:05 - Karim BS: Bonsoir la communauté,
+Bon week-end à toutes et tous ☀️ ☁️ 😞
+L’un.e d’entre-vous sait-il s’il est possible de modifier les paramètres, instructions, ajouter de la documentation … à un GPTS que j’ai créé? Merciiiii
+14/06/2024, 18:10 - ‎+33 6 17 78 93 07 a rejoint le groupe à partir de la communauté.
+14/06/2024, 18:10 - Rochane: Si tu es le propriétaire, tu vas dans modifier le Gpt
+14/06/2024, 18:21 - +212 644-562660: Y a-t-il un moyen d'obtenir la présentation de Julien? Elle est vraiment intéressante
+14/06/2024, 18:24 - +33 6 37 28 05 42: @212644562660 https://app.livestorm.co/apolearn/usages-pedagogiques-de-l-ia/live?s=7b9ed170-2d90-441f-9b68-07735b1edf98#/
+14/06/2024, 18:27 - +212 644-562660: En effet je suis déjà en train de regarder le replay du webinaire. Ce serait chouette s'il y avait un lien menant vers le Genially présenté par Julien. Merci
+14/06/2024, 19:04 - Votre code de sécurité avec +33 6 49 25 14 53 a changé. Appuyez pour en savoir plus.

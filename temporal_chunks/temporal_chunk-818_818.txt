@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 561
+Messages: 21
+
+=== CONTENU ===
+Conçue pour un usage pédagogique, donc adaptée aux projets pour enfants
+Offre des outils de mise en page et de création de planches de BD
+Autres options gratuites
+Si BDnF ne correspond pas exactement à vos besoins, voici d'autres applications gratuites à considérer :
+Comica : Une application Android qui permet de transformer des photos en style bande dessinée.
+FotoSketcher : Un logiciel gratuit pour Windows et Mac qui transforme des photos en dessins ou peintures.
+PicsArt : Une application mobile polyvalente avec des filtres pour transformer des photos en style BD.
+Clip2Comic : Une application iOS qui offre 9 styles différents pour transformer vos photos en dessins animés ou croquis
+13/08/2024, 10:11 - +33 6 75 41 23 05: Prisma sur iOS fait aussi le job pour convertir en dessin.
+13/08/2024, 12:24 - +33 7 83 63 10 82: Super ! Je vais regarder tout ça 😀 merci beaucoup 🙏🏼
+13/08/2024, 13:11 - ‎+33 6 76 07 83 70 a demandé à rejoindre le groupe.
+13/08/2024, 20:27 - ‎+33 6 76 07 83 70 a rejoint le groupe à partir de la communauté.
+14/08/2024, 19:22 - ‎+33 6 72 16 66 57 a demandé à rejoindre le groupe.
+14/08/2024, 21:14 - ‎+41 78 637 56 02 a demandé à rejoindre le groupe.
+14/08/2024, 21:47 - ‎+961 3 614 731 a demandé à rejoindre le groupe.
+14/08/2024, 23:33 - ‎Lydie BASTIN a demandé à rejoindre le groupe.
+14/08/2024, 23:58 - ‎Lydie BASTIN a rejoint ce groupe grâce à son lien d’invitation
+14/08/2024, 23:58 - ‎+961 3 614 731 a rejoint ce groupe grâce à son lien d’invitation
+14/08/2024, 23:58 - ‎+41 78 637 56 02 a rejoint ce groupe grâce à son lien d’invitation
+14/08/2024, 23:58 - ‎+33 6 72 16 66 57 a rejoint ce groupe grâce à son lien d’invitation
+15/08/2024, 08:30 - Rochane: Anthropic a créé une nouvelle fonction appelée "prompt caching" pour son IA Claude. C'est comme une mémoire qui permet à Claude de se souvenir d'informations importantes entre les conversations. Cela rend Claude plus rapide et moins coûteux à utiliser, surtout pour les longues discussions ou quand on lui donne beaucoup d'instructions. Cette fonction est particulièrement utile pour les chatbots, l'aide au codage, ou pour travailler avec de longs documents. Elle permet d'économiser jusqu'à 90% des coûts et 85% du temps de réponse

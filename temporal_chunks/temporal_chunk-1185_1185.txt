@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 580
+Messages: 24
+
+=== CONTENU ===
+03/11/2024, 13:43 - Rochane: Merci à @33662364404 pour toutes ces explications qui sont certes un peu compliquées à assimiler mais je les lis toujours avec attention en espérant avoir un jour le déclic 😁
+03/11/2024, 18:23 - Rochane: Impressionnant cette expérience pédagogique pour des élèves de 3eme pour travailler le regard critique d'une oeuvre.Vous remarquerez la réponse de notre ami @33662364404 😁
+https://x.com/IanLettres25/status/1852677789134025015?t=73xLOzpjRYV3VEcTaD1cPg&s=19
+03/11/2024, 18:44 - Amadou GuisséIA: <Médias omis>
+03/11/2024, 19:55 - Adrien Bock IA: qqun sait comment avoir dans 100% des cas une retranscription d’une vidéo youtube avec NotebookLM ?
+je mets par exemple ce lien : https://www.youtube.com/watch?v=WLT6Y5_b5Dw
+NotebookLM met un bouton rouge et ne permet pas qu’on interagisse avec le chatbot…
+03/11/2024, 19:58 - Rochane: <Médias omis>
+03/11/2024, 20:26 - Adrien Bock IA: https://youtubetranscript.com/ actuellement voici l’alternative… si qqun a une autre piste je suis preneur
+03/11/2024, 20:30 - Rochane: Merci Amadou pour ce partage😉
+03/11/2024, 20:42 - Rochane: ÉVÉNEMENT : "IA & Formation : Créer plus vite, former mieux"
+Heure de début de l’événement : 1731438000000
+Événement annulé : false
+Description de l’événement : Tu veux gagner un temps fou dans la création de tes formations ? Ce live est fait pour toi !
+Au programme :
+Marie-Pierre dévoile K2R2, ton assistant pédagogique IA qui va changer ta façon de créer des cours
+Richard nous partage une belle reconnaissance internationale sur l'IA dans l'éducation en Afrique
+Nicolas t'éclaire sur l'IA responsable, parce que oui, c'est important !
+Grégoire te livre ses secrets pour créer des vidéos de formation avec l'IA
+1h de conseils pratiques pour booster ta productivité. À mardi !
+Note : un lien de visio sera partagé le jour J.
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+03/11/2024, 20:44 - Vous avez épinglé un message
+03/11/2024, 21:04 - +33 6 03 06 04 34: C’est inhérent aux LLM: ils se souviennent du début et de la fin rarement du milieu, alors ils hallucinent . On conseille toujours de découper en partie. Claude est mieux que chatGPT sur l’analyse. Essayez aussi avec NotebookLM qui m’impressionne un peu plus chaque jour et qui est vraiment rentré dans mon workflow.

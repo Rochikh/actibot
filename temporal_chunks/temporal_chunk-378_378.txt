@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 677
+Messages: 7
+
+=== CONTENU ===
+06/04/2024, 18:50 - +33 6 49 84 08 41: Merci @33672091809 . Je suis en train de terminer la formation et je me permets un petit commentaire : malgré ton souhait de la rendre accessible à tous les niveaux, je doute qu'elle le soit réellement dans les faits, notamment sur la première partie. Je suis un geek et même moi je l'ai trouvée un peu raide, notamment en termes de concepts à cerner et maîtriser... Je pense alors immédiatement à celles et ceux de mon entourage ou de mon établissement qui sont moins geeks ou carrément méfiants (pour ne pas dire pis), et j'ai du mal à les imaginer finir la formation
+06/04/2024, 18:51 - +33 6 49 84 08 41: Peut-être ces concepts mériteraient-ils d'être systématiquement illustrés par des exemples concrets, ou des paraboles ?
+07/04/2024, 09:28 - ‎+33 7 45 52 37 80 a rejoint le groupe à partir de la communauté.
+07/04/2024, 09:51 - Pierrick BRIAND: Merci @33649840841 pour ton avis, c'est super important pour moi d'avoir des retours comme le tien. Je sais d’expérience que c'est pas toujours facile de trouver le bon équilibre entre les niveaux dans une formation qui s'adresse à tout le monde, comme "Maîtriser l'IA dans la formation". Je comprends que t'aies trouvé des parties un peu difficiles, surtout au début, et j'ai déjà repéré les passages les plus complexes. Je reconnais que certains concepts sont un peu plus durs à saisir, mais rassure-toi, ils ne sont pas évalués. Je pense qu'il faut un peu de tout pour que chacun y trouve son compte et apprécie la formation. Une idée pour améliorer ça, ce serait d'indiquer le niveau de difficulté pour chaque module, comme ça, les apprenants sauront à quoi s'attendre. Qu'est-ce que t'en penses ?
+07/04/2024, 09:57 - +33 6 49 84 08 41: Oui oui, mais comme je disais il est facile de supprimer cette difficulté en ajoutant ne serait-ce qu'un exemple ou parabole...
+Exemple pour le *deep learning* (merci ChatGPT pour la parabole 🤣) :
+_Imagine que tu veux apprendre à reconnaître différents types de fruits. Le deep learning est comme un grand réseau de neurones artificiels, qui fonctionne un peu comme un cerveau humain. Au début, ce réseau ne sait pas distinguer les fruits, mais en lui montrant beaucoup d'images de fruits avec des étiquettes (comme des pommes, des oranges, etc.), il apprend à les reconnaître tout seul, en identifiant des motifs dans les images. Une fois qu'il a vu suffisamment d'exemples, il devient très bon pour reconnaître les fruits, même ceux qu'il n'a jamais vus auparavant. C'est un peu comme si tu montrais à quelqu'un des photos de fruits et que cette personne apprenait à les reconnaître au fil du temps, en se basant sur les caractéristiques communes de chaque fruit._

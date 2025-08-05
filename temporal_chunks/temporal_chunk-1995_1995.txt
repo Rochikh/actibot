@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 18
+
+=== CONTENU ===
+23/03/2025, 12:08 - +41 79 258 90 36: <Médias omis>
+23/03/2025, 15:38 - Gregoire IA: Voilà le lien de mon dernier carrousel LinkedIn pour revenir sur les fonctionnalités de NotebookLM... On en parlait ici cette semaine.
+https://www.linkedin.com/posts/aribautg_derni%C3%A8res-mises-%C3%A0-jour-de-notebooklm-que-activity-7309453502886432768-rxrB?utm_source=share&utm_medium=member_android&rcm=ACoAAAWVEhMBJrllmWvRVEKHUGEsR0uXU7SSff4
+La question qui se pose, pkoi parle-t-on si peu de cet outil ?
+23/03/2025, 17:39 - +33 6 03 06 04 34: Parce que personne n’en comprend la puissance d’analyse et qu’il faut de la donnée pour l’alimenter donc travailler avec d’autres outils
+23/03/2025, 18:04 - Gregoire IA: Est ce que cela aurait un lien avec la bulle de confirmation ou même l'effet de l'imposteur inversé dont j'avais parlé la semaine dernière : https://www.linkedin.com/posts/aribautg_publier-sur-lia-vouloir-%C3%AAtre-vu-sans-voir-activity-7306891439496458240-jv8S?utm_source=share&utm_medium=member_android&rcm=ACoAAAWVEhMBJrllmWvRVEKHUGEsR0uXU7SSff4
+23/03/2025, 20:49 - +33 6 58 35 08 39: Bonsoir,
+Auriez-vous une IA à me suggérer qui serait capable d’analyser des documents PDF contenant des graphiques (non décrits) ?
+23/03/2025, 20:50 - Clément Cahagne: Mistral ou Claude
+23/03/2025, 20:50 - +33 6 75 50 01 00: Je crois que Perplexity y arrive aussi
+23/03/2025, 21:00 - Rochane: Et Gemini via aistudio.google.com
+23/03/2025, 21:01 - Rochane: Épinglé 👆
+23/03/2025, 21:41 - +33 7 85 94 69 69: ChatGPT avec vision ausso
+23/03/2025, 21:41 - +33 6 58 35 08 39: Merci beaucoup, je vais creuser ces pistes !
+23/03/2025, 22:28 - +33 7 85 94 69 69: Après oui Gemini aussi
+24/03/2025, 05:51 - Votre code de sécurité avec +212 714-324644 a changé. Appuyez pour en savoir plus.
+24/03/2025, 07:00 - ‎+1 (415) 712-6663 a demandé à rejoindre le groupe.
+24/03/2025, 11:31 - +33 6 60 20 86 76: Bonjour, membre d’un projet européen sur l’IA pour l’éducation aux langues, j’ai établi une première ébauche de lignes directrices afin de permettre une utilisation de cet outil dans une optique d’apprentissage responsable, autonome et de qualité. Pourriez-vous me donner votre avis sur cette ébauche afin de l’enrichir ? Étant tous utilisateurs assidus de cet outil, votre avis me sera précieux! Merci d’avance 😊

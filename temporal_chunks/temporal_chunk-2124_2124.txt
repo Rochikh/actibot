@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 16
+
+=== CONTENU ===
+* Développer des ressources en ligne axées sur l'enseignement aux élèves de la maternelle à la 12e année des compétences fondamentales en matière d'IA et de pensée critique grâce à des partenariats public-privé.
+* Publier des directives du secrétaire à l'Éducation concernant l'utilisation des fonds de subvention pour améliorer les résultats scolaires grâce à l'IA.
+* Accorder la priorité à l'utilisation de l'IA dans les programmes de subventions discrétionnaires pour la formation des enseignants.
+* Accorder la priorité à la recherche sur l'utilisation de l'IA dans l'éducation par le directeur de la NSF et créer des possibilités de formation pour les enseignants.
+* Accorder la priorité à la recherche, à la vulgarisation et à l'éducation sur l'utilisation de l'IA dans l'éducation formelle et non formelle par l'intermédiaire du secrétaire à l'Agriculture.
+* Accroître la participation aux apprentissages enregistrés liés à l'IA par le secrétaire au Travail.
+* Encourager les États et les bénéficiaires de subventions à utiliser le financement pour développer les compétences en IA et soutenir les possibilités d'apprentissage en milieu de travail.
+* Soutenir la création de possibilités pour les élèves du secondaire de suivre des cours d'IA et des programmes de certification.
+https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/
+26/04/2025, 15:36 - Rochane: <Médias omis>
+26/04/2025, 16:20 - +33 6 72 75 43 48: Merci 🙏
+26/04/2025, 17:33 - Adrien Bock IA: merci ! est-ce que certains ont déjà vu une diférence de qualité de retranscription de notes avec Mistral? je trouve qu’il retranscrit mieux que chat les notes papiers
+26/04/2025, 17:58 - Rochane: Oui c'est son point fort : l'ocr
+26/04/2025, 19:26 - +41 79 258 90 36: peut-il scanner par OCR des pages en chinois et traduire en français? <Ce message a été modifié>
+26/04/2025, 19:29 - +32 479 82 01 20: https://mistral.ai/news/mistral-ocr
+26/04/2025, 19:29 - +32 479 82 01 20: D'après la documentation il est multilingue 😊

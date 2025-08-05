@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 17
+
+=== CONTENU ===
+27/02/2024, 13:14 - Rochane: Ce site internet qui utilise l'IA, vous lui mettez le sujet qui vous intéresse, il décline un nombre intéressant de ressources et de concepts qui sont en lien avec le sujet. À explorer 🙂 https://explorer.globe.engineer/
+27/02/2024, 13:14 - Rochane: N'hésitez pas à mettre ( en français) après le sujet pour avoir l'output en français
+27/02/2024, 20:09 - +32 479 58 54 12: Whaouh. A première vue cela à l'air génial. ( je n'ai pas encore pris le temps d'analyser en détails)
+28/02/2024, 15:02 - Votre code de sécurité avec ~ Simon a changé. Appuyez pour en savoir plus.
+29/02/2024, 08:11 - +32 479 58 54 12: J'ai testé plus en détails mais pas vraiment convaincue par la qualité des résultats 😒
+29/02/2024, 08:17 - +33 6 22 14 03 93: Bonjour à tous
+J’ai un projet de création de plateforme pour une communauté. Une partie serait gratuite et une autre payante.
+Hormis la création d’un site internet avez vu connaissance d’outils pertinent pour créer une plateforme ?
+Merci
+29/02/2024, 08:20 - Yann-Ael: Ceci peut-être https://www.skool.com/ ?
+29/02/2024, 08:27 - Agathe: Merci pour ce lien qui peut m'intéresser aussi :) je ne trouve pas de page qui décrive les fonctionnalités mais juste le catalogue des "Skools" est-ce que tu peux nous en dire plus ou nous faire des captures d'écran ? 😁
+29/02/2024, 08:43 - Guillaume Singeot: Bonjour Agathe! Un petit bonjour de Normandie en vitesse de bon matin 😉
+29/02/2024, 08:44 - Agathe: Bonjour Guillaume ! Ça fait plaisir ☺️ en animation Carif ?
+29/02/2024, 08:47 - Guillaume Singeot: non, pas cette année pour la Normandie. Est ce que tu te serais pencher sur l'IA Act et ses répercussions sur les OF ?
+29/02/2024, 08:48 - Agathe: Pas encore mais c’est une bonne idée (parmi les 1000 sujets sur l’IA). Peut être qu’ils y a des experts de la question dans ce groupe ?
+29/02/2024, 08:53 - +33 6 22 14 03 93: Ce message a été supprimé.
+29/02/2024, 08:57 - Rochane: Image to music, open source, sans inscription et usage illimité https://imagetomusic.top/#playground

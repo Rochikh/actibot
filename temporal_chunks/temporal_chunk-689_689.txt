@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 11
+
+=== CONTENU ===
+30/06/2024, 09:00 - Rochane: Une étude récente publiée dans la revue PLOS One révèle que les correcteurs d'examens universitaires ont du mal à identifier les copies rédigées par l'intelligence artificielle (IA). L'expérience menée à l'université de Reading a montré que *seulement 6% des copies générées par ChatGPT ont été repérées comme suspectes* par les examinateurs.
+Plus inquiétant encore, certaines copies produites par l'IA ont obtenu de meilleures notes que celles des étudiants. Cette situation soulève des questions importantes sur l'intégrité des examens universitaires à l'ère de l'IA.
+Le professeur Peter Scarfe, co-auteur de l'étude, considère ces résultats comme un "coup de semonce" pour l'enseignement supérieur. Il souligne la nécessité pour le secteur éducatif *d'évoluer face à l'IA, sans pour autant revenir aux examens manuscrits.*
+Face à ce défi, certaines universités ont déjà pris des mesures, allant de l'interdiction totale de l'IA à son intégration comme outil pédagogique. L'UNESCO a également publié un guide appelant les gouvernements à réglementer rapidement l'usage de l'IA dans l'enseignement pour en faire une *opportunité plutôt qu'une source de préjudices* .
+30/06/2024, 09:02 - +33 6 76 04 48 20: Les temps changent… très vite !
+30/06/2024, 09:18 - fm Florent iA: Il est temps d'accompagner plutôt que de lutter. Le changement est clairement enclenché.
+30/06/2024, 09:39 - +33 7 63 58 01 55: Merci pour ces infos, tu as des liens vers ces publications ou au moins leurs titres exacts ? C'est Perplexity qui t'as dit ? 😊
+30/06/2024, 09:41 - +33 7 63 58 01 55: Ce message a été supprimé.
+30/06/2024, 09:42 - Rochane: https://www.midilibre.fr/2024/06/29/un-coup-de-semonce-au-sein-du-milieu-educatif-pour-les-correcteurs-dexamen-reconnaitre-une-copie-redigee-par-lia-est-un-defi-12046465.php
+30/06/2024, 09:51 - +33 7 63 58 01 55: Super, merci 👍🏻
+30/06/2024, 10:12 - +41 79 326 51 40: https://www.justgeek.fr/duckduckgo-ai-chat-126951/?fbclid=IwZXh0bgNhZW0CMTEAAR11EVR25ba9wJf4oSkhelpOWIL6_JR1-4lbvk0YQEUVc15x5xWuO5dT6vY_aem_2oVWOj0CYnkY1SUJBS4kxA

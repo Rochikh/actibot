@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 13
+
+=== CONTENU ===
+04/09/2024, 17:30 - Fred IA: Bonjour Rochane. Ce serait effectivement génial d'avoir un tuto make tout de suite opérationnel, même avec des choses simples à mettre en œuvre, histoire de se faire la main sur cet outil..
+04/09/2024, 17:30 - Rochane: Pas de soucis, je partagerai mes templates Avec ceux et celles qui le souhaitent 🙂
+04/09/2024, 17:34 - +33 6 70 57 72 80: Je suis très intéressée par l’automatisation via make. Merci à vous
+04/09/2024, 18:12 - +32 479 58 54 12: Quelqu'un a déjà testé les assistants IA de BlueGPT, par rapport aux GPT de ChatGPT ?
+04/09/2024, 18:16 - +33 6 72 75 43 48: Bonjour Dominique contente de voir votre message, j ai pris un abonnement BlueGPT semaine passée et rencontre de grosses difficultés d’utilisation : ex : les documents ne sont pas pris en pièce jointe .. certaines IA ne fonctionnent pas … le groupe watshapp crée à été supprimé suite une question que j’ai posé , j’ai posé ma question à Justine sur linkedin et whatsapp , pas de réponses ! Je m’interroge : que se passe t il ? Suis je la seule a rencontrer des difficultés avec cet outil ? Merci pour vos réponses Michèle
+04/09/2024, 18:18 - +33 6 72 75 43 48: Pourquoi un cœur Rochane ?
+04/09/2024, 18:21 - +32 479 58 54 12: Michèle. Je n'ai pas testé. "Justine" fait de belles promesses mais ne donne jamais d'exemples concrets et argumentés. Je me pose donc des questions sur l'intérêt de cet outil 🤔
+04/09/2024, 18:23 - +33 6 72 75 43 48: Ok merci pour l’instant j’ai gardé mon compte openai et je compare .. 1 semaine que je teste la créa de GPT , les assistants .. qui sont les mêmes pour beaucoup donc pas d’intérêt pour le moment voir une grosse déception !
+04/09/2024, 18:25 - Gregoire IA: Poe offre accès à tous les LLMs y compris les.olus récents pour la génération d'image. On peut aussi coder.
+La seule limite c'est la génération de vidéos et de musique.
+04/09/2024, 18:25 - Rochane: Témoignage cher 🙂
+04/09/2024, 20:12 - Ahmed Yagoubu: null
+04/09/2024, 20:13 - ‎+32 499 16 83 26 a rejoint le groupe à partir de la communauté.

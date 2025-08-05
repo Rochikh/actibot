@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 14
+
+=== CONTENU ===
+15/02/2025, 17:50 - Adrien Bock IA: Je suis en train de finaliser un comparatif de chaque LLM. Pour celui derrière NotebookLM, est-ce que vous savez précisément lequel c’est et quelle fenêtre de contexte ?
+j’ai creusé dans les ressources documentaires de Google mais sans succès actuellement
+15/02/2025, 18:21 - +33 6 71 11 12 91: https://huggingface.co/spaces/galileo-ai/agent-leaderboard
+15/02/2025, 18:26 - Adrien Bock IA: Merci. Et le modèle derrière NotebookLM, quel est-il ? ça me permet de mieux expliquer l’importance de la token window
+15/02/2025, 18:29 - +33 6 71 11 12 91: Dans le tableau, gpt-4o-2024-11-20 mais je n'ai pas fait de comparaison.
+Juste vu passer cette page sur un autre groupe...
+Si tu retrouves les infos pour ton  récapitulatif, cela m'intéresse 😉
+15/02/2025, 18:35 - Daniel Pappalardo: Oui ainsi que la DAN de l'académie. Je te transmettrai tout ça volontiers. Pour le moment c'est la plus grande prudence, on est plutôt dans l'attente d'un cadre officiel ministériel qui tarde toujours. Même chose du côté de Canopé. Pour les outils nous sommes là aussi très très prudents pour l'usage des données. On développe un chatbot avec LLM en local en phase de test pour le moment, on a demandé une expérimentation Albert mais on attend toujours.
+15/02/2025, 18:35 - Votre code de sécurité avec ~ Sandra a changé. Appuyez pour en savoir plus.
+15/02/2025, 18:36 - Daniel Pappalardo: Gemini 2.0 flash
+15/02/2025, 20:07 - Adrien Bock IA: Source?
+15/02/2025, 20:22 - Daniel Pappalardo: Jusqu'en décembre on pouvait lui demander de'utiliser Gemini 2.0 en expérimental ou 1.5. Maintenant c'est 2.0 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.google/technology/google-labs/notebooklm-new-features-december-2024/&ved=2ahUKEwjQ2YCWs8aLAxU7TKQEHfz8FzUQFnoECCwQAQ&usg=AOvVaw3MkTV1BXPNaax_6mQbl4GD <Ce message a été modifié>
+15/02/2025, 21:15 - +41 79 258 90 36: Synthèse exhaustiveou petite astuce que j'utilise
+16/02/2025, 10:35 - Daniel Pappalardo: <Médias omis>

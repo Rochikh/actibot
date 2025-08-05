@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 18
+
+=== CONTENU ===
+je pensais que ça permettait de retrouver des infos précédemment évoquées dans le présent Groupe WhatsApp "*Ai-Dialogue Actif*", ce qui est utile surtout pour ceux qui sont arrivés dans ce groupe en cours de route;
+Il y a quelques semaines (l'outil *https://actibot.replit.app/* ne me donne pas la date de mes requêtes passées mais juste l'heure, bizarrement …), j'avais envoyé la requête suivante sur cet *Actibot* :
+*"Outils gratuits de type tts permettant de générer des dialogues avec 2 voix distinctes ?"*
+La réponse consistait en 5 outils dont ElevenLabs;
+Aujourd'hui, après avoir trouvé, par hasard sur le web, 2 nouveaux outils dans ce domaine, à savoir *Narakeet* et *Kukarella*, je demande à *Actibot* s'il a des infos sur ces 2 outils, et il me donne quelques informations qui me laissent penser que ces 2 outils ont effectivement déjà été mentionnés dans le présent Groupe WhatsApp, alors qu'il ne les avait pas mentionnés parmi les 5 outils suite à ma 1ere requête.
+*Questions* :
+1) est-ce que, effectivement, *Actibot* ne cherche ses réponses que dans l'historique du présent Groupe WhatsApp ? (ce que je suppose)
+2) pourquoi, lors de ma 1ere requête ci-dessus, les 2 outils  *Narakeet* et *Kukarella* n'ont pas été mentionnés ? serait-ce parce que j'ai demandé des outils gratuits dans ma requête, peut-être ?
+merci
+21/04/2025, 15:45 - Rochane: Je n'ai pas mis à jour depuis au moins 15 jours. Je vais essayer de le faire ce soir
+21/04/2025, 16:01 - +33 6 85 03 31 84: pour info, en faisant un search sur l'historique de ce groupe, je vois que :
+1) *Narakeet* été mentionné 1 fois, le  12/11/2024
+2) *Kukarella* a été mentionné 1 fois, le 26/02/2025
+21/04/2025, 18:26 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.
+21/04/2025, 18:50 - +212 666-509263: Ce message a été supprimé.

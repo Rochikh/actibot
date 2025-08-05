@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 22
+
+=== CONTENU ===
+16/11/2024, 11:35 - Rochane: Voici ce que donne le résultat d'analyse des CGU de notebooklm avec le prompt partagé ci-dessus
+Je vais analyser les CGU de Google selon les 4 points demandés, en mettant en évidence les risques pour les utilisateurs européens.
+# 1. Risques pour la vie privée et les données personnelles
+**Collectes excessives de données** :
+- {{Les données collectées sont très étendues et incluent : historique de navigation, géolocalisation, activités sur les services Google et sites tiers, données des appareils, informations personnelles}}
+- {{Collecte massive de données via les services tiers qui intègrent des services Google (Analytics, publicités)}}
+**Transferts de données hors UE** :
+- {{Google dispose de "serveurs aux quatre coins du monde" avec des transferts possibles vers des pays ayant une protection moindre des données}}
+- {{Les données peuvent être partagées avec des "sociétés affiliées" et des "partenaires de confiance" sans garanties claires}}
+**Conformité avec la législation** :
+- Non-conformité potentielle avec le RGPD sur le consentement : {{les données sont collectées et associées par défaut sans consentement explicite}}
+- Manque de transparence sur la durée de conservation : {{"plus ou moins longues" selon des critères flous}}
+- {{Les données sont conservées jusqu'à ce que l'utilisateur les supprime ou active la suppression automatique}}
+# 2. Risques pour les droits des utilisateurs
+**Clauses abusives** :
+- {{Google peut modifier unilatéralement les règles : "Nous apportons des modifications aux présentes Règles de confidentialité de temps à autre"}}
+- {{Transferts de données sans garanties en cas de fusion/acquisition}}
+**Obligations disproportionnées** :
+- {{L'utilisateur doit régulièrement vérifier les modifications des règles}}
+- {{La charge de la gestion des paramètres de confidentialité repose entièrement sur l'utilisateur}}
+**Conditions de résiliation** :
+- {{Suppression des données complexe avec multiples étapes et paramètres}}

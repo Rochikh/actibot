@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 17
+
+=== CONTENU ===
+01/06/2024, 20:00 - +351 932 291 666: Ups, pas fais gaffe à cette limite ! Combien ?
+01/06/2024, 20:00 - Rochane: tu as vu que tu peux connecter one drive à ton compte chat gpt maintenant ?
+01/06/2024, 20:01 - +33 6 08 67 53 65: Copilot est du ChatGPT avec du finetune Microsoft et les applications des sécurité Azure, pas sur que ce soit si intéressant dans mes usages
+01/06/2024, 20:02 - Rochane: Perplexity, tu peux le régler sur des sources académiques par exemple et en plus, tu lui mets n'importe quel url (même celles des Paywall) et il te fait des résumés pertinents. Tu peux le régler sur d'autres LLM dont Claude 3 Opus  et maintenant la fonctionnalité Pages est juste génialissime
+01/06/2024, 20:02 - +33 6 08 67 53 65: De mémoire 10 fichiers par GPTs et 200Mo, mais il requetait assez mal dépassé un certain nombre de pages
+01/06/2024, 20:11 - +351 932 291 666: Ok. Je note. Ça explique un soucis. Je vais alléger tout ça.
+01/06/2024, 20:11 - +351 932 291 666: Merci
+01/06/2024, 20:12 - Ahmadou Ba: <Médias omis>
+01/06/2024, 20:38 - +33 6 08 67 53 65: Le problème de l’absence d’intelligence dans les IA. Il a la donnée, et génère à partir d’elle, parce que statistiquement, c’est la donnée la plus probable attendue par les prompts reçu
+Tu as essayé de virer ce document et le remplacer par un exemple réel ?
+01/06/2024, 20:40 - Ahmadou Ba: il m'a realisé cette fiche a partir d'un article bien reel
+01/06/2024, 20:40 - +33 6 08 67 53 65: Oops mal compris votre propos initial
+01/06/2024, 20:41 - +33 6 08 67 53 65: As tu essayer dans le prompt de lui donner la directive de ne pas être créatif ?
+01/06/2024, 20:46 - +33 6 08 67 53 65: Genre « ta réponse devra être précise, data-driven,  sans erreur ou interprétation ou invention de ta part. Tu citeras systématiquement les sources que tu auras utilisé pour générer ta réponse
+01/06/2024, 20:46 - +33 6 08 67 53 65: (Oops, tu/vous, je m’égare)
+01/06/2024, 20:47 - +237 6 56 90 71 30: Gemini
+01/06/2024, 22:53 - ‎+1 (510) 529-6974 a demandé à rejoindre le groupe.

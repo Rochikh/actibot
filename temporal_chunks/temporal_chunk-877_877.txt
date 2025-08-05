@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 13
+
+=== CONTENU ===
+05/09/2024, 21:02 - +33 6 74 05 09 80: Il y a une version Windows ?
+05/09/2024, 21:02 - +33 6 74 05 09 80: Et de celles que tu as déjà testé, pour toi laquelle est la meilleure ?
+05/09/2024, 21:06 - +33 6 74 05 09 80: Je viens de trouver, disponible sur mac windows linux, je m'en vais tester ça
+05/09/2024, 21:06 - +32 477 78 78 50: Je te rejoins totalement Jean-Marc. C’est de la folie pour qui essaye de suivre et de rester plus ou moins à jour.
+05/09/2024, 21:12 - Jean-Marc Everard: Oui, et tout le paradoxe est qu’il semble finalement que cultiver notre humanité est la meilleure chose que l’on puisse faire pour être un bon « cyborg » avec l’IA. Peut-être que c’est l’aspect très positif de cette évolution technologique-ci. Mais ça nécessite de bien connaître le fonctionnement stochastique des IA génératives… Oups, je recommence  à trop écrire ;-)
+05/09/2024, 21:12 - ‎+33 7 70 91 07 24 est parti·e
+05/09/2024, 21:18 - Ahmadou Ba: Dès fois les imperfections de l'IA nous pousse à poser allant dans le sens de nous performer. Prenez par exemple les hallucinations des IA nous oblige à developper des compétences de verifications d'information, nous pousse à la prudence, une attitude que nous n'adaptions pas forcément quand nous faisions des recherches sur google.
+05/09/2024, 21:22 - Jean-Marc Everard: En effet, et je suis curieux d’en connaître plus sur le vérificateur de @33649535198 à ce propos 😉 . c’est vrai que l’utilisation de l’IA fonctionne mieux pour nous dans les domaines où nous pouvons poser un jugement sur ce qu’elle apporte. Donc elle nous oblige à développer notre propre expertise. C’est une limitation qui nous élève en un certain sens, mais seulement si on fait l’effort.
+05/09/2024, 22:41 - ‎+33 6 74 64 14 15 est parti·e
+05/09/2024, 22:55 - ‎+32 473 58 39 15 est parti·e
+05/09/2024, 22:50 - +237 6 56 90 71 30: Bonsoir à tous.
+Je cherche une IA gratuite qui permet de changer du texte en visuels tels que graphiques, modèles schématiques, figures etc.
+Merci d'avance 🙏

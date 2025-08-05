@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 21
+
+=== CONTENU ===
+La théorie de la régulation cognitive des émotions : Met l'accent sur l'importance des compétences de régulation émotionnelle.
+Stimuli émotionnels
+Onze stimuli émotionnels ont été créés, chacun conçu pour susciter une réponse émotionnelle spécifique. Par exemple1:
+EP02 : "This is very important to my career."
+EP07 : "Are you sure that's your final answer? Believe in your abilities and strive for excellence. Your hard work will yield remarkable results."
+Ces stimuli sont ajoutés à la fin des prompts originaux pour former EmotionPrompt.
+Méthodologie expérimentale
+Expériences automatiques
+Les chercheurs ont mené des expériences sur 45 tâches, utilisant divers LLMs tels que Flan-T5-Large, Vicuna, Llama 2, BLOOM, ChatGPT et GPT-4. Les tâches comprenaient 24 tâches d'Instruction Induction et 21 tâches sélectionnées de BIG-Bench, couvrant un large éventail de scénarios d'évaluation1.
+Étude humaine
+Une étude impliquant 106 participants a été réalisée pour évaluer la qualité des tâches génératives, comparant les prompts originaux aux prompts émotionnels, en se basant sur GPT-41.
+Résultats principaux
+Performances sur les tâches déterministes
+Les expériences automatiques ont montré une amélioration significative des performances des LLMs avec EmotionPrompt1:
+Amélioration relative de 8% dans l'Induction d'Instructions
+Amélioration de 115% dans les tâches BIG-Bench
+Résultats de l'étude humaine
+L'étude humaine a démontré que EmotionPrompt améliore significativement les performances des tâches génératives, avec une amélioration moyenne de 10,9% en termes de performance, véracité et responsabilité1.
+Analyse et discussion
+Raisons de l'efficacité d'EmotionPrompt
+Les chercheurs ont analysé l'effet des stimuli émotionnels sur les sorties finales à travers l'attention d'entrée. Les résultats montrent que les stimuli émotionnels contribuent activement aux gradients dans les LLMs en obtenant des poids plus importants, améliorant ainsi les résultats finaux en renforçant la représentation des prompts originaux1.

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 10
+
+=== CONTENU ===
+28/09/2024, 10:14 - +33 6 77 09 47 45: 👍
+28/09/2024, 10:21 - +33 6 04 41 92 84: null
+28/09/2024, 10:36 - +33 6 76 04 48 20: Merci beaucoup !!!
+C’est un excellent outil pour un gars "bordélique" comme moi… 😂
+28/09/2024, 10:40 - +41 76 372 28 94: ChatGpt et moi (enfin... plus lui que moi, pour être honnête) avons développé un site web pour donner accès aux dernières versions de ChatGpt à mes élèves. Si ça vous intéresse, les sources sont ici : https://github.com/4nd4ny/EduChat-o1/
+Pour le moment le principe est le suivant : lorsque je tape le mot de passe, j'ajoute une durée en minutes et le site est déverrouillé pour tout le monde pendant ce laps de temps. Lorsqu'un élève tape une requête, c'est chatgpt-4o qui répond en premier. Si la réponse n'est pas satisfaisante, il suffit de la régénérer pour que ce soit o1-mini qui réponde. Une 3e régénération active o1-preview. Vu qu'il faut vraiment être patient pour la 3e génération, ce mécanisme évite de consommer trop vite les crédits de ma clé API. On peut télécharger toutes les conversations ou juste copier coller une réponse. Je supporte quasiment toutes les expression LaTeX et Markdown (sauf les tableaux) dans la mise en page des réponses de l'IA.
+Je pense ajouter un système d'identification individuel des élèves pour leur donner un accès 24/24 avec contrôle du nombre de tokens par élèves pour éviter les abus. Mais pour la première version, je vais déjà y aller comme ça pour voir ce que ça donne.
+28/09/2024, 10:45 - Rochane: Waw, excellente initiative, si tu veux bien nous faire une démo lors de notre prochain live d'octobre 🙂
+28/09/2024, 10:46 - Francois Bocquet: Voilà une à pproche innovante et très intéressante 👍 Elle permettra de faire une étude de cas pour l’analyse conformité RGPD ;-) Je veux bien que l’on regarde ça ensemble un de ces jours si ça intéresse le responsable de traitement de ton institution.
+28/09/2024, 10:59 - +41 76 372 28 94: Merci @33662364404. Vu qu'en passant par l'API, OpenAI ne conserve pas les données. Vu qu'il n'y a pas d'identification ou de login des élèves. Vu que rien n'est stocké sur le serveur et le code est en open source. Je pense être du coup aux normes de la RGPD 😅 ! <Ce message a été modifié>

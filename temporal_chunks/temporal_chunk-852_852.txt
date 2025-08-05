@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 17
+
+=== CONTENU ===
+29/08/2024, 20:30 - Votre code de sécurité avec ~ Evan 🧬 a changé. Appuyez pour en savoir plus.
+29/08/2024, 20:33 - Votre code de sécurité avec ~ Evan 🧬 a changé. Appuyez pour en savoir plus.
+30/08/2024, 17:06 - Votre code de sécurité avec +33 6 09 56 84 42 a changé. Appuyez pour en savoir plus.
+30/08/2024, 19:02 - Votre code de sécurité avec ~ Evan 🧬 a changé. Appuyez pour en savoir plus.
+30/08/2024, 19:07 - Votre code de sécurité avec ~ Evan 🧬 a changé. Appuyez pour en savoir plus.
+30/08/2024, 19:11 - Votre code de sécurité avec ~ Evan 🧬 a changé. Appuyez pour en savoir plus.
+30/08/2024, 23:24 - +33 6 79 02 09 95: Pour info, la Khan academy a fait un stand alone de son IA khanmingo (ils ont quasi 3 ans d'expérience avec vu qu'ils ont eu accès a chatgpt un an avant tout le monde). Pas testé mais ça devrait plaire a certains d'entre vous : https://buff.ly/4dEZKQO
+31/08/2024, 07:37 - Rochane: <Médias omis>
+31/08/2024, 08:15 - +33 7 81 10 74 61: 👍👍🙏🫶🏼
+31/08/2024, 08:40 - +32 479 58 54 12: Il y a déjà des plate-formes par thème. Mais ce n'est pas suffisant.
+Je rêve d'une plate-forme par "tâche" 😏
+31/08/2024, 08:42 - Rochane: Difficile de catégoriser des tâches à mon avis. Tu as une idée précise ?
+31/08/2024, 08:51 - +32 479 58 54 12: C'est vrai qu'il y a des milliers de tâches possibles 😏 Mais ce serait tellement  pratique.
+Ce sont des points qui sont souvent traités dans des articles de blogs, des posts  LinkedIn... mais ils sont abordés plic-ploc. Ce serait super de les centraliser.
+Par exemple: redaction de posts pour les réseaux sociaux, creation de personas, creation de logo, changer le fond d'une image...
+31/08/2024, 08:51 - ‎+33 6 83 82 41 60 est parti·e
+31/08/2024, 20:39 - Rochane: @32494542705 propose une traduction FR de l’AI Assessment Scale de @lfurze et ses collègues, un cadre pour aider les enseignants à clarifier l’utilisation acceptable (ou requise) de l’IA générative par les apprenants dans les travaux d’évaluation https://github.com/jourde/echelle-evaluation-avec-IA/ :  (CC BY-NC-SA)

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 577
+Messages: 21
+
+=== CONTENU ===
+19/12/2024, 14:46 - +32 479 82 01 20: c'est bien officiel 😊
+19/12/2024, 16:25 - +33 7 86 18 83 63: Merci
+19/12/2024, 16:25 - +33 7 86 18 83 63: C un cadeau de l avent
+19/12/2024, 17:25 - +33 6 49 84 08 41: Hello,
+Je cherche à analyser puis exploiter les résultats d'un questionnaire Microsoft Forms qui figurent donc dans un fichier Excel...
+J'ai essayé avec toutes les IA que je connais : ChatGPT me bloque faute de tokens et toutes les autres ne prennent pas le format Excel, sauf Google Ai studio qui me propose un code python pour arriver à un résultat hyper satisfaisant dont il ne me donne qu'un exemple... Sauf que je n'y connais rien en python
+19/12/2024, 17:25 - +33 6 49 84 08 41: Une idée d'une IA possible ?
+19/12/2024, 17:26 - +33 6 49 84 08 41: En version gratuite of course
+19/12/2024, 18:41 - +33 6 66 98 84 23: Bonjour, je dois écrire un mémoire et je cherche un outil pour organiser mes idées, mes recherches, mes liens, docs... Auriez vous un outil à me proposer comme Notion par exemple ? Merci d'avance
+19/12/2024, 18:48 - +41 79 326 51 40: Notebooklm ?
+19/12/2024, 18:52 - +33 7 63 58 01 55: Obsidian, peut-être ?
+NotebooLM est utile pour étudier sur les ressources, pas vraiment pour les organiser.
+19/12/2024, 19:21 - Pierrick: Ce message a été supprimé.
+19/12/2024, 19:24 - Pierrick: Un mix  zotero et notion ça marche bien
+19/12/2024, 20:53 - Rochane: <Médias omis>
+20/12/2024, 17:10 - Votre code de sécurité avec +33 6 67 81 59 56 a changé. Appuyez pour en savoir plus.
+20/12/2024, 17:33 - Letizia ALLEGRINI: Bonsoir à tous que me conseillez vous pour réaliser un compte rendu de réunion enregistrée?
+20/12/2024, 17:34 - +33 6 70 57 72 80: Noota
+20/12/2024, 17:37 - Letizia ALLEGRINI: Merci
+20/12/2024, 17:41 - ‎+33 6 40 60 81 22 est parti·e
+20/12/2024, 17:53 - Badi Badkoubé: Bonsoir à tous! J’ai un ami qui a lancé twin.so c’est un agent IA qui peut naviguer le web pour faire des opérations, pratique pour les outils ou sites qui n’ont pas d’accès API, ils sont aussi intégrés à make et zapier. J’ai pensé que ça peut intéresser la communauté de tester, ils ont un programme ou ils cherchent des consultants pour accompagner certains de leurs clients si certains d’entre vous font du free-lance. Il y’a un formulaire en bas du site pour prendre un rdv et faire une démo!

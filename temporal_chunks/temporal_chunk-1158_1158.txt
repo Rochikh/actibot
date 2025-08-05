@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 22
+
+=== CONTENU ===
+Clique sur l’image en pièce jointe et il t’ouvrira un éditeur ✍🏻
+31/10/2024, 22:30 - +33 6 85 03 31 84: Une fonctionnalité propre à WhatsApp …? Tu es sûr ?
+Pas sur mon iPhone, en tous cas …
+31/10/2024, 22:31 - +32 484 68 10 13: Un nouveau assistant vocal sur Chat GPT !
+31/10/2024, 22:32 - +32 484 68 10 13: Nouvel*
+31/10/2024, 22:46 - +41 79 258 90 36: Il faut d'abord cliquer en haut à droite sur les 3 points, Modifier, ensuite on peut choisir la couleur de son crayon etc..
+31/10/2024, 23:00 - +33 6 13 43 58 18: https://faq.whatsapp.com/812276063311533
+31/10/2024, 23:23 - +33 6 85 03 31 84: Oui, je vois,
+en fait, c’est 1 fonction iOS pour modifier des photos enregistrées dans la Galerie photos de l’iPhone; ça n’est pas 1 fonction dans WhatsApp
+01/11/2024, 04:57 - Votre code de sécurité avec +41 78 748 45 97 a changé. Appuyez pour en savoir plus.
+01/11/2024, 08:39 - Rochane: Mise à jour de la banque de connaissances de ActiBot
+actibot.carrd.co <Ce message a été modifié>
+01/11/2024, 09:01 - +32 498 78 46 36: Bonjour les expert(e)s IA 👋,
+*Avez-vous des recommandations d'IA efficaces, des astuces, des prompts, pour faire analyser un document PDF (texte) de 50 pages ?*
+Quand je le fais avec mon abo chatgpt+ sous le modèle 4o, je remarque qu'il analyse correctement les premières pages et au bout de la Xeme page, il commence à broder et extrapoler des infos 🤔 <Ce message a été modifié>
+01/11/2024, 09:03 - StéphaneIA: Essayes avec aistudio.google.com avec Gemini 1.5 pro ou 1.5 pro 002
+Normalement Gemini se perd moins que ChatGPT.
+Sinon notebooklm
+01/11/2024, 09:03 - Rochane: tu as essayé avec aistudio.google.com sachant que c'est gratuit et ça prend en charge jusqu'à 2Millions de tokens ?
+01/11/2024, 09:04 - Rochane: les grands esprits 😁
+01/11/2024, 09:07 - +32 498 78 46 36: Super merci ! J'essaie cela cet après-midi et je vous tiens au courant
+01/11/2024, 09:12 - Rochane: Le mode vocal avancé de chat Gpt est désormais disponible sur l'application Windows ( ce n'est pas le cas de la version web) <Ce message a été modifié>

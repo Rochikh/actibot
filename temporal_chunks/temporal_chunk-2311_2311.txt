@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 23
+
+=== CONTENU ===
+Merci d'avance
+09/07/2025, 14:58 - Clément Cahagne: Ce message a été supprimé.
+09/07/2025, 14:59 - +33 6 95 11 45 45: Merci
+09/07/2025, 14:59 - Clément Cahagne: Gladia
+09/07/2025, 15:10 - +33 6 86 05 85 44: Merci gladia peut retranscrire des longues réunions de 3 h ?
+09/07/2025, 15:18 - Clément Cahagne: Oui. Déjà fait sur des ateliers de 3 4h, pas de soucis. Sa diarisation permet de savoir qui a dit quoi, et quand. Pratique. Et facilement traitable par la suite sur un LLM
+09/07/2025, 15:26 - +33 6 86 05 85 44: Génial merci
+09/07/2025, 15:27 - Clément Cahagne: N’utilisez pas la fonction LIVE qui ne fonctionne pas très bien en revanche. Enregistrez, puis balancez lui l’audio. C’est bien meilleur en termes de qualité de retranscription
+09/07/2025, 15:31 - +33 6 86 05 85 44: Gratuit ?
+09/07/2025, 15:37 - Clément Cahagne: 10h par mois
+09/07/2025, 15:42 - +33 6 86 05 85 44: Ok top 👍
+09/07/2025, 16:02 - Votre code de sécurité avec +33 6 81 71 22 83 a changé. Appuyez pour en savoir plus.
+09/07/2025, 16:12 - Batier Christophe: Rapport intéressant pour donner des arguments pour reflechir sur l'IA
+“La question que nous devrions nous poser n’est pas de savoir si ChatGPT est utile ou non, mais si le pouvoir irréfléchi d’OpenAI, lié au monopole de Microsoft et au modèle économique de l’économie technologique, est bénéfique à la société”.
+Le développement de l'IA est une question de société, rappellent les chercheurs de l'AI Now Institute. Sur les 4 parties du rapport, .
+Chapitre 1 : Les faux dieux de l'IA
+1.1 : La mythologie de l'IAG : l'argument qui met fin à tous les arguments
+1.2 : Trop gros pour faire faillite : Infrastructures et poussée de capitaux
+1.3 : Course aux armements de l'IA 2.0 : de la déréglementation à la politique industrielle
+1.4 : Refondre la réglementation comme obstacle à l'innovation
+Chapitre 2 : Pile je gagne, face tu perds :
+comment les entreprises technologiques ont truqué le marché de l'IA
+La 3e, parce qu'elle pointe que l'IA est un outil massivement défaillant au service de ceux qui la déploie.

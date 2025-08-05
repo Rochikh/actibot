@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 19
+
+=== CONTENU ===
+29/04/2024, 19:29 - LIO: Boa tarde todos,
+Savez vous s'il existe un outil qui renvoie vers une IA qui réponde à expression de besoin précise.
+Par exemple quel outil me permet de créer un jeu de carte. Mon besoin est de personaliser la pile de pioche etc...
+29/04/2024, 19:34 - LIO: <Médias omis>
+29/04/2024, 19:37 - +33 6 51 43 08 14: Moi j'ai découvert civitai. Je ne sais si vous connaissez mais on peut créer des personnages hyper réalistes. Elle a été utilisée pour créer les personnages qui ont servi à certaines démonstrations de EMO qui crée des vidéos à partir des images +audio. https://civitai.com/models/124421/xxmix9realisticsdxl
+29/04/2024, 21:26 - JulienIA: Tu fais aussi du montage vidéo ? Apparemment Sora sera intégré sur Adobe Premiere. Sur Leonardo, il y a la fonction Motion qui donne un mouvement à tes images générées. C’est encore nouveau mais je sens que ça va bien évoluer !
+30/04/2024, 10:38 - +33 7 85 94 69 69: Sora c’est trop fort je l’ai testé en rigolant avec mes potes c’est très puissant
+30/04/2024, 10:40 - +33 7 85 94 69 69: Si vous voulez la vidéo je peux vous l’envoyer
+30/04/2024, 11:41 - +33 6 51 43 08 14: par quel moyen vous l’avez testée ?
+30/04/2024, 11:42 - Rochane: Tu ne peux pas la partager à tout le monde ici ?
+30/04/2024, 12:19 - Guillaume Singeot: Quelqu'un connait un outil qui peut analyser un fcihier excel avec pas mal de données et différents onglets ? qui peut croiser des données ? fournir des graphes ? etc...
+30/04/2024, 12:44 - +33 7 85 94 69 69: Beh si vas y
+30/04/2024, 13:16 - ‎+972 53-261-3820 a rejoint le groupe à partir de la communauté.
+30/04/2024, 13:17 - ‎+972 53-261-3820 a été ajouté·e
+30/04/2024, 13:17 - +972 53-261-3820: null
+30/04/2024, 13:18 - Vous avez supprimé +972 53-261-3820
+30/04/2024, 13:57 - +216 97 673 413: Quelqu'un connait un outil qui aurait la capacité d'écrire un PV de réunion en présentiel ou en virtuel ?
+30/04/2024, 14:00 - LIO: <Médias omis>
+30/04/2024, 14:01 - LIO: Je ne sais pas s'il y a un outil qui correspond à ton besoin précis mais tu peux peut être trouver dans cette catégorie

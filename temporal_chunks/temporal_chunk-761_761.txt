@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 10
+
+=== CONTENU ===
+Apparemment les sources citées sont des sites avec un très bon SEO, et ne sont donc pas choisies pour leur qualité mais bien en fonction de leurs efforts marketing pour avoir de la visibilité, tout comme sur Google.
+30/07/2024, 07:16 - Rochane: Je viens de faire des petites recherches sur la question de comment Perplexity et ChatGPT font pour citer leurs sources, et franchement, c'est pas si simple que ça en a l'air ! 😅
+Alors voilà ce que j'ai compris :
+Ces p'tits malins n'utilisent pas juste Google comme nous autres, hein, ils ont leurs propres systèmes bien sophistiqués pour scanner le web. Perplexity par exemple, il fait sa petite mise à jour quotidienne pour rester au taquet
+30/07/2024, 07:19 - +33 6 49 84 08 41: Sinon, je veux pas faire le rabat-joie, mais je discutais hier soir d'IA avec ma sœur et mon beau-frère qui me parlaient d'un de leurs collègues chercheurs qui s'intéresse, depuis 30 ans, aux performances dans le sport de haut niveau lors des JO.
+👀 Quel rapport avec l'IA ? Et bien son équipe et lui ont identifié un modèle dans le sport de haut niveau qu'ils parviennent à retrouver et à calquer sur d'autres domaines (climat, politique, ...).
+⛹🏽 En l'occurrence, le modèle de base (sur le sport), présente une courbe montante à partir du début du 20e siècle où des records étaient régulièrement battus. La courbe s'accentue encore après WWII pour finalement ralentir et stagner dans les années 80, pour arriver à la situation d'aujourd'hui (courbe descendante) où il n'y a plus beaucoup de records battus.
+Leur modèle fonctionne également à l'échelle individuelle, l'âge de 20-25 ans étant le paroxysme de la courbe du sportif.
+👉🏼 *Pour revenir à l'IA, son hypothèse est que le modèle s'appliquera aussi :* _performances de l'outil x contraintes techniques et environnementales = plafond de verre_ (en gros)
+😅 Bon, moi je ne suis pas chercheur et, après 2 - 3 apéros, je ne suis plus sûr des détails ni du nom du type, mais en gros c'est ça. Si ça vous intéresse, je peux récupérer la source

@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 595
+Messages: 9
+
+=== CONTENU ===
+14/07/2024, 20:58 - +32 493 87 42 05: Bjr est-ce que quelqu'un s'y connaît en création de   dessin animé pour enfant et accepterai de me prendre sous son aile? Je suis perdu en chemin et je tourne en rond. Je suis surtout bloquée au niveau des images à animer en vidéo. J'ai utilisé deux IA Luma IA et  inVideo mais sans succès. Je galère tjs. Peut qu'il faut autres logiciels ??? Merci par avance!
+15/07/2024, 09:29 - Jacques BARATTI: C'est le nouveau modèle attendu de chez OpenAI (GPT5?) qui comprendrait des "agents" (d'où le nom agentique) spécialisés dans différentes taches
+15/07/2024, 09:37 - Rochane: Les agents d'IA sont des coéquipiers d'IA qui effectuent des tâches en mode pilote automatique. Ils peuvent être munis de connaissances spécialisées dans un domaine ainsi que d'outils. Ces agents ont la capacité de raisonner lorsqu'on leur confie une tâche et de prendre des décisions dynamiques sur les mesures à prendre pour la mener à bien. Ils sont adaptatifs et flexibles comme les humains si je puis dire 🙂
+L'outil sur lequel je m'entraîne s'appelle resonnance.ai <Ce message a été modifié>
+15/07/2024, 14:42 - Fred IA: Selon OpenAI, ChatGPT se situe actuellement entre le niveau 1 et le niveau 2. Sam Altman affirme que d'ici 5 ans, on pourra parler d'AGI après le niveau 5 (la plupart des chercheurs estiment plutôt ce délai à 10 ans). https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are
+15/07/2024, 14:56 - +33 6 76 04 48 20: Ça devient impressionnant
+15/07/2024, 14:57 - Clément Cahagne: resonnance.ai : n’existe pas 🧐
+15/07/2024, 15:00 - Rochane: sorry : https://relevanceai.com/api
+15/07/2024, 16:05 - Pierrick: Bonjour, sauriez-vous si un travail global mutualisé est fait ou à venir soit au niveau du ministère soit en inter-établissement, Comue ... pour proposer aux établissement du supérieur des resources ou parcours de formations , moocs validés pour accompagner la sensibilisation des étudiants aux enjeux de l'IA (formation , risques, éthiques environnementaux ...) . Nous travaillions de notre côté mais le sujet me paraît éminemment collectif. J'ai vu du côté de PIX mais pour le moment il faut attendre (voir CR en PJ) . Dans l'attente de vous lire Merci Pierrick https://eu1.easiware.fr/pix/go.aspx?u=/CRM/DWL&uid=guest&pm=6&col=ffffff&ulg=2&MediaUID=EMAIL-O2CQ2MCV402Q25E2C5B2EJH526H

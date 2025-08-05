@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+2. Une fois ces informations recueillies, tu procéderas à l'analyse comparative et me présenteras les résultats sous forme d'un tableau structuré comme suit :
+- En-tête du tableau : Document, Critère de comparaison, Observation, Indicateur d'anomalie, Note de l'analyste.
+- Corps du tableau : Chaque ligne correspondra à un document analysé avec les détails des observations pour chaque critère de comparaison, les indicateurs d'anomalie relevés et tes notes explicatives.
+3. En fin de tableau, tu fourniras un résumé des anomalies détectées, en soulignant les documents nécessitant une attention particulière et en proposant les prochaines étapes pour une investigation approfondie.
+14/11/2023, 21:42 - Enes Cornelis: Bonjour, je viens tout juste de rejoindre le groupe, pourriez-vous m’envoyer les visuels sur les prompt ? Merci
+14/11/2023, 21:42 - Thierry VANOFFE: Tiens @33649535198  on ne se ferait pas un Drive partagés avec tous les visuels, infographies, méga prompts ou encore docs utiles pour le groupe ?
+14/11/2023, 21:43 - Enes Cornelis: Je pense que ça peut-être une bonne idée pour les nouveaux arrivants qui n’ont pas accès aux ressources antérieures <Ce message a été modifié>
+14/11/2023, 21:43 - Lucie: Demain vais animer une visio d'une heure pour apprendre à générer des images. Ça intéresse qqn. Je vais pas faire de publication sur le sujet ce sera en petit comité
+14/11/2023, 21:44 - Laurent The Cure: Le premier
+14/11/2023, 21:44 - Laurent The Cure: Le second
+14/11/2023, 21:44 - Thierry VANOFFE: oui ça m'intéresse ! J'adore le reverse prompt en ce moment. Décris moi cette image (que j'injecte) et refais une image avec cette description, les résultats sont juste waouh dans Chat GPT 4.
+14/11/2023, 21:44 - Rochane: On est en train de réfléchir justement sur un espace de mutualisation et de veille de tous ces contenus. Inscris toi à l'autre groupe de la communauté 🙂
+14/11/2023, 21:45 - Laurent The Cure: Je suis aussi intéressé svp
+14/11/2023, 21:45 - Thierry VANOFFE: il s'appelle comment celui là ?

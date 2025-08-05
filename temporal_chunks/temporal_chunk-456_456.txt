@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 12
+
+=== CONTENU ===
+23/04/2024, 13:22 - ‎+31 6 85386407 a été ajouté·e
+23/04/2024, 13:22 - ‎+31 6 85386407 a rejoint le groupe à partir de la communauté.
+23/04/2024, 13:22 - ‎+1 (715) 969-9335 a rejoint le groupe à partir de la communauté.
+23/04/2024, 13:22 - ‎+32 472 28 88 16 a rejoint ce groupe grâce à son lien d’invitation
+23/04/2024, 13:48 - +33 6 89 06 86 68: Oui pour LM Studio Il faut avoir une très bonne configuration RAM et CPU sur ton PC, l'outil te dit la compatibilité du modele avec ton PC lorsque tu le télécharge normalement.... je viens de tester Llama 3... c'est plus long que sur Groq mais cela fonctionne bien... cela ne coute rien et tu garde la confidentialité... dommage que l'on ne peut pas soumettre de fichier... <Ce message a été modifié>
+23/04/2024, 14:16 - Jean-Marc Everard: Ok, je suis convaincu (pas trop difficile à convaincre non plus 😉), je vais essayer ! Merci pour tous ces conseils. Ça fait un moment que je souhaite faire des tests en local pour voir la possibilité sur serveurs propres. Je sais que Safebrain est ok au niveau de la confidentialité mais les demandes que je reçois vont même vers des solutions totalement coupées d’internet…
+23/04/2024, 14:25 - +34 618 97 47 94: Pour ceux qui sont un peu Tech, avec un bon niveau d’anglais, curieux à propos de la création d’agents, et souhaitent créer un agent en local, il y a la communauté de David Ondrej vous l’avez peut être vu passer sur YouTube, tous les tutos sur Skool: https://www.skool.com/new-society/about
+23/04/2024, 14:49 - ‎+32 492 88 67 72 a rejoint le groupe à partir de la communauté.
+23/04/2024, 15:09 - Jean-Marc Everard: En fait, je me suis trompé, j’ai confondu LM studio avec PrivateLLM. Déjà testé celui-ci ?
+23/04/2024, 15:10 - Jean-Marc Everard: Bon, LM studio a l’air gratuit, ce qui est un plus 👍🏻👌
+23/04/2024, 15:24 - Rochane: Waw, tu pourrais nous faire une démo lors du prochain live ?
+23/04/2024, 15:34 - +33 7 49 40 50 92: h5p lance Smart Import pour créer tout type d'activité à partir de PDF ou de liens. Le doc suivant présente le procédé à la fin. Avant, des "recettes" de prompts pour obtenir des sorties prêtes à importer. https://h5p.org/ai

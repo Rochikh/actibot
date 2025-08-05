@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 17
+
+=== CONTENU ===
+https://learning.coach/fresque-ia-pedagogiques/
+25/10/2024, 17:40 - ‎+33 6 63 78 33 03 a rejoint ce groupe grâce à son lien d’invitation
+25/10/2024, 19:22 - Jacques BARATTI: Je suis à la recherche d'une IA qui ferait une document manuscrit à partir d'un texte numérisé. Quelqu'un a une idée ?
+25/10/2024, 19:29 - martinyemani IA: Autrement dit une IA génératrice de textes manuscrits?
+25/10/2024, 19:47 - Jacques BARATTI: oui je fournis un texte numérisé et l'IA transcris en manuscrit
+25/10/2024, 19:48 - Rochane: Essaie transkribus ou Myscript, un truc dans le genre
+25/10/2024, 19:49 - ‎+33 6 19 69 80 09 a demandé à rejoindre le groupe.
+25/10/2024, 19:56 - Jacques BARATTI: merci je teste
+25/10/2024, 20:07 - ‎+33 6 19 69 80 09 a rejoint ce groupe grâce à son lien d’invitation
+25/10/2024, 20:13 - +41 79 326 51 40: Bonsoir,
+*Question astuces/aide agencement de la mise en page d'infographies :*
+Je dois créer des infographies pour proposer, sur un tableau d'affichage à l'attention des enseignants de mon établissement, des outils utiles dans le cadre d'une veille technologique.
+J'utilise canva.com pour la mise en page. Niveau contenu c'est facile, par contre je perds un temps fou pour me décider sur le "comment agencer, de manière optimale, la mise en page" car je ne suis bien évidemment pas graphiste 😅Auriez-vous des astuces svp? D'avance merci.
+25/10/2024, 20:34 - +41 76 372 28 94: https://www.usine-digitale.fr/article/manuscry-quand-les-robots-ecrivent-comme-les-humains.N2075711
+25/10/2024, 20:37 - Jacques BARATTI: Merci Christian. Si j'ai bien compris ce sont des robots qui transcrive un texte numérique en écriture manuelle. Il faut donc être sur place...
+25/10/2024, 20:40 - +41 76 372 28 94: Ça ne doit pas être très difficile à fabriquer... Au 18e siècle on savait déjà le faire ! https://www.mahn.ch/fr/expositions/automates-jaquet-droz
+25/10/2024, 20:40 - Jacques BARATTI: En fait ils proposent des services payants pour envoyer des courriers aux personnes qu'on leur fournit

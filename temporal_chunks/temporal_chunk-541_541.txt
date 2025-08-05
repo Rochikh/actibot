@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 13
+
+=== CONTENU ===
+Il est plus puissant que le GPT-4 de la version payante et surtout beaucoup plus rapide.
+Et il est accessible depuis la version gratuite.
+En revanche, si vous voulez : faire des recherches sur le web ou générer des images, vous aurez toujours besoin de la version payante.
+Mais il y a d'autres outils qui permettent de le faire.
+😃 La bonne nouvelle : tous les modèles se ressemblent, donc si vous avez appris à prompter avec ChatGPT vous pouvez prompter de la même manière avec Claude, Gemini ou même Perplexity...
+Ma recommandation si vous ne voulez pas alourdir votre budget :
+- Arrêtez votre abonnement payant et conservez uniquement la version gratuite.
+- Utlisez l'argent économisé pour vous abonner à des services spécialisés de meilleure qualité.
+Voici 5 alternatives à la version payante de ChatGPT selon ce que vous souhaitez faire :
+1) Brainstorming créatif et écriture de contenus : Claude d'Anthropic est aujourd'hui le meilleur chatbot pour le travail créatif, la génération d'idées, l'analyse et la création de contenus. Sa version "Opus" est accessible en France depuis une semaine.
+2) Génération d'images : Midjourney 6 est aujourd'hui le meilleur outil de génération d'images (très loin devant Dall-E 3 inclus dans la version payante). Si vous cherchez une option gratuite : Adobe Firefly 3, Leonardo ou Visual Electric.
+3) Recherche sur Internet : Perplexity est aujourd'hui le meilleur moteur de recherche assisté par IA, devant Google et Gemini. Sa version payante permet d'utiliser les meilleurs modèles et d'obtenir des résultats plus pertinents et de sélectionner le type de source à explorer.
+4) Si vous ne deviez choisir qu'un seul abonnement payant, Poe (Poe.com) est la meilleure option. Vous pouvez utiliser tous les grands modèles de langage du moment (Claude 3, Gemini Pro 1.5, Llama 3, GPT-4, Mistral Large...), exploiter des documents, générer des images et créer vos assistants personnalisés (l'équivalent des GPTs) avec le modèle de votre choix et même les faire dialoguer entre eux.

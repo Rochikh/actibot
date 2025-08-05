@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 17
+
+=== CONTENU ===
+05/01/2025, 23:44 - +41 79 258 90 36: <Médias omis>
+05/01/2025, 23:44 - +41 79 258 90 36: <Médias omis>
+06/01/2025, 09:19 - +33 7 63 58 01 55: Bonjour, quand vous utilisez NotebookLM, avez-vous plutôt tendance à mettre beaucoup de sources dans un seul notebook et interroger l'ensemble et/ou des ressources ciblées (j'ai un petit doute sur la capacité de l'outil à réellement se concentrer sur les ressources sélectionnées), ou créer plusieurs notebooks dans lesquels vous mettez peu de ressources sur une thématique très précise (voire une seule) et avoir des conversations très ciblées, quitte à synthétisr les reéponses dans un autre notebook ou même un autre outil (ChatGPT...) ?
+06/01/2025, 09:20 - +33 7 63 58 01 55: (j'espère que ma longue question est compréhensible ! 😅)
+06/01/2025, 09:21 - +33 7 87 35 78 96: C'est compréhensible, de mon côté je prépare en amont un document structuré je trouve cela plus efficace. Et avantage sachant ce que je cherche à obtenir je peux estimer si le résultat est "bon" ou pas
+06/01/2025, 10:49 - +33 6 89 33 49 33: Personnellement, je fais de notebooklm thématiques en faisant attention à sélectionner de documents de bonne qualité.
+06/01/2025, 11:08 - ‎Teodorina Tiba a demandé à ajouter +33 6 60 57 21 43.
+06/01/2025, 11:12 - Zaragoza JUAN JOSÉ IA: https://youtu.be/hv2U3tIu96Q?si=J_hyP6Xvu__QxaRL
+06/01/2025, 11:12 - Zaragoza JUAN JOSÉ IA: Réflexions chantées
+06/01/2025, 11:12 - Zaragoza JUAN JOSÉ IA: Bonne rentrée
+06/01/2025, 11:12 - Zaragoza JUAN JOSÉ IA: Bonjour,
+Voici les étapes pour l'élaboration de cette vidéo ( pour le débat,bien sûr )...
+A partir d'extraits de divers textes du groupe
+, modifiés par divers outils numériques , pour en faire une chanson.
+Utilisation du programme SUNO ( choix voix, rythmes  instruments), BanLab, pour le mixage son, montage via CANVA, Movavi...
+Voici une proposition structurée pour l’élaboration de cette vidéo pour le débat, en suivant les étapes que vous avez décrites :
+Étapes pour la création de la vidéo :

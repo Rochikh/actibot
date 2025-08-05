@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 9
+
+=== CONTENU ===
+"In the morning at dawn, in autumn, in Paris or Rouen, a 40-year-old municipal employee sweeps around a public bench. He is French, originally from Sarcelles, 8 generations French with teal, brown eyes."
+14/06/2024, 09:32 - +33 6 71 84 16 51: Sur la seconde vidéo ça a été très rapide. La première vidéo n'est jamais sortie. Il y a eu une erreur.
+14/06/2024, 09:36 - +33 6 71 84 16 51: D'après ce que j'ai vu sur youtube et X, beaucoup génèrent une image sur MidJourney, Dall.e.3 ou Leonardo et la transforment en vidéo.
+14/06/2024, 09:52 - Fred IA: Digne de scènes du film les sous-doués 😁 https://www.journaldugeek.com/2024/06/14/un-etudiant-invente-une-nouvelle-facon-de-tricher-grace-a-lia/
+14/06/2024, 09:52 - Jean-Marc Everard: Merci beaucoup Pierrick pour cette excellente synthèse (et pour la mention, il n’y a rien à faire ça fait toujours plaisir 😉 ). Pour info, je suis en train de lire « Green IA, l’intelligence artificielle au service du climat » de Gilles Babinet. Je vous en fait un petit résumé quand j’ai fini si cela peut intéresser la communauté (mais je lis lentement et beaucoup de choses en même temps en ce moment donc d’ici 2 semaines peut-être).
+14/06/2024, 09:53 - +33 6 62 83 20 00: il y aussi https://lumalabs.ai/ qui très prometteur pour lé génération de micro vidéo en lui donnant des images et un storyboard
+14/06/2024, 09:56 - +33 6 71 84 16 51: "peine de prison" ils ne plaisantent pas en Turquie !
+14/06/2024, 09:59 - Fred IA: C'est clair !
+14/06/2024, 10:03 - Jean-Marc Everard: Bonjour Lio, as-tu déjà rendu ton mémoire ? Je me permets de poser la question car il y a une petite coquille : c’est Albert Bandura (et pas Bandula) qui a mis au point le concept d’agentivité (souvent lié avec un autre concept qui explique des dimensions de la motivation : le sentiment d’efficacité personnelle). Je pense en effet que l’IA peut remettre ce concept en évidence dans le travail de l’enseignant. Pour moi ceci va dans le sens de beaucoup d’échanges ici : l’IA est un partenaire de l’humain dans la création mais elle ne doit pas avoir le dernier mot en quelque sorte. On peut l’utiliser pour s’inspirer et même mieux pour se challanger, mais selon moi pas pour lui confier l’essentiel de la réflexion sinon on s’enfermera dans des logiques de reproduction de l’existant.

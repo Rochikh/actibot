@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+Ou alors
+Ils évaluent et améliorent le texte IA en suivant des critères simples pour produire un meilleur résultat.
+28/10/2024, 02:27 - Gregoire IA: Mon approche va vers la classe inversée...faut dire que je bosse sur l'intégration de l'enseignement hybride pour l'université de Montréal.
+Pour faire court : tout ce qui est transmissif doit se faire en  asynchrone
+Donc pour NotebookLM je propose à mes profs de générer un dialogue à partir d'un de leur document de cours (lecture scientifique ou présentation), les étudiants doivent analyser ce qu'ils apprennent avec le dialogue et identifier des erreurs, des faiblesses, des points à approfondir selon les objectifs du cours.
+Le document source du dialogue est donné après la rétro du prof / envoie de la note
+28/10/2024, 02:28 - Gregoire IA: Du coup, ils peuvent même utiliser l'IA pour faire ce travail 😅
+28/10/2024, 08:22 - +33 6 19 75 63 49: Merci Rochane! C’est l’idée, en tout cas c’est la 2e idée.
+Pour la 1ere: même si je sais que les étudiants ont accès à l’IA, je n’oblige pas les étudiants à l’utiliser car ils n’ont aucune obligation à avoir un compte dans l’université (et ils ont droit de s’y oppose, c’est déjà arrivé) et donc c’est nous qui leur donnons le résultat de la meilleure IA.
+Ceci n’empêche pas le problème de la correction linguistique cependant…
+Pour la formation et la conception on a largement intégré l’IA dès sa sortie, mais pour l’évaluation en *langues* a long terme je ne vois pas bcp de solutions…
+Mais on parle surtout d’outils dernièrement dans ce groupe, peut être que je suis hors sujet!
+28/10/2024, 08:30 - +33 6 19 75 63 49: Merci Grégoire. On est sur la même longueur d’ondes je pense pour ce qui est regard critique sur le contenu généré avec IA. Tu nous diras ce que ça donne!
+28/10/2024, 09:13 - +41 76 372 28 94: @33619756349 : Si jamais, avec https://educh.at qui est en open source et qui respecte maintenant à 100% la RGPD pour les élèves grâce aux feedback de François, vous pouvez offrir ChatGpt en classe aux élèves qui ne souhaitent pas se créer de compte.

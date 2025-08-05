@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 20
+
+=== CONTENU ===
+Il m’a créé un genre de poster avec 1 dessin et le nom du verbe pour chaque verbe;
+Non exportable en CVS, bien sûr ;
+Limité à du texte pur pour le moment donc .
+Merci en tous cas
+23/05/2025, 12:05 - Jacques BARATTI: Ou l'exportation ne fonctionne qu'avec du texte, mais tu peux ensuite ajouter des images directement dans ANKI
+23/05/2025, 12:10 - ‎~ Jessy Bonbon est parti·e
+23/05/2025, 14:08 - Jean-Marc Everard: Plus un… et d’ailleurs pour tout ce qui touche à Make. Je me suis donné un mois pour améliorer mes compétences en automatisation.
+23/05/2025, 14:13 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+23/05/2025, 15:02 - ‎Olivier Gaillard a rejoint le groupe grâce à votre invitation
+23/05/2025, 15:25 - Rochane: https://youtube.com/shorts/buKJQBExUy8?feature=shared
+Incroyable, créé avec Veo3 😲
+23/05/2025, 15:46 - +33 6 52 73 73 42: Curieux de voir la gue*le du prompt ! (je fais de la vidéo et connais très bien le pipeline de production ... et là ... ça demande des connaissances en matière de lumières, valeurs de plans ... mais je suis curieux qd même !) <Ce message a été modifié>
+23/05/2025, 16:03 - Batier Christophe: Hello Celine,
+Pour ma part, J'ai mis en place une veille collaborative autour l'IA sur Notion c'est expliqué ici
+le petit + mais tres efficace c'est le plugin "save to notion"
+- et un deuxieme pas présenté dans la video c'est "people to notion" qui me permet de créer automatiquement la fiche d'un nouveau contributeur à partir de son profil linkedin
+https://christophe-batier.blogspot.com/2024/02/ia4sup-une-veille-collaborative-autour.html
+23/05/2025, 16:37 - +33 6 82 42 59 35: Merci pour vos retours. Et la dimension collaborative et interessante : je vais regarder attentivement @33785744116 😉👍 <Ce message a été modifié>
+23/05/2025, 17:09 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+23/05/2025, 17:27 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 17
+
+=== CONTENU ===
+01/01/2025, 20:04 - +33 6 52 73 73 42: Qqun à une idée d'une IA capable d'analyser un QCM au format pdf et de répondre correctement aux questions de ce QCM !?
+01/01/2025, 20:07 - Rochane: Claude est le meilleur pour ça. Après, tout dépend des questions du QCM, si ça nécessite une connaissance récente, peut-être pas puisque Claude n'est pas connecté.
+Tu as essayé avec Chat Gpt ?
+01/01/2025, 20:09 - +32 477 95 34 42: Perso je le fais avec chatgpt 4 pour mes eval
+01/01/2025, 20:10 - +33 6 52 73 73 42: Oui oui ... parfois les réponses apportées sont erronées ! 😅
+Je voulais croiser le résultat de différentes IA !
+01/01/2025, 20:43 - +33 6 69 98 28 93: Bonne année à toutes et à tous et merci pour la richesse de ces discussions
+J'utilise d'ordinaire natural readers pour passer mes textes en audio mais limitée...j'avais vu passer  d'autres ia mais je ne les retrouve plus. Une bonne âme en aurait sous la main?
+Un grand merciiiii
+01/01/2025, 20:52 - Rochane: Le meilleur, comme on l'a dit plus haut et eleven labs mais c'est limité en gratuit. Après, tu en as d'autres comme text reader...
+01/01/2025, 20:53 - +33 6 69 98 28 93: Un grand merci Rochane🙏
+01/01/2025, 20:54 - +33 6 71 11 12 91: https://elevenlabs.io/, https://notebooklm.google.com/
+01/01/2025, 20:55 - Rochane: NotebookLM fait du text to speach?
+01/01/2025, 20:55 - +41 79 258 90 36: Essayer aussi le Prompt IA Expert https://chatgpt.com/g/g-6758715ce570819195cffefb313f377f-hg-prompt
+01/01/2025, 20:56 - +33 6 71 11 12 91: indirectement, en créant le podcast, mais ce n'est peut-être pas la solution ici... Tout dépend de ce que l'on cherche à reproduire.
+01/01/2025, 21:13 - +33 6 69 98 28 93: Des témoignages mis en audio pour des élèves pour une CO
+01/01/2025, 21:28 - +33 6 19 75 63 49: Bonjour! Les réponses m’intéressent! J’en fait avec elevenlabs mais l’intonation n’est pas toujours la bonne, connaissez-vous un moyen d’améliorer cela? (sur l’intonation des questions par exemple, ou simplement des fins de phrases) merci!

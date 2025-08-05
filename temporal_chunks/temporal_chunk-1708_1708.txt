@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 15
+
+=== CONTENU ===
+03/02/2025, 19:54 - Gregoire IA: Je l'ai avec mon forfait sur Poe.com
+03/02/2025, 19:55 - Rochane: Groq c'est très rapide car n'utilise pas des GPU et Grok, c'est l'IA du facho Musk que tu trouves sur X gratuitement depuis 2 mois
+03/02/2025, 19:55 - Rochane: T'as pas accès à Qwen ? Moi je l'ai depuis la semaine passée en ligne 🤔
+03/02/2025, 19:57 - Ahmadou Ba: https://chat.qwenlm.ai/
+03/02/2025, 20:45 - Jean-Marc Everard: Grégoire, j’ai vu ton post LinkedIn là dessus mais de façon générale, tu recommanderais Poe en payant pour les bots?
+03/02/2025, 22:56 - +33 6 66 98 84 23: Si on installe en local une IA et qu'on lui donne le bon cadre avec le prompt rien ne sort et on est clean!
+03/02/2025, 23:01 - Gregoire IA: Oui, la plateforme donne accès à tous les LLM. Elle nous protège également sans le vouloir de la censure présente sur la plateforme de Deepseek. (Réf mon carrousel de dimanche)
+03/02/2025, 23:02 - Gregoire IA: Donc que ce soit pour utiliser un LLM ou développer son propre BOT je trouve l'approche plus intéressante.oour développer notre esprit critique et par écho notre niveau de litteratie IA
+03/02/2025, 23:03 - Ahmadou Ba: Oui mais il faut vraiment que la machine soit puissante sinon on plante tout le temps et c contre productif.
+Mais l'avenir de l'IA dans l'éducation se trouve dans ce domaine, a defaut de pouvoir personnaliser les chatbot d'avantage.
+03/02/2025, 23:04 - Gregoire IA: Il faut un ordi de gamer 😉
+Je me suis pris un Dell Alien
+04/02/2025, 06:22 - Jean-Marc Everard: Ou un Mac Pro ou Mac mini m4 (qui me fait de l’œil), mais on est d’accord que c’est un vrai investissement. Perso j’économise pendant des années avant de changer…l’avantage c’est la durée de vie.
+04/02/2025, 07:15 - +41 76 372 28 94: Personnellement, je suis plutôt pour un appareil dédié aux IA comme celui annoncé par NVIDIA : "The World’s Smallest AI Supercomputer : Project DIGITS" https://www.nvidia.com/en-us/project-digits/
+04/02/2025, 07:45 - +33 6 72 75 43 48: Bonjour Grégoire merci pour les infos je dois changer de PC bientôt peux tu me donner la réf de celui que tu as ? Quel ALIEN ? Merci beaucoup bonne journée

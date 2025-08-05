@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 21
+
+=== CONTENU ===
+09/03/2025, 11:00 - ‎+33 6 44 22 10 79 a demandé à rejoindre le groupe.
+09/03/2025, 11:09 - estelle Duterage Drion IA: OK, mais pour le moment on ne peut pas s’abonner, y aura-t-il un suivi sur Manus de la part de la communauté?
+09/03/2025, 11:21 - ‎+33 6 44 22 10 79 a rejoint ce groupe grâce à son lien d’invitation
+09/03/2025, 12:50 - ‎+33 6 13 07 80 27 a demandé à rejoindre le groupe.
+09/03/2025, 13:04 - ‎~ Yannick est parti·e
+09/03/2025, 12:30 - +33 6 19 89 32 62: En effet c’est bluffant ! 😃C’est vraiment un énorme ai agent autonome mais je ne dirais pas forcément qu’on est à l’IAG pour autant.
+09/03/2025, 15:16 - ‎+33 6 13 07 80 27 a rejoint le groupe à partir de la communauté.
+09/03/2025, 15:28 - +33 6 15 80 60 40: Moi non mais il y aura Growbot : un assistant pédagogique qui corrige en automatique des questions ouvertes et qui assure le suivi post formation
+09/03/2025, 15:36 - Votre code de sécurité avec +33 6 01 42 09 49 a changé. Appuyez pour en savoir plus.
+09/03/2025, 15:36 - +44 7776 747507: Bien noté, merci. Bon salon
+09/03/2025, 15:51 - Votre code de sécurité avec +33 6 35 32 61 27 a changé. Appuyez pour en savoir plus.
+09/03/2025, 16:48 - Rochane: <Médias omis>
+09/03/2025, 16:53 - estelle Duterage Drion IA: Rochane tu peux nous en dire plus?
+09/03/2025, 18:11 - Daniel Pappalardo: https://www.heuristiquement.com/2025/02/62-de-chute-des-performances-leffet.html?m=1
+09/03/2025, 18:16 - estelle Duterage Drion IA: Super merci beaucoup
+09/03/2025, 20:27 - +44 7776 747507: J'avais écrit un post LinkedIn sur cette étude et élaboré sur le "cognitive offloading"! Etude très intéressante!
+09/03/2025, 20:52 - ‎+33 7 63 11 65 22 a demandé à rejoindre le groupe.
+09/03/2025, 20:52 - ‎+33 7 63 11 65 22 a rejoint le groupe à partir de la communauté.
+09/03/2025, 21:22 - ‎~ Test Rochane est parti·e
+10/03/2025, 05:47 - أسماء 📿: Bonjour, je cherche une IA qui peut me lire un dialogue avec choix de voix pour préparer un contenu pédagogique pour un cours d'anglais
+10/03/2025, 06:16 - Rochane: Elevenlabs

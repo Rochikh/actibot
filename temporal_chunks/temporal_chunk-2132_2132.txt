@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 21
+
+=== CONTENU ===
+- Assistant de Newsletter de classe
+- Correcteur de copies manuscrites
+- Assistant d’histoire
+- BOT-A-SAURUS le Créateur d’Agents
+🙌 Dans cet article, vous trouverez à nouveau des instructions détaillées pour créer ces agents vous-même. J’ai également pris soin de vous fournir les 6 agents en téléchargement direct (voir mon précédent article pour apprendre rapidement comment les importer).
+Ces Agents sont créables, modifiables et partageables gratuitement.
+Bonne lecture 📖
+https://splc.be/6-agents-pedagogiques-pour-la-classe/
+29/04/2025, 18:36 - Francois Bocquet: Dès aujourd’hui, Google peut générer des podcasts en français en simulant une conversation entre deux intelligences artificielles. Un service disponible dans NotebookLM, son bloc-notes capable d’analyser des documents pour vous aider à les apprendre ou à les utiliser.
+https://www.numerama.com/tech/1961141-le-meilleur-service-ia-de-google-debarque-en-francais.html
+29/04/2025, 19:29 - Rochane: Effectivement, je viens de tester, en french direct 👌
+29/04/2025, 19:35 - +33 6 52 73 73 42: C'est bon ça !
+29/04/2025, 19:39 - +41 79 326 51 40: 🥳🎊🥳🎊🥳🎊
+NotebookLM vient de faire une discrète mise à jour : les podcasts sont adaptés à plusieurs langues, dont le français !
+29/04/2025, 20:06 - Rochane: Regarde juste en haut 😁
+29/04/2025, 20:41 - +41 79 326 51 40: Tant pis... laissez-moi jubiler tout de même... 😅 d'autant plus que je venais de finir de préparer une formation pour mes collègues cet après-midi avant la mise à jour et suis bonne pour modifier la partie sur les podcasts 😶‍🌫
+29/04/2025, 20:43 - +33 7 66 46 62 19: 📢✨ Appel à participation pour mon étude de mémoire ! ✨📢
+🎓 Dans le cadre de mon Master MEEF IPN (Ingénierie pédagogique du numérique), je mène une recherche sur un sujet passionnant :
+💡 "L’impact de l’intelligence artificielle générative sur l’enseignement des langues : vers une pédagogie personnalisée et interactive."
+🔍 L'objectif ?
+Comprendre les usages des IAG, leurs effets sur l’enseignement des langues, ainsi que les défis et limites qu’ils posent.

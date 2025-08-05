@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 624
+Messages: 17
+
+=== CONTENU ===
+Hosts spoke with Gregoire from Novagogie who analyzed the document. Gregoire is a man, an educationnal designer and advisor for universities since more than 15 years.
+Gregoire never speacks only the 2 hosts during the dialogue.
+ps : je peux parfois avoir besoin de préciser comment prononcer une siglaison ou un acronyme, orienter la conversation vers un point que je veux aborder, etc.
+24/11/2024, 23:00 - Gregoire IA: <Médias omis>
+24/11/2024, 23:01 - Gregoire IA: note : le prompt doit etre remis pour chaque génération (bouton personnaliser), le laisser en Note ne suffit pas
+24/11/2024, 23:48 - +33 7 44 11 22 11: Bonsoir la communauté !
+J'aimerais savoir si vous connaissez un outil IA qui peut écouter un podcast de 41 minutes et me fournir un résumé en texte à la fin de l'écoute ?
+Si oui, je suis Open.
+Merci la communauté.
+24/11/2024, 23:51 - +213 657 80 73 88: Ce message a été supprimé.
+24/11/2024, 23:53 - +213 657 80 73 88: Salut je suis à la recherche des outils ai pour la scénarisation pédagogique ďun cours de littérature
+24/11/2024, 23:53 - +33 6 71 11 12 91: Dicte.ai
+24/11/2024, 23:54 - +33 7 44 11 22 11: Merci énormément 🙏🏽
+25/11/2024, 00:01 - Gregoire IA: NotebookLM peut faire avec un lien youtube. Si le podcast est accessible sans abonnement alors ça devrait fonctionner. Je lui ai déjà donné un .MP3 à analyser. 🤗 <Ce message a été modifié>
+25/11/2024, 09:03 - Rochane: Je suis en train de tester copilot pro et je suis vraiment déçu de l'UX au niveau de l'attente des réponses et la qualité des réponses. Quelq'un peut confirmer ou infirmer ?
+25/11/2024, 09:15 - +41 76 372 28 94: J'ai testé la version béta en février sous Windows, et c'est comme avec Gemini : à chaque fois que j'y retourne je suis déçu. Le 15 décembre ils sortent Gemini 2, je retournerai voir. Pour Copilot, j'attends avec impatience l'arrivée des agents en avril pour refaire un test.
+25/11/2024, 09:22 - Jean-Marc Everard: Je vais aussi dans le même sens si j’ai besoin d’évaluation plus formelle (j’ai la chance d’avoir un cours-projet donc le résultat est d’office le résultat d’un processus dont on évalue chaque étape). Si je pense qu’une base de connaissance est vraiment nécessaire, je vais soit aller vers l’examen oral si possible, soir effectivement demander une réflexion et mise en parallèle de concepts qui le sont peut-être plus rarement mais là évidemment pas de certitude qu’une Ia ne puisse donner un bon résultat. Demander des exemples perso peut aider en effet.

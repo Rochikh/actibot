@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 564
+Messages: 12
+
+=== CONTENU ===
+19/11/2024, 16:19 - Gregoire IA: autant de faux positif que de vrais cas, impossible à gérer en commission disciplnaire
+19/11/2024, 16:19 - Francois Bocquet: et enfin des outils de detection des risques de harcèlement et troubles psychiques à partir de signaux faibles sur les outils internes (de type ENT) et sur les reseaux sociaux
+19/11/2024, 16:21 - Francois Bocquet: les échanges avec les éditeurs de detecteurs sont moins tranchés que ça. Compilatio qui existe dans le secteur depuis 2003 m’a confirmé orienter l’utilisation des detecteurs pluôt vers l’éducation à l’intégrité académique plutôt que pour des sanctions (pas d’utilisation en tant que preuve). Ca permet aussi d’orienter les oraux et de leur donner plus de poids.
+19/11/2024, 16:22 - Francois Bocquet: https://www.compilatio.net/ia-detecteur-info
+19/11/2024, 16:34 - Centre Richard: Bonjour la communauté
+Je voudrais demander à ceux et celles organisant des coloques ou des confrérences sur l'IA et l'éducation de partager l'information ici
+Cela permet de nous enrichir mutuellement surtout pour le transfert des pratiques et des competences
+19/11/2024, 16:35 - +33 6 19 75 63 49: Merci beaucoup! Il y a un certain nombre de travaux/évènements que j’ai loupés  (dont Regard à l’international, malheureusement), je suis ravie d’avoir tous les liens!
+19/11/2024, 17:03 - +33 6 66 98 84 23: Léo au top !!!! https://iamleo.ai/
+19/11/2024, 17:03 - +33 6 66 98 84 23: Dommage que Léo soit payant. Bisness is bisness !
+19/11/2024, 17:05 - +33 6 64 50 56 67: Ce message a été supprimé.
+19/11/2024, 17:06 - Jean-Marc Everard: Oui vous avez raison, sur la promesse. la dernière fois que j'ai acheté une licence "à vie" (et je n'hésite pas à balancer, c'était Moovly), celle-ci s'est transformée en "licence 5 ans", puis en 3000 crédits sur un an puis en plus rien du tout. Effectivement hugging face ou Not Diamond je pense offrent de bonnes alternatives. Comme je le disais, pour quelqu'un de très débutant avec l'IA cette offre peut être inétressante pour tester un peu différentes modalités et modèles (avec quelques modèles payant quand même), mais dès qu'on est un plus aguérri ça n'est sans doute plus très intéressant (pas d'API, vite limité, requête en itération coûte cher...)

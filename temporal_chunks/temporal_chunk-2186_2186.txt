@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 15
+
+=== CONTENU ===
+20/05/2025, 20:01 - Daniel Pappalardo: Et accessible via le GAR quand on demande les licences dans le cadre de TNE et on est RGPD dans ce cas précis. Sinon y a Quizizz dans le même genre.
+20/05/2025, 20:43 - Céline Averseng: Claude ou Chat GPT en précisant bien la cible et ce qu'on veut dans un 1er prompt puis 2d prompt pour créer le fichier d'import Moodle Gift ou Aiken (les plus rapide). Possible aussi en xml mais plus long. J'avais fait une présentation il y a quelques temps et un article sur Management & Datascience : https://management-datascience.org/articles/36943/. Je n'avais pas testé Claude à l'époque (il y a 6 mois) et c'est clairement mon préféré à présent...
+20/05/2025, 20:54 - Rochane: Ça mérite une petite démo en live 😁
+21/05/2025, 04:13 - Votre code de sécurité avec ~ Lolo a changé. Appuyez pour en savoir plus.
+21/05/2025, 07:25 - Jacques BARATTI: Vous pouvez utiliser (gratuitement) le GPT "QCM et Bloom" en suivant ce lien https://chatgpt.com/g/g-HuRI6Nw6Y-qcm-et-bloom. Il génère des QCM sur votre document, à divers niveaux de la taxonomie de Bloom (mémoriser, comprendre, appliquer,...) et donne un feedback pour chaque réponse (essentiel pour une évaluation formative). Il convertit vos questions au format "Gift" pour un transfert aisé dans Moodle
+21/05/2025, 09:51 - Pierrick BRIAND: Merci @33611028249 !
+Je viens de le tester sur un cours de e-commerce et c'est très bien
+La prés’ en tableau est intéressante et les questions, choix des réponses , etc. me semble satisfaisant
+21/05/2025, 10:47 - ‎+44 7466 714488 a demandé à rejoindre le groupe.
+21/05/2025, 11:56 - ‎+44 7466 714488 a rejoint ce groupe grâce à son lien d’invitation
+21/05/2025, 12:39 - Rochane: https://youtube.com/shorts/-4W5gcw3tWU?feature=shared
+L'audio dans la génération de vidéo Veo3
+21/05/2025, 13:41 - Vous avez supprimé +44 7466 714488
+21/05/2025, 13:58 - +221 78 114 78 29: Nolej n'est pas mal,mais c'est payant après l'essai
+21/05/2025, 14:17 - Votre code de sécurité avec +33 6 14 55 02 91 a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 10
+
+=== CONTENU ===
+Notre organisme de formation cherche également à organiser 1/2 journée auprès des équipes pour les initier à  l'IA en formation à Rambouillet (France). Auriez-vous des suggestions, contacts ?
+15/02/2024, 10:15 - +34 618 97 47 94: Je donne des formations en tant qu’indépendante pour entreprises aussi mais en ligne.
+Je pourrais me déplacer si c’est pour plusieurs jours.
+15/02/2024, 10:17 - +33 6 11 53 71 34: Nous concernant ce n'est  qu'une approche en présentiel d'une 1/2 journée mais je retiens votre proposition pour une autre intervention éventuelle. Merci !
+15/02/2024, 11:01 - Jean-Marc Everard: Bonjour Gaëlle, je sais que ce n'est pas pratique mais cela dépend, comme vous vous en doutez, énormément du niveau préalable d'usage de votre public. J'ai donné récemment un workshop pour un public mixte (quelques-uns un peu initiés, ayant tester quelques trucs et d'autres totalement novices). Leurs attentes étaient d'avoir à la fois des infos pratiques sur "où trouver des IA ? Comment les choisir ? Quels en sont les possibilités et limitations ?". Ensuite quelques mots sur les défis/ AI act, éthique, écologique, de confidentialité, sobriété  etc.  Avoir une vision d'avenir un peu. Et ensuite pouvoir expérimenter concrètement sur des cas d'usages qui leur parlent.
+15/02/2024, 12:39 - +34 618 97 47 94: Merci beaucoup. Je n’ai pas d’informations sur les participants mais je pense que ce sera aussi un public mixte.
+J’ai découvert dernièrement un super outil: MagicSchool AI qui réuni la majorité des cas d’usages dans l’éducation: pour la création de cours mais aussi de rapports et communication avec les parents, l’administration… il me reste encore à le tester pour voir les résultats réels.
+Merci beaucoup pour le retour!
+15/02/2024, 12:47 - Lucie: Bonjour Gaëlle. J'ai écrit un livre sur le sujet, disponible chez tous les libraires https://www.titashop.fr/products/lia-pour-la-formation-dhorne
+15/02/2024, 12:48 - Lucie: Et sinon j'anime aussi une formation au Collège de Paris à ce sujet. Les apprenants en parle le mieux : https://www.linkedin.com/posts/david-r-131089224_formationprofessionnelle-intelligenceartificielle-activity-7162184435394662400-t6BP?utm_source=share&utm_medium=member_android

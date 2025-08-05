@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 15
+
+=== CONTENU ===
+5. Exportation des données
+Les résultats de recherche peuvent être exportés dans divers formats, ce qui facilite l'intégration des données dans des outils de gestion de références ou des documents de recherche. En résumé, "Publish or Perish" est utile pour la revue de littérature car il permet une analyse approfondie des citations, évalue les performances des recherches, facilite la recherche de littérature, offre des visualisations et permet l'exportation des données. Ces fonctionnalités aident les chercheurs à construire une revue de littérature solide et bien informée.
+06/08/2024, 22:49 - +237 6 56 90 71 30: 🤔 Que voulez-vous dire par là?
+06/08/2024, 22:49 - Gregoire IA: similaire à Elicit ou différent ?
+06/08/2024, 22:50 - Ahmadou Ba: j'utilise bcp GPt mais toujours sur la base d'un document que je lui donne que je lis integralement. Et je peux vous dire il hallucine grave même, il aide a baliser le chemin mais ça s'arrete là. Il n'est pas intelligent du tout.😅
+Et d'ailleurs il est plus fiable si vous faite copie coller du doc que quand vous le charger
+06/08/2024, 22:51 - Gregoire IA: je vais devoir y aller mais j’avais justement publié une série de vidéo que j’avais repris dans un live Youtube : https://youtu.be/56R_b5tKRx0
+06/08/2024, 22:51 - Gregoire IA: et oui, le danger est la facilité… je parle d’ailleurs de l’effet Mollusque (et pas que) dans d’autres videos 😛
+06/08/2024, 22:52 - +237 6 56 90 71 30: La source est Perplexity: Voici les principales différences entre les outils "Publish or Perish" et Elicit pour la revue de littérature :
+Objectifs principaux
+Publish or Perish se concentre principalement sur l'analyse des citations et des métriques de performance pour évaluer l'impact des publications scientifiques
+.
+Elicit vise à aider les chercheurs à structurer et organiser leur processus de revue de littérature, en facilitant la recherche, la prise de notes et la synthèse des résultats.
+Fonctionnalités clés
+Publish or Perish offre des analyses approfondies des citations, des métriques comme l'indice h, et des outils de visualisation des réseaux de recherche

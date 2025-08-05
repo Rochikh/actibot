@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 17
+
+=== CONTENU ===
+02/04/2025, 22:33 - +33 6 50 00 76 38: Quel modèle?
+02/04/2025, 22:33 - +33 6 52 73 73 42: Celui sans compte
+02/04/2025, 22:34 - +33 6 50 00 76 38: Pas d’hallucination avec ChatGPT plus version 4o 😉
+02/04/2025, 22:38 - +33 6 52 73 73 42: Je me doute bien mais je cherche des hallucinations faciles à "montrer"
+02/04/2025, 22:43 - +33 6 50 00 76 38: As tu interrogé une ia sur les hallucinations d’une autre ia? Je n’ai pas vérifié, mais par ex demander à ChatGPT de te donner des exemples de prompts qui génèrent des hallucinations chez mistral .. tu en penses quoi? <Ce message a été modifié>
+02/04/2025, 22:46 - +33 6 52 73 73 42: Pas mal ! Je tente le truc
+02/04/2025, 22:50 - +33 6 71 11 12 91: ChatGPT gâche le séjour d'un voyageur qui s'est retrouvé bloqué à l'aéroport sans visa, la tuile !
+https://www.clubic.com/actualite-559104-chatgpt-gache-le-sejour-d-un-voyageur-qui-s-est-retrouve-bloque-a-l-aeroport-sans-visa-la-tuile.html
+02/04/2025, 23:37 - +33 6 49 84 08 41: Il a dû aller en Algérie 🇩🇿 lol 😂
+03/04/2025, 09:00 - +41 76 372 28 94: https://www.anthropic.com/news/introducing-claude-for-education
+03/04/2025, 09:03 - +41 76 372 28 94: "Au cœur de Claude pour l'Éducation se trouve le mode d'apprentissage innovant, conçu pour cultiver des compétences de pensée critique plutôt que de simplement fournir des réponses."
+03/04/2025, 09:23 - +41 76 372 28 94: <Médias omis>
+03/04/2025, 09:37 - ‎+32 477 44 75 63 est parti·e
+03/04/2025, 10:48 - +33 6 62 17 05 18: <Médias omis>
+03/04/2025, 11:07 - Clotilde IA: Claude est vraiment super. Je suis abonnée à ChatGPT et Claude, et vraiment Claude ne me déçoit jamais, autant dans la finesse de son style par défaut, plus humain, et du point de vue éthique. Et maintenant avec cette version éducation, il est vraiment au top ! <Ce message a été modifié>
+03/04/2025, 11:29 - +33 6 60 20 86 76: Appel à participation pour un projet européen !
+Dans le cadre d’un projet européen ( L’IA pour l’éducation aux langues), nous avons créé un cours Moodle en anglais à destination des enseignants de langue.

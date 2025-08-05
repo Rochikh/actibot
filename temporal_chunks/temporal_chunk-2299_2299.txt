@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 15
+
+=== CONTENU ===
+02/07/2025, 10:03 - Francois Bocquet: En clair si vous utilisez professionnellement des services Google avec un compte en gmail.com alors ça ne peut être conforme au RGPD. Idem pour CoPilot…
+02/07/2025, 10:04 - Francois Bocquet: Et c’est la même chose pour Anthropic, Mistral, Poe, OpenAI, Deepseek,… seuls les comptes pros administrés par votre institution peuvent être conformes pour un usage professionnel (missions à exercer dans le cadre de vos fonctions).
+02/07/2025, 10:06 - Francois Bocquet: Pour résumer et si vous vous préoccupez du RGPD et du RIA (mais sans vous préoccuper de « souveraineté » qui ne repose sur aucun cadre juridique) n’utilisez que des comptes professionnels sur des services fournis par votre institution. Tous les autres comptes vous amènent à des traitements qui sont à date illégaux.
+02/07/2025, 10:09 - Daniel Pappalardo: C'est très bien que tu le précises et merci pour la richesse et la qualité (comme toujours) de ton intervention !
+02/07/2025, 15:12 - ‎+56 9 6644 8380 a demandé à rejoindre le groupe.
+02/07/2025, 19:05 - Votre code de sécurité avec +216 53 837 289 a changé. Appuyez pour en savoir plus.
+02/07/2025, 22:02 - ‎+32 465 81 15 72 est parti·e
+03/07/2025, 06:35 - +32 498 78 46 36: Excellent article !
+https://danslesalgorithmes.net/2025/07/01/ia-et-education-2-2-du-dilemme-moral-au-malaise-social/
+03/07/2025, 07:04 - +32 475 86 01 57: Bof... Même si ce qui est relevé est globalement, à mon sens, juste....L article est quasi uniquement à charge et balance pas mal de choses présentées comme des vérité mais sans les justifier.
+De plus, il est catastrophiste sans donner aucune piste (le retour à l evaluation orale me semble le minimum)
+Écrit par un dépressif (Argument ad hominem 😁)?
+Ou rédigé pour titiller le système limbique grâce à la peur?
+03/07/2025, 07:05 - +32 475 86 01 57: Intéressant oui. Excellent, non.
+03/07/2025, 07:07 - +32 498 78 46 36: Il faut aller voir la partie 1/2 aussi, ça sera moins doomer, j'ai oublié de la coller

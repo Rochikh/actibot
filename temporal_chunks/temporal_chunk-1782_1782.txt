@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 13
+
+=== CONTENU ===
+14/02/2025, 13:12 - Nadia ER-RAJI: ou petite astuce que j'utilise souvent reprendre ton premier prompt et rééditer ta demande avec la réponse faite, ça affine la réponse aussi
+14/02/2025, 13:14 - Nadia ER-RAJI: sur chatgpt, utilise aussi le mode projet, qui peut correspondre aussi à un même sujet...ça aide considérablement aussi les réponses..
+14/02/2025, 14:19 - ‎+33 6 62 69 48 29 a demandé à rejoindre le groupe.
+14/02/2025, 14:59 - +32 486 98 03 36: Étant over... je vous suis mais en voyeuriste. Donc  voyant toute les envolée lyrique sur notebook lm j ai demandé à les deux petits stagiaires jeunes de tester les synthèses de nos dossiers sur chagpt et notebooklm Ils me disent que chatgpt est plus précis identifié mieux la structure et fait moins de fautes. Nous avons raté qque chose ? Tout le monde semble aimer tellement notebook lm pour le moment  ?
+14/02/2025, 15:00 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+14/02/2025, 15:00 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+14/02/2025, 15:02 - +32 486 98 03 36: null
+14/02/2025, 15:11 - Rochane: L'avantage de notebook lm c'est sa capacité à mutualiser des ressources multimodales et à répondre aux questions que l'on lui pose sur ce contenu sans se soucier de la nature du prompt. Il ne se base pas sur les connaissances d'internet en premier lieu. Alors, il faut être sûre que tes questions concernent le contenu que tu lui as partagé
+14/02/2025, 15:12 - ‎+33 6 62 69 48 29 a rejoint le groupe à partir de la communauté.
+14/02/2025, 15:14 - ‎+33 6 27 95 30 58 est parti·e
+14/02/2025, 15:20 - Adrien Bock IA: Notebook LM, ou plutot Gemini, a une fentre de contexte sept à huit fois supérieur à ChatGPT
+14/02/2025, 15:20 - Adrien Bock IA: La qualité des synthèses, des documents, podcast et vidéos que j’ai comparé est nettement supérieur avec Gemini que chat
+14/02/2025, 16:08 - estelle Duterage Drion IA: Cc j’ai associe tout bête à régler je suis sur mistral, j’ai fait plusieurs requêtes via le chat mais je n’arrive pas à les effacer, je ne sais pas comment faire et j’ai beau chercher, je ne vois pas…

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 13
+
+=== CONTENU ===
+Dans les 6 mois : interdiction effective des cas d'usage de l'IA jugés inacceptables ou dangereux.
+Dans l'année : application des obligations générales pour les acteurs impliqués dans l'IA.
+Dans les 2 ans : mise en œuvre de toutes les contraintes législatives pour tous les cas d'usage de l'IA.
+Dans les 3 ans : délai supplémentaire accordé pour les applications d'IA à haut risque nécessitant une évaluation externe.
+Équilibre entre innovation et sécurité: L'AI Act vise à trouver un juste milieu entre le soutien à l'innovation technologique et la protection des droits fondamentaux des citoyens, assurant ainsi un développement de l'IA à la fois sûr et respectueux des valeurs européennes.
+Focus du règlement:
+Régulation stricte des IA génératives pour garantir la qualité des données et le respect des droits d'auteur, incluant l'obligation de marquer clairement les contenus générés par IA.
+Mesures de protection contre les risques spécifiques, comme l'interdiction de l'identification biométrique à distance en temps réel et de la surveillance de masse.
+Cette législation positionne l'Europe comme un leader dans la régulation éthique de l'IA, en créant un cadre qui pourrait servir de modèle pour d'autres régions du monde. L'AI Act s'inscrit dans la continuité du rôle précurseur de l'UE en matière de régulation numérique, à l'instar du Règlement général sur la protection des données (RGPD), et souligne l'importance d'une approche responsable et inclusive du progrès technologique.
+03/02/2024, 18:08 - Jean-Marc Everard: Merci beaucoup pour le partage Rochane. J’espère tout de même que l’UE (contrairement à ce qui a été fait pour le RGPD) l’accompagnera d’un vrai soutien à l’innovation en passant notamment par une simplification administrative…🤞).
+03/02/2024, 18:44 - Thierry VANOFFE: Salut la communauté, un outil sympa pour générer différentes de vous : https://app.artflow.ai/image-studio Hyper réaliste !
+03/02/2024, 18:57 - +33 7 86 01 11 31: Merci
+03/02/2024, 19:45 - ‎+33 7 68 31 25 20 a rejoint le groupe à partir de la communauté.

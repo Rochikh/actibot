@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 551
+Messages: 10
+
+=== CONTENU ===
+23/06/2024, 13:33 - Guillaume Singeot: retrouvez les replays ici : https://tubedu.org/c/iapedagogie/videos (y compris celui du 20 juin)
+23/06/2024, 14:02 - +34 625 50 86 26: Bonjour ! Tu connais déjà peut être mais "Je maîtrise : l'IA pour la formation " de Lucie Dhorne. Ses interventions dans les webinaires ou podcasts sont toujours très intéressantes aussi!
+23/06/2024, 14:47 - +33 6 52 61 52 03: Effectivement je connais, raison de plus pour m’y intéresser !! Merci :)
+23/06/2024, 15:04 - Guillaume Singeot: https://www.librairiepradoparadis.fr/product/1905817/cristol-denis-apprendre-a-l-ere-de-l-intelligence-artificielle-revolution-defis-opportunites
+23/06/2024, 15:05 - Guillaume Singeot: Bonjour tout le monde ! et plus particulièrement aux utilisateurs de H5P. Auriez vous essayé ToTeach? Avez vous réussi à créer des "worksheets"? Si oui, comment ?
+23/06/2024, 15:07 - Rochane: Perso, j'ai beaucoup utilisé h5p sur Moodle mais aussi ailleurs mais je ne connais pas du tout Toteach
+23/06/2024, 15:45 - +33 6 52 61 52 03: Merci ! :)
+23/06/2024, 18:50 - Rochane: Dicte est une application mobile pour prendre des notes et transcrire des réunions. En enregistrant l’audio, elle produit rapidement des transcriptions précises avec divers formats de compte-rendus, incluant des mindmaps et des analyses clés. La qualité de la transcription est exceptionnelle, atteignant presque 100% de précision grâce à une équipe d’IA collaborant pour améliorer le texte. Dicte met l’accent sur la confidentialité, avec des données traitées localement ou anonymisées. Disponible en version bêta, elle nécessite une inscription sur le site pour l'essayer. Quelques limitations incluent la difficulté à identifier les locuteurs et l'absence de personnalisation dans la version gratuite. https://app.dicte.ai
+23/06/2024, 19:03 - Francois Bocquet: Je vois pas trop comment l’utiliser sur iPhone !
+23/06/2024, 19:04 - Rochane: https://appleid.apple.com/auth/authorize?client_id=com.livdeo.dicte-web&redirect_uri=https%3A%2F%2Fapp.dicte.ai&response_type=code%20id_token&state=state_parameter_passed_to_apple&scope=name%20email&response_mode=web_message&frame_id=b2178a30-475c-4801-bc89-5206eb20ceff&m=11&v=1.5.5

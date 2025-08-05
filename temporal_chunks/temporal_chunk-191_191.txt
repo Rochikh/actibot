@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 10
+
+=== CONTENU ===
+03/02/2024, 19:45 - ‎+33 7 68 31 25 20 a rejoint le groupe à partir de la communauté.
+05/02/2024, 20:33 - ‎+33 6 09 20 84 84 a rejoint le groupe à partir de la communauté.
+06/02/2024, 13:36 - ‎+33 6 47 97 30 87 est parti·e
+07/02/2024, 14:23 - Jacques BARATTI: Le site HuggingFace (https://huggingface.co) vient juste d'ouvrir HiggingChat une interface qui permet de créer des "Assistants" (des GPTs chez OpenAI) qui sont d'accès libre et gratuit (alors que OpenAI il faut être abonné et pour les GPT du store il est prévu un coût d'utilisation. C'est donc une avancée importante pour rendre ces assistants accessibles à tous (enseignants et étudiants). Le modèle de langage utilisé est celui de la société française Mistral (on a le choix entre plusieurs modèles). L'interface de création et d'utilisation est très semblable à celle d'OpenAI et facile d'accès.
+J'ai crée un clone de mon GPT QCM et Bloom qui permet de créer des questions à choix multiples à divers niveaux de la taxonomie de Bloom et il fonctionne très bien (toutes disciplines). On peut exporter les questions au format gift pour une importation dans Moodle/Ametice (très facile). L'inconvénient majeur est qu'on ne peut pas fournir de document (seulement du texte)
+Si vous voulez tester mon "Assistant" voici l'adresse (il faut créer un compte (gratuit) https://hf.co/chat/assistant/65c28b8ffa60faab1e882b72
+Vos retours me seront utiles !
+07/02/2024, 14:29 - +32 479 58 54 12: Attention. Captain AI signale aussi que ces GPTs ne sont pas vérifiés, et presentent des risques de Hack.
+07/02/2024, 14:47 - Rochane: Top, merci pour le partage. On ne peut pas par contre cacher les instructions et je vois qu'il ne les a pas respectés dans ce cas. En plus, pas possible de mettre de la connaissance et le partage est public. Bon début de l'Open Source n'empêche 🙂
+07/02/2024, 14:49 - Jacques BARATTI: Oui les instructions sont visibles (c'est de l'Open source) cela permet à un grand nombre (je pense à mes collègues enseignants non abonnés et aux étudiants) de se familiariser avec ce type d'outil

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 18
+
+=== CONTENU ===
+15/07/2024, 16:22 - +33 7 83 16 44 23: Bonjour, uniquement accessible sur Magistère ?
+15/07/2024, 16:23 - Letizia ALLEGRINI: Oui pour l'instant il me semble
+15/07/2024, 16:24 - +33 7 83 16 44 23: Merci pour le retour
+15/07/2024, 17:01 - +221 78 114 78 29: Bonjour tout le monde. Quelqu'un peut me suggérer des formations doctorales en sciences de l'éducation en lien avec l'IA?
+15/07/2024, 18:30 - Ahmed Yagoubu: https://www.linkedin.com/posts/abdeljabbar-bahammou_%C3%A9v%C3%A9nement-m%C3%A9morable-hier-soir-%C3%A0-luniversit%C3%A9-activity-7211699603979595776-H14k?utm_source=share&utm_medium=member_android
+15/07/2024, 21:11 - Aïcha Elouali: https://youtu.be/XpkEhEODf8Y?si=75gxc2HW7FPVAWaJ
+15/07/2024, 21:12 - Aïcha Elouali: Rencontre de la Semaine du Cerveau 2024 au Quai des Savoirs :
+"Lire dans les pensées ? Décodage de l'activité cérébrale par l'IA générative", enregistrée depuis l'agora du Quai des Savoirs le 16 mars 2024. Une rencontre organisée dans le cadre de la programmation culturelle de l'exposition "IA : Double Je" (2/02-3/11/2024)
+15/07/2024, 22:21 - ‎+32 474 94 45 39 a demandé à rejoindre le groupe.
+16/07/2024, 12:08 - ‎+32 474 94 45 39 a rejoint ce groupe grâce à son lien d’invitation
+16/07/2024, 14:26 - ‎+32 486 30 88 22 a demandé à ajouter Hoang.
+16/07/2024, 21:29 - ‎+32 486 30 88 22 a ajouté Hoang
+16/07/2024, 22:05 - +1 (613) 890-3412: 👋 Salut tout l'monde !
+Enseignant voulant exploiter les *chatbot* avec les élèves, je reste sans succès après des heures de recherches et tests. Mon souhait : un outil gratuit dans lequel implémenter des fichiers perso (pdf ou autre) en guise de connaissances (pas besoin qu'il soit connecté à la recherche en ligne) et permettant de répondre à plus de 10 messages. Dans l'idéal pouvoir concevoir plus de 3 bots.
+Une idée pour m'aider ?
+PS : déjà tenté entre autres Mizou, Botpress, Poe, ChatMD, OwnAI, Tidio, Copilot GPT (supprimé)
+(merci d'avance et merci pour tout ce que vous partagez ici !) 🙂 <Ce message a été modifié>
+16/07/2024, 22:10 - Hoang: Bonjour, as tu déjà essayé NotebooKLM?

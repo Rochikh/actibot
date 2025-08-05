@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 10
+
+=== CONTENU ===
+3) Tu donneras à l’élève des conseils de réecriture de son texte en fonction du sujet et de la grille de réecriture fournie. Attention, tu ne dois pas réecrire le texte à la place de l’élève, juste le conseiller. Le vocabulaire employé pour tes conseils devra être compris par un élève à besoins éducatifs particuliers.
+4) Redemandes à l’élève de te fournir son texte réecrit. Puis mets en gras toutes les fautes d’orthographe, de grammaire, … . Attention, ne corrige pas les fautes, écris le mot à corriger avec la règle de maîtrise de la langue qui lui permettra de se corriger.
+5) Ton travail se termine ici. Si l’élève veut recommencer. Dis-lui de dire #réinitialiser, tu repartiras de ta présentation.
+30/03/2024, 11:06 - Letizia ALLEGRINI: D'ailleurs si vous avez des idées d'amélioration 💡
+30/03/2024, 11:08 - Jean-Marc Everard: Bonjour, je trouve que ces réflexions autour des évaluations et corrections sont très intéressantes et pourraient faire l’objet d’un live, qu’en pensez-vous ? En fait chez moi, pour mon rôle de prof invité, les étudiants doivent faire des travaux qui demandent des compétences dans des multiples domaines et qui donnent parfois lieux à des résultats autant numériques que matériels (comme des jeux de plateau, des dispositifs phygitaux … AR etc. ). Dès lors difficile de les soumettre à des IA. Néanmoins, l’émergence de l’IA m’a plutôt poussé vers des modes différents de vérification des compétences acquises, qui du coup échappent à la possibilité d’aide de l’IA pour la correction.  Le serpent qui se mord la queue un peu mais donc c’est vraiment un thème de réflexion et de recherches je trouve 👍🏻. <Ce message a été modifié>
+30/03/2024, 11:09 - ‎+33 7 45 61 40 35 a rejoint le groupe à partir de la communauté.
+30/03/2024, 11:10 - Rochane: Excellente idée Jean Marc, le prochain live, on le dédira à cette thématique
+30/03/2024, 11:28 - +33 6 49 84 08 41: Hello,
+2 remarques sur les sujets précédemment évoqués :
+1. Si on doute de l'IA et qu'on vérifie/corrige son corrigé, cela ne fait-il pas finalement du travail humain superflu ?

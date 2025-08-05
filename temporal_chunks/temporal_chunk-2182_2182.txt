@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 20
+
+=== CONTENU ===
+17/05/2025, 17:01 - Vous avez épinglé un message
+17/05/2025, 17:46 - Votre code de sécurité avec +216 96 532 639 a changé. Appuyez pour en savoir plus.
+17/05/2025, 17:55 - Votre code de sécurité avec +216 96 532 639 a changé. Appuyez pour en savoir plus.
+17/05/2025, 17:56 - Votre code de sécurité avec +216 96 532 639 a changé. Appuyez pour en savoir plus.
+17/05/2025, 18:31 - Jean-Marc Everard: Vu aujourd’hui sur linkedIn via le republish de @33679020995 : 14  compétences essentielles pour les étudiants utilisant l’IA générative (infographie au départ d’un article scientifique). Bon, ça finit par rejoindre toutes les compétences nécessaires pour utiliser l’IA en général mais je trouve la visualisation intéressante. https://www.linkedin.com/posts/hamid-saffari_%C3%A9tude-de-krause-et-al-2025-identifie-activity-7327390271489413120-QNBA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAABhKE0BszLk3tZgFp5moEHI_m3Ar6_v75E
+17/05/2025, 18:39 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+17/05/2025, 18:47 - Rochane: L'article https://arxiv.org/pdf/2504.19673
+est vraiment intéressant. Mis dans mon NotebookLM 😁
+17/05/2025, 19:07 - +212 644-562660: Ce message a été supprimé.
+17/05/2025, 19:40 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+17/05/2025, 22:49 - +32 475 86 01 57: Quelqu un à déjà utilisé chat md?
+http://chatmd.forge.apps.education.fr/docs
+18/05/2025, 13:03 - Francois Bocquet: Je viens de tester
+18/05/2025, 13:03 - Francois Bocquet: <Médias omis>
+18/05/2025, 13:03 - Francois Bocquet: Ça craint…
+18/05/2025, 13:03 - Francois Bocquet: En fait c’est un chat préprogrammé avec une IA symbolique seulement sauf si c’est branché à une API
+18/05/2025, 13:03 - Francois Bocquet: Donc très très peu d’utilité à mon avis
+19/05/2025, 04:33 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+19/05/2025, 15:33 - ‎+32 495 12 61 48 a demandé à rejoindre le groupe.
+19/05/2025, 17:51 - Votre code de sécurité avec +32 474 05 34 87 a changé. Appuyez pour en savoir plus.

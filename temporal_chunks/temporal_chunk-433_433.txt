@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 568
+Messages: 13
+
+=== CONTENU ===
+17/04/2024, 09:10 - Jean-Marc Everard: Rebonjour, une petite question, il y à plusieurs semaines, quelqu’un a mentionné une IA qui découpe de longues vidéos automatiquement en format short pour YouTube. Est-ce que l’un·e d’entre vous se souvient de ce que c’était ? Et l’a testée ? J’avoue que le scroll que je devrais faire pour retrouver l’info m’effraie un peu 😅🥴
+17/04/2024, 09:14 - Rochane: C'est ça ?
+Un outil IA, juste à partir du lien d'une vidéo, l'analyse et vous propose un ou plusieurs shorts avec des sous-titres , des incrustations et en choisissant le passage le plus  relevé de la vidéo. https://opus.pro/
+Un exemple avec la vidéo d'hier (j'aurais pu éditer un ou 2 mots et modifié les incrustations) <Ce message a été modifié>
+17/04/2024, 09:14 - Jean-Marc Everard: Merci beaucoup Rochane 🙏
+17/04/2024, 09:14 - Jean-Marc Everard: Oui c’est ça !
+17/04/2024, 09:19 - Jean-Marc Everard: Petite observation/réflexion pour démarrer la journée : selon moi, pour la première fois depuis que le site https://theresanaiforthat.com/ existe, le nombre de solutions IA recensées à diminuer (passé de 12 800 à 12 300 il me semble, à moins que je ne trompe). Est-ce le début de la grande curation et de l’élimination naturelle ?
+17/04/2024, 09:19 - Jean-Marc Everard: Sorry orthographe : a diminué…
+17/04/2024, 09:22 - Fred IA: Bonjour à toutes et tous. Est ce que ces logos sont actuellement officiels et peut on les insérer dans des documents ?  Ou est ce simplement une proposition ? Merci par avance
+17/04/2024, 09:23 - Rochane: J'ai vu le site de l'école branchée ( canadien) les utiliser
+17/04/2024, 09:24 - Rochane: il est possible que cette diminution soit simplement due à un nettoyage des données par l'équipe de TAAFT, supprimant par exemple des doublons ou des IA obsolètes. Mais, vivement que ça se calme aussi 🙂
+17/04/2024, 09:26 - +33 6 22 42 57 92: L'usage précède la norme ? ...🤷‍♂️
+17/04/2024, 09:36 - Jean-Marc Everard: Tout à fait! Je prends ça comme un signe positif et espérons le d’un début de maturité car pour moi le rythme actuel n’est pas tenable (ni humainement, ni pour le climat 😉). Après la période divergente doit venir une période de convergence vers quelques meilleurs dans chaque domaine, ou bien les plus disruptifs.

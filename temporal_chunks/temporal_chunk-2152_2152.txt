@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 10
+
+=== CONTENU ===
+05/05/2025, 19:53 - +213 558 04 82 89: Serait il possible de me donner les liens vers ces contenus, présentations svp
+06/05/2025, 09:11 - +33 6 64 47 07 94: Pourquoi s'accrocher à détecter ia pas ia ? Calculette autorisée ou pas. Le mieux reste de maîtriser l'outil et en transparence signaler son usage genre avec le logo qui va bien.
+06/05/2025, 09:56 - +33 6 72 75 43 48: Merci de me communiquer ces liens Grégoire je ne doute pas de la qualité des vidéos 😉
+06/05/2025, 10:06 - ‎+213 779 10 79 04 a demandé à rejoindre le groupe.
+06/05/2025, 10:15 - ‎+213 779 10 79 04 a rejoint ce groupe grâce à son lien d’invitation
+06/05/2025, 10:15 - +33 6 66 98 84 23: Il y a eu une enquête des cahiers pédagogiques sur l'utilisation de l'IA par les lycéens et collégiens :https://www.cahiers-pedagogiques.com/les-eleves-face-a-lia-entre-seduction-et-inquietudes/
+06/05/2025, 10:21 - +33 6 66 98 84 23: Bonjour Rochane ,à partir de quels documents as tu généré ce podcast fort intéressant et avec quelles instructions?Merci
+06/05/2025, 10:26 - +33 6 62 17 05 18: Bonjour la Communauté :) Y-a-t-il parmi vous des personnes qui travaillent sur l'approche par compétences (APC) à l'université ? Plus précisément, le passage ou la transformation de l'approche traditionnelle (évaluation des savoirs) vers une approche vers l'évaluation des compétences (capacité à résoudre des problèmes complexes en mobilisant des savoirs transversaux et des compétences transversales) ? Les IUT t ont été "contraints" il y a 4 ans, dans la douleur avec un modèle imposé. J'ai comme idée de me servir de NoteBookLM pour fournir les sources adéquates et demander à l'outils de produire les premiers documents, brouillons, de travail. Si qqun a déjà entamé cette démarche je serai heureux d'avoir un premier retour de ce genre d'expérimentation. Bonne journée :)
+06/05/2025, 10:28 - Rochane: <Médias omis>
+06/05/2025, 10:29 - Rochane: Le document partagé juste au dessus du podcast et test de la nouveauté podcast de NotebookLM sans aucune personnalisation

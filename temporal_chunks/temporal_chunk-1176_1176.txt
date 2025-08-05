@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 10
+
+=== CONTENU ===
+03/11/2024, 08:28 - ‎+32 498 62 04 01 a demandé à rejoindre le groupe.
+03/11/2024, 08:37 - ‎+32 498 62 04 01 a rejoint le groupe à partir de la communauté.
+03/11/2024, 09:59 - Francois Bocquet: Ressources intéressantes mais destinées aux seuls responsables de traitement or un enseignant ne peut être responsable de traitement. Il ne peut être que personne concernée par un traitement qui est mis en œuvre par son responsable de traitement pour l’exercice de ses fonctions professionnelles ou qui est mis en œuvre par un autre responsable de traitement pour des activités personnelles (hors professionnelles). Par exemple mon mail pro est sous la responsabilité de mon académie, mon accès ENT sous la responsabilité de mon chef d’établissement et mon compte gmail sous la responsabilité de traitement de Google ou mon compte chatGPT sous la responsabilité de traitement d’Open AI.
+03/11/2024, 10:00 - Francois Bocquet: Un enseignant ne peut être responsable de traitement car il n’a pas la personnalité juridique nécessaire pour répondre devant une juridiction administrative ou judiciaire sur ce type d’infraction ou de délits
+03/11/2024, 10:48 - +41 76 372 28 94: Merci infiniment @33662364404 pour tout le temps que tu passes a essayer de nous expliquer.
+Ca reste dur à comprendre. Je n’arrive pas à faire le lien logique entre l’intuition de ce qu’on a le droit de faire en tant qu’enseignant et ce que tu essayes de nous expliquer.
+Je récapitule ce qui me pose problème :
+1) J’ai d’un côté un fichier Excel, avec les noms de famille et les prénoms des élèves sur serveur Microsoft ou Google hébergé je ne sais où, dans lequel j'inscris leur note et ça, c’est tout à fait ok, car l'école est responsable de traitement à ma place et a fait le nécessaire pour moi.
+2) D’un autre côté, j’ai (j’avais - j’ai maintenant supprimé les IP) un serveur perso avec les IP anonymes de personnes en provenance de :
+- l’école (j'ai découvert, en les supprimant du serveur, que je n'ai que deux IP différentes : celles des proxy - donc impossible de savoir quel élève c'est sauf en croisant les données avec celles des responsables réseaux et d'autres logs auxquels je n'ai pas accès)

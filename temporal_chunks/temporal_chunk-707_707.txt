@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 20
+
+=== CONTENU ===
+08/07/2024, 16:20 - ‎+32 474 33 68 77 est parti·e
+08/07/2024, 16:30 - Rochane: https://view.genial.ly/660e6ccdf62301001483be53
+https://view.genial.ly/659eaa13b7f7bb0014578c92/presentation-ia-et-unites-conversationnelles
+08/07/2024, 16:31 - +33 7 67 67 84 83: Merci !
+08/07/2024, 16:34 - Guillaume Singeot: @33662364404 dans la série "pas de création de compte" nous avons https://www.fillout.com/ai-quiz-maker qui crée des quiz.
+08/07/2024, 16:42 - +212 694-337376: Bonjour, avez-vous des idées d'outils pour la création de jeux éducatifs en dehors de Genially et LearningApps ?
+08/07/2024, 16:46 - Guillaume Singeot: https://qruiz.net/create.php   sinon on va tomber sur du payant (cher) et complexe (compétences) type VTS editor
+08/07/2024, 17:27 - Letizia ALLEGRINI: N'hésitez pas si vous souhaitez des précisions
+08/07/2024, 17:31 - +222 46 48 18 36: Vous pouvez essayer https://quizlet.com/fr
+08/07/2024, 17:39 - +212 694-337376: D'accord, merci
+08/07/2024, 18:07 - +33 6 85 03 31 84: ce site est plutôt pas mal, (comparable à LearningApps, mais plus adapté aux écrans de smartphone quand les élèves n’ont pas d’autres choix) :
+https://wordwall.net/
+08/07/2024, 18:08 - Rochane: Mais payant, je crois
+08/07/2024, 18:15 - +33 6 85 03 31 84: Il y a 1 version gratuite de wordwall qui permet de créer 4 activités, ce qui est peu, mais le lien ci-dessous, suivi d’1 mot-clé de recherche permet de trouver beaucoup d’activités existantes :
+https://wordwall.net/fr/community
+Exemples :
+https://wordwall.net/fr/community/fle
+https://wordwall.net/fr/community/french
+Par ailleurs, l’abonnement est de 5€/mois, et, une fois qu’on a créé des activités pendant 1 mois, on peut continuer de les utiliser même si on arrête son abonnement … <Ce message a été modifié>
+08/07/2024, 18:22 - +33 6 85 03 31 84: Il y a aussi le site https://puzzel.org/fr/ qui n’est pas mal, il est payant mais peu cher (30€/an); mais il y manque la fonction TTS (Text-To-Speech) qui me paraît indispensable pour enseigner le français FLE.

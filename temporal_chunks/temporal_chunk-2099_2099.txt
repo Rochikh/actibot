@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 13
+
+=== CONTENU ===
+19/04/2025, 12:21 - +33 6 81 41 67 96: Il faut simplement tester, retester, retester jusqu'à ce que ça marche. Il n'y a pas forcément de stabilité, mais ça marche. En étant, comme souvent, patient, même si on aimerait bien que ça marche en appuyant sur un bouton. Bon courage !
+19/04/2025, 12:22 - +33 7 86 61 52 66: Merci !! 🙏
+19/04/2025, 12:38 - Francois Bocquet: Très intéressant mais grande prudence quant aux données injectées pour scénarios meeting mentor. Cela n’est possible qu’à le dans un cadre RGPD parfaitement conforme car des données précieuses relatives aux élèves et à leurs familles sont traitées.
+19/04/2025, 13:02 - Sébastien Place: Oui tu as tout à fait raison. Dans le cadre présenté les données sont couvertes par le DPA associé aux licences Microsoft 365 de l'établissement. L'usage des prompts en dehors de ce cadre est à la responsabilité des professeurs et de l'institution.
+19/04/2025, 13:24 - Francois Bocquet: C’est ça. Si le traitement est inscrit au registre et que sles perzonnes concernées sont informées des traitements en plus de la signature du DPA c’est correct. Mais en dehors d’un tel cadre le traitement est complément illégal et risqué. La responsabilité administrative et pénale incombe au responsable de traitement (chef d’établissement) et les enseignants devraient être informés de l’illégalité d’un traitement de cette nature sans que le cadre soit stabilisé par celui ci.
+19/04/2025, 13:26 - Francois Bocquet: Rappelons les questionnements à poser avant tout traitement :
+1- est il légal
+2- est il éthique
+3- est il techniquement possible
+4- est il financièrement jouable
+En général les personnes commencent par le 3 en insistant sur le choix d’un outil… et ce n’est pas la bonne approche en phase de déploiement ;-)
+19/04/2025, 13:28 - Francois Bocquet: La légalité renvoie au code de l’éducation et autres codes applicables, au RGPD et au RIA en vigueur depuis février dernier.
+19/04/2025, 13:38 - Sébastien Place: T'as vu, j'avance bien sur ma formation DPO 😊

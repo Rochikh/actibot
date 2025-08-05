@@ -1,0 +1,43 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 35
+
+=== CONTENU ===
+L’IA réécrit ton contenu pour un lectorat différent (élues, usager·ères, expert·es…).
+Elle adapte le ton, le vocabulaire, les références.
+- 6 Ébaucher une lettre de motivation ou une offre de service
+Tu donnes ton contexte, l’IA te propose une trame argumentée.
+Parfait comme point de départ à personnaliser.
+- **4 Analyse critique et évaluation**
+- 7 Identifier des angles morts dans un projet
+Tu présentes une stratégie, et l’IA te questionne sur les non-dits, risques, oublis.
+Un miroir utile pour anticiper les impasses.
+- 8 Comparer des options de manière structurée
+L’IA établit un tableau avantages/inconvénients pour t’aider à décider.
+Objectiver les choix sans tout faire seul.
+- 9 Jouer le rôle de collègue critique bienveillant
+Tu exposes une idée, l’IA la challenge en douceur.
+Un outil pour muscler ton raisonnement sans jugement.
+- 10 Évaluer les impacts d’un changement
+Tu décris un changement à venir, et l’IA en explore les effets potentiels.
+Elle peut simuler des réactions, proposer des mesures d’accompagnement.
+- 11 Simuler des réactions d’un public cible
+Tu testes un message ou une décision, et l’IA t’indique comment différents profils pourraient réagir.
+Utile pour anticiper les malentendus ou résistances.
+- **5 Synthèse, extraction et comparaison d'informations**
+- 17 Indexer ou résumer une série de documents
+Tu fournis plusieurs PDF ou extraits, l’IA produit un résumé global avec mots-clés.
+Idéal pour archiver ou faire de la veille.
+- 18 Résumer un article scientifique ou un rapport
+L’IA extrait les points clés d’un texte long.
+Gain de temps pour des lectures complexes.
+- 19 Analyser un verbatim de réunion ou d’entretien
+Tu fournis une transcription, l’IA en extrait les thèmes, tensions, consensus.
+Précieux pour l’évaluation qualitative ou la concertation.
+- 20 Créer un tableau comparatif à partir de sources
+Tu donnes plusieurs descriptions ou textes, l’IA les met en tableau clair.
+Utile pour comparer des projets, offres, structures.
+- 21 Faire une revue de littérature simplifiée

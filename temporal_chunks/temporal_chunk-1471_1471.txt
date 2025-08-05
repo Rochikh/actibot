@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 640
+Messages: 8
+
+=== CONTENU ===
+26/12/2024, 15:57 - +32 479 82 01 20: Vous avez une fonction recherche sur WhatsApp...n'hésitez pas à en abuser. 😊
+26/12/2024, 15:57 - Ahmadou Ba: This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language."
+26/12/2024, 15:58 - Ahmadou Ba: Oui et l'actibot aussi, il fait tout à merveille et avec des conseils aussi
+26/12/2024, 17:18 - +961 3 381 351: ChatGPT le fait dans la version gratuite et quand la conversation est terminée, il donne la transcription complète du dialogue avec la possibilité de réécouter. Je l'ai essayé en anglais et c'était parfait.
+26/12/2024, 17:22 - +961 3 381 351: Il fonctionne aussi en français et en arabe.
+27/12/2024, 00:05 - ‎+213 674 30 83 19 est parti·e
+26/12/2024, 23:36 - +41 76 372 28 94: Ça fait bientôt une semaine que c’est sorti, mais je ne l’avais pas encore testé. Je vous recommande la fonctionnalité « Deep Search » de Google Gemini Advanced. C’est mieux que Perplexity ! Dans la version 1.5 Pro (ce n’est pas encore disponible avec la version 2.0 Flash), j‘ai juste tapé : _ « Identifie les 12 questions les plus controversées relatives à l'impact des technologies informatiques dans la société actuelle. L'objectif étant d'animer des débats en classe autour de ces questions. Pour chaque question, j'ai besoin des sources présentant les arguments ‘pour’ et les arguments ‘contre’, afin de fournir de la matière première pour chacun des 12 débats que je vais organiser en classe. »_ et quelques secondes plus tard, j'avais ceci https://docs.google.com/document/d/1NQ20x8JxGkhonYV69VxtIFBMXiX0LAwh5WYPx_pk0w0/edit?tab=t.0 directement dans Google Doc. Gain de temps phénoménal, avec 43 références en fin de document, que je dois encore aller checker pour m’assurer qu’elles sont bien pertinentes.
+27/12/2024, 00:36 - +41 76 372 28 94: Petit bémol après avoir checké toutes les références. Il en manque (une thématique n’en propose aucune par exemple). Et plus grave, 3% des références sont fausses (texte non trouvé). Alors j’ai checké peut-être un peu vite les 43 liens et lu en diagonale, mais bon… Perplexity joue aussi parfois des tours. Donc ça mâche le travail mais en version Gemini Advanced 1.5 Pro, ce n’est pas 100% fiable (ce qui est étonant puisque ici il s’agit juste de surfer sur internet et de résumer ce que l’on lit). <Ce message a été modifié>

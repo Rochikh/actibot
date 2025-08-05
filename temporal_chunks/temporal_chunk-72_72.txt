@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 10
+
+=== CONTENU ===
+10/11/2023, 08:36 - +32 496 42 84 33: J'avoue que je ne sais pas à quel point résumer une conférence est une atteinte au droit d'auteur ^^
+10/11/2023, 08:58 - Ahmadou Ba: J’ai pas très bien compris. Vous voulez dire que nous sommes responsables de ceux que produit ChatGPT pour nous mais cela peut porter atteinte au droit d’auteur parce que cela n’est pas notre production intellectuelle.
+10/11/2023, 09:01 - +32 496 42 84 33: Oui. C'est dans les conditions d'utilisation
+10/11/2023, 09:04 - Jean-Marc Everard: Ah non pas encore… faut-il juste attendre ou doit-on la demander ? Merci de la réponse dans tous les cas!
+10/11/2023, 09:15 - Ahmadou Ba: Ça c vraiment trop compliqué. Comment l’utiliser alors quand nous voulons produire des contenus : cours, supports, rapports, mémoires. Ça serait fastidieux de citer chaque prompt. Et ChatGPT peut citer un auteur sans que nous le sachions parce qu’il peut se tromper sur ses sources. Excusez moi mais cette question m’intéresse bcp
+10/11/2023, 09:16 - Larissa: Salut tout le monde, pour préparer mon fils pour ses entretiens pour être accepté à l'université et aussi pour aider à écrire sa lettre de motivation, j'ai fait ce prompt avec ChatGPT: Take the role of an admissions officer at the University of Amsterdam for the Psychology, Politics, Law and Economics Bachelor program. Ask me questions as if you were assessing my admissibility. After asking me questions and me giving answers to your questions, tell me what I answered well and where I could have had a better answer and what that better answer would have been. Ask me one question at a time which I answer and then give me feedback right after my answer.
+10/11/2023, 09:16 - Larissa: Super résultat!
+10/11/2023, 09:19 - Lucie: As tu un CR ?
+10/11/2023, 09:24 - +32 496 42 84 33: J'y travaille aujourd'hui
+10/11/2023, 14:13 - Rochane: Une invitation à l'outil heyGen avec 4 crédits pour traduire des vidéos en plusieurs langues comme nous l'a montré Lucie à la dernière visio ;) Hey friend, check out this awesome tool to make spokesperson videos by just typing!

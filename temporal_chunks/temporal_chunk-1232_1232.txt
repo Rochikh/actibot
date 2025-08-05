@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 6
+
+=== CONTENU ===
+Nous avons intégré l’IA dans nos cours à la rentrée 2023, cela fait donc 2 ans que nous utilisons chatGPT/Copilot, heygen, elevenlabs, et a l’époque le plugin voice for chatGPT qui a été remplacé par ChatGPT voice. Il s’agit de cours asynchrones 100% en ligne. J’ai peut être qq infos à vous donner. En revanche il me semble que l’IA générative n’est pas faite pour corriger la prononciation et ne connaît pas l’API, et qu’il faudrait effectivement passer par des étudiants en informatique pour mélanger reconnaissance/generation vocale, spectrogramme et feedback génératif, mais je n’ai testé Mizou (très bien mais payant pour récupérer les résultats des étudiants) que pour l’écrit et je peux me tromper. Je me tournerais à ta place vers Flowchase pour en savoir plus, d’autant que @32483605396 est dans ce groupe. <Ce message a été modifié>
+13/11/2024, 12:02 - Jean-Marc Everard: Bonjour Clotilde, bonne suggestion. Je pense que la date avait été annoncée mais en effet je n’ai mis l’évènement que pendant le long WE. Je vais mettre le replay très bientôt.
+13/11/2024, 12:14 - +33 6 80 25 63 41: Un petit groupe d’entraide sur ce sujet serait peut être une bonne idée ?
+13/11/2024, 12:14 - +33 6 20 97 18 83: @33619756349   je serai ravie de pouvoir échanger sur la demarche d' ingénierie pédagogique pour les langues avec les IA. J'ai également utilisé Elevenlab pour la proposition de ressources audio (cours asynchrone). Sinon en anglais, pour la prononciation, ChatgptVoice propose une décomposition syllabique du mot et indique pour l'intonation où l'accent doit être placé ou pas. C'est une approche que j'adopte aussi avec mes étudiants qui ne sont pas des étudiants de parcours  LEA ou LLCE et pour qui l'API est plus du hieroglyphe. Mais, Je leur fournis quand même l'API en référence.  Je ne sais pas pour les autres IA mais Claude et ChatGpt connaissent le système phonetic API.
+13/11/2024, 13:14 - ‎+212 700-150296 a demandé à ajouter +212 699-494952.
+13/11/2024, 14:24 - ‎+212 700-150296 a ajouté +212 699-494952

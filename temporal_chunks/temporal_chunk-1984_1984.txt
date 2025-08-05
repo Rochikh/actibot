@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+Il m'a semblé entendre ce matin (France Inter/ Stéphane Jourdain) que Meta allait déployer dans les tous prochains jours son IA dans Messenger et dans WhatsApp  Concrètement, si j'ai bien compris on pourrait questionner leur IA (et non ChatGPT qui y était déjà). Ce que j'ai moins compris et c'est là où vous allez pouvoir m'éclairer sur les cas d'usages :
+1) est-ce que l'IA Meta permettrait à un participant d'un gpe WhatsApp de (re)trouver une information (à l'instar d'Actibot) et de se la faire réexpliquer autrement (si incomprise à la première lecture)
+2) est-ce que cette IA embarquée dans un fil de discussion entre apprenants et formateur.trices via WhatsApp pourrait constituer un premier niveau de tutorat "intelligent" (sans trop halluciner)
+Au plaisir d'avoir votre éclairage et d'en débattre ensemble
+20/03/2025, 18:02 - +33 6 76 04 48 20: J’ai entendu la même chose concernant uniquement WhatsApp, et d’après ce que j’ai compris suite aux explications qui ont été données à l’antenne,  l’IA dans ce cas remplacerait simplement un moteur de recherche : l’exemple qui a été pris était concernant un groupe de discussion composé de personnes qui sont en vacances à Barcelone et qui veulent avoir des informations touristiques.
+À mon sens vu sous cet angle, je ne vois pas trop l’intérêt de cette IA.
+Un bon vieux moteur de recherche fait le job !!!
+20/03/2025, 18:41 - +33 6 25 79 50 95: Merci Richard, à plusieurs on comprend mieux.
+Disons que l'intérêt premier rime avec captivité, Meta offre à ses utilisateurs de WhatsApp le confort (et donc l'absence d'effort) d'aller chercher de l'info sur un moteur de recherche lambda et néanmoins conçurent.
+Dans cette merveilleuse économie de l'attention l'IA devient l'extension et l'avenir des réseaux sociaux (cet IA Meta avec WhatsApp, Grok avec X).
+Imaginons maintenant que cette ou ces IA soient utilisées par une communauté d'apprenants et leur(s) formateurs.trices ;  quels pourraient en être les usages pédagogiques concrets ?
+20/03/2025, 18:45 - +33 6 76 04 48 20: Les usages concrets ?

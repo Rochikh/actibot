@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 13
+
+=== CONTENU ===
+07/02/2025, 12:58 - +44 7776 747507: Bravo; panels et discussions de très haut niveau.
+07/02/2025, 13:59 - Francois Bocquet: Révision terminée pour moi. Ça donne déjà une bonne base pour une AIPD minimaliste. Le principal y est. Il faut proposer au chef d’établissement de la faire viser par le DPD qu’il a désigné (normalement le DPD académique). Il faut ensuite faire une fiche pour le registre d’établissement et rédiger et diffuser la charte. Ensuite ça sera OK. (Ouf !)
+07/02/2025, 14:34 - ‎Francois Bocquet a ajouté ~ Benjamin
+07/02/2025, 14:00 - Francois Bocquet: C’est intéressant parce que ça modélise ce qui devrait être fait pour que tout soit carré.
+07/02/2025, 14:02 - Francois Bocquet: Notons que l’utilisation des modèles de langage sur Vittascience et en utilisant une connexion via l’ENT de l’établissement serait à mon avis beaucoup plus simple a mettre en œuvre techniquement en apportant des garanties déjà existantes ! Je ne pense vraiment pas que l’avenir soit aux installations de multiples instances locales sur les postes ou sur les serveurs d’établissements.
+07/02/2025, 14:38 - +33 6 73 29 84 68: Bonjour, je vous rejoins sur l’invitation de mon camarade François Bocquet. Au plaisir de vous lire !
+07/02/2025, 16:19 - ‎+33 6 74 67 70 31 a demandé à rejoindre le groupe.
+07/02/2025, 17:16 - Centre Richard: Bonjour la communauté
+Des gens seront dans le sommet à Paris??
+07/02/2025, 18:12 - Francois Bocquet: Publication ce jour par l’Unesco de la version française du « Référentiel de compétences en IA pour les enseignants » https://unesdoc.unesco.org/ark:/48223/pf0000392681 Un grand merci à @unesco.org pour m’avoir fait le grand honneur de participer à la révision de ce document
+07/02/2025, 18:25 - +33 6 79 72 76 62: Merci pour tout ce travail ! C'est super 👍
+07/02/2025, 18:26 - +33 6 79 72 76 62: Merci aussi pour tout les commentaires. Je vais les lires ce weekend et mettrait tout à jour.
+07/02/2025, 18:26 - +33 6 79 72 76 62: Oui j'essaierai ça aussi je pense

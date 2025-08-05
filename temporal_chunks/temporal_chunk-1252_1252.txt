@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 12
+
+=== CONTENU ===
+J'attends juste un peu avant de partir au cas où vous souhaiteriez me répondre...
+Bonne continuation dans ce domaine passionnant, et plein de promesses et de craintes !
+16/11/2024, 11:26 - Rochane: Personne n'est invité à partir et au contraire 🙂
+16/11/2024, 11:27 - +33 6 71 11 12 91: Certes, mais je ne veux pas empêcher non plus des gens plus concernés que moi de rejoindre le groupe parce que vous avez atteint le nombre fatidique de 1024 ! 😉
+16/11/2024, 11:28 - Rochane: PlatoPlay est un jeu de cartes d'idéation éthique pour l'IA, vendu à 39€, qui aide les équipes à développer une IA responsable en utilisant le cadre PLATON12. Il est conçu pour les entreprises, dirigeants et équipes techniques souhaitant intégrer l'éthique dans leurs projets d'IA
+https://naullynicolas.gumroad.com/l/PlatoPlayFR?_gl=1*zoghcy*_ga*NTU0OTM4MTI2LjE3MjY3NzcwNDE.*_ga_6LJN6D94N6*MTczMTc1MTU3MS40LjEuMTczMTc1MTY0MC4wLjAuMA
+16/11/2024, 11:30 - +33 6 15 20 18 94: Approche très intéressante merci. Je suis entrain de monter un cours pour nos étudiants en travail social sur l'IA. Je pensais utiliser notebook lm pour leur faire créer leur propre outil de révision sur des thématiques ciblées. Ceci étant notre documentaliste me pose des questions sur la propriété intellectuelle dans le cadre des documents sources que nous prendrions sur Cairn. Je trouve que la propriété intellectuelle n'est pas toujours claire et leurs CGV indiquent une utilisation modérée sans la préciser de manière plus pratique. Merci pour tout ces échanges en tout cas !
+16/11/2024, 11:35 - Rochane: Voici ce que donne le résultat d'analyse des CGU de notebooklm avec le prompt partagé ci-dessus
+Je vais analyser les CGU de Google selon les 4 points demandés, en mettant en évidence les risques pour les utilisateurs européens.
+# 1. Risques pour la vie privée et les données personnelles
+**Collectes excessives de données** :
+- {{Les données collectées sont très étendues et incluent : historique de navigation, géolocalisation, activités sur les services Google et sites tiers, données des appareils, informations personnelles}}

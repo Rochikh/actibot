@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 11
+
+=== CONTENU ===
+17/12/2023, 09:52 - Votre code de sécurité avec +32 493 75 08 03 a changé. Appuyez pour en savoir plus.
+17/12/2023, 11:45 - Rochane: https://youtu.be/J2RJCLMg3Vc?feature=shared.       Elle est vraiment top cette vidéo de notre ami @33681508047
+17/12/2023, 11:56 - Jacques BARATTI: Très bien la vidéo pour créer des images sympas ! (et libres de droits…)
+17/12/2023, 12:27 - +237 99148639: Merci pour cet outil genial...
+17/12/2023, 12:31 - Rochane: https://generationia.flint.media/p/chatgpt-la-technique-du-curseur-pour-des-rponses-sur-mesure?utm_source=generationia.flint.media&utm_medium=newsletter&utm_campaign=tiens-et-si-on-disait-du-bien-de-twitter&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZTM0YmM1NWYtYWY2Ny00ZTRiLWI0YzAtZGI1ZWNhOTQ2MmFmIiwiZXhwIjoxNzAyOTYyMTUxLCJpc3MiOiJodHRwczovL2FwcC5iZWVoaWl2LmNvbSIsImlhdCI6MTcwMjc4OTM1MX0.LykQ8rV4r-JPqG4TUsvNxDYspim10LQ_fQNVy4MMkws.    : "Eh la team, z'avez pigé cette combine de taré pour ChatGPT ?"😁
+17/12/2023, 12:49 - Jacques BARATTI: "Trop cool, vous avez capté le truc, c'est de la bombe, non ?"
+17/12/2023, 14:00 - Ahmadou Ba: J'ai adore cette technique merci
+17/12/2023, 16:00 - Rochane: Je viens de rajouter dans notre banque de données une ressource : **"Des outils d’intelligence artificielle pour créer des plans de cours"**. Pour voir toutes les ressources c'est ici : bit.ly/iaedu12 et pour contribuer c'est ici bit.ly/iaedu10 <Ce message a été modifié>
+17/12/2023, 16:11 - Rochane: https://youtu.be/jshgEkO6MhI?feature=shared
+17/12/2023, 16:33 - Jacques BARATTI: C'est intéressant, assez technique. On peut donc tester en parallèle 2 modèles (dans une dizaine d choix possibles au moins de modèles LLM différents) et les comparer sur le même prompts. J'ai bie aimé le LM studio qui permet d'utiliser un LLM sur sa machine (à condition d'avoir un pc qui a des ressources suffisantes). Est-ce que dans  ce cas la confidentialité est garantie ? Merci Rochane pour ce partage
+17/12/2023, 17:36 - Rochane: https://youtu.be/Taz2QPuVoK0?feature=shared

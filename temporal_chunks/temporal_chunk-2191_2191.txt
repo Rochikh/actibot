@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 645
+Messages: 12
+
+=== CONTENU ===
+22/05/2025, 20:21 - Rochane: Comment ça dans 365 ? Je ne le vois pas avec ma licence pro
+Je profite pour poser aussi cette question
+On a des licences student A5 pour nos stagiaires et quand je teste avec cette licence, j'ai copilot arrive bientôt
+22/05/2025, 20:42 - Sébastien Place: Dans la licence Copilot 365. C'est la licence additionnelle qui donne accès aux Copilots dans les applications de la suite.
+L'outil inclus dans les licences Microsoft 365 A1 A3 et A5 s'appelle Copilot Chat (comme ça on peut le différencier de la version Copilot 365)
+22/05/2025, 20:42 - Sébastien Place: Copilot Chat est désactivé par défaut sur les comptes Students. L'administrateur doit juste activer pour les comptes students dans ses paramètres.
+23/05/2025, 05:12 - Votre code de sécurité avec ~ Béa a changé. Appuyez pour en savoir plus.
+23/05/2025, 08:07 - ‎+33 7 88 40 98 79 a demandé à ajouter +33 7 82 91 54 24.
+23/05/2025, 08:48 - estelle Duterage Drion IA: Bonjour Jacques, merci pour le GP pour créer des flash kart. Par contre je ne sais pas ce que c’est que Anki dont tu parles, j’ai testé ce matin c’est très très bien. Merci beaucoup moi j’utilise quizlet pour les flashcards mais c’est payant
+23/05/2025, 09:09 - Francois Bocquet: La maîtrise de l'IA permet aux apprenants de comprendre l'IA et de prendre des décisions éclairées et éthiques quant à son utilisation. Intégrée judicieusement à l'apprentissage, l'IA offre de nouvelles possibilités d'exercer l'esprit critique et l'expression créative. https://ailiteracyframework.org/
+23/05/2025, 09:09 - ‎~ Hadrien est parti·e
+23/05/2025, 09:13 - Francois Bocquet: Dans un nouvel article, le philosophe britannique Andy Clark (auteur du livre Natural Born Cyborgs de 2003, voir le commentaire ci-dessous) propose une réfutation de l’anxiété omniprésente entourant les nouvelles technologies, en particulier l’IA générative, en recadrant la nature de la cognition humaine. Il commence par reconnaître des préoccupations familières : le GPS érode notre mémoire spatiale, les moteurs de recherche gonflent notre sens de la connaissance et des outils comme ChatGPT peuvent diminuer la créativité ou encourager la paresse intellectuelle. Ces peurs, observe Clark, reflètent d’anciennes inquiétudes, comme l’avertissement de Platon selon lequel l’écriture affaiblirait la mémoire, et découlent d’une hypothèse profondément enracinée mais erronée : l’idée que l’esprit est confiné au cerveau biologique. https://www.linkedin.com/posts/jonathan-boymal-448b5870_in-a-new-paper-british-philosopher-andy-activity-7331094414653554692-l3iP?

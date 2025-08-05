@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 21
+
+=== CONTENU ===
+14/03/2024, 18:12 - ‎+33 7 88 05 39 17 a rejoint le groupe à partir de la communauté.
+14/03/2024, 21:48 - Votre code de sécurité avec ~ Richmond FIKO 📈🖥️📊 a changé. Appuyez pour en savoir plus.
+14/03/2024, 21:54 - Votre code de sécurité avec ~ Richmond FIKO 📈🖥️📊 a changé. Appuyez pour en savoir plus.
+15/03/2024, 11:58 - ‎+32 497 34 36 33 a rejoint le groupe à partir de la communauté.
+15/03/2024, 15:05 - ‎+32 476 37 33 86 a rejoint le groupe à partir de la communauté.
+15/03/2024, 15:16 - Yvelines: Salut tout le monde! J'ai besoin d'un retour des gens qui sont sur Mac pour leur utilisation de Copilot. Sur PC  on peut ouvrir un fichier pdf  avec Edge et bénéficier du scan de contenu avec Copilot. Je peux donc par exemple ouvrir un dossier pédagogique et demander à Copilot de générer une scénarisation pédagogique basée sur les infos du DP. Est-ce que c'est également possible sur Mac et si oui, comment? Déjà merci pour vos retours 🙏
+15/03/2024, 15:25 - +33 6 86 63 43 38: Bonjour, Oui c est possible.
+Télécharger :
+edge
+Prendre ton document dans finder
+2 doigts sur souris/ pad
+Ouvrir avec egde
+Il s'ouvre dans dans egde
+En haut à droite icône copilote
+Et tu discutes sur la base de ton document
+15/03/2024, 15:27 - Yvelines: Merci @33686634338 pour la réponse ultra rapide! Un autre souci, dans l'Apple store, uniquement "Bing pour Safari" proposé comme extension à installer et pas du tout Edge
+15/03/2024, 15:28 - +33 6 86 63 43 38: Je crois que je l ai téléchargé en ligne directement
+15/03/2024, 15:31 - +33 6 51 43 08 14: J'ai un Mac. J'ai téléchargé et installe edge pour Mac. Je disposais d'une icône en haut à droite sur edge pour lancer bing et j'ai copilot
+15/03/2024, 15:36 - +33 6 51 43 08 14: <Médias omis>
+15/03/2024, 15:55 - Yvelines: Merci à toutes les deux pour votre aide!
+15/03/2024, 17:33 - Pierrick BRIAND: Bonjour à tous, petit rappel concernant un webinaire animé par Brice Gaillard et Pierrick Briand qui exploreront ensemble les avancées récentes, les défis et les perspectives d'avenir de l'intégration de l'IA dans les pratiques pédagogiques.

@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 587
+Messages: 7
+
+=== CONTENU ===
+06/01/2025, 22:48 - Rochane: Je crois que ces IA ont vraiment des difficultés avec les chiffres car elles sont programmées pour générer du texte.
+Par exemple, si la majorité des cours durent 1 heure, le modèle pourrait inconsciemment "corriger" les exceptions (comme les cours de 1h15) pour les aligner sur la norme perçue. Cela explique pourquoi, dans ton exemple, deux des trois cours de 1h15 ont été raccourcis à 1h. <Ce message a été modifié>
+06/01/2025, 23:12 - Laurent The Cure: Je m'arrache les cheveux en demandant de générer des quiz de 25 questions en une seul fois, dont 5 vrai/faux, 10 QCM avec 1 bonne reponse.... J'ai régulièrement uniquement 15 ou 20 questions, ou 7 vrai/faux... Il me dit : "voici le quiz généré en respectant les instructions". J'ai beau lui demander de recompter, il  constate son erreur, s'excuse (ça on peut pas l'excuser d'être impoli), écrit qu'il recommence, et refait la même bêtise... 🙄🙄 Tu penses que c'est dû à ce problème avec les chiffres ?
+06/01/2025, 23:22 - +33 6 19 89 32 62: Et en lui demandant successivement par petite étapes ? Du style « écris en premier 5 questions fermées en mode vrai faux, puis 10 fermées une bonne réponse, et enfin 10 ouvertes? » parfois quand on scinde les étapes il comprend mieux.
+06/01/2025, 23:25 - Laurent The Cure: Je pourrais @33619893262 , mais il me semblait pas trop compliqué de respecter ces instructions simples. L'idée est de m'éviter de devoir rétravailler le résultat en compilant les questions, les mélangeant...
+07/01/2025, 06:55 - Jean-Marc Everard: Merci pour ta réponse, oui je pense que c’est ce phénomène que j’ai observé même si c’est textuel et pas chiffré chez moi :l’IA généralise l’info et la lisse. C’est sans doute un point d’attention. Dans mon exemple ce n’est pas trop grave sauf que ça jette le discrédit sur la partie pourtant intéressante du résultat.
+07/01/2025, 07:05 - Jean-Marc Everard: C’est d’ailleurs un point que j’essaie d’aborder dans mes formations : comment adopter l’IA en restant conscient de ses limites actuelles inhérentes à son fonctionnement sans pourtant passer à coté de ses avantages (ne pas jeter le bébé avec l’eau du bain). Évidemment pas toujours évident avec tout le monde mais intéressant car cela oblige à entraîner notre esprit critique. Et ça, ça fait du bien dans tous les domaines. 😉👍🏻

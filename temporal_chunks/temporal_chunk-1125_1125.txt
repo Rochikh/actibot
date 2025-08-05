@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 17
+
+=== CONTENU ===
+24/10/2024, 20:29 - ‎+237 6 90 98 08 52 a rejoint ce groupe grâce à son lien d’invitation
+24/10/2024, 20:29 - Ahmed Yagoubu: Je cherche un expert en numérique éducatif avec quoi  concrétiser un projet au profit de communautés apprenantes scolaires et universitaires et de professionnels de l enseignement
+24/10/2024, 21:01 - Fred IA: En passant par framapad pour construire le texte en markdown, ça fonctionne pour la mise en place de chatMD 🙂
+24/10/2024, 21:51 - +33 6 58 35 08 39: Digipage permet aussi d’écrire en markdown
+24/10/2024, 22:05 - Fred IA: Je l'ai également testé mais sauf erreur, digipage ne permet pas de protéger la page que vous rédigez. Dommage car digipage est plus pratique pour voir le résultat du markdown (framapad est protégé mais ne permet pas la previsualisation). Aucune solution parfaite donc. Preneur si quelqu'un  trouve mieux. Également preneur si quelqu'un sait comment connecter un LLM à chatMD
+24/10/2024, 22:08 - Rochane: Claude.ai lance un nouvel outil d'analyse intégrant JavaScript pour traiter les données en temps réel avec précision.
+https://www.anthropic.com/news/analysis-tool
+24/10/2024, 22:33 - ‎+32 491 31 59 59 est parti·e
+24/10/2024, 22:44 - Ahmadou Ba: Obsidian est un logiciel de notes comme Notion ou OneNote. La redaction se fait en markdown, Essayez pour ceux qui cherche une redacteur en markdown
+24/10/2024, 22:45 - Ahmadou Ba: https://obsidian.md/
+24/10/2024, 22:54 - StéphaneIA: <Médias omis>
+24/10/2024, 22:54 - Francois Bocquet: C’est pourtant vrai !
+24/10/2024, 22:58 - Ahmadou Ba: Extraordinaire, je n'ai jamais prêté attention à ça.
+24/10/2024, 23:28 - Fred IA: Merci 👍 Et est il possible de partager un lien direct vers un fichier markdown en lecture seule sur Google docs ? (Un lien qui montre le contenu du fichier et non pas qui le télécharge, car c'est ce qu'il faut pour chatMD). Merci beaucoup
+24/10/2024, 23:28 - Fred IA: Merci, je vais tester
+25/10/2024, 06:16 - ‎+32 485 59 77 04 est parti·e
+25/10/2024, 07:05 - Votre code de sécurité avec +33 6 79 30 50 60 a changé. Appuyez pour en savoir plus.

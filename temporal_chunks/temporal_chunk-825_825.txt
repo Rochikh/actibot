@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 16
+
+=== CONTENU ===
+- 🤝 Collaboration entre le créateur et Lia pour le développement
+- 🔧 Processus d'ajustements et de corrections lors de la création
+- 🗂️ Fonctionnement par ajout d'un bouton pour récupérer les infos
+- 🤖 Utilisation d'un outil d'automatisation pour générer des résumés
+- 💡 Met en avant l'importance de la technologie et de l'innovation <Ce message a été modifié>
+18/08/2024, 10:26 - ‎+32 484 02 33 40 a demandé à rejoindre le groupe.
+18/08/2024, 10:44 - ‎+32 484 02 33 40 a rejoint ce groupe grâce à son lien d’invitation
+18/08/2024, 12:50 - ‎+229 60 20 19 69 a demandé à rejoindre le groupe.
+18/08/2024, 15:03 - ‎+229 60 20 19 69 a rejoint le groupe à partir de la communauté.
+19/08/2024, 14:24 - Iulia Grosman AIM: @32496968742 Notta doit faire le boulot non ? J'arrive à mettre des vidéos locales, faire la transcription NL et traduction, et exporter en .srt :)
+19/08/2024, 14:27 - Hoang: https://www.clubic.com/actualite-535058-que-faire-a-la-rentree-formez-vous-a-l-intelligence-artificielle-grace-a-ce-mooc-gratuit.html
+Un article qui propose une plateforme d’apprentissage IA. Imaginé par le professeur Teemu Roos de l'Université d'Helsinki, en étroite collaboration avec le cabinet d'innovation Reaktor, ce programme éducatif en ligne a vu le jour en mai 2018. Structuré en six chapitres distincts, il offre une immersion de trente heures dans l'univers de l'intelligence artificielle. Cette formation s'adresse à tous les publics, qu'ils soient néophytes ou professionnels en quête de reconversion, sans exiger le moindre bagage en informatique ou en programmation.
+19/08/2024, 14:27 - Hoang: Formation gratuite *
+19/08/2024, 14:28 - Hoang: Et voici le site de la plate-forme d’apprentissage : https://www.elementsofai.fr/
+19/08/2024, 16:12 - Jean-Marc Everard: Hello Lulia, génial. Ça a l’air d’être exactement ce que je cherchais. J’étais finalement quand même passé par YouTube privé etc en test mais cette solution -ci m’a l’air beaucoup plus adaptée. Grand merci !🙏
+19/08/2024, 21:23 - Hoang: https://youtu.be/2gN11pS1E1E?si=9pILESLsphCHP2TH une vidéo qui montre pas mal d’exemple de possibilités avec Claude sonnet pour la création de web app.

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 17
+
+=== CONTENU ===
+- Être écrite dans un style fluide et facile à comprendre pour un profane éduqué
+- Représenter au minimum 50% de la longueur du document original pour éviter de perdre des informations importantes
+- Inclure toutes les informations pertinentes, en les organisant de manière logique et cohérente
+- Utiliser tes propres mots pour résumer le contenu, tout en restant fidèle aux idées et au ton du document original
+8. Écris ta synthèse final sous le titre « # Synthèse exhaustive".
+Commence maintenant en lisant le document et en posant les 5 questions d'expert.
+02/03/2025, 19:49 - +32 483 60 53 96: J'irai en faisant:
+- Un prompt general sur lobjectif avec full contexte sur le type de communication (cible, public, type d'écriture et autres infos pertinentes) + les notes jointes
+- premiere tache je demanderai 5 questions complémentaires à lecrtirure et y répondre
+- deuxieme tache je demanderai 3 qlternstives pour une structure complète de l'écrit qvec titre sous titres sous sous titres (h1, h2 h3 et h4)
+- puis je choisis la structure et j'écris la conclusion avec les notes de base et les articles de références nécessaires à l'écriture
+- puis j'écris chaque passage h3 avec un prompt toujours avec une indication sur base des notes originales (le passage pertinent), des articles sources et je valide en lisant. Aussi je rajouterai une technique de curseur dans le prompt pour dire à l'ia à quel point je dois m'éloigner du texte original ou pas.
+- en ayant fait ca on est déjà dans une consommation importante et on est à 20 prompts facile en tout.
+- il est important au départ de savoir ce qui est nécessaire dans la communication finalement, pourquoi faire 35 pages quàd on peut faire un bon article en 12 par exemple ?
+- alternatibe: utiliser antidode ou grammarly ou jenni ai pour citer des passages.
+02/03/2025, 19:51 - Rochane: Franchement top vos propositions JMB et Robin, tout le monde apprend !
+02/03/2025, 19:51 - +32 483 60 53 96: A préciser que dans la méthodologie de travail du papier, l'usage de l’ia doit etre signalée pour écriture assistée et augmentatiô de texte sur les passages précis. Je garderai la trace de la conversation avec un simple cmd A et copier/coller fans un format txt. Et je le source.

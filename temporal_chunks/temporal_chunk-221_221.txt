@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 19
+
+=== CONTENU ===
+20/02/2024, 12:26 - Rochane: Exact et le gpt existe aussi
+20/02/2024, 12:27 - Ahmadou Ba: Formidable, quel est le nom du GPT svp.
+20/02/2024, 12:28 - Rochane: , comme son nom l'indique. Tu trouveras vite sur le store
+20/02/2024, 12:29 - Ahmadou Ba: Ok d'accord, merci.
+20/02/2024, 12:31 - Ahmadou Ba: il y a aussi possibilité d'utiliser les markmap qui transforment directement les markdown en carte mentale avec possibilité de récupérer directement le texte au niveau de l'ia. Bco d'ia utilise le code markdown
+20/02/2024, 12:31 - Ahmadou Ba: https://mymarkmap.netlify.app/
+20/02/2024, 12:32 - Ahmadou Ba: Tu copie le texte et tu as ta carte
+20/02/2024, 14:22 - ‎+33 6 43 43 41 81 a rejoint le groupe à partir de la communauté.
+20/02/2024, 17:18 - Rochane: https://youtu.be/JvQBZRKaSkQ?feature=shared Je vous partage une interview qui a été réalisée samedi dernier sur l'IA et l'éducation, juste avant une conférence que j'ai donnée 🙂
+21/02/2024, 09:37 - +33 6 76 04 48 20: Bonjour à toutes et tous, je dois réaliser une storyboard pédagogique.
+Je vais essayer de « me faire aider » par ChatGPT et Bing (qui m’a déjà surpris par son efficacité).
+Si quelqu’un connaît une astuce ou une autre IA qui soit performante dans ce cas de figure je suis preneur.
+Je vous remercie d’avance
+21/02/2024, 10:26 - Ahmadou Ba: Avez vous Gemini ou claude. Mais comme vous je trouve l'association entre bing et chatGpT très efficace.
+Claude est bon sur les synthèses. ChatGPT a tendance à être prolixe des fois
+21/02/2024, 10:27 - Jean-Marc Everard: Bonjour Richard, pour bien comprendre la question : est-ce un storyboard pédagogique pour un module de digital training ou bien une formation synchrone?
+21/02/2024, 11:24 - +33 6 76 04 48 20: Bonjour Jean-Marc, il s’agira d’une module de formation synchrone
+21/02/2024, 11:40 - ‎+32 494 30 81 69 a rejoint le groupe à partir de la communauté.
+21/02/2024, 13:06 - Rochane: Bonjour à toutes et tous, voici le lien pour notre visio de mercredi 21 février de 20h à 21h

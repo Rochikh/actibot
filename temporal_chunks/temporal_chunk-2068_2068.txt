@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 18
+
+=== CONTENU ===
+09/04/2025, 14:55 - +33 6 71 11 12 91: <Médias omis>
+09/04/2025, 14:58 - Rochane: super vidéo sortie hier à ce sujet https://www.youtube.com/watch?v=MvQc8WeoaUw
+09/04/2025, 15:00 - +33 7 87 35 78 96: Mon expérience : je demande cela le matin. Les serveurs sont dispo et ChatGPT aussi
+09/04/2025, 16:34 - ‎+63 930 703 5546 a demandé à rejoindre le groupe.
+09/04/2025, 18:15 - Votre code de sécurité avec ~ Emily a changé. Appuyez pour en savoir plus.
+09/04/2025, 21:13 - Votre code de sécurité avec ~ Delphine a changé. Appuyez pour en savoir plus.
+10/04/2025, 09:34 - ‎+33 6 83 22 67 07 a demandé à rejoindre le groupe.
+10/04/2025, 10:57 - ‎+32 472 39 50 83 a demandé à ajouter +32 484 83 77 79.
+10/04/2025, 11:12 - Nadia ER-RAJI: Mon expérience. j'ai mis en place depuis quelques semaines un envoi aussi par mail sans préciser le forma. Résultat ; 8h et 20h, un récap et des idées en fonctions de mes interactions du jour. pour ma stratégie de contenu
+10/04/2025, 11:36 - ‎+32 495 90 36 66 a demandé à ajouter +32 485 04 15 31.
+10/04/2025, 13:53 - ‎~ Sylvie Steppé a ajouté +32 485 04 15 31
+10/04/2025, 13:53 - ‎~ Lionel Meinertzhagen a ajouté +32 484 83 77 79
+10/04/2025, 13:53 - ‎+33 6 83 22 67 07 a rejoint le groupe à partir de la communauté.
+10/04/2025, 14:52 - ‎+32 460 24 51 33 a demandé à rejoindre le groupe.
+10/04/2025, 16:19 - +33 6 34 15 77 84: Bonjour, du coup c’est quoi la formule magique sur Manus? j’avoue que j’ai du mal à me repérer là dessus… les prompts ne devant pas être formulés de la même manière que sur ChatGPT ou autre PERPLEXITY, j’avoue avoir un peu de mal et je ne souhaite pas griller les 1000 crédits d’un coup d’un seul. Qui peut aider?
+10/04/2025, 16:20 - +33 6 86 05 85 44: Question sur manus intéressante
+10/04/2025, 16:20 - +33 6 86 05 85 44: 👍
+10/04/2025, 16:31 - Jean-Marc Everard: Je ne sais pas si c’est une formule magique (il n’y en a jamais) mais d’habitude, ce que je fait est de décrire mon projet d’app. Dans Claude et lui demander de rédiger un bon prompt pour être compris par une IA developpeuse. Ceci dit, je ne l’avais pas fait pour l’app. Sur l’esprit critique et n’ai donné que les grandes lignes à Manus en demandant un produit fini ou presque. Ceci dit, pour la deuxième app. Que je suis en train de développer, on se comprend moins bien 🙃.

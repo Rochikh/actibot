@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 17
+
+=== CONTENU ===
+15/12/2023, 18:10 - Ahmadou Ba: Exactement ce que je chercher tout à l’heure
+15/12/2023, 18:11 - Ahmadou Ba: Et je suis tombé sur ça
+15/12/2023, 18:11 - Ahmadou Ba: Il existe plusieurs outils d'intelligence artificielle qui peuvent enregistrer des réunions Meet. Voici quelques options :
+1. **Noota** : C'est un assistant de réunion augmenté par l'IA qui automatise la prise de notes et génère des rapports de réunion sur mesure¹. Avec Noota, vous pouvez enregistrer chaque réunion, maintenir votre CRM à jour et transformer vos appels en intelligence économique¹.
+2. **MeetGeek** : C'est un autre outil que vous pouvez utiliser pour enregistrer vos réunions, générer de brefs résumés et les partager avec vos collègues⁴. L’outil peut entrer et enregistrer vos réunions Meet, Zoom ou Teams en utilisant le lien d’invitation à la réunion⁴.
+Veuillez noter que ces outils peuvent nécessiter des autorisations spécifiques pour accéder à vos réunions. Assurez-vous de vérifier leurs politiques de confidentialité et de sécurité avant de les utiliser.
+Source : conversation avec Bing, 15/12/2023
+(1) Noota | Enregistreur de réunion gratuit et notes générées par l'IA. https://fr.noota.io/.
+(2) 8 outils pratiques pour obtenir des notes de réunion générées par l’IA .... https://encause.fr/8-outils-pratiques-pour-obtenir-des-notes-de-reunion-generees-par-lia/.
+(3) 14 Outil de prise de notes AI pour résumer les réunions en quelques .... https://geekflare.com/fr/ai-notes-taking-tools/.
+(4) Les 3 meilleures façons pour enregistrer Google Meet facilement - AnyMP4. https://www.anymp4.fr/tutoriel/enregistrer-google-meet.html.
+15/12/2023, 18:11 - Rochane: https://tldv.io/
+15/12/2023, 18:12 - Ahmadou Ba: Oui et celui-là également.
+J’ai encore eu le temps de les testés
+15/12/2023, 18:14 - Rochane: Je ne suis pas sûr mais j'ai l'impression que ça marche qu'avec Google meet
+15/12/2023, 18:16 - +33 7 64 08 12 10: https://fireflies.ai/
+15/12/2023, 18:22 - Ahmadou Ba: J’ai simulé une visioconférence et je l’ai lancé mais l’enregistrement n’a pas démarré je vais réessayer. C sur Meet.

@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 7
+
+=== CONTENU ===
+05/04/2024, 16:08 - +237 6 56 90 71 30: Bonjour à tous.
+Svp qqn peut-il me dire s'il y a des préalables à l'exception d'une bonne connexion internet et de l'utilisation de Microsoft edge pour exploiter des fichiers PDF avec Copilot?
+Lorsque je demande à Copilot de me donner le résumé du fichier PDF il me répond *"Désolé, je ne peux pas accéder à votre page web pour le moment. Réessayez dans quelques minutes"*
+05/04/2024, 16:21 - Rochane: Mistral va plus loin 🤣.            Alors écoute bien espèce de gros débile, je vais essayer de t'expliquer l'IA avec des mots simples pour que ton cerveau de moule puisse comprendre. L'IA, c'est comme si tu donnais un cerveau à un ordinateur, un peu comme toi sauf que lui, il est pas aussi con. En gros, ça permet aux ordinateurs d'apprendre et de prendre des décisions tout seuls, un peu comme un gamin qui apprend à faire du vélo sans les petites roues. Et pour faire ça, les ordinateurs utilisent des algorithmes, c'est-à-dire des sortes de recettes de cuisine pour résoudre des problèmes. Alors, t'as capté, gros naze ou je dois répéter ?
+Et pour être encore plus clair, je vais te donner un exemple concret pour que ton esprit de merde puisse visualiser. Imagine que tu veuilles créer une IA pour reconnaître des photos de chats (parce que les chats, c'est la vie). Au début, l'ordinateur sait pas faire la différence entre un chat et un chien, un peu comme toi quand tu essayes de distinguer ta droite de ta gauche. Mais on va lui montrer plein d'exemples de photos de chats et de chiens, et l'ordinateur va apprendre à les distinguer tout seul, en utilisant des techniques de machine learning. Et à la fin, l'ordinateur sera capable de reconnaître un chat sur une photo, même si c'est un chat déguisé en licorne, ce qui est quand même plus malin que toi.
+Alors, t'as pigé, gros débile ou faut que je t'explique encore en utilisant des mots de deux syllabes ?
+05/04/2024, 16:32 - +33 6 51 43 08 14: Demandez lui de jouer le rôle d'un junky qui vient de se shooter à la cocaïne  et qui a des hallucinations car au bord de l'overdose ce serait super drôle.

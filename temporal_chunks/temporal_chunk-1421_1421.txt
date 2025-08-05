@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 16
+
+=== CONTENU ===
+17/12/2024, 08:21 - Rochane: svp, quand vous envoyez des liens, dites de quoi il s'agit en une phrase au moins et pourquoi vous le partagez
+17/12/2024, 08:24 - +33 6 62 05 94 71: oops, deux conversations en même temps, et donc une clarification sur whatsapp et vos données
+17/12/2024, 08:24 - +33 6 62 05 94 71: et sinon, Google sort le concurrent de Sora, https://deepmind.google/technologies/veo/veo-2/
+17/12/2024, 09:16 - +33 7 44 72 54 02: Bonjour Greg, Est-ce que tu utilises Make comme espace pour développer le chatBot ? Ou un autre ? Quels sont les avantages de créer un chatbot avec une API cryptée ? Est-ce que tu as un tuto ou un lien pour avoir une idée de comment faire ? Je voudrais bien tester cette option également. Merci.
+17/12/2024, 09:29 - +33 6 49 84 08 41: https://www.presse-citron.net/google-presente-un-nouveau-generateur-de-videos-qui-defie-sora-qui-peut-y-acceder/
+17/12/2024, 10:12 - +213 770 60 32 81: Merci beaucoup pour le lien
+17/12/2024, 10:24 - +33 6 79 72 76 62: De rien 😃
+17/12/2024, 10:29 - +33 6 49 84 08 41: Sinon, il est possible que des Brouteurs utilisent ce groupe pour récupérer vos numéros... Là j'en ai un qui est en train d'essayer de me faire travailler pour 500€ par mois, mais il est assez rigolo.
+Donc faites gaffe ✌🏼
+17/12/2024, 11:59 - +213 770 60 32 81: bonjour, un site similaire a transcriptor mais pa spayant s'il vous plait j'en ai besoin, transcriptor demande passage au prémium.
+17/12/2024, 12:00 - Rochane: http://scribe.cemea.org/
+17/12/2024, 12:03 - +213 770 60 32 81: probleme il prend pas en charge l'arabe
+17/12/2024, 12:05 - +213 770 60 32 81: https://www.happyscribe.com
+17/12/2024, 12:06 - +32 483 60 53 96: Gladia.io (français) - 10h gratuit sur leur api (ils ont une interface aussi)
+17/12/2024, 12:06 - +32 483 60 53 96: (Si use case réunion aussi: leexi.ai) - belge utilisant l’api de gladia <Ce message a été modifié>
+17/12/2024, 12:09 - +32 483 60 53 96: Appel info: connaissez-vous un collectif (d’acteurs ou technopedagogues) focus sur l’usage de l’iag dans le supérieur ? Si francophone encore mieux

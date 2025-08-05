@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 14
+
+=== CONTENU ===
+21/02/2024, 22:25 - Rochane: On fera un mardi ou un jeudi ou un vendredi la prochaine fois 🙂
+21/02/2024, 22:36 - Rochane: À vraiment tester cette IA dont la vitesse de réponse est impressionnante 😮https://groq.com/
+21/02/2024, 22:58 - +33 6 52 49 10 78: Merci @33649535198. C'est moi où il n'y a pas de son associé au lien de la vidéo de @32496968742 ?
+22/02/2024, 06:38 - Jean-Marc Everard: Bonjour, c’est possible car je l’ai faite tellement vite que je n’ai pas eu le temps de vérifier que l’enregistrement c’était bien passé. J’avais eu un petit problème de son uniquement mono sur celui-ci https://youtu.be/C5z71MIg0wY?si=LunxktZs-cvprqpY . Mais je vous propose de recommencer tout ça un peu moins dans le Rush (et sur un meilleur ordi) pour améliorer le tout.
+22/02/2024, 07:18 - Guillaume Singeot: Lien vers le replay (disponible jusqu'au 10 mars) https://tubedu.org/w/mYS2UeLtFcMmkEbjjW7RU3
+22/02/2024, 07:55 - +32 484 68 10 13: Bonjour à toutes et à tous, je cherche des ouvrages et ou articles  parlant de L IA mais d un point de vue education aux médias.  Je suis en train de travailler pour un projet le racisme , misogynie, grosophobie et autre qu on peut trouver. J'ai déjà pas mal d exemple, mais je veux être certaine de pas louper des choses.
+22/02/2024, 07:57 - Rochane: Hello, si tu as GPt 4, il y a le GPt "consensus" qui peut te donner pas mal de sources 🙂
+22/02/2024, 07:58 - +32 484 68 10 13: Ha oui je l ai depuis peu
+22/02/2024, 07:58 - +32 484 68 10 13: Je découvre les différents outils du payant 😊
+22/02/2024, 07:59 - +32 484 68 10 13: Merci pour l info 🤩🤩🤩 ça va bcp m aider
+22/02/2024, 08:25 - Rochane: https://www.perplexity.ai/search/dis-le-en-MI5B6wMlTyKjKNS6ohw7VQ?s=m Gemma, initiative très intéressante
+22/02/2024, 08:31 - +33 6 52 49 10 78: Mistral avait / a vu juste en terme de positionnement.
+22/02/2024, 09:53 - +33 7 69 34 80 90: Je suis d'accord. En revanche les réponses sont dans un style assez "pompeux"
+Je réponds à des appels d'offres de formation et ça demande une veille supplémentaire sur le style que je n'ai pas à faire sur chatgpt.

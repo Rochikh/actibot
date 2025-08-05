@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 24
+
+=== CONTENU ===
+13/09/2024, 11:04 - +33 6 77 84 11 24: Dispo aussi pour moi
+13/09/2024, 11:05 - Fred IA: Merci beaucoup pour vos retours 👍
+13/09/2024, 11:09 - ‎+32 488 02 00 97 a demandé à rejoindre le groupe.
+13/09/2024, 11:12 - ‎+32 488 02 00 97 a rejoint ce groupe grâce à son lien d’invitation
+13/09/2024, 11:24 - Fred IA: Autre news de ce jour : nouveau modèle de Mistral, dénommé Pixtral 12B, son tout premier modèle multimodal 😀
+https://huggingface.co/mistral-community/pixtral-12b-240910
+modèle opensource
+13/09/2024, 11:40 - Rochane: Hahahah un podcast sur nos échanges de la communauté (en anglais)
+13/09/2024, 11:41 - Rochane: <Médias omis>
+13/09/2024, 11:41 - +212 644-562660: Au Maroc si
+13/09/2024, 12:17 - Jacques BARATTI: Disponible en France
+13/09/2024, 12:41 - +33 6 34 15 77 84: Hello Adrien moi aussi ça m’intéresse Merciiii 🙌
+13/09/2024, 16:30 - +41 76 372 28 94: En Suisse aussi depuis hier soir.
+13/09/2024, 17:54 - +33 6 33 75 30 50: Via un smartphone ce lien tourne en rond entre la page de présentations et la rubrique »en savoir plus ». Je n’ai pas bien compris où il était possible d’accéder à la partie « comparatif ». Dommage, l’initiative fait sens.
+13/09/2024, 18:12 - Rochane: T'as essayé ce lien
+https://languia.stg.cloud.culture.fr/arene/?cgu_acceptees
+13/09/2024, 18:12 - +33 6 15 79 19 04: Avez vous cliqué sur les conditions d'utilisation et ensuite sur "commencez à discuter"?
+13/09/2024, 18:19 - Cyrille CARTERET: Bonjour a tous.
+Sujet : recherche d'une IA.
+Qui permettrait a partir d'une pièce de théâtre dont les textes sont en pdf ou word
+De créer une bande annonce vidéo de moins d'une minute façon cinéma...
+Lia pourrait en tirer un résumé, sans spoil, et imaginer une voix off et des images d'illustrations.
+Merci pour vos suggestions
+13/09/2024, 19:06 - Fred IA: Bonsoir. Concernant Notebooklm, de ce que j'ai compris, les documents qu'on y met ne servent pas à entraîner les modèles de Google (ça resterait privé ? Ça me paraît naïf d'y croire..). Mais est on restreint à un nombre maximum de pages si on upload un pdf pour le faire analyser ?  Merci par avance

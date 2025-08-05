@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 557
+Messages: 10
+
+=== CONTENU ===
+La phrase que vous avez partagée semble être une demande de recommandation pour un outil capable de réécrire des textes en français à différents niveaux de compétence linguistique selon le Cadre européen commun de référence pour les langues (CECRL). Voici une explication détaillée :
+1. **Bonjour** : Cette partie est simplement une salutation.
+2. **Il me semble avoir vu un outil pour récrire les textes en lve** : L'expression "en lve" est probablement une erreur de frappe ou une abréviation mal choisie. Il se peut que la personne voulait écrire "en langue étrangère" ou utilisait "lve" comme abréviation de "langue vivante étrangère", ce qui est courant dans le contexte éducatif pour désigner les langues non maternelles.
+3. **garder le sens du texte mais avoir un niveau du cecrl différent** : Cette partie de la phrase explique que l'outil recherché doit pouvoir modifier le niveau de langue du texte (par exemple, de B1 à C1 selon le CECRL) tout en préservant le sens original du texte. CECRL (Cadre Européen Commun de Référence pour les Langues) est un système utilisé pour évaluer et décrire la maîtrise d'une langue.
+4. **Quelqu’un aurait la référence ?** : Ici, la personne demande si quelqu'un connaît ou pourrait fournir une référence (c'est-à-dire une suggestion ou un lien) pour cet outil.
+En résumé, l'auteur de la phrase cherche un outil capable de réécrire des textes pour correspondre à différents niveaux de compétence en langue (selon le CECRL), tout en conservant le sens original du texte. Cela pourrait être utile pour les apprenants de langues qui veulent pratiquer la compréhension et l'écriture à divers niveaux de difficulté.
+19/04/2024, 09:18 - +33 7 63 58 01 55: Curieux de voir si ChatGPT peut faire ça, je vais tester.
+19/04/2024, 09:22 - +689 89 60 06 24: Il le fait sur des paragraphes, pas un article
+19/04/2024, 09:23 - +33 7 63 58 01 55: C'est déjà pas mal, merci pour votre retour
+19/04/2024, 09:39 - +33 6 23 62 03 47: bonjour, perso j'ai testé Chat GPT sur un tout petit texte, le lui faire écrire en A1, A2 puis B1, et je suis moyennement convaincue… Si vous réussissez je veux bien voir le résultat… peut-être est-ce moi qui ne savais pas bien m'y prendre ;) <Ce message a été modifié>

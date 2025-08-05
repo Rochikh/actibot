@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 9
+
+=== CONTENU ===
+25/11/2024, 09:53 - ‎+32 497 42 01 75 est parti·e
+25/11/2024, 10:01 - Adrien Bock IA: Pour ceux que ca interesse, je fais de la formation en entreprise sur Microsoft Copilot ici en Belgique et notamment pour Brico, swde, ethias.
+Plus d’infos en mp @33649535198 @32496968742
+25/11/2024, 10:28 - +41 76 372 28 94: Je ne peux pas vous conseiller de ne pas l'utiliser (c'est Microsoft quand même dont nous parlons ici). Mais je suis très surpris de la différence avec ChatGPT et Claude. Idem pour Gemini qui est arrivé dans mon Workspace et qui ne comprends rien à ce que je lui dit. On est bien obligé de les utiliser, vu qu'ils sont intégrés eux et pas d'autres (et maintenant c'est au tour d'Apple Intelligence de démontrer son utilité - ce qui n'est pas gagné). Par contre, les apprécier, c'est plus difficile surtout quand on côtoie quotidiennement l'état de l'art avec d'autres IA !
+Et oui, il faut payer pour tester une solution qui en plus ne marche pas super bien... Mais peut être que ça vient aussi de moi et de mon manque d'assiduité pour m'adapter à leurs niveaux de compréhension du français ? Je n'ai passé que quelques heures à jouer avec. L'avis de spécialistes Office 365 serait apprécié (je n'utilise plus quotidiennement les outils Microsoft depuis une vingtaine d'années  - c'est dû à trop de frustrations accumulées avec les anciennes versions) !
+25/11/2024, 11:10 - +212 631-698223: Bonjour stp vous pouvez me recommender  un outil IA gratuit pour detecter le plagiat et d'autres outils anti plagiat merci d'avance <Ce message a été modifié>
+25/11/2024, 11:13 - +212 631-698223: J'ai testé compilatio mais il est payant
+25/11/2024, 12:50 - StéphaneIA: @41763722894 je suis intéressé par votre retour sur Gemini. Je travaille pour un revendeur Google workspace et même si tout n'est pas parfait on a de bons retours sur Gemini dans workspace
+25/11/2024, 13:39 - +41 76 372 28 94: Je lui ai demandé des trucs compliqué qu'il n'arrivait pas à faire. Alors je lui ai demandé des trucs simples qu'il n'arrivait toujours pas à faire. Après quoi j'ai arrêté mon test.

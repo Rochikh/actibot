@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 577
+Messages: 21
+
+=== CONTENU ===
+24/04/2024, 19:55 - +33 6 51 43 08 14: Merci je vais tenter dans trois heures 🙂
+24/04/2024, 21:03 - ‎+32 498 63 19 93 est parti·e
+24/04/2024, 22:43 - +33 6 76 04 48 20: Malheureusement je ne pourrai pas me libérer…
+Y aura t’il un replay ?
+24/04/2024, 23:40 - +33 6 14 16 68 64: Oui le replay sera disponible il suffit de s'inscrire.
+24/04/2024, 23:41 - +33 6 76 04 48 20: Super !
+On parle bien de l’inscription au webinaire ?
+24/04/2024, 23:44 - +33 6 14 16 68 64: Oui en suivant le lien. Si vous pouvez pas venir au live vous pourrez accéder au replay.
+25/04/2024, 11:35 - +33 6 49 84 08 41: <Médias omis>
+25/04/2024, 11:35 - +33 6 49 84 08 41: c'est quand même sympa l'IA 🤣
+25/04/2024, 14:01 - +41 79 326 51 40: Quelqu'un a-t-il testé  Factiverse.ai (outil ia aidant à identifier les erreurs factuelles dans le texte généré par ChatGPT) ?
+❔Si oui, quels sont vos retours positifs/négatifs?
+❔Existe-t-il, à votre connaissance, des outils encore plus performants que lui?
+D'avance merci pour votre réponse.
+25/04/2024, 14:35 - +33 6 24 33 06 13: Bonjour à toutes et à tous
+Il y a peut-être la réponse quelque part dans le fil mais je voudrais des conseils sur les meilleurs générateurs de voix de synthèse en français pour la création de modules e-learning ? J’ai commencé à regarder (j’ai vu murf. Synthesis) mais tous les exemples sont en anglais et je voudrais m’assurer que le français est correct
+Idéalement gratuit of course !
+25/04/2024, 15:02 - Rochane: Speechki, elevenlabs et Did
+Aucun n'est complètement gratuit mais tu as des crédits pour chaque outil
+25/04/2024, 15:15 - Clément Cahagne: Wondercraft pas mal aussi
+25/04/2024, 15:40 - +1 (514) 709-1726: Bonjour Christine. J’utilise Murf.ai qui est selon moi l’outil le plus performant. Je suis au Canada et c’est le seul outil qui propose une voix franco-canadienne correcte. Biensur il y a moins de choix que pour l’anglais mais c’est vraiment pas mal du tout ! Aussi bien les voix féminines que masculines. Le tarif est très abordable également et la prise en main de l’outil d’édition est vraiment facile. Le seul problème que je rencontre c’est lorsque j’ai besoin d’insérer des prononciations anglaises dans un texte français. Pour un rendu plus naturel il ne faut pas hésiter à jouer avec l’outil d’emphase et d’intonation.

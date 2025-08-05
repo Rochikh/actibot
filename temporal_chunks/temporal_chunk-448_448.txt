@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 18
+
+=== CONTENU ===
+En résumé, l'auteur de la phrase cherche un outil capable de réécrire des textes pour correspondre à différents niveaux de compétence en langue (selon le CECRL), tout en conservant le sens original du texte. Cela pourrait être utile pour les apprenants de langues qui veulent pratiquer la compréhension et l'écriture à divers niveaux de difficulté.
+19/04/2024, 09:18 - +33 7 63 58 01 55: Curieux de voir si ChatGPT peut faire ça, je vais tester.
+19/04/2024, 09:22 - +689 89 60 06 24: Il le fait sur des paragraphes, pas un article
+19/04/2024, 09:23 - +33 7 63 58 01 55: C'est déjà pas mal, merci pour votre retour
+19/04/2024, 09:39 - +33 6 23 62 03 47: bonjour, perso j'ai testé Chat GPT sur un tout petit texte, le lui faire écrire en A1, A2 puis B1, et je suis moyennement convaincue… Si vous réussissez je veux bien voir le résultat… peut-être est-ce moi qui ne savais pas bien m'y prendre ;) <Ce message a été modifié>
+19/04/2024, 13:16 - Lucie: Bonjour Emmanuelle. Je ne suis pas experte en niveaux de langues mais en prompt. Si tu me partages ton prompt je peux te dire comment loptimiser
+19/04/2024, 13:27 - +237 6 56 90 71 30: Bonne idée. J'aimerais aussi bien voir ce prompt
+19/04/2024, 13:42 - +33 6 88 57 53 04: Idem 😊
+19/04/2024, 15:23 - +57 313 4959160: Magic School
+19/04/2024, 16:33 - ‎+33 6 08 95 76 92 a été ajouté·e
+19/04/2024, 16:33 - ‎+33 6 08 95 76 92 a rejoint le groupe à partir de la communauté.
+19/04/2024, 18:58 - Mickaël: Un GPTs serait probablement utile sur ce sujet car pour plus d'efficacité, il faudrait lui donner les grilles permettant de rappeler les attendus sur chaque niveau du CECRL, non ?
+20/04/2024, 10:22 - ‎+216 28 043 775 a été ajouté·e
+20/04/2024, 10:22 - ‎+216 29 167 622 a été ajouté·e
+20/04/2024, 10:22 - ‎+216 29 167 622 a rejoint le groupe à partir de la communauté.
+20/04/2024, 10:22 - ‎+216 28 043 775 a rejoint le groupe à partir de la communauté.
+20/04/2024, 10:22 - ‎+216 98 831 801 a rejoint le groupe à partir de la communauté.
+20/04/2024, 10:22 - ‎+216 93 958 095 a rejoint le groupe à partir de la communauté.

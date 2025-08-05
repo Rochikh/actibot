@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 15
+
+=== CONTENU ===
+31/12/2024, 12:01 - +213 558 04 82 89: Merci pour ce partage.
+C'est possible de me donner le lien vers le MOOC svp?
+31/12/2024, 12:01 - Rochane: Regarde dans les messages d'hier 😀
+31/12/2024, 12:07 - +32 475 86 01 57: Si quelqu un peut remettre le lien, je n etais pas encore inscrit et je n y ai pas accès
+31/12/2024, 12:09 - Rochane: https://www.coursera.org/learn/agentic-ai/
+31/12/2024, 14:29 - +32 489 24 76 78: Nous y sommes .. https://www.techradar.com/computing/artificial-intelligence/ai-educators-are-coming-to-this-school-and-its-part-of-a-trend
+31/12/2024, 14:42 - +32 475 86 01 57: 2h c est trop. La seule utilité que je pourrais voir à ce genre d utilisation de l IA en école c est de la différenciation.
+Mais 2h par jour c est trop. C est une mesure d économie déguisée en bonne idée avant gardiste.
+31/12/2024, 15:04 - +33 7 66 23 46 45: Comment nos élèves, nos étudiant.e.s développeront-ils des compétences humaines s'ils sont toujours plus au contact de machines ?
+31/12/2024, 15:12 - Rochane: En tout cas, c'est une expérience dont les résultats devront être bien analysés afin d'y voir plus clair.
+31/12/2024, 15:14 - +33 7 63 58 01 55: C'est une question centrale à laquelle les organismes de formation et leurs acteurs et actrices doivent répondre.
+31/12/2024, 15:20 - +33 7 63 58 01 55: Curieux de voir ce que ça va donner mais je ne suis pas très optimiste.
+Dans un contexte pas si éloigné, la Suède a fait marche arrière après avoir trop axé l'éducation sur le numérique. Le manque de relation pédagogique (et même sociale) s'est fait sentir et a eu un impact direct et négatif sur la qualité de l'apprentissage...
+https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere
+31/12/2024, 15:26 - Rochane: L'essentiel est l'activité pédagogique, où le numérique joue un rôle discret de facilitateur. La technologie doit s'effacer au profit de l'apprentissage, sans devenir le centre d'attention. Finalement, l'apprentissage et l'interaction doivent faire oublier l'outil

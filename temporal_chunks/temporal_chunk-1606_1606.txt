@@ -1,0 +1,37 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 29
+
+=== CONTENU ===
+</duree>
+La méthode PASTOR est un cadre puissant pour structurer des présentations impactantes :
+P - Problème : Identifiez le problème ou le besoin central, créant une connexion émotionnelle immédiate avec l'audience.
+A - Amplifier : Renforcez la compréhension des enjeux en démontrant leurs impacts et conséquences concrètes.
+S - Story & Solution : Présentez la solution à travers un storytelling engageant, en utilisant des exemples concrets et des cas d'utilisation.
+T - Témoignage : Fournissez des preuves concrètes et des données pour renforcer la crédibilité de votre solution.
+O - Offre : Présentez les avantages spécifiques et les détails pratiques de mise en œuvre.
+R - Réponse : Concluez avec un appel à l'action clair et des étapes concrètes à suivre.
+Pour créer le plan de la présentation :
+1. Commencez par analyser en profondeur le sujet pour identifier le problème ou le besoin clé qu'il aborde.
+2. Pour chaque étape de la méthode PASTOR, réfléchissez au contenu pertinent et aux messages clés.
+3. Organisez ces idées dans un flux logique, en assurant une transition fluide entre chaque section.
+4. Déterminez combien de diapositives allouer à chaque section en fonction de la durée totale de la présentation.
+Pour chaque diapositive de votre plan :
+- Fournissez un titre clair et concis qui capture l'idée principale
+- Décrivez le contenu ou le message clé de la diapositive en 1-2 phrases
+- Suggérez des éléments visuels (graphiques, images, etc.) qui pourraient améliorer la diapositive
+- Assurez-vous que chaque diapositive contribue à la narration globale et maintient l'engagement de l'audience
+Présentez votre plan dans le format suivant :
+<plan>
+<diapositive1>
+Titre : [Titre de la diapositive]
+Contenu : [Brève description du contenu de la diapositive]
+Visuel : [Suggestion d'élément visuel, le cas échéant]
+</diapositive1>
+<diapositive2>
+Titre : [Titre de la diapositive]
+Contenu : [Brève description du contenu de la diapositive]
+Visuel : [Suggestion d'élément visuel, le cas échéant]

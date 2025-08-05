@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 588
+Messages: 10
+
+=== CONTENU ===
+02/11/2024, 17:40 - Francois Bocquet: Non pas vraiment. Quoi qu’il en soit un enseignant seul ne peut décider de mettre en œuvre un traitement. Seuls le chef d’établissement ou le recteur ou le Ministre peuvent assumer cette responsabilité (en France).  Le responsable de traitement doit donc procéder à l’analyse d’impact sur la protection des données, inscrire le traitement aux registres obligatoires et diffuser l’information exigée aux personnes concernées. A ce moment seulement il est possible d’affirmer que le traitement est conforme.
+02/11/2024, 17:40 - Rochane: https://x.com/OpenAI/status/1851340615344406781?t=i6tNho1p7wRAXNpOTdPaxA&s=08
+Très bonne nouvelle, on va pouvoir retrouver facilement nos discussions sur Chat Gpt 👌
+02/11/2024, 17:43 - +689 87 78 58 86: Merci pour ces précisions
+02/11/2024, 17:45 - Francois Bocquet: Un traitement est conforme ou ne l’est pas. C’est un verdict binaire. Si Vittascience est accedé depuis l’ENT via le GAR, il est considéré comme conforme. Duck.ai ne peut être conforme mais présente l’avantage de minimiser les risques. Pour savoir si un traitement est conforme il suffit de vérifier que celui ci est bien inscrit dans le registre de l’établissement ou de l’académie. Si ce n’est pas le cas alors le traitement n’est pas conforme. Si le registre n’est pas accessible au public dans un établissement secondaire public en France, alors le chef d’établissement viole le code de l’éducation et la loi Informatique et Libertés :-(
+02/11/2024, 17:51 - Francois Bocquet: code de l’éducation L 121-4-2 (voir art 22 de la loi informatique et libertés de 2018 https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000037085996)
+02/11/2024, 18:36 - ‎+62 856-0022-56856 a demandé à rejoindre le groupe.
+02/11/2024, 19:02 - +41 76 372 28 94: Non, nous en avons pas discuté.
+Ni le logiciel, ni le serveur, ne sont capables de dire quelle ip s'est connecté sur le serveur pour les élèves. Pas d'information collectées : pas de login, pas de discussions.
+Seul un élève connecté à l'école peut poser des questions à l'IA. J'ai abandonné l'idée de leur offrir ChatGPT chez eux pour l'instant car le protocole de construire un identifiant unique pour les élèves non basés sur un cookie, afin de limiter les abus, me prendrait trop de temps à développer durant l'année scolaire. J'y réfléchirai l'été prochain.

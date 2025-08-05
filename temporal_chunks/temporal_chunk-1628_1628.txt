@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 10
+
+=== CONTENU ===
+22/01/2025, 12:45 - Votre code de sécurité avec ~ Manurhin a changé. Appuyez pour en savoir plus.
+22/01/2025, 13:31 - +33 6 42 26 64 70: Pour plus d’infos sur Deepseeker (post de Flavien Chervet que je vous conseille de suivre)
+🐋 🐳Gloups ! Le chinois #DeepSeek vient de lâcher une BOMBE. Sans aucune annonce, au détour d’un tweet, ils viennent de sortir GRATUITEMENT l’une des meilleure #IA du marché : DeepSeek-R1 (pour « Reasoner-1 »).
+👀Cela fait un petit moment que je suis les travaux incroyables de DeepSeek AI et que j’utilise leur système d’IA. Pourquoi ? Parce que leur #chatbot est complètement gratuit, et TRES performant. Je n’arrête pas de me demander comment ils font…
+💪Leur IA DeepSeek V3 était déjà l’une des meilleures du marché, avec en outre des fonctionnalités avancées comme la gestion de documents, la recherche web et une large fenêtre de contexte de 64 000 tokens.
+🏆Mais là… Ils viennent de passer un cap qui les positionne tout en haut du leaderboard, même devant les solutions payantes comme #GPT4o ou #Claude35, ou devant le #leader de l’#OpenSource, #Llama3.
+🧠Ils ont annoncé il y a à peine 1h leur nouvelle IA, #R1, qui est capable de « raisonner » comme o1 (la meilleure IA déployée d’#OpenAI) pour produire des réponses bien plus précises. Le tweet d’annonce : https://lnkd.in/dPQJsP5U
+🏂Leur IA talonne ou dépasse #o1 sur à peu près tous les #benchmarks. Et aussitôt annoncée, aussitôt déployée : elle est disponible gratuitement en activant l’option « #DeepThink » sur l’interface : https://chat.deepseek.com/
+💰La nouvelle IA est aussi disponible via #API à des prix incroyablement bas : $0,14/millions de tokens en input vs $15 pour o1, et $2,19/millions de tokens en output vs $60 pour o1. Bref, r1 est 30 à 100 fois moins cher que son concurrent américain !!
+👩‍💻L’IA est même du niveau de o1 pour la génération de #code informatique : vu son prix et ses performances, elle va sûrement très vite devenir le standard de la communauté sur le sujet, en étant intégrée dans les éditeurs de code (#cursor).

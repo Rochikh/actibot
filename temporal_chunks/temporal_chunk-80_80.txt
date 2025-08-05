@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 12
+
+=== CONTENU ===
+13/11/2023, 17:21 - Jacques BARATTI: je comprends bien Rochane, mais entre temps toutes les demandes faites seront facturées sur le compte du concepteur ? C'est bien cela ?
+13/11/2023, 17:22 - Rochane: Je suppose. En tout cas, j'ai déjà utilisé l'API Openai dans une automatisation make et pour une utilisation d'une cinquantaine de fois, j'en ai eu pour 2 EUR environ
+13/11/2023, 18:53 - Thierry VANOFFE: Bonjour JAcques, est ce que 20 balles par mois c'est pas à la portée de tous vus les services rendus par chat GPT 4 Plus ? N'est ce pas plus utile qu'un abonnement Netflix ou 2 paquets de clopes ? 😉
+13/11/2023, 18:55 - Jacques BARATTI: Entièrement d'accord avec toi Thierry, mais la question n'est pas la (d'ailleurs je les paye les 25 € par mois car j'y trouve de l'intérêt) mais les utilisateurs des GPTs, à priori ils ne vont pas payer leur utilisation qui pour eux sera gratuite (incluse avec GPT4, c'est nous qui allons la payer !
+13/11/2023, 18:59 - Thierry VANOFFE: Sinon je paie 20 balles, y a eu de l'inflation par chez vous ? je suis en France à Lille.
+13/11/2023, 19:01 - Jacques BARATTI: j'ai payé récemment 24,50 avec les taxes et en euros...
+13/11/2023, 19:34 - Rochane: Ce gars parle très vite mais moi j'aime bien 😁https://youtu.be/jDMEXqp7IY4?si=6W_7Cxup156Lc6a4
+13/11/2023, 19:36 - Thierry VANOFFE: On peut mettre x 0,5 sur YouTube 😉 ouf
+13/11/2023, 21:33 - ‎+33 7 69 34 80 90 a rejoint le groupe à partir de la communauté.
+13/11/2023, 21:46 - Laurent The Cure: Bonsoir à vous toutes et tous. J'ai bien envie de tester certains GPTs pour mon activité, et donc payer l'abonnement. Savez vous si le paiement se fait à l'année ? Et si l'on peut l'arrêter à tout moment (si cela ne répond pas à mes attentes ou plus sûrement, si je n'arrive pas à l'utiliser correctement). Merci d'avance pour vos lumières. Laurent
+13/11/2023, 21:48 - Rochane: C'est au mois Laurent et tu peux arrêter à tout moment
+13/11/2023, 21:52 - Laurent The Cure: D'accord super merci. Et quelles différences entre gpt-4 gpt-4 plus et gpt4 turbo (pardon pour mes questions qui peuvent paraître idiotes)

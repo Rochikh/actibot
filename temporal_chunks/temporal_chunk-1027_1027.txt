@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 21
+
+=== CONTENU ===
+Où puis-je trouver ton nouveau livre sorti aujourd'hui ?
+03/10/2024, 10:52 - +33 7 44 11 22 11: Trop bien 😍
+03/10/2024, 10:52 - +32 493 87 42 05: Magnifique !
+03/10/2024, 10:53 - Lucie: <Médias omis>
+03/10/2024, 10:53 - Francois Bocquet: Ben non ! Ça reste un traitement de données à caractère personnel (DCP). Il est encadré de la même façon par le RGPD. Mais ça simplifie les choses puisque pas de relation avec un sous traitant (donc ça évite les contrats et avenants) mais ça nécessite une évaluation des risques (AIPD), une inscription au registre par le responsable de traitement et une information des personnes concernées. Ce qui n’est que très rarement réalisé et qui par conséquent rend le traitement illégal :-(
+03/10/2024, 10:54 - Francois Bocquet: Pardon c’est la réponse à cette affirmation (qui est fausse)
+03/10/2024, 10:55 - Lucie: Sur Amazon et sur le site de mon éditeur Titashop
+03/10/2024, 10:58 - Lucie: Ce message a été supprimé.
+03/10/2024, 10:58 - +33 7 44 11 22 11: Merci Lucie ☺️
+J'ai aimé le premier, il me faut le deuxième aussi.
+Je peux y trouver la méthode framework ?
+03/10/2024, 11:01 - Lucie: Merci pour ce retour.
+Oui ma méthodologie détaillée est dans le second livre.
+Le second livre est uniquement consacré aux LLM et avec des megaprompts plus élaborés et surtout avec un tout nouveau système pour les copier plus facilement. C'est la base du premier mais en plus développé car il fait quasiment 200pages mais que sur les LLm
+03/10/2024, 11:02 - Lucie: Merci.
+Quelques jours de travail mais un résultat si satisfaisant ❤️
+03/10/2024, 11:04 - +33 7 44 11 22 11: Trop bien ! 😍🥰
+Merci de nous faire du bien avec ce nouveau bijou.
+03/10/2024, 11:07 - Lucie: Merci à toi et à tous les autres de me lire.
+Je ne voulais déjà pas écrire le premier mais le soutien des communautés me porte et me donne envie de vous donner plus.
+03/10/2024, 11:34 - Pierrick: Bonjour pour les podcast orientés pédagogies des ITW intéressants sur l'IA et la pédagogie sur le Pédagoscope Ariane Dimont  : https://pedagoscope.ch/

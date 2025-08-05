@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 20
+
+=== CONTENU ===
+Se former au RGPD : Pour bien comprendre les enjeux et obligations.
+**En résumé, pas de baguette magique RGPD ! Il faut être prudent, bien s'informer, et privilégier les solutions qui vous donnent le plus de contrôle sur les données. **
+10/09/2024, 08:48 - Pierrick BRIAND: Bonjour à tous,
+Je reviens vers vous concernant le projet du défi du mois. Ce projet permettra à chacun d'explorer un domaine et d'enrichir ses connaissances. Pour rappel, le défi de septembre est "Accessibilité et IA".
+En réfléchissant à la meilleure façon de collaborer en petit groupe sur ce projet, je me suis souvenu que nous disposons tous d'un outil dont on ne parle pas assez : Notebooks. Je vais donc ouvrir un projet sur Notebooks et permettre à ceux qui le souhaitent d'y participer et de collaborer.
+Pour cela, il est nécessaire de disposer d'une adresse Gmail (aucune autre adresse ne fonctionne pour ce type de projet). Les personnes intéressées peuvent dès maintenant me le faire savoir en message privé, afin d'éviter de surcharger la communauté.
+À bientôt !
+Pierrick
+10/09/2024, 09:11 - +32 479 58 54 12: Merci. Pas mal du tout 😉
+Je voudrais pouvoir identifier les tâches plus precises.
+Pourrais-tu lui demander d'extraire les cas tâches/solutions qui ont été échangés dans le groupe ?
+10/09/2024, 09:23 - +222 46 48 18 36: Bonjour à tous, le lien idéogram.ai me renvoi à: https://xn--idogram-cya.ai/ qui n'est pas accessible. Qui peut m'aider pour y accéder?
+10/09/2024, 09:24 - Rochane: ideogram.ai
+10/09/2024, 09:30 - +32 479 78 14 48: null
+10/09/2024, 09:43 - ‎+33 6 49 86 21 42 a demandé à rejoindre le groupe.
+10/09/2024, 10:44 - +222 46 48 18 36: null
+10/09/2024, 10:51 - ‎+33 6 49 86 21 42 a rejoint ce groupe grâce à son lien d’invitation
+10/09/2024, 11:46 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 25 23 04 30.
+10/09/2024, 11:50 - ‎~ Katja Auffret a ajouté ~ Georges
+10/09/2024, 11:53 - Rochane: À l'arrache, j'ai fait un bot ( il faut améliorer le look) qui répond à tous vos besoins pour lesquels les réponses ont été données dans nos échanges. Le base de connaissances est l'extraction de nos échanges à aujourd'hui 🙂

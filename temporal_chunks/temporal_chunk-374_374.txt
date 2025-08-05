@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 9
+
+=== CONTENU ===
+https://edunumrech.hypotheses.org/1970
+06/04/2024, 13:02 - Francois Bocquet: Excellente source pour réfléchir rapidement aux actions à conduire dans l’éducation. Le document a maintenant 5 ans. En Chine les programmes de cette nature sont mis en place depuis … 2017 !!! Le retard dans l’éducation a l’IA est déjà considérable et aura des conséquences importantes dans les 10 ans à venir.
+06/04/2024, 13:14 - Ahmadou Ba: <Médias omis>
+06/04/2024, 13:14 - Ahmadou Ba: <Médias omis>
+06/04/2024, 13:30 - Rochane: intelligence artificielle de la maternelle à la Terminale: que devrait savoir chaque enfant sur l'IA ?" [1] O Cet article aborde la question de ce que chaque enfant devrait savoir sur l'intelligence artificielle (IA) de la maternelle à la terminale. O Il mentionne la création d'un groupe de travail conjoint entre l'Association pour l'avancement de l'intelligence artificielle (AAAI) et l'Association des professeurs d'informatique (CSTA) pour élaborer des directives nationales sur l'enseignement de l'IA aux élèves. O Les directives définiront ce que les élèves de chaque groupe d'âge devraient savoir sur l'IA, l'apprentissage machine et la robotique. O Le groupe de travail crée également des vidéos, des démonstrations, des logiciels et des descriptions d'activités liés à l'lA.
+06/04/2024, 18:28 - Pierrick BRIAND: Bonjour à tous, c’est Pierrick ;-)
+Je souhaite vous informer que j'ai récemment mis à jour la formation "Maîtriser l'IA pour la formation", et j'aurais besoin de votre aide. Pas d'inquiétude, il s'agit d'une petite demande qui ne concerne que ceux qui sont inscrits à cette formation gratuite.
+J'ai ajouté un nouveau chapitre intitulé « Les prompts prêts à l'emploi pour les apprenants ». J’ai pris grand soin de proposer des instructions et des consignes pour exploiter l'IA en classe de manière efficace.
+Je vous serais très reconnaissant de prendre un moment pour examiner ce module et de partager vos commentaires si vous en avez. Un grand merci par avance pour votre précieuse contribution.

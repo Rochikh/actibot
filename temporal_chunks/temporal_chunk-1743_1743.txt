@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 24
+
+=== CONTENU ===
+09/02/2025, 14:27 - Nadia ER-RAJI: merci pour ce cas d'usage 🙂
+09/02/2025, 14:27 - Francois Bocquet: Peut être parce que c’est un lien de direct (j’ai essayé hier sans succès )
+09/02/2025, 14:27 - Nadia ER-RAJI: je tenterai demain
+09/02/2025, 14:37 - +33 6 33 38 60 24: En général je lance la vidéo YouTube et je mets la dictée sous word.
+Ensuite je demande une synthèse par l’IA du texte brut transcrit.
+Bien sûr ça fait plusieurs manipulations et il est probable d’optimiser tout ça, mais ça fonctionne bien, le résultat est bon
+09/02/2025, 14:40 - Cyrille CARTERET: Pour youtube
+C'est très simple
+Allez tout en bas de la description
+Puis cliquer sur transcription
+Elle va s'afficher a droite.
+Décocher lhorodatage
+Puis copier le texte et coller ou vous voulez.
+Vous vous compliqué la vie à mettre la dictée vocale sur un audio' <Ce message a été modifié>
+09/02/2025, 14:47 - Daniel Pappalardo: Sinon Summerize : https://summarize.ing/fr
+09/02/2025, 14:50 - Francois Bocquet: La video est trop longue pour la version gratuite
+09/02/2025, 14:56 - +33 6 62 46 04 14: Ajouter le texte dans une source "Texte copié" dans un NotebookLM, ça marche.
+09/02/2025, 14:56 - +33 6 33 38 60 24: Génial merci. J’ai bien fait d’en parler 😉 <Ce message a été modifié>
+09/02/2025, 15:14 - +41 79 258 90 36: Seul pepin est que la qualité de la transcription n'est pas toujours très bonne. J'utilise le programme Vibe 3.0.0 qui s'installe sur PC et permet d'exporter des fichiers TXT, PDF, doc etc de vos music et vidéos sans avoir besoin d'internet. Le fichier peut ensuite être travaillé sur NotebookLM. https://github.com/thewh1teagle/vibe C'est gratuit. <Ce message a été modifié>
+09/02/2025, 15:16 - +33 6 52 73 73 42: <Médias omis>
+09/02/2025, 15:17 - +33 6 33 38 60 24: Merci 🙏
+09/02/2025, 15:17 - Cyrille CARTERET: Je demande a Gemini de nettoyer la transcription...
+Et ça fait le job
+09/02/2025, 15:28 - Rochane: Pour notebook lm, parfois, quand les vidéos ont moins de 72 h, ça génère une erreur ou alors ça peut être aussi le fait que les sous-titres soient désactivés je crois

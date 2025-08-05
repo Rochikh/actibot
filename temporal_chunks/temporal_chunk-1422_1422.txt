@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 620
+Messages: 17
+
+=== CONTENU ===
+17/12/2024, 12:03 - +213 770 60 32 81: probleme il prend pas en charge l'arabe
+17/12/2024, 12:05 - +213 770 60 32 81: https://www.happyscribe.com
+17/12/2024, 12:06 - +32 483 60 53 96: Gladia.io (français) - 10h gratuit sur leur api (ils ont une interface aussi)
+17/12/2024, 12:06 - +32 483 60 53 96: (Si use case réunion aussi: leexi.ai) - belge utilisant l’api de gladia <Ce message a été modifié>
+17/12/2024, 12:09 - +32 483 60 53 96: Appel info: connaissez-vous un collectif (d’acteurs ou technopedagogues) focus sur l’usage de l’iag dans le supérieur ? Si francophone encore mieux
+17/12/2024, 12:24 - +33 6 19 89 32 62: @33649535198 merci encore mille fois pour le webituto d’hier soir c était super ! J’avais posé une question dans le chat mais nous n’avons pas eu le temps d’y répondre. Est ce que tu conseilles OpenAi pour la création d’agent par rapport à Hugging Face . Et si oui quelles différences ? Merci encore 🙏🏻
+17/12/2024, 12:43 - +33 6 87 07 19 38: Bonjour, je suis intéressée par le replay qui a lieu hier soir. Avez-vous le lien ? Un grand merci d'avance
+17/12/2024, 12:46 - Francois Bocquet: Demander à @33785744116 ;-)
+17/12/2024, 13:30 - martinyemani IA: Lien du Replay du webito 😁
+https://drive.google.com/file/d/17R5kE_r1o8_u5W_oMetZiZEPi5Hb5m5k/view?usp=drivesdk
+17/12/2024, 13:30 - martinyemani IA: 👆le wetuto
+17/12/2024, 13:31 - martinyemani IA: Replay voudrais je dire
+17/12/2024, 13:55 - +33 6 19 89 32 62: @33785744116 Est ce que vous auriez la réponse ?  merci !  J’avais posé une question dans le chat mais nous n’avons pas eu le temps d’y répondre. Est ce que tu conseilles OpenAi pour la création d’agent par rapport à Hugging Face . Et si oui quelles différences ? Merci encore 🙏🏻
+17/12/2024, 14:29 - +33 7 89 20 08 64: null
+17/12/2024, 15:02 - +33 7 89 20 08 64: Merci beaucoup ! 🙏😉
+17/12/2024, 16:38 - François JOURDE: Une question pour les experts de l'UE IA Acte: RAG dans les écoles : Déploiement ou développement ?
+Prenons l'exemple de la politique d'une école en matière d'IA générative (GenAI), qui interdit strictement au personnel de développer ou de former des modèles d'IA générative. L'objectif est d'éviter que l'école ne soit classée comme « fournisseur d'IA » en vertu de la loi européenne sur l'IA (article 3, point 2). L'objectif est plutôt de limiter le rôle de l'école à celui d'un « déployeur d'IA », en évitant les complexités, les responsabilités et les charges réglementaires associées au développement de l'IA.

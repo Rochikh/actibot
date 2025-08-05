@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 16
+
+=== CONTENU ===
+12/07/2025, 09:03 - Batier Christophe: <Médias omis>
+12/07/2025, 09:05 - Rochane: Merci Christophe mais quand on arrive sur ta page Notion, je ne vois pas le lien
+12/07/2025, 09:06 - Batier Christophe: <Médias omis>
+12/07/2025, 09:08 - Rochane: ok, https://www.learningplanetinstitute.org/wp-content/uploads/2025/07/IA-ENSEIGNEMENT-SUPERIEUR.pdf
+12/07/2025, 09:24 - Rochane: <Médias omis>
+12/07/2025, 12:31 - Clément Cahagne: <Médias omis>
+12/07/2025, 12:32 - +33 6 66 91 41 72: Tu peux mais honnêtement il vaut mieux passer par flow ;)
+12/07/2025, 12:34 - Clément Cahagne: Mais il te faut un plan supérieur si tu passes par Flow je crois
+12/07/2025, 12:43 - +33 6 66 91 41 72: J'ai utilisé le Gemini pro en version gratuite et j'ai eu 1000 crédits flow avec
+12/07/2025, 15:04 - Votre code de sécurité avec Guillaume CLEMENT a changé. Appuyez pour en savoir plus.
+13/07/2025, 06:34 - Votre code de sécurité avec Samba BA a changé. Appuyez pour en savoir plus.
+13/07/2025, 08:25 - Francois Bocquet: Jan : l’assistant IA local et open source qui remplace ChatGPT https://www.justgeek.fr/jan-assistant-ia-local-140030/
+13/07/2025, 08:59 - +33 6 72 75 43 48: Merci François pour vos nombreuses publications 🙏une question : à force d’utiliser de nombreuses IA je me demande si pour installer Jan il faut une certaine puissance d’ordinateur ? Je projeté d’en changer mais j’avoue être perdue .. avez vous des conseils en la matière ( je suis formatrice et anime beaucoup à distance, en plus d’utiliser plusieurs IA ) merci <Ce message a été modifié>
+13/07/2025, 10:00 - Francois Bocquet: D’après la doc plus on dispose de RAM et plus la CPU/GPU est puissante mieux c’est. Mais il semble possible de le faire tourner avec des configurations pas trop puissantes
+13/07/2025, 10:46 - Jean-Marc Everard: Merci François. As-tu des retours sur Jan? Ils parlent d’extensions… y a-t-il par exemple des connecteurs vers n8n à ta connaissance ? Je pense que l’IA locale est la voie à prendre pour l’Europe…
+13/07/2025, 11:33 - +32 483 60 53 96: J'ai testé Jan en comparant gpt4all, lm studio et Msty : jai fait un tableau comparatif pour recommander un outil pour les chercheurs à la rentrée

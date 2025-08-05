@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 10
+
+=== CONTENU ===
+21/11/2024, 08:35 - Clément Cahagne: Bonjour bonjour ! Je sais que vous en avez déjà pas mal parlé ici, mais quelqu’un saurait me faire un récap de aistudio.google ? Quoi de plus par rapport à d’autres LLM du marché ? A notebookLM ? Côté usages, qu’en faites vous ? Merci beaucoup 🙂 Je sais que tu l’utilises pas mal @33649535198 non ?
+21/11/2024, 08:38 - Rochane: Oui, je m'en sers notamment pour analyser des fichiers lourds ( gros pdf, MP4 et MP3). Il est totalement gratuit avec ses 2 millions de tokens pour Gemini pro1.5. En plus, il a un nouveau modèle 1114, il paraît qu'il dépasse O1, je ne l'ai pas assez testé.
+21/11/2024, 08:43 - Vincent DROUOT: D’ailleurs on le voit dès que l’on commence un projet de création de Chatbot personnalisé (agent conversationnel) avec Poe, DUST, par exemple.
+Lorsqu’on choisi sont moteur LLM (ou GAN), on se rend compte qu’il ne répond qu’à partir de ses données d’entraînement, et qu’il ne va pas sur internet.
+Personnellement, je me suis fait un raccourci clavier qui tape « ne va pas sur le web » dans tous mes prompts dans ChatGPT, car je ne veux pas qu’il aille chercher des contenus de surface qui sont sur le web, mais bien de la profondeur dans ses textes de « mémoires d’entraînement ».
+Aussi, perso, j’utilise la plateforme OpenRouter.ai pour tester les 270 moteurs d’ia génératives disponibles actuellement sur le marché.
+😌 <Ce message a été modifié>
+21/11/2024, 08:46 - Rochane: Tiens, pour les raccourcis, j'utilise beaucoup text to blaze, ça m'aide un temps fou pour mes prompts et pas que....
+21/11/2024, 08:47 - Vincent DROUOT: et pour les recherches web, là par contre, j’utilise spécifiquement Perplexity, en version Pro car ainsi j’ai pu choisir Claude 3.5 Sonnet comme moteur de réinterprétation de la requête et pour la synthèse des recherches, les résultats sont nettement meilleurs je trouve 🙏😌
+21/11/2024, 08:48 - +33 6 66 98 84 23: Bonjour, connaîtriez vous un outil gratuit pour analyser un fichier Excel et interagir avec ? Merci d'avance !

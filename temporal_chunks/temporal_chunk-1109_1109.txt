@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 14
+
+=== CONTENU ===
+A priori, il n'y en a pas <Ce message a été modifié>
+21/10/2024, 16:15 - Francois Bocquet: « Conforme RGPD » dans quel contexte et pour quels traitements. Rappel : pour un usage autre que personnel (c’est à dire professionnel et à fortiori avec des élèves un service qui n’est pas opéré par votre institution doit faire l’objet d’un contrat de sous traitance entre l’éditeur du service et votre institution (par exemple pour l’éducation en France le Ministère ou le recteur de votre académie ou le chef d’établissement pour le secondaire ou le DASEN pour le primaire. Si ce contrat n’existe pas et que le traitement considéré n’est pas inscrit au registre du responsable de traitement alors le traitement n’est pas conforme et donc illégal. Attention aux allégations des éditeurs ou conseils trop enthousiastes de personnes peu formées aux meandres du RGPD ;-)
+21/10/2024, 17:57 - +33 6 49 84 08 41: Très intéressant... mais n'ayant pas d'identifiant académique, c'est mort pour moi 😓
+21/10/2024, 18:09 - martinyemani IA: Chez moi aussi c'est cuit!!!
+21/10/2024, 18:26 - Alexandre iA Togo: Bonsoir cher communauté. Concernant NotebookLM comment je pourrais avoir sa version française s'il vous plaît.
+21/10/2024, 18:28 - +33 6 64 48 37 32: Si il existe sur hugging face
+Y’a sûrement une version française
+21/10/2024, 18:33 - Gregoire IA: Pas trouvé en FR alors j'ai traduis moi même... Besoin d'intervenir de toutes manières pour corriger des erreurs et qques hallucinations.
+Le résultat final après avoir générer la vidéo avec mon Avatar sur Heygen : https://youtu.be/_sVeOvllmTg
+21/10/2024, 18:40 - Rochane: Super Grégoire! Attends, c'est quoi la source exactement qui était en anglais ?
+21/10/2024, 19:46 - Gregoire IA: Le dialogue généré par NotebookLM
+21/10/2024, 20:11 - +33 6 02 20 69 43: Je suis tombé sur un hack ce matin je dois tester ça :)
+21/10/2024, 20:18 - Alexandre iA Togo: Ok ok texte et fait nous un retour s'il vous plaît <Ce message a été modifié>
+22/10/2024, 09:19 - Votre code de sécurité avec ~ Karine Beta Remote Éducation a changé. Appuyez pour en savoir plus.

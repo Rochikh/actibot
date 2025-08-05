@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 8
+
+=== CONTENU ===
+https://cartesmd.forge.apps.education.fr/
+27/02/2025, 08:51 - +32 483 60 53 96: Intéressant. C'est clairement une bonne piste pour différents formats d’interaction de classe et introduire l’ia comme assistant de travaux de groupe et/ou assistant de la classe/TP.
+Au delà de ca, je pense qu'il est bien aussi d'avoir des outils plus transparents sur nos consommations "credits/tokens" en fonction des modeles utilises. C'est un point qui me semble pertinent au sein d'outils institutionnels comme à l’université qui veulent prôner un usage critique et responsable.
+Pas parce qu'on veut l'imposer, mais parce c'est ce que les personnes nous demandent en formation et pour leurs etudiants. Plus de transparence sur l'impact de leurs usages.
+27/02/2025, 08:58 - +33 7 87 35 78 96: Un Proxi pour avoir une idée du cout des modèles c'est de voir combien de token ils consomment dans des offres comme Magai.co Un modèle comme OpenAI o3 est à x3 le volume de token, le modèle 4o est à x1 mais un o3 mini est à x0,5 … Gemini affiche lui x0,1. Donc avec la même requete et une même longueur de réponse on a un facteur de 1 à 30 en termes de consommation du budget de tokens. Ce proxy est faussé par les offres commerciales que tel modèle peut proposer à Magai, mais il reflete bien de manière concrete la situation des entreprises. Face à de gros volumes de data on ne regarde pas uniquement la qualité des réponses mais aussi le coût. Si Gemini est disons 30% moins efficace … Ok c'est pas le top du top mais il est 30 fois moins cher que le o3 et dix fois moins cher que le 4o !
+27/02/2025, 09:11 - Amadou GuisséIA: Bonjour,
+J'ai remarqué que la seule IA capable de convertir un texte généré en version Word ou en PDF (si on le lui demande) est ChatGPT. Les autres IA en sont incapables. <Ce message a été modifié>
+27/02/2025, 09:15 - +33 7 87 35 78 96: Avec parfois (suivant la saturation des serveurs ?) un peu de mal à générer un tel fichier .. On peut aussi avoir des fichiers Excel. A l'usage je préfère demander du csv ou un tableau que je peux copier facilement.

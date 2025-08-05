@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 552
+Messages: 17
+
+=== CONTENU ===
+30/03/2024, 12:33 - Pierrick BRIAND: Ok, merci beaucoup @33666188587 . Une capsule vidéo pour se donner une idée concrète serait super cool.
+30/03/2024, 12:35 - Pierrick BRIAND: <Médias omis>
+30/03/2024, 12:37 - Rochane: Il faut absolument que l'on reparle en live en montrant et démontrant nos pratiques. Ce sera l'objet du prochain live dédié à l'évaluation avec l'IA 🙂
+30/03/2024, 13:27 - +33 6 22 42 57 92: C'est pour quand ? Que j'essaie de m'organiser...
+30/03/2024, 13:37 - Letizia ALLEGRINI: Je vais essayer de faire ça la semaine prochaine sinon vous pouvez retrouver cet exemple dans le genially du webinaire IA et unités conversationnelles https://view.genial.ly/659eaa13b7f7bb0014578c92/presentation-ia-et-unites-conversationnelles
+30/03/2024, 13:38 - Letizia ALLEGRINI: Dans la partie Conditionner un chatbot
+30/03/2024, 14:25 - Pierrick BRIAND: Le chatbot de la perceuse est très intéressant en effet.
+30/03/2024, 15:37 - Letizia ALLEGRINI: L'application que l'on a utilisé est opensource ChatMD est la création d'un collègue de la DRANE de Lyon. C'est très encourageant car il est en train de faire évoluer ce chatbot
+30/03/2024, 15:40 - Letizia ALLEGRINI: https://eyssette.forge.aeif.fr/chatMD/
+30/03/2024, 17:15 - Rochane: <Médias omis>
+30/03/2024, 17:16 - Ahmadou Ba: Formidable, merci beaucoup
+30/03/2024, 17:32 - +33 6 64 50 56 67: Ici un article qui détaille la procédure https://itsenglishoclock.com/2024/03/19/creer-et-utiliser-des-chatbots-en-classe-de-langue/
+30/03/2024, 17:40 - Yvelines: Est-ce que l'update est dispo à des moments différents selon les utilisateurs ? Je n'ai toujours pas le trombone de mon côté 😔
+30/03/2024, 17:41 - Rochane: Je ne sais pas mais moi je l'ai même sans être connecté et sur l'application également
+30/03/2024, 17:41 - Yvelines: 🤔
+30/03/2024, 18:11 - +41 79 326 51 40: Idem... 😰
+30/03/2024, 18:19 - +33 6 64 50 56 67: merci pour tous les partages dans ce groupe. Bonjour Rochane :) je ne sais pas si vous en avez parlé ici. Pour le chatbot j'aime bien https://mizou.com/preview-bot?ID=10477 et pour la génération de QCM à partir de video YouTube https://wisdolia.com?r=Tq7Gk6wnJmayCOwBgY8xbdaMcaD01A Je ne sais pas is vous les avez testés

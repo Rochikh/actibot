@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 14
+
+=== CONTENU ===
+23/02/2025, 16:20 - +33 7 66 54 11 11: Un extrait :
+La plasticité mentale, l'inévitable ambiguïté du langage humain, le rôle du temps et du tâtonnement dans le travail de clarification, l'impression d'évidence qui se dégage après coup...
+23/02/2025, 16:21 - +33 7 66 54 11 11: Cela éclaire mes lanternes concernant le deep learning
+23/02/2025, 16:31 - +33 7 66 54 11 11: Un autre extrait : "La fragilité de notre langage n'est que le reflet de ses soubassements neurologiques.
+Le sens que nous attribuons aux mots est de nature perceptive: nous savons reconnaître un éléphant mais nous ne pourrons jamais définir ce que c'est."
+23/02/2025, 16:31 - +33 7 66 54 11 11: Désolé de polluer cet espace ce dimanche après-midi... j'arrête
+23/02/2025, 17:24 - ‎+33 6 15 10 29 55 a demandé à rejoindre le groupe.
+23/02/2025, 17:47 - ‎+33 6 15 10 29 55 a rejoint le groupe à partir de la communauté.
+23/02/2025, 19:05 - +32 498 78 46 36: https://teachablemachine.withgoogle.com/train/image
+Je ne l'ai pas vu ici alors je le poste ==> Si jamais vous recherchez une plateforme en ligne afin de montrer concrètement comment fonctionnement l'entrainement d'une IA avec de la reconnaissance d'images, de son ou de postures. Cela permet de montrer comment est-ce qu'on peut entrainer une IA en jouant sur les différents paramètres et même d'exporter son petit modèle ;)
+23/02/2025, 19:11 - Francois Bocquet: Important : tout le processus se déroule dans le navigateur et il n’y a aucune transmission de données à Google. A noter que la mécanique mise en place par Vittascience pour permettre aux élèves d’entraîner leurs modèles est de même nature.
+23/02/2025, 19:50 - +33 6 08 73 04 79: Bonsoir,
+Pardon si le sujet a déjà été traité, mais si c’est le cas, je n’ai pas trouvé 😩 Donc je pose la question. J’ai pris la version Chat GPT+ pour lui faire analyser des docs. Et, surprise, impossible !! Si je clique sur +, il me dit « Ajout de pièces jointes désactivé pour »
+Comment réactiver cette fonctionnalité ?

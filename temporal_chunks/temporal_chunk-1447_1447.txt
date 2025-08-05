@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 15
+
+=== CONTENU ===
+Connaissez-vous la marche à suivre? Si oui, pouvez vous me dire comment ça fonctionne ? Merci d'avance.
+21/12/2024, 10:36 - +33 6 74 95 95 60: Avez-vous déjà intégré ChatGPT dans vos contacts pour l’utiliser dans WhatsApp ? C’est pratique 😉 je trouve
+21/12/2024, 10:45 - +33 6 76 04 48 20: Bonjour,
+Pour ce type de travail, j’utilise Zotero qui me permet de collecter et de classer les informations et Trello qui me permet d’organiser ce que j’ai à faire et ce que j’ai fait .
+21/12/2024, 10:48 - Rochane: Moi ça me gène qu'il ne soit pas connecté à internet 🙂
+21/12/2024, 11:04 - +33 6 02 20 69 43: Je viens tout juste de voir la sortie de INFP ça semble intéressant mais je pense que vous avez un peu trop d’avance, mes marketeux se chargeront de vous faire de la comm et trouver des tests :)
+21/12/2024, 11:09 - +33 6 43 10 07 29: Merci de m'avoir répondu. En effet, je suis un peu trop pressé...ce n'est pas encore accessible. J'ai eu confirmation par un autre canal.
+21/12/2024, 11:18 - +33 6 51 88 68 57: Où peut-on consulter cet enregistrement ?
+21/12/2024, 11:44 - Jean-Marc Everard: Merci pour l’info. Est-ce que c’est la version que tu as Rochane ? À part cela, d’autres intérêts par rapport à la version à 20€/mois?
+21/12/2024, 12:48 - +33 6 68 00 29 68: La fonctionnalité a été aussi déployé sur les comptes gpt plus les plus anciens, pour les autres il faudra attendre
+21/12/2024, 12:51 - +216 58 114 258: Ce message a été supprimé.
+21/12/2024, 13:15 - +33 6 51 88 68 57: Notion ?
+21/12/2024, 13:51 - François JOURDE: Bonjour, j'ai un peu mis à jour la traduction de l'échelle de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/README.md
+Mes notes sont aussi ici : https://publish.obsidian.md/jourde/NOTES/IA+_+GENERATIVE+AI/3.+IA+%26+EDUCATION/IA+%26+EDUCATION+-+ENJEUX/AIEd+-+%C3%A9valuation+-+AI+assessment+scale+(AIAS) <Ce message a été modifié>
+21/12/2024, 15:01 - +33 6 28 06 83 96: bonjour François prévois-tu de créer quelque chose croisant   l'intelligence artificielle et la méthode abc learning concevoir des ingénierie de formation  ?

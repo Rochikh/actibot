@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 13
+
+=== CONTENU ===
+Pixton : Une plateforme en ligne qui facilite la création de bandes dessinées, même si elle n'est pas entièrement basée sur l'IA.
+MidJourney / DALL-E : Ces outils peuvent générer des illustrations à partir de descriptions textuelles, que tu peux ensuite assembler pour créer une bande dessinée.
+Ces outils devraient t'aider à donner vie à tes projets de bande dessinée ! Amuse-toi bien avec la création ! 🎨✨
+Nouvelle question
+16/09/2024, 19:26 - +33 6 72 75 43 48: merci Rochane désolée tu fais bien de me le rappeler je n'ai pas encore pris le reflexe d'Actibot
+16/09/2024, 19:32 - Amadou GuisséIA: Effectivement. J'ai générer les QCM sur chatgpt qui m'a converti ça en format Aiken. Puis j'ai téléchargé ça dans Moodle à partir de banque de questions. Ça a marché. Fini maintenant les copier-coller par question. On va plus vite avec cette méthode. Merci beaucoup pour le partage 🙏🏿🙏🏿🙏🏿 <Ce message a été modifié>
+16/09/2024, 20:49 - Jean-Marc Everard: Ce qui est interessant ici selon moi, c’est la démonstration que l’on peut entraîner l’IA préférentiellement sur certaines tâches. Ici on sais que ChatGPT 1o est particulièrement adapté aux stem. La bonne nouvelle derrière ça est que l’humain a encore des leviers et des choix dans l’orientation qu’il souhaite donner aux progrès de l’IA.
+16/09/2024, 22:31 - +33 6 74 05 09 80: J'ai publié pas mal de petites BD sur le thème du marketing sur mon LinkedIn.
+Je génère un script avec ChatGPT, en lui définissant le sujet, le nombre de case, nombre et description des personnages. Pour le script je lui demande de générer les dialogues mais aussi de détailler les scènes.
+Puis grâce a DALL-E je génère les cases. Grave aux seed et gen_id tu arrives facilement a garder la persistance des personnages
+16/09/2024, 22:31 - +33 6 74 05 09 80: Puis je mets tout ça en forme avec Canva
+17/09/2024, 06:20 - +33 6 72 75 43 48: Merci pour ce message peux tu m’envoyer les liens linkedin en mp ?
+17/09/2024, 06:20 - Votre code de sécurité avec +32 495 63 83 13 a changé. Appuyez pour en savoir plus.

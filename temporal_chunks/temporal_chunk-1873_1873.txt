@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 10
+
+=== CONTENU ===
+04/03/2025, 16:43 - Gregoire IA: @33619756349  Live je ne sais pas mais j'avais publié des vidéos sur le sujet l'année dernière, encore d'actualité. Je ne documente pas l'axe techno - le comment - mais plutôt le quoi et surtout le pourquoi intégrer l'IA.
+https://youtu.be/6kHx4aQgeNI <Ce message a été modifié>
+04/03/2025, 16:46 - Gregoire IA: On avait parlé NotebookLM mais je ne me souviens pas si on avait vu comment mettre en place un workflow pour générer des questions alignées pédagogiquement et comment on peut générer le code d'intégration pour importer des questions directement dans la banque de questions de LMS comme Moodle.
+@33649535198 , tu me demandais des idées l'autre jour, en voilà une pour le prochain live.
+J'ai récemment mis en place un flux qui part de la captation vidéo et audio d'un cours pour générer des quizz formatif.
+Si qqun.e maîtrise Make ou Notion, on pourrait développer une tâche automatisée pour générer automatiquement des quizz dès qu'une séance de cours est finie. 😅 <Ce message a été modifié>
+04/03/2025, 16:49 - Rochane: Top, on prépare ça pour fin du mois. Merci pour ta suggestion
+04/03/2025, 16:58 - Clément Cahagne: Ca doit pas être bien méchant si tu as déjà les transcripts. Un petit make pour connecter des assistants type gpts et hop
+04/03/2025, 17:24 - +33 6 19 75 63 49: Je vais (re)voir tes vidéos, merci 🙏En fait nous avons commencé à intégrer l’IA dès sa sortie mais ce n’est pas concluant pour l’écrit en langue étrangère dans nos cours e-learning (pas très surprenant mais je voulais expérimenter ce que les collègues américains donnant des cours de « composition » – Laura Dumin, Léon Furze, Liza Long, Jason Guyla etc. proposaient sur Facebook) et a priori impossible pour les compétences linguistiques (grammaire, lexique).
+Je suis convaincue depuis le début qu’il faut l’intégrer, et on l’a fait dès que cela nous semblait bénéfique (avec des chabots notamment, des jeux dont vous êtes le héros ou des productions de l’IA à critiquer et/ou adapter), ma question est comment faire différent / mieux.

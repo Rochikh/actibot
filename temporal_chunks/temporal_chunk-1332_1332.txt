@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 8
+
+=== CONTENU ===
+Et oui, il faut payer pour tester une solution qui en plus ne marche pas super bien... Mais peut être que ça vient aussi de moi et de mon manque d'assiduité pour m'adapter à leurs niveaux de compréhension du français ? Je n'ai passé que quelques heures à jouer avec. L'avis de spécialistes Office 365 serait apprécié (je n'utilise plus quotidiennement les outils Microsoft depuis une vingtaine d'années  - c'est dû à trop de frustrations accumulées avec les anciennes versions) !
+25/11/2024, 11:10 - +212 631-698223: Bonjour stp vous pouvez me recommender  un outil IA gratuit pour detecter le plagiat et d'autres outils anti plagiat merci d'avance <Ce message a été modifié>
+25/11/2024, 11:13 - +212 631-698223: J'ai testé compilatio mais il est payant
+25/11/2024, 12:50 - StéphaneIA: @41763722894 je suis intéressé par votre retour sur Gemini. Je travaille pour un revendeur Google workspace et même si tout n'est pas parfait on a de bons retours sur Gemini dans workspace
+25/11/2024, 13:39 - +41 76 372 28 94: Je lui ai demandé des trucs compliqué qu'il n'arrivait pas à faire. Alors je lui ai demandé des trucs simples qu'il n'arrivait toujours pas à faire. Après quoi j'ai arrêté mon test.
+Le truc simple c'était de transcrire le contenu de captures d'écran qui étaient dans mon doc. Ensuite, vu qu'il n'y arrivait pas, je lui ai juste demandé de me donner le dernier mot du doc qui était ouvert à côté. Idem : il a répondu à côté.
+Le truc compliqué c'était de me lister toutes les modifications réalisées par mes élèves sur leurs portfolios respectifs depuis la semaine dernière. Je n'ai pas osé lui demander de m'écrire une macro JavaScript pour le faire, mais peut-être que ça ça aurait marché ?
+Le gros soucis que j'ai avec TOUS les outils d'IA intégrés, c'est que je ne sais pas ce qu'ils sont capables de faire. Faudrait peut-être juste publier de temps en temps un short YouTube montrant une fonctionnalité ou un cas d'usage, pour que je capte les usages possibles ou les prompts qui marchent bien ?

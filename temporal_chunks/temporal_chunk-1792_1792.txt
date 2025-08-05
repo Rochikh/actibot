@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 566
+Messages: 16
+
+=== CONTENU ===
+Nécessité de maintenir une pensée critique active
+Importance de l'expertise du domaine (savoir ce qu'une image pédagogique doit contenir)
+Équilibre entre efficacité (génération rapide) et qualité pédagogique
+Développement de nouvelles compétences (formulation de prompts efficaces)
+C'est un cas particulièrement pertinent car il montre comment l'utilisation de GenAI peut à la fois faciliter le travail tout en exigeant une forme différente mais toujours active de pensée critique.
+16/02/2025, 16:13 - Votre code de sécurité avec Hadjer a changé. Appuyez pour en savoir plus.
+16/02/2025, 16:17 - +44 7776 747507: Merci @33662364404 et @33649535198 ; je suis justement en train de compiler de la documentation sur l'esprit critique notamment pour un post, disponible pour échanger/collaborer.
+16/02/2025, 16:24 - Francois Bocquet: Veilles et nouveautés sur les outils d’intelligence artificielle générative
+L’IA et ses multiples outils font beaucoup parler d’eux. Découvrez le regard que portent les chercheuses, chercheurs et autres personnes utilisatrices à travers l’œil attentif du Collimateur et de l’équipe de veille pédagonumérique du Carrefour d’innovation et de pédagogie universitaire
+https://enseigner.uqam.ca/ia/veilles-nouveautes/
+16/02/2025, 17:17 - Votre code de sécurité avec +33 7 64 05 96 43 a changé. Appuyez pour en savoir plus.
+16/02/2025, 21:09 - Votre code de sécurité avec ~ Sandra a changé. Appuyez pour en savoir plus.
+16/02/2025, 23:00 - +33 6 33 38 60 24: <Médias omis>
+16/02/2025, 23:00 - +33 6 33 38 60 24: Vu sur Linkedin
+16/02/2025, 23:14 - Ahmadou Ba: avez testé cet outil https://typeset.io/ai-writer
+16/02/2025, 23:15 - Ahmadou Ba: Typeset.io est une plateforme en ligne qui propose un outil d'écriture assistée par intelligence artificielle (IA). Cet outil, appelé AI Writer, est conçu pour aider les utilisateurs à rédiger, éditer et formater des documents académiques, des articles de recherche, et d'autres types de contenus écrits. Il offre des fonctionnalités telles que la génération de texte, la correction grammaticale, la suggestion de style, et la mise en forme automatique selon les normes académiques. L'objectif est de simplifier le processus d'écriture et d'améliorer la qualité des documents produits.

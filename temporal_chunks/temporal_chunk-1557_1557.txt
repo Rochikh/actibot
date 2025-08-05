@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 15
+
+=== CONTENU ===
+Elle fournit des preuves empiriques solides à travers des expériences exhaustives sur des tâches déterministes et génératives.
+Elle offre une analyse approfondie des mécanismes sous-jacents d'EmotionPrompt, ouvrant de nouvelles perspectives pour la recherche interdisciplinaire en IA et en sciences sociales.
+Perspectives futures
+Les chercheurs suggèrent que la combinaison de différents prompts émotionnels pourrait améliorer davantage les résultats. Ils ont notamment constaté que certains stimuli (comme EP02 pour l'Induction d'Instructions et EP06 pour BIG-Bench) sont particulièrement efficaces, mais soulignent que l'efficacité peut varier en fonction de la complexité de la tâche, du type de tâche et des métriques utilisées1.
+En conclusion, cette étude ouvre de nouvelles voies pour l'exploration de l'intelligence émotionnelle dans les LLMs, offrant des perspectives prometteuses pour l'amélioration des interactions homme-machine et le développement de l'IA générale.
+10/01/2025, 14:55 - +44 7776 747507: null
+10/01/2025, 15:02 - +41 79 258 90 36: Est-ce que ce stimuli opère seulement sur les machines ou en réaction nous stimulent-t-elles par leurs réactions?
+10/01/2025, 15:05 - Rochane: J'ai l'impression que c'est vraiment dans les 2 sens:
+les machines améliorent leurs performances grâce aux prompts émotionnels, et les humains développent simultanément des réponses émotionnelles en réaction aux interactions artificielles.
+10/01/2025, 15:12 - ‎+32 478 83 05 13 a demandé à ajouter +32 474 87 96 28.
+10/01/2025, 15:13 - ‎~ Claire a ajouté +32 474 87 96 28
+10/01/2025, 15:25 - +33 6 85 03 31 84: Bonjour,
+Je cherche un outil permettant de générer des pseudo-mots à partir d’1 ou plusieurs listes de graphèmes en français (ou bien à partir de phrases correctes : l’outil, dans ce cas, devra simplement mélanger les syllabes pour recréer des phrases avec des pseudo-mots)
+(Le but est de tester le déchiffrage des syllabes en français);
+J’ai fait quelques essais avec ChatGPT, ce fut laborieux, mais je ne suis pas un expert des prompts … 😟

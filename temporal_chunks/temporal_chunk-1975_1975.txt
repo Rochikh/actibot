@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 16
+
+=== CONTENU ===
+20/03/2025, 07:52 - Rochane: Avec Chat Gpt ou Claude en lui partageant tes captures d'écran, ça doit se faire 🙂 <Ce message a été modifié>
+20/03/2025, 07:56 - Rochane: <Médias omis>
+20/03/2025, 08:01 - Jean-Marc Everard: Merci 🙏 oui, je n’ai pas encore de réflexe mais en effet je dois pouvoir être aidé comme ça ! Ou sur le Google AI studio
+20/03/2025, 08:44 - +32 475 86 01 57: On dit "bluffante" 😁
+20/03/2025, 08:52 - +33 7 84 33 02 62: Bonjour, avez-vous des retours sur team gpt d’open ai ? Version collaborative permettant de partager entre autres les gpt’s maison ..
+20/03/2025, 08:55 - +32 475 86 01 57: Les custom gpt sont toujours partageables non?
+20/03/2025, 08:56 - Votre code de sécurité avec +33 7 77 34 82 14 a changé. Appuyez pour en savoir plus.
+20/03/2025, 08:57 - +33 7 84 33 02 62: Il me semble oui
+20/03/2025, 09:01 - +33 7 84 33 02 62: Team Gpt | j’essaie d’evaluer quels seraient les avantages pour une école d’adopter cette solution ? Côté collaborateurs/formateurs et apprenants.
+20/03/2025, 09:17 - Vincent DROUOT: Tu parles bien de l’abonnement ChatGPT Team ? (25€/mois par utilisateur avec minimum 2 utilisateurs, avec en plus une interface de gestion des utilisateurs et de leurs usages) ? 🤔
+20/03/2025, 09:40 - +33 7 84 33 02 62: Non de cette offre là :
+https://team-gpt.com/
+20/03/2025, 09:48 - Vincent DROUOT: C’est bien ce qui me semblait. Donc attention, ce n’est pas d’Open AI cette plateforme (qui est vraiment bien faite). C’est une plateforme indépendante d’Open AI et qui a une offre multi-modèles (GPT, Claude, Gemini, DeepSeek, Mistral, Llama…) pour créer des assistants en mode collaboratif et pour partager des prompts de manière organisée.
+20/03/2025, 09:49 - +33 7 84 33 02 62: C’est cela oui , une sorte d’agregateur comme il en existe d’autres. Merci. Tu l’as utilisé ?
+20/03/2025, 09:50 - ‎+33 6 99 49 97 19 est parti·e
+20/03/2025, 09:56 - Vincent DROUOT: Pas toujours, enfin, il y a une subtilité. Si vous avez un compte ChatGPT Plus à 25€/mois, vous pouvez partager vos GPT avec tout autre personne ayant un compte ChatGPT gratuit ou Plus.

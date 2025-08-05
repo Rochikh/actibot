@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 570
+Messages: 9
+
+=== CONTENU ===
+7. Réduire l’empreinte numérique globale
+Éviter les usages gourmands en ressources si tu n'en as pas besoin : Les IA de génération d'images ou de vidéos 3D, par exemple, consomment énormément de ressources. Si l’objectif final ne le justifie pas, essaie d’utiliser des méthodes moins énergivores.
+Recycler ou optimiser les contenus générés : Si tu crées du contenu avec l'IA (textes, images, podcasts), essaie de les réutiliser ou de les optimiser pour éviter de faire plusieurs fois la même chose.
+8. Participer à l’éducation et la sensibilisation
+Sensibiliser autour de toi : Fais passer le message autour de toi concernant l'impact environnemental des technologies numériques, y compris les IA. Partager des bonnes pratiques peut encourager d'autres personnes à utiliser ces outils de manière plus réfléchie.
+Te former continuellement : Comprendre le fonctionnement des IA et leurs impacts permet de les utiliser de manière plus pertinente et responsable. Plus tu es conscient des enjeux, mieux tu sauras les intégrer dans ton quotidien sans excès.
+Conclusion
+Utiliser les IA de façon responsable repose sur la modération, l’optimisation des requêtes, et le choix de services éthiques et éco-responsables. Ces outils peuvent être extrêmement utiles pour améliorer l'efficacité de nos actions, mais leur usage doit être réfléchi pour éviter un gaspillage inutile de ressources énergétiques et minimiser leur impact social et environnemental.
+28/10/2024, 10:18 - Jean-Marc Everard: Bonjour Géraldine, en fait on l'a déjà abordé dans nos échanges et c'est quelque chose auquel pas mal d'entre nous est très sensible. Il y a effectivement une tension, d'ailleurs à plein de niveau de la société et pas seulement sur l'usage du numérique, entre les usages et les coûts carbone et/ou environnementaux. il y a d'office une sorte de concurrence d'usage et des arbitrages qui sont à faire (en partie sur les sources et usages de l'énergie). Il y a déjà pas mal de littérature dans un sens ou l'autre, j'ai commencé "Green IA" de Gilles Babinet, pas mal. Je pense que le premier pas est d'être conscient, ensuite il y a des actions plus ou moins gourmandes que d'autres. J'ai adhéré il y a quelques mois au Shift project, notamment pour me renseigner d'avantage sur ces questions.

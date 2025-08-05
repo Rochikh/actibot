@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 18
+
+=== CONTENU ===
+28/01/2025, 10:20 - +33 6 13 73 04 14: Bonjour Robin, je suis intéressé par ta proposition. Merci et bonne journée
+28/01/2025, 10:56 - +33 6 42 26 64 70: Mathieu Noel de France Inter a fait une chronique sur deepseek ce matin en racontant qu'il lui avait demandé ce qu'il pensait des ouigours et ce qu'il s'était passé sur la place tian an men...
+https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-matthieu-noel/le-billet-de-matthieu-noel-du-mardi-28-janvier-2025-1074745
+28/01/2025, 10:57 - +32 483 60 53 96: Merci pour votre retour. Interessant !
+Avid perso: pour notre contexte universitaire et d'usages principalement en text to text et agents RAG, je privilegie clairement d'autres criteres avant le temps de reponse.
+28/01/2025, 12:02 - Votre code de sécurité avec +33 6 37 67 45 67 a changé. Appuyez pour en savoir plus.
+28/01/2025, 12:08 - Votre code de sécurité avec +33 6 80 34 60 52 a changé. Appuyez pour en savoir plus.
+28/01/2025, 12:14 - StéphaneIA: Pour du RAG un model comme pixtral 12b peut faire l'affaire et reste rapide. Mais honnêtement je trouve quand même Mistral un cran en dessous. J'espère vraiment que les prochaines iterations seront performantes
+28/01/2025, 12:51 - +33 6 74 39 90 60: Cool c'est le moment d'investir !
+28/01/2025, 13:04 - Batier Christophe: Bonjour à tous,
+Est ce qu'on assiste aux derniers moment de frénésie avant de passer à une étape plus adulte ?
+Je me pause la question. Mais cette annonce de stargate suivie par la sortie de Deepseek...
+ce n'est pas neutre dans ce domaine.
+C'est clairement le marqueur de grandes manœuvres ...
+mon point de vue https://christophe-batier.blogspot.com/2025/01/ia-cest-la-fete-du-slip.html
+28/01/2025, 13:06 - Rochane: <Médias omis>
+28/01/2025, 13:16 - Rochane: Tu penses qu’on pourrait créer un genre de cadre global pour collecter des données ‘propres’ et éthiques pour les IA, ou c’est juste impossible vu toutes les différences culturelles et sociales dans le monde ?
+28/01/2025, 13:23 - Batier Christophe: Oui on peut ça va devenir c'est une nécessité

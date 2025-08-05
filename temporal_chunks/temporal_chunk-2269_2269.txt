@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 20
+
+=== CONTENU ===
+22/06/2025, 11:39 - +33 6 25 26 03 02: J'ai testé la fonctionnalité pour générer un schéma interactif et le résultat était bien
+22/06/2025, 11:49 - Fred IA: Merci beaucoup pour ce retour. Je veux bien un peu plus de détails sur cette génération de code (un lien d'accès ?  Dispo sur canva free ?) Merci par avance 😊
+22/06/2025, 11:51 - +33 6 25 26 03 02: <Médias omis>
+22/06/2025, 11:52 - +33 6 25 26 03 02: Moi j'ai la version payante, je ne sais pas si c'est dispo sur la version gratuite
+22/06/2025, 11:53 - Fred IA: Super merci je regarde ça 👍
+22/06/2025, 11:54 - Rochane: Effectivement et ça marche avec la version Edu aussi
+22/06/2025, 11:55 - Clément Cahagne: Ce message a été supprimé.
+22/06/2025, 11:55 - Clément Cahagne: Je crois qu'il y a l'option maintenant également dans Gamma
+22/06/2025, 11:58 - Fred IA: <Médias omis>
+22/06/2025, 12:40 - Fred IA: Je viens de tester. Effectivement, ça marche très bien pour la génération du carrousel. Par contre, je n'arrive pas à le récupérer localement (format pdf).. Si on récupère dans un design, ça ne prend en compte que la 1ere page. Donc à part faire un screenshot de chaque page, je ne vois pas.. Une idée ?
+22/06/2025, 14:41 - 🗓 ‎🚨 SAVE THE DATE ! 🚨 mis à jour
+22/06/2025, 14:43 - Rochane: Petit rappel avec une petite modification, c'est Jessy qui remplace Gaylord
+Invitation épinglée ☝️
+22/06/2025, 14:59 - Rochane: Attention aux utilisateurs et aux utilisatrices compulsifs et compulsives des LLMs 😁
+https://youtu.be/dwGwVDTNaFU?feature=shared
+22/06/2025, 14:59 - +33 6 66 98 84 23: Bonne analyse du choix à faire lors de nos demandes avec l'IA.
+22/06/2025, 16:11 - +33 6 25 26 03 02: Tu oeux l'extraire en iframe
+22/06/2025, 16:47 - +33 7 66 54 11 11: Effectivement l'ia est à utiliser avec modération
+22/06/2025, 16:51 - +33 6 60 98 07 54: Bonjour
+Pour information je lance le *1 juillet  *une opération citoyenne pour former durant l’été les enseignants à l’IA . Pas besoin d’inscription. C’est gratuit. Il suffit de cliquer un lien et d’avoir Telegram .

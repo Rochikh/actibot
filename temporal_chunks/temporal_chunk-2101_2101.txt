@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 13
+
+=== CONTENU ===
+https://storm.genie.stanford.edu/
+19/04/2025, 15:38 - Adrien Bock IA: Pour s’inscrire, c’est par ici : https://passpass.be/events/232/AI-Business-Hub-3
+19/04/2025, 15:39 - Adrien Bock IA: Si l’un d’entre vous souhaite intervenir et a de la valeur à partager, il reste une place 🙂
+20/04/2025, 10:07 - estelle Duterage Drion IA: Vous en pensez quoi de cet outil ?https://fr.plaud.ai/
+20/04/2025, 10:13 - +32 498 78 46 36: Je ne connaissais pas mais à première vue je ne comprends pas pourquoi ils inventent un hardware qui est natif dans n'importe quel smartphone. Pour ce qui est de l'appli et de l'IA, je susi dubitatif (comme toute IA de transcription vocale) car j'ai l'impression qu'il ne faut pas que plusieurs voix se superposent, que l'accent des personnes ne soit pas trop exotique, etc. Sinon il fait une transcription totalement folasse 😁 <Ce message a été modifié>
+20/04/2025, 10:13 - +32 498 78 46 36: Ceci dit, s'il n'a pas ses défauts, alors oui c'est revolutionnaire <Ce message a été modifié>
+20/04/2025, 10:14 - estelle Duterage Drion IA: On vient de me le recommander, c’est pour ça, je vous demande ce que vous en pensez
+20/04/2025, 10:22 - +33 7 61 63 06 10: J'utilise Plaud depuis plusieurs mois. J'ai pu enregistrer des réunions avec près de 20 personnes dans une pièce, il comprend très bien le contexte et est réellement très puissant.
+sa grande force réside dans sa qualité d'écoute et de restitution sonore.
+ce qu'il fait qu'il est très bon en retranscription complète et ensuite c'est ChatGPT qui est le modèle qui lui permet de générer à la demande, des comptes rendus, des Mind maps, des relevés de décision...
+Ça marche très bien également sur des visios et comme évidemment vous l'avez compris il est évidemment pas capable de reconnaître qui parle pour le restituer.
+Mais en réalité c'est déjà un gain de temps très significatif vous finissez une réunion de 2h et 5 minutes après vous avez le compte-rendu fidèle.
+20/04/2025, 10:24 - +32 498 78 46 36: Si c'est une réunion un peu animée ou des personnes se coupent parfois la parole, le compte rendu reste quand même fidèle ?

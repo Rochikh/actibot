@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 22
+
+=== CONTENU ===
+01/10/2024, 15:52 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 27 55 60 41.
+01/10/2024, 15:53 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 21 01 62 15.
+01/10/2024, 15:54 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 7 50 49 43 75.
+01/10/2024, 16:27 - +33 6 15 79 19 04: Bonjour. La fonction podcast de notebooklm est vraiment intéressante et puissante je trouve. Le fait qu'elle soit disponible qu'en anglais pour l'instant, avez-vous trouvé une astuce pour avoir le rendu traduit en français ?
+01/10/2024, 16:36 - Rochane: Pdftoaudio sur huggingface mais qualité moindre
+01/10/2024, 16:40 - +33 6 15 79 19 04: Ok, merci je vais tester.
+Je tentais de passer par otter pour récupérer la transcription et refaire le dialogue par la suite.
+01/10/2024, 16:41 - ‎~ Katja Auffret a ajouté +33 7 50 49 43 75
+01/10/2024, 16:41 - ‎~ Katja Auffret a ajouté +33 6 21 01 62 15
+01/10/2024, 16:41 - ‎~ Katja Auffret a ajouté +33 6 27 55 60 41
+01/10/2024, 16:41 - ‎~ Katja Auffret a ajouté +33 6 37 53 53 37
+01/10/2024, 16:41 - ‎~ Katja Auffret a ajouté ~ Rémi Partouche
+01/10/2024, 16:41 - ‎~ Katja Auffret a ajouté +33 6 47 70 40 52
+01/10/2024, 16:56 - +32 479 58 54 12: Mon coup de  coeur aujourd'hui pour creer des mindmaps et autres représentations 😍 Et pas besoin de lui fournir le contenu à illustrer !
+https://chatgpt.com/g/g-5QhhdsfDj-diagrams-show-me-for-presentations-code-excel
+01/10/2024, 17:05 - +33 6 02 20 69 43: C’est une belle idée… en concaténant les IAG ça peut être intéressant, avec une modification voices ça peut être très sympa
+01/10/2024, 18:53 - ‎+33 6 88 75 99 43 est parti·e
+01/10/2024, 19:12 - Votre code de sécurité avec +33 6 77 19 36 25 a changé. Appuyez pour en savoir plus.
+02/10/2024, 07:53 - ‎martinyemani IA a demandé à rejoindre le groupe.
+02/10/2024, 08:39 - ‎martinyemani IA a rejoint ce groupe grâce à son lien d’invitation
+02/10/2024, 11:53 - ‎+32 479 37 73 78 a demandé à rejoindre le groupe.
+02/10/2024, 15:13 - +33 6 49 84 08 41: Hello tout le monde, comme vous êtes bien silencieux et que ça ne vous ressemble pas, une petite question pour vous tirer de votre torpeur :

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 11
+
+=== CONTENU ===
+De quelle IA s’agit il dans ce dernier post ?
+30/06/2024, 07:47 - Rochane: Dicte.ai
+30/06/2024, 07:49 - +33 6 72 75 43 48: Bonjour je recherche des tutos en français pour apprehender les bénéfices à utiliser Copilote en version payante : tutos pour PowerPoint, Excel … quelqu’un peut il m’aider ? Les liens trouvés sur le net sont des présentations commerciales
+30/06/2024, 07:51 - Rochane: Je pense qu'avec Perplexity, tu peux trouver de bonnes sources
+https://www.perplexity.ai/search/bonjour-je-recherche-des-tutos-c9xMen7hRX.9cJ.izto5.w#0
+30/06/2024, 07:56 - +33 6 72 75 43 48: Merci Rochane j’ai fait cette recherche sur Google pas encore le réflexe Perplexity 😉alors que j’ai installé l’appli ! Je vais voir si je trouve mieux en français ! Merci bonne journée
+30/06/2024, 09:00 - Rochane: Une étude récente publiée dans la revue PLOS One révèle que les correcteurs d'examens universitaires ont du mal à identifier les copies rédigées par l'intelligence artificielle (IA). L'expérience menée à l'université de Reading a montré que *seulement 6% des copies générées par ChatGPT ont été repérées comme suspectes* par les examinateurs.
+Plus inquiétant encore, certaines copies produites par l'IA ont obtenu de meilleures notes que celles des étudiants. Cette situation soulève des questions importantes sur l'intégrité des examens universitaires à l'ère de l'IA.
+Le professeur Peter Scarfe, co-auteur de l'étude, considère ces résultats comme un "coup de semonce" pour l'enseignement supérieur. Il souligne la nécessité pour le secteur éducatif *d'évoluer face à l'IA, sans pour autant revenir aux examens manuscrits.*
+Face à ce défi, certaines universités ont déjà pris des mesures, allant de l'interdiction totale de l'IA à son intégration comme outil pédagogique. L'UNESCO a également publié un guide appelant les gouvernements à réglementer rapidement l'usage de l'IA dans l'enseignement pour en faire une *opportunité plutôt qu'une source de préjudices* .
+30/06/2024, 09:02 - +33 6 76 04 48 20: Les temps changent… très vite !

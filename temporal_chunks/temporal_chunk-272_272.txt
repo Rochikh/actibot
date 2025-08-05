@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 7
+
+=== CONTENU ===
+06/03/2024, 09:03 - +33 6 51 43 08 14: Par contre j'ai été surprise de le voir "se vexer". Une fois en lui demandant de me générer une image je lui ai répondu que son résultat n'était pas terrible et qu'il devrait faire mieux. Il a répondu qu'il était désolé de ne pas me satisfaire et qu'il mettait fin à l'échange. Il a coupé court au dialogue :-) je profite aussi pour vous demander si vous connaissez une IA gratuite qui peut servir à faire une analyse thématique dans un texte du genre les concepts ou les mots les plus répétés ou le nombre d'occurrences d'un mot ou des mots qui se rapprochent en terme de sens qui sont synonymes etc. On peut le faire sous forme de prompt en chatant avec un document comme dans seeker par exemple ?
+06/03/2024, 09:25 - Ahmadou Ba: ChatGPT est un véritable couteau suisse. Je me suis rendu compte récemment que tout ce que les outils proposent à partir d'un abonnement payant, on peut l'obtenir avec chatGPt, il suffit juste de bien travailler son prompt ou bien créer un GPT ou chercher dans le store. Vous trouverez une pépite dans le lot.
+06/03/2024, 09:27 - Ahmadou Ba: moi je suis à la recherche d'un GPT qui peut me trier, classer et réponse à mes mails et d'un gpt qui peut transcrire des vidéos s'il y en a
+06/03/2024, 10:03 - ‎Laetitia a rejoint le groupe à partir de la communauté.
+06/03/2024, 11:15 - Jacques BARATTI: Pour obtenir la transcription d'une vidéo (et aussi le résumé) YouTube j'utilise l'extension "GLASP" de Chrome elle fonctionne très bien (elle est gratuite). Si on a une vidéo qui n'est pas sur YouTube l'astuce consiste à créer une chaine YouTube, à uploader la vidéo, la mettre en privée et à faire la transcription...
+06/03/2024, 11:17 - +33 6 07 80 60 88: Bonjour vous pouvez utiliser capcut pour générer les sous-titres et corriger derrière
+06/03/2024, 11:22 - Ahmadou Ba: Formidable, je vais le tester. J'utilise Noota il enregistrer les réunions et les transcrit avec de bons résumer. Il peut transcrire les vidéos de youtube mais dans sa version payante.

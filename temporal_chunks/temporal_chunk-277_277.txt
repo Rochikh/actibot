@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 17
+
+=== CONTENU ===
+07/03/2024, 10:35 - +41 79 326 51 40: Merci beaucoup
+07/03/2024, 11:01 - +212 644-562660: Ce message a été supprimé.
+07/03/2024, 11:10 - Rochane: *Pour les bonnes pratiques dans ce groupe, si vous partagez un lien, faites un petit commentaire pourquoi vous le partagez 🙂*
+07/03/2024, 11:19 - +33 6 20 35 46 24: si quelqu'un trouve les liens et veut les ajouter a l'occasion <Ce message a été modifié>
+07/03/2024, 11:19 - LIO: Bonjour, Je recherche mais je ne trouve pas les liens
+07/03/2024, 11:22 - Rochane: je pense qu'il faut faire des petites recherches . Exemple, le cours Google, on le trouve facilement https://cloud.google.com/training/machinelearning-ai?hl=fr
+07/03/2024, 11:51 - +212 644-562660: Découvrez ces quelque recommandations d'outils IA pour créer des médias audio-visuels. Pour ma part, un indispensable pour l'inspiration https://outils-visuels.fr/intelligence-artificielle/
+07/03/2024, 12:46 - Rochane: Perso, celui que j'ai suivi avec assiduité est le MOOC sur le prompt engineering https://www.coursera.org/learn/prompt-engineering
+07/03/2024, 12:53 - ‎+41 76 596 03 15 a rejoint le groupe à partir de la communauté.
+07/03/2024, 15:01 - ‎+33 6 70 46 13 52 a rejoint le groupe à partir de la communauté.
+07/03/2024, 16:39 - +33 6 22 14 03 93: excellent ….  👏👏👏
+07/03/2024, 17:33 - Yvelines: https://neurooo.com/fr?fbclid=IwAR3wSz5JUee0JkPenDEPh3x8WvjsepwZ0XpY3f6GI6yaLkezOt-gBgRyb98
+07/03/2024, 17:33 - Yvelines: https://www.telemb.be/actu/neurooocom-ces-montois-qui-veulent-concurrencer-les-geants-de-la-traduction-en-ligne/34661?fbclid=IwAR0RQRSBtAYhxz56UxkFIgcOYUUQR3cnbhcTcDgfRvM71I6E2dc20oK0YoE
+07/03/2024, 19:13 - +33 6 60 44 14 13: <Médias omis>
+07/03/2024, 19:34 - ‎+216 58 454 374 est parti·e
+07/03/2024, 21:14 - +33 6 87 72 32 30: Bonsoir, je souhaiterais savoir si vous connaissez un outil ou prompt qui me permettrait de donner un scripts pour une vidéo animé et d'avoir une proposition de storyboards ou générer une vidéo animé (motion design)
+07/03/2024, 21:20 - Rochane: https://www.perplexity.ai/search/Bonsoir-je-souhaiterais-fczqPFpKR0iCw3uKDtevBw?s=m#7dccea3c-5a4a-4748-82c3-7b8a0ed7af07

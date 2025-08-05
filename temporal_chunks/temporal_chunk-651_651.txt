@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 13
+
+=== CONTENU ===
+17/06/2024, 16:45 - +33 6 62 95 45 08: Ouii effectivement, il faut attendre le renouvellement de notre crédit. Pour ma part, se sont quelques heures d’attentes, mais non 24h.
+17/06/2024, 16:46 - +33 6 49 25 14 53: <Médias omis>
+17/06/2024, 17:00 - +33 6 49 25 14 53: Bon – après création d’un nouveau compte tout est revenu dans l’ordre. J’ai à nouveau accès aux GPTs et à ChatGPT 4-o sur mon nouveau profil. Curieux ! 🤨
+17/06/2024, 19:25 - +41 79 326 51 40: Bonjour, je souhaiterais préparer, pour la prochaine année scolaire, une séquence pédagogique dédiée à l'ia pour des étudiants du lycée (informatique comme discipline obligatoire, donc abordable quelle que soit la section choisie).
+J'aurais 2 questions à vous soumettre :
+1. J'aimerais éviter l'aspect purement théorique et agrémenter le + possible mon cours d'exercices pratiques. Auriez-vous des idées d'exercices que je pourrais proposer aux élèves (exemple : https://teachablemachine.withgoogle.com/)
+2. Pour le thème de l'ia générative, j'aimerais aborder avec eux notamment les bonnes pratiques en terme de formulations de prompts et, dans l'idéal, évaluer ensuite leurs capacités à fournir des prompts performants (oui c'est un joli challenge...). Est-ce que certains d'entre vous ont osé tenter cette expérience? Si oui, quels sont vos conseils et comment avez-vous procédé svp?
+17/06/2024, 19:31 - Rochane: Je te partage le scénario d'un atelier de 3 heures en présentiel que j'ai donné dans le cadre de formation de formateurs mais ça s'adapte pour tous les publics 🙂
+bit.ly/2024BFIA
+17/06/2024, 19:46 - +41 79 326 51 40: Merci beaucoup 🙏🏻
+17/06/2024, 20:01 - Yann-Ael: Aussi, le site Vittascience qui permet de mettre en place des activités assez variées et concrètes en IA https://en.vittascience.com/ia/ (avec interface similaire à la Teachable Machine, et possibilité de programmer avec les modèles ensuite en Scratch ou Python)
+17/06/2024, 20:03 - +41 79 326 51 40: Trop bien! Merci infiniment
+17/06/2024, 20:16 - ‎+33 6 66 56 87 96 a rejoint le groupe à partir de la communauté.

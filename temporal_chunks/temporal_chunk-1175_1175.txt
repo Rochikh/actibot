@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+02/11/2024, 22:38 - Francois Bocquet: Quand je vous dis que c’est complexe et que ça ne peut être maîtrisé aisément par un enseignant (sauf si ça devient un hobby) ;-) c’est pour cela qu’il faut que les responsables de traitement se saisissent du sujet et se fassent aider par le délégué à la protection des donnés qu’ils DOIVENT désigner auprès de l’autorité nationale.
+02/11/2024, 23:13 - Vincent DROUOT: Echanges intéressants d’Asma Mhalla et Aurélien Barrau à propos de l’IA :
+https://www.youtube.com/watch?v=nlUy71yquNI
+02/11/2024, 23:30 - ‎+33 6 09 91 07 08 est parti·e
+03/11/2024, 05:32 - +33 7 63 58 01 55: Sur le site de la CNIL peut-être (pour commencer) ?
+https://www.cnil.fr/fr/me-mettre-en-conformite/rgpd-par-ou-commencer
+03/11/2024, 08:20 - ‎+62 856-0022-56856 est parti·e
+03/11/2024, 08:28 - ‎+32 498 62 04 01 a demandé à rejoindre le groupe.
+03/11/2024, 08:37 - ‎+32 498 62 04 01 a rejoint le groupe à partir de la communauté.
+03/11/2024, 09:59 - Francois Bocquet: Ressources intéressantes mais destinées aux seuls responsables de traitement or un enseignant ne peut être responsable de traitement. Il ne peut être que personne concernée par un traitement qui est mis en œuvre par son responsable de traitement pour l’exercice de ses fonctions professionnelles ou qui est mis en œuvre par un autre responsable de traitement pour des activités personnelles (hors professionnelles). Par exemple mon mail pro est sous la responsabilité de mon académie, mon accès ENT sous la responsabilité de mon chef d’établissement et mon compte gmail sous la responsabilité de traitement de Google ou mon compte chatGPT sous la responsabilité de traitement d’Open AI.
+03/11/2024, 10:00 - Francois Bocquet: Un enseignant ne peut être responsable de traitement car il n’a pas la personnalité juridique nécessaire pour répondre devant une juridiction administrative ou judiciaire sur ce type d’infraction ou de délits
+03/11/2024, 10:48 - +41 76 372 28 94: Merci infiniment @33662364404 pour tout le temps que tu passes a essayer de nous expliquer.

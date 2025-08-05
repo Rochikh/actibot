@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 12
+
+=== CONTENU ===
+J’utilise 360 Learning
+07/03/2025, 08:49 - +32 483 60 53 96: Quelles options "IA" sont les plus pertinentes et utilisees selon vous?
+Jai vu que Blackboard avait aussi implémenté pas mal de fonctionnalites IA, mais cest assez simple de les reproduire avec un bon prompt.
+07/03/2025, 08:51 - Clément Cahagne: On parle pas mal de ça en ce moment : https://sanalabs.com/
+07/03/2025, 08:52 - Clément Cahagne: De manière générale, je pense qu'il faut être très précautionneux avec tous ces outils qui transforment des contenus avec l'IA. Et surtout, qui ne laisse pas la main à l'utilisateur pour prompter de la bonne manière. On parle souvent dans la formation de l'équilibre entre l'intelligence artificielle et l'intelligence humaine.  Dans ce cadre, je pense que tous ces outils qui prennent un contenu en entrée pour fournir un contenu en sortie sont très dangereux.
+07/03/2025, 09:01 - +32 483 60 53 96: I agree ✨️
+07/03/2025, 09:01 - +33 6 70 57 72 80: Je pense pas qu’ils soient « dangereux ». Ils transforment certainement notre manière de construire nos documents d’entrée et nous amène à avoir une vision anticipée de ce que l’on veut en sortie. Le travail de synopsis reste essentiel. De plus les éléments de sortie restent très génériques. Un travail de vocabulaire terrain, avec les experts métiers est incontournable <Ce message a été modifié>
+07/03/2025, 09:02 - +33 6 70 57 72 80: Cela pousse à une autre ingénierie
+07/03/2025, 09:04 - +32 483 60 53 96: D'où ma question de quelles les fonctionnalités trouvees les plus pertinentes et efficaces par les conseillers ou professeurs sur les LMS augmenté de l'IA?
+Ca permet de faire des master prompts qui sont (1) sous controle des utilisateurs, (2) seront utilises dans un environnement clean et securises, (3) pourront s'adapter aux besoins specifiques des professeurs.
+Exemple: j'ai recréé un master prompt pour un generateur de consignes de travail qui est inspiré de la fonctionnalité de Blackboard. <Ce message a été modifié>
+07/03/2025, 09:23 - Clément Cahagne: Si, ils sont extrêmement dangereux pour des gens non compétents dans le domaine de l’ingénierie pédagogique, ou des gens non avertis des limites des llm actuels.

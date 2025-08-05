@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 609
+Messages: 14
+
+=== CONTENU ===
+16/04/2025, 10:23 - Francois Bocquet: Est ce que quelqu’un aurait sous la main une infographie ou une carte mentale présentant les usages des IAg en contexte de formation pour adultes tant pour les formateurs que pour les apprenants (public éloigné de l’emploi et faiblement qualifié) ? Merci d’avance
+16/04/2025, 10:27 - +33 6 52 73 73 42: NotebookLM produit des cartes mentales plutôt sympa ! Tu as essayé !?
+16/04/2025, 10:30 - Rochane: https://view.genially.com/65b3c52ebe4f990014710b2d/horizontal-infographic-diagrams-kit-de-demarrage-en-ia-pour-enseignants
+16/04/2025, 10:31 - Rochane: https://www.mindomo.com/fr/mindmap/ia-generatives-dans-lenseignement-afe76157fc7d4d3e99d300cbe75596a1?utm_source=perplexity
+16/04/2025, 10:31 - +33 6 86 63 43 38: C est vrai que peut-être pourrions nous avoir un document collaboratif, sur lequel partager ce genre de document, une bibliographie de prompt, ressources ... ceci nous permettrait de monter en compétences mais aussi d'éviter des itérations multiples ?
+😊
+16/04/2025, 10:34 - Rochane: Personnellement, j'ai un notebook lm "Veille IA" qui commence à être intéressant avec plus de 60 sources .
+https://notebooklm.google.com/notebook/b677bbe9-378d-4907-83fb-38e930e7c298?pli=1&authuser=1
+16/04/2025, 10:36 - Imane IA: j'arrive pas à visualiser le lien, il est vide !
+16/04/2025, 10:38 - Amadou GuisséIA: Effectivement.
+16/04/2025, 11:03 - Francois Bocquet: Accès impossible
+16/04/2025, 11:24 - Votre code de sécurité avec +33 6 15 93 07 04 a changé. Appuyez pour en savoir plus.
+16/04/2025, 12:36 - +33 6 71 11 12 91: Il est génial ce lien ! Merci Rochane !
+16/04/2025, 15:51 - Francois Bocquet: Carte très intéressante mais j’émets des réserves sur la partie Éthique. L’application du droit en vigueur ne relève pas d’un débat éthique et ne doit pas être intégré dans la branche éthique. Le cadre juridique doit être respecté (RGPD et RIA) et ne fait pas l’objet de débats comme les questions éthiques. Par ailleurs le CLOUD Act ne concerne pas les forces de l’ordre mais la justice et il est prévu pour les seules US Persons ce qui fait que ça ne présente pas de risque juridique pour les européens (non US Persons). Il y a eu beaucoup d’intox sur le sujet mais ça reste une fake News. En revanche FISA est un vrai problème, tout comme toutes les lois anti terroristes de tous les pays (dont la France qui surveille beaucoup plus de chose pour les français que les services US!)

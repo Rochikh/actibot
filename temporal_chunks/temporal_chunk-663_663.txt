@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 612
+Messages: 22
+
+=== CONTENU ===
+📝 Rétroaction de l'IA et options de notation
+🤖 Plugins pour éducateurs
+❓ Génération de quiz
+19/06/2024, 14:17 - Karim BS: Merci ☺️
+19/06/2024, 15:05 - Impossible de vérifier votre code de sécurité avec Besma Mardassi. Appuyez pour en savoir plus.
+19/06/2024, 15:16 - ‎+33 6 41 01 53 99 a rejoint le groupe à partir de la communauté.
+19/06/2024, 16:58 - ‎+57 321 4039390 a demandé à rejoindre le groupe.
+19/06/2024, 20:32 - ‎~ miryam a été ajouté·e
+19/06/2024, 20:31 - ‎+57 321 4039390 a rejoint le groupe à partir de la communauté.
+19/06/2024, 21:15 - Samba BA: Bonjour Cher Toutes et tous,
+J'aimerais me renseigner auprès de vous des prompts pour mon Sujet de Mémoire de Master 2 : Optimisation des systèmes de stockage d'hydrogène à haute pression pour réussir dans tous les coins du travail student.
+Merci, j'attends votre contribution chers coordinateurs, membres, ......
+19/06/2024, 21:24 - Rochane: Malheureusement, ce n'est pas si facile que ça et tu dois avoir quelques bases sur le prompt engineering. Quelques étapes pour t'aider à créer des prompts efficaces pour ton sujet de mémoire :
+1/Définir les objectifs : Clarifie ce que tu veux explorer et les résultats attendus.
+2/ Identifier les domaines clés : Détermine les principaux aspects à couvrir comme les technologies de stockage, les matériaux, et les méthodes d'optimisation.
+3/ Formuler des questions spécifiques : Transforme les domaines clés en questions précises.
+4/ Créer des prompts précis : Rédige des prompts basés sur tes questions spécifiques, comme "Explique les avantages des matériaux pour les réservoirs d'hydrogène."
+5/ Réviser et affiner : Ajuste tes prompts pour qu'ils soient clairs et alignés avec tes objectifs de recherche.
+19/06/2024, 21:27 - ‎+32 492 85 81 22 a demandé à ajouter +32 485 16 69 09.
+19/06/2024, 21:34 - Samba BA: Ce message a été supprimé.
+19/06/2024, 21:36 - ‎+32 492 85 81 22 a ajouté +32 485 16 69 09
+19/06/2024, 21:42 - Ahmadou Ba: Moi j'ai crée un GPt pour ça. Je l'ai entraîné avec la méthodologie pour m'aider à realiser des fiches de lecture et des syntheses. Il repond aux questions sur les fichiers que je lui donne cela balise mon travail de recherche et me permet de gagner du temps. Toutefois, je repasse sur les articles pour completer les fiches. Et je me rend compte qu'il ne fait pas tout le travail. Il fait toujours le job partiellement. Mais moi je travaille sur un sujet en science de l'education lié à l'IA.

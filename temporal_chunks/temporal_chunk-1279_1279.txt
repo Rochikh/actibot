@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 13
+
+=== CONTENU ===
+19/11/2024, 16:35 - +33 6 19 75 63 49: Merci beaucoup! Il y a un certain nombre de travaux/évènements que j’ai loupés  (dont Regard à l’international, malheureusement), je suis ravie d’avoir tous les liens!
+19/11/2024, 17:03 - +33 6 66 98 84 23: Léo au top !!!! https://iamleo.ai/
+19/11/2024, 17:03 - +33 6 66 98 84 23: Dommage que Léo soit payant. Bisness is bisness !
+19/11/2024, 17:05 - +33 6 64 50 56 67: Ce message a été supprimé.
+19/11/2024, 17:06 - Jean-Marc Everard: Oui vous avez raison, sur la promesse. la dernière fois que j'ai acheté une licence "à vie" (et je n'hésite pas à balancer, c'était Moovly), celle-ci s'est transformée en "licence 5 ans", puis en 3000 crédits sur un an puis en plus rien du tout. Effectivement hugging face ou Not Diamond je pense offrent de bonnes alternatives. Comme je le disais, pour quelqu'un de très débutant avec l'IA cette offre peut être inétressante pour tester un peu différentes modalités et modèles (avec quelques modèles payant quand même), mais dès qu'on est un plus aguérri ça n'est sans doute plus très intéressant (pas d'API, vite limité, requête en itération coûte cher...)
+19/11/2024, 17:06 - +33 6 64 50 56 67: J’ai utilisé Claude pour me fournir le fichier idoine dans Google earth et cela ne m’a pas pris beaucoup de temps. Je n’ai pas trouvé comment partager le parcours mais je peux vous donner des infos si cela vous intéresse.
+19/11/2024, 17:07 - Laurent The Cure: merci pour vos retours. je vais les lui soumettre.
+19/11/2024, 17:09 - Laurent The Cure: ce qui est domage si cet outils est top, c'est de ne pas pouvoir le tester pour vérifier qu'il répond à sa demande. je ne suis pas contre payer une licence s'il correspond à son besoin
+19/11/2024, 17:18 - +212 631-698223: null
+19/11/2024, 18:36 - +55 71 9275-7531: null
+19/11/2024, 18:39 - Vous avez supprimé +55 71 9275-7531
+19/11/2024, 18:46 - Ahmadou Ba: Bonjour, Qui connait une IA qui crée une affiche, un poster, une infographie à partir d'un prompt?
+19/11/2024, 18:53 - Gregoire IA: Ideogram ?

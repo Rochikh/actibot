@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 20
+
+=== CONTENU ===
+Mais peut-être plutôt au fait que l’idéal réside dans la combinaison de plusieurs modes d’action.
+17/04/2024, 10:56 - +33 6 49 84 08 41: Oui, et que chacun ait des modes de mémorisation différents... Entre autres
+17/04/2024, 10:57 - +33 6 76 04 48 20: Et que dire de la nouvelle facilité qui s’offre à nous : la dictée vocale.
+Le système devient tellement performant, que pour ma part, j’utilise de moins en moins le clavier…
+17/04/2024, 12:07 - +33 7 85 84 60 78: hello, j'ai eu accès a une liste d'outils IA censé boosté le créativité. En avez-vous testé et si oui, lesquels préférez-vous  SVP ?
+Ci-dessous un copier-coller d'un doc (source : live mentor)
+Pour augmenter votre productivité d’entrepreneur  :
+ChatMind : Tout le monde peut faire de la cartographie mentale, en discutant avec cet outil…
+Motion : Permet de créer un agenda à partir d’une to do list généré et mise à jour automatiquement grâce à l'IA pour plus de productivité.
+Compose AI : une extension Chrome qui vous permet d’écrire 10 fois plus rapidement. Et c’est gratuit !
+Taskade AI : votre second cerveau, version IA, parfait pour augmenter sa productivité. On vous recommande de compléter cet outil avec cet épisode de notre newsletter Le Vendredi des Possibles sur le concept de second cerveau.
+Tl;dv : tl;dv transcrit et résume vos appels Google Meet & Zoom avec vos prospects, c’est un enregistreur de réunions !
+Notion AI : l’outil de productivité le plus connu au monde intègre maintenant l’IA pour générer du contenu super rapidement.
+Traw AI : pour générer des résumés de vidéos YouTube !
+Tome.app : pour créer des présentations avec l’IA
+Pour écrire mieux, et (beaucoup) plus vite :
+WriteSonic : génère du contenu textuel, tels que des articles de blog, des publicités et des emails, de manière automatique et rapide.
+Jasper : L’outil IA des copywriters.
+Copy AI : un outil qui permet de générer des textes à l’infini, qu’il s’agisse de descriptions produits, de descriptions de vidéos Youtube, etc..
+ChatGPT Writer : Plugin sur Chrome qui vous permet d’écrire, modifier, répondre dans Gmail rapidement via ChatGPT

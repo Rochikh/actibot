@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 570
+Messages: 14
+
+=== CONTENU ===
+14/02/2025, 18:57 - +33 6 64 17 58 42: Pour info : un an de chat pro Mistral (version premium) est offert aux abonnés (actuels et futurs) à un forfait mobile chez free (y compris le forfait à 2€)... https://www.clubic.com/actualite-552852-free-frappe-fort-en-s-associant-a-mistral-ai-pour-offrir-de-l-ia-premium-gratuite-a-tus-ses-abonnes-mobiles.html
+14/02/2025, 18:57 - Rochane: Oui certain
+Tu vas dans ton interface Free mobile et mes options ou services et ça marche
+14/02/2025, 18:58 - ‎~ Aristide est parti·e
+14/02/2025, 18:58 - Rochane: Du coup, pour ceux qui n'ont pas Free mobile, ils prennent un abonnement à 2 euros 😉
+14/02/2025, 18:58 - +33 6 52 73 73 42: Impecc' ! Je m'attendais à recevoir un mail !! 😓
+15/02/2025, 13:50 - Daniel Pappalardo: Ou pour une formation cadres/administratifs éducation nationale  vers les Drane : j'en fais une spécifique sur ce sujet auprès du rectorat bientôt.
+15/02/2025, 14:32 - +33 6 24 33 06 13: Bonjour la communauté
+Je suis en train de rédiger la cadre de la formation en a-Learning pour la structure ou je travaille. Les 3 axes orientant ce cadre sont l’accessibilité numérique, la protection des données, l’utilisation des outils IA a des fins pédagogiques et le numérique responsable. Selon moi ces quatre axes se complètent et s’entremêlent.
+Mais j’avoue ne pas trop savoir comment aborder l’axe IA de manière synthétique et explicite en même temps. Avez-vous des exemples de chartes ou de documents semblables ? On parle ici de formation pour des professionnels
+15/02/2025, 14:36 - +33 6 22 65 42 40: Bonjour, si vous voulez de l'inspiration, je vous invite à aller voir sur le site de l'OCDE :
+https://oecd.ai/en/catalogue/overview
+15/02/2025, 14:37 - +33 6 22 65 42 40: Par ailleurs, j'ai fait un post LinkedIn à ce sujet : https://www.linkedin.com/posts/jeremie-kalonji_ia-responsable-activity-7296117246446227457-J-zW?utm_source=share&utm_medium=member_android&rcm=ACoAABNRzqcBtEao5qQ3NeSXUiSfOjmRqBDKjU8
+15/02/2025, 14:42 - Francois Bocquet: Interessé de savoir comment le cadre juridique d’usage des services d’IA est abordé avec les cadres de l’éducation. Je veux bien lire la documentation ou les supports de formation et en discuter si c’est utile. Le DPD académique est il associé à la démarche ? Merci d’avance

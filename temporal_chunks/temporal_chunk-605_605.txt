@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 25
+
+=== CONTENU ===
+-  Personnalisation du contenu par les enseignants selon leurs besoins.
+#  Exportation du Cours
+-  Possibilité d'exporter le cours sous différents formats (Word, PowerPoint).
+#  Présentation du Système de Cours en Ligne
+-  Le système génère un diaporama à partir de la voix synthétique du professeur, appliquée directement sur le cours automatisé.
+-  Chaque chapitre comprend des tests automatisés pour valider les connaissances des apprenants.
+-  Environ 20 à 25 vidéos éducatives de 85 minutes sont générées pour un cours de 30 à 40 heures.
+#  Contenu et Formats des Cours
+-  Différents types de cours sont créés, certains basés sur des supports comme YouTube et d'autres sur des mots-clés spécifiques.
+-  Chaque chapitre est accompagné d'un manuel de cours généré pour fournir une description détaillée.
+-  Les élèves ont accès à un manuel support en plus des vidéos et textes principaux pour faciliter l'apprentissage.
+#  Intégration de Contenus Pédagogiques
+-  La plateforme intègre une vidéothèque avec des contenus pédagogiques pertinents provenant du web.
+-  Les cours peuvent être créés facilement via Moodle et adaptés aux besoins spécifiques des établissements ou programmes.
+#  Utilisation du Système par les Établissements
+-  Les écoles d'ingénieurs, les écoles de commerce et les centres de formation utilisent le système, avec un coût annuel entre 5 000 et 10 000 euros.
+-  Des fonctionnalités telles que le coaching personnalisé sont intégrées pour accompagner les apprenants dans leur parcours.
+#  Utilisation Personnelle du Système
+# Réunion de Planification
+##  Discussion sur les Paramètres Linguistiques
+- [](#) La configuration des paramètres linguistiques est discutée, notamment en arabe.
+- [](#) Possibilité de choisir la langue prédominante pour l'interface et le contenu.
+- [](#) Capacité à travailler dans différentes langues européennes et planification d'intégration de nouvelles langues.
+##  Projets en Cours et Formation Linguistique
+- [](#) Discussion sur la transposition des projets existants pour les formations linguistiques.

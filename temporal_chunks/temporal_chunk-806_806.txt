@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 574
+Messages: 14
+
+=== CONTENU ===
+06/08/2024, 23:01 - +237 6 56 90 71 30: Et justement ces hallucinations/confabulations on ne peut les identifier que lorsqu'on a effectivement lu soi-même le texte/document. Jusqu'ici je n'arrive d'ailleurs pas à comprendre ce qui explique cela. Une fois que tu charges upload un fichier "l'intelligence" de l'IA régresse considérablement. Je pense qu'elle (IA) a du mal à aller chercher de l'information dans un document pour répondre à la requête.
+06/08/2024, 23:07 - +33 6 40 65 69 66: Bonsoir, moi personnellement j’utilise plusieurs IA :
+Les outils d'IA comme
+-	Perplexity qui fournit des réponses détaillées et des sources pertinentes pour les requêtes générales,
+-	Consensus un moteur de recherche d'articles scientiﬁques alimenté par l'IA, offrant des résultats scientiﬁques vériﬁés,
+-	Chat PDF permet aux utilisateurs d'interagir avec les PDF, d'extraire des informations et de répondre à des questions complexes,
+-	Elicit.AI qui permet de résumer des articles, extraction de données, synthèse des résultats,
+-	Research Rabbit une IA qui cherche des articles scientiﬁques et travaille par auteur,
+-	Semantic Scholar est une alternative à Google Scholar basée sur l'IA qui donne accès à des millions d'articles universitaires sur différents sujets peuvent automatiser la recherche de littérature scientiﬁque.
+Concernant Research Rabbit, il fournit les réseaux d’auteurs ce qui permet d’explorer d’autres auteurs par ricochet nous amène à des articles que l’IA ne fournit pas spontanément…ça élargit notre horizon rapidement . Il y a ensuite un gros travail personnel de tri, de contrôle, de lectures afin de retourner vers l’IA pour lui poser des recherches plus ciblées. L’IA n’est qu’un assistant à ce stade.
+Bonne recherche.
+06/08/2024, 23:07 - Samba BA: Tout à fait raison
+07/08/2024, 03:35 - Votre code de sécurité avec +216 23 847 949 a changé. Appuyez pour en savoir plus.
+07/08/2024, 00:45 - Hoang: Bonsoir à tous, dans ma recherche de perfectionner mes prompts, je suis tombé sur ce site : https://neuralwriter.com/fr/ est ce que vous connaissez? il s'agit d'un site qui permet de reformuler nos prompts, mais pas que, il y a différentes options en plus sur le site. Je suis actuellement en train de le tester et cela m'aide pas mal à formuler des prompts plus détaillés.

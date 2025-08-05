@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 15
+
+=== CONTENU ===
+1h de conseils pratiques pour booster ta productivité. À mardi !
+Note : un lien de visio sera partagé le jour J.
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+03/11/2024, 20:44 - Vous avez épinglé un message
+03/11/2024, 21:04 - +33 6 03 06 04 34: C’est inhérent aux LLM: ils se souviennent du début et de la fin rarement du milieu, alors ils hallucinent . On conseille toujours de découper en partie. Claude est mieux que chatGPT sur l’analyse. Essayez aussi avec NotebookLM qui m’impressionne un peu plus chaque jour et qui est vraiment rentré dans mon workflow.
+03/11/2024, 21:06 - +33 6 03 06 04 34: Très mauvaise idée car elle prend le pas sur Google ce qui est très énervant et en plus a un coût écologique disproportionné
+03/11/2024, 21:16 - Rochane: Je suis d'accord sur le côté énergétique
+03/11/2024, 21:16 - +33 6 03 06 04 34: Dépend si la personne a donné son accord ou pas. Mais pour le transcript mieux vaut passer par l’extension Glasp bcp plus efficace
+03/11/2024, 22:01 - +33 6 51 88 68 57: Merci pour la réponse et ta proposition. Je ne peux pas imaginer de répliquer cette situation dans mon contexte.
+Je garde l'idée au chaud. Merci.
+04/11/2024, 10:21 - Clotilde IA: https://glasp.co/youtube-summary
+The best I’ve tested, free all the way, perfect transcripts, interactions possible - well explained in their short welcome video (limitations & possibilities)
+04/11/2024, 10:36 - Adrien Bock IA: oui je connaissais, merci qd même clotilde
+04/11/2024, 11:34 - +41 76 372 28 94: Je viens de finir de parcourir les 43 pages du comparatif entre la nLPD et la RGPD. J'ai retenu deux choses : quelqu'un pouvais faire une dénonciation en cas de non respect (les parents d'élèves par exemple) et les amandes peuvent être très très salées (surtout en cas de fausses déclarations). Je suis donc très content d'avoir été sensibilisé aux problèmes de la première version de mon site et de les avoir corrigés rapidement 😅. Merci encore @33662364404 !
+04/11/2024, 12:44 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.

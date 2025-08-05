@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 545
+Messages: 23
+
+=== CONTENU ===
+16/03/2025, 15:44 - Laurent The Cure: Bonsoir, la formation est elle en asynchrone ? sommes nous libres des horaires ?
+16/03/2025, 15:55 - +237 54717211: Synchrone et asynchrone
+16/03/2025, 15:55 - Laurent The Cure: le début de la formation est prévu pour quelle date ?
+16/03/2025, 15:55 - +237 54717211: Les horaires synchrones seront définies après analyse  des disponibilités des testeurs qu'ils auront déposés via les paramètres de leur profil
+16/03/2025, 16:02 - +237 54717211: Après enrôlement des testeurs le mail de lancement effectif sera envoyé avec les identifiants
+Théoriquement le début c'est ce mercredi
+16/03/2025, 16:06 - Laurent The Cure: désolé, je me retire des potentiels apprenants, je ne serai pas disponible avant lundi 24.
+16/03/2025, 16:07 - +237 54717211: Bien noté
+Merci
+16/03/2025, 17:57 - Rochane: OpenAI permet aux utilisateurs de soumettre une demande pour que leurs données ne soient pas utilisées pour l'entraînement des modèles via la fonctionnalité "Make a Request" disponible sur leur site de confidentialité.
+https://privacy.openai.com/policies
+16/03/2025, 17:59 - Rochane: <Médias omis>
+17/03/2025, 05:53 - Votre code de sécurité avec ~ Elkilanisaid a changé. Appuyez pour en savoir plus.
+17/03/2025, 11:42 - +33 6 13 07 80 27: Bonjour
+Auriez-vous une alternative à Elevenlabs qui propose de l’audio sympa pour un budget modéré en termes d’abonnement
+Merciiii
+17/03/2025, 11:46 - Votre code de sécurité avec Cours en visio a changé. Appuyez pour en savoir plus.
+17/03/2025, 13:11 - +32 483 60 53 96: Murf ai ?
+Mais ca reste payant quand meme
+17/03/2025, 13:34 - +33 7 86 18 83 63: Speechify
+17/03/2025, 15:15 - +33 6 42 26 64 70: https://www.tavus.io/ Parait prometteur pour concurencer Heygen
+17/03/2025, 20:14 - +33 6 14 16 68 64: Salut Rochane, c'est quoi ton prompt pour analyser le rgpd ? Tu le fais via perplexity ?
+17/03/2025, 20:45 - Rochane: Tu es un expert en droit numérique européen, spécialisé dans la protection des données personnelles et droits numériques. Ta mission est d'analyser les CGU pour identifier les enjeux concrets pour les utilisateurs européens, en tenant compte des dernières évolutions réglementaires.

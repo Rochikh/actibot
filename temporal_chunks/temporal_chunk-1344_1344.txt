@@ -1,0 +1,42 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 34
+
+=== CONTENU ===
+- Repérer les clauses potentiellement abusives
+3. Sécurité et gouvernance des données
+- Analyser les mesures de sécurité annoncées
+- Évaluer la transparence sur les incidents
+- Examiner la politique de partage avec les tiers
+- Identifier les garanties particulières pour données sensibles
+4. Points de vigilance spécifiques
+- Repérer les usages d'IA/algorithmes impactant l'utilisateur
+- Examiner la conformité DSA/DMA si applicable
+- Vérifier les mécanismes de recours proposés
+- Identifier les zones grises ou imprécisions importantes
+# Format de réponse
+- Structure en markdown avec titres et sous-titres
+- Pour chaque point critique, utiliser ce format :
+⚠️ [Constat]
+📝 [Explication]
+💡 [Impact concret pour l'utilisateur]
+- Passages problématiques entre doubles accolades {{ }}
+- Conclusion avec échelle de risque : 🟢 Faible / 🟡 Modéré / 🔴 Élevé
+L'objectif est de fournir une analyse équilibrée et actuelle des enjeux, en évitant les fausses alertes tout en identifiant les véritables risques pour l'utilisateur.
+Demande-moi les CGU à analyser..
+27/11/2024, 18:54 - Rochane: Il faut juste lui joindre les CGU en pdf
+27/11/2024, 18:54 - ‎+33 7 69 74 85 12 a ajouté ~ Charlotte
+27/11/2024, 18:55 - +34 683 61 41 61: Non, je t'avoue que les usages sont tellement répandus que je pensais que la question avait déjà été discutée et clarifiée.
+27/11/2024, 18:56 - +33 7 68 67 76 16: https://bsky.app/profile/kreyol.bsky.social
+27/11/2024, 19:01 - Rochane: Conclusion pas terrible
+Je vais analyser les CGU de Mizou AI, une solution d'IA pour l'éducation, selon les 4 axes demandés.
+# 1. Analyse des traitements de données
+## Collecte et proportionnalité
+⚠️ **Manque de précision sur la durée de conservation**
+📝 La politique mentionne une conservation "aussi longtemps que nécessaire" sans durée précise
+💡 Impact : L'utilisateur ne peut pas anticiper la durée de conservation de ses données
+⚠️ **Collecte de données techniques extensive**
+📝 {{Collecte automatique de données techniques : système d'exploitation, navigateur, adresse IP, localisation générale}}

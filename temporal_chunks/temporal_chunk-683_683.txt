@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 14
+
+=== CONTENU ===
+27/06/2024, 15:11 - ‎+33 6 51 48 42 36 a demandé à rejoindre le groupe.
+27/06/2024, 16:14 - ‎+33 6 17 72 04 98 a demandé à rejoindre le groupe.
+27/06/2024, 17:31 - ‎+33 6 32 89 69 37 est parti·e
+27/06/2024, 19:49 - ‎+33 6 51 48 42 36 a rejoint le groupe à partir de la communauté.
+27/06/2024, 19:49 - ‎+33 6 17 72 04 98 a rejoint ce groupe grâce à son lien d’invitation
+27/06/2024, 19:50 - Rochane: nouvel outil qui vient concurrencer Heygen (30 langues disponibles) Crédits pour des essais https://www.lipitt.com/
+28/06/2024, 04:14 - Samba BA: https://www.linkedin.com/posts/samba-ba-952936184_ingaeznierie-finance-marketing-activity-7212261905279655936-sV_g?utm_source=share&utm_medium=member_android
+28/06/2024, 06:08 - Rochane: Merci d'accompagner toujours d'une explication du lien que vous postez 🙂
+28/06/2024, 08:05 - Fred IA: <Médias omis>
+28/06/2024, 08:12 - +33 6 49 84 08 41: Moi j'utilise Slidesgo.com, c'est gratuit... Je serais assez intéressé d'avoir votre retour par rapport à Gamma et Canva... À mon avis c'est moins performant, mais sait-on jamais
+28/06/2024, 10:05 - +222 46 48 18 36: Bonjour, voici un tableau comparatif des versions gratuites de Slidesgo, Canva et Gamma rendu par l'IA Perplexity : https://www.perplexity.ai/search/dresser-un-tableau-gfv9HW2yRGe9aGqbKPzbsg#0
+28/06/2024, 10:42 - +222 46 48 18 36: Perplexity résume cette comparaison par:
+"En résumé, Slidesgo et Canva offrent tous deux des versions gratuites avec un accès à de nombreux modèles et des options de personnalisation, tandis que Gamma se concentre davantage sur la génération de diapositives par IA et la création de diapositives de quiz."
+28/06/2024, 12:13 - +33 6 77 09 47 45: Bonjour, j'aurai besoin d'aide. Voilà, je veux créer des QCM avec une ia (chagpt ou autre) Je veux ensuite avec ce QCM en faire un fichier qui va être importable sur une plateforme qui accepte le format Moodle XML. Mais je n'y arrive pas. Donc help et merci. PS/ quizzwizard le fait, mais je veux passer directement par ia.

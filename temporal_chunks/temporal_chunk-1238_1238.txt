@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 12
+
+=== CONTENU ===
+Pour retranscrire un écrit manuscrit, je te conseille d'essayer Transkribus ou MyScript. Ces programmes sont bien adaptés pour transformer des textes numérisés en écriture manuscrite. Si tu cherches à faire de la transcription audio, des applications comme Speechnotes ou Descript peuvent également être très utiles.
+N'hésite pas à tester ces outils et à partager ton expérience avec nous ! Si tu as d'autres questions, je suis là pour t'aider. 📚✍️
+14/11/2024, 09:08 - +32 479 82 01 20: D'ailleurs Rochane tu n'aurais pas une vidéo sur comment tu as construit Actibot ? 😊 Je suis curieux de voir comment ça marche. 😄
+14/11/2024, 09:12 - Rochane: Promis, je vais le faire 🙂
+14/11/2024, 09:29 - +33 6 50 57 17 44: Il faut que tu privilégies des outils « speech to speech » tu enregistres ta voix dessus (si cela te convient à titre personnel) et celle ci est changée par l’IA. S’il n’y a pas trop de mots techniques il ne devrait pas y avoir de soucis. Eleven Labs fait cela très bien pour une bonne panoplie de voix françaises.
+14/11/2024, 09:48 - Rochane: Effectivement mais pas possible avec la version Free, il me semble
+14/11/2024, 09:51 - +33 6 26 19 30 26: Merci Loic, j'ai en effet pensé à cette alternative. Est-ce que ça résout le pb d'intonation trop monotone de la voix IA?
+14/11/2024, 09:53 - +33 6 50 57 17 44: Oui complètement à 100%. Garanti !
+Parfois tu peux avoir un mot mal prononcé et cela peut servir de faire un peu de montage avec le même mot en text to speech sur ta piste audio si tu as un logiciels simple gratuit à côté. Mais ça fait très bien le travail !
+14/11/2024, 10:55 - +33 6 25 14 08 75: Hello, je vous partage un top outil que je viens de découvrir : https://www.napkin.ai/ . L’idéal pour mettre en forme vos textes à rallonge … en un mot : je suis fan. Une version gratuite pour tester : la version pro est en bêta est donc Gratuite !!!! Profitez en ! C’est juste énorme:)
+14/11/2024, 11:32 - ‎+33 6 36 80 03 16 a demandé à rejoindre le groupe.
+14/11/2024, 11:42 - +33 6 02 20 69 43: Yes un outil bien utile sorti il y a un moment… Vous parlez donc de nouvelles mises à jour?

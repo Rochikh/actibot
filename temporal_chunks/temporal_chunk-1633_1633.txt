@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 11
+
+=== CONTENU ===
+3️⃣Or la bataille de l’IA se joue d'abord sur le plan hashtag#industriel. En effet, la "bitter lesson" (leçon amère) de l’IA est qu’il est plus efficace de faire des algorithmes plus gros et plus gourmands (ce sont les Scaling Laws), que d’améliorer les algorithmes.
+4️⃣La voie royale de l’IA est donc : avoir plus de hashtag#données et plus de puissance de calcul. Ça coûte plus cher que de faire de la recherche, mais c’est aussi plus facile: il "suffit" d’investir. C’est donc ce qu’ont fait les USA, pour ne pas laisser la Chine les prendre de vitesse.
+5️⃣Une question demeure: comment alimenter tout ça? On peut estimer que les clusters réalisables avec 100MM de $ nécessiteront une puissance énergétique d'~10GW (=10 gros réacteurs hashtag#nucléaires = la puissance d’un Etat américain moyen).
+⚡Ici prend tout son sens la dérégulation rapide que Trump met en place, sa sortie des accords de Paris et son slogan "Drill, baby, drill" qui ouvre grand les vannes à l’industrie hashtag#pétrolière. Construire les infrastructures et raccorder l’énergie à la grid prend du temps, mais l’IA est au cœur des politiques et la gabegie hashtag#énergétique est instituée.
+6️⃣Enfin, avec une telle puissance de calcul, associée aux améliorations actuelles sur le test-time compute et le test-time training (des IA qui hashtag#raisonnent et qui continuent d’apprendre à l’usage), il faut s’attendre à ce que des hashtag#superintelligences voient le jour..Hmm.. Sous 3 ans?
+22/01/2025, 18:43 - Rochane: Merci à @33662364404  pour le partage:
+Découvre http://SuperPodcast.ai, un outil pour créer des podcasts facilement et gratuitement ! 🎙️
+🌍 Multilingue : Parfait pour toucher un public international,
+💸 100% gratuit : Profitez de toutes ses fonctionnalités sans dépenser un centime !
+22/01/2025, 18:47 - +33 6 74 39 90 60: ça c'est le message publicitaire mais toi ton avis ?
+22/01/2025, 18:48 - Rochane: C'est mon message publicitaire sur X et je l'ai testé, je l'ai trouvé plutôt pertinent surtout avec des réglages que l'on ne trouve pas sur NotebookLM <Ce message a été modifié>

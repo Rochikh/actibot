@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 13
+
+=== CONTENU ===
+13/11/2024, 09:44 - +33 6 59 35 23 38: Merci beaucoup Simon. J'irai y jeter un œil.
+13/11/2024, 09:56 - ‎+32 496 96 12 10 est parti·e
+13/11/2024, 09:59 - +221 76 598 97 25: super alors
+13/11/2024, 10:01 - +221 76 598 97 25: je pense a comment intégrer l'IA dans l'évaluation des enseignants apprentissages dans la formation professionnelle dans des métiers comme mécanique auto. que me suggérez vous?
+13/11/2024, 10:01 - +221 76 598 97 25: aussi ya tu une IA très pratique pour créer du contenu vidéo court en open source
+13/11/2024, 10:02 - Rochane: *S'il vous plaît, merci d'utiliser les emojis pour émettre une réaction par rapport à un post et éviter les posts qui surchargent inutilement le groupe et qui font quitter certain·e·s*🙂
+13/11/2024, 10:10 - Clotilde IA: Oh non je n’ai pas vu cela. Je guette toujours en priorité le group «  announcement ». Peut-on l’y annoncer environ 1 semaine à l’avance ? Du jour pour le lendemain l’info m’a échappée. Je regarderais donc le replay cette fois ci, c’est pas grave 😍
+13/11/2024, 10:20 - +33 6 20 97 18 83: Ingenieure pédagogique et Enseignante en langues. Je teste aussi les IA afin d'arriver a proposer à mes étudiants, une solution d'assistant ou coach en prononciation et intonation pour l'expression orale ou lecture. Chatgpt's Voice fait très bien le travail. Ma seule crainte reste les hallucinations que certes je n'ai pas encore rencontrées sur 5 essaies (version gratuite) mais le risque est là quand même.
+13/11/2024, 10:21 - Rochane: Est-ce que la version gratuite peut être utilisée de façon illimitée ?
+13/11/2024, 10:42 - Francois Bocquet: Regarde https://vocacoach.fr/
+13/11/2024, 10:42 - Francois Bocquet: Ça peut être une bonne base
+13/11/2024, 10:46 - Fred IA: Pour info, avec la version gratuite de ChatGPT, on beneficie d'environ 30mn de voix avancée par mois. Ensuite, on repasse automatiquement sur la voix "classique" <Ce message a été modifié>
+13/11/2024, 10:50 - +33 6 80 25 63 41: Comment tu fais pour y accéder , stp? Sur la version gratuite, je ne vois pas l’option voix 🧐

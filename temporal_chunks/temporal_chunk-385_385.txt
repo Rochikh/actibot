@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 13
+
+=== CONTENU ===
+07/04/2024, 22:30 - Rochane: En fait, sur poe.com, tu peux créer des bots gratuitement. Il suffit de s'y inscrire, créer un agent conversationnel sur une thématique, mettre un prompt pour qu'il execute lee consignes et lui rajouter des documents dans sa base de connaissances pour qu'il s'appuie dessus. Je crois que le bot sur l'hybridation que j'ai partagé est ouvert et tu peux avoir accès à ces informations 🙂 <Ce message a été modifié>
+07/04/2024, 22:32 - Rochane: Oui et je crois que tu vas en parler un peu le 10?
+07/04/2024, 22:35 - Letizia ALLEGRINI: Je parlerai plutôt d'un exemple d'évaluation avec ChatGPT et l'utilisation d'un megaprompt pour le Conditionner mais je me rends compte qu'un tuto sur les rag serait nécessaire de nombreuses personnes se questionnent sur le comment et c'est normal
+07/04/2024, 22:39 - Rochane: Effectivement, on maintient le sujet de l'évaluation pour ce live du 10 avril mais pour le prochain, des partages de pratiques sur les GPTs s'impose 🙂
+07/04/2024, 22:41 - Clément Cahagne: J’ai fait un wébinaire il y a peu sur le sujet et en effet, beaucoup de personnes intéressées par ce sujet spécifique des GPTs et autres chatbots personnalisables. Il y a un vrai besoin je pense, et surtout besoin d’une méthodologie pour les développer, les nourrir, les tester et les modifier
+07/04/2024, 22:41 - Letizia ALLEGRINI: Oui montrer comment faire peut vraiment permettre de se lancer pour des personnes un peu hesitantes
+07/04/2024, 22:41 - Letizia ALLEGRINI: Tout à fait d'accord
+07/04/2024, 22:43 - ‎+32 478 03 70 10 a rejoint le groupe à partir de la communauté.
+07/04/2024, 22:59 - +689 89 60 06 24: Bonjour
+Un replay de ce webinaire est-il disponible ?
+08/04/2024, 00:25 - +33 6 23 62 03 47: Merci beaucoup Letizia pour votre aide !
+08/04/2024, 00:27 - +33 6 23 62 03 47: Merci beaucoup de  votre aide !
+08/04/2024, 00:51 - +33 6 51 43 08 14: Serait-il possible d’avoir un document où on peut proposer des thèmes pour les futurs webinaires de groupes pour ensuite faire un appel pour ceux qui peuvent intervenir ? Il ya des choses que je souhaite apprendre que je ne connais pas alors si certains ici peuvent aider ce serait cool 🙂 Merci

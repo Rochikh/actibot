@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 23
+
+=== CONTENU ===
+29/03/2024, 10:40 - Yvelines: Merci @33649535198 pour le partage
+29/03/2024, 10:47 - Rochane: Effectivement, je viens de le tester et même si notre anglais est approximatif, il est bienveillant et répond à toutes nos questions https://demo.hume.ai
+29/03/2024, 10:57 - +41 78 927 90 96: Incroyable cet outil!
+29/03/2024, 11:19 - Yvelines: Oui et dans un langage assez naturel, meilleur rendu à l'oral que sur ChatGPT pour moi
+29/03/2024, 11:26 - +33 6 25 21 27 26: Amazing ! Merci Rochane. <Ce message a été modifié>
+29/03/2024, 13:45 - ‎Alix van Zeebroeck a rejoint le groupe à partir de la communauté.
+29/03/2024, 14:25 - ‎+1 (514) 799-3852 est parti·e
+29/03/2024, 15:16 - Pierrick BRIAND: OpenAI fait bien le taff avec sa vidéo de présentation qui propose 34 vidéos générées par Sora et le prompt correspondant à chaque vidéo. On en prend plein les yeux
+https://youtu.be/HK6y8DAPN_0?si=hSeisBWfH3qdWUCx
+29/03/2024, 16:52 - +31 6 86390930: null
+29/03/2024, 16:52 - ‎+31 6 86390930 est parti·e
+29/03/2024, 17:51 - +237 6 56 90 71 30: Exact. Il est meilleur. Et l'accent est plus native speaker
+29/03/2024, 17:51 - LIO: Bonjour, sur quel outil avez vous testé? La page indique que ca sera disponible en avril 24
+29/03/2024, 17:52 - LIO: <Médias omis>
+29/03/2024, 17:52 - Rochane: https://demo.hume.ai
+29/03/2024, 18:07 - +32 479 58 54 12: Challenge 😄 Je cherche à generer un circuit de voyage en péniche et j'ai testé le GPT Travel Planning. Le résultat n'est pas top car les cartes comme openstreetmap connaissent les routes et les transports en commun, mais pas le trajet fluvial.
+Quelqu'un a une idée d'outil capable de faire ça  ?
+29/03/2024, 18:07 - Rochane: Perplexity?
+29/03/2024, 18:13 - LIO: <Médias omis>
+29/03/2024, 18:14 - LIO: Le progres est impressionnant
+29/03/2024, 18:28 - +32 479 58 54 12: C'est vrai qu'en combinant Perplexity et Travel Planning c'est déjà mieux 👍
+29/03/2024, 20:23 - +33 6 99 36 11 69: Dans CoPilot, tu as une thématique « Vacation Planner »
+29/03/2024, 20:26 - Ahmadou Ba: Connaissez vous une IA qui analyse des données gratuite ?

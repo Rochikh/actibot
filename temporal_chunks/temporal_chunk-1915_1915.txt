@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 562
+Messages: 15
+
+=== CONTENU ===
+06/03/2025, 22:41 - +33 6 42 26 64 70: Et si moins de 50 utilisateurs, vous pourrez utiliser l’application Moodle gratuitement qui s’est beaucoup améliorée ces dernières années
+06/03/2025, 22:41 - Gregoire IA: Mon chouchou serait : progression, l'apprenant voit ce qui est attendu de lui et pour quand
+Le prof lui voit qui a fait quoi bcp plus simplement qu'avec les rapports Moodle
+06/03/2025, 22:42 - Laurent The Cure: je suis bien conscient que mon premier Moodle ne sera pas parfait et complet (comme n'a pas été parfait mon premier site wordpress… je me suis amélioré ensuite).  Pour rappel il s'agit d'une "simulation" d'une demande, d'où ma méconnaissance du nombre de participants par exemple. MAis j'ai l'avantage de faire ce que je veux
+06/03/2025, 22:42 - +33 6 42 26 64 70: Plus efficace pour ce qui est de l’utilisation via mobile et évite la connexion à chaque utilisation ainsi que les notifications
+06/03/2025, 22:43 - +33 6 42 26 64 70: Par contre attention à vérifier que les plugins passent dans l’app…ce n’est pas toujours le cas…mais un lien est proposé pour ouvrir alors la version web
+06/03/2025, 23:21 - Laurent The Cure: Merci encore pour vos réponse
+07/03/2025, 06:36 - ‎~ marion FERLIN a ajouté +33 6 20 37 24 33
+07/03/2025, 06:36 - +33 6 70 57 72 80: Moodle ne me semble pas le plus pertinent en terme d’IA.
+J’aurais plutôt opté pour articulate ou rise.
+J’utilise 360 Learning
+07/03/2025, 08:49 - +32 483 60 53 96: Quelles options "IA" sont les plus pertinentes et utilisees selon vous?
+Jai vu que Blackboard avait aussi implémenté pas mal de fonctionnalites IA, mais cest assez simple de les reproduire avec un bon prompt.
+07/03/2025, 08:51 - Clément Cahagne: On parle pas mal de ça en ce moment : https://sanalabs.com/
+07/03/2025, 08:52 - Clément Cahagne: De manière générale, je pense qu'il faut être très précautionneux avec tous ces outils qui transforment des contenus avec l'IA. Et surtout, qui ne laisse pas la main à l'utilisateur pour prompter de la bonne manière. On parle souvent dans la formation de l'équilibre entre l'intelligence artificielle et l'intelligence humaine.  Dans ce cadre, je pense que tous ces outils qui prennent un contenu en entrée pour fournir un contenu en sortie sont très dangereux.

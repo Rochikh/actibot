@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 12
+
+=== CONTENU ===
+16/11/2024, 08:34 - +32 498 62 04 01: C'est très intéressant comme fonctionnement.
+16/11/2024, 08:38 - +33 7 84 33 02 62: Merci pour cet exemple ; par contre, quelles sont les notes obtenues habituellement -sans l’intervention de l’ia - sur ce même module pour pouvoir mesurer l’efficacité ?
+16/11/2024, 08:38 - +33 6 74 95 95 60: C’est super intéressant effectivement ! Je vais tester ta méthode avec un groupe. Si tu cherches des cobayes pour des tests, je suis intéressée 😊
+16/11/2024, 08:40 - +33 6 68 00 29 68: Cela fait 4 ans que je donne le cours à des promos de M1 généralement la moyenne des notes est entre 11 et 12.
+16/11/2024, 08:41 - Rochane: Merci pour ce partage. Je voulais préciser 2 points
+1 le terme pédagogie inversé me gène un peu dans le sens où on n'inverse pas une pédagogie mais on adopte des modalités à l'inverse de ce que l'on voit de façon classique
+2 la théorie à la maison et la pratique en classe est un concept un peu dépassé et je suis content de voir que tu procèdes à une phase de contextualisation qui me paraît fondamentale, avant de passer à la conceptualisation cf le cycle de Kolb.
+En tout cas, bravo d'initier ce type d'échange de pratique, ça change un peu de l'outil dont l'ombre plane partout. J'en parle dans un article qui date de presque 3 ans 🙂
+https://www.innovation-pedagogique.fr/article11255.html
+16/11/2024, 08:42 - +33 6 68 00 29 68: Il faut bien évidemment prendre mes premiers résultats avec des pincettes, c'est une première expérimentation qui me servira à poser un cadre de recherche
+16/11/2024, 08:53 - +222 46 48 18 36: Avez vous testé notbooklm pour la deuxième étape (mise en commun et synthèse)? Si non quels sont les outils que vous utilisez? Et pourquoi pas notbooklm?
+16/11/2024, 08:57 - +33 6 68 00 29 68: Alors, j'ai utilisé un document Word partagé sur le Drive de l'université pour faire un copier-coller en aller-retour avec Claude 3.5 sonnet sur le texte à synthétiser à la fin du sprint. Je n'ai pas utilisé NotbookLM parce que je ne le connaissais pas. 😅 <Ce message a été modifié>

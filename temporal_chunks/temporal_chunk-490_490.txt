@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 620
+Messages: 8
+
+=== CONTENU ===
+Voir cette vidéo de Shubham Sharma pour le principe de fonctionnement : https://youtu.be/sNL-jU8IBYc?feature=shared
+04/05/2024, 09:50 - +32 479 58 54 12: Je suis aussi demandeuse d'outils surtout pour réaliser un travail de veille de A à Z. Depuis la collecte des infos jusqu'à la réalisation d'articles, de comparatifs et de tableaux chronologiques pour suivre facilement l'évolution. Avec bien sûr la possibilité de personnaliser cette veille selon ses propres besoins.
+04/05/2024, 10:07 - Jean-Marc Everard: Idem. J’ai commencé à intégrer Notion avec Make pour ma veille, mais j’aimerais également ajouter la récupération de newsletters pour en faire des résumés avec une IA générative (et des paramètres à choisir pour indiquer mes intérêts pour les résumés) et intégrer le tout dans un outil de veille (Obsidian n’est que local n’est ce pas?). Mais j’avoue que je ne  suis pas encore là…
+04/05/2024, 10:14 - +32 479 58 54 12: Oui. J'ai beau faire de la veille et de la curation depuis 20 ans, aujourd'hui je suis dépassée par la quantité de notions à suivre. Et même se contenter de consulter les résultats de  la curation des autres est encore devenu trop chronophage. C'est là que l'IA peut avoir un réel intérêt. Mais ce serait dommage que chacun doive développer ses propres GPTs et automatisations.
+04/05/2024, 10:17 - Jean-Marc Everard: En effet, pour moi c’est une idée pour l’app de la nièce de Youssef, une app qui peut analyser soit des adresses web (y compris videos), soit des mails et qui résume et classe les infos selon des critères définis. Ça nous éviterait de devoir créer des automatisations qui au final se détraquent souvent au bout d’un moment.
+04/05/2024, 10:20 - ‎Pierrick BRIAND a été ajouté·e
+04/05/2024, 10:20 - ‎Pierrick BRIAND a rejoint le groupe à partir de la communauté.
+04/05/2024, 10:43 - Rochane: Tout dépend de ce que vous faites de votre veille. Perso, j'utilise les flux RSS sur mon navigateur avec une extension et surtout une application formidable qui s'appelle readwise. Dès que j'ai un passage ou un article intéressant, je l'épingle sur cette application ( par la fonction partager, ça marche aussi sur PC) et tous les jours je reçois une dizaine de passages en Push qui me permettent d'ancrer ce que j'ai vu avant. On peut même gamifier en demandant de cacher un mot pour essayer de le retrouver... Rien à voir avec l'IA mais ça reste un super outil de rétention et surtout donner du sens à sa veille 🙂 <Ce message a été modifié>

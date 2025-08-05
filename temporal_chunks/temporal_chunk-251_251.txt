@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 552
+Messages: 11
+
+=== CONTENU ===
+https://www.usine-digitale.fr/article/des-modeles-d-intelligence-artificielle-malveillants-reperes-sur-la-plateforme-hugging-face.N2209211
+02/03/2024, 17:59 - Rochane: Il est important de noter que certains des utilisateurs à l'origine de ces modèles malveillants seraient des chercheurs en intelligence artificielle, et non des pirates informatiques [1]. Ils utilisent la plateforme Hugging Face comme un "terrain de jeu" pour obtenir l'exécution de code à des fins apparemment légitimes
+02/03/2024, 19:03 - +33 6 58 12 88 07: Oui tout à fait à lire jusqu’au bout. Pas de panique 😉
+02/03/2024, 19:20 - +32 498 78 46 36: Ça reste une thématique intéressante avec l'arrivée des agents connversationnels personnalisés et l'explosion de l'automatisation... les virus d'un nouveau genre sont à nos portes. Autant en être conscient. À traduire : https://www.wired.com/story/here-come-the-ai-worms/?utm_source=dlvr.it&utm_medium=twitter
+03/03/2024, 09:16 - Rochane: CRAG (Contexte, Récupération, Génération de Réponse) enrichit la génération de texte en IA par la récupération et l'intégration de connaissances externes, offrant des réponses plus précises et contextuelles. https://www.actuia.com/actualite/crag-une-methode-pour-ameliorer-la-generation-de-texte-basee-sur-la-recuperation-de-connaissances/
+03/03/2024, 09:20 - Rochane: Pour mieux comprendre, j'en ai fait une petite infographie avec le GPt whimesical
+03/03/2024, 09:21 - Rochane: <Médias omis>
+03/03/2024, 09:28 - Rochane: <Médias omis>
+03/03/2024, 09:32 - Pierrick BRIAND: Bonjour Rochane, c’est la seconde fois que j’entends parler de cette méthode. Je vais l’inscrire dans la liste des notions à développer sur notre formation. Cependant, il serait utile de l’expliquer avec un cas concret dans notre domaine. Par exemple améliorer la génération de contenus pédagogiques.
+03/03/2024, 09:34 - Pierrick BRIAND: Une vidéo sous forme de tutoriel serait pertinente pour bien expliquer cette méthode. On y travaille ensemble ?
+03/03/2024, 09:35 - Rochane: Exactement, mais le concept me paraît un peu complexe dans le cadre d'une formation. Peut être à travers un exemple simple mais il faut également la tester et montrer sa valeur ajoutée 🙂

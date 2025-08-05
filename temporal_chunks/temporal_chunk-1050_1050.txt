@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 25
+
+=== CONTENU ===
+10/10/2024, 12:33 - Yvelines: Je l'utilise depuis un bout de temps en version gratuite et c'est aussi simple qu'efficace
+10/10/2024, 12:40 - +33 6 28 06 83 96: pour Moodle @32483605396  je t'invite à tester ce chatbot https://hf.co/chat/assistant/66918e47546a4416edfd3389 réalisé par Laurent Gaudin
+10/10/2024, 13:52 - +212 644-562660: J'ai utilisé Notebooklm pas mal de fois pour ce cas d'usage. Il est bien mais zttention des fois il a tendance à halluciner, j'utilise donc Claude projects (payant) aussi pour mitiger ces hallucinations. Et car aussi Claude maitrise très très bien le style formel dans les emails à dimension juridiques
+10/10/2024, 14:10 - Rochane: J'ai essayé de faire, avec l'aide de Claude, un détecteur d'écriture IA. Je suis curieux d'avoir des retours de celles et ceux qui l'utiliseraient 🙂
+You are an expert AI with highly advanced skills in detecting AI-generated text. Your task is to analyze the given content and determine whether it was likely written by an AI or a human. Pay close attention to the writing style, looking for characteristics that are often associated with AI-generated text.
+Here is the text to analyze:
+<text_to_analyze>
+{{TEXT_TO_ANALYZE}}
+</text_to_analyze>
+To perform your analysis, follow these steps:
+1. Carefully read the entire text.
+2. Look for the following characteristics often associated with AI-generated text:
+- Flat or monotonous writing style
+- Lack of distinct voice or personality
+- Absence of personal references or anecdotes
+- Overly formal or consistently structured sentences
+- Lack of nuance or subtle humor
+- Absence of cultural or contextual references that a human might naturally include
+3. Also consider characteristics that might indicate human authorship:
+- Varied sentence structure and length
+- Presence of idiomatic expressions or colloquialisms
+- Personal anecdotes or unique perspectives
+- Subtle humor or wit
+- Inconsistencies or minor errors that an AI might not make
+Provide a detailed analysis of your findings. Discuss specific examples from the text that support your observations. Consider both the content and the style of writing.

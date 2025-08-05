@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 20
+
+=== CONTENU ===
+05/01/2024, 16:51 - Lucie: Yes. Deux bonnes questions.
+La première je ne sais pas, je n'ai pas vu de business model derrière.
+Et pour la seconde je vois plus ça comme un test de positionnement avant la formation. Test que les formateurs ne font pas car "pas  de temps" et qui pourtant devrait être obligatoire avant chaque formation pour vérifier que les pré-requis sont bien en place et peut-être re-router les apprenants.
+05/01/2024, 17:01 - +33 7 64 08 12 10: Il peut aussi être intéressant de proposer le quizz en début (positionnement) et en fin pour voir le delta entre les deux réponses au même questionnaire pour chacun des participants.
+05/01/2024, 17:06 - Ahmadou Ba: J'avais demandé à mon GPt de me faire un pré-test et post test pour une formation mais il a juste interroger les participants sur le contenue. La différence entre les deux tests de se situent au niveau de la profondeur des questions c a d le niveau taxonomique. J'ai décidé alors d'en faire une évaluation ipsative
+05/01/2024, 17:06 - Ahmadou Ba: Je ne sais pas ailleurs si cela va être pertinent
+05/01/2024, 17:07 - Rochane: Adjectif. (Psychologie) En psychométrie, se dit des mesures « à choix forcé », où l'on demande au sujet de choisir entre deux branches d'une alternative en opposition. Mesures ipsatives.😁
+05/01/2024, 17:11 - Ahmadou Ba: J'ai rien compris.
+05/01/2024, 17:11 - Rochane: Et portant c'est toi qui l'as écrit 😂
+05/01/2024, 19:18 - Laurent The Cure: très intéressant, merci !
+05/01/2024, 20:24 - ‎+41 76 693 61 59 a rejoint ce groupe grâce à son lien d’invitation
+05/01/2024, 20:26 - +41 76 693 61 59: Bonsoir,
+J'imagine qu'il est de coutume de se présenter
+Je m'appelle Steve
+Je suis formateur d'adulte et plus spécifiquement formateur en intelligence artificielle
+J'ai monté une formation avec pour public cible les formateurs
+J'aide les formateurs à intégrer l'IA dans leur pratique
+05/01/2024, 20:27 - +41 76 693 61 59: Au plaisir d'échanger avec vous
+😃
+05/01/2024, 20:27 - +41 76 693 61 59: Ah oui

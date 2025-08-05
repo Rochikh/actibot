@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 549
+Messages: 13
+
+=== CONTENU ===
+Traitement 2x plus rapide = analyse de texte x15 🏋️‍♂️
+Performances : +20% en maths, +7% en visuel et code ➖➕➗✖️🟰
+Sécurité améliorée = bien plus mieux 🙃 pour les OF qui utilisent cette IA
+La suite ici. : https://developers.googleblog.com/en/updated-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/
+27/09/2024, 08:25 - +33 6 77 84 11 24: Notebooklm prend en charge les URL de youtube ! A nous les résumés de vidéos !!
+27/09/2024, 08:26 - Hoang: Pour ceux qui ont le ChatGPT payant , le voice advanced est testable et vraiment surprenant . Pour ma part j’ai du mettre un vpn au USA et le logout depuis l appli sur mon téléphone et ça a fonctionné, petite vidéo de Ludo Salenne qui en fait une démonstration : https://youtu.be/ENcsaIvQhAg?si=x24-6RLDBZvm_aMf <Ce message a été modifié>
+27/09/2024, 08:32 - Jean-Marc Everard: Super ! Ca s'est passé pendant la nuit ? J'étais encore ne train de faire une démo dessus hier et Youtube n'était pas encore apparu dans les liens. Déjà testé les résumés de vidéos ? Eventuellement croisés ?
+27/09/2024, 08:37 - Rochane: Bizarre, j'ai fait le test et message d'erreur car pas de transcription alors qu'il y en a
+27/09/2024, 09:03 - +33 6 77 84 11 24: Je pense oui. Vu l'info sur LinkedIn via Mélanie Tauqman.
+27/09/2024, 09:04 - +212 644-562660: Il n'est pas encore déployé en Europe il semble. Moi pour ma part je l'ai tésté. Un peu décevant. Pour le moment il ne peut ni aller en ligne ni marcher avec les GPTs.
+27/09/2024, 09:05 - Pierrick BRIAND: <Médias omis>
+27/09/2024, 09:08 - +212 644-562660: Et quand on upload un doc dans la discussion ou on écrit qq chose pour chatter avec en mode vocale, l'ancient version revient
+27/09/2024, 09:10 - Jean-Marc Everard: ok, c'est bon à savoir. Du coup ça limite un peu les choses en effet. Ceci dit et sans vouloir empiéter sur le webinaire de ce midi (mais comme ça je rappelle à tout le monde qu'il aura lieu n'est-ce pas Pierrick 😉), générer la transcription devrait être une bonne pratique en terme d'e-accessibilité + sous-titres. En Belgique ce n'est obligatoire que pour le secteur public en ce moment mais ça viendra sans doute pour le reste 😉 <Ce message a été modifié>

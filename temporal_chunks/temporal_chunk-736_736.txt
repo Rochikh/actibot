@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 19
+
+=== CONTENU ===
+21/07/2024, 14:10 - Votre code de sécurité avec +212 634-169534 a changé. Appuyez pour en savoir plus.
+21/07/2024, 17:32 - +32 479 58 54 12: J'ai déjà constaté souvent que Chatgpt "se connaît très mal" et donne des réponses fausses quand on l'interroge sur ses propres fonctionnalités. Perplexity y répond mieux 😄
+21/07/2024, 22:56 - +33 6 49 84 08 41: Très intéressé
+22/07/2024, 03:40 - +237 54717211: Ce message a été supprimé.
+22/07/2024, 09:01 - ‎+32 496 08 00 12 est parti·e
+22/07/2024, 19:00 - +33 7 81 77 51 50: Bonjour
+Quelle IA ( assistant pédago )avez-vous déjà utilisé pour la création d'une maquette pédagogique à partir de certains fichiers proposés par vos soins?
+22/07/2024, 19:28 - Rochane: chat gpt 🙂
+22/07/2024, 20:27 - +221 78 114 78 29: Voici la réponse à la question posée à ChatGPT:
+22/07/2024, 20:27 - +221 78 114 78 29: Bonjour,
+Jusqu'à présent, je n'ai pas utilisé d'IA spécifique pour la création de maquettes pédagogiques à partir de fichiers proposés. Cependant, il existe plusieurs outils et plateformes d'IA qui peuvent être utiles pour ce type de tâche. Parmi ceux-ci :
+1. **ChatGPT** : Utilisé pour générer du contenu, des suggestions pédagogiques et des structures de cours.
+2. **Canvas** : Plateforme LMS qui propose des outils pour la conception de cours.
+3. **Moodle** : Une autre plateforme LMS qui peut être personnalisée et enrichie avec des plugins d'IA.
+4. **Coursera** : Utilise l'IA pour aider à la création de cours en ligne.
+5. **Edmodo** : Fournit des outils pour le développement de plans de cours et de contenu éducatif interactif.
+Avez-vous un besoin spécifique ou un type particulier de fichier pour lequel vous recherchez de l'aide?
+22/07/2024, 20:36 - +33 7 81 77 51 50: Merci pour votre retour
+22/07/2024, 20:50 - +33 7 81 77 51 50: Le but de la manœuvre est de présenter une maquette pédagogique d'une formation d'un métier en forte évolution, donc j'ai une ébauche que je dois " faire évoluer" pour qu'elle réponde aux besoins du marché actuel ....

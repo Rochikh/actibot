@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 13
+
+=== CONTENU ===
+24/05/2024, 11:28 - Votre code de sécurité avec ~ Fa a changé. Appuyez pour en savoir plus.
+24/05/2024, 11:38 - Pierrick BRIAND: Salut à tous ! 👋 Vous avez vu notre dernier webinaire Apolearn sur l'IA et les nouvelles approches pédagogiques ?
+C'est le Mercredi 29 mai 2024 - 14h00, notre invité est Mickaël BERTRAND et on va entre autre aborder la question de la "taxonomie de Bloom révisée" ça va être passionnant !
+🚀 Inscrivez-vous vite ici : https://tinyurl.com/2yfw6vzh
+24/05/2024, 11:49 - +212 644-562660: Vous avez une idée sur comment entrainer un chatbot de formation de façon qu’il soit acceder depuis une platforme microsoft comme Sharepoint ou Teams, je regarde pour le moment Power virtual agents et copilot studio, le premier est compliquer à entrainer meme si c low code, le deuxieme est couteux
+24/05/2024, 13:18 - +32 479 94 80 38: bonjour, j'ai vu passer il y a quelques mois un "jeu" pour apprendre comment fonctionne une IA où on devait mettre des étiquettes sur des images (chien, chat, vélo, papillon, etc.) pour donner des données à l'IA puis lui soumettre une nouvelle photo et voir si elle est capable d'inférer l'identité de l'objet à partir des données extraites. quelqu'un se rappelle-t-ilelle de cet outil ? merci!
+24/05/2024, 13:27 - Francois Bocquet: Teachable machine de Google ? https://teachablemachine.withgoogle.com/
+24/05/2024, 13:29 - Francois Bocquet: Possible aussi sur le site Vittascience https://en.vittascience.com/ia/
+24/05/2024, 13:30 - Francois Bocquet: En français ici https://fr.vittascience.com/ia/
+24/05/2024, 13:38 - +32 479 94 80 38: Mercii! je crois que c'est l'outil google. par contre, il va falloir que je me fasse une petit banque d'images pour le tester en formation ...
+24/05/2024, 13:41 - Francois Bocquet: J’ai un kit tout prêt ici https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit
+24/05/2024, 13:41 - Francois Bocquet: Avec jeu d’entraînement et jeu de test plus complément pour l’entraînement
+24/05/2024, 13:42 - Francois Bocquet: Et plein d’activités autour de l’éthique et de l’IA !

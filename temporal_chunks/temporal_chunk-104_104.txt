@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 14
+
+=== CONTENU ===
+23/11/2023, 07:11 - Jean-Marc Everard: Une IA par jour est de retour sous une nouvelle forme http://uneIAparjour.fr . Merci Bertrand Fromet 👍🏻.
+23/11/2023, 07:13 - Rochane: Ce serait cool de la déposer dans notre banque bit.ly/iaedu10 🙂
+23/11/2023, 07:13 - Jean-Marc Everard: Ce message a été supprimé.
+23/11/2023, 07:14 - Jean-Marc Everard: Ok, je pensais qu’elle y était déjà. Je fais ça
+23/11/2023, 07:27 - Rochane: Concernant l'utilisation de chat GPt par les étudiant·e·s "Tout le travail du formateur et du tuteur est donc de lui expliquer l’importance d’apprendre des compétences transférables dans n’importe quel contexte plutôt que de seulement produire des résultats à court terme”. Bref, il faut privilégier une obligation de moyen à celle du résultat…"
+23/11/2023, 07:29 - ‎+32 499 10 21 99 a rejoint le groupe à partir de la communauté.
+23/11/2023, 07:30 - Rochane: "Les éditeurs des IA eux-mêmes ont abandonné l’idée de la détection ! La lutte anti-plagiat est perdue d’avance ». Toute tentative d’interdiction semble donc veine."
+23/11/2023, 07:35 - Rochane: Vous avez supprimé ce message
+23/11/2023, 07:40 - Vous avez changé la description du groupe
+23/11/2023, 07:47 - Rochane: "il doit mettre entre guillemet la zone de début et de fin, et mettre en note de bas de page le logiciel d’IA utilisé, la date et le prompt qui a servi à produire ce texte. Car au final, c’est dans ces prompts, qu’on voit sa logique de compréhension, sa progression intellectuelle"
+23/11/2023, 09:28 - Jacques BARATTI: ChatGPT Réinventé: comment le faire philosopher pour améliorer ses résultats
+Ou comment apprendre la technique du "step back prompting" avec notre ami l'escargot… c'est ici https://bit.ly/49LVugK
+23/11/2023, 09:39 - Jacques BARATTI: Est-ce que quelqu'un connait, ou a déjà utilisé Fireflies (https://bit.ly/3STyx5l) un outil d'enregistrement audio de réunion qui transcrit, résume et analyse les réunions ?
+23/11/2023, 09:40 - Ahmadou Ba: Voilà la question que je voulais d’ailleurs évoquer, la détection de texte produit par l’IA marche-t-elle vraiment?

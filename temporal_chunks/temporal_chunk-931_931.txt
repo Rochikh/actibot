@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 16
+
+=== CONTENU ===
+13/09/2024, 07:35 - +32 479 58 54 12: Même avec l'abonnement payant ? 🤔
+13/09/2024, 07:51 - +33 6 72 75 43 48: Bonjour Rochane je reprend le fil des conversations après 48 h « d’absence » du coup j’en perd le sens 😌de quel outil parle tu ? Est ce en français possible ? Merci
+13/09/2024, 07:54 - Rochane: Hello Michele, notebooklm de Google ont mis hier une fonctionnalité nouvelle : se basant sur 1 ou plusieurs sources déposées, ça te génère un audio podcast avec une conversation entre deux IA sur le contenu des sources uniquement. Pour l'instant, ce n'est qu'en anglais
+13/09/2024, 08:03 - +33 6 72 75 43 48: Super merci 🙏 bonne journée
+13/09/2024, 08:33 - Jean-Marc Everard: Oh 😮. Il faut que j’essaie ça! Je suppose que ça fonctionne mieux si les sources sont en anglais aussi ? Parlant de notebooklm, savez s’il peut supporter des sources bilingues dans le document lui-même ? Genre, des Arrêtés royaux (Belgique)? J’ai un cas d’usage intéressant mais je crains que ça ne demande beaucoup de préparation en amont…
+13/09/2024, 08:49 - Rochane: Franchement ce truc est addictif 🙂
+Je lui ai mis une source en français sur le catalogue des formations 2024 à Bruxelles formation et une autre sur l'utilisation de Minecraft en éducation. Le résultat est juste sublimissime avec ce dialogue entre un homme et une femme sur le contenu 🤩
+Vraiment, il faut tester 😁
+13/09/2024, 09:00 - +212 644-562660: apparemment
+13/09/2024, 10:57 - Fred IA: Merci pour beaucoup pour l'info ! Ceux qui ont actuellement un abonnement "Chat GPT Plus" pourrait-il svp confirmer que ce nouveau modèle est déjà disponible ?  En France ? Merci par avance
+13/09/2024, 11:01 - +33 6 79 72 76 62: Moi c'est actif depuis ce matin
+13/09/2024, 11:04 - +33 6 77 84 11 24: Dispo aussi pour moi
+13/09/2024, 11:05 - Fred IA: Merci beaucoup pour vos retours 👍
+13/09/2024, 11:09 - ‎+32 488 02 00 97 a demandé à rejoindre le groupe.
+13/09/2024, 11:12 - ‎+32 488 02 00 97 a rejoint ce groupe grâce à son lien d’invitation
+13/09/2024, 11:24 - Fred IA: Autre news de ce jour : nouveau modèle de Mistral, dénommé Pixtral 12B, son tout premier modèle multimodal 😀

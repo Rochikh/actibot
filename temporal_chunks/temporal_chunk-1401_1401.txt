@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 25
+
+=== CONTENU ===
+bit.ly/iaedu2024
+Wsf snkf kcu
+12/12/2024, 20:31 - Francois Bocquet: va sur https://meet.google.com/wsf-snkf-kcu
+12/12/2024, 20:35 - +33 6 19 75 63 49: Je dois quitter la réunion mais je suis très intéressée par les documents que Luis Galindo a proposé de partager.
+12/12/2024, 21:04 - +213 661 96 97 18: J’ai raté le début du live et la présentation
+12/12/2024, 21:04 - +213 661 96 97 18: Dommage pour moi
+12/12/2024, 21:07 - +216 98 557 907: Merci
+12/12/2024, 21:13 - +33 6 25 14 08 75: Preneuse du replay. Impossible de suivre avec 2 enfants en bas âge 😭
+12/12/2024, 21:41 - martinyemani IA: Possiblement le replay sera publié
+12/12/2024, 22:26 - Rochane: Lien du Replay du live du 12/12/2024
+https://drive.google.com/file/d/1IM_bwGQP8hKmHBu93Y_RoqufmBEk90y1/view?usp=drivesdk
+12/12/2024, 22:26 - Vous avez épinglé un message
+12/12/2024, 22:35 - +213 661 96 97 18: Merci infiniment
+12/12/2024, 22:46 - ‎+33 6 03 55 50 99 a demandé à rejoindre le groupe.
+12/12/2024, 23:13 - ‎+596 696 89 00 88 a demandé à rejoindre le groupe.
+13/12/2024, 06:50 - ‎+33 6 03 55 50 99 a rejoint le groupe à partir de la communauté.
+13/12/2024, 06:50 - ‎+596 696 89 00 88 a rejoint ce groupe grâce à son lien d’invitation
+13/12/2024, 07:32 - ‎Riad est parti·e
+13/12/2024, 10:00 - +966 54 151 8749: null
+13/12/2024, 10:21 - ‎+33 6 87 38 31 24 est parti·e
+13/12/2024, 10:25 - Rochane: <Médias omis>
+13/12/2024, 10:56 - Francois Bocquet: Gemini 2.0 Flash expérimental. C'est une version spécifique de la famille Gemini, conçue avec un objectif particulier.
+Voici ce qu'il faut retenir de Gemini 2.0 Flash expérimental :
+Optimisation pour la vitesse et l'efficacité : "Flash" dans le nom indique que cette version a été optimisée pour être rapide et légère, ce qui la rend plus efficace en termes de ressources informatiques et de temps de réponse. Cela est crucial pour les applications qui nécessitent des interactions rapides et fluides.
+Dérivé de modèles plus grands : Gemini 2.0 Flash est issu d'un processus appelé "distillation", où les connaissances et les compétences essentielles d'un modèle plus grand (comme Gemini Pro) sont transférées vers un modèle plus petit et plus efficace. Cela permet de conserver une grande partie des capacités du modèle d'origine tout en réduisant sa taille et en améliorant sa vitesse.

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 14
+
+=== CONTENU ===
+21/10/2024, 10:04 - Clément Cahagne: Pour celles et ceux que ça intéresse : podcast du jour sur Rdv en terre digitale sur NotebookLM
+https://smartlink.ausha.co/rendez-vous-en-terre-digitale/notebooklm
+21/10/2024, 10:09 - Daniel Pappalardo: Je m'en sers régulièrement pour accompagner les élèves dans les apprentissages, mais aussi dans les jeux où ils peuvent interroger des personnages historiques.... Comparé à d'autres chatbots comme Mizou c'est vrai que c'est plus long à faire (mais quand on doit les programmer c'est encore plus long !) mais RGPD et pour le coup complètement gratuit ce qui n'est pas le cas des bots semblables sur le marché (botpress, snatchbot...)L'avantage est d'avoir un bot bien verrouillé sur ce qu'on lui demande de répondre (même si le LLM est possible) On essaye bientôt une version pour l'aide en ligne du site de la Drane de Corse. Encore merci à l'auteur du coup pour son travail précieux.
+21/10/2024, 10:26 - ‎+49 176 21724804 est parti·e
+21/10/2024, 12:10 - Rochane: https://philippesilberzahn.com/2024/10/21/la-grande-petoche-comment-la-france-va-rater-la-revolution-de-l-ia/
+L'article de Philippe Silberzahn dresse un constat alarmant sur l'attitude de la France face à l'intelligence artificielle (IA). Voici les principaux points à retenir :
+## Une peur généralisée de l'IA en France
+- La France a développé une peur irrationnelle des nouvelles technologies, en particulier de l'IA[1].
+- Lors d'une récente conférence sur l'IA pour des investisseurs, l'accent a été mis uniquement sur les risques et dangers, décourageant tout investissement[1].
+## Un retard d'investissement inquiétant
+- Pendant ce temps, les géants américains comme Meta, Amazon et Google investissent des dizaines de milliards de dollars dans l'IA[1].
+- La France risque de rater cette révolution technologique par manque d'investissement et d'ambition[1].
+## Les causes de ce blocage
+- Une obsession française du risque, alors que l'utilisation future d'une technologie est souvent imprévisible[1].

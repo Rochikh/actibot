@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 11
+
+=== CONTENU ===
+Préciser les mesures de sécurité et les politiques de conservation.
+Mettre à jour la politique pour inclure les obligations DSA/DMA si applicables.
+--
+25/01/2025, 23:12 - Vous avez épinglé un message
+26/01/2025, 09:21 - +33 6 03 06 04 34: Le sujet n’est pas sur sa capacité qui est indéniable et largement reconnue (cf Le tweet de Yann LeCun mais qu’il est clairement reconnu aussi pour être un cheval de Troie de la Chine. Si je devais faire un parallèle je prendrais les Instituts Confucius répartis dans le monde entier, cheval de Troie du softpower chinois qui se sont révélés des têtes de pont politiques extrêmement influentes et potentiellement dangereuses. DeepSeek relève de la même philosophie dans sa capacité à être adopté par le grand public en captant un maximum de données mondiales au profit de la Chine qui peut à tout moment refermer le robinet quand elle aura obtenu ce qu’elle est venue chercher. Car de nombreux articles commencent à s’interroger sur les capacités financières de DeepSeek pour entraîner de tels modèles sans que le pouvoir chinois soit derrière. Bref autant je peux comprendre l’intérêt que suscite ce modèle autant j’en appelle à la prudence pour son usage.
+26/01/2025, 09:24 - Rochane: Merci pour ce partage et d'ailleurs, excellent article au sujet de Deepseek ici par Benoit Raphaël
+https://generationia.flint.media/p/deepskeek-ia-gratuite-chine-reasoning-model?_bhlid=1c16df9857097dd58598da72fe616a42706e6eb4&utm_campaign=deepseek-la-petite-ia-chinoise-qui-surpasse-chatgpt&utm_medium=newsletter&utm_source=generationia.flint.media
+26/01/2025, 10:07 - Francois Bocquet: C’est pas faux mais remplace donc Chine par USA et relis le texte ;-) Ça fonctionne très bien !
+26/01/2025, 10:09 - +32 498 78 46 36: Bonjour,
+J'ai fait une recherche via l'actibot sans succès donc je me permet de revenir vers vous. Est-ce qu'il y a certain.e.s d'entre vous qui ont pu tester concrètement ChatGPT Operator ?
+J'aimerais savoir qu'est-ce que vous lui avez demandé de faire concrètement ? Si ça a fonctionné, ce que vous en pensez, etc.

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 19
+
+=== CONTENU ===
+30/07/2024, 11:46 - Votre code de sécurité avec ~ David a changé. Appuyez pour en savoir plus.
+30/07/2024, 11:47 - ‎+33 6 34 46 31 43 a demandé à ajouter Seb from Wooclap.
+30/07/2024, 12:56 - ‎Seb from Wooclap a été ajouté·e
+30/07/2024, 12:54 - ‎+33 6 34 46 31 43 a ajouté Seb from Wooclap
+30/07/2024, 15:16 - Votre code de sécurité avec +33 7 45 47 55 13 a changé. Appuyez pour en savoir plus.
+30/07/2024, 15:43 - +33 6 49 84 08 41: Rebonjour,
+J'aurais besoin de faire une synthèse d'e-mails traitant de certains thèmes précis de ma boîte pro (outlook).
+Existe-t-il une IA qui me permette de faire ça, sans que je me tape les 6 derniers mois de ma boîte mail ? 🥴
+30/07/2024, 15:44 - Céline Averseng: Salut @33785744116 !
+30/07/2024, 16:11 - +33 6 02 20 69 43: En effet toujours gratuit depuis 1an et toujours efficace, surtout pour les lettrines
+30/07/2024, 16:40 - Votre code de sécurité avec ~ David a changé. Appuyez pour en savoir plus.
+30/07/2024, 21:13 - +32 479 58 54 12: Et Claude aussi 🤔https://www.frandroid.com/culture-tech/2269166_intelligence-artificielle-cette-start-up-aspire-tellement-de-donnees-que-les-sites-doivent-reagir
+31/07/2024, 08:28 - Vincent DROUOT: Concernant Perplexity et comment ils indexent les sites web pour faire ses réponses, j’ai demandé à… Perplexity lui-même 😉 (j’utilise la version Pro avec Claude 3.5 Sonnet comme moteur LLM derrière).
+Et voici sa réponse, très détaillée :
+31/07/2024, 08:28 - Vincent DROUOT: https://www.perplexity.ai/page/how-perplexity-indexes-website-F3cXNGZvQcatnq.Go.Y2AA
+31/07/2024, 08:31 - Vincent DROUOT: News : Canva rachète Leonardo.AI
+31/07/2024, 08:45 - +33 6 19 29 82 01: Si on obtient Leonardo dans Canva ça va être génial.
+31/07/2024, 08:59 - +32 479 58 54 12: Mais je ne comprends toujours pas où ils stockent tout ça ? Quand on voit les serveurs gigantesques dont a besoin Google 🤔
+31/07/2024, 09:11 - Jacques BARATTI: Petit Quiz sur l'IA en 10 questions (merci Mickael !) https://view.genially.com/668fe04fc021520c065cbe46

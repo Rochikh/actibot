@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 17
+
+=== CONTENU ===
+À chacun de voir…
+14/05/2024, 17:37 - +33 7 85 94 69 69: J’ai pu faire des vidéos
+14/05/2024, 17:37 - +33 7 85 94 69 69: On est d’accord
+14/05/2024, 17:37 - Rochane: Tu peux taper dans l'outil recherche du groupe soit tricherie ou soit talents. Je ne sais pas exactement auquel tu fais refey
+14/05/2024, 17:39 - +32 479 58 54 12: J'ai un compte payant mais je ne vois rien de neuf 😟
+14/05/2024, 17:39 - Ahmadou Ba: Oui mais hier toutes la journée, j'ai voulu faire lew resulats d'un questionnaire csv, mais ca refusé devant au bout de quelques. Aprés l'apres midi j'ai activé le 4o et ca s'est fait en un clin d'oeil. Je ne sais pas si c lié
+14/05/2024, 17:40 - Ahmadou Ba: D'accord mais j'ai reinitiliasé mon whatsApp c pourquoi je pose la question.
+Merci beaucoup
+14/05/2024, 17:42 - +33 6 76 04 48 20: Ah… j’étais ce matin avec quelqu’un qui a le 4, et l’option apparaît bien
+14/05/2024, 17:44 - +32 479 58 54 12: Oui l'option 4o apparaît bien dans le menu mais quand je l'utilise c'est tout à fait semblable à la version précédente. Rien de neuf 🤔
+14/05/2024, 17:44 - +33 7 85 94 69 69: Elle a le speech en plus tu peux lui parler
+14/05/2024, 17:46 - +33 7 85 94 69 69: C’est dans l’audio et le mode vision qu’il est plus performant et rapide
+14/05/2024, 17:47 - +32 479 58 54 12: Ça c'est le cas depuis longtemps. Et toujours une voix très désagréable et monocorde.
+14/05/2024, 17:53 - Rochane: Oui mais la nouvelle n'est pas encore mise en vigueur
+14/05/2024, 17:53 - +33 7 85 94 69 69: Ouais sûrement j’ai jamais testé  qu’il me réponde par voix
+14/05/2024, 17:54 - Fred IA: Bonjour. De ce que j'en ai compris, les users payants peuvent utiliser gpt-4o jusqu'à 80 messages toutes les 3h. Et ensuite, ils peuvent basculer sur gpt 4 turbo. Tandis que les users gratuits ont une capacité de messages 5 fois plus petite sur gpt-4o ; et dès qu'elle est atteinte, ils peuvent basculer sur gpt 3.5
+14/05/2024, 18:22 - Fred IA: En complément : https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4-gpt-4-turbo-and-gpt-4o

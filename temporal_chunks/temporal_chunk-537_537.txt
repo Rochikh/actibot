@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 16
+
+=== CONTENU ===
+https://www.linkedin.com/posts/anthony-quinchon_voici-8-outils-ia-pour-taider-dans-la-prise-activity-7198921777018773504-Y2w3?utm_source=share&utm_medium=member_android <Ce message a été modifié>
+22/05/2024, 19:56 - +33 6 25 79 50 95: Merci Rochane pour ces précisions, c'est plus clair en effet
+22/05/2024, 19:57 - +32 479 82 01 20: Cela a un peu augmenté je pense...c'était 149 dollars quand j'ai créé mon compte récemment
+22/05/2024, 20:11 - +33 6 25 79 50 95: Ayant rejoint depuis peu la communauté, il me semble  avoir lu dans un des post et/ou entendu dans un de vos  précédentes webconfs : comment créer un RAG ?
+Pourriez-vous m'éclairer par exemple sur le robot conversationnel gratuit qui le permettrait : chatgpt, claude, mistral, hugging chat ?
+Comment le(s) paramétrer ?
+Avec quel(s) prompt(s) préalable(s) ?
+Enfin, existe-t-il par exemple un RAG ou GPT's spécialisé qui pourrait aider à se questionner puis mieux formuler les objectifs pédagogiques selon les taxonomies existantes telles que celle de Bloom ?
+Par avance merci pour vos retours et conseils. <Ce message a été modifié>
+22/05/2024, 20:17 - Clément Cahagne: https://chatgpt.com/g/g-PFh8fqvJz-le-redacteur-by-pauuse
+Have fun
+22/05/2024, 20:25 - +33 6 25 79 50 95: Merci pour ce partage.
+je ne peux hélas pas encore le tester car il faudra que je souscrive à la version payante ChatGPT plus
+23/05/2024, 01:05 - +33 6 65 65 01 37: Ce message a été supprimé.
+23/05/2024, 01:12 - +212 644-562660: vous avez une idée sur comment entrainer un chatbot de formation avec copilot ou chatgpt, ce serait vraiment cool si ca peut etre acceder depuis une plateform microsoft comme Teams ou Sharepoint
+23/05/2024, 05:41 - Letizia ALLEGRINI: Arnaud si ru cherches un rag gratuit tu peux utiliser poe ai ou opengpt. Attention opengpt est plus difficile d'accès et tu ne peux revenir sur ton prompt. Poe est plus accessible. Perplexity dans la version gratuite te permet d'inclure des pdf 3 par jour mais pas de créer des gpts. J'espère que j'ai pu répondre à ta question. 😀

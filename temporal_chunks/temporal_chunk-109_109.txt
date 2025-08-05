@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+23/11/2023, 14:28 - Ahmadou Ba: Je viens de le tester mais il ne reconnait aucun de mes fichiers pdf ou excel
+23/11/2023, 14:28 - Ahmadou Ba: J'ai raté quelques choses ?
+23/11/2023, 14:29 - Rochane: Moi je lui ai mis un pdf et un Word, ça a bien marché. Essaie d'enregistrer ton excel en PDF ?
+23/11/2023, 14:34 - Ahmadou Ba: Effectivement j'ai téléchargé dans la mauvaise bibliothèque
+23/11/2023, 15:23 - +32 498 78 46 36: Hello, je ne sais pas si ce lien a déjà été posté mais voici le site de Sébastien Place (https://splc.be/) expert Microsoft Education qui met parfois (de + en +) le focus sur l'IA pédagogique <Ce message a été modifié>
+23/11/2023, 16:03 - Jean-Marc Everard: Comment peut-on accéder à la banque de donnée constituée (et non la page de contribution) pour vérifier que ce que l’on veut partager n’y est pas déjà ? J’ai dû louper un lien mais pour mon excuse c’est dû à la richesse des échanges ici 😀
+23/11/2023, 16:04 - Rochane: bit.ly/iaedu11 pour une vue en tableau et bit.ly/iaedu12 pour la vue galerie ( plus jolie)🙂 <Ce message a été modifié>
+23/11/2023, 16:17 - Jean-Marc Everard: Merci beaucoup
+23/11/2023, 16:31 - Jean-Marc Everard: Je viens d’ajouter cette ressource à la DB (uniquement en anglais et pas centrée seulement sur l’éducation ou les edtech) qui donne un peu le vertige sur la rapidité d’apparition des IA’s en ce moment mais intéressante selon moi : https://theresanaiforthat.com/
+23/11/2023, 16:35 - Rochane: Top et depuis hier l'automatisation est faîte avec dall E3 et ça génère de plus belles photos dans la galerie
+23/11/2023, 19:57 - Rochane: Classement des GPTs https://assistanthunt.com/leaderboard
+23/11/2023, 20:03 - Ahmadou Ba: C vraiment top
+24/11/2023, 15:41 - Guillaume CLEMENT: https://www.linkedin.com/posts/christophetrain_openai-vient-de-lancer-un-truc-qui-pourrait-activity-7133816575987453952-omJV?utm_source=share&utm_medium=member_desktop
+OpenAI vient de lancer un truc qui pourrait bien révolutionner le monde de l'IA. 👉 Ils appellent ça Q*, et c'est pas juste une IA ordinaire.

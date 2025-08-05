@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 11
+
+=== CONTENU ===
+25/11/2024, 16:01 - +212 631-698223: null
+25/11/2024, 16:03 - +33 6 70 57 72 80: Wrike
+25/11/2024, 17:56 - +33 6 20 97 18 83: Il y a Ninjachat qui est une plate-forme qui réunit toutes les IAG au même endroit avec la possibilité de les utiliser simultanément à partir  d'un seul prompt. Elle offre une fonctionnalité "text naturalizer". En version gratuite elle est limitée en nombre de messages (mais je ne souviens plus à combien ).
+25/11/2024, 18:12 - Centre Richard: Wonderful
+25/11/2024, 18:19 - StéphaneIA: Pour Gemini dans Google workspace effectivement il n'en petit pas faire des actions grands les applications comme par exemple lister tous les fichiers fin dossier ou chercher un contenu dans un dossier spécifique. Le vision qu'il fait en avoir dans drive et Gmail. Vous lui donnez un prompt à partir de cela il fait une recherche dans Gmail ou drive, il sélectionne des documents, extrait le contenu et rédige sa réponse.
+25/11/2024, 18:20 - StéphaneIA: Ça reste une ia generative, il n'est pas capable de faire des actions, il source du contenu et à partir de cette data fait sa réponse.
+25/11/2024, 18:20 - StéphaneIA: Si jamais ça peut intéresser du monde je pourrai faire une démo
+25/11/2024, 18:40 - Votre code de sécurité avec ~ Pontiac Florent a changé. Appuyez pour en savoir plus.
+26/11/2024, 00:36 - ‎+351 935 982 467 a demandé à rejoindre le groupe.
+26/11/2024, 09:31 - +33 6 19 75 63 49: Bonjour utilisateurs de Poe, j’aimerais avoir votre avis sur cet outil (est-ce qu’on a vraiment tout DallE, la dernière version payante de Claude, la dernière version payant de ChatGpT…), savoir si l’un.e d’entre vous a déjà testé la formule à 10 euros, et aussi savoir si, si je crée un chatbot sur Poe avec un compte payant, mes étudiants peuvent 1) y accéder sans compte et avec assez de tokens pour avoir une discussion d’une vingtaine d’échanges 2) m’envoyer le lien de leur conversation comme ils le font actuellement avec ChatGPT. Merci!
+26/11/2024, 09:39 - +33 6 19 75 63 49: …sans compte *payant* du moins

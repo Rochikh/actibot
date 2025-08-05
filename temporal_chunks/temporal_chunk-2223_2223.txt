@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 18
+
+=== CONTENU ===
+04/06/2025, 19:41 - Anthony Quinchon: Mercii Rochane !
+N’hésitez pas à venir me DM si intéressé !
+04/06/2025, 20:20 - Rochane: Save the date: prochain live le mardi 24 juin à 20h, heure Paris. Programme alléchant en vue 😁
+04/06/2025, 21:27 - Votre code de sécurité avec +237 99148639 a changé. Appuyez pour en savoir plus.
+04/06/2025, 21:36 - Rochane: New! Désormais, il est possible de partager vos NotebookLM publiquement, idem pour les podcasts
+05/06/2025, 06:33 - +32 498 78 46 36: Bonjour, j'avais mis un lien (plus haut) vers mon article qui parle de ce sujet touchy (avec la difficulté d'avoir des sources récentes, chiffrées, fiables, objectives).
+Il y a beaucoup de paramètres en compte pour pouvoir faire des points de comparaison en matière environnementale et énergétique (entraînement d'un modèle, inférence utilisateur, etc)
+Au pire revoilà l'article :
+https://www.linkedin.com/pulse/analyse-du-co%C3%BBt-environnemental-des-ia-g%C3%A9n%C3%A9ratives-en-johan-creeten-wvgoe?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+05/06/2025, 06:40 - +32 498 78 46 36: Vous avez trouvé ? Car j'ai peut être qqun qui est sur Namur justement
+05/06/2025, 06:44 - +32 498 78 46 36: Voici la chaîne YouTube de Jérôme Fortias qui a souvent des avis intéressants sur l'IA
+https://youtube.com/@lelabduvieuxgeek?feature=shared
+05/06/2025, 06:48 - Clément Cahagne: Je crois qu'il a trouvé oui ;-)
+05/06/2025, 07:28 - Batier Christophe: Dans un récent article du 20 mai voici u e compile de data sur L'empreinte énergétique de l'IA : des chiffres qui donnent le vertige.
+Morceaux choisis de cette publication MIT Tech Review:
+- La consommation d'électricité des centres de données a doublé entre 2017 et 2023 sous l'impulsion de l'IA, brisant une décennie de stabilité.
+- D'ici 2028, l'IA seule pourrait consommer annuellement autant d'électricité que 22% de l'ensemble des foyers américains.
+- L'entraînement du modèle GPT-4 a  consommé 50 gigawatt-heures d'énergie, soit l'équivalent de la consommation de San Francisco pendant trois jours.

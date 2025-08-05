@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 17
+
+=== CONTENU ===
+23/02/2025, 11:08 - +33 6 86 05 85 44: Merci 🙏
+23/02/2025, 13:40 - +33 6 62 83 20 00: Bonjour à tous,
+Je cherche à concevoir des modules de formation (slides + quizz)) à partir de ressources composés de PDF, de word et de powerpoint qui contiennent du texte et des images. Quel outil IA me conseillez-vous pour faire ça (qui sache de préférence créer les diapositives et les mettre en forme) ?
+23/02/2025, 13:41 - +33 6 84 84 42 61: Co assemble
+23/02/2025, 13:42 - +33 6 84 84 42 61: Tu peux aussi faire ça avec l outil création de cours dans Canva
+23/02/2025, 13:44 - +33 6 62 83 20 00: l'objectif est que l'IA aille chercher dans les ressources et recomposer des slides à partir des infos qu'elle va agréger dans les différents documents, moi je viendrai ensuite compléter/corriger les slides générés <Ce message a été modifié>
+23/02/2025, 15:10 - Rochane: Tu connais gamma.app ?
+23/02/2025, 15:12 - +213 558 04 82 89: Gratuit ou accès limité ?
+23/02/2025, 15:12 - Rochane: La meilleure formation qui existe sur le marché en France, sur l'usage des LLM comme ChatGPT, je pense sincèrement que c'est celle-ci
+https://flint.podia.com/formations-chatgpt <Ce message a été modifié>
+23/02/2025, 15:12 - +33 6 84 84 42 61: 10 euros par mois limité à 15 slides
+23/02/2025, 15:13 - Rochane: 400 crédits gratuits sachant que chaque présentation c'est 40 crédits
+23/02/2025, 15:21 - +33 6 62 83 20 00: ou je connais Gamma et les limites même en payant (50 slides) sont vite atteintes
+23/02/2025, 15:38 - +33 6 62 83 20 00: et Gamma ne sait pas extraire les images des documents sources pour les intégrer dans les slides générées
+23/02/2025, 15:39 - +33 6 71 11 12 91: Tu as essayé napkin.ai ?
+23/02/2025, 15:41 - +33 6 62 83 20 00: oui j'ai testé mais idem napkin ne fait que générer des visuels et chart à partir de textes mais ne sait pas recomposer avec des images réelles
+23/02/2025, 15:46 - +33 6 62 83 20 00: En tant que formateurs on a déjà nos supports de formation en ppt avec textes et visuels qu'on a travaillé et ce qu'on a besoin souvent c'est générer à partir de ces supports un module avec quelques critères de personnalisation

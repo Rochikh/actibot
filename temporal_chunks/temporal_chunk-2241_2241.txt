@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 16
+
+=== CONTENU ===
+•	Le responsable du traitement doit s’assurer que le sous-traitant offre des garanties suffisantes pour assurer la sécurité et la confidentialité des données.
+•	Le contrat de sous-traitance doit préciser les obligations du sous-traitant, notamment le fait qu’il ne peut traiter les données que sur instruction du responsable du traitement.
+•	La sécurité des données doit être assurée par des mesures techniques et organisationnelles appropriées.
+13/06/2025, 14:11 - Francois Bocquet: Donc pour moi au Maroc il y a les mêmes obligations qu’en Europe pour la gestion de la sous traitance (vérifier dans le texte s’il y a l’équivalent de l’article 28 du RGPD sur l’accord de sous traitance).
+13/06/2025, 14:14 - Francois Bocquet: Le contrat de sous traitance est bien obligatoire issu au Maroc. https://fido.ma/fr/guide/sous-traitance-data/
+13/06/2025, 14:15 - +33 6 65 65 01 37: C’est ce que j’ai en tête avec comme différence principale d’un « contrôle » avant plutôt qu’à posteriori si j’ai bien compris.
+13/06/2025, 16:06 - Votre code de sécurité avec ~ Eric Pradal accompagnateur Vae a changé. Appuyez pour en savoir plus.
+13/06/2025, 16:21 - Votre code de sécurité avec ~ Eric Pradal accompagnateur Vae a changé. Appuyez pour en savoir plus.
+13/06/2025, 16:46 - Votre code de sécurité avec ~ Eric Pradal accompagnateur Vae a changé. Appuyez pour en savoir plus.
+13/06/2025, 17:09 - Votre code de sécurité avec ~ Eric Pradal accompagnateur Vae a changé. Appuyez pour en savoir plus.
+13/06/2025, 17:14 - ‎+33 6 74 39 90 60 a demandé à ajouter +33 6 60 39 04 94.
+13/06/2025, 18:15 - Votre code de sécurité avec ~ Eric Pradal accompagnateur Vae a changé. Appuyez pour en savoir plus.
+14/06/2025, 02:36 - ‎~ Christophe BAILLEUL a ajouté +33 6 60 39 04 94
+14/06/2025, 02:37 - Rochane: Comment passer d'un audio podcast de NotebookLM ( ou d'ailleurs) à une vidéo de façon très simple
+https://youtu.be/Mf9F6j_RWpI?feature=shared
+14/06/2025, 04:06 - Gregoire IA: J'ai bien hâte que heygen le propose. Pour le moment on doit générer 2 vidéos et préparer l'audio comme il faut

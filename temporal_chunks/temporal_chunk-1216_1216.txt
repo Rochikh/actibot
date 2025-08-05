@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 19
+
+=== CONTENU ===
+11/11/2024, 12:18 - +33 6 66 98 84 23: Quel fuseau ?
+11/11/2024, 12:20 - Rochane: C'est marqué les amis, lisez 🙂
+Fuseau Bruxelles 🙂
+11/11/2024, 13:25 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+11/11/2024, 13:52 - +33 6 65 65 01 37: Bonjour à toutes et tous, je me suis inscrit individuellement sur Nolej et ça fait un sacré boulot mais une fois la période d’essai terminée, il n’y a pas de solution individuelle ?
+11/11/2024, 13:53 - +33 6 65 65 01 37: Et avez vous une idée du coût pour une structure ? (Je ne sais pas quels sont les critères de facturation…)
+11/11/2024, 16:54 - +32 495 25 73 66: https://community.openconversational.ai/
+11/11/2024, 16:57 - +33 6 76 04 48 20: Je ne serai pas disponible à cette heure.
+Y aura-t-il un enregistrement ?
+11/11/2024, 17:29 - Jean-Marc Everard: Bonjour Richard, ou ce sera enregistré.
+11/11/2024, 17:30 - +33 6 76 04 48 20: Super 👍
+Merci 🙏
+11/11/2024, 17:51 - +33 6 72 75 43 48: Bonsoir je cherche une intelligence artificielle qui permet de modifier les paroles d’un clip de chanteur , une idée ? Merci
+11/11/2024, 17:51 - Zaragoza JUAN JOSÉ IA: SUNO.COM
+11/11/2024, 17:52 - Zaragoza JUAN JOSÉ IA: Il y a une fonction pour cloner la voix.
+11/11/2024, 17:53 - +33 6 72 75 43 48: Merci je vais tester
+11/11/2024, 17:54 - +33 6 66 98 84 23: Bonjour, quelqu'un a t'il essayé de transcrire le rapport en français ? J'ai essayé avec les outils gratuits mais il est trop long. Même DeepL ne veut pas !Merci
+11/11/2024, 18:50 - +33 6 62 05 94 71: D'où l'utilité des traducteurs humains, considérés comme coûtant cher mais mal payés au final. La tâche est énorme, c'est pourquoi les traductions du document dans différentes langues est toujours largement différée. Si on me paye, je le fais, délai 8 jours 😆
+11/11/2024, 18:55 - Fred IA: Bonsoir. Je ne retrouve pas l'astuce donnée sur ce canal pour générer un podcast en français via Notebooklm. De mémoire, il fallait saisir une commande particulière.. Si certains s'en rappellent, ce serait génial, merci par avance

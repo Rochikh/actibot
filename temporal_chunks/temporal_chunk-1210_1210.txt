@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 552
+Messages: 13
+
+=== CONTENU ===
+10/11/2024, 08:42 - ‎+32 486 29 51 57 est parti·e
+10/11/2024, 09:56 - +33 6 46 86 16 67: Merci pour la vidéo ! On conseille le RAG mais sans savoir que ça s’appelait comme ça 😃 ma, c’est plus clair, merci ! Quels sont tes top outils ?
+10/11/2024, 11:08 - +33 6 19 75 63 49: <Médias omis>
+10/11/2024, 11:10 - Lucie: <Médias omis>
+10/11/2024, 11:10 - Lucie: <Médias omis>
+10/11/2024, 11:11 - Lucie: Je viens de regarder. C'est sur PC et sur Téléphone mais plus difficile à voir sur le téléphone.
+PC : cliquer sur "voir un exemple"
+Smartphone : cliquer sur ✨
+10/11/2024, 11:14 - +33 6 58 35 08 39: Merci pour la vidéo, elle est super. D’un point de vue pratique, il faudrait donc associer l’art du prompt (avec la méthode CADREZ de Lucie par exemple 😉) avec le RAG en offrant des documents pour optimiser la réponse ? Cette notion reste encore un peu floue pour moi et j’essaie de bien comprendre comment la mettre entre les mains de formateurs ou d’enseignants qui vont se former aux usages de l’IA
+10/11/2024, 11:14 - +33 6 34 25 63 34: Bonjour la communauté ! Merci pour l'acceptation.
+Je suis Florian, prof de maths en collège REP+ depuis 8 ans et mordu de technologies ! J'ai déjà expérimenté plusieurs choses dans et hors classes avec l'IA et serais ravi d'échanger avec vous 😀
+10/11/2024, 12:09 - StéphaneIA: Bonjour pour la partie RAG c'est une technique pour fournir à un llm des sources de données afin de l'aider à construire sa réponse. Cela nécessite une base de données vectorielle et de couper les sources d'infos volumineuse en plus petits morceaux. Mettre un pdf en contexte ce n'est pas du RAG à proprement parlé. La technique est proche mais sur un gros volume de données le contexte sera insuffisant. Google s'en sort mieux avec un contexte de 2 millions de tokens mais les autres c'est beaucoup moins.
+10/11/2024, 13:31 - Gregoire IA: Pour compléter ce que dit @33688213252 : une vidéo sur le RAG que j'avais fait en début d'année. On peut y aller bcp plus simplement avec ce que j'appelle le RAG101 qui consiste à televerser ses fichiers dans la conversation ou dans un bot comme j'avais pu le montrer à @23777676509  dans'une petite rencontre où nous avions terminé à presque 10

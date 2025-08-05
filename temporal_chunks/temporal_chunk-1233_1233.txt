@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 11
+
+=== CONTENU ===
+13/11/2024, 12:02 - Jean-Marc Everard: Bonjour Clotilde, bonne suggestion. Je pense que la date avait été annoncée mais en effet je n’ai mis l’évènement que pendant le long WE. Je vais mettre le replay très bientôt.
+13/11/2024, 12:14 - +33 6 80 25 63 41: Un petit groupe d’entraide sur ce sujet serait peut être une bonne idée ?
+13/11/2024, 12:14 - +33 6 20 97 18 83: @33619756349   je serai ravie de pouvoir échanger sur la demarche d' ingénierie pédagogique pour les langues avec les IA. J'ai également utilisé Elevenlab pour la proposition de ressources audio (cours asynchrone). Sinon en anglais, pour la prononciation, ChatgptVoice propose une décomposition syllabique du mot et indique pour l'intonation où l'accent doit être placé ou pas. C'est une approche que j'adopte aussi avec mes étudiants qui ne sont pas des étudiants de parcours  LEA ou LLCE et pour qui l'API est plus du hieroglyphe. Mais, Je leur fournis quand même l'API en référence.  Je ne sais pas pour les autres IA mais Claude et ChatGpt connaissent le système phonetic API.
+13/11/2024, 13:14 - ‎+212 700-150296 a demandé à ajouter +212 699-494952.
+13/11/2024, 14:24 - ‎+212 700-150296 a ajouté +212 699-494952
+13/11/2024, 14:54 - Rochane: <Médias omis>
+13/11/2024, 15:08 - Rochane: TTSMAKER convertit des textes en audios avec différents accents. Ils nous expliquent que c'est gratuit
+13/11/2024, 15:13 - +33 6 19 75 63 49: Pour une liste des outils en langues, voir aussi du côté de Joe Dale qui les liste régulièrement <Ce message a été modifié>
+13/11/2024, 15:13 - ‎+33 6 69 98 28 93 a demandé à rejoindre le groupe.
+13/11/2024, 15:15 - ‎+33 6 69 98 28 93 a rejoint le groupe à partir de la communauté.
+13/11/2024, 15:15 - +33 6 19 75 63 49: La question que je me pose est la suivante: nous faisons travailler tous nos groupes en langues sur ChatGPT ou d’autres IA (production écrite, interaction écrite, interaction orale, compréhension écrite adaptative et lexique, recherche…) et nous trouvons que c’est un avantage MAIS en le faisant nous ne rendons pas un service à l’environnement: si on me posait la question de l’empreinte carbone de mes activités, je serais bien embêtée

@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 603
+Messages: 7
+
+=== CONTENU ===
+Peut-être cela peut aider à clarifier nos réflexions sur le sujet ? Car ChatGPT est lui très fort en techniques de “mélange”, ce qui donne l’impression d’être créatif, mais techniquement, il n’utilise que des choses qui ont déjà été écrites, avec un style déjà existant, mais il sait le faire de manière élégante et raffinée, et rapide, ce qui donne l’impression qui est un artiste.
+Ce qui est déroutant également, c’est quand on lui demande son avis, ou bien, de juger une oeuvre, alors il donne un avis, mais pareil, il redit souvent ce que d’autres on déjà écrit.
+Mais, pour ajouter à complexité de la question, il y a aussi la capacité pour ces machines d’avoir des comportements (ou des réponses) inattendu, par la manière dont elles sont conçues. Il y a un part d’aléatoire, de surprenant, comme avec Midjourney, qui rend la machine “créative”. Mais c’est comme en langage BASIC, lorsque vous demandez que la machine vous donne un chiffre au hasard RANDOM, cela donne une impression de liberté et de créativité, mais qui est très limitée.
+Aller, pour finir, on pourrait aussi ajouter que la musique et les couleurs sont basées sur des nombres et que Mozart se servait beaucoup du nombre d’Or pour composer, et on voit ce que cela peut donner, le rationnel et l’inspiration (intuition) 👨‍🎨
+03/06/2024, 22:30 - +33 7 63 58 01 55: J'ai lu qq part que l'IA était un perroquet stochastique. Mais l'être humain n'est-il pas un perroquet stochastique très sophistiqué, au fond ? Après tout, Picasso disait que "les bons artistes copient, les grands artistes volent".
+L'IA puise dans le déjà existant, ce qui donne l'impression de créativité. Mais l'artiste à qui on donne sans réserve le statut de "créatif" s'y prend-il différemment ? (plus ou moins consciemment)
+03/06/2024, 22:37 - Vincent DROUOT: Pour moi la grande différence entre les machines et nous, c’est qu’elle n’ont pas d’âme et un coeur, et que les machines n’en auront jamais, même si on arrive à les programmer pour qu’elles imitent le comportement humain. Un scientifique disait la semaine dernière au MIT : “ne vous y trompez pas, même si vous programmez des limites éthiques ou morales à une IA, pour elle, ce ne seront que des programmes qu’elle pourra (ou que quelqu’un) ignorer. C’est une nouvelle forme d’intelligence qui vient d’émerger sur Terre, il va falloir apprendre à vivre ensemble, avec tous les risques que cela suppose.”

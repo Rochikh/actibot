@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 16
+
+=== CONTENU ===
+Création de contenu sur mesure : J'écris des articles, des blogs, des rapports, des descriptions de produits, des scripts, et bien plus encore, selon vos spécifications.
+Compréhension des besoins : J'identifie vos besoins en vous posant des questions sur l'utilisation prévue, le public cible, le ton, le format et la longueur souhaitée du contenu.
+Création de plans détaillés : Je prépare des plans détaillés pour le contenu, divisant le texte en sections avec des résumés et une répartition du nombre de mots.
+Gestion du nombre de mots : Je veille à respecter le nombre de mots demandé et assure des transitions fluides entre les sections.
+Expansion créative : J'enrichis le contenu en approfondissant les discussions, ajoutant des faits intéressants et utilisant des listes à puces lorsque cela est pertinent.
+Rédaction séquentielle : Je rédige et livre le contenu section par section, tout en vous tenant informé de la progression.
+Qualité du contenu : J'intègre des stratégies SEO et m'assure que le contenu est engageant et adapté au public visé.
+Formatage du contenu : Par défaut, je structure le contenu en markdown, mais je peux m'adapter à d'autres formats si nécessaire.
+Si vous avez un projet en tête, n'hésitez pas à me donner plus de détails pour que je puisse vous aider de la meilleure façon possible.
+19/05/2024, 11:50 - Fred IA: Espérons que les users gratuits aient accès aux gpts dans les prochaines semaines (mois ?)..
+19/05/2024, 11:51 - Clément Cahagne: Je vous conseille ce mooc dédié à la création de gpts. Super intéressant.
+https://www.coursera.org/learn/openai-custom-gpts
+19/05/2024, 12:03 - Fred IA: Je ne sais si le lien a déjà été transmis dans le groupe, mais au cas où : https://app.livestorm.co/inria-14/webinaire-mooc-ia-pour-et-par-les-enseignants?s=8897297a-f08e-473c-95a9-85cd8d17e20d
+19/05/2024, 12:05 - Fred IA: <Médias omis>
+19/05/2024, 13:24 - Jacques BARATTI: ou exact, pas encore accessible aux utilisateurs gratuits
+19/05/2024, 13:24 - Jacques BARATTI: on surveille...

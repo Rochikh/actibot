@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 24
+
+=== CONTENU ===
+05/09/2024, 22:41 - ‎+33 6 74 64 14 15 est parti·e
+05/09/2024, 22:55 - ‎+32 473 58 39 15 est parti·e
+05/09/2024, 22:50 - +237 6 56 90 71 30: Bonsoir à tous.
+Je cherche une IA gratuite qui permet de changer du texte en visuels tels que graphiques, modèles schématiques, figures etc.
+Merci d'avance 🙏
+05/09/2024, 22:51 - +212 644-562660: Claude
+05/09/2024, 22:51 - +212 644-562660: En l'occurence Not diamond
+05/09/2024, 22:51 - +237 6 56 90 71 30: Merci🙏🏾
+05/09/2024, 22:52 - +237 6 56 90 71 30: Je m'en vais l'essayer de ce pas
+05/09/2024, 22:53 - +32 479 58 54 12: Et pourtant, parmi les ressources proposées par Google, la qualité n'est absolument pas garantie 😄
+05/09/2024, 22:56 - Ahmadou Ba: Eh oui, exactement.😅
+06/09/2024, 06:58 - ‎+33 6 43 70 28 33 a demandé à rejoindre le groupe.
+06/09/2024, 09:49 - +262 692 05 20 05: Je découvre un projet français impressionnant :
+https://mammouth.ai/chat
+Est-ce vous l’avez déjà testé ?
+06/09/2024, 10:33 - Rochane: Dommage qu'il n'y ait pas de plan Free pour tester. Perso, je ne connaissais pas
+06/09/2024, 10:36 - ‎+33 6 43 70 28 33 a rejoint le groupe à partir de la communauté.
+06/09/2024, 10:39 - +262 692 05 20 05: Il y a une offre de test avec cette présentation :
+https://youtu.be/X11Iljng5DM?si=tC2UiahGbhG14QAY
+06/09/2024, 10:43 - Rochane: <Médias omis>
+06/09/2024, 11:07 - +33 6 70 02 97 35: Bonjour 👋, j’ai une petite question sur l’utilisation de l’IA dans les ressources humaines. Est-ce que quelqu’un aurait des idées à ce sujet ? Comment l’IA peut-elle aider les RH, et quels outils gratuits peuvent-ils utiliser ? ☺️
+06/09/2024, 11:47 - Ahmadou Ba: Les IA peuvent tout faire, il suffit de bien rediger la requête et lui faire un exemple pour personnaliser la sortie.
+Voici une façon de bien débuter :  Demander à n'importe quelle IA les tâches RH puis demander lui comment elle peut t'aider à les optimiser. ChatGPT, Claude, perplexity, Gemini sont les patrons actuellement et ils sont gratuit.
+06/09/2024, 11:52 - Hoang: Bonjour, les possibilités d'utilisation sont très vastes, il serait avant tout important de déterminer vos besoins RH? afin de déterminer quel type d'outil IA peut vous aider ou en tout cas pour formuler les promptes nécessaires.

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 11
+
+=== CONTENU ===
+👀 Quel rapport avec l'IA ? Et bien son équipe et lui ont identifié un modèle dans le sport de haut niveau qu'ils parviennent à retrouver et à calquer sur d'autres domaines (climat, politique, ...).
+⛹🏽 En l'occurrence, le modèle de base (sur le sport), présente une courbe montante à partir du début du 20e siècle où des records étaient régulièrement battus. La courbe s'accentue encore après WWII pour finalement ralentir et stagner dans les années 80, pour arriver à la situation d'aujourd'hui (courbe descendante) où il n'y a plus beaucoup de records battus.
+Leur modèle fonctionne également à l'échelle individuelle, l'âge de 20-25 ans étant le paroxysme de la courbe du sportif.
+👉🏼 *Pour revenir à l'IA, son hypothèse est que le modèle s'appliquera aussi :* _performances de l'outil x contraintes techniques et environnementales = plafond de verre_ (en gros)
+😅 Bon, moi je ne suis pas chercheur et, après 2 - 3 apéros, je ne suis plus sûr des détails ni du nom du type, mais en gros c'est ça. Si ça vous intéresse, je peux récupérer la source
+30/07/2024, 07:28 - +32 479 58 54 12: Oui. C'est un sujet qui n'est pas vraiment abordé dans les publications. Et garder une base de données à jour des ressources du Web ce n'est pas une mince affaire 🤔
+Si quelqu'un a des ressources pour comprendre ce point, elles sont les bienvenues 🙂
+30/07/2024, 07:38 - +32 479 58 54 12: Et comprendre comment les IA sélectionnent les ressources citées c'est essentiel pour savoir si l'on peut s'y fier, si elles sont biaisées par les techniques SEO et si elles sont complètes. D'après mes tests, les bases de données opensource, notamment, sont "oubliées" par les IA.
+30/07/2024, 07:44 - Pierrick BRIAND: Oui, c’est assez ressemblant à ce que fait déjà Perplexity. Il faut dire aussi que le marché est assez juteux sur le Search. À quand la publicité sur les résultats des recherches IA ?
+30/07/2024, 07:47 - Pierrick BRIAND: Ah oui! Mais pourtant les IA accèdent bien à Wikipedia ?
+30/07/2024, 07:51 - +32 479 58 54 12: ( je parlais d'open data, pas d'open source, bien sûr 😏)

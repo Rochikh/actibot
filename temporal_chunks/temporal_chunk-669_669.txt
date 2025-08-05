@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 21
+
+=== CONTENU ===
+23/06/2024, 19:07 - +33 6 76 04 48 20: Aïe… ce lien envoie sur une page blanche en l’utilisant sur iPhone.
+On n’est pas sortis de l’auberge… 😂😂😂
+23/06/2024, 19:08 - Rochane: <Médias omis>
+23/06/2024, 19:08 - +33 6 76 04 48 20: C’est plausible, mais ça devrait fonctionner sur pc…
+23/06/2024, 19:08 - +33 6 76 04 48 20: Oui, je suis passé par cette page sur le PC, mais ensuite plus rien…
+23/06/2024, 19:10 - Francois Bocquet: On a la même sur iPhone
+23/06/2024, 19:10 - Francois Bocquet: La connexion fonctionne avec l’ID Apple puis page identique à l’accès pc
+23/06/2024, 19:11 - +33 6 76 04 48 20: J’entrevois la solution : en tapant dicte.ai sur Google, ça permet de se connecter sur le site Internet dans lequel on explique qu’il s’agit d’une version bêta.
+À partir de là, visiblement il y a possibilité de se connecter, mais je ne sais pas encore, si c’est faisable également sur iPhone .
+Je découvre à l’instant
+23/06/2024, 19:22 - Fred IA: Version beta iOS :
+- Installation Facile : Dicte "version beta test" est disponible sur iOS. Pendant la phase de test beta vous pouvez la télécharger sur votre iPhone avec la procédure officielle suivante :
+- Etape 1 : Installation de l'application Testflight (fournie par Apple gratuitement).
+- Etape 2 : Après avoir installé Testflight, fermer l'app. Si l'app demande un code, ignorez et fermer Testflight
+- Etape 3 : Cliquez sur ce lien depuis votre iPhone pour lancer l'installation de Dicte : https://geed.in/dicte
+Le tutoriel d'installation de la version de test est disponible ici :  https://www.dicte.ai/fr-fr/beta/dicte-ios-beta-testing-information
+23/06/2024, 19:22 - Fred IA: Je viens de tester sur iPhone avec cette procédure et ça semble fonctionner
+23/06/2024, 19:23 - +33 6 76 04 48 20: Je suis en train de la suivre…
+23/06/2024, 19:24 - +33 6 76 04 48 20: On me demande un code que je n’ai pas…😰
+23/06/2024, 19:24 - +33 6 76 04 48 20: Un code d’invitation non reçu
+23/06/2024, 19:25 - +33 7 56 26 41 48: Sur Android ça marche même sans le code d’activation

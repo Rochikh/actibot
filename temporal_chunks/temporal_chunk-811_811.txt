@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+Je m'éclate toujours autant avec Mistral qui me corrige mes conversions PDF scanné > Word 🤭.
+En revanche, il bugue régulièrement après une certaine quantité de texte... Ça vous le fait aussi ?
+Vous auriez une astuce pour le relancer sans qu'il recommence depuis le début ?
+07/08/2024, 14:48 - +33 6 37 28 05 42: https://www.facebook.com/share/p/JwNn9Wwp1AtJQBC5/?mibextid=K35XfP
+07/08/2024, 15:14 - Hoang: Bonjour à tous, avez vous pu tester ce GPT ? Website Instantly 🌠Multipage --> via ChatGPT? j'aimerai créer un site internet pour mon EPN en y intégrant par la suite du contenu pédagogique en ligne (payant à ce moment la), mon objectif serait de créer un site qui pourrait être aussi utilisé comme plateforme d'apprentissage pour des formations, etc,..
+07/08/2024, 15:17 - +212 644-562660: Non pas encore pour moi. Mais essai aussi avec Websim AI si t en as pas encore essayé
+07/08/2024, 15:18 - Hoang: merci je vais voir cela aussi, j'avais testé Webflow mais c'est quand même assez complexe et va me demander trop de temps pour personnaliser chaque point
+07/08/2024, 16:52 - +33 6 52 49 10 78: Merci Yann. Il semblerait que l'on doit payer à la requête. Je cherche une solution open source et gratuite. Je suis en train d'essayer des solutions en local mais ça me prend du temps d'assimilation !
+07/08/2024, 16:52 - +33 6 49 84 08 41: Petit sondage... Y a des syndicalistes geeks ici ? 🤪
+07/08/2024, 16:54 - +33 6 52 49 10 78: Pas encore bien compris comment faire mais je vais poursuivre l'investigation.
+07/08/2024, 19:18 - Jean-Marc Everard: Merci Beaucoup,, nous ne pouvons pas utiliser Capcut (en tout cas pas officiellement) mais je vais essayer un mélange des solutions proposées ici. Grand merci 🙏
+07/08/2024, 20:52 - Votre code de sécurité avec +33 6 79 56 97 82 a changé. Appuyez pour en savoir plus.
+08/08/2024, 08:23 - Lucie: Hello @32488683833 . Pour moi le meilleur c'est Wegic.ai
+Si tu veux poursuivre il y a cette liste qui est bien : https://x.com/shushant_l/status/1811022834682188284?t=UUZWzjdeHp9UrzUAMz999g&s=19 <Ce message a été modifié>

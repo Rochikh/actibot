@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 554
+Messages: 11
+
+=== CONTENU ===
+03/02/2025, 23:04 - Gregoire IA: Il faut un ordi de gamer 😉
+Je me suis pris un Dell Alien
+04/02/2025, 06:22 - Jean-Marc Everard: Ou un Mac Pro ou Mac mini m4 (qui me fait de l’œil), mais on est d’accord que c’est un vrai investissement. Perso j’économise pendant des années avant de changer…l’avantage c’est la durée de vie.
+04/02/2025, 07:15 - +41 76 372 28 94: Personnellement, je suis plutôt pour un appareil dédié aux IA comme celui annoncé par NVIDIA : "The World’s Smallest AI Supercomputer : Project DIGITS" https://www.nvidia.com/en-us/project-digits/
+04/02/2025, 07:45 - +33 6 72 75 43 48: Bonjour Grégoire merci pour les infos je dois changer de PC bientôt peux tu me donner la réf de celui que tu as ? Quel ALIEN ? Merci beaucoup bonne journée
+04/02/2025, 07:46 - StéphaneIA: Il faut être honnête faire tourner en local nécessitera des gros PCs pour le NVIDIA il en faudra 2 pour faire tourner un model 405B, comme deepseek c'est 600B on peut se dire 3 PC. Donc c'est quand même 10k d' investissement.
+Faire tourner les modèles c'est hyper cher, en local on peut faire tourner des 10B 40B sinon fait son matériel spécial. En plus avec ces configurations on ne parle pas de la vitesse de génération des tokens qui sera peut être pas celle que vous voyez sur internet, plus lent.
+04/02/2025, 07:56 - +41 76 372 28 94: Effectivement je suis surpris qu'ils ne proposent pas plus de RAM dans les DIGITS...
+04/02/2025, 08:03 - +32 483 60 53 96: Juste pour comprendre lee contexte: vous parlez de materiel pour votre usage perso ou pour un etablissement ? Car oui le local c'est une alternative mais avez-vous deja fait des tests utilisateurs (apprenants et enseignants) sur ces systemes ? Je suis curieux si vous avez deja documenté une experience. Car je vais surement en lancer une à petite échelle.
+04/02/2025, 10:26 - Jean-Marc Everard: Ah ben oui mais là ma tirelire n’est pas encore au point. Mias en effet, c’est vers ça que je veux aller :-).
+04/02/2025, 10:31 - Jean-Marc Everard: Salut Robin (by the way je suis à LLN ce matin ;-)). Les deux mon capitaine. En local pour mes usages perso. mais au niveau de BOSA ou SPF intérieur, il y a des installation de LLM sur des gros serveurs internes.

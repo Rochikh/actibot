@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 15
+
+=== CONTENU ===
+21/04/2025, 12:15 - ‎+213 778 90 63 79 a demandé à rejoindre le groupe.
+21/04/2025, 12:15 - ‎+213 668 29 76 75 a demandé à rejoindre le groupe.
+21/04/2025, 13:37 - +33 7 87 38 87 69: https://turboscribe.ai/fr/
+Bonjour
+J'utilise TurboScribr depuis quelques temps pour retranscrire des enregistrements vidéo en texte. J'ai pris la version payante 120$/an. Cet outil fait gagner un temps énorme, reconnaît plusieurs locuteurs et ne fait quasiment pas d'erreur en version baleine.
+La version gratuite est limitée à 3 transcriptions de 30' max/jour.
+21/04/2025, 13:55 - Francois Bocquet: Wow ! L'UE interdit l'utilisation d'assistants virtuels basés sur l'IA lors des réunions en ligne. Ces assistants sont souvent utilisés pour transcrire, prendre des notes, voire enregistrer des éléments visuels et audio lors d'une visioconférence.
+https://www.techrepublic.com/article/news-eu-bans-ai-assistants-virtual-meetings/
+21/04/2025, 15:18 - Clotilde IA: C'est pendant leurs réunions en ligne en interne, pas en Europe en général ! Vous m'avez fait peur 😂 !
+21/04/2025, 15:37 - +33 6 85 03 31 84: J'ai un petit doute sur la façon dont marche le site *https://actibot.replit.app/* :
+je pensais que ça permettait de retrouver des infos précédemment évoquées dans le présent Groupe WhatsApp "*Ai-Dialogue Actif*", ce qui est utile surtout pour ceux qui sont arrivés dans ce groupe en cours de route;
+Il y a quelques semaines (l'outil *https://actibot.replit.app/* ne me donne pas la date de mes requêtes passées mais juste l'heure, bizarrement …), j'avais envoyé la requête suivante sur cet *Actibot* :
+*"Outils gratuits de type tts permettant de générer des dialogues avec 2 voix distinctes ?"*
+La réponse consistait en 5 outils dont ElevenLabs;
+Aujourd'hui, après avoir trouvé, par hasard sur le web, 2 nouveaux outils dans ce domaine, à savoir *Narakeet* et *Kukarella*, je demande à *Actibot* s'il a des infos sur ces 2 outils, et il me donne quelques informations qui me laissent penser que ces 2 outils ont effectivement déjà été mentionnés dans le présent Groupe WhatsApp, alors qu'il ne les avait pas mentionnés parmi les 5 outils suite à ma 1ere requête.

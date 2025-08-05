@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 32
+
+=== CONTENU ===
+HourOne : Création de vidéos avec présentateurs virtuels.
+Speechki : Synthèse vocale et clonage de voix.
+ElevenLabs : Synthèse vocale et clonage de voix, qualité professionnelle.
+DALL-E (OpenAI) : Génération d'images à partir de texte.
+Midjourney : Génération d'images à partir de texte, qualité artistique.
+Leonardo.ai : Génération d'images, fonction Motion pour animer des images.
+Adobe Firefly : Génération et modification d'images, intégré à la suite Adobe Creative Cloud.
+Ideogram.ai : Génération d'images avec texte intégré, performant en rendu du texte.
+Visual Electric : Sans information précise.
+Opus.pro : Création de shorts Youtube à partir de vidéos longues.
+OnlineDocTranslator : Traduction de documents.
+Smartcat : Traduction professionnelle.
+Deepl : Traduction de haute qualité, version gratuite limitée.
+Textcortex : Création de CV, contenu marketing, etc.
+Coassemble : Création de cours et de quiz, exportation en SCORM.
+Nolej.io : Création de cours avec IA, version gratuite limitée.
+Suno.ai : Création de musique à partir de texte.
+Udio.com : Création de musique et de chansons, gratuit.
+Make (Integromat) : Automatisation de tâches et de flux de travail, intégration d'IA.
+Zapier : Automatisation de tâches et de flux de travail, intégration d'IA.
+Transcript.lol : Transcription audio et vidéo, version gratuite limitée.
+Seeker.ai : Analyse de PDF, gratuit.
+PLATEFORMES ET SERVICES
+La Digitale : Plateforme collaborative avec un "mur" Padlet intégré.
+Hugging Face : Plateforme d'hébergement et de partage de modèles d'IA open source.
+Poe.com : Plateforme proposant divers LLMs et permettant la création de bots.
+OpenGPTs : Plateforme open source pour la création de chatbots personnalisés.
+Scribe (CEMEA) : Transcription audio, gratuit et open source.
+Apolearn : LMS français intégrant l'IA.
+SafeBrain : Plateforme française d'IA sécurisée pour les entreprises.
+Jan.ai : Permet d'installer des LLMs hors ligne.
+PrivateLLM : Permet d'installer des LLMs hors ligne, payant.

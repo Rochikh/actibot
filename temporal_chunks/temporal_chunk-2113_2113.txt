@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 15
+
+=== CONTENU ===
+22/04/2025, 08:12 - +225 08 64 97 90: Hello, je suis sur le projet actuellement de mettre en place une IA spécialisés dans l'exploration des données d'une base de données d'entreprise au format postgresql avec openchat. Il y a t il quelqu'un qui aurait de la ressources sur ce sujet ?
+22/04/2025, 09:31 - Rochane: Il existe en ligne des plateformes auxquelles tu peux t'adresser en langage naturel comme **Multi-Agent Postgres Data Analytics**, qui permet de poser des questions à une base de données PostgreSQL. **OpenChat AI** est également une plateforme utile pour créer des chatbots spécialisés dans l'analyse de données
+22/04/2025, 09:53 - +225 08 64 97 90: Sisi, je cherche de la documentation sur le sujet. Je suis Data Engineer et je cherche à mettre en place une plate-forme de ce type.
+22/04/2025, 09:54 - +225 08 64 97 90: Afin de faire des analyses sur des bases de données Odoo ERP (des bases PGSQL)
+22/04/2025, 10:04 - Votre code de sécurité avec ~ Eleonore a changé. Appuyez pour en savoir plus.
+22/04/2025, 10:10 - Votre code de sécurité avec ~ Eleonore a changé. Appuyez pour en savoir plus.
+22/04/2025, 10:28 - Votre code de sécurité avec +33 6 37 44 57 53 a changé. Appuyez pour en savoir plus.
+22/04/2025, 11:16 - Votre code de sécurité avec Nadia ER-RAJI a changé. Appuyez pour en savoir plus.
+22/04/2025, 12:21 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+22/04/2025, 14:49 - Rochane: <Médias omis>
+22/04/2025, 22:30 - +213 661 96 97 18: Bonsoir , Svp est ce qu’on peux dire l’ère des intelligences artificielles ou utiliser le singulier surtout en pédagogie et comment justifier l’usage du pluriel si c’est le cas ? Merciii
+22/04/2025, 23:05 - +237 6 56 90 71 30: Bonsoir.
+Est-ce que quelqu'un connait une IA gratuite qui fait des organigrammes (charts) à partir d'une description textuelle?
+22/04/2025, 23:39 - Rochane: ChatGPT avec la nouvelle version génération d'image
+22/04/2025, 23:50 - +33 6 71 11 12 91: Récupéré dans ma base, mais je ne les ai pas testés personnellement...

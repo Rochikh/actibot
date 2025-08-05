@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 16
+
+=== CONTENU ===
+18/12/2024, 22:28 - Sébastien Place: Copilot Studio est une licence par Tenant à 2400 euros en annuel. Elle ne nécessite pas de licencier par utilisateur et permet de créer des agents sur différentes sources internes ou externe et de les rendre disponible à des membres de l'institution ou à des personnes externes.
+18/12/2024, 23:11 - Ahmadou Ba: <Médias omis>
+18/12/2024, 23:11 - Ahmadou Ba: Trés drôle, sa réponse
+19/12/2024, 08:22 - +34 683 61 41 61: Dicte.ai a annoncé récemment cette nouvelle fonctionnalité pour les visioconférences
+19/12/2024, 08:36 - +33 6 68 00 29 68: Bonjour à tous je n’ai pas tout suivi, donc vous avez peut-être déjà partagé cet article bien sourcé sur l’IA générative et l’éducation je le met la au cas ou : https://blog.talan.com/2024/11/12/apprentissage-adaptatif-et-au-dela-comment-lintelligence-artificielle-faconne-leducation/ <Ce message a été modifié>
+19/12/2024, 08:44 - +225 0767794012: K
+19/12/2024, 09:26 - ‎+30 694 473 3477 a demandé à rejoindre le groupe.
+19/12/2024, 09:43 - ‎~ Salah est parti·e
+19/12/2024, 09:58 - Votre code de sécurité avec ~ Yam a changé. Appuyez pour en savoir plus.
+19/12/2024, 10:29 - +41 76 372 28 94: Si tu l'ajoutes au groupe, est-ce qu'il interviendra dans nos échanges ? Est ce qu'il sera capable de faire des résumés ou de remplacer le bot ? Ça vaudrait la peine d'essayer deux ou trois jours pour voir !
+19/12/2024, 10:36 - ‎+30 694 473 3477 a rejoint le groupe à partir de la communauté.
+19/12/2024, 10:39 - estelle Duterage Drion IA: Cc suis preneuse d’un article sur l’IA symbolique si vous avez merci
+19/12/2024, 11:21 - +213 770 60 32 81: Ce message a été supprimé.
+19/12/2024, 11:40 - +33 6 25 79 50 95: Open AI est intelligent :-)
+Faciliter davantage l'accès à ChatGPT pour développer l'habitude et le réflexe chez les utilisateurs qui ne penseront plus aux autres agents conversationnels.
+Curieux de savoir comment Méta  accueille et pourrait encourager ce type d'initiative qui viendra détourner l'usage de leur LLM.

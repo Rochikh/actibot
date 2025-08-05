@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 14
+
+=== CONTENU ===
+22/11/2024, 12:16 - Aïcha Elouali: Comment  GPT-4o peut gérer vos emails, répondre, archiver et les tagger  avec l'utilisation de MAKE.
+22/11/2024, 12:16 - ‎+33 6 99 46 07 31 a demandé à rejoindre le groupe.
+22/11/2024, 12:18 - Adrien Bock IA: pour ceux que ça intéresse, une application est en bêta-test et sort sous peu : https://zeninbox.app
+ça trie automatiquement vos mails en facture, devis, ça fait les relances et suivi ET enfin, ça répond en brouillon à tous vos mails. Les résultats sont BLUFFANTS !
+22/11/2024, 12:28 - ‎+33 6 99 46 07 31 a rejoint ce groupe grâce à son lien d’invitation
+22/11/2024, 12:28 - ‎~ Isabelle Fourcaud a ajouté +33 6 64 35 49 04
+22/11/2024, 18:43 - Vincent DROUOT: OpenAI offre des tutoriels gratuits, en anglais, à propos de ChatGPT pour les professeurs d’école (formation initiale) de K à 12 (de la maternelle au lycée (K-12 Educators), en partenariat avec Common Sense :
+22/11/2024, 18:43 - Vincent DROUOT: https://www.commonsense.org/education/training/chatgpt-k12-foundations
+22/11/2024, 18:44 - Gregoire IA: son forts openAI, tout est bon pour aller avec leurs produits 😅
+22/11/2024, 18:45 - Gregoire IA: j'avais analysé leur strat marketing, c presque du copier coller que CocaCola ou MacDo pour la nutrition, OpenAi sait qu'ils ouvrent la boite de pandore pour l'education alors ils misent tout pour se donner bonne figure
+22/11/2024, 19:03 - Votre code de sécurité avec ~ ✌🏽🙌🏽 a changé. Appuyez pour en savoir plus.
+22/11/2024, 19:05 - +237 99148639: Bonsoir à tous, possible de m'orienter vers des IA gratuite de détection de plagiat ou de niveau D'IA dans un texte ? Merci d'avance
+22/11/2024, 19:14 - Vincent DROUOT: et avec la décision de Sam Altam de fermer la structure à but non lucratif d’OpenAI, et dans la foulée de récupérer des actions de la structure à but lucratif pour un montant estimé à 10 milliards de dollars, en effet, cette entreprise est devenue identique à une entreprise qui vend du soda.
+Cela fait partir les ingénieurs et chercheurs d’OpenAI chez Anthropic, donc les inventeurs de ChatGPT sont désormais en train d’intégrer leurs inventions dans Claude.

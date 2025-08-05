@@ -1,0 +1,38 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 657
+Messages: 30
+
+=== CONTENU ===
+La politique ne mentionne pas la conformité au DSA (obligations pour les plateformes).
+📝 [Explication]
+Le DSA impose des obligations spécifiques pour les services numériques (transparence, modération).
+💡 [Impact]
+Inapplicable ici, mais absence de mention pour les services concernés.
+4.3 Mécanismes de recours
+⚠ [Constat]
+Le seul recours est de « contacter » l’éditeur, sans référence à une autorité de protection des données.
+📝 [Explication]
+Le RGPD prévoit un recours auprès des autorités nationales (art. 77).
+💡 [Impact]
+Les utilisateurs ignorent comment exercer leurs droits réglementaires.
+4.4 Zones grises
+⚠ [Constat]
+La contradiction entre « données non collectées » et « tiers collectant des données d’identification ».
+📝 [Explication]
+Cette ambiguïté empêche de déterminer la réalité des traitements.
+💡 [Impact]
+Les utilisateurs ne peuvent pas évaluer les risques réels liés à l’application.
+Conclusion
+⚠ [Risque global] 🔴 Élevé
+La politique manque de transparence critique sur les collectes de données, les finalités des traitements et les garanties de sécurité. Les utilisateurs européens ne disposent pas des informations nécessaires pour consentir pleinement ni exercer leurs droits RGPD. Les risques de violation des données et d’abus par des tiers sont significatifs.
+💡 [Recommandations]
+Clarifier les collectes de données et les rôles des tiers.
+Détaillez les procédures pour exercer les droits RGPD.
+Préciser les mesures de sécurité et les politiques de conservation.
+Mettre à jour la politique pour inclure les obligations DSA/DMA si applicables.
+--
+25/01/2025, 23:12 - Vous avez épinglé un message
+26/01/2025, 09:21 - +33 6 03 06 04 34: Le sujet n’est pas sur sa capacité qui est indéniable et largement reconnue (cf Le tweet de Yann LeCun mais qu’il est clairement reconnu aussi pour être un cheval de Troie de la Chine. Si je devais faire un parallèle je prendrais les Instituts Confucius répartis dans le monde entier, cheval de Troie du softpower chinois qui se sont révélés des têtes de pont politiques extrêmement influentes et potentiellement dangereuses. DeepSeek relève de la même philosophie dans sa capacité à être adopté par le grand public en captant un maximum de données mondiales au profit de la Chine qui peut à tout moment refermer le robinet quand elle aura obtenu ce qu’elle est venue chercher. Car de nombreux articles commencent à s’interroger sur les capacités financières de DeepSeek pour entraîner de tels modèles sans que le pouvoir chinois soit derrière. Bref autant je peux comprendre l’intérêt que suscite ce modèle autant j’en appelle à la prudence pour son usage.

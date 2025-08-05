@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 9
+
+=== CONTENU ===
+- J'avais demandé un accès début mars et cela a pris quelques semaines avant que je ne reçoive un code d'accès (j'ai dû expliciter le pourquoi du comment je voulais avoir accès à Manus)
+- Quand vous êtes sur Manus vous avez droit à 3 "tâches" (qui s'apparentent à des projets). Et ensuite il faut attendre 2h avant qu'une nouvelle tâche ne soit disponible.
+- Pour chaque projet, Manus travaille sur un ordinateur virtuel spécifique (c'est sans doute pour ça qu'ils ne font pas entrer tout le monde directement, sinon les serveurs seraient full en quelques secondes).
+- Comme dans l'excellente vidéo explicative de Ludo Salenne, vous lui donner une tâche/projet à réaliser et vous voyez absolument tout de ce que l'ordinateur virtuel fait.
+- D'après la complexité de votre projet cela peut prendre quelques minutes ou plusieurs heures. Mais ce n'est pas grave puisque votre projet continue à se construire sur l'ordinateur virtuel Manus. Il faut juste de temps en temps revenir sur le site car si Manus a un doute ou une questions sur votre projet, elle vous posera des questions avant de continuer. Un vrai chef de projet ce Manus :D
+- Dans les projets que j'ai testé : Un site internet immobilier, des analyses de données, un site pour une autrice, ...
+- Le plus bluffant est le fait que l'agent IA Manus rentre vraiment dans les sites, les plateformes et s'y retrouvent très facilement. Il vous demande juste au début que vous preniez la main sur l'ordinateur virtuel Manus et entrer vos identifiants et votre mot de passe sur le site que vous voulez qu'il gère et ensuite il reprend la main.
+23/03/2025, 07:47 - Rochane: Exceptionnelle la newsletter aujourd'hui de Benoît Raphaël où il relate une confrontation IA vs Humain
+https://generationia.flint.media/p/comment-j-ai-defie-un-prix-goncourt-avec-l-intelligence-artificielle-claude-herve-le-tellier-chatgpt?_bhlid=240b5398c1c02686c472536503c2d9e36872b680&last_resource_guid=Post%3A89617e9b-bf5e-4f39-9f6c-a36efad9d470&utm_campaign=comment-j-ai-defie-un-prix-goncourt-avec-l-intelligence-artificielle&utm_medium=newsletter&utm_source=generationia.flint.media

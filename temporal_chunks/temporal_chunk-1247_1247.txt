@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 10
+
+=== CONTENU ===
+1.	Sprint de recherche d’informations : pendant le cours, les étudiants utilisent des outils comme ChatGPT, Search, ou Perplexity pour rechercher des informations en lien avec le sujet. Cela se fait en temps réel, avec une assistance de l’IA.
+2.	Mise en commun et synthèse : les informations collectées par les étudiants sont regroupées dans un document commun. L’IA intervient ensuite pour résumer ce contenu, éliminer les redondances et proposer une synthèse claire.
+3.	Pause et discussion : une fois la synthèse terminée, nous passons à un moment d’échange critique. Les étudiants discutent des informations trouvées, évaluent leur pertinence, et critiquent les apports de l’IA.
+Ce processus est particulièrement efficace. Les étudiants sont actifs : ils doivent lire, critiquer et participer à la discussion, ce qui favorise leur compréhension et leur appropriation des concepts.
+J'ai réalisé 10h de cours de cette manière avec une promo de 40 étudiants sur le sujet de l'ingénierie de projet jusqu'ici, les premières conclusions sont une perte de temps d'environ 20 à 30% pour traiter le sujet en revanche les résultats lors de l'exam sont probants 80% des notes sont supérieures à 16 et les étudiants manifestent une très bonne compréhension et intégration des concepts du cours.
+16/11/2024, 08:34 - +32 498 62 04 01: C'est très intéressant comme fonctionnement.
+16/11/2024, 08:38 - +33 7 84 33 02 62: Merci pour cet exemple ; par contre, quelles sont les notes obtenues habituellement -sans l’intervention de l’ia - sur ce même module pour pouvoir mesurer l’efficacité ?
+16/11/2024, 08:38 - +33 6 74 95 95 60: C’est super intéressant effectivement ! Je vais tester ta méthode avec un groupe. Si tu cherches des cobayes pour des tests, je suis intéressée 😊
+16/11/2024, 08:40 - +33 6 68 00 29 68: Cela fait 4 ans que je donne le cours à des promos de M1 généralement la moyenne des notes est entre 11 et 12.
+16/11/2024, 08:41 - Rochane: Merci pour ce partage. Je voulais préciser 2 points

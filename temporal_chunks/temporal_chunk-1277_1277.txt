@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 18
+
+=== CONTENU ===
+19/11/2024, 16:15 - Francois Bocquet: j’ai vu des choses intéressantes à Educatech à Paris la semaine derniere
+19/11/2024, 16:15 - Francois Bocquet: Stellia
+19/11/2024, 16:15 - Gregoire IA: il est devenu payant ? 🧐
+19/11/2024, 16:15 - Francois Bocquet: K2R2 de eCharlemagne
+19/11/2024, 16:15 - Gregoire IA: je suis dessus depuis 2 jours et je travaille avec la version gratuite
+19/11/2024, 16:16 - Francois Bocquet: non toujours gratuit !
+19/11/2024, 16:16 - Gregoire IA: je ne comprends pas ta question alors
+19/11/2024, 16:17 - Francois Bocquet: c’était en référence à la question de @33620068801
+19/11/2024, 16:17 - Francois Bocquet: Edunao qui a un générateur de cours automatique (comme K2R2) directement dans Moodle
+19/11/2024, 16:18 - Francois Bocquet: et aussi des outils de detection de plagiat utilisant de l’IA -> Compilation et Blocksi
+19/11/2024, 16:18 - Gregoire IA: oh ok, en effet NotebookLM ne se limite pas au podcast, il résume assez bien
+19/11/2024, 16:19 - Gregoire IA: les outils de détection sont à prendre avec bcp (bcp) de recul
+il détectent les utilisateurs qui ne savent pas se servir de l'IA 😛
+19/11/2024, 16:19 - Gregoire IA: autant de faux positif que de vrais cas, impossible à gérer en commission disciplnaire
+19/11/2024, 16:19 - Francois Bocquet: et enfin des outils de detection des risques de harcèlement et troubles psychiques à partir de signaux faibles sur les outils internes (de type ENT) et sur les reseaux sociaux
+19/11/2024, 16:21 - Francois Bocquet: les échanges avec les éditeurs de detecteurs sont moins tranchés que ça. Compilatio qui existe dans le secteur depuis 2003 m’a confirmé orienter l’utilisation des detecteurs pluôt vers l’éducation à l’intégrité académique plutôt que pour des sanctions (pas d’utilisation en tant que preuve). Ca permet aussi d’orienter les oraux et de leur donner plus de poids.
+19/11/2024, 16:22 - Francois Bocquet: https://www.compilatio.net/ia-detecteur-info
+19/11/2024, 16:34 - Centre Richard: Bonjour la communauté

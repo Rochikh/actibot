@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 567
+Messages: 19
+
+=== CONTENU ===
+29/03/2025, 09:12 - Francois Bocquet: Voici l’article :
+UTILISATION DE L'IA : ACTIVITÉ RÉCAPITULATIVE
+23 mars 2025
+Utiliser l'IA avec les élèves est une arme à double tranchant. L'IA peut être un puissant outil d'apprentissage, mais lorsque les élèves l'utilisent pour remplacer l'apprentissage au lieu de l'enrichir, des problèmes apparaissent. Le défi est d'aider les élèves à considérer l'IA comme un accélérateur d'apprentissage plutôt qu'un raccourci.
+Je travaillais avec un enseignant qui souhaitait initier les élèves à la synthèse, mais qui ne voulait pas que l'IA soit la seule méthode utilisée par les élèves. La synthèse requiert des compétences importantes, et l'IA peut ne pas se concentrer sur les aspects importants pour les élèves. La meilleure façon de contourner l'IA est de demander aux élèves de synthétiser avec l'IA, puis de vérifier l'exactitude de leurs résumés. Après avoir vu des exemples de réalisation (et de non-réalisation), ils peuvent créer leurs propres résumés. Comme l'enseignant abordait la géographie, nous nous sommes concentrés sur les articles de géographie canadienne .
+Pour un modèle d'activité, vous pouvez utiliser la feuille de calcul Google Slides liée ci-dessous :
+Résumé - Géographie
+Le processus :
+Introduisez l’idée de résumer.
+Donnez un exemple.
+Demandez aux élèves d’identifier 4 à 5 points clés.
+Utilisez l'IA pour générer des résumés (en utilisant TLDR This et CodeBreaker, qui ne nécessitent aucune connexion).
+Les étudiants critiquent les résumés générés par l’IA à l’aide d’une liste de contrôle.
+Les étudiants réfléchissent au rôle de l’IA dans la synthèse.
+Les élèves choisissent un article et le résument de manière indépendante.
+Read&Write (une application payante) peut aider les étudiants à mettre en évidence les informations clés.
+Les étudiants utilisent la liste de contrôle pour modifier leur travail.
+L’étape finale consiste à créer une citation à l’aide d’un modèle.
+En abordant l'IA de manière critique, en identifiant ses forces et ses limites, les élèves apprennent à l'utiliser comme un outil plutôt que comme un substitut à la réflexion. Cette approche « voir, réfléchir, agir » renforce la confiance en soi dans la synthèse tout en favorisant une utilisation responsable de l'IA.

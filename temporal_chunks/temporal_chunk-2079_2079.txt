@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 14
+
+=== CONTENU ===
+Trouves-tu vraiment que c'est aussi puissant qu'ils le présentent ?
+14/04/2025, 07:53 - Vincent DROUOT: C’est très décevant aussi… les reponses sont parfois incohérentes… pire qu’un GPT 3.5 lol et gros soucis de sécurité…
+Sur le papier c’est intéressant car connecté avec Power Platform - Power Automate.
+Mais la puissance n’y ai pas, surtout quand on est habitué à du GPT 4o et aux assistants et agents que l’on peut créer avec les outils Open AI
+14/04/2025, 08:11 - Rochane: J'arrive pas à comprendre avec tous les moyens de Microsoft qu'ils ont et ne sont pas capables de concurrencer les autres IA 🤔
+14/04/2025, 08:45 - Vincent DROUOT: Oui !! Quand on sait qu’ils ont investi en 2018, 1 Milliard de $ dans OpenAI (après qu’Elon Musk soit parti) puis 15 Milliards entre 2022 et 2024 pour soutenir le succès de ChatGPT… et qu’ils viennent de réinvestir le mois dernier… on se demande en effet comment cela est possible de livrer des outils aussi peu aboutis (ils nous refont le coup du : le client est le beta tester)
+14/04/2025, 10:21 - +33 7 44 72 54 02: Je vous partage le lien vers le manuel ouvert IA pour les enseignants :
+🔗 https://aiopentext.itd.cnr.it/iapourlesenseignants/
+Cette ressource vient de recevoir une distinction internationale :
+🏆 https://www.univ-nantes.fr/universite/vision-strategie-et-grands-projets/deux-chercheurs-de-nantes-universite-recompses-par-le-prestigieux-prix-merlot
+Bonne semaine à toutes et à tous !
+14/04/2025, 10:24 - Imane IA: Bonjour, j'aimerais bien savoir si vous avez trouvé ou lu des travaux sur cette problématique : Comment l’intégration de l’intelligence artificielle générative dans la conception des plans de formation modifie-t-elle les pratiques professionnelles, les compétences requises et les postures des ingénieurs pédagogiques dans l’enseignement supérieur ?
+14/04/2025, 10:56 - +33 7 44 72 54 02: Voici une étude qui ne répond pas directement à ta question, mais qui s’en approche...
+https://collimateur.uqam.ca/a-la-une/quel-est-limpact-de-lia-dans-le-conseil-et-la-conception-pedagogique/

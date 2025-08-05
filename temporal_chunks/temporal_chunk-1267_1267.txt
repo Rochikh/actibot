@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 16
+
+=== CONTENU ===
+Multilinguisme : Le chat peut répondre dans la langue que vous utilisez ou que vous demandez. Il suit les instructions dans toutes les langues.
+Capacités Multimodales : Le chat peut lire des images mais ne peut pas générer d'images. Il ne peut pas non plus transcrire des fichiers audio ou des vidéos.
+Absence de Recherche Web : Le chat ne peut pas effectuer de recherches sur le web ou accéder à Internet pour ouvrir des URL ou des liens. Si vous avez besoin d'informations spécifiques, il vous demandera de copier-coller le texte directement dans le chat.
+Pas d'Accès au Mode Canvas : Le chat n'a pas accès au mode de génération de canvas.
+Ces fonctionnalités visent à améliorer l'interaction et la précision des réponses fournies par le chat de Mistral.
+18/11/2024, 21:01 - Francois Bocquet: C’est ici https://chat.mistral.ai/chat
+18/11/2024, 21:03 - +33 7 84 33 02 62: Apparu aujourd’hui la possibilité de joindre des pdf… cela ne fonctionne pas mais cela ne devrait pas tarder ?
+18/11/2024, 21:22 - Rochane: Impressionné positivement pour mes premiers tests et surtout par la fonctionnalité canvas qui fait des preview et code plutôt bien.
+Prend en charge les PDF sans problème
+Par contre, étonné par les CGU de Mistral comme le transfert des données vers les US, l'utilisation des données des utilisateurs pour entraîner leur modèle...
+Pour un outil open source français 🤔
+Le prompt des CGU m'a conclu
+Les CGU de Mistral AI contiennent plusieurs clauses qui pourraient être perçues comme défavorables ou risquées pour les utilisateurs, notamment en matière de limitation de responsabilité, de sécurité des données, et d'utilisation des données pour le développement des modèles. <Ce message a été modifié>
+18/11/2024, 21:30 - Rochane: Vous avez supprimé ce message
+18/11/2024, 23:35 - ‎+33 6 19 69 87 96 a demandé à ajouter +55 71 9275-7531.
+19/11/2024, 06:21 - +33 6 99 18 30 68: Hello toute nouvelle mais hyper motivée, j'en profite pour te remercier @33649535198 pour le prompt sur la sécurité, c'est la crainte qui me retenais le plus, notamment sur le copyright des éléments communiqués. Belle journée

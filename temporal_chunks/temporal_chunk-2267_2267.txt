@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 571
+Messages: 11
+
+=== CONTENU ===
+21/06/2025, 17:31 - Votre code de sécurité avec +212 668-532296 a changé. Appuyez pour en savoir plus.
+21/06/2025, 23:02 - Gregoire IA: Je suis de tout cœur avec mes collègues du réseau du RECIT. Au niveau de l'accompagnement des enseignants ce sont mes collègues les plus proches et ce qui arrive est inquiétant.
+Entre les US qui saccagent l'éducation par obscurantisme et le Canada qui le fait pour anticiper la récession... Il faut se préparer à une carrière version Don Quichotte !
+21/06/2025, 23:10 - Gregoire IA: Je vous enverrai une réponse bcp plus précise pour mieux comprendre ce qui se passe ici au Québec (qques tokens avec Perplexity Deep Search... Assez gourmand pour ce sujet 😅).
+Pour ceux comme moi qui êtes en enseignement supérieur, les Cégep (équivalent + ou - des BTS et IUT en France) des coupures majeures sont à prévoir mais moindre que pour l'école. L'université est presque celle qui s'en sort le mieux : gel quasi total malgré l'inflation mais pas de suppressions de poste notable )
+J'étais dès 2023 à l'initiative (personnelle) de projets pour informer et former sur les IAGen. Cette tendance risque de se poursuivre <Ce message a été modifié>
+21/06/2025, 23:15 - Gregoire IA: Tous les syndicats alertent sur la dégradation générale de l'enseignement. Ce qui m'interpelle le plus c'est le blocage quasi complet de l'immigration, y compris pour les étudiants avec des plafonds d'étudiants internationaux réduits de 20%
+PVI : je note depuis la pandémie une accélération du retour des français expatriés qui rentrent en France, la situation professionnelle n'est pas en cause et certains amis avaient de très belles carrières ici.
+21/06/2025, 23:55 - Rochane: <Médias omis>
+22/06/2025, 06:56 - Votre code de sécurité avec ~ Raph a changé. Appuyez pour en savoir plus.
+22/06/2025, 11:10 - Fred IA: Bonjour. Quelqu'un saurait il s'il est possible (et si oui, comment ?) de faire réaliser entièrement un carrousel (format instagram ou LinkedIn..) par l'IA ? J'ai tenté avec le gpts canva, qui suggère du contenu mais ne génère pas le produit final (il nous invite ensuite à aller sur canva, choisir manuellement un template et mettre le contenu). Existe-t-il une solution automatique et gratuite, jusqu'à génération du carrousel ? Merci à vous 😊

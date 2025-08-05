@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 14
+
+=== CONTENU ===
+07/02/2025, 10:40 - +33 6 79 72 76 62: merci de prendre ce temps : https://docs.google.com/document/d/1kND36_qZY2k0d5HhdYgqC3P0puu5Nsc8M6X2OSHEIx8/edit?usp=sharing
+07/02/2025, 10:47 - +33 7 44 72 54 02: Bonjour . En direct ce matin: Table ronde ministérielle de haut niveau : L'IA en éducation : quel cadre pour quels usages ?
+https://www.youtube.com/live/7AQW39V4XFk
+07/02/2025, 10:51 - +44 7776 747507: Merci @33744725402 et à @33687100167 qui l'avait transmis également!
+07/02/2025, 10:56 - +33 6 66 98 84 23: Bonjour, c'est sur que l'utilisation de DDG est intéressante du point de vue RGPD mais hélas nous ne poubons déposer des fichiers ce qui limite certains usages.
+07/02/2025, 11:00 - Ahmadou Ba: Oui c'est vrai, mais même avec les modèles de raisonnement avancé comme GPT o3, nous ne pouvons pas déposer des fichiers. Ce que je fais d'habitude, c'est de faire copier-coller, les modèles se débrouillent très bien avec les  données en vrac.
+07/02/2025, 11:28 - Francois Bocquet: Je regarde ça si possible cet après midi.
+07/02/2025, 11:29 - +33 6 79 72 76 62: Merci beaucoup !
+07/02/2025, 12:49 - +33 6 79 72 76 62: Merci encore !
+07/02/2025, 12:58 - +44 7776 747507: Bravo; panels et discussions de très haut niveau.
+07/02/2025, 13:59 - Francois Bocquet: Révision terminée pour moi. Ça donne déjà une bonne base pour une AIPD minimaliste. Le principal y est. Il faut proposer au chef d’établissement de la faire viser par le DPD qu’il a désigné (normalement le DPD académique). Il faut ensuite faire une fiche pour le registre d’établissement et rédiger et diffuser la charte. Ensuite ça sera OK. (Ouf !)
+07/02/2025, 14:34 - ‎Francois Bocquet a ajouté ~ Benjamin
+07/02/2025, 14:00 - Francois Bocquet: C’est intéressant parce que ça modélise ce qui devrait être fait pour que tout soit carré.
+07/02/2025, 14:02 - Francois Bocquet: Notons que l’utilisation des modèles de langage sur Vittascience et en utilisant une connexion via l’ENT de l’établissement serait à mon avis beaucoup plus simple a mettre en œuvre techniquement en apportant des garanties déjà existantes ! Je ne pense vraiment pas que l’avenir soit aux installations de multiples instances locales sur les postes ou sur les serveurs d’établissements.

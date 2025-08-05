@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 21
+
+=== CONTENU ===
+26/09/2024, 10:19 - +34 683 61 41 61: Il s´agit de faire une analyse des verbatims en catégorisant un certain nombre de lemmes. Après le logiciel fait le reste ! On ne parle pas forcément d'IA mais les processus sont les mêmes
+26/09/2024, 10:23 - +32 479 94 80 38: Excellent, merci Serge!
+26/09/2024, 10:23 - +32 479 94 80 38: non!
+26/09/2024, 10:24 - +32 479 94 80 38: tu le conseilles pour cet usage ?
+26/09/2024, 10:38 - Rochane: Oui
+26/09/2024, 11:11 - Ahmadou Ba: Le logiciel SPAD aussi peut faire cette analyse mais il faut d'abord construire le vocabulaire.
+Moi j'ai pris les expressions que j'ai synthetisé en mots collés que Spad a analysé.
+Pour synthétiser en mots collés, ChatGPT le fait très bien, il suffit de lui donner un exemple de ce que tu veux obtenir et il se lance. Aprés tu peux continuer par un denombrement sur lr vocabulaire caracteristique ou utiliser SPAD.
+GPT 4o preview analyse très bien les données aussi et là pas besoin de prompt, donne lui uniquement les données et il peut les analyser sur un angle que tu ne prevoyais pas.
+26/09/2024, 15:35 - Rochane: <Médias omis>
+26/09/2024, 17:58 - +33 6 85 03 31 84: Il faut 1 OpenAI API Key pour soumettre 1 requête à cet outil, si j’ai bien compris…?
+Comment peut-on obtenir ce type de Key ?
+26/09/2024, 18:01 - Vincent DROUOT: Il faut acheter un abonnement à ChatGPT Plus ($20/mois) 😉
+26/09/2024, 18:02 - +33 6 85 03 31 84: Je m’en doutais un peu;
+Merci pour l’info
+26/09/2024, 18:42 - Mickaël: Vous savez où récupérer l'API Key désormais ? L'emplacement a visiblement changé de place récemment. Je n'arrive plus à trouver l'onglet.
+26/09/2024, 19:08 - Rochane: Non, pas nécessaire un abonnement. Il suffit d'acheter un minimum de 5 euros sur la plateforme OpenAI
+26/09/2024, 19:09 - +33 6 49 95 38 23: Avec une carte graphique c'est possible de faire tourner un tts en local.
+26/09/2024, 19:22 - Vincent DROUOT: https://platform.openai.com/
+26/09/2024, 19:58 - ‎+212 700-150296 a demandé à rejoindre le groupe.
+26/09/2024, 19:58 - ‎+212 677-432130 a demandé à rejoindre le groupe.

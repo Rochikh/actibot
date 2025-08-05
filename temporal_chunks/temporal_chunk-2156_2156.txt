@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 601
+Messages: 6
+
+=== CONTENU ===
+06/05/2025, 11:08 - +32 487 80 81 16: Bonjour à toutes et à tous,
+Je me permets de faire une petite réflexion à la suite de ce que vous étiez en train de discuter, notamment sur l’usage de l’intelligence artificielle dans nos pratiques pédagogiques. Pour ma part, il ne s’agit plus vraiment de débattre sur l’opportunité de l’utiliser ou non — étudiants et enseignants y ont déjà recours. La vraie question, à mon sens, est : qu’allons-nous en faire ?
+Je vais vous donner deux exemples concrets d’épreuves que j’ai conçues en m’appuyant sur l’IA.
+Le premier est un examen de niveau avancé (C1) où il fallait réunir deux unités particulièrement complexes : l’environnement et les émotions. J’ai donc imaginé un cataclysme sur Terre, suivi d’une mission extraterrestre en 2150 chargée de comprendre ce qui s’était passé. Tout l’examen tourne autour de ce scénario : une compréhension écrite sous forme de rapport scientifique, une compréhension orale dans laquelle on entend le dernier message laissé par une IA avant la disparition de l’humanité, et une expression écrite où les étudiants doivent analyser les vestiges culturels et réfléchir aux émotions des êtres humains. Ce type de construction n’aurait pas été possible sans l’aide de l’intelligence artificielle, qui m’a permis de générer l’audio, les visuels, de structurer le texte… L’idée est la mienne, bien sûr, et je reste à la barre du projet, mais c’est là le cœur de mon propos : il ne s’agit plus de savoir si nous allons utiliser l’IA, mais comment nous la mettons au service de notre pédagogie.
+Deuxième exemple, pour un niveau plus élémentaire dans un cours de Relations Publiques. Il s’agissait de réviser le vocabulaire lié à la nourriture, aux restaurants et aux événements d’entreprise. J’ai créé un restaurant fictif à Bruxelles, Casa Luismi, et construit un examen autour de ce lieu : une compréhension écrite sur l’histoire du restaurant, illustrée ; une compréhension orale dans laquelle une artiste (générée par IA) parle de ses plats préférés ; et enfin, une expression écrite où les étudiants doivent rédiger une critique sur TripAdvisor, en mobilisant les contenus vus en cours.
+Je pense que c’est une voie possible — et stimulante — de ce que l’on peut faire avec l’IA en classe. Dans mon cas, il s’agit de l’enseignement du FLE, mais je suis convaincu que ces approches sont transposables à bien d’autres disciplines.

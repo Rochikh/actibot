@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 11
+
+=== CONTENU ===
+24/04/2024, 09:47 - Francois Bocquet: @33664505667 pour ce qui est de la différence entre un algorithme pré déterminé (le chat bot en question) ou tout est anticipé par le développeur et tout est basé sur des tests conditionnels, il est important d’expliquer aux élèves que c’est très éloigné des algorithmes utilisant de la statistique et de l’entraînement pour interpréter des phrases humaines non anticipées et générer une réponse non anticipée. Ce sont deux chatbots mais qui ne partage que le nom et le fait d’être utilisé avec un écran (et un clavier). Pour autant exercer l’esprit critique est absolument nécessaire et peut se pratiquer avec bien d’autres situations que celle de la programmation d’une situation fermée avec des interactions basées sur le choix entre trois boutons tél que proposé dans le chat utilisant du markdown.
+24/04/2024, 09:48 - Francois Bocquet: Partagent
+24/04/2024, 09:51 - Francois Bocquet: Proposition d’éducation à l’éthique et à l’esprit critique pour des collégiens proposé par une doctorants du MIT en 2019 et traduit par mes soins. Ça reste utilisable même 5 ans après… https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit
+24/04/2024, 09:54 - ‎+212 654-133552 a rejoint le groupe à partir de la communauté.
+24/04/2024, 09:57 - +33 7 63 58 01 55: Ce message a été supprimé.
+24/04/2024, 11:41 - Mickaël: Merci Cyrièle. Cela va rassurer nos collègues de langues. Je vois de nombreuses applications apparaître mais le résultat est encore balbutiant.
+24/04/2024, 12:38 - Jean-Marc Everard: Merci. Ça a l’air effectivement très bien. Il va falloir que je crée une un agent IA pour résumer toutes les newsletters auxquelles je suis abonné 🥴😅.
+24/04/2024, 13:05 - +1 (715) 969-9335: null
+24/04/2024, 13:08 - Vous avez supprimé +1 (715) 969-9335
+24/04/2024, 15:53 - ‎+33 6 73 46 32 31 est parti·e
+24/04/2024, 17:08 - +33 6 14 16 68 64: Pour ceux qui veulent en savoir plus sur la rédaction de prompts, nous accueillons @33610720856 Dhorne sur notre webinaire ce vendredi à 14h https://bit.ly/wa-lucie-dhorne

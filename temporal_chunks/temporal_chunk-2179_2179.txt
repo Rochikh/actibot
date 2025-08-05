@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 18
+
+=== CONTENU ===
+15/05/2025, 14:08 - Rochane: https://www.presse-citron.net/la-professeur-na-meme-pas-lu-ce-que-jai-ecrit-des-etudiants-se-plaignent-des-profs-qui-utilisent-chatgpt/
+Il fallait s'y attendre et c'est vrai que l'on parle des étudiant·e·s et rarement les enseignant·e·s
+15/05/2025, 16:58 - +32 498 78 46 36: Connaîtriez-vous des personnes qui s'y connaissent en JEPA (Joint Embedding Predictive Architecture) et qui seraient capables de vulgariser cela ?
+15/05/2025, 18:36 - +41 79 326 51 40: Oui. Le soucis c'est de garantir une conversion dans erreur
+15/05/2025, 19:15 - +33 7 86 18 83 63: https://www.linkedin.com/posts/ounice-anache-ia-consulting-formation-productivite_bref-il-a-choisi-lia-au-lieu-de-moi-alors-activity-7328759645546659840-LZ7s
+Ça vous est déjà arrivé ?
+15/05/2025, 19:34 - +33 6 14 90 22 14: J'ai eu de meilleur résultat avec Pandoc qui est une des  bibliothèques que les IA utilise. En codant un minimum
+15/05/2025, 22:23 - ‎~ Christian est parti·e
+16/05/2025, 08:59 - ‎Ilham IA a demandé à rejoindre le groupe.
+16/05/2025, 08:59 - ‎Ilham IA a rejoint ce groupe grâce à son lien d’invitation
+16/05/2025, 09:21 - Rochane: Mise à jour d'actiubot https://actibot.replit.app/ 😊
+16/05/2025, 10:18 - ‎~ Olivier est parti·e
+16/05/2025, 10:20 - Votre code de sécurité avec +33 7 85 84 60 78 a changé. Appuyez pour en savoir plus.
+16/05/2025, 16:45 - ‎+33 6 76 85 72 20 est parti·e
+16/05/2025, 18:59 - +33 6 07 14 45 01: Pour quelques documents, LibreOffice.org avait une option d'import docx et d'export latex dans mon souvenir.
+En complément pour info, sur arXiv.org les LaTex sont convertis en HTML avec la librairie  https://math.nist.gov/~BMiller/LaTeXML/ <Ce message a été modifié>
+16/05/2025, 19:24 - +33 6 66 98 84 23: Bonsoir, désolé j'ai une présentation à faire sur un mémoire, auriez vous des outils à me conseiller pour réaliser une présentation sympa en visuel (15-20 slides)?Merci d'avance de vos retour
+16/05/2025, 19:25 - +32 496 83 53 39: Bonsoir peux tu essayer gamma ?

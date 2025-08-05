@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 32
+
+=== CONTENU ===
+29/05/2025, 18:02 - ‎+98 937 357 3040 a demandé à rejoindre le groupe.
+29/05/2025, 20:05 - +44 7776 747507: Bonjour, je râme avec le lien du live, pourriez-vous le remettre svp?
+29/05/2025, 20:06 - Rochane: bit.ly/iaedu2024
+Le live va démarrer
+29/05/2025, 20:06 - Clément Cahagne: Pour participer à la visioconférence, cliquez sur ce lien : https://meet.google.com/wsf-snkf-kcu
+Pour participer par téléphone, composez le +33 1 87 40 47 62 et saisissez ce code : 299 438 459#
+Pour voir plus de numéros de téléphone, cliquez sur ce lien : https://tel.meet/wsf-snkf-kcu?hs=5
+29/05/2025, 20:06 - ‎+98 937 357 3040 a rejoint le groupe à partir de la communauté.
+29/05/2025, 20:06 - +44 7776 747507: Thanks a million!
+29/05/2025, 20:08 - +44 7776 747507: J'y suis et attends que tu me laisses entrer stp! Merci
+29/05/2025, 20:08 - +32 475 86 01 57: Pareil 🙂
+29/05/2025, 20:08 - +33 6 52 73 73 42: En attente d'acceptation ...
+29/05/2025, 20:08 - +212 644-562660: Idem
+29/05/2025, 20:09 - +33 6 52 73 73 42: Impecc'
+29/05/2025, 20:26 - +98 937 357 3040: Ce message a été supprimé.
+29/05/2025, 20:38 - estelle Duterage Drion IA: Désolée le week-end de l’ascension l’empêché de participer au live
+J’espère qu il y aura un replay
+29/05/2025, 20:54 - ‎+33 6 64 28 89 93 est parti·e
+29/05/2025, 21:35 - ‎~ Belkhatir Boumediene est parti·e
+29/05/2025, 22:04 - Rochane: Quand on veut reprendre une conversation après beaucoup d'itérations
+Contexte initial
+Je travaille sur [description brève du projet] depuis un certain temps, et nous avons fait plusieurs itérations. J'aimerais maintenant reprendre ce travail de manière efficace.
+État actuel et historique
+Pourrais-tu :
+Faire un résumé synthétique de notre conversation jusqu'à présent, en incluant :
+Les décisions clés prises
+Les directions explorées
+Les contraintes établies
+Les éléments à éviter/abandonnés
+La dernière version fonctionnelle
+Créer un prompt optimisé qui servira à démarrer une nouvelle conversation, en incluant :
+Le contexte essentiel du projet

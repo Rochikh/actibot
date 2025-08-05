@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 22
+
+=== CONTENU ===
+14/10/2024, 12:41 - Rochane: La mise à jour, je la fait en général le weekend. Il faut extraire la dernière version de la discussion ici 🙂
+14/10/2024, 12:48 - martinyemani IA: Merci. Comment concevoir un bot comme le votre à partir des FAQ d'un parcours de formation?
+14/10/2024, 12:49 - Rochane: Demande au bot, il te répondra 😁
+14/10/2024, 12:51 - martinyemani IA: Merci Rochane
+14/10/2024, 14:46 - ‎+33 6 19 04 00 39 a demandé à rejoindre le groupe.
+14/10/2024, 17:38 - ‎+212 714-324644 a demandé à rejoindre le groupe.
+14/10/2024, 17:42 - +212 694-337376: Bonjour à toutes et tous, quelqu'un connaît-il des outils permettant d'aider le formateur à créer le contenu de cours juste le contenu, à part chatgpt?
+14/10/2024, 17:45 - +961 3 381 351: https://www.magicschool.ai/
+14/10/2024, 17:45 - +961 3 381 351: https://web.diffit.me/
+14/10/2024, 17:46 - +961 3 381 351: https://schoolai.com/
+14/10/2024, 17:49 - +961 3 381 351: Les 3 sites proposent de créer des contenus mais ils ont aussi beaucoup d'autres options.
+14/10/2024, 18:02 - Vincent DROUOT: Sinon, perso je me sers de Gamma
+https://try.gamma.app/n617zew9g13x <Ce message a été modifié>
+14/10/2024, 18:26 - ‎+33 6 19 04 00 39 a rejoint ce groupe grâce à son lien d’invitation
+14/10/2024, 18:26 - ‎+212 714-324644 a rejoint le groupe à partir de la communauté.
+14/10/2024, 18:58 - +212 694-337376: Merci bcp je vais les tester
+14/10/2024, 19:11 - Mapidubost ( Associé d'Antoine): https://www.e-charlemagne.com/index.php/k2r2-assistant-pedagogique/
+14/10/2024, 20:22 - Votre code de sécurité avec ~ Carmen L. a changé. Appuyez pour en savoir plus.
+14/10/2024, 21:09 - Votre code de sécurité avec ~ Sabrin Housni a changé. Appuyez pour en savoir plus.
+14/10/2024, 23:01 - ‎+33 6 26 81 60 52 est parti·e
+15/10/2024, 00:13 - Fred IA: https://youtu.be/mU8djIr9DjA?si=W-hyHWqHsrmoADtv Les juges, remplacés par une IA à Wimbledon à partir de 2025..
+15/10/2024, 00:26 - +225 0789582364: Bonsoir Connaissez-vous une IA gratuite qui génère une vidéo à partir d'une image et d'un texte ?

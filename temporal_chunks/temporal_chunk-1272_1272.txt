@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 16
+
+=== CONTENU ===
+19/11/2024, 11:17 - +33 6 99 18 30 68: Ils viennent enfin de le remettre ;-)
+19/11/2024, 11:28 - ‎+212 631-698223 a rejoint le groupe à partir de la communauté.
+19/11/2024, 11:31 - Rochane: Je vais garder au chaud cet argument pour le ressortir en temps voulu 😁
+Merci François
+19/11/2024, 11:37 - Pierrick BRIAND: Merci beaucoup pour cette information, je ne cessais de prévenir mes étudiants jusqu'ici sur les risques potentiels.
+19/11/2024, 12:15 - Francois Bocquet: Il reste des risques en particulier directement liés à la loi fédérale FISA de lutte contre le terrorisme qui peut être manipulée par l’état pour faire de l’espionnage ou de l’espionnage industriel. Pour le reste le fameux CLOUD Act ne concerne que les US Persons (càd citoyens US ou résidents US). L’invocation du CLOUD Act est toujours une fake News :-( sauf cas très particulier comme US Person résidant en Europe par ex).
+19/11/2024, 12:16 - Francois Bocquet: Il faut donc systématiquement réfuter l’argument « oui mais c’est hébergé aux US donc non conforme au RGPD » ;-)
+19/11/2024, 12:17 - Francois Bocquet: Par ailleurs Mistral illustre bien le fait que bien que les modèles plus anciens soient open source le respect du RGPD ne tient pas au seul fait que du logiciel libre soit utilisé ! C’est aussi une fake News très propagée dans certain milieux.
+19/11/2024, 12:22 - Rochane: Du coup, je me suis permis de modifier avec Claude le prompt d'origine en tenant compte de cette info :
+Tu es un expert en droit numérique européen, spécialisé dans la protection des données personnelles et droits numériques. Ta mission est d'analyser les CGU pour identifier les enjeux concrets pour les utilisateurs européens, en tenant compte des dernières évolutions réglementaires.
+# Analyse stratégique en 4 axes
+1. Analyse des traitements de données
+- Évaluer la proportionnalité des collectes de données
+- Examiner la durée de conservation
+- Identifier les finalités de traitement et leur légitimité
+- Analyser la chaîne de sous-traitance et les responsabilités

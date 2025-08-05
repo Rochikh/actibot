@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 15
+
+=== CONTENU ===
+21/06/2025, 23:15 - Gregoire IA: Tous les syndicats alertent sur la dégradation générale de l'enseignement. Ce qui m'interpelle le plus c'est le blocage quasi complet de l'immigration, y compris pour les étudiants avec des plafonds d'étudiants internationaux réduits de 20%
+PVI : je note depuis la pandémie une accélération du retour des français expatriés qui rentrent en France, la situation professionnelle n'est pas en cause et certains amis avaient de très belles carrières ici.
+21/06/2025, 23:55 - Rochane: <Médias omis>
+22/06/2025, 06:56 - Votre code de sécurité avec ~ Raph a changé. Appuyez pour en savoir plus.
+22/06/2025, 11:10 - Fred IA: Bonjour. Quelqu'un saurait il s'il est possible (et si oui, comment ?) de faire réaliser entièrement un carrousel (format instagram ou LinkedIn..) par l'IA ? J'ai tenté avec le gpts canva, qui suggère du contenu mais ne génère pas le produit final (il nous invite ensuite à aller sur canva, choisir manuellement un template et mettre le contenu). Existe-t-il une solution automatique et gratuite, jusqu'à génération du carrousel ? Merci à vous 😊
+22/06/2025, 11:17 - Rochane: Regarde du côté de
+aiCarousels et Unifire.ai
+C'est possible qu'ils répondent à ton besoin
+22/06/2025, 11:19 - Fred IA: Merci à toi, je vais regarder 👍
+22/06/2025, 11:39 - +33 6 25 26 03 02: Sur canva, il me semble que c'est possible avec la demande de génération de code, en donnant tout le contenu dans ton prompt
+22/06/2025, 11:39 - +33 6 25 26 03 02: J'ai testé la fonctionnalité pour générer un schéma interactif et le résultat était bien
+22/06/2025, 11:49 - Fred IA: Merci beaucoup pour ce retour. Je veux bien un peu plus de détails sur cette génération de code (un lien d'accès ?  Dispo sur canva free ?) Merci par avance 😊
+22/06/2025, 11:51 - +33 6 25 26 03 02: <Médias omis>
+22/06/2025, 11:52 - +33 6 25 26 03 02: Moi j'ai la version payante, je ne sais pas si c'est dispo sur la version gratuite
+22/06/2025, 11:53 - Fred IA: Super merci je regarde ça 👍

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 10
+
+=== CONTENU ===
+Je pense que c'est un outil qui n'est pas complètement une évaluation puisqu'il s'appuie sur du décalaratif même si ça joue beaucoup sur la metacognition. La compétence est souvent reliée au learning outcomes et ça pourrait être le produit de l'apprenant·e.
+Quant à la transcription qui est du texte, j'y vois un gros intérêt pour l'enseignant·e pour qui c'est plus facile de consulter du texte que de l'audio de tout le monde et en plus de mutualiser ces informations sur le pdf généré ou la base de données airtable.
+La prochaine amélioration serait justement de fournir à l'IA d'Openai plus de connaissances comme des grilles de compétences ou des critères d'évaluation mais techniquement, il faudrait passer par les modules assistants d'Openai 😀
+24/11/2024, 18:07 - Francois Bocquet: https://www.lebigdata.fr/vous-etes-nul-avec-lia-anthropic-lance-cet-outil-genial-pour-ameliorer-vos-prompts
+24/11/2024, 18:34 - +33 6 05 07 94 31: Merci Rochane, je demande souvent à mes étudiants un écrit réflexif après avoir réalisé un travail écrit. L'écrit réflexif est dans mon cas un travail écrit. Il me semble que ce serait intéressant de recueillir leur oral. En plus des compétences    qui se dégagent de l'écrit, d'autres apparaîtront grâce à l'oral. Si l'IA m'aide à les analyser, c'est le top avec un sacré gain de temps. Je pense déjà aux nouvelles maquettes de formation dans lesquelles nous devrons évaluer par compétences 😉
+24/11/2024, 18:59 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+24/11/2024, 19:54 - Rochane: <Médias omis>
+24/11/2024, 20:47 - +212 631-698223: Slt stp vous connaissez un outil IA qui change l'ecriture de chatgpt et le rend plus creative
+24/11/2024, 20:50 - Rochane: Regarde plus haut, le message de François Bocquet et l'outil Anthropic qui peut t'aider à améliorer tes prompte sur chat Gpt pour t'écrire mieux
+24/11/2024, 20:54 - +33 6 14 16 68 64: Est-ce que Claude est vraiment mieux ? Car dans un monde où on écrit tous nos textes avec l'IA, il est crucial de trouver une IA pas trop grillé 😉

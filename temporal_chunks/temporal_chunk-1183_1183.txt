@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 13
+
+=== CONTENU ===
+03/11/2024, 12:50 - +41 76 372 28 94: Ok, mais non : j'ai supprimé les ip des logs du serveur pour les élèves uniquement (pas pour la page enseignant qui demande le mot de passe). Je ne savais pas que c'était possible, mais Apache permet ça.
+03/11/2024, 12:51 - +33 6 34 15 77 84: merci super utile 🤗
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:53 - +212 612-532308: Ce message a été supprimé.
+03/11/2024, 12:57 - +33 6 34 15 77 84: Le site de la CNIL est extrêmement bien fait et explique bien les choses aux non juristes Je suis Avocat et peux donc vous le confirmer 🤗
+03/11/2024, 12:58 - +33 6 34 15 77 84: Je dois ajouter que François semble très bien connaître le sujet car toutes ses réponses sont parfaitement conformes à la réglementation française en la matière 😉
+03/11/2024, 13:07 - +33 6 71 11 12 91: Sauf si l'élève passe par un VPN, non ? Je ne pense pas que beaucoup d'élèves aient un VPN pour le moment, mais vu les restrictions qui s'empilent, cela ne devrait pas tarder...
+03/11/2024, 13:36 - Fred IA: Bonjour. Une question concernant ChatGPT Search : je suis actuellement sur la version gratuite de ChatGPT et j'ai l'impression que depuis l'arrivée de cette fonctionnalité, la recherche sur le Web est active pour tout le monde (alors qu'auparavant, dès lors que le quota de messages était atteint: plus de recherche sur le Web). Avez-vous cette même impression ?  (Je précise, pas de réponses enrichies par des images ou vidéos sur la version gratuite)
+03/11/2024, 13:37 - Jean-Marc Everard: Merci beaucoup Clément, très intéressant en effet. Je vois une convergence entre les principes dans plusieurs universités dont l’UCLouvain où j’enseigne également. Mais le document à destination des profs est plus succinct 😉. Je vais lire avec attention. 👍🏻

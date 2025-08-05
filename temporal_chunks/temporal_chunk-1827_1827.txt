@@ -1,0 +1,42 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 34
+
+=== CONTENU ===
+26/02/2025, 10:08 - +33 6 85 03 31 84: aucun de ces 3 outils n'est gratuit pour créer un dialogue, même basique, apparemment …
+Je me trompe ?
+26/02/2025, 10:14 - +33 6 20 97 18 83: Bonjour joel,
+pour avoir utilisé ElevenLabs pour mes cours d'anglais pour la  création de support audio, il n'était  pas possible de créer le dialogue avec deux voix de façon instantané. Il m'a fallu créer des audios pour les répliques de chaque interlocuteur puis rassembler le tout avec une autre IA de montage vidéo (Veed.io) , pour éditer le son car je ne maitrise pas l'outil de montage audio Audacity.  Peut être qu'il existe un outil qui permette la distinction des interlocuteurs.
+26/02/2025, 10:23 - +33 6 25 23 04 30: ElevenLabs permettait de faire une vidéo test gratuite (environ 1min), sur la base de « crédits ». Nous avons utilisé cette option pour tester, avant de passer sur une option payante. Je ne connais pas les autres outils
+26/02/2025, 10:24 - Rochane: ma collègue me confirme pourtant que c'est possible, elle en a fait une vidéo en néerlandais Créer un projet audio
+Highlight
+00:00
+Démarrage d'un projet à partir de zéro avec des paramètres par défaut.
+Highlight
+00:59
+Sélection des voix, comme Laura et Bill, pour le dialogue.
+Highlight
+01:40
+Conversion du chapitre en audio après avoir saisi le texte.
+Highlight
+02:39
+Conversion et téléchargement
+Highlight
+02:39
+Le processus de conversion commence, nécessitant des crédits.
+Highlight
+03:17
+Vérification du résultat final du dialogue entre les personnages.
+Highlight
+04:29
+Ajout de nouveaux chapitres
+Highlight
+04:29
+Création d'un nouveau chapitre intitulé "parler du travail".
+https://youtu.be/B462j4e7Ejo?list=PL1kwzIBb7kHGSBNHEEA0zg5hAycR5cGLT
+26/02/2025, 10:24 - +33 6 85 03 31 84: merci pour ces précisions, Hélène;
+ce genre de manip, que tu expliques, c'est ce que j'aimerais éviter, si possible (je suis trop paresseux pour ça 😉)
+en fait, comme je le disais hier après avoir un peu testé Eleven Labs :

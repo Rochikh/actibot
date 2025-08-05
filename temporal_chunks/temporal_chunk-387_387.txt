@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 605
+Messages: 14
+
+=== CONTENU ===
+08/04/2024, 09:04 - +33 6 52 49 10 78: Je mets ce lien ici qui fait écho à cet "article" https://eduscol.education.fr/1911/l-intelligence-artificielle-pour-accompagner-les-apprentissages-des-fondamentaux-au-cycle-2
+08/04/2024, 09:05 - +32 493 87 42 05: <Médias omis>
+08/04/2024, 09:39 - Pierrick BRIAND: Merci @33652491078 c’est très intéressant mais encore une fois, ces outils ne sont accessibles que pour les académies. Si vous ne disposez pas d’une adresse e-mail rattaché au rectorat, vous ne pourrez pas accéder à ces ressources. Donc, le secteur du privée et bien… débrouillez-vous !
+08/04/2024, 09:44 - +33 6 52 49 10 78: Bon point.
+08/04/2024, 11:55 - Votre code de sécurité avec +33 6 65 47 79 98 a changé. Appuyez pour en savoir plus.
+08/04/2024, 12:35 - +33 6 26 53 15 02: Formidable !!!!
+08/04/2024, 17:34 - ‎+34 606 20 65 12 a rejoint ce groupe grâce à son lien d’invitation
+08/04/2024, 17:35 - ‎+32 487 80 81 16 a rejoint ce groupe grâce à son lien d’invitation
+08/04/2024, 17:45 - ‎+32 487 13 30 74 a rejoint ce groupe grâce à son lien d’invitation
+08/04/2024, 20:07 - ‎+32 497 29 18 25 a rejoint ce groupe grâce à son lien d’invitation
+09/04/2024, 03:54 - Votre code de sécurité avec Meltem a changé. Appuyez pour en savoir plus.
+09/04/2024, 07:36 - Rochane: 😢 Le boom des intelligences artificielles génératives est un phénomène qui connaît une période de progrès rapides dans le domaine de l'intelligence artificielle (IA). Cependant, derrière cette révolution technique se cache un travail souvent précaire et peu rémunéré effectué par des travailleurs invisibles [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).
+- Des travailleurs appelés "annotateurs" sont indispensables pour analyser de grandes quantités de données qui servent à entraîner les algorithmes d'IA tels que ChatGPT ou Midjourney.
+- Ces annotateurs sont souvent précaires et faiblement rémunérés. Ils doivent lire et analyser des textes parfois choquants ou dérangeants, ce qui peut avoir un impact négatif sur leur bien-être mental [[1]](https://www.francetvinfo.fr/internet/intelligence-artificielle/ils-profitent-de-notre-pauvrete-derriere-le-boom-des-intelligences-artificielles-generatives-le-travail-cache-des-petites-mains-de-l-ia_6466742.html).

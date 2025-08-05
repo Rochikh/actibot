@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 17
+
+=== CONTENU ===
+28/06/2024, 15:46 - Teodorina Tiba: Bonjour, j'ai expérimenté plusieurs IA pour générer des questions type QCM avec des feedbacks formatifs, etc Chatgpt connaît la syntaxe XML Moodle mais il m'a produit un fichier XML par question.
+28/06/2024, 15:47 - +33 6 58 12 88 07: Bonjour , lui as tu ensuite demandé de les compiler en un seul fichier ?
+28/06/2024, 15:48 - Teodorina Tiba: La solution qui a été pour moi la plus satisfaisante a été chatgpt pour produire du code LaTeX compatible package Moodle pour LaTeX
+28/06/2024, 15:50 - Teodorina Tiba: Et après corrections et relecture j'ai généré mon XML Moodle avec le package moodle
+28/06/2024, 15:53 - Teodorina Tiba: Non car mon intérêt était de conserver une source lisible de ma banque de questions et de disposer aussi de texte scientifique correctement géré (d'où LaTeX)
+28/06/2024, 16:01 - +225 08 64 97 90: Merci beaucoup 👍🏻
+28/06/2024, 16:38 - +33 6 77 09 47 45: https://www.questionwell.org/ ne génère pas de fichier Moodle XML. Donc mon import n'est pas possible. Ou bien je me trompe ?
+28/06/2024, 17:00 - +222 46 48 18 36: Vous pouvez essayer un prompt du genre "générer un qcm au format gift ..." puis vous  précisez votre besoin ensuite vous copiez collez dans un doc texte avant de l'importer dans moodle. Je l'ai expérimenté dans ChatGPT et Perplexity.  N'hésitez pas si vous rencontrez un problème!
+28/06/2024, 17:13 - +961 3 381 351: <Médias omis>
+29/06/2024, 01:29 - Samba BA: 🚨 Alerte stages d'été ! 🚨
+Apex propose plus de 300 stages d'été dans divers domaines :
+#Ingénierie : Intelligence artificielle, génie logiciel et plus encore !
+#Finance : banque d'investissement, gestion d'actifs, comptabilité et bien plus encore !
+#Marketing : marketing numérique, communications, médias sociaux, conception graphique et plus encore !
+#Produit : gestion de produits, UI UX, conception de produits et plus encore !
+#Biens de consommation : Merchandising, Supply Chain, E-commerce et plus encore !
+#Santé : médecine, soins infirmiers, recherche et plus !

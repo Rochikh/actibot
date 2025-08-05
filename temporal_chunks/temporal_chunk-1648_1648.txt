@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 698
+Messages: 19
+
+=== CONTENU ===
+24/01/2025, 15:45 - Rochane: Merci pour le partage mais déjà évoqué de nombreuses fois plus haut 😀
+24/01/2025, 16:24 - +33 6 62 46 04 14: Et https://theresanaiforthat.com/
+25/01/2025, 09:19 - +41 79 326 51 40: Je rejoins @33675775911 à ce sujet. Je la montre à mes étudiants malgré le fait qu'elle soit assez longue. Elle en vaut vraiment la peine! <Ce message a été modifié>
+25/01/2025, 09:43 - +33 6 72 75 43 48: Ok 👍 merci bon week-end
+25/01/2025, 10:11 - +33 6 72 75 43 48: Je l’ai visionné 🙃merci très clair 👍et je ne me suis pas ennuyée 🤣
+25/01/2025, 11:21 - Clément Cahagne: Je te l’avais dit 😉 A voir aussi : https://youtu.be/tdelUss-5hY?si=GFU6PaTShV-Zbo-5
+25/01/2025, 12:02 - ‎+1 (902) 355-8325 est parti·e
+25/01/2025, 12:18 - ‎+213 550 19 78 35 a demandé à rejoindre le groupe.
+25/01/2025, 13:22 - +33 6 72 75 43 48: Oui et tu es bien meilleur que ChatGPT il a été incapable de me recommander une vidéo correspondante 🤪🤣
+25/01/2025, 13:22 - ‎+213 550 19 78 35 a rejoint le groupe à partir de la communauté.
+25/01/2025, 14:37 - Votre code de sécurité avec +33 6 09 20 84 84 a changé. Appuyez pour en savoir plus.
+25/01/2025, 15:27 - Votre code de sécurité avec +33 6 09 20 84 84 a changé. Appuyez pour en savoir plus.
+25/01/2025, 18:34 - ‎+33 6 45 48 92 22 a été remplacé par +33 6 79 10 68 47
+25/01/2025, 18:44 - ‎+33 6 79 10 68 47 est parti·e
+25/01/2025, 18:54 - +213 661 96 97 18: <Médias omis>
+25/01/2025, 18:54 - +213 661 96 97 18: <Médias omis>
+25/01/2025, 21:13 - Rochane: En lui fournissant ses propres CGU, il n'est pas tendre avec lui même 😁
+Okay, let's tackle this Privacy Policy analysis. First, I need to go through each of the four strategic axes and check against the provided policy.
+Starting with the first axis: Analyse des traitements de données. The policy mentions collecting personally identifiable information but says it's retained on the device and not collected by them. That's a bit confusing. Wait, they say "the information that I request will be retained on your device and is not collected by me in any way." So does that mean they don't collect any data? But then they mention third-party services that might collect info to identify users. So maybe the app itself doesn't collect data, but third parties do. That's a point to note. Proportionality here: if the app doesn't collect data, but third parties do, the user might not be aware. Duration of retention isn't specified. The third parties might have their own retention policies. Purposes of processing: the app uses third parties for services, but the exact purposes aren't detailed. The chain of subcontracting: third parties have access to personal info but are obligated not to use it for other purposes. But how is this enforced? Maybe a warning here about lack of transparency.

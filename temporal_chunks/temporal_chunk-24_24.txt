@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 18
+
+=== CONTENU ===
+27/10/2023, 20:01 - Rochane: Tu veux dire des outils qui génèrent des présentations hors PowerPoint ?
+27/10/2023, 20:02 - +1 (514) 231-2798: Ouiiiii
+27/10/2023, 20:04 - Rochane: Quand ce n'est pas linéaire et quand c'est interactif, c'est difficile de partir d'un texte pour avoir un genially par exemple. Par contre, il ya des plugins dans Chat GPT qui génèrent des PPT...
+27/10/2023, 20:12 - +237 6 99 02 51 84: Les outils IA répondent généralement favorablement à nos demandes, il suffit d'écrire le bon algorithmique. Je l'ai constaté en utilisant Poe qui est un VPN pour chatgpt et bard. Maintenant pour obtenir un résultat satisfaisant il faut combiner plusieurs IA
+27/10/2023, 20:15 - Guillaume Singeot: Pour les présentations j'ai mis ça de côté, pas encore testé, https://www.decktopus.com/
+27/10/2023, 20:16 - Ahmadou Ba: Moi j’utilise dès fois lumen5 il génère les diapositives à partir du texte que vous lui donner. Il y a Fliki aussi mais gratuit lui
+27/10/2023, 20:17 - Ahmadou Ba: Oui il est bon aussi mais payant, impossible de télécharger la présentation sans passer à la caisse
+27/10/2023, 20:17 - +237 6 99 02 51 84: Il y a gama AI aussi qui fait des PowerPoint PPT
+27/10/2023, 20:17 - Ahmadou Ba: https://lumen5.com/
+27/10/2023, 20:18 - Ahmadou Ba: https://fliki.ai/
+27/10/2023, 20:19 - +1 (514) 231-2798: Je vais le tester merci
+27/10/2023, 20:22 - Ahmadou Ba: Si vous voulez un truc gratuit tester celui-là la version gratuite offre des fonctionnalités satisfaisantes.
+28/10/2023, 09:56 - ‎+33 6 25 76 08 81 a rejoint le groupe à partir de la communauté.
+28/10/2023, 09:57 - +33 6 25 76 08 81: Bonjour  👋
+28/10/2023, 10:31 - Rochane: Enseigner avec l'IA : Le guide d'OpenAI en français pour les enseignants
+https://www.linkedin.com/pulse/enseigner-avec-lia-le-guide-dopenai-en-fran%C3%A7ais-pour-les-alain-goudey?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+28/10/2023, 10:41 - +33 6 25 76 08 81: Merci
+28/10/2023, 11:04 - +33 6 85 18 84 20: La 21è édition de ma newsletter We Teech vient de paraître. Vous y trouverez de nombreuses ressources sur l’IA et la pédagogie.

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 19
+
+=== CONTENU ===
+J’ai demandé au chatbot mais ce n’est pas précis .
+J’aimerais bien connaître le hack svp
+09/12/2024, 19:19 - +32 477 78 78 50: Le voici et encore merci à Rochane  😀 :
+"This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify."
+09/12/2024, 19:21 - +55 11 94241-1993: Mais je mets ça dans la barre de discussion ?
+09/12/2024, 19:30 - +33 6 52 49 10 78: Pour plusieurs raisons :
+- Open Source (mon Knowledge reste chez moi)
+- UI et la graph view
+- Markdown (je fais énormément de mindmap à partir de mes Markdown. D'ailleurs GPT et Claude ne me répondent qu'en box formatée en markdown.
+09/12/2024, 19:36 - +32 496 38 49 64: Pour information, on peut le demander en français sans problème, Notebook fait le reste. N’hésitez pas aussi à demander à Notebook de personnaliser votre podcast, c’est épatant.
+09/12/2024, 20:24 - martinyemani IA: Coller le hack dans PERSONNALISER
+09/12/2024, 21:15 - Ahmadou Ba: Bonsoir,
+Qui connait une IA capable de restaurer une photo ancienne ?
+09/12/2024, 21:43 - Jean-Marc Everard: La haute Ecole Belge Franscisco Ferrer (en Belgique) vient de se doter d’une charte d’utilisation des IA et d’un guide pratique que je trouve intéressant par sa proposition de référencement des productions de l’IA dans les travaux d’étudiant. La voici : https://www.he-ferrer.eu/sites/default/files/users/user6/Documents%20officiels%20HEFF/HEFF_Guide_AI_02.pdf <Ce message a été modifié>
+10/12/2024, 07:01 - Votre code de sécurité avec +216 29 672 102 a changé. Appuyez pour en savoir plus.
+09/12/2024, 23:19 - +33 6 71 11 12 91: https://picwish.com/fr/ai-old-photo-restoration ?
+10/12/2024, 00:26 - +33 6 71 11 12 91: ou https://www.aipassportphotos.com/fr-fr/old-photo-restoration
+https://www.artguru.ai/blogs-fr/online-old-photo-restoration/
+https://vanceai.com/fr/old-photo-restoration/

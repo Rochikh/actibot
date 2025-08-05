@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 12
+
+=== CONTENU ===
+05/08/2024, 17:40 - Rochane: Pour nos nouveaux et nouvelles ces 2 derniers jours (nous sommes 831 à ce jour), voici un résumé de tout ce qui s'est dit depuis la naissance de cette communauté :
+Les 10 points qui résument les pratiques partagées par la communauté concernant l'IA et l'éducation :
+ChatGPT comme couteau suisse: La communauté utilise ChatGPT de manière intensive pour diverses tâches, notamment la génération de contenu, la traduction, la création de quiz, la rédaction de prompts, etc.
+L'importance du prompt engineering: La communauté souligne l'importance de bien formuler ses prompts pour obtenir des résultats pertinents et précis des IA.
+La recherche d'outils collaboratifs: La communauté s'intéresse aux outils qui facilitent la collaboration et le partage de ressources, comme Padlet, Airtable, et les Google Sites.
+L'évaluation avec l'IA: Des membres partagent des expériences et des réflexions sur l'utilisation de l'IA pour l'évaluation, notamment la correction de travaux et la création de quiz.
+L'apprentissage des langues: La communauté explore l'utilisation de l'IA pour l'apprentissage des langues, notamment ChatGPT en mode conversationnel et des outils comme Duolingo.
+L'IA pour les élèves DYS: Des membres s'intéressent aux applications de l'IA pour aider les élèves ayant des troubles d'apprentissage (DYS), par exemple, en adaptant des textes et des consignes.
+La sensibilisation à l'éthique et au RGPD: La communauté discute des enjeux éthiques et de la protection des données dans l'utilisation de l'IA, notamment en contexte éducatif.
+La veille collaborative: La communauté partage des liens vers des articles, des études, des podcasts, et des vidéos sur l'IA et l'éducation, créant une veille collective.
+La création de GPTs: Des membres partagent leurs expériences dans la création de GPTs, des chatbots personnalisés qui peuvent être utilisés pour des besoins spécifiques.
+L'expérimentation et le partage d'expériences: La communauté encourage l'expérimentation avec différents outils et modèles d'IA, et le partage des résultats et des bonnes pratiques.

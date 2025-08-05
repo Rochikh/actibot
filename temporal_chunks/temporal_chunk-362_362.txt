@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 20
+
+=== CONTENU ===
+https://www.linkedin.com/pulse/les-p%252525C3%252525A9riples-dun-formateur-%252525C3%252525A0-l%252525C3%252525A8re-de-lia-1-pierrick-briand-mmz6f%2F/?trackingId=N%2FE%2BczLJR6C0Dj0IEhQ%2F8A%3D%3D <Ce message a été modifié>
+04/04/2024, 10:04 - ‎+33 6 88 36 01 80 a rejoint le groupe à partir de la communauté.
+04/04/2024, 11:23 - +33 6 81 53 14 89: Hello,
+J'ai un collègue qui présente l'utilisation de l'IA pour l'enseignement en médecine ce soir :
+04/04/2024, 11:23 - +33 6 81 53 14 89: L'Actualité de l'IA à Montpellier
+https://www.linkedin.com/pulse/lactualit%C3%A9-de-lia-%C3%A0-montpellier-halles-de-l-ia-sbbzf?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+04/04/2024, 12:08 - Jean-Marc Everard: Flûte, je viens de voir ceci. J’imagine qu’on ne peux pas s’inscrire rétrospectivement ?
+04/04/2024, 12:16 - Rochane: Tout dépend du paramétrage de départ de l'organisateur
+04/04/2024, 13:25 - Jean-Marc Everard: Merci. Je vais essayer, on ne sait jamais.
+04/04/2024, 16:14 - Votre code de sécurité avec +32 474 29 82 26 a changé. Appuyez pour en savoir plus.
+04/04/2024, 16:34 - Votre code de sécurité avec +32 474 29 82 26 a changé. Appuyez pour en savoir plus.
+04/04/2024, 17:09 - ‎+32 472 70 89 68 a rejoint le groupe à partir de la communauté.
+04/04/2024, 17:11 - Ahmadou Ba: Bonjour,
+Qui parmi vous a déjà testé les bots de Poe.
+https://poe.com/
+Est-ce qu'ils sont gratuits ? Comparez aux GPT d'openAi, niveau performance, quel choix a faire ?
+04/04/2024, 17:13 - Rochane: J'en ai testé, ils sont un peu limités dans le sens où tu ne peux pas les paramétrer avec des fichiers. Ils sont publics aussi. Ce qui est bien, juste avec la version gratuite, tu peux en créer. Je sais que @33672091809 en a partagé un 🙂
+04/04/2024, 17:18 - Ahmadou Ba: Merci beaucoup du retour, Mais dans une discussion tu peux charger des fichiers et utiliser la méthode RAG avec.
+04/04/2024, 17:41 - Pierrick BRIAND: Le saviez-vous ?
+Pour faire appel à un GPTs sur mesure dans une conversation ChatGPT, il suffit de saisir le nom du GPTs précédé du symbole "@".

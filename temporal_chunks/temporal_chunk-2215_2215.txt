@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 20
+
+=== CONTENU ===
+- L'aspect "créatif collaboratif" : Co-créer quelque chose de nouveau ensemble.. L'exemple des livres de Benoist Raphaël est un bon exemple.
+> Entre boussole et miroir
+Le triangle a par contre l'avantage d'être très simple et je pense intéressant pour débuter, puis ajouter les dimensions supplémentaires dans un 2ème temps...
+Votre avis sur cette question ?
+31/05/2025, 13:48 - +33 6 71 11 12 91: En proposant cette réponse (ci-dessus) à Claude, il me fait une suggestion intéressante : (dans le dialogue suivant, le "je" correspond à Claude et le "tu" correspond à moi)
+"
+Ton triangle ne serait-il pas plutôt un spectre de contrôle ?
+Miroir = tu gardes le contrôle total (je valide tes idées)
+Prothèse = tu délègues le contrôle (je fais à ta place)
+Boussole = contrôle partagé (je t'oriente, tu décides)
+"
+Claude critique aussi les positions que j'ai mis : (idem, inversion de je / tu entre Claude et moi, puisque Claude me parle)
+"
+"Laboratoire" entre prothèse et miroir ? Je ne suis pas sûr. Quand j'expérimente avec toi, il n'y a pas vraiment de validation recherchée (miroir). Ne serait-ce pas plutôt entre boussole et prothèse ?
+"Créatif collaboratif" entre boussole et miroir : là aussi, la dimension miroir me semble faible dans une vraie co-création.
+"
+31/05/2025, 15:06 - Rochane: Peut être intéressant de vous partager le contexte de ce triangle :
+J'ai fait du dialogue engineering avec Chat Gpt 4.5 en lui demandant ce qu'il pensait de parler en public, en itérant de nombreuses fois à travers des explorations horizontales comme les différentes situations de toucher un public...
+Puis, je lui ai dit que je vais devoir parler en faisant une conf démo de l'IA face à mes responsables et en lui joignant le programme prévu. Puis on a trouvé que la plus simple des entrées en matière était de présenter ces 3 concepts. Puis une exploration verticale de ces 3 concepts pour aboutir à ce triangle
+31/05/2025, 16:13 - Rochane: https://x.com/AndrewPaino/status/1927867565717528672?t=8Z2yfyJv5qcFJiqGaJrGAg&s=09

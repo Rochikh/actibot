@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 12
+
+=== CONTENU ===
+06/03/2024, 09:27 - Ahmadou Ba: moi je suis à la recherche d'un GPT qui peut me trier, classer et réponse à mes mails et d'un gpt qui peut transcrire des vidéos s'il y en a
+06/03/2024, 10:03 - ‎Laetitia a rejoint le groupe à partir de la communauté.
+06/03/2024, 11:15 - Jacques BARATTI: Pour obtenir la transcription d'une vidéo (et aussi le résumé) YouTube j'utilise l'extension "GLASP" de Chrome elle fonctionne très bien (elle est gratuite). Si on a une vidéo qui n'est pas sur YouTube l'astuce consiste à créer une chaine YouTube, à uploader la vidéo, la mettre en privée et à faire la transcription...
+06/03/2024, 11:17 - +33 6 07 80 60 88: Bonjour vous pouvez utiliser capcut pour générer les sous-titres et corriger derrière
+06/03/2024, 11:22 - Ahmadou Ba: Formidable, je vais le tester. J'utilise Noota il enregistrer les réunions et les transcrit avec de bons résumer. Il peut transcrire les vidéos de youtube mais dans sa version payante.
+06/03/2024, 11:46 - +33 6 51 43 08 14: Noota enregistre quels types de réunions ?  Il s'incruste comme fireflies dans les réunions visio ? Merci
+06/03/2024, 12:36 - Guillaume Singeot: https://www.tomsguide.fr/chatgpt-225-000-comptes-pirates-sont-en-vente-sur-le-dark-web-changez-votre-mot-de-passe/
+06/03/2024, 13:01 - Ahmadou Ba: Oui c une extension du navigateur quand vous lancez zoom, meet ou teams, il se propose pour l'enregistrement
+06/03/2024, 13:01 - Ahmadou Ba: https://www.noota.io/fr
+06/03/2024, 13:23 - +33 6 51 43 08 14: Merci je vais tester :-)
+06/03/2024, 14:44 - ‎Clément Cahagne a rejoint le groupe à partir de la communauté.
+06/03/2024, 15:04 - Pierrick BRIAND: En effet, cela est discuté dans le domaine de  l’EdTech. Une étude mentionnée un article du blog d'Abondance que je partage ci-dessous indique qu’il est inutile et potentiellement contreproductif de faire preuve de politesse en s'adressant à un modèle de langage comme GPT (Generative Pre-trained Transformer), car cela pourrait détourner l'attention du modèle de la question principale : https://www.abondance.com/20240112-343668-quelles-strategies-pour-ameliorer-les-reponses-fournies-par-les-ia-generatives.html

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 622
+Messages: 6
+
+=== CONTENU ===
+24/12/2024, 06:54 - Votre code de sécurité avec +213 657 46 40 55 a changé. Appuyez pour en savoir plus.
+24/12/2024, 09:50 - Jean-Marc Everard: Bonjour Robin, en tant que prof. Invité à l’UCLouvain, je serais très intéressé par les résultats de cette compilation. Je cherche moi aussi à mettre des ressources IA à disposition de mes étudiants, notamment pour les entraîner à les utiliser avec raison et efficacité tout en continuant à développer leur capacité d’apprentissage, mais je manque de support pour aller au-delà de leur simple usage individuel etc. Puisque si ça vient de moi il y a tous les aspects légaux à prendre en compte qui compliquent un peu, sans parler des aspects financiers.
+24/12/2024, 10:26 - +33 6 80 15 26 95: bonjour, robin et jean marc, si cela vous intéresse je peux vous montrer ce qu'on a mis comme agents pour des universités et des grandes écoles en place via nos outils IA K2R2 (Assistant Pédagogique et Tuteur et RH) mais c'est des produits commerciaux. Maintenant nous cherchons à monter un pilote en Belgique donc il y a peut-être des solutions à trouver. n'hésitez pas à me contacter si cela vous intéresse.
+24/12/2024, 10:37 - Francois Bocquet: A mon avis, pour respecter les obligations légales il n’y à aujourd’hui que 3 solutions : héberger soit même un service complet (en étant très vigilant sur le cadre contractuel des API utilisées), passer par un prestataire de type K2R2, Stellia ou Mistral avec contrat de sous traitance carré, utiliser des services inclus dans les suites bureautiques comme Google Workspace avec la famille Gemini ou Office 365 avec Copilot ou encore Adobe ou Canva si génération d’images. Tous les autres montages ne permettent pas de respecter les obligations RGPD :-(
+24/12/2024, 10:42 - Jean-Marc Everard: Merci bcp François, quand tu parles de contrat de sous traitance « carré » avec Google ou Microsoft, tu sous-entends des modifications de leurs clauses habituelles ? Même si je m’oriente plutôt vers la première solution, la deuxième pourrait être plus simple à brève échéance.
+24/12/2024, 10:45 - Francois Bocquet: Non les deux sont très bien encadrés depuis très longtemps à condition d’utiliser les services professionnels orientés éducation (et pas les comptes grand public). Il y a même des services gratuits qui permettent d’avancer très rapidement avec des gestions possibles pour certains utilisateurs. Et surtout l’avantage d’une intégration très forte avec la bureautique et les stockages de documents.

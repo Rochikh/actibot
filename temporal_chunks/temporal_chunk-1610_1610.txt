@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 10
+
+=== CONTENU ===
+21/01/2025, 12:54 - +32 478 83 05 13: Est-ce que le fait de ne pas avoir l'accord préalable de l'orateur constitue une violation du RGPD ?
+21/01/2025, 12:55 - +33 6 58 35 08 39: Ah mon sens oui, la voix étant une donnée personnelle.
+21/01/2025, 12:59 - +33 6 58 35 08 39: https://www.cnil.fr/fr/les-bases-legales/consentement
+21/01/2025, 13:07 - Francois Bocquet: Ce n’est pas seulement une question liée au RGPD mais aussi au droit d’auteur et au droit de la vie privée. Une autorisation explicite est nécessaire pour toute captation pour rediffusion indépendamment RGPD.
+21/01/2025, 13:08 - Francois Bocquet: Ici ce n’est pas le sujet. Le consentement pour le RGPD est l’un des critères de liceite qui est seulement obligatoire si traitement marketing ou traitement de données de santé
+21/01/2025, 13:12 - +33 6 58 35 08 39: Le consentement s’applique quand même dans ce cas. Il s’applique en établissement et en formation , indépendamment du caractère commercial puisqu’il est exigé en établissement scolaire pour un enregistrement audio ou vidéo.
+21/01/2025, 13:48 - Francois Bocquet: Oui mais ça n’a pas de rapport avec le RGPD mais ça a un rapport avec la protection de l’image. La liceite du traitement ne peut reposer sur le consentement si pas de traitement marketing ou de données de santé. Le critère de liceite au sens RGPD est dans ce cas soit l’exécution d’un contrat soit l’intérêt légitime.
+21/01/2025, 13:49 - Francois Bocquet: Ici c’est l’art 9 du code civil qui s’applique pour les autorisations
+21/01/2025, 13:49 - Francois Bocquet: https://www.ac-paris.fr/diffuser-l-image-ou-la-voix-d-une-personne-quelles-autorisations-et-combien-de-temps-125525
+21/01/2025, 14:28 - +33 6 42 26 64 70: Bonjour tout le monde, j’aimerai vous soumettre l’idée suivante : Après avoir constaté la simplicité de l’installation de LM Studio permettant l’utilisation locale d’une IA (Llama, Lucie ou autre plus ou moins open source), quelle limite voyez vous à son déploiement sur les postes d’un établissement scolaire ?

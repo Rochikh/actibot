@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 11
+
+=== CONTENU ===
+27/03/2025, 09:56 - +32 475 86 01 57: Bof… https://www.linkedin.com/posts/bareau-antonin-6a698649_une-ia-pour-se-souvenir-de-respirer-jadore-activity-7309603155233644544-E_5s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApJ8F4BHTAXdH6ZAX0-2eqrx41HJ7Bb3ZU
+27/03/2025, 09:58 - Jean-Marc Everard: Dans le notebookLm lié à mon workspace Google (payant) oui, sur mon compte gratuit, non. Mais il semble que certaines personnes avec des comptes gratuits ont quand même accès à la fonctionnalité. Du coup je ne sais pas très bien ce qui détermine qu'on l'aie ou pas.
+27/03/2025, 10:09 - +33 6 25 79 50 95: Merci Jean-Marc
+C'est la lotterIA :-)
+27/03/2025, 10:14 - Francois Bocquet: C’est tout simplement le plan de déploiement sur les comptes (lié à leur ancienneté par exemple ou autre critères). Google fait toujours ça pour tous ses services pour gérer les pics de charge liés au moment de la découverte de la fonctionnalité que tout le monde essaye en meme temps. Sur les consoles d’administration pour les services pro l’administrateur a le choix des rythmes de déploiements en fonction des unité d’organisation de son annuaire. Ça va donc venir pour tout le monde étalé sur une période de 2 à 4 semaines.
+27/03/2025, 10:29 - martinyemani IA: *NOLEJ fait peau neuve*
+27/03/2025, 10:29 - martinyemani IA: <Médias omis>
+27/03/2025, 10:33 - Jean-Marc Everard: C'est bien possible en effet, mon adresse privée gmail date de perpète (à l'époque où il fallait une invitation pour en avoir une 👨🏼‍🦳
+27/03/2025, 10:33 - +32 479 29 01 81: J’ai créé une histoire pour une évaluation d’élèves de de 8 ans. J’ai demandé à ChatGPT de réaliser un livret A5 avec des illustrations. Le résultat est très moyen. Existe t il une autre IA davantage appropriée ?
+27/03/2025, 10:38 - Rochane: Peut-être que l'information que tu lui donnes en entrée est trop importante. As-tu essayé de segmenter l'histoire en plusieurs étapes et lui faire générer les illustrations une à une ?
+27/03/2025, 10:59 - +32 479 29 01 81: Ok je vais essayer

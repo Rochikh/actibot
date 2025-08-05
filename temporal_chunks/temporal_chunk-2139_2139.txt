@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 11
+
+=== CONTENU ===
+Ça rappelle nolej.ai mais ça a l'air plus complet avec podcast, flashcard, jeu....
+https://youtu.be/Kw_w9urqxdk?feature=shared
+01/05/2025, 06:09 - +41 76 372 28 94: Pas tout à fait d’accord. Sans Google, pas d’AlphaGo / AlphaZero et pas de deep reinforcement learning. L’apport d’OpenAI avec l’architecture transformer est indéniable, mais n’aurait pas pu avoir lieu sans les travaux préalables de DeepMind. Mais oui, leur modèle a toujours été à la traine ces deux dernières années par rapport à ChatGPT. Par contre ils ont toujours continué d’innover dans des produits non commerciaux, tels que AlphaFold, AlphaGeometrie, AlphaStarCraft (c’était la première fois qu’on rivalisait avec l’humain niveau Grand Master dans un jeu avec autant de degrés de liberté).
+01/05/2025, 06:42 - Rochane: Et tu penses qu'ils sont toujours à la traîne avec leur modèle Gemini ?
+01/05/2025, 07:12 - +33 6 85 03 31 84: Ça en fait des trucs à lui dire pour qu’il la boucle un peu !! 🤣
+01/05/2025, 07:27 - +41 76 372 28 94: Non, pas du tout ! Gemini 2.5 est top, avec en plus une énorme fenêtre de contexte. Est ce toujours le meilleur modèle ? Je ne sais pas, mais en tout cas c'est le jour et la nuit par rapport à la version 2.0
+01/05/2025, 07:48 - +32 498 78 46 36: Productivité ou illusion ? Ce que l’IA change dans notre façon de penser
+https://www.linkedin.com/pulse/productivit%C3%A9-ou-illusion-ce-que-lia-change-dans-notre-boris-paillard-stc0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+L'excellente publication de Boris Paillard sur l'automatisation du vide, qui finit par ne combler aucun besoin réel, le fameux rabbit hole 🕳️ 👍
+01/05/2025, 08:47 - estelle Duterage Drion IA: Bonjour, sur Notebooklm une fois que j’ai converti mes notes en source,  comment les transformer en document PDF pour les utiliser au mieux?
+01/05/2025, 08:49 - Jean-Marc Everard: Oui, je le suis mal exprimé. Ils ont toujours été sur la balle mais à un moment cela leur a en quelque sorte porté préjudice car ils avaient avancé sur des choses moins grand public je pense.

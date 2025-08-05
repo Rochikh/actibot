@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 19
+
+=== CONTENU ===
+Comme si c’était un pote à qui tu devais expliquer le cours.
+En lui expliquant et lui répondant à ses questions tu vas beaucoup plus vite mémoriser et comprendre le cours.
+2️⃣ *Progresse dans une langue*
+Tu peux lui demander de discuter avec toi d’un sujet qui t’intéresse dans la langue de ton choix.
+Puis demande lui de t’avertir et de te corriger quand tu fais des erreurs.
+Un vrai banger je veux rien savoir !
+(j’espère j’aurai mon TOEIC cette année grâce à ça) 🙂
+3️⃣ *Crée un jeu avec tes cours*
+Pareil, tu commences par envoyer le chapitre de ton cours.
+Puis tu demandes à ChatGPT d’inventer un mini jeu où le but est de mémoriser ce que tu viens de lui envoyer.
+En gros tu vas rendre tes révisions *100x plus interactives*, moins ennuyeuses et plus efficaces !
+*PS* : dispo pour tous, abonnement payant ou pas !
+22/03/2024, 08:19 - Rochane: Merci à @33603609577 pour cette astuce ☝️ top
+22/03/2024, 08:19 - Anthony Quinchon: Avec plaisir ! 😇🔥
+22/03/2024, 10:04 - Jean-Marc Everard: <Médias omis>
+22/03/2024, 10:11 - Rochane: Mais là, tu avais présenté réellement ton message en français et HeyGen l'a traduit. C'est ça ?
+22/03/2024, 10:43 - Jean-Marc Everard: Non non, j'ai utilisé le générateur de Heygen pour le contenu, et il a utilisé l'avatar que j'avais fait pour animer tout ça. Moi je n'ai touché à aucun matériel, juste mon clavier pour écrire une seule phrase, le prompt.
+22/03/2024, 10:50 - Clément Cahagne: Vous pouvez cloner votre voix par ElevenLabs et l’intégrer via une API entre les deux outils. Eleven Labs : le meilleur sur les voix, HeyGen : le meilleur pour les vidéos. Le mix des deux est très très qualitatif, pour autant que les sources (audio et vidéo) soient de bonne qualité
+22/03/2024, 10:53 - +32 479 58 54 12: Ça je ne ferais pas quand même 😄 Il vaut mieux préparer son texte écrit, puis l'injecter, pour être sûr de ce que l'on va raconter 😉. Attention aussi à certaines interprétations. Par exemple en écrivant 1/2 dans le texte, il ne va pas bien le prononcer.

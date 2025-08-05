@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 534
+Messages: 15
+
+=== CONTENU ===
+- ChatGPT a refusé mon pdf fusionné
+- NotebookLM a accepté à la fois le PDF fusionné et les PDF individuels mais avec des ratés
+- Google AI studio idem.
+Je suis assez déçu : s'il faut que je me retape tous les PDF un par un pour être sûr qu'il n'y a pas d'oubli, c'est bien inutile
+04/09/2024, 15:52 - Clément Cahagne: Pas réellement étonnant, faire de la recherche textuelle avec des outils d’IA générative qui divise chaque mot en tokens, c’est un peu contre-productif… pour le moment… J’ai eu la même mésaventure 🙂
+04/09/2024, 15:55 - +32 476 28 28 55: Les automatisations avec Make.com fonctionneront beaucoup mieux. Mais, il faut en effet apprendre à l'utiliser 🥵
+04/09/2024, 17:14 - ‎+32 499 16 83 26 a demandé à rejoindre le groupe.
+04/09/2024, 17:24 - +32 497 34 36 33: Ce message a été supprimé.
+04/09/2024, 17:26 - +212 644-562660: peut etre retenter le coup mais cette fois avec un prompt splitter https://chatgpt-prompt-splitter.jjdiaz.dev?
+04/09/2024, 17:26 - Rochane: J'en parlerai au prochain live
+04/09/2024, 17:30 - Fred IA: Bonjour Rochane. Ce serait effectivement génial d'avoir un tuto make tout de suite opérationnel, même avec des choses simples à mettre en œuvre, histoire de se faire la main sur cet outil..
+04/09/2024, 17:30 - Rochane: Pas de soucis, je partagerai mes templates Avec ceux et celles qui le souhaitent 🙂
+04/09/2024, 17:34 - +33 6 70 57 72 80: Je suis très intéressée par l’automatisation via make. Merci à vous
+04/09/2024, 18:12 - +32 479 58 54 12: Quelqu'un a déjà testé les assistants IA de BlueGPT, par rapport aux GPT de ChatGPT ?
+04/09/2024, 18:16 - +33 6 72 75 43 48: Bonjour Dominique contente de voir votre message, j ai pris un abonnement BlueGPT semaine passée et rencontre de grosses difficultés d’utilisation : ex : les documents ne sont pas pris en pièce jointe .. certaines IA ne fonctionnent pas … le groupe watshapp crée à été supprimé suite une question que j’ai posé , j’ai posé ma question à Justine sur linkedin et whatsapp , pas de réponses ! Je m’interroge : que se passe t il ? Suis je la seule a rencontrer des difficultés avec cet outil ? Merci pour vos réponses Michèle

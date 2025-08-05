@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 7
+
+=== CONTENU ===
+17/12/2024, 16:48 - Francois Bocquet: Je pense qu’il faut d’abord appliquer le RGPD en vigueur depuis 6 ans pour commencer. Donc analyser et valider le cadre contractuel proposé avec le sous traitant, réaliser une analyse d’impact sur les risques pour les personnes, inscrire aux registres et informer les personnes concernées. Ensuite et si le service présente les caractéristiques permettant de mettre en œuvre le traitement conformément au RGPD, il faudra se poser la question de la nature des documents et données injectées dans le RAG ainsi que des règles d’usages de ce services pour que les risques soient maîtrisés. Pour moi une bonne analyse d’impact doit déjà limiter les risques y compris vis à vis du nouveau règlement (qui n’est pas vraiment prévu pour le cas évoqué). Mais ça se discute ;-)
+17/12/2024, 16:55 - Rochane: Pour moi, l'école en question a le droit d'utiliser le RAG. C'est comme si tu utilisais un ordinateur et pas en fabriquais. Du coup, tu es utilisateur et non constructeur.par contre, ok avec François de faire attention aux données injectées et garder un œil sur ce que fait la machine.
+17/12/2024, 16:57 - Francois Bocquet: Elle a le droit si et seulement si elle est au carré vis à vis du RGPD pour la mise en œuvre du traitement !
+17/12/2024, 17:03 - +33 6 19 75 63 49: Je sors de la fresque de l’IA créée et animée par @33679020995 et je vous conseille chaudement de suivre cette formation pour réfléchir ensemble sur les enjeux de l’IA et à une expérimentation!
+17/12/2024, 17:04 - +33 6 79 02 09 95: Merci Julie pour ce feedback ! La prochaine aura lieu en janvier pour ceux qui veulent :  https://my.weezevent.com/fresque-ia-pedagogiques
+17/12/2024, 17:30 - François JOURDE: Merci comme toujours à François pour son expertise. Est-ce pareil si l'IA générative est installée en local sur le PC d'un prof et fonctionne de manière déconnectée ? Même obligation RGPD ?
+17/12/2024, 17:45 - Adrien Bock IA: Bonjour, je cherche des partenaires qui ont des projets d’IA concrets à présenter lors d’un salon.

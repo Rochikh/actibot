@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 10
+
+=== CONTENU ===
+21/10/2024, 13:58 - martinyemani IA: Absolument
+21/10/2024, 14:19 - Daniel Pappalardo: Petit article à lire assez intéressant sur le côté mythe de l'apprenti sorcier et l'IA... https://frblogs.timesofisrael.com/lia-du-mythe-de-talos-a-la-machine-de-turing/
+21/10/2024, 14:19 - Votre code de sécurité avec ~ Bilo'o Helene a changé. Appuyez pour en savoir plus.
+21/10/2024, 14:46 - +33 6 64 17 58 42: Une vidéo conçue par le centre de sécurité de l'IA qui peut nous faire réfléchir sur la maîtrise que nous pensons pouvoir conserver sur l'ia. Jusqu'à ce que... https://youtu.be/ZP7T6WAK3Ow?si=sRAiv0CZq5ImXXOP
+21/10/2024, 15:12 - Rochane: Je sais que l'on peut aller jusqu'à 50 sources par projet, les sources ne peuvent pas dépasser 500 000 mots, mais je ne sais pas à combien de projets a-t-on le droit sur un compte ?
+A priori, il n'y en a pas <Ce message a été modifié>
+21/10/2024, 16:15 - Francois Bocquet: « Conforme RGPD » dans quel contexte et pour quels traitements. Rappel : pour un usage autre que personnel (c’est à dire professionnel et à fortiori avec des élèves un service qui n’est pas opéré par votre institution doit faire l’objet d’un contrat de sous traitance entre l’éditeur du service et votre institution (par exemple pour l’éducation en France le Ministère ou le recteur de votre académie ou le chef d’établissement pour le secondaire ou le DASEN pour le primaire. Si ce contrat n’existe pas et que le traitement considéré n’est pas inscrit au registre du responsable de traitement alors le traitement n’est pas conforme et donc illégal. Attention aux allégations des éditeurs ou conseils trop enthousiastes de personnes peu formées aux meandres du RGPD ;-)
+21/10/2024, 17:57 - +33 6 49 84 08 41: Très intéressant... mais n'ayant pas d'identifiant académique, c'est mort pour moi 😓
+21/10/2024, 18:09 - martinyemani IA: Chez moi aussi c'est cuit!!!
+21/10/2024, 18:26 - Alexandre iA Togo: Bonsoir cher communauté. Concernant NotebookLM comment je pourrais avoir sa version française s'il vous plaît.

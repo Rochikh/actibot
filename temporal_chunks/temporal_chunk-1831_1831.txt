@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 15
+
+=== CONTENU ===
+26/02/2025, 21:28 - Rochane: Tout est dans l'invitation qui est épinglée en haut de page
+26/02/2025, 21:38 - ‎+33 6 15 10 29 55 a demandé à ajouter +33 6 75 24 49 00.
+26/02/2025, 21:46 - +33 6 72 75 43 48: Merci JM je connaissais rébus o matic en effet mais bof … je vais regarder les 2 autres 🙏
+26/02/2025, 22:21 - Votre code de sécurité avec ~ Les RochDur a changé. Appuyez pour en savoir plus.
+26/02/2025, 22:22 - +34 683 61 41 61: Bonsoir, connaissez-vous un moyen pour créer un chatbot partageable qui fonctionnerait comme NotebookLM uniquement sur une base documentaire fournie et sans enregistrement des historiques ?
+26/02/2025, 23:29 - +33 6 19 29 82 01: Botpress ou mizou payant ?
+27/02/2025, 00:13 - Jean-Marc Everard: As-tu examiné Poe ? Je ne suis vraiment pas certain mais je commencerais par là. En même temps attention, même notebookLM halucinne. J'en ai été victime il y a peu mais c'est logique étant donné le mode de fonctionnement d'un LLM.
+27/02/2025, 00:14 - +34 683 61 41 61: Merci je vais regarder
+27/02/2025, 00:14 - +34 683 61 41 61: Effectivement mais j'aime bien le fait de pouvoir examiner toutes les sources dans NotebookLM
+27/02/2025, 05:52 - ‎~ Stéphanie a ajouté +33 6 75 24 49 00
+27/02/2025, 08:05 - Rochane: Le concept des cartes "CRÉDITS IA" développé par Pascal Mériaux est une approche innovante pour intégrer l'utilisation de l'intelligence artificielle (IA) dans les classes, en particulier pour les jeunes. Voici une explication détaillée du concept :
+### Principe de Base
+1. **Distribution de Cartes "crédits IA"** : Chaque élève reçoit des cartes représentant des "crédits IA". Ces cartes symbolisent des unités d'utilisation de l'IA.
+2. **Usage des Crédits** : Chaque crédit permet à l'élève d'utiliser l'IA pour une tâche spécifique. Cela pourrait inclure des activités comme la recherche d'informations, la génération de texte, ou la résolution de problèmes.
+3. **Modification des Crédits** : Des cartes bonus, défis, ou limites peuvent modifier le nombre de crédits disponibles, ajoutant une dimension ludique et stratégique à l'utilisation de l'IA.

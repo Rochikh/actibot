@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 6
+
+=== CONTENU ===
+29/03/2025, 17:37 - Daniel Pappalardo: Sans parler de la formation de nos élèves à l'usage, aux dangers, à la responsabilisation et à l'éthique de l'IA... Je les trouve quand même sacrément consommateurs sans qu'ils se posent la moindre question sur les processus qu'il y a derrière, je ne parle même pas des demandes faites à l'IA. Je fais avec mes élèves des points précis sur l'art du prompt, le travail en amont d'une production IA et comment rester concepteur... On peut d'ailleurs rester RGPD sans soucis en faisant une démonstration sans qu'ils ne pratiquent ou via les outils mis à disposition dans l'ENT comme par exemple vittascience. Cela à d'ailleurs été longuement évoqué ici. Pour les formations auprès des collègues c'est la même chose, on intervient avec une collègue pour expliquer les processus, les prompts, comment l'intégrer dans une conception pédagogique, l'usage des chatbots dans les évaluations etc. Sans pour autant sortir du cadre légal. Après cela dépendra de l'usage qu'en font les collègues. Pour travailler avec Canopé France sur un magister IA, on est encore bloqués juridiquement pour le droit à l'image d'une production faite par IA. Tout cela prend du temps mais j'ai, peut être naïvement, l'impression de passer du savant un peu fou il y a deux ans, à une forme de normalité autour de la prise de conscience des enjeux d'un tel outil.  L'essentiel maintenant, comme il a été longuement dit sur cet espace de partage, est de faire évoluer les pratiques pédagogiques. Sans quoi les devoirs maisons ne seront plus faits par nos élèves mais par IA par exemple.
+29/03/2025, 17:40 - Daniel Pappalardo: Oui tout a fait d'accord parce que c'est un vrai casse-tête de se mettre en conformité. C'est encore, comme trop souvent dans notre ministère, du bricolage.
+29/03/2025, 17:55 - +41 76 372 28 94: Peut-être qu’elle trouveras son bonheur ici : https://academy.apolearn.com/classroom/29444/info
+29/03/2025, 18:55 - Votre code de sécurité avec estelle Duterage Drion IA a changé. Appuyez pour en savoir plus.
+29/03/2025, 19:29 - ‎+33 6 81 41 67 96 a demandé à rejoindre le groupe.
+29/03/2025, 19:43 - Mickaël: Une vidéo, non, mais il y a un petit guide qui a été publié sur le sujet récemment... 🫢

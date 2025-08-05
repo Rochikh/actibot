@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 584
+Messages: 9
+
+=== CONTENU ===
+08/03/2025, 13:03 - Rochane: Quel est le support de cette formation ? Ppt, pdf, ...?
+08/03/2025, 13:44 - +33 7 66 46 62 19: Le support est un rise (Articulate) il y a du texte, vidéos et images (tableau..)
+08/03/2025, 13:54 - +33 6 42 26 64 70: Ouch…pas simple…soit il existe maintenant dans Rise un fonction de traduction. Après tout dépend si tu as accès à l’édition de cette formation dans Rise. Alors il faut passer par la traduction texte par texte. Sinon, si tu n’a pas l’accès en édition, cela va dépendre aussi aussi de la forme du contenu de ta formation: si on y a des exrecices, des activités particulières avec des images, des vidéos…si elle est dans un format type diapo, une solution de secours : si tu peux exporter la formation de rise en pdf, tu peux toujours tenter de l’injecter dans une IA et lui demander t’extraire le plan détaillé de cette formation en français , puis demander de la reconstruire sous forme de diapo (en utilisant une ia type  via gamma) mais cela risque de perdre beaucoup de son contenu en route…l’idée serait d’utiliser l’ia pour reconstruire la formation au plus proche
+08/03/2025, 13:54 - Francois Bocquet: Quels sont les problemes de nature réglementaire ? D’après mon expérience il n’y a pas de questions impossibles à résoudre.
+08/03/2025, 13:57 - +33 6 42 26 64 70: Contractuellement, j’imagine que la question de sa production à la sortie du contrat doit être spécifiée…mais chez eux (teach up) tout se fait en ligne, dans leur interface (et c’est vraiment chouette)…donc pas de format de sortie editable en dehors de leur environnement…de mémoire…cela a peut être évolué
+08/03/2025, 13:59 - +33 6 42 26 64 70: Cote API, chez Moodle tout est possible et ouvert. Quelque soit la version…enfin ce que j’en sais depuis la 3.
+08/03/2025, 14:00 - +33 7 66 46 62 19: Merci pour ces conseils. J'ai accès au rise. Cependant le contenu n'est pas à modifier. Je peux télécharger en pdf pour le texte. Oui il y a des activites/exercices.
+Merci en tout cas.
+08/03/2025, 14:03 - +33 6 42 26 64 70: Un conseil de productivité : n’hésite pas à copier coller tout les textes séparés par une ligne dans l’ordre de ta formation, dans un même fichier, puis de l’injecter dans un IA de ton choix (OpenAI ou Claude traduisent très bien) pour faire cela en une seule manipulation…tu gagneras du temps ;)

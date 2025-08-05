@@ -1,0 +1,41 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 33
+
+=== CONTENU ===
+14/02/2025, 11:30 - +213 558 04 82 89: Un GRAND merci
+14/02/2025, 11:31 - +33 7 87 35 78 96: De mon côté j'ai développé un catalogue de formations "pro" https://absilis.fr/documents/Absilis2025.pdf
+14/02/2025, 11:37 - Rochane: [Bonnes pratiques et astuce ] Ce prompt est conçu pour résumer efficacement tes longues conversations avec l'IA et créer un nouveau point de départ optimisé.  Ça te permet de maintenir la qualité et la cohérence de tes échanges en évitant les limitations techniques des modèles😁
+*Contexte initial*
+Je travaille sur *[description brève du projet* ] depuis un certain temps, et nous avons fait plusieurs itérations. J'aimerais maintenant reprendre ce travail de manière efficace.
+*État actuel et historique*
+Pourrais-tu :
+Faire un résumé synthétique de notre conversation jusqu'à présent, en incluant :
+Les décisions clés prises
+Les directions explorées
+Les contraintes établies
+Les éléments à éviter/abandonnés
+La dernière version fonctionnelle
+Créer un prompt optimisé qui servira à commencer une nouvelle conversation, en incluant :
+Le contexte essentiel du projet
+Les objectifs actuels
+Les spécifications techniques importantes
+Les préférences établies
+*Précisions techniques*
+Si du code a été généré, indique la dernière version stable
+Précise les dépendances ou les outils nécessaires
+Mentionne les APIs ou services externes utilisés
+*Nouvelles directions*
+Pour la suite du projet, je souhaite me concentrer sur [objectif spécifique].
+Assure-toi que le résumé et le nouveau prompt soient alignés avec cette direction.
+*Format de réponse souhaité*
+Merci de structurer ta réponse en deux parties :
+Le résumé de l'existant (pour ma compréhension)
+Le prompt optimisé (que je pourrai copier-coller pour démarrer une nouvelle conversation)
+14/02/2025, 11:46 - +213 558 04 82 89: Merci .
+Des prompts dans le cadre de la recherche scientifique ?
+14/02/2025, 12:31 - +32 498 36 80 15: Bonjour,
+Je souhaiterais créer un nouveau PPT en extrayant des informations de 3 autres PTT.

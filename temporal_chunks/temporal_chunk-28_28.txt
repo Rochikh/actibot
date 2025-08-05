@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 16
+
+=== CONTENU ===
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaitre de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+Je reposterai ce message mardi vers 13h et 18h pour les nouveaux inscrits.
+29/10/2023, 15:27 - Guillaume Singeot: Je viens de tester https://app.hourone.ai/ en version gratuite: on peut prendre un texte de max 3000 mots et en faire une video avec un.e présenteur ou trice virtuelle et une voix française. je n'ai pas bien compris la taille des images qu'on pouvait insérer.
+29/10/2023, 15:30 - Rochane: Il y a le plugin HeyGen de chat GPt qui le fait très bien et en plus sans inscription 🙂
+29/10/2023, 17:26 - Guillaume Singeot: Help : j'anime demain. Vous auriez une activité type "tour de table rapide" utilisant un outil d'Ia utilisé par l'animateur ? ( je ne les connais pas et ne connais pas leur acculturation numérique)
+29/10/2023, 17:55 - Rochane: 😃
+https://chat.openai.com/share/e76efe6d-7d36-4714-86be-942248af3029
+29/10/2023, 17:56 - Guillaume Singeot: Tu es en version payante ?
+29/10/2023, 17:56 - Rochane: oui, d'où la connexion internet
+29/10/2023, 17:57 - Guillaume Singeot: merci 👍
+30/10/2023, 05:58 - ‎Lucie a rejoint le groupe à partir de la communauté.
+30/10/2023, 17:52 - +1 (514) 231-2798: Est-ce qu’il est toujours fonctionnel ? J’aimerais bien essayer chatgpt4
+30/10/2023, 17:56 - +1 (514) 231-2798: Ça marche plus ! S’il y a quelqu’un qui a un code d’invitation d’essai ça serait très apprécié
+30/10/2023, 19:16 - Rochane: <Médias omis>
+30/10/2023, 23:06 - +41 79 276 46 84: L'abonnement vaut largement les 20 dollars par mois si on prend en compte le temps gagné et le gain de performance.
+Je suis surpris à quel point beaucoup de personnes hésitent énormément à faire cet investissement.

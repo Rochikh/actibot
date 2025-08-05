@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 18
+
+=== CONTENU ===
+16/11/2024, 14:51 - +33 6 49 45 01 44: Vidnoz est pas mal (3 minutes gratuites par jour)
+Preneuse d'autres suggestions j'imagine qu'il y a des choses bien sympas que je ne connais pas <Ce message a été modifié>
+16/11/2024, 14:54 - +212 690-281034: ok je vais le tester merci beaucoup
+16/11/2024, 14:59 - Fred IA: Webinaire IA et Éducation, ce lundi 18/11, 17h30 à 18h30 : https://www.mlfmonde.org/ia-education/
+16/11/2024, 15:03 - Francois Bocquet: Intéressant mais sur quel type de compte as tu fait l’exercice ? Sur un compte en gmail.com B2C ou sur un domaine professionnel ? Si c’est la seconde solution l’analyse si elle est correcte me paraît effectivement poser de graves problèmes
+16/11/2024, 15:04 - +33 6 86 63 43 38: Super, merci ☺️
+16/11/2024, 15:04 - Rochane: Sur un compte B2C. Tiens, je vais le refaire sur un compte workspace
+16/11/2024, 15:05 - Francois Bocquet: Oui tu devais avoir un résultat différent
+16/11/2024, 15:11 - Rochane: sur un compte Workspace et Gmail, j'ai l'impression que c'est le même contenu
+https://policies.google.com/privacy?hl=fr
+(pourtant, j'étais bien logué avec les 2 comptes différents)
+16/11/2024, 15:19 - Fred IA: Bonjour François. De mémoire, nous avions évoqué le fait qu'en B2C, Notebooklm n'utilisait pas nos données pour entraîner ses modèles, non ? Ici le résultat de ce prompt est plutôt inquiétant
+16/11/2024, 15:20 - Francois Bocquet: Oui c’est inquiétant
+16/11/2024, 15:21 - Francois Bocquet: Il est étonnant que les CGU soient les mêmes sur les deux services.
+16/11/2024, 15:21 - Francois Bocquet: Il faut que je retrouve les mentions RGPD sur le domaine education avec utilisation de Gemini et playground + Notebooklm
+16/11/2024, 15:23 - Francois Bocquet: Le même prompt sur Copilot Claude ou OpenAi donnerai je pense le même résultat
+16/11/2024, 15:24 - Francois Bocquet: Il y a des points anxiogènes dans l’analyse mais qui ne devraient pas l’être (transmission de DCP à des sous traitants par exemple)
+16/11/2024, 16:57 - Votre code de sécurité avec +33 6 11 25 29 68 a changé. Appuyez pour en savoir plus.

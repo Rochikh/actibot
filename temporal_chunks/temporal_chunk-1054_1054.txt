@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 15
+
+=== CONTENU ===
+Je suis à la recherche d’un outil IA qui me permettrait de créer un scénario pédagogique en bac professionnel avec des ressources documentaires. L’idée est que l’ia puisse suivre une charte précise ( exemple: préciser les compétences abordées par le scénario, le niveau de difficulté, commencer les questions par des verbes d’action , mettre des sources vidéos, audio ou docs….) . Je remercie d’avance la team pour vos réponses
+10/10/2024, 14:59 - Pierrick BRIAND: Bonjour Cherifa, je te propose d'essayer un GPTs que j'ai créé pour cela : https://chatgpt.com/g/g-TgfxKipvF-generateur-de-syllabus-de-cours
+10/10/2024, 15:13 - +33 6 99 86 52 93: Super ! je te remercie je vais le tester de suite !
+10/10/2024, 15:19 - +33 7 44 11 22 11: J'ai déjà testé et c'est vraiment top 😅❤️
+10/10/2024, 15:22 - +212 668-532296: Bonjour svp je cherche un outil IA efficace et gratuit qui génère du voix à partir d'un texte
+10/10/2024, 15:24 - Rochane: ElevenLabs : Bien que principalement payant, il propose des essais gratuits et est reconnu pour sa qualité de synthèse vocale. <Ce message a été modifié>
+10/10/2024, 15:29 - +33 6 19 75 63 49: J’ai trouvé que Maestra était bien.
+10/10/2024, 15:30 - +33 6 19 75 63 49: https://maestra.ai/fr
+10/10/2024, 15:31 - +32 483 60 53 96: Je soutiens clairement: Eleven Labs ont clairement les meilleurs voix. Tu as un essai gratuit avec des tokens et après c’est sur base de consommation. ✨
+10/10/2024, 15:32 - +33 6 19 75 63 49: Elevenlabs est top, mais attention il faut parfois ajouter des liaisons à la main (type: troizans pour 3 ans) quand on travaille en français
+10/10/2024, 15:33 - Rochane: il y aussi D-Id mais toujours avec des crédis
+10/10/2024, 15:37 - +33 6 19 75 63 49: Et https://murf.ai/
+10/10/2024, 15:42 - +33 6 19 75 63 49: <Médias omis>
+10/10/2024, 16:00 - +33 6 70 02 97 35: Merci pour la réponse
+10/10/2024, 16:54 - Pierrick: Sur le champ des gros dispositifs  :  je viens de voir une présentation de eCharlemagne pour un assistant IA sur un dispositif tout intégré dans Moodle K2R2 qui semble très prometteur plutôt skotché certains ont'ils des retours ? https://www.e-charlemagne.com/

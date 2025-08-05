@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 15
+
+=== CONTENU ===
+14/08/2024, 23:58 - ‎Lydie BASTIN a rejoint ce groupe grâce à son lien d’invitation
+14/08/2024, 23:58 - ‎+961 3 614 731 a rejoint ce groupe grâce à son lien d’invitation
+14/08/2024, 23:58 - ‎+41 78 637 56 02 a rejoint ce groupe grâce à son lien d’invitation
+14/08/2024, 23:58 - ‎+33 6 72 16 66 57 a rejoint ce groupe grâce à son lien d’invitation
+15/08/2024, 08:30 - Rochane: Anthropic a créé une nouvelle fonction appelée "prompt caching" pour son IA Claude. C'est comme une mémoire qui permet à Claude de se souvenir d'informations importantes entre les conversations. Cela rend Claude plus rapide et moins coûteux à utiliser, surtout pour les longues discussions ou quand on lui donne beaucoup d'instructions. Cette fonction est particulièrement utile pour les chatbots, l'aide au codage, ou pour travailler avec de longs documents. Elle permet d'économiser jusqu'à 90% des coûts et 85% du temps de réponse
+https://www.anthropic.com/news/prompt-caching
+15/08/2024, 16:03 - Hoang: https://youtu.be/ial33GE-RwU?si=DZz29EjMH0JumOV8 vidéo de présentation de l’IA d’Elon musk : Grok -2 qui permet notamment de générer des images avec des personnalités public.
+15/08/2024, 16:29 - Votre code de sécurité avec +33 6 84 34 68 19 a changé. Appuyez pour en savoir plus.
+15/08/2024, 19:02 - Rochane: L'IA Scientist est un système innovant qui automatise entièrement le processus de recherche scientifique. Utilisant l'intelligence artificielle, il génère des idées, mène des expériences, analyse les résultats et rédige des articles scientifiques. Cette plateforme vise à démocratiser et accélérer la recherche, tout en soulevant des questions éthiques importantes.
+https://sakana.ai/ai-scientist/
+15/08/2024, 19:41 - +1 (438) 225-3821: 😱
+15/08/2024, 20:29 - +33 6 76 07 83 70: Merci de m'accepter parmi vous
+16/08/2024, 06:49 - Votre code de sécurité avec +216 24 679 092 a changé. Appuyez pour en savoir plus.
+16/08/2024, 07:40 - +33 6 76 07 83 70: Bonjour,
+Quelle IA permet de générer des slides à partir d'un livre pdf? Merci

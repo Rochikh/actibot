@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 15
+
+=== CONTENU ===
+19/01/2025, 20:54 - ‎+33 6 80 17 10 49 a rejoint ce groupe grâce à son lien d’invitation
+19/01/2025, 21:35 - +33 6 42 26 64 70: Très impressionnant…
+19/01/2025, 21:39 - +33 7 66 54 11 11: Très impressionnant.
+Google avec NotebookLM et Studio AI tient sa revanche
+19/01/2025, 21:47 - +33 6 42 26 64 70: En attendant o3 ? ;-)
+19/01/2025, 22:15 - +41 76 372 28 94: Ou le suivant ! Il y a des rumeurs qui courent sur X depuis 2 ou 3 jours... On saura bien assez tôt.
+19/01/2025, 22:42 - +33 6 42 26 64 70: En même temps … quand on y mets 12 milliards de sa poche, on a envie de voir Grok prendre la tête ;)
+19/01/2025, 23:21 - +41 76 372 28 94: Ha non, je ne pensais pas à Grok, mais plutôt aux spéculations concernant les phénomènes émergents du nouveaux modèle d'Open AI qui semble être une preview de ce qui n'était pas supposé arriver si vite. Mais ce ne sont que des rumeurs dans ma chambre d'écho, rien d'officiel : juste un rendez-vous... On en saura peut-être davantage le 30 janvier ?
+Je ne devrais d'ailleurs pas y prêter attention et encore moins propager la hype. J'ai juste la faiblesse d'y croire, au vu de la vitesse de l'évolution technologique sans précédent qui est accélérée par les générations d'IA actuelles dont certaines sont déjà bien meilleures que beaucoup d'entre nous, dans nos domaines d'expertise respectifs..
+La bonne nouvelle c'est que si les rumeurs sont vraies, l'AGI pour nous ça risque d'être pour très bientôt selon mes calculs et réflexions personnelles à trois francs six sous.
+19/01/2025, 23:31 - +33 6 42 26 64 70: o3 donc ;-)
+19/01/2025, 23:33 - +33 6 42 26 64 70: Le petit nom de cette IA OpenAI à plus de 80% d’un cerveau 🧠 (o1 plafonnant à une 20 aine)…on aurait pu penser o2 mais, le nom est déjà pris !
+19/01/2025, 23:40 - +33 6 46 86 16 67: Ce message a été supprimé.
+19/01/2025, 23:49 - ‎+33 6 24 76 79 09 est parti·e
+19/01/2025, 23:48 - +41 76 372 28 94: Ça ne sera pas très utile pour moi. Un contexte infini comme Titan me serait beaucoup plus utile. Mais non @33642266470, je pensais pas O3 Pro, ni à ChatGpt 5, mais une IA de niveau 5.

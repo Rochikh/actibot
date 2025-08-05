@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 567
+Messages: 7
+
+=== CONTENU ===
+https://www.moreusefulthings.com/instructor-prompts <Ce message a été modifié>
+07/04/2024, 17:24 - Jacques BARATTI: La marche une activité utile pour le cerveau ? La page web de FitOffice explique comment la marche peut améliorer significativement l'activité cérébrale, soulignant ses avantages pour le bonheur, la concentration, la mémoire et les capacités cognitives. Elle souligne l'importance d'intégrer le mouvement dans le lieu de travail, comme l'utilisation de bureaux permettant de marcher, pour stimuler la créativité et les compétences de résolution de problèmes. La marche améliore la santé physique ainsi que l'alerte mentale et la productivité, la rendant une activité précieuse tant dans les contextes personnels que professionnels. Pour plus de détails, vous pouvez lire l'article complet ici : https://dgxy.link/fjrkM
+07/04/2024, 21:10 - ‎+33 6 09 91 07 08 a rejoint le groupe à partir de la communauté.
+07/04/2024, 22:23 - Rochane: J'ai créé un petit bot sur l'hybridation qui répond à toutes les questions sur l'hybridation des formations et la multimodalité. Je l'ai nourri avec des sources d'articles de recherche sur le sujet 🙂. ( Trouvées sur Perplexity ).  https://poe.com/HybridForm
+07/04/2024, 22:27 - +33 6 23 62 03 47: Alors, moi j aimerais comprendre (désolée je suis en retard sur vous tous !) Comment on fait ça : nourrir un bot.... si qqn a le temps de m expliquer ce serait génial ! Ou de me dire oú apprendre..  je suis preneuse
+07/04/2024, 22:29 - Letizia ALLEGRINI: Bonsoir vous trouverez dans cet exemple un article sur opengpt qui explique comment nourrir un bot. L'interface de poe est plus facile d'accès mais est basée sur le même principe. La plupart du temps on peut intégrer des documents pdf https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197894/fr/opengpt-c-est-quoi
+07/04/2024, 22:30 - Rochane: En fait, sur poe.com, tu peux créer des bots gratuitement. Il suffit de s'y inscrire, créer un agent conversationnel sur une thématique, mettre un prompt pour qu'il execute lee consignes et lui rajouter des documents dans sa base de connaissances pour qu'il s'appuie dessus. Je crois que le bot sur l'hybridation que j'ai partagé est ouvert et tu peux avoir accès à ces informations 🙂 <Ce message a été modifié>

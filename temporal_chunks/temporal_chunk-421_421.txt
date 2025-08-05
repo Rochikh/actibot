@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+16/04/2024, 07:55 - LIO: Tu l'as retravaillé le texte?
+Il sent l'IA 😅
+"Certaines entreprises" "restent incertaines"...
+Je crois que je suis devenue un vrai détecteur IA humain 😅🤣
+16/04/2024, 08:01 - +32 474 71 74 96: *Sur le fond* : J’ai utilisé ChatGPT4 pour la génération des idées pour les exercices et la structuration de la dernière partie. De la partie 1 à 4, ce sont surtout des synthèses de mini articles et résumés que j’avais déjà.
+*Sur la forme* : modèles Canva pour la couverture et le 4e de couverture (avec abo payant en essai pour redimensionner comme je voulais). Puis un outil en ligne pour agréger le tout en PDF (je peux le retrouver si besoin).
+16/04/2024, 08:16 - +689 89 60 06 24: Bonjour
+Est-ce que vous auriez des textes officiels sur l’utilisation de l’IA dans l’éducation nationale ?
+À part les ressources listées ça et là, notamment ici https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992, j’ai du mal à trouver des directives claires. Ces documents sont plus des invites à la réflexion que des textes légaux.
+Pour noljeai, il est précisé : Cette ressource collecte des données à caractère personnel pour fonctionner. Le responsable des activités de traitement doit s’assurer que l’application respecte la règlementation.Lorsque la ressource est utilisée via le Médiacentre ENT, alors il n’est pas nécessaire d’alimenter le registre des activités de traitement de l’établissement. Cette procédure est réalisée au niveau national pour tous les établissements par le ministère de l’Éducation nationale.
+https://ressources.dane.ac-versailles.fr/ressource/nolej-ai
+Y a-t-il d'autres services ou outils d'IA qui sont enregistrés au niveau national ?
+Quels textes encadrent l’utilisation de l’AI dans l’éducation nationale ?
+16/04/2024, 08:21 - Rochane: Il y a une ressource intitulée "Intelligence artificielle et éducation : apports de la recherche et enjeux pour les politiques publiques" mais je ne sais pas si ça te convient https://edunumrech.hypotheses.org/files/2024/02/MEN_DNE_brochure_IA_2024_web_fr.pdf

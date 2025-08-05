@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 24
+
+=== CONTENU ===
+https://www.france-education-international.fr/sources/campagnes/lire/presentations/Nogues.pdf
+https://www.loom.com/share/fb5d81ece52f45ee9a21836c715a8355?sid=91cbbe18-4171-454-beb2-715f4420b656
+https://www.france-education-international.fr/sources/campagnes/lire/presentations/Folny.pdf
+https://www.france-education-international.fr/sources/campagnes/lire/presentations/Valkova.pdf
+https://www.france-education-international.fr/sources/campagnes/lire/presentations/Infographie.pdf
+_l semble qu'il y ai un problème avec les fichiers suivants:
+https://www.teachingenglisch.org.uk/sites/teacheng/files/2024-08/AI_and_ELT_Jul_2024.pdf
+https://www.france-education-international.fr/site/bibliographies/bibliographie-IA-langues.pdf
+16/12/2024, 16:48 - +33 6 71 11 12 91: Pour le pdf qui a un souci, il suffit d'enlever le "c" de "Englisch", ce qui donne https://www.teachingenglish.org.uk/sites/teacheng/files/2024-08/AI_and_ELT_Jul_2024.pdf
+et ça fonctionne !
+16/12/2024, 16:49 - +33 6 71 11 12 91: Et pour le dernier lien, est-ce https://www.france-education-international.fr/actualites/lettre-fei/2024-12/regards-international-premiere-edition-reussie-intelligence-artificielle  ?
+16/12/2024, 18:25 - Votre code de sécurité avec ~ Robin a changé. Appuyez pour en savoir plus.
+16/12/2024, 18:56 - +32 495 45 71 42: Bonjour la communauté
+Je suis à la recherche d une application la générative sur iPhone.
+En existe t il des gratuites ? Si oui laquelle me conseillez vous ?
+Merci déjà de vos retours
+16/12/2024, 18:58 - Francois Bocquet: Gemini, chatGPT, Claude, etc…
+16/12/2024, 18:59 - +32 495 45 71 42: Je vois qu’elles sont payantes
+16/12/2024, 19:02 - ‎estelle Duterage Drion IA a demandé à rejoindre le groupe.
+16/12/2024, 19:09 - Francois Bocquet: ??
+16/12/2024, 19:09 - Francois Bocquet: Ça dépends pour quoi faire
+16/12/2024, 19:10 - Francois Bocquet: Voir aussi Bing
+16/12/2024, 19:10 - +32 479 82 01 20: Elles sont toutes des versions gratuites...certes basiques mais gratuites 😊
+16/12/2024, 19:10 - Francois Bocquet: Higgins Chat

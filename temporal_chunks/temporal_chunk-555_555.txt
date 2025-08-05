@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 20
+
+=== CONTENU ===
+[2] https://www.cscience.ca/un-algorithme-de-traitement-du-langage-pour-aider-les-dyslexiques/
+[3] https://fastercapital.com/fr/sujet/solutions-bas%C3%A9es-sur-l%27ia-pour-la-dyslexie-et-les-difficult%C3%A9s-de-lecture.html
+[4] https://www.acapela-group.com/fr/news/dyslexia-acapela-voices-contribute-to-dybuster-orthographs-innovative-multi-sensory-approach-to-improving-reading-and-writing-skills/
+[5] https://blog.lexidys.com/2024/04/03/logiciels-correction-grammaire-orthographe-lerobert-antidote-cordial/
+[6] https://tompousse.fr/livre/100-idees-pour-venir-en-aide-aux-eleves-dyslexiques/
+[7] https://fr.futuroprossimo.it/2024/04/come-lai-liberera-il-potenziale-degli-studenti-con-dislessia-e-adhd/
+[8] https://academy.appylearny.fr/blog/chatgpt-assistant-apprentissage-efficace-innovant-pour-apprenants-dys
+[9] https://www.merci-app.com/article/dysorthographie
+[10] https://www.ziknblog.com/2023/10/31/je-suis-dyslexique-et-jecris-un-roman-a-laide-de-chatgpt-par-wilfried-lhomme/
+[11] https://web.ac-reims.fr/dsden10/DYS/wa_files/adaptation%20des%20documents%202d%20degre_%281%29.pdf
+[12] http://lettres-anglais.ac-amiens.fr/IMG/pdf/0-_Methode_d_adaptation_-_K-Tomasello_PLP_lettres-anglais_stagiaire.pdf
+[13] https://www.innovation-pedagogique.fr/article15201.html
+[14] https://quillbot.com/fr/correcteur-orthographe
+[15] https://www.tice-numerique-islean.fr/blog/5-applis-ia-a-utiliser-en-classe
+[16] https://www.radiofrance.fr/franceinter/podcasts/carnets-de-campagne/carnets-de-campagne-du-jeudi-13-avril-2023-2108324
+[17] https://edtechactu.com/digital-learning/avec-son-ia-glaaster-aide-les-dyslexiques-a-lire/
+[18] https://www.salsify.com/fr/blog/tout-savoir-prompts-ia
+[19] https://www.abcaider.fr/3-conseils-pour-amenager-textes-et-consignes-pour-les-lecteurs-fragiles-et-ou-dyslexiques/
+[20] https://alain.goudey.eu/side/2024/01/23/il-nest-pas-necessaire-detre-poli-avec-lia-mais-de-savoir-lui-parler-comment-prompter-en-2024/
+28/05/2024, 22:43 - Fred IA: Oui c'est bien ça. Autrement dit, si on passe sur gpt3.5, est ce qu'on beneficie toujours de la connexion internet ? (Est ce que la connexion Web est decorrelée du modèle utilisé ?)

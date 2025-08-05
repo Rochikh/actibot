@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 15
+
+=== CONTENU ===
+Il est particulièrement utile pour les professionnels qui doivent souvent s’exprimer devant un public
+*Fonctionnalités *
+•*Analyse en Temps Réel :* Poised analyse la voix de l’utilisateur en temps réel, détectant les pauses, les hésitations, le rythme et l’intonation et indiquant le % de temps de parole et le temps écoulé depuis la dernière prise de parole
+•*Feedback Instantané :* Le logiciel offre un retour immédiat sur les aspects à améliorer, comme les béquilles verbales (euh, mum, ... ), la clarté du discours, l’intonation.
+•*Statistiques et Rapports : *Poised génère des rapports détaillés sur les performances de l’utilisateur, incluant des graphiques et des statistiques sur l’évolution des compétences de prise de parole.
+•*Personnalisation :* Les utilisateurs peuvent définir des objectifs spécifiques et le logiciel personnalise les exercices et le feedback en fonction de ces objectifs.
+*J’en pense quoi ?*
+•*Addictif ! *Pour l’orateur en herbe que je suis, j’adore les données en temps réels : le temps de prise de parole et la durée depuis la dernière prise de parole bien sûr, mais également tous les autres indicateurs à travers lesquels je navigue (digression, rythmes, béquilles verbales, nombre de questions)
+•*Intuitif *Une interface épurée, accessible, qui va à l’essentiel.
+•*Ergonomique *Une fois connecté à mon Google Meet, Poised se lance automatiquement. Je peux faire apparaître (ou pas) la console d’analyse en temps réel.
+•*Motivant* Les feedbacks en fonction de l’objectif, même s’ils ne sont pas d’une grande précision, me challengent sur mes postures et mes techniques de locuteur à améliorer.
+16/05/2024, 14:17 - +33 6 99 36 11 69: Merci pour ce feed-back hyper détaillé 🤖
+16/05/2024, 15:47 - Francois Bocquet: Du nouveau pour Gemini Éducation si vous utilisez Google Workspace Education : Google Gemini for Education has arrived! 🥳🎊🎉
+These tools combine the power of Google Gemini with data privacy protections and unique features for teachers.
+Get all the details here: bit.ly/3QNaCmi

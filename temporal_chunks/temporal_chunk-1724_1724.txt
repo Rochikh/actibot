@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 655
+Messages: 14
+
+=== CONTENU ===
+06/02/2025, 17:54 - Votre code de sécurité avec +32 474 05 34 87 a changé. Appuyez pour en savoir plus.
+06/02/2025, 17:59 - Votre code de sécurité avec +32 474 05 34 87 a changé. Appuyez pour en savoir plus.
+07/02/2025, 07:31 - Votre code de sécurité avec ~ Brice Gaillard a changé. Appuyez pour en savoir plus.
+07/02/2025, 09:14 - +44 7776 747507: <Médias omis>
+07/02/2025, 09:22 - +33 6 79 72 76 62: Bonjour petite question pour les professionnels de la rgpd, je vais intervenir dans une classe de première, j'aimerais savoir si je peux faire installer LM studio sur les ordinateurs du lycée, et s'ils s'en servent est-ce qu'on respectera la rgpd ? Merci d'avance et bonne journée.
+07/02/2025, 09:35 - Ahmadou Ba: Je suis tombé sur ça ce matin, une vrai pépite.
+DuckDuckGo AI Chat permet d'interagir directement avec des modèles d'intelligence artificielle avancés, similaires aux assistants conversationnels de référence. Ces modèles, spécialisés dans le traitement du langage naturel, génèrent des réponses contextuelles et fluides à partir des requêtes de l'utilisateur tout en garantissant une confidentialité totale. En combinant technologie de dialogue IA et protection de la vie privée, le site offre une expérience simple et sécurisée pour discuter avec ces modèles sophistiqués.
+https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+07/02/2025, 09:35 - Ahmadou Ba: <Médias omis>
+07/02/2025, 09:35 - Ahmadou Ba: Tu peux choisir de discuter avec les grands modèles
+07/02/2025, 09:53 - +33 6 79 72 76 62: je confirme c'est super !
+07/02/2025, 09:56 - Francois Bocquet: Tu as à peu près la même chose ici chez Vittascience https://fr.vittascience.com/ia/ avec la perspective d’une conformité RGOD réelle ce qui ne peut être le cas avec Duck.ai (pour de multiples raisons).
+07/02/2025, 09:56 - estelle Duterage Drion IA: Tu peux préciser en fait, on a la même qualité de réponse que sur les sites officiels ?
+07/02/2025, 10:02 - Francois Bocquet: LL studio demande pas mal de puissance sur les machines. Ça te permet de mettre en place des traitements locaux sans faire appel à un prestataire extérieur. Ton algorithme d’IA est alors comparable à un traitements locaux de texte ou un tableur installé en local. Ça simplifie donc beaucoup la mise en conformité puisqu’il n’y a ni contrat ni accord de sous traitance avec un prestataire. Il reste donc à réaliser une analyse d’impact puis a établir des règles d’administration et d’information des personnes et enfin à inscrire le traitement au registre de l’établissement. Et à ces conditions le traitement sera conforme au RGPD. C’est donc jouable !

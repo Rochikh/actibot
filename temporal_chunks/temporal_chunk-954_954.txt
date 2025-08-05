@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 20
+
+=== CONTENU ===
+- 01-preview : désormais 50 messages par semaine possible
+- 01-mini : désormais  50 messages par jour possible
+Chat GPT gratuit :
+- Accès à 01-mini (limitation non précisée, mais inférieure à celle de Chat GPT Plus)
+20/09/2024, 10:00 - Fred IA: <Médias omis>
+20/09/2024, 10:01 - Rochane: En gros, ils sont passés de 30 à 50...
+20/09/2024, 10:03 - Fred IA: Pour 01-preview: effectivement de 30 msg par semaine à 50. Et pour 01-mini, de 50 par semaine à 50 par jour
+20/09/2024, 10:06 - Benoit Groupe gPT: Vous arrivez à trier entre les requetes GPT4 et o1 au dela des tests?
+20/09/2024, 10:12 - Fred IA: À priori, ce n'est effectivement pas indiqué (en tout cas, sur la version gratuite). Mais si gpt-o1-mini est sollicité, on voit apparemment ce logo :
+20/09/2024, 10:12 - Fred IA: <Médias omis>
+20/09/2024, 10:38 - ‎+32 495 20 19 14 a rejoint ce groupe grâce à son lien d’invitation
+20/09/2024, 10:40 - +32 472 66 65 92: Bonjour à tous, certains ont-ils déjà eu l'occasion d'utiliser nolej.io  dans le cadre de la création d'e-learning?
+Si oui, quel est votre retour par rapport à la qualité de cet outil? Une idée du prix par licence?
+Merci d'avance 😁
+20/09/2024, 10:44 - Rochane: Perso, je l'ai utilisé et je l'ai trouvé très intéressant dans le sens où juste à partir d'une ressource PDF ou d'un lien internet, on récupère un micro apprentissage complet fait essentiellement d'activités h5p ( si on lui donne une vidéo, il peut la rendre Interactive)
+De très bonnes impressions pour cette plateforme française ( RGPD compatible)
+Pour le prix, je voulais acheter des licences pour 500 utilisateurs et j'ai eu un prix intéressant mais confidentiel)🙂
+20/09/2024, 10:46 - Rochane: Possibilité de créer 3 ressources gratuitement et même les avoir en scorm pour des lms
+20/09/2024, 10:46 - +33 6 49 95 38 23: J'utilise openwebui, le rag est correcte.
+20/09/2024, 10:46 - +33 6 70 57 72 80: Bonjour, j’ai pratiqué. Mon conseil : avoir un pdf initial très bien construit. La sortie est équivalente aux données d’entrées. Ensuite cela fait des bons modules /capsules de mémorisation. Un peu tjrs la même chose. Env 3000€ pour une api sur Moodle

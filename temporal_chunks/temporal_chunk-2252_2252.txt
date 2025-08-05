@@ -1,0 +1,41 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 33
+
+=== CONTENU ===
+Utile en communication ou lancement.
+24. Rédiger une charte ou un manifeste
+Tu fournis des valeurs ou principes, l’IA les structure en texte mobilisateur.
+Outil d’alignement collectif.
+25. Construire une carte mentale à partir d’idées
+Tu listes des idées, l’IA les organise en mindmap ou logique thématique.
+Utile pour clarifier un projet ou brainstormer.
+26. Créer un prompt réutilisable pour tâches fréquentes
+Tu formalises une consigne générique, l’IA te la rend stable et paramétrable.
+Gagne en cohérence et productivité.
+27. Mettre en forme des données brutes
+L’IA reformule et organise une matière brute (listing, brainstorm, verbatim).
+Parfait pour gagner en lisibilité.
+28. Rédiger une notice ou procédure
+Tu expliques un processus oralement ou en vrac, l’IA en fait une fiche claire.
+Utile pour transmettre et capitaliser.
+29. Préparer un argumentaire politique ou technique
+L’IA développe des arguments structurés à partir d’un objectif.
+Renforce ta capacité de conviction.
+30. Transformer un diagnostic en note stratégique
+Tu as un état des lieux, l’IA le reformule pour appuyer une prise de décision.
+Passage de l’analyse à l’action.
+31. Écrire un discours public ou institutionnel
+Tu définis le message, le public et l’intention, l’IA rédige une allocution adaptée.
+Tu peux la moduler selon ton style.
+18/06/2025, 00:11 - +33 6 71 11 12 91: Cette liste est très intéressante mais je l'ai trouvé difficile à exploiter, pour retrouver l'info. J'ai demandé à Claude de me regrouper tout ça en groupes, et voici sa proposition que j'ai repris pour moi dans Notion en menus déroulants.
+N.B. J'ai mis en début de ligne le numéro de ta liste. Il pourra être supprimé ensuite
+- **1 Organisation et planification**
+- 1 Dicter un flux de pensée et obtenir une liste de tâches
+Parle librement de ce que tu dois faire, et l’IA transforme ça en liste actionable.
+Idéal pour désencombrer ton mental et structurer ton travail rapidement.
+- 2 Transformer des notes en planning structuré
+À partir de notes éparses, l’IA construit un planning avec échéances et dépendances.

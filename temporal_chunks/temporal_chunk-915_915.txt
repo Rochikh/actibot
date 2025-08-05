@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 15
+
+=== CONTENU ===
+Je suis chaque jour surpris par ce que les IA (surtout Claude) me permettent de faire et à quel point mes discussions avec elles sont plus riches qu'avec mes collègues de travail. Je ne sais pas si l'IAG sera possible (techniquement, financièrement et écologiquement parlant). Il y a six mois je n'y croyais pas du tout, mais aujourd'hui j'ai l'impression qu'ils vont y arriver rapidement (avant 2030 et peut-être déjà avec Orion ?).
+Pour finir, j'ai rencontré @33649535198 (et d'autres de ce groupe) sur un autre groupe animé par Benoît Raphaël (Flint).
+10/09/2024, 18:42 - ‎Benoit Groupe gPT a demandé à rejoindre le groupe.
+10/09/2024, 18:44 - ‎Benoit Groupe gPT a rejoint ce groupe grâce à son lien d’invitation
+10/09/2024, 19:02 - Rochane: Je la trouve excessive dans le sens où il n'évoque pas du tout le côté obscur de l'IA qui est pourtant un problème sérieux avec des défis comme  la présence de biais et d'inégalités, la nécessité d'explications et de transparence, et la menace de déplacement de travail et d'impact social....
+10/09/2024, 19:25 - ‎+33 6 89 33 49 33 a demandé à rejoindre le groupe.
+10/09/2024, 19:27 - Vous avez changé la description du groupe
+10/09/2024, 19:28 - ‎+33 6 89 33 49 33 a rejoint le groupe à partir de la communauté.
+10/09/2024, 19:37 - +33 6 74 05 09 80: Wahou 🤩
+Avec quel outil as-tu créé ce chatbot ???
+10/09/2024, 19:46 - Hoang: 💡 Impact de l’IA sur la formation des programmeurs : Un professeur du MIT a testé ChatGPT, Code Llama, et Google dans l’apprentissage de la programmation. Résultats ? ChatGPT est le plus rapide, mais les étudiants ayant utilisé Google ont mieux retenu les concepts clés. 💻🔍
+✨ Leçon clé : l’IA peut aider, mais les bases restent indispensables pour comprendre et résoudre des problèmes complexes. La décomposition du travail est cruciale pour apprendre efficacement. 📊💡
+Source : Developpez.com https://search.app/W3VN8kRcdVowW15E7
+10/09/2024, 19:46 - Rochane: pose lui la question, il va te répondre 😁
+10/09/2024, 20:06 - ‎+33 6 42 69 60 76 est parti·e

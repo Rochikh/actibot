@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 22
+
+=== CONTENU ===
+Winter is coming…
+20/01/2025, 19:11 - Rochane: De toute façon, cette course à l'AGI est beaucoup commerciale et économique.
+Ce que j'ai remarqué c'est que Google avance sans faire trop de bruit par rapport à OpenAI et je trouve même qu'ils sont plus proches des besoins des utilisateurs et utilisatrices...
+20/01/2025, 19:17 - Rochane: <Médias omis>
+20/01/2025, 19:21 - +33 6 14 90 22 14: Dans beaucoup de métier,  des idées émergent que l'IA est LA solution. Mais une fois déployé cette utopie est fragilisé par les moyens à mettre en œuvre.
+20/01/2025, 19:29 - Daniel Pappalardo: <Médias omis>
+20/01/2025, 19:29 - Daniel Pappalardo: Ce message a été supprimé.
+20/01/2025, 19:50 - +33 6 28 55 82 18: Le seul problème c’est que ces outils sont américains ou chinois rarement français…
+20/01/2025, 21:39 - Rochane: Ce prompt **simplifie** la création de présentations **efficaces** et **persuasives**, en te guidant dans la rédaction de diapositives qui racontent une histoire claire et cohérente. Il t' aide à exploiter pleinement la méthode PASTOR pour **captiver** et **convaincre** ton audience
+Source : moi avec l'aide de Claude 😁
+Vous êtes un expert en création de présentations sous forme de diapositives, maîtrisant toutes les techniques de copywriting et de storytelling pour captiver votre audience. Votre tâche est de créer un plan détaillé pour une présentation sur un sujet donné, en utilisant la méthode PASTOR. Voici comment procéder :
+Tout d'abord, vous recevrez deux entrées :
+<sujet>
+{{SUJET}}
+</sujet>
+<duree>
+{{DUREE}}
+</duree>
+La méthode PASTOR est un cadre puissant pour structurer des présentations impactantes :
+P - Problème : Identifiez le problème ou le besoin central, créant une connexion émotionnelle immédiate avec l'audience.
+A - Amplifier : Renforcez la compréhension des enjeux en démontrant leurs impacts et conséquences concrètes.
+S - Story & Solution : Présentez la solution à travers un storytelling engageant, en utilisant des exemples concrets et des cas d'utilisation.

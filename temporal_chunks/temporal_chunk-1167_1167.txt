@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 7
+
+=== CONTENU ===
+02/11/2024, 17:32 - +689 87 78 58 86: Tout à fait, merci pour ces précisions @33662364404 . Je me souviens de vos premières discussions avec Christian concernant son projet. Je me demandais juste si vous aviez eu l'occasion d'en rediscuter et peut-être d'élaborer un "protocole" à suivre pour un enseignant qui voudrait déployer sa solution en établissement tout en respectant le cadre du RGPD.
+02/11/2024, 17:37 - +33 6 66 98 84 23: Sur l'académie de Toulouse on nous propose de travailler avec DuckDuckgo AI Chat ou Vittascience qui seraint plus conforme...
+02/11/2024, 17:40 - Francois Bocquet: Non pas vraiment. Quoi qu’il en soit un enseignant seul ne peut décider de mettre en œuvre un traitement. Seuls le chef d’établissement ou le recteur ou le Ministre peuvent assumer cette responsabilité (en France).  Le responsable de traitement doit donc procéder à l’analyse d’impact sur la protection des données, inscrire le traitement aux registres obligatoires et diffuser l’information exigée aux personnes concernées. A ce moment seulement il est possible d’affirmer que le traitement est conforme.
+02/11/2024, 17:40 - Rochane: https://x.com/OpenAI/status/1851340615344406781?t=i6tNho1p7wRAXNpOTdPaxA&s=08
+Très bonne nouvelle, on va pouvoir retrouver facilement nos discussions sur Chat Gpt 👌
+02/11/2024, 17:43 - +689 87 78 58 86: Merci pour ces précisions
+02/11/2024, 17:45 - Francois Bocquet: Un traitement est conforme ou ne l’est pas. C’est un verdict binaire. Si Vittascience est accedé depuis l’ENT via le GAR, il est considéré comme conforme. Duck.ai ne peut être conforme mais présente l’avantage de minimiser les risques. Pour savoir si un traitement est conforme il suffit de vérifier que celui ci est bien inscrit dans le registre de l’établissement ou de l’académie. Si ce n’est pas le cas alors le traitement n’est pas conforme. Si le registre n’est pas accessible au public dans un établissement secondaire public en France, alors le chef d’établissement viole le code de l’éducation et la loi Informatique et Libertés :-(

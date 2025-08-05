@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 12
+
+=== CONTENU ===
+14/04/2025, 17:56 - Sébastien Place: De ?
+14/04/2025, 18:06 - Rochane: Microsoft et l'IA ( voir un peu plus haut les échanges avec @33614272586 )
+14/04/2025, 18:13 - Sébastien Place: Ok, cool mais à ma petite échelle je ne suis pas certain d'apporter quelque chose d'utile dans la discussion.
+14/04/2025, 18:16 - +32 475 86 01 57: Je suis impatient de le voir jeudi en webinaire sur les chabot avec copilot 😁😇
+14/04/2025, 18:21 - Sébastien Place: Nan mais vraiment il fera beau normalement jeudi. Faut s'oxygener et prendre le soleil au lieu de rester encore devant un écran après les heures de travail. Ça n'en vaut pas la peine
+14/04/2025, 18:22 - Sébastien Place: Et puis mes Webinaires ils sont ennuyeux. À ta place je me suivrais même pas.
+14/04/2025, 18:35 - +32 475 86 01 57: Non mais je suis sûr qu il y aura des choses à prendre pour limiter les dégâts 😁 (ms t as obligé à organiser ce webinaire ou bien?)
+14/04/2025, 18:39 - +32 498 78 46 36: Pour celles et ceux qui veulent tester un agent IA, je vous conseille de regarder du côté de Google et de son Firebase studio. Après avoir testé Manus, Deepsite, Genspark, c'est finalement lui que je préfère (et je n'ai pas de billes chez Google). C'est un vrai agent IA à la Manus, avec les qualités UX Google en plus. J'ai rédigé 6 étapes à respecter pour les agents IA. Ah oui ! Et ici pas d'histoire de crédits comme sur Manus ou Genspark. Enjoy
+https://www.linkedin.com/posts/johan-creeten_firebase-studio-activity-7317584992631422977-5o3N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdwCNIBxbRe03zaunM_TZ6CgCm7Uykf1EY
+14/04/2025, 18:41 - Sébastien Place: Nan c'est irréparable, le joint de culasse est rompu c'est mort faut changer tout le bloc moteur ...
+(oui on me colle un flingue sur la nuque en fait j'ose pas bouger du clavier)
+14/04/2025, 21:01 - Letizia ALLEGRINI: Bonsoir à tous depuis quelque temps je rencontre des difficultés à réaliser des podcast en français sur notebooklm avez vous des conseils à me donner. Le prompt que j'utilisais ne semble plus fonctionner merci à tous

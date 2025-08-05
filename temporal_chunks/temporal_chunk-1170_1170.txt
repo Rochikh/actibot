@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 13
+
+=== CONTENU ===
+C'est quoi un DCP, un "traitement", une "analyse d'impact", les "registres obligatoires" ? Est-ce qu'en Suisse c'est tout pareil (j'imagine que oui) ?
+Mon objectif c'est qu'ils soient sur un pied d'égalité par rapport à la version payante de ChatGpt lorsqu'ils sont en TP avec moi. Maintenant c'est le cas.
+02/11/2024, 19:14 - +689 87 78 58 86: DCP : donnée à caractère personnel
+02/11/2024, 19:36 - ‎+62 856-0022-56856 a rejoint ce groupe grâce à son lien d’invitation
+02/11/2024, 20:55 - Fred IA: IA et Éducation / Rapport Sénat du 30 octobre 2024 https://www.senat.fr/rap/r24-101/r24-101-syn.pdf
+02/11/2024, 21:02 - ‎+33 6 34 43 96 38 est parti·e
+02/11/2024, 22:05 - Francois Bocquet: Traitement : lire ou relire l’art 4 du RGPD qui donne toutes les définitions dont les DCP et le traitement
+02/11/2024, 22:06 - Francois Bocquet: Une analyse d’impact DOIT être réalisée sur 2 critères parmi 9 sont présent dans le traitement. Avec l’IA c’est toujours le cas.
+02/11/2024, 22:08 - Francois Bocquet: La loi de 2023 en Suisse est très proche du RGPD. https://www.ge.ch/actualite/nouvelle-loi-protection-donnees-nlpd-est-entree-vigueur-4-09-2023
+02/11/2024, 22:09 - Francois Bocquet: Ici un tableau comparatif des différences https://swissprivacy.law/55/
+02/11/2024, 22:11 - +689 87 78 58 86: Très intéressant @33662364404. Aurais-tu des conseils à donner pour quelqu'un (non juriste) qui souhaiterait bien se former au RPGD ?
+02/11/2024, 22:13 - Francois Bocquet: Educa.ch a fait un bon dossier sur ces questions https://www.educa.ch/fr/actualites/dossier-educa/ecole-conforme-la-protection-des-donnees
+02/11/2024, 22:16 - Francois Bocquet: Le sujet est très vaste et complexe et tout dépendra du temps que tu veux y consacrer et des fonctions que tu souhaiteras exercer ensuite. J’ai suivi une formation d’une année universitaire au CNAM (5 à 6 h de travail par semaine) pour devenir DPD. D’autres suivent un master complet en 1 ans avec 30 à 40h/ semaine de travail. Si tu précise ton besoin (culture générale, responsable de traitement, DPD, conseil expert, …) je pourrais mieux te guider ;-)

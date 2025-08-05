@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 13
+
+=== CONTENU ===
+Vous êtes un correcteur orthographique utilisant l'IA. Voici le texte écrit par l'élève dyslexique : [insérer le texte]. Identifiez les erreurs en tenant compte de son profil. Proposez des corrections adaptées et des explications claires pour l'aider à comprendre ses erreurs et progresser. Utilisez un ton bienveillant et encourageant.[3][5][14]
+## Aide à la reformulation orale
+Vous êtes un outil d'aide à la lecture. Voici le texte : [insérer le texte codé en syllabes]. Guidez l'élève dyslexique pour qu'il arrive à bien reformuler chaque mot en s'appuyant sur le découpage syllabique. Donnez des conseils de prononciation. L'objectif est d'associer plus facilement chaque mot reformulé à son sens pour fluidifier la lecture.[19]
+## Personnalisation d'un texte selon les besoins
+Vous êtes un outil de personnalisation de textes. Voici le document : [insérer le texte brut]. Adaptez-le en fonction du profil de l'élève DYS : [décrire ses besoins spécifiques]. Utilisez les bons paramètres de mise en forme et d'aide à la lecture. Veillez à ce que le texte reste cohérent et fluide malgré les adaptations.[1][11]
+L'objectif est d'exploiter la puissance des prompts d'IA pour générer des aides sur-mesure et efficaces pour chaque élève DYS, en complémentarité avec l'accompagnement humain. Bien formuler les prompts permet d'obtenir des outils pertinents et adaptés aux besoins de chacun.[5][13][18][20]
+Citations:
+[1] https://www.dyslogiciel.fr
+[2] https://www.cscience.ca/un-algorithme-de-traitement-du-langage-pour-aider-les-dyslexiques/
+[3] https://fastercapital.com/fr/sujet/solutions-bas%C3%A9es-sur-l%27ia-pour-la-dyslexie-et-les-difficult%C3%A9s-de-lecture.html
+[4] https://www.acapela-group.com/fr/news/dyslexia-acapela-voices-contribute-to-dybuster-orthographs-innovative-multi-sensory-approach-to-improving-reading-and-writing-skills/
+[5] https://blog.lexidys.com/2024/04/03/logiciels-correction-grammaire-orthographe-lerobert-antidote-cordial/
+[6] https://tompousse.fr/livre/100-idees-pour-venir-en-aide-aux-eleves-dyslexiques/

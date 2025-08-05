@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 9
+
+=== CONTENU ===
+19/02/2025, 10:29 - ‎~ Arnaud a ajouté +33 6 87 95 09 42
+19/02/2025, 10:32 - Francois Bocquet: Exact mais si l’on veut des modèles polyvalents et avec des réponses rapides pour un contexte élargi il faut des machines de bureau super puissantes en GPU et en mémoire donc des coûts énergétiques de production hardware énormes pour une utilisation effective de la puissance qui sera au final très peu utilisée en temps par rapport à des infrastructures mutualismes ET optimisées. Le fait que LM studio et les autres n’aient pas de données me paraît plutôt inquiétant !
+19/02/2025, 10:37 - +33 6 43 10 07 29: Cela me semble assez clair, en effet
+19/02/2025, 10:45 - Rochane: un deep research sur perplexity intéressant sur le sujet https://www.perplexity.ai/search/faire-tourner-des-modeles-ia-l-wPGD3dHKRX6oPYSAxY49aA
+19/02/2025, 10:55 - Pierrick: Cela n'a probablement de sens que si on as déjà la machine adpatée, ce qui restreint l'usage local au gamers je le crains 😉 <Ce message a été modifié>
+19/02/2025, 11:20 - +32 483 60 53 96: Je vous fais le suivi sur les données que je peux avoir d'eux. J'ai refait une demande avec des éléments plus précis.
+19/02/2025, 11:23 - +33 6 19 89 32 62: La RTS (radio télé suisse) a développé un modèle sur ses serveurs propres et il est performant. Je n’ai pas l’impression que le coût ait été considérablement surélevé. Dans le domaine juridique on revient beaucoup à des serveurs en local en raison de la sensibilité critique des données notamment l’autorité de la concurrence a développé en local et idem le coût comparatif ne semblait pas si important et les résultats étaient bons. À suivre donc ☺️…
+19/02/2025, 11:30 - Clément Cahagne: Petite question économique : est-ce que souscrire à un forfait Bouygues à 2€ / mois permet d’avoir Perplexity pro pendant 1 an offert ? Ou il faut un forfait plus cher ? Parce que concrètement, je suis prêt à avoir une ligne téléphonique inutile pour Perplexity Pro quand on voit les avancées récentes de l’outil 😅
+19/02/2025, 11:46 - +33 6 16 85 87 26: <Médias omis>

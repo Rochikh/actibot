@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 14
+
+=== CONTENU ===
+14/10/2024, 08:56 - +237 99148639: J'essaie de créer une affiche automatiquement à partir d'un prompt, j'ai essayé avec dalle, deepdream générator et bien d'autre mais le résultat est décevant surtout sur le plan du texte, trop de fautes orthographe et et de non sens, l'image par contre est acceptable. Quelqu'un peut-il avoir quelque chose de plus sympa svp ?
+14/10/2024, 08:57 - +33 6 79 72 76 62: https://ideogram.ai/
+14/10/2024, 08:58 - Rochane: Le plus simple serait de générer l'image et la déposer dans Canva pour rajouter ton texte.
+Après, je n'ai pas essayé si ça marche avec le GPT Canva dans chat Gpt même.....
+14/10/2024, 08:59 - Rochane: C'est vrai qu'Ideogram est une solution sauf que si tu as beaucoup de texte et tu veux le positionner dans un endroit précis, ça risque d'être pas possible
+14/10/2024, 09:17 - Jean-Marc Everard: Enjeux importants et excellent article comme souvent de Benoît, qui permet de nuancer un peu les choses. Il faut évidemment se souvenir que les datas center sont très avares de chiffres sur leurs émissions et consommation et donc on se base souvent sur des extrapolations, mais ça met bien en tête les ordres de grandeurs. Et j'abonde à 100% avcec les recommandations. Ceci dit, ça me conforte dans l'idée de réduire un peu ma consommation de viande et de chercher d'autres sources de protéines ^^.
+14/10/2024, 09:48 - ‎+33 6 61 84 51 72 est parti·e
+14/10/2024, 11:53 - +237 99148639: Merci il a fait le djob👌
+14/10/2024, 11:56 - martinyemani IA: Bonjour. Voudrais participer à la mise à jour du bot. Que faire ?
+14/10/2024, 12:41 - Rochane: La mise à jour, je la fait en général le weekend. Il faut extraire la dernière version de la discussion ici 🙂
+14/10/2024, 12:48 - martinyemani IA: Merci. Comment concevoir un bot comme le votre à partir des FAQ d'un parcours de formation?
+14/10/2024, 12:49 - Rochane: Demande au bot, il te répondra 😁
+14/10/2024, 12:51 - martinyemani IA: Merci Rochane
+14/10/2024, 14:46 - ‎+33 6 19 04 00 39 a demandé à rejoindre le groupe.

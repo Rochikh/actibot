@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 18
+
+=== CONTENU ===
+22/03/2025, 13:20 - +33 6 75 41 23 05: Oui je préférerais aussi un outil de construction de cartes conceptuelles
+22/03/2025, 13:44 - Votre code de sécurité avec ~ F- Bozonnet a changé. Appuyez pour en savoir plus.
+22/03/2025, 16:13 - Francois Bocquet: Quelqu’un a trouvé le moyen d’exporter les cartes mentales de NotebookLM dans un autre format que le PNG pour que ce soit reeditable ? Merci d’avance.
+22/03/2025, 17:09 - +33 6 86 05 85 44: Bonjour On peut faire des cartes mentales dans notebooklm !!! Comment ?
+22/03/2025, 17:10 - Gregoire IA: Lol, oui c'est en effet passé un peu inaperçu. NotebookLM devrait suivre les mêmes cours de marketing que ChatGPT 😅
+22/03/2025, 17:12 - Gregoire IA: Tu penses à quoi comme export ? .svp je ne suis pas certain que ce soit possible mais html probable si on récupère la div de la carte et qu'on insère les bibliothèques requises
+22/03/2025, 17:34 - +33 6 75 41 23 05: Ou .md j’imagine
+22/03/2025, 17:48 - Francois Bocquet: En markdown en mm en map ou en Opml ou encore en texte brut avec indentation ou même html
+22/03/2025, 17:49 - Francois Bocquet: Ou encore en rtf
+22/03/2025, 17:57 - Rochane: J'aime beaucoup ce post LinkedIn qui parle de l'usage de l'IA par les étudiant·e·s
+Je trouve très pertinent ce qu'elle raconte
+https://www.linkedin.com/posts/madame-a-martin_lia-%C3%A7a-se-voit-%C3%A7a-fait-un-moment-que-activity-7309208485575950337-Ddmx?utm_source=share&utm_medium=member_android&rcm=ACoAAAGxoVMBlr37srmARH4iAbrI9BKNR6fjigw
+22/03/2025, 21:54 - Francois Bocquet: https://bsky.app/profile/lageekdeservice.bsky.social/post/3lky4lsfce22t
+22/03/2025, 21:54 - Francois Bocquet: Gemini accessible sans compte Google
+Depuis le 19 mars 2025, il est possible d’utiliser Gemini sur le web sans avoir à se connecter à un compte Google.
+22/03/2025, 22:35 - +33 6 71 11 12 91: Ah, alors je vais peut-être jeter un coup d'œil ! Merci pour l'info !
+22/03/2025, 22:49 - Ahmed Yagoubu: Je cherche une plateforme gratuite. Est ce possible ?
+22/03/2025, 22:58 - +41 79 258 90 36: Il faut s'annoncer par un login sinon on est bridé. Résultats sur des photos de 1913 excellents.

@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 11
+
+=== CONTENU ===
+https://www.notion.so/product
+04/05/2024, 09:05 - +33 6 76 04 48 20: J’utilise Trello pour suivre et coordonner mes différents projets, mais je cherche à "valoriser" la démarche avec l’automatisation d’une veille pédagogique et je ne sais pas comment faire.
+Peut-être votre nièce pourrait-elle m’y aider ?
+04/05/2024, 09:14 - +32 479 82 01 20: Avez-vous déjà essayer d'automatiser votre veille avec Zapier ou Make ? Cela s'intègre assez bien à Trello.
+04/05/2024, 09:16 - +33 6 76 04 48 20: Je ne connais pas…
+Je vais voir ça, merci pour l’info 👍
+04/05/2024, 09:18 - +32 479 82 01 20: Avec plaisir. N'hésitez pas à poser des questions si jamais. J'utilise ses outils aux quotidiens. 😊 D'autant plus que les modules IA y ont été intégré donc nous pouvons y aller encore plus loin. 🚀
+04/05/2024, 09:24 - +33 7 63 58 01 55: @33676044820 Je sais pas si ça va répondre à votre question mais intuitivement, je dirais que les flux RSS pourraient être la clé pour récupérer les infos, à faire ensuite passer dans un outil d'automatisation comme Make (je rejoins Youssef) qui pourrait solliciter une IA générative textuelle pour faire une synthèse (écrite ou même vocale). Et bien sûr, vous devriez pouvoir rajouter Trello qq part dans le processus.
+Voir cette vidéo de Shubham Sharma pour le principe de fonctionnement : https://youtu.be/sNL-jU8IBYc?feature=shared
+04/05/2024, 09:50 - +32 479 58 54 12: Je suis aussi demandeuse d'outils surtout pour réaliser un travail de veille de A à Z. Depuis la collecte des infos jusqu'à la réalisation d'articles, de comparatifs et de tableaux chronologiques pour suivre facilement l'évolution. Avec bien sûr la possibilité de personnaliser cette veille selon ses propres besoins.
+04/05/2024, 10:07 - Jean-Marc Everard: Idem. J’ai commencé à intégrer Notion avec Make pour ma veille, mais j’aimerais également ajouter la récupération de newsletters pour en faire des résumés avec une IA générative (et des paramètres à choisir pour indiquer mes intérêts pour les résumés) et intégrer le tout dans un outil de veille (Obsidian n’est que local n’est ce pas?). Mais j’avoue que je ne  suis pas encore là…

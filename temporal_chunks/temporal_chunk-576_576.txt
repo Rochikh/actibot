@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 11
+
+=== CONTENU ===
+01/06/2024, 12:25 - Pierrick BRIAND: Pour le coup, GEMINI
+01/06/2024, 12:29 - ‎+33 6 49 93 45 52 a demandé à rejoindre le groupe.
+01/06/2024, 12:38 - ‎+33 6 15 44 84 29 est parti·e
+01/06/2024, 12:47 - +33 6 08 67 53 65: Même résumé par Copilot365 :
+Le document intitulé "Generative AI and News Audiences" par Richard Fletcher et Rasmus Kleis Nielsen, publié par le Reuters Institute for the Study of Journalism, explore l'opinion publique dans six pays concernant l'intelligence artificielle générative (AI) dans les médias d'information. Voici un résumé simplifié des points clés :
+•	Connaissance et utilisation de l'AI générative : ChatGPT est le produit d'AI générative le plus connu, avec environ 50% de la population en ligne des six pays ayant entendu parler de lui. Cependant, son utilisation fréquente est rare.
+•	Attentes concernant l'impact de l'AI générative : La majorité du public s'attend à ce que l'AI générative ait un grand impact sur presque tous les secteurs de la société dans les cinq prochaines années, notamment les médias d'information et la science.
+•	Opinion publique sur l'utilisation de l'AI générative dans le journalisme : Les gens s'attendent à ce que les nouvelles produites principalement par l'AI, avec une certaine supervision humaine, soient moins dignes de confiance et moins transparentes, mais plus à jour et moins chères à produire.
+•	Utilisation de l'AI générative par les journalistes : Une partie du public pense que les journalistes utilisent déjà l'AI générative pour certaines tâches, comme la correction orthographique et grammaticale, la rédaction de titres et la rédaction de textes d'articles.
+•	Opinions sur la manière dont les journalistes devraient utiliser l'AI générative : La plupart des répondants souhaitent une certaine divulgation ou étiquetage lorsque l'AI générative est utilisée pour produire des nouvelles, avec moins de consensus sur les usages spécifiques qui devraient être divulgués.
+Ce document fournit une analyse détaillée des attitudes et comportements du public envers l'AI générative, en particulier dans le contexte du journalisme et des médias d'information.

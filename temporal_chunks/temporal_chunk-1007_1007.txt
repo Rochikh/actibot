@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 14
+
+=== CONTENU ===
+28/09/2024, 20:30 - Francois Bocquet: le consentement n’a de sens que lorsque les données sont réutilisées à des fins de marketing (ou pour un traitement de données de santé)
+28/09/2024, 20:30 - Francois Bocquet: ici ce n’est pas du tout pertinent
+28/09/2024, 20:32 - Francois Bocquet: Le bot est aussi leurré par l’affirmation d’une anonymisation or ce n’est pas de l’anonymisation mais de la pseudonymisation -> voir l’encadré sur la page de la CNIL https://www.cnil.fr/fr/technologies/lanonymisation-de-donnees-personnelles
+28/09/2024, 20:33 - ‎+33 6 34 22 87 54 est parti·e
+28/09/2024, 20:34 - Francois Bocquet: il n’y a donc pas d’anonymisation mais le remplacement d’une identité par un code qui est réutilisé à la fois pour gérer les tokens mais aussi pour gérer le tableau de bord de l’enseignant (qui a cherché quoi et qui a consommé combien de tokens si j’ai bien compris l’interface).
+28/09/2024, 20:35 - Francois Bocquet: pour terminer sur le consentement qui n’est pas applicable, le critère de licéité dans un service d’éducation et de formation public et celui de l’exercice d’une mission de servie public qui ne nécessite donc pas de consentement (sinon on ne s’en sortirai pas)
+28/09/2024, 20:36 - Francois Bocquet: je peux vous re-expliquer tout ça de vive voix. Il n’empêche que cette idée est géniale et devrait juste border quelques points pour devenir conforme !
+28/09/2024, 20:36 - ‎+33 6 83 92 86 05 a demandé à rejoindre le groupe.
+28/09/2024, 20:46 - ‎+590 690 45-5255 a rejoint ce groupe grâce à son lien d’invitation
+28/09/2024, 20:46 - ‎+33 6 83 92 86 05 a rejoint ce groupe grâce à son lien d’invitation
+28/09/2024, 21:04 - ‎+33 6 22 56 48 11 a demandé à rejoindre le groupe.
+28/09/2024, 21:04 - +689 87 78 58 86: Très très très intéressé par ce projet également, et surtout toutes les démarches nécessaires pour la conformité avec le RGPD
+28/09/2024, 21:05 - ‎+33 6 22 56 48 11 a rejoint ce groupe grâce à son lien d’invitation
+28/09/2024, 21:06 - Rochane: @33662364404 a déjà fait un partage lors d'un live mais le sujet nécessite un live uniquement consacré au RGPD. S'il veut bien, on l'organise avant la fin de l'année 🙂

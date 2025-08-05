@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 16
+
+=== CONTENU ===
+14/11/2023, 20:06 - +237 6 99 02 51 84: Je pense que oui.
+14/11/2023, 20:07 - Thierry VANOFFE: Hâte de voir une demo avec et sans sur quelques thématiques autour de l’éducation du juridique ou encore de la création de contenus. Je n’ai pas la réponse ahmadou et je suis très curieux et désireux de voir la différence
+14/11/2023, 20:08 - +237 6 99 02 51 84: Pas nécessairement dans le retour des résultats bruts de recherches, mais dans la forme du retour des résultats, et même dans le tri des résultats retournés
+14/11/2023, 20:09 - Ahmadou Ba: Ok d'accord. Merci
+14/11/2023, 20:11 - Thierry VANOFFE: Je suis déjà extrêmement bluffé par les résultats générés sans prompt avancé, sans contexte … qu’est ce que ça va être !!! Waouh vous me faites rêver la
+14/11/2023, 20:30 - Rochane: J’AI CRÉÉ 50 GPTs SUR CHAGPT — Voici les meilleurs !
+https://www.youtube.com/watch?v=jv4pREWFIhw
+Il nous a sorti encore une superbe vidéo
+14/11/2023, 20:53 - Thierry VANOFFE: Je suis dessus je l’adore ce mec
+14/11/2023, 21:24 - ‎Enes Cornelis a rejoint le groupe à partir de la communauté.
+14/11/2023, 21:25 - Jacques BARATTI: Oui ce type est extraordinaire ! Première phrase importante de sa vidéo "un GPT ne remplacera jamais un bon prompt" ça donne à réfléchir n'est-ce pas ? Vous en pensez-quoi ?
+14/11/2023, 21:29 - Rochane: C'est un peu la question que je viens de lui poser en l'invitant pour passer ne serait ce que 10 min lors de notre meeting de jeudi. Je 🤞 pour qu'il vienne 🙂
+14/11/2023, 21:30 - Jacques BARATTI: espérons qu'il sera avec nous car il est au top !
+14/11/2023, 21:40 - Laurent The Cure: Merci pour les partages des visuels sur les prompts, de vos expériences et de la vidéo.
+14/11/2023, 21:42 - Lucie: Voici un exemple de megaprompt : Tu es un analyste qui travailles au service fraude, tu dois comparer d'immenses corpus de documents afin d'identifier d'éventuelles anomalies. En tant qu'assistant, tu vas m'aider à :
+1. Établir les points de vigilance essentiels avant de commencer l'analyse.

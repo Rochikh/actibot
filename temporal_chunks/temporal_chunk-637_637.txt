@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 17
+
+=== CONTENU ===
+14/06/2024, 10:34 - Clément Cahagne: Va falloir en construire des centrales nucléaires… Et acheter des actions chez NVidia aussi
+14/06/2024, 10:40 - ‎+33 6 82 20 36 18 a demandé à rejoindre le groupe.
+14/06/2024, 10:49 - ‎+33 6 82 20 36 18 a rejoint le groupe à partir de la communauté.
+14/06/2024, 12:06 - ‎+33 6 17 78 93 07 a demandé à rejoindre le groupe.
+14/06/2024, 12:25 - Rose Marie Iskandar: Merci Rochane
+Mais quel AI?
+By the way Pika n’a pas fonctionné pour nous
+14/06/2024, 12:38 - Rose Marie Iskandar: @33649535198
+En fait, je veux utiliser une vidéo que j'ai déjà filmée et y ajouter un produit de la marque …
+14/06/2024, 12:40 - Rochane: Essaie avec https://lumalabs.ai/dream-machine
+14/06/2024, 13:17 - +33 6 20 39 29 65: Bonjour, j'ai un QCM sous format word avec une série de question  numérotée (50 avec 4 choix A-D) et j'aimerai pouvoir modifier l'ordre des question de manière aléatoire. avez déjà réalisé cela grace a L'IA ? Chat GPT me propose un code sous python et quand je lui demande de me le faire, la mise en forme du doc n'est pas respectée.. d'avance merci pour votre aide. <Ce message a été modifié>
+14/06/2024, 13:19 - +32 498 78 46 36: Il faut peut-être lui demander de créer le DOCX directement dans le prompt de base
+14/06/2024, 13:23 - +49 179 7891950: Ce message a été supprimé.
+14/06/2024, 13:30 - +33 6 20 39 29 65: C'est ce que j'ai fait mais il modifie complètement la mise en forme😶‍🌫️😶‍🌫️
+14/06/2024, 13:33 - +32 498 78 46 36: Et avec une base de prompt comme ceci "J'ai un QCM sous format Word (.docx) contenant 50 questions numérotées, chacune avec 4 choix de réponse (A, B, C, D). Je souhaite réorganiser ces questions de manière aléatoire tout en préservant la mise en forme originale du document.
+effectue cette tâche en t'assurant que le format du texte, des questions et des choix de réponses soit strictement respecté dans le document final ?"
+14/06/2024, 13:35 - Rochane: Il y a un Gpt qui s'appelle doc maker qui pourrait peut être t'aider 🙂

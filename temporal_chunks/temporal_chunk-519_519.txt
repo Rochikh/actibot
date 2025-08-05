@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 17
+
+=== CONTENU ===
+16/05/2024, 13:36 - Votre code de sécurité avec ~ Damien Van Achter a changé. Appuyez pour en savoir plus.
+16/05/2024, 13:46 - +33 6 70 46 13 52: Ce n'est pas pour moi, c'est pour les étudiants en M2. Mais en effet excellente remarque
+16/05/2024, 13:49 - Francois Bocquet: Service intéressant mais bien que le site indique respecter le RGPD ce n’est pas le cas puisque l’article 13 imposant une information complète des personnes concernées n’est pas respecté :-( Dommage car il n’y a pas grand chose à faire pour que les traitements soient conformes.
+16/05/2024, 13:49 - Francois Bocquet: En clair ce n’est pas du tout vertueux pour le moment…
+16/05/2024, 13:53 - Votre code de sécurité avec ~ Damien Van Achter a changé. Appuyez pour en savoir plus.
+16/05/2024, 13:56 - Fabien IA: 🗣️*TEST : POISED.COM*🗣️
+Hello les arenistes
+Comme évoqué dans un précédent message, je me suis essayé à Poised depuis une petite semaine.
+Je glisse ici une première synthèse rédigée en partie avec de l’aide 🤖
+*Poised c’est quoi ?*
+Poised est un logiciel conçu pour améliorer les compétences en communication et en prise de parole en public.
+Son objectif est de fournir aux utilisateurs des outils et des techniques pour devenir des orateurs plus confiants et efficaces.
+Il est particulièrement utile pour les professionnels qui doivent souvent s’exprimer devant un public
+*Fonctionnalités *
+•*Analyse en Temps Réel :* Poised analyse la voix de l’utilisateur en temps réel, détectant les pauses, les hésitations, le rythme et l’intonation et indiquant le % de temps de parole et le temps écoulé depuis la dernière prise de parole
+•*Feedback Instantané :* Le logiciel offre un retour immédiat sur les aspects à améliorer, comme les béquilles verbales (euh, mum, ... ), la clarté du discours, l’intonation.
+•*Statistiques et Rapports : *Poised génère des rapports détaillés sur les performances de l’utilisateur, incluant des graphiques et des statistiques sur l’évolution des compétences de prise de parole.

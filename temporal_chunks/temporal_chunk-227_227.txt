@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 10
+
+=== CONTENU ===
+24/02/2024, 09:46 - Rochane: chatbase.co version Free d'essai qui te permet de charger jusqu'à 10 pages web par exemple et le tester. Pour moi, c'est le plus simple mais payant
+24/02/2024, 09:51 - Jean-Marc Everard: Bonjour, connaîtriez-vous une bonne DB, si possible avec tests ou avis, d’outils utiles pour l’éducation et la formation ? IA powered ou non d’ailleurs. Je connais celle-ci https://start.me/p/PwabRd/l-ia-pour-l-enseignement . En auriez-vous d’autres ?
+24/02/2024, 09:59 - Rochane: Ah mais ça m'intéresse aussi. Je vais explorer déjà ces réponses Voici quelques bases de données d'outils utiles pour l'éducation et la formation, avec des tests ou des avis, que vous pourriez trouver intéressantes :
+1. EdSurge Product Index : Cette base de données propose une liste d'outils technologiques pour l'éducation, avec des évaluations et des avis d'utilisateurs. Vous pouvez filtrer les résultats par catégorie, niveau scolaire et type d'outil. [Source: EdSurge Product Index]
+2. Common Sense Education : Common Sense Education propose une collection d'outils technologiques pour l'éducation, avec des évaluations détaillées et des avis d'enseignants. Vous pouvez rechercher des outils par catégorie, niveau scolaire et système d'exploitation. [Source: Common Sense Education]
+3. EdTechReview : EdTechReview est une plateforme en ligne qui propose des critiques et des évaluations d'outils technologiques pour l'éducation. Vous pouvez trouver des avis d'experts, des comparaisons d'outils et des recommandations basées sur les besoins spécifiques des enseignants. [Source: EdTechReview]
+4. G2 : G2 est une plateforme d'évaluation de logiciels qui propose également des évaluations et des avis d'utilisateurs pour les outils technologiques dans le domaine de l'éducation. Vous pouvez trouver des classements, des comparaisons et des commentaires détaillés sur différents outils. [Source: G2]
+Sources :
+- EdSurge Product Index : https://www.edsurge.com/product-reviews
+- Common Sense Education : https://www.commonsense.org/education/

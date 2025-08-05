@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 16
+
+=== CONTENU ===
+17/08/2024, 13:12 - Rochane: Hello, une petite expérience que je n'ai pas encore partagée. Il s'agit de la création d'une extension chrome qui permet d'obtenir les résumés de n'importe quelle vidéo youtube. J'ai commencé de Scratch et j'ai fait à l'arrache une vidéo de 2 minutes pour expliquer cette expérience 🙂
+https://youtu.be/iiPpvDVSec8?feature=shared
+17/08/2024, 14:01 - +33 6 76 07 83 70: Merci
+17/08/2024, 14:05 - Pierrick BRIAND: Whaou Merci Rochane.
+17/08/2024, 14:07 - Hoang: Est ce que la version de Claude free a suffit ou tu as la licence payante ?
+17/08/2024, 14:09 - Ahmadou Ba: Franchement tu devrais organiser un webinaire pour nous montrer pas à pas comment faire des automatisation avec Make. Les démonstrations que tu fais dans les webinaires sont souvent trop courtes pour me permettre de les reproduire ou bien tu nous partage des tutoriels pour prendre en main make.
+Merci du partage
+17/08/2024, 14:13 - Rochane: Non, j'ai alterné entre Claude et ChatGpt en versions payantes et sur plusieurs fois
+17/08/2024, 14:41 - Hoang: Il y a quelques vidéos pas mal pour apprendre à utiliser Make : https://youtu.be/MSnedgBRnCw?si=stGtu_Q5yToJSm8d
+17/08/2024, 14:41 - Hoang: Et un autre ici : https://youtu.be/WFHwFQJls0k?si=NBEFEPrwR4C1NIU7
+17/08/2024, 14:41 - Rochane: Si quelqu'un maîtrise l'anglais, l'idéal c'est la make academy et gratuit de surcroît
+17/08/2024, 15:11 - Ahmadou Ba: Merci je récupère ça
+17/08/2024, 17:20 - Votre code de sécurité avec ~ DEDEL a changé. Appuyez pour en savoir plus.
+17/08/2024, 19:24 - +212 644-562660: bonjoure à tous, est ce que quelqu'un connais un bon generateur de prompts, j'utilisais celui la mais ca marche plus il me semble https://www.feedough.com/chatgpt-prompt-generator/#google_vignette
+17/08/2024, 19:27 - Rochane: Tu as dans l'interface de l'API de Claude, un super outil de prompting mais payant. De l'ordre de 1 ou 2 centimes le prompt élaboré
+17/08/2024, 19:41 - +33 6 76 07 83 70: Je souhaite rajouter un prof dans ce groupe qui découvre l'IA

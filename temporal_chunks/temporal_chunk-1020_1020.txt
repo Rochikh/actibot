@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 11
+
+=== CONTENU ===
+01/10/2024, 12:29 - Mickaël: Déjà rencontré en effet. Il bloque et ne revient jamais.
+01/10/2024, 12:30 - +32 479 58 54 12: Si je lui redemande il me dit qu'il n'a rien trouvé ou commence à repondre mais ne va pas jusqu'au bout.
+Par exemple, je lui ai demandé d'analyser les sites d'une cinquantaine d'entreprises. En insistant beaucoup il le fait pour la première et après je dois chaque fois lui dire "continue" pour qu'il passe à la suivante. ( je sais, vous allez me dire que je devrais automatiser mais ce n'est pas vraiment la solution si on le fait une seule fois)
+01/10/2024, 12:32 - Jacques BARATTI: La solution est sans doute de segmenter la demande...
+01/10/2024, 12:39 - +32 479 58 54 12: Oui, ll y a toujours des alternatives. Mais ma question est surtout : avez-vous déjà ete dans le cas qu'il vous dise " je reviendrai vers vous" et est-il vraiment revenu vers vous et de quelle manière ?
+01/10/2024, 12:49 - ‎+33 6 64 48 37 32 a rejoint ce groupe grâce à son lien d’invitation
+01/10/2024, 13:24 - +33 6 38 05 86 57: C'est une belle arnaque, lisez les commentaires en dessous du deal!
+https://www.dealabs.com/bons-plans/1minai-lifetime-subscription-chat-gpt-leonardo-ai-2871474
+01/10/2024, 14:39 - Jean-Marc Everard: Bon en fait j'ai souscrit à l'offre un peu "pour voir". Je ne dirais pas que c'est une arnaque parce qu'il y a effectivement moyen de générer simultanément images, posts etc. sur différents LLM's. Ce qui est vrai c'est que 1 million de tokens par mois c'est très faible car si on génère des images ou vidéos ça va vite. Perso j'ai pris 2 millions de tokens par mois et ça me permet par exemple de tester les réponses de différents modèles en même temps. On "gagne" aussi 15K token chaque fois qu'on se reconnecte. Mais bon, c'est vraiment pour une entrée en matière. Si vous avez déjà des abonnements sur chat GPT au autre, ce ne sera pas d'une grande utilité. <Ce message a été modifié>
+01/10/2024, 14:38 - ‎+33 6 74 63 07 39 a demandé à rejoindre le groupe.
+01/10/2024, 14:44 - Jean-Marc Everard: mon commentaire plus bas Pierrick car j'ai souscrit à l'offre depuis environ 2 semaines...

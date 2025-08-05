@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 19
+
+=== CONTENU ===
+20/11/2024, 10:51 - +33 6 52 73 73 42: Question tte simple : est-ce que ttes les IA generatives ...  sont désormais connectée à Internet !? Ds le cas contraire, existe t'il un site récapitulant les différentes IA avec leurs "dates d'arrêt" de leur base de connaissances !? (pas sûr d'avoir été très clair ds ma demande !)
+20/11/2024, 10:53 - +33 6 02 20 69 43: C’est clair mais mis à part les IA génératrices de contenus tel Claude Gemini ou chat, pas besoi. D’être connecté à internet non même d’avoir des mises à jour en 2024 ( ex un design Napkin n’a pas besoin d’être basé sur des connaissances de 2024)
+20/11/2024, 10:58 - +33 6 52 73 73 42: Merci ! Désormais ttes les IA (ChatGPT, Perplexity, Gemini ...) sont connectées à internet !?
+20/11/2024, 11:47 - +41 76 372 28 94: Non, pas toutes (pas Claude par exemple), mais ces trois là oui.
+20/11/2024, 11:50 - +33 6 81 61 17 96: Ce message a été supprimé.
+20/11/2024, 11:50 - +33 6 81 61 17 96: Ce message a été supprimé.
+20/11/2024, 11:54 - +33 6 76 07 83 70: Excellent, merci
+20/11/2024, 12:03 - +33 6 52 73 73 42: Comment donc savoir si une IA (sa base de connaissances) est connectée à Internet ou pas !?
+20/11/2024, 12:41 - +33 6 85 18 84 20: Pose-lui une question d’actualité très récente. Ex : résultat d’un match, décision politique…
+20/11/2024, 13:32 - +33 6 64 47 07 94: Bonjour. Legit.fr ne répond pas au prompt. Avez vous une info ? Merci
+20/11/2024, 13:34 - +33 6 64 47 07 94: Legipt autant  pour moi
+20/11/2024, 18:03 - +33 6 25 14 08 75: Ce message a été supprimé.
+20/11/2024, 18:07 - +33 6 25 14 08 75: Avec plaisir !:)
+20/11/2024, 18:08 - +33 6 75 41 23 05: Un fichier kml ou kmz ?
+20/11/2024, 18:21 - Votre code de sécurité avec ~ Salah a changé. Appuyez pour en savoir plus.
+21/11/2024, 05:54 - Rochane: ‎Vera - Vérifiez les faits.vcf (fichier joint)
+21/11/2024, 05:55 - Rochane: Vu sur LinkedIn
+Salut, je partage ce contact, un assistant pour vérifier des faits (fact-checking) sur WhatsApp.
+Sur WhatsApp tu poses une question et il te répond sur la véracité de telle ou telle info ou affirmation.

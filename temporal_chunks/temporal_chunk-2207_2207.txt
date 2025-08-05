@@ -1,0 +1,47 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 39
+
+=== CONTENU ===
+===
+Les résultats de l'étude :
+🔹 Sans profilage : GPT-4 est déjà plus persuasif que l'humain
+🔹 Grâce au profilage sociologique, GPT-4 affine son discours… et explose les scores de persuasion :
+→ 64% de taux de réussite pour convaincre
+→ 81,7% de chances supplémentaires de faire changer d'avis
+Les données utilisées pour le profilage :
+🔹 Âge et genre
+🔹 Opinions politiques (Républicain/Démocrate/Indépendant)
+🔹 Niveau d'études
+🔹 Statut professionnel
+===
+Le plus dingue...
+→ 75% des participants ont identifié qu'ils parlaient à une IA
+→ Ils ont quand même été convaincus et ont changé d'avis
+→ L'IA est plus efficace sur les sujets moins polarisants
+Format du débat :
+🔹 4 minutes : exposition du point de vue
+🔹 3 minutes : réfutation des arguments
+🔹 3 minutes : conclusion
+===
+L'IA développe des argumentaires personnalisés basés sur le profil sociologique de chaque personne.
+Les chercheurs voient les applications possibles :
+→ Façonnage automatisé des messages à grande échelle
+→ Ciblage selon qu'on vise des consommateurs, électeurs ou salariés
+→ Messages sur mesure pour chaque profil
+C'est ce que faisait Cambridge Analytica en 2015 (scandale avec Facebook).
+Mais avec des moyens largement augmentés...
+===
+Cette étude ne concerne pas que les spécialistes IA.
+Elle nous concerne tous en tant que citoyens.
+Les plateformes numériques ont déjà accès à ces données sociologiques.
+Sauf que maintenant, elles ont l'IA pour les exploiter.
+→ L'IA redéfinit le rapport entre data, persuasion et démocratie. »
+27/05/2025, 15:31 - +213 661 96 97 18: <Médias omis>
+27/05/2025, 16:23 - +32 475 86 01 57: Si tes élèves sont dans le même ENT, pas de problèmes
+27/05/2025, 16:30 - +33 6 42 26 64 70: Bonjour Antonin, tu peux développer svp. Dans ton ENT, tu as la possibilité de partager du NotebookLM ? Ou du « chat » de mistral ? Je suis un peu perdu ;-)
+27/05/2025, 16:33 - Rochane: Claude opus 4 ou Sonnet 4, Genspark.ai, Bolt.new, Gemini 2.5 pro
+27/05/2025, 19:21 - Votre code de sécurité avec +33 6 17 84 40 74 a changé. Appuyez pour en savoir plus.

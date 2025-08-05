@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 18
+
+=== CONTENU ===
+30/06/2024, 19:37 - ‎+33 6 33 29 76 20 a rejoint le groupe à partir de la communauté.
+30/06/2024, 23:00 - ‎+32 470 11 45 36 est parti·e
+01/07/2024, 08:37 - +33 6 32 22 97 21: Bonjour à tous,
+Pour info, je propose cette semaine une mini-série sur l’IA et la conception pédagogique cette semaine :
+https://podcast.ausha.co/learn-enjoy/mini-serie-1-5-utiliser-l-ia-dans-la-conception-pedagogique-avec-louis-brunier
+01/07/2024, 08:40 - Clément Cahagne: Top merci Anne Marie ! En complément pour celles et ceux qui veulent du podcast sur la route des vacances : la série spéciale ia enregistrée l'an dernier dans rendez vous en terre digitale
+https://www.rdventerredigitale.com/ia-et-formation
+01/07/2024, 12:25 - Rose Marie Iskandar: Hello
+It didn’t work
+01/07/2024, 14:50 - ‎+32 485 32 19 16 a demandé à rejoindre le groupe.
+01/07/2024, 15:01 - +33 6 79 52 83 80: Bonjour,
+je suis à la recherche d’une IA gratuite qui me permette de faire des diapos issues d’un document Word et que les infos du document Word restent confidentielles.
+Pourriez vous m’en suggérer qqs?
+Merci d’avance pour votre partage !
+01/07/2024, 15:09 - +212 644-562660: la confidentialité va poser un tres tres gros probleme, dailleurs c un des problemes que j ai recontré moi même. Si tu veux de l interactivité dans tes slides, ben powerpoint me semble assez suffisant pour gamifier les modules. Ca va prendre du temps et de l’effort certes, mais croit moi ca vaudra pleinement le coup. Voici une des chaines sur youtube qui montrent comment gamifier avec powerpoint si ca t interesse  https://www.youtube.com/@oneskill_ppt
+01/07/2024, 15:12 - +212 644-562660: par contre tu peux utiliser coassemble et supprimer le training de leur cloud interne, apres avoir telecharger le fichier SCORM du training bien entendu. https://coassemble.com/courses
+01/07/2024, 15:15 - +33 6 79 52 83 80: Justement je voulais pas utiliser PowerPoint …… je vais regarder .
+01/07/2024, 15:49 - +32 493 87 42 05: J'ai testé du texte en connaissant les sources pour juste voir s'il me donnerait les vrais sources et ça tjs été bon. Mais bref j'emploie pas encore bcp.

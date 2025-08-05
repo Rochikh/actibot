@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 24
+
+=== CONTENU ===
+-  Problèmes de discrimination liés aux biais des modèles pouvant impacter les feedbacks, notations et prédictions.
+# Services et responsabilités
+-  Différenciation entre services personnels et professionnels, avec restrictions d'utilisation pour les salariés et élèves.
+-  Services "bêtes" pour un usage quotidien personnel, non destinés à un usage professionnel institutionnel.
+-  Contrats entre éditeurs et institutions pour l'utilisation de services professionnels sous conditions spécifiques.
+# Responsabilités dans l'utilisation des services
+-  Distinction entre usage personnel et professionnel, avec responsabilité du traitement dépendant du contexte d'utilisation.
+-  Responsabilités du responsable de traitement dans le cadre professionnel, incluant contrats de sous-traitance et gestion des accès utilisateurs.
+# Utilisation légale des services
+-  Conditions nécessaires pour une utilisation légale des services, impliquant respect des règles d'utilisation et contrats de sous-traitance.
+#  Projets de RID
+-  Projets de RID gérés par l'éducation nationale ou au niveau d'un établissement.
+-  Possibilité d'installer un serveur dans l'établissement pour la gestion informatique.
+-  Projets en cours au niveau national pour des outils au service des enseignants.
+#  Projet de Récomposition
+-  Proposition de discussion sur un projet de récomposition.
+-  Importance d'organiser une réunion dédiée à ce projet pour explorer les idées.
+#  Précautions et Utilisation des Services
+-  Mise en garde contre les autorités régulatrices concernant l'utilisation des services par les élèves.
+-  Recommandation de ne pas inciter les élèves à créer des comptes pendant les séances.
+-  Conseil d'informer le chef d'établissement sur l'utilisation des services pour obtenir son autorisation.
+#  Sécurité et Protection des Données
+-  Nécessité d'obtenir une autorisation explicite pour couvrir légalement l'utilisation des données personnelles.
+-  Avertissement sur la manipulation de documents contenant des données sensibles et biométriques.

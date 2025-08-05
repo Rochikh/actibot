@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 15
+
+=== CONTENU ===
+05/04/2024, 17:14 - Rochane: groq.com
+05/04/2024, 17:16 - Rochane: Ce qui impressionne chez groq c'est sa rapidité ( régler mixtral) et son côté peu energivore car il n'utilise pas des gpu mais des lpu
+05/04/2024, 17:58 - +33 6 30 37 99 76: Brice, C'est lequel qui a répondu ça? 😂😂
+05/04/2024, 17:58 - +33 6 14 16 68 64: J'ai fait classique, c'est GPT 4
+05/04/2024, 18:09 - ‎+33 7 45 40 16 02 a rejoint le groupe à partir de la communauté.
+05/04/2024, 18:22 - +33 7 45 40 16 02: null
+05/04/2024, 18:29 - Ahmadou Ba: 🤣 les bots de @33649535198 sont de retour
+05/04/2024, 18:36 - Vous avez supprimé +33 7 45 40 16 02
+05/04/2024, 23:27 - Rochane: Vous avez supprimé ce message
+06/04/2024, 11:10 - +33 6 22 42 57 92: Repères de programmation d'activités de la maternelle au lycée
+https://edunumrech.hypotheses.org/1970
+06/04/2024, 13:02 - Francois Bocquet: Excellente source pour réfléchir rapidement aux actions à conduire dans l’éducation. Le document a maintenant 5 ans. En Chine les programmes de cette nature sont mis en place depuis … 2017 !!! Le retard dans l’éducation a l’IA est déjà considérable et aura des conséquences importantes dans les 10 ans à venir.
+06/04/2024, 13:14 - Ahmadou Ba: <Médias omis>
+06/04/2024, 13:14 - Ahmadou Ba: <Médias omis>
+06/04/2024, 13:30 - Rochane: intelligence artificielle de la maternelle à la Terminale: que devrait savoir chaque enfant sur l'IA ?" [1] O Cet article aborde la question de ce que chaque enfant devrait savoir sur l'intelligence artificielle (IA) de la maternelle à la terminale. O Il mentionne la création d'un groupe de travail conjoint entre l'Association pour l'avancement de l'intelligence artificielle (AAAI) et l'Association des professeurs d'informatique (CSTA) pour élaborer des directives nationales sur l'enseignement de l'IA aux élèves. O Les directives définiront ce que les élèves de chaque groupe d'âge devraient savoir sur l'IA, l'apprentissage machine et la robotique. O Le groupe de travail crée également des vidéos, des démonstrations, des logiciels et des descriptions d'activités liés à l'lA.

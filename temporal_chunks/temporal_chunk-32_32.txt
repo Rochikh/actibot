@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 601
+Messages: 24
+
+=== CONTENU ===
+Nous avons et allons avoir certainement beaucoup de partages et d'infos, et pour les centraliser, un outil serait le bien venu... Préférez vous une système "Mind-Mapping" ou un Mur style Padlet (ou autre) ? L'idée serait que chacun puisse l'incrémenter...
+OPTION  : Je préfère la Carte Mind-Mapping (‎1 vote)
+OPTION  : Je préfère le Tableau Padlet (‎11 votes)
+OPTION  : Ni l'un ni l'autre... (‎1 vote)
+OPTION  : Les deux me vont... (‎17 votes)
+31/10/2023, 12:14 - Guillaume Singeot: @33649535198  il me semble que les conditions pour s'y inscrire ont changé (envoi d'un sms ce qui limite les usages d'un vpn dans les pays où l'outil n'est accessible)
+31/10/2023, 12:15 - Guillaume Singeot: https://www.chatpdf.com/
+https://askyourpdf.com/documents
+https://app.humata.ai/
+https://doclime.com/dashboard
+https://chatdoc.com/chatdoc/#/upload
+31/10/2023, 12:17 - Jacques BARATTI: Je peux mettre en commun un padlet
+31/10/2023, 12:18 - Luc deleplanque: <Médias omis>
+31/10/2023, 12:21 - Luc deleplanque: Si l'orientation PADLET se confirme... c'est un MUR sur la DIGITALE... un outil libre et conçu par des PAIRS... ça change un peu... image DALL 😉
+31/10/2023, 12:32 - +33 7 85 94 69 69: Bonjour ils sont où les prompts ? 😁
+31/10/2023, 12:32 - +33 7 85 94 69 69: Ouais moi j’intègre les PDF dans mes prompts
+31/10/2023, 12:56 - Rochane: oui c'est vrai mais pour contourner ce souci, VPN (US ou GB) + ami·e ou connaissance  ok pour te filer son numéro de tel (qui va recevoir le code et te le transmettre). La bonne nouvelle, une fois inscrit, tu n'as plus à utiliser de VPN😀
+31/10/2023, 12:58 - Rochane: Merci pour ce joli mur de contributions 🙂
+31/10/2023, 12:59 - +33 7 85 94 69 69: Ah moi ? Moi j’ai un VPN et ils veulent pas 😭😭
+31/10/2023, 12:59 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de mardi 31/10 20h-21h :
+https://us06web.zoom.us/j/81276204849?pwd=5KLWiYAFf5xxwF3qT2IB5aPEAbbUUt.1
+Meeting ID: 812 7620 4849
+Passcode: 204873
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaitre de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.

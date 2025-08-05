@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 12
+
+=== CONTENU ===
+13/11/2024, 08:57 - +33 6 59 35 23 38: Le chatbot serait capable d'écouter un discours, et de donner un diagnostic de conformité de ce qu'il a entendu avec un standard défini, de reprendre les passages incorrect ou peu conformes à une prononciation "parfaite"
+13/11/2024, 08:58 - +33 6 59 35 23 38: Savez-vous si quelque chose de la sorte existe, ou si des "briques constitutives" d'un tel produit existent ?
+13/11/2024, 08:59 - +33 6 59 35 23 38: Travaillant dans le supérieur (école d'ingénieurs) comme ingé pédagogique et prof de LV2, je pourrais essayer de monter un projet avec des étudiants pour construire le code car nous avons un département de Génie Informatique
+13/11/2024, 09:00 - +33 6 59 35 23 38: Et si des choses existent déjà (plutôt opensource, bien sûr) ce serait déjà pas mal pour commencer
+13/11/2024, 09:01 - +33 6 59 35 23 38: Merci ! C'est une idée que j'ai eue il y a déjà un certain temps, mais qui a été ravivée après avoir expérimenté l'app Heygen, qui permet de créer un avatar vidéo de soi-même ultra-réaliste
+13/11/2024, 09:02 - +33 6 59 35 23 38: On peut se voir parler parfaitement n'importe quelle langue étrangère, cela provoque un effet d'atteignabilité de la compétence langagière et possiblement constituer un fort levier de motivation
+13/11/2024, 09:03 - +33 6 59 35 23 38: Du coup, le rêve serait de mixer cela dans un bot qui serait "soi-même qui parle parfaitement la langue"
+13/11/2024, 09:04 - +33 6 59 35 23 38: En en faire son coach ultra personnel puisqu'il aurait même le timbre de voix et l'aspect de l'apprenant
+13/11/2024, 09:04 - +32 479 82 01 20: Hello Rémi ! Tu as testé la commande vocale de l'application ChatGPT ? En personnalisant ton GPT tu peux déjà avoir une première version de ton produit.
+13/11/2024, 09:04 - +33 6 59 35 23 38: Merci d'avance à tous pour  vos contributions à l'idée
+13/11/2024, 09:05 - +33 6 59 35 23 38: Non, je ne l'ai pas testée. Pourrais-tu développer ?
+13/11/2024, 09:08 - +32 479 82 01 20: En utilisant le bon framework sur ChatGPT tu peux lui donner le rôle que tu souhaites. Et avec l'application mobile et la commande vocale tu peux discuter avec. En iterant tu pourrais avoir une première version de ton produit sans passer par un développement long et complexe.

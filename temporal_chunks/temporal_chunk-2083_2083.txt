@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 555
+Messages: 22
+
+=== CONTENU ===
+14/04/2025, 21:06 - Letizia ALLEGRINI: Merci Rochane mon prompt était moins complet je vais tester celui ci.
+14/04/2025, 21:07 - +33 6 52 73 73 42: J'ai eu les mêmes déboires en live pas plus tard que la semaine dernière ! 😅
+14/04/2025, 21:09 - Letizia ALLEGRINI: Oui moi aussi
+14/04/2025, 21:12 - +33 7 83 62 43 52: Ce message a été supprimé.
+14/04/2025, 21:22 - Letizia ALLEGRINI: Aie je crois que cela ne fonctionne plus snif c'était vraiment bien
+14/04/2025, 21:31 - +33 6 52 73 73 42: 😂 J'ai utilisé Clippy ds mon cours la semaine dernière ! Très drôle que tu t'en serves ce soir !
+14/04/2025, 21:59 - Gregoire IA: <Médias omis>
+14/04/2025, 22:02 - Gregoire IA: <Médias omis>
+14/04/2025, 22:04 - estelle Duterage Drion IA: Purée cela dépote sur la boucle j’adore Gregoire
+Je vais faire le bélier 🐏 à mon effigie comme vous 🤩😜👍
+14/04/2025, 22:22 - +32 498 78 46 36: https://www.lesoir.be/669023/article/2025-04-14/pourquoi-meta-va-utiliser-vos-donnees-publiques-et-vos-conversations-avec-son
+Pourquoi l'AI act est bidon ? Pour ce genre de choses 😢
+14/04/2025, 23:06 - Gregoire IA: ce que je retiens surtout c'est l'incapacité à détecter du texte dans une image + une génération de visuelle incohérente et non alignée avec le modèle
+15/04/2025, 10:15 - ‎+32 483 02 83 90 est parti·e
+15/04/2025, 13:11 - ‎Francois Bocquet a ajouté ~ JL Schaff
+15/04/2025, 15:12 - +33 7 87 38 87 69: Bonjour,
+40' à visionner
+https://www.linkedin.com/events/aimission-4-l-iafaceauxenjeuxde7315744798915645441/comments/
+15/04/2025, 16:17 - +41 79 326 51 40: Ce message a été supprimé.
+15/04/2025, 16:19 - +41 79 326 51 40: Bonjour, Question NotebookLM : podcast : j'essaie depuis quelques jours de générer un podcast en français, mais je n'y arrive plus. J'ai mis ceci, mais les podcasts finissent malgré cela toujours en anglais :
+This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode.
+No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language.Future translation into English is planned, but for now, the episode is French-exclusive.

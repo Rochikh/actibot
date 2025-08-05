@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 14
+
+=== CONTENU ===
+Pouvez me rappeler l IA qui permet de générer des cartes mentales, svp?
+11/04/2024, 16:09 - Guillaume Singeot: https://whimsical.com/ est souvent cité ici. Sinon https://latelierduformateur.fr/creer-des-mindmaps-avec-lia/
+11/04/2024, 16:09 - +33 6 86 63 43 38: Merci
+11/04/2024, 16:18 - Rochane: Vous avez supprimé ce message
+11/04/2024, 19:57 - Jacques BARATTI: Pour ceux qui le souhaitent vous pouvez tester ce GPT appelé DynaMentor qui répond à toutes les questions que les étudiants (et autres) se posent au sujet des Pédagogies actives à l'université ou ailleurs. Le prompt est largement inspiré du livre de Lucie (merci !!!) https://chat.openai.com/g/g-VsV2PSkXc-dynamentor
+11/04/2024, 20:07 - +33 6 03 20 84 81: Merci Jacques !! J’ai ChatGPT 4 mais avec Poe. Est-ce que je pourrais quand même utiliser DynaMentor ?
+11/04/2024, 20:07 - Rochane: Non malheureusement, c'est un GPT de Chat gpt 🙂
+11/04/2024, 20:11 - +33 6 03 20 84 81: Désolée pour la question naïve alors, mais quelle est la différence entre Chat gpt de poe et Chat GPT tout court ? 😁
+11/04/2024, 20:13 - Rochane: C'est le modèle GPt 4 derrière ces 2 plateformes qui ont chacune leurs particularités. Par contre, tu peux créer des bots sur Poe( l'équivalent de GPTs sur Chat gpt)
+11/04/2024, 20:20 - Jacques BARATTI: Je connais Poe c'est intéressant car on peut juste en créant un compte gratuit, créer un GPt en déposant des documents (ce qui est préférable évidemment) et l'accès est gratuit pour les utilisateurs. Par contre on est limité sur le nombre de messages par jour
+11/04/2024, 20:21 - ‎+31 6 22365777 a rejoint le groupe à partir de la communauté.
+11/04/2024, 20:22 - +31 6 22365777: null
+11/04/2024, 20:23 - +33 6 99 36 11 69: Je viens de bloquer le message de Kenneth
+11/04/2024, 20:25 - Jacques BARATTI: je viens de vérifier sur Poe tu as divers LLM possibles mais GPT4 est sur abonnement payant. Donc soit tu as un abonnement GPT4 payant et tu peux utiliser DynaMentor directement avec GPT4 soit tu n'as pas d'abonnement et ce n'est pas possible !

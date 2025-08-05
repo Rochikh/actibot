@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 14
+
+=== CONTENU ===
+17/01/2025, 20:17 - Ahmed Yagoubu: null
+18/01/2025, 09:20 - Rochane: Ils offrent jusqu'à aujourd'hui 1000 crédits pour le plan gratuit sachant que la génération de vidéo à partir d'une image coûte 30 crédits. Le résultat est vraiment impressionnant
+18/01/2025, 09:30 - Jean-Marc Everard: Merci beaucoup. Je vais tester ça. Sais-tu si c’est meilleur que Kling?
+18/01/2025, 09:31 - Rochane: Franchement, je n'ai pas testé Kling et donc je ne peux pas comparer <Ce message a été modifié>
+18/01/2025, 09:33 - Jean-Marc Everard: Pour les vidéos au départ d’une image ou même d’un prompte je le trouve pas mal sachant qu’il a tendance à faire des choses plutôt imaginatives mais avec des images sur-saturées donc pas hyper-réalistes.
+18/01/2025, 10:17 - Gregoire IA: Je confirme, Kling a un ratio prix/rendu excellent. Mieux que Luma et si la qualité pourrait être un (petit) cran en dessous de Hailuo, Kling hallucine moins.
+Resterait à le comparer avec Runway. Kling serait peut-être plus "créatif"
+18/01/2025, 10:32 - Jean-Marc Everard: Par contre, si vous voulez rigoler : partez d’une photo sur laquelle vous ne souriez pas et demander une vidéo avec un grand sourire à Kling, effet garanti 🤣
+18/01/2025, 10:33 - +33 6 03 06 04 34: Petite suggestion pour optimiser cette chaîne : ne serait-il pas plus efficace de la scinder par sujet . Toutes les conversations sont mélangées et c’est très difficile de suivre le fil alors que les discussions sont à la fois utiles et intéressantes ?
+18/01/2025, 10:52 - +33 6 42 26 64 70: Ça va en faire des discussions différentes ;-)
+18/01/2025, 10:54 - +33 6 42 26 64 70: C’est que ça bouillonne d’idées et d’énergie par ici 🫶
+18/01/2025, 10:55 - +33 6 03 06 04 34: Pas forcément , mais là pour suivre c’est vraiment chaotique (dit avec bienveillance!)
+18/01/2025, 10:57 - +41 79 258 90 36: On peut aussi se débrouiller via la recherche.
+18/01/2025, 11:02 - Rochane: Désolé, on me l'a souvent demandé mais l'expérience utilisateur est souvent embêtante et en plus les gens ne respectent pas forcément le sujet car tout est tellement lié..

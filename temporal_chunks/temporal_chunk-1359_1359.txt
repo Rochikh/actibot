@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 10
+
+=== CONTENU ===
+30/11/2024, 12:33 - +34 683 61 41 61: Pour ceux que ça intéresse, voici le retour de Lareponse.tech concernant une éventuelle utilisation de VERA par des mineurs :
+Question :
+Pourriez-vous me donner s'il vous plait me donner plus de détail  sur le respect des données à caractère personnel lors de l'utilisation de VERA ? Peut-on conseiller l'usage de VERA à des mineurs et qu'adviennent les données des utilisateurs (associées à leur numéro de téléphone) surtout si des requêtes sont envoyées à des LLM ?
+Réponse :
+Côté DCP, nous ne collectons pas les numéros de téléphone : ils transitent uniquement quelques secondes sur nos serveurs pour envoyer les réponses de Vera puis sont supprimés. Seule une empreinte cryptée est conservée dans notre base afin d'assurer le bon fonctionnement des échanges. Les données de conversation ne sont donc pas associées directement aux numéros de téléphones dans notre base de données, en revanche ces dernières peuvent contenir des données à caractère personnel si l’utilisateur en mentionne pendant sa conversation avec Vera. Quant aux sous-traitants (Twilio et OpenAI notamment), tout est expliqué dans notre Politique de confidentialité.
+https://438c52ee.streaklinks.com/CNkgijzWVoE9glrXXADeseVc/https%3A%2F%2Fwww.askvera.org%2Flegales%2Fpolitiques-de-confidentialite
+Sur le plan juridique, l’utilisation de Vera par des élèves mineurs entre bel et bien dans le champ d’application du RGPD. Voici la réponse de Numéricité (en copie), qui nous accompagne sur le plan juridique :
+L’utilisation de Vera par des élèves mineurs entre effectivement dans le champ d’application du RGPD dès lors que Vera traitera leur numéro de téléphone – et ce même si la durée de conservation est très brève.
+Lorsqu’un traitement de données personnelles concerne des mineurs de moins de 15 ans, le consentement des représentants légaux (les parents) est nécessaire.
+Mais ceci n’est pas toujours le cas ! En effet, si Vera est utilisée par les élèves dans le cadre scolaire et donc sous le contrôle du ministère de l’Education nationale (par exemple les professeurs), le consentement n'est plus nécessaire. On peut s'appuyer sur la mission d’intérêt public (entendue comme étant l'éducation) du ministère pour traiter les données.

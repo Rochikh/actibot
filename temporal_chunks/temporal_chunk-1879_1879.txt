@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 553
+Messages: 6
+
+=== CONTENU ===
+04/03/2025, 18:05 - +33 6 42 26 64 70: @33619756349 tu peux tout repenser, mais à mon humble avis, attention à ne pas tout jeter à la poubelle ce qui marche…si tu suis l’évolution des IA, en particulier avec la pompe aux investissements qui tourne à plein régime et la dimension stratégique et géopolitique que cela prend ( je ne peux que vous conseiller l’excellent livre / analyse « Hyperarme » de F. Chervet à ce sujet), les possibilités des futurs moteurs génératifs et d’analyses qui la sous tendent vont encore continuer à exploser et nous surprendre par leurs capacités. Je crois que la pédagogie, ou les sciences Neuro psycho cognitives qui la structure scientifiquement, sont solides et pérennes. Sans doute faudra t il un jour isoler les apprenants (ou avec un accès à un IA spécifique d’accompagnement) pour les faire monter dans des compétences classiques indispensable et à (re) définir, mais enrichies de nouvelles compétences qui leur permettront de savoir utiliser ces IA ensuite librement et intelligemment (cf référentiel UNESCO). Cela illustre un sentiment que je rencontre souvent auprès de mes interlocuteurs : « heureusement que j’ai eu une expérience et une culture classique sans IA…elle me permet aujourd’hui de rester critique, de contrôler et mieux guider mes productions IA. Mais comment vont faire les prochaines générations sans ce background ? » Abyssal ;)
+04/03/2025, 18:58 - Francois Bocquet: Teams ne le fait pas déjà ?
+04/03/2025, 19:51 - Rochane: <Médias omis>
+04/03/2025, 19:51 - Jean-Marc Everard: @33642266470 je pense que ce sera tout le défi de l’apprentissage demain et en fait déjà aujourd’hui. Comment assurer une culture de base dans beaucoup de domaines (culture scientifique, mathématique, linguistique, historique, géopolitique, culturelle etc.) pour non seulement pouvoir utiliser les IA avec sagesse mais continuer à créer du contenu de valeur (sans lequel les modèles d’IA vont s effondrer de toute manière). Tout le monde le dit : la clef est l’éducation. Et dans le même temps tout le semble regarder ailleurs pour s’en charger..
+04/03/2025, 21:56 - +33 7 86 18 83 63: Hello
+Je cherche des solutions comme studyfetch en open source ou avec un repo github

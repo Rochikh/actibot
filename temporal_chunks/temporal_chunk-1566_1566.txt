@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 16
+
+=== CONTENU ===
+11/01/2025, 13:29 - Clément Cahagne: Gladia.io puis traitement sur gemini ou chatgpt <Ce message a été modifié>
+11/01/2025, 13:29 - StéphaneIA: Aistudio.google.com
+11/01/2025, 13:30 - StéphaneIA: Pour ce besoin aussi j'irai plus sur aistudio. notebookLM fera la synthèse et répondra aux questions mais pour générer du contenu je ferai plus cela sur aistudio
+11/01/2025, 13:30 - StéphaneIA: Model experimental 1206
+11/01/2025, 13:31 - Clément Cahagne: Mieux qu'un modèle open ai selon toi pour le traitement de la transcription ? Ou Claude ?
+11/01/2025, 16:01 - Votre code de sécurité avec +65 9104 0575 a changé. Appuyez pour en savoir plus.
+11/01/2025, 16:16 - Votre code de sécurité avec +65 9104 0575 a changé. Appuyez pour en savoir plus.
+11/01/2025, 16:20 - Votre code de sécurité avec +65 9104 0575 a changé. Appuyez pour en savoir plus.
+11/01/2025, 19:31 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+11/01/2025, 22:16 - ‎+33 6 21 80 73 06 a demandé à rejoindre le groupe.
+12/01/2025, 10:01 - Votre code de sécurité avec ~ Li a changé. Appuyez pour en savoir plus.
+12/01/2025, 10:05 - +41 79 258 90 36: Pour la transcription de vidéos ou podast mp3 j'utilise le programme offline sur mon PC, ViVeTool v0.3.3. On peut même sélectionner la langue d'exportation. Le fichier est disponible en txt, pdf, doc, srt etc... Je n'ai pas exploré les autres possibilités. https://vivetool.com/download/
+12/01/2025, 10:06 - ‎+33 6 21 80 73 06 a rejoint ce groupe grâce à son lien d’invitation
+12/01/2025, 10:43 - StéphaneIA: @33675775911 le model ça peut être assez personnel comme sentiment. Techniquement ce qui est sur c'est que seul Gemini permet d'avoir des grosses fenêtres de contexte ce que ne peut pas faire Claude ou ChatGPT. Claude c'est un peu mieux avec 200k mais Gemini c'est 1M.
+Niveau performance personnellement je suis très satisfait de Gemini, aussi peut être un peu par déformation professionnelle.
+12/01/2025, 10:52 - Rochane: Petite astuce, si vous avez marre des pubs de Youtube, sans passer par Premium, installer le navigateur Brave et fini les pubs et possibilité de le mettre en arrière plan

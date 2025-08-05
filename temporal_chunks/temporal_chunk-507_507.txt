@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 17
+
+=== CONTENU ===
+Le modèle est capable de raisonner et de répondre à travers le texte, l'audio, et la vision, permettant une large gamme d'applications, de l'analyse de documents visuels à la conversation interactive.
+📈 Accessibilité et Performance Améliorées
+GPT-4o a été optimisé pour fonctionner de manière plus efficace et moins coûteuse, améliorant la qualité et la vitesse dans 50 langues différentes, et est désormais accessible via une API plus performante et économique.
+🔒 Sécurité et Conformité
+Intégration de systèmes de sécurité avancés pour gérer les nouveaux défis liés aux capacités audio et visuelles en temps réel, avec des efforts continus pour éviter les usages abusifs.
+🛠️ Potentiel de Développement
+Les développeurs sont encouragés à explorer et à créer avec GPT-4o, profitant des améliorations significatives pour développer des applications AI à grande échelle.
+13/05/2024, 20:46 - Rochane: <Médias omis>
+13/05/2024, 20:47 - +33 6 75 41 23 05: Quid de la version avec abonnement alors ? <Ce message a été modifié>
+13/05/2024, 20:47 - +32 479 58 54 12: Même question pour moi 🤔
+13/05/2024, 20:48 - Rochane: Ils disent que la version gpt 5 va arriver prochainement
+13/05/2024, 20:48 - Rochane: Et que les personnes ayant la version payante auront accès les premiers à ces nouvelles fonctionnalités
+13/05/2024, 20:49 - +33 6 75 41 23 05: Dall-e3 dans la version gratuite ou pas ?
+13/05/2024, 20:49 - Rochane: Vous avez supprimé ce message
+13/05/2024, 20:55 - Rochane: Mais il me semble que dans Copilot de Microsoft, oui
+13/05/2024, 21:20 - +33 6 76 04 48 20: Il y aura sûrement des avantages à avoir la version payante, mais dans un premier temps je pense qu’un des intérêts majeurs à cette gratuité réside dans la vulgarisation de l’outil et par voie de conséquence le fait que nous éduquions l’IA d’Open AI à pas de géants (il ne faut pas oublier leur course contre la montre et surtout contre Google)
+13/05/2024, 21:24 - Rochane: À l'instant, pour ceux qui ont la version payante, on a accès à gpt 4o sans vpn. Pareil pour l'App 🙂 <Ce message a été modifié>

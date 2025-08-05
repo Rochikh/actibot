@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 11
+
+=== CONTENU ===
+24/12/2024, 22:23 - ‎+33 6 47 16 85 40 a rejoint ce groupe grâce à son lien d’invitation
+25/12/2024, 11:39 - zp: Joyeux Noël 💐
+25/12/2024, 11:52 - Jean-Marc Everard: J’ai testé Ollama + Docker en local avec plusieurs LLM et ça fonctionnait très bien. L’étape suivante aurait été la création d’un RAG. Mais par curiosité j’ai aussi installé Computer Use de Anthropic, via Docker aussi et pour une raison que j’ignore ça a bloqué mon usage d’Ollama. Du coup je dois tout désinstaller et réinstaller. Je vais peut être essayer LM studio pour changer. Sinon pour ce qui est génération d’images en local j’utilise Pinokio 👍🏻
+25/12/2024, 11:53 - Jean-Marc Everard: Joyeux Noël à toutes et tous 🥳🎉🍾
+25/12/2024, 12:51 - Ahmadou Ba: Studio creatives est bon pour la creation d'images. Très pratique pour amuser les enfants à créer des cartes de voeux ou autres https://studio.creativefabrica.com/flow
+25/12/2024, 12:52 - Votre code de sécurité avec +33 6 99 29 07 11 a changé. Appuyez pour en savoir plus.
+25/12/2024, 12:56 - François JOURDE: Je ne pense pas avoir les compétences de reproduire cela, mais auriez-vous un lien vers un tutoriel ?
+25/12/2024, 13:34 - +32 483 60 53 96: Alors je cherche à trouver des solutions qui sont accessibles à tous et toutes. C’est pour ça que LM studio et Jan sont très accessibles en no-code, juste 6 clicks du téléchargement à la première conversation en local.
+Si mes tests de prompt sont qualitatifs, je me lancerai dans des tutoriels (en français) en janvier. Ça dépend des résultats d’autres solutions. Je vous tiens au jus la dessus 👆
+25/12/2024, 13:35 - +32 483 60 53 96: Les profils à l’université sont très variés donc oui, l’ergonomie (et ease of use) est un des premiers critères pour nous !
+À savoir l’objectif premier de mes tests en ce moment ce sont pour des usages de llm (text to gen text) et des options de RAG (text to gen text). Le but n’est pas d’aller vers un outil qui fait tout en une fois mais qui peut s’adapter à des besoins spécifiques. <Ce message a été modifié>

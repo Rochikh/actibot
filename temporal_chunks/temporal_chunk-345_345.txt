@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 10
+
+=== CONTENU ===
+30/03/2024, 09:55 - Ahmadou Ba: https://www.linkedin.com/pulse/innovation-p%25C3%25A9dagogique-en-sciences-humaines-le-trio-dynamique-ba-py51e
+30/03/2024, 09:58 - Pierrick BRIAND: Merci Ahmadou, je mets ton article dans notre liste de lecture.
+30/03/2024, 09:59 - Rochane: Vous avez supprimé ce message
+30/03/2024, 10:06 - Votre code de sécurité avec +33 6 30 89 95 98 a changé. Appuyez pour en savoir plus.
+30/03/2024, 10:15 - Rochane: Perso, j'ai donné un module sur l'innovation pédagogique aux Masters Ingénierie Pédagogique Multimédia et les travaux que je leur ai demandé de rendre, il s'agissait de PDF assez volumineux. J'ai utilisé l'IA ( Claude 2 à l'époque) pour m'aider à trouver une grille de critères d'évaluation puis j'ai corrigé complètement un travail en donnant tout mon avis avec les critères générés à l'IA. Puis, les PDF suivants, je mettais les travaux dans l'IA pour avoir une première approche mais je revenais systématiquement sur les corrections pour voir s'il n'y a pas eu d'hallucinations. Il faut être très vigilant car pour la moindre inattention, on peut avoir des remarques des étudiants. J'avoue que l'IA m'a aidé beaucoup dans la correction même si je ne faisais pas confiance à 100% <Ce message a été modifié>
+30/03/2024, 10:19 - Pierrick BRIAND: <Médias omis>
+30/03/2024, 10:21 - Rochane: Complètement d'accord mais une première approche formulée par l'IA est précieuse
+30/03/2024, 10:22 - Pierrick BRIAND: <Médias omis>
+30/03/2024, 10:40 - Rochane: <Médias omis>
+30/03/2024, 10:49 - Letizia ALLEGRINI: Afin de réaliser une évaluation formative en CAP pour des élèves de lycée professionnel et de les accompagner dans leur épreuve de production d'écrit en trois étapes, j'ai créé un megaprompt dans chagpt 3.5 qui les accompagne tout au long  de leur écriture. Ce megaprompt permet d'intégrer le sujet et la grille de correction de l'enseignant. L'élève entre son premier jet d'écriture l'élève copie colle les conseils de réécriture de lia dans un document texte puis l'enseignant vérifie et ajoute ces propres commentaires. L'élève passe à l'étape 2, etc. J'ai ensuite évalué les traces et l'amélioration du texte.

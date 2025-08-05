@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 18
+
+=== CONTENU ===
+22/10/2024, 21:15 - Rochane: Le mode avancé Voice de chat Gpt est désormais disponible en France pour les comptes payants 👌 <Ce message a été modifié>
+22/10/2024, 21:19 - ‎+32 486 63 52 15 est parti·e
+22/10/2024, 21:20 - martinyemani IA: Merci pour l'info 👏
+22/10/2024, 22:43 - +41 76 372 28 94: Le premier agent IA vient de sortir chez Anthropic. Il contrôle clavier et souris et serait capable de faire des tâches de manière autonome... plus ou moins bien ! Il utilise des captures d'écrans qu'il analyse durant son travail pour le faire. Les premiers tests disent qu'il est lent. A suivre...
+22/10/2024, 23:06 - +212 644-562660: https://www.youtube.com/watch?v=sPD1DOVBk7g&t=473s
+cette vid montre une demo du nouveau agent d’Anthropic, skippez vers 3:18
+22/10/2024, 23:14 - ‎+32 456 06 27 70 a demandé à rejoindre le groupe.
+23/10/2024, 03:12 - ‎+32 477 75 86 09 est parti·e
+23/10/2024, 00:06 - +33 6 25 79 50 95: Bonsoir la communauté IA
+Pour info, Mistral aurait annoncé la sortie prochaine de deux petits modèles de language (SLM) "Ministral 3B et 8B conçus pour tourner sur des plateformes mobiles incluant aussi bien des smartphone que de la robotique autonome pour des tâches de d'analyse ou d'assistance vocale."
+La question est donc comment concrètement installer ce type de SLM sur un smartphone (Android) pour qu'il tourne en Local ?
+Vos réponses si vous en avez seront les bienvenues :-)
+https://www.lemondeinformatique.fr/actualites/lire-avec-ministral-3b-et-8b-mistral-ai-accelere-sur-les-slm-95016.html <Ce message a été modifié>
+23/10/2024, 00:48 - +33 7 63 58 01 55: <Médias omis>
+23/10/2024, 01:04 - Gregoire IA: On peut le faire travailler avec notre propre voix ?
+23/10/2024, 01:32 - Gregoire IA: @33763580155  j’essaie mais je suis limité à l’anglais, ta capture écran le montre aussi (english only) ?
+23/10/2024, 02:52 - +212 714-324644: Bonsoir à toutes et à tous, connaissez-vous un outil similaire à Napkin qui génère des contenus avec des schémas ?
+23/10/2024, 03:16 - Gregoire IA: j’ai fini par réussir 😀

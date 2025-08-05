@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 550
+Messages: 19
+
+=== CONTENU ===
+25/10/2024, 21:13 - Jacques BARATTI: Ce sont des machines (robots) genre imprimante 2D qui port un stylo qui écrit sur une feuille de papier. En fait je cherche une IA qui le ferait automatiquement un peu comme le site Caligrapher.ai (https://www.calligrapher.ai/) qui fonctionne bien mais il est limité à 50 caractères
+25/10/2024, 21:16 - +41 76 372 28 94: Je n'imaginais pas que c'était possible !
+25/10/2024, 21:18 - Fred IA: Bonsoir. Peut-être tester du côté de visme : https://www.visme.co/fr/
+25/10/2024, 21:39 - +33 6 19 75 63 49: <Médias omis>
+25/10/2024, 21:57 - martinyemani IA: *Appel à la collaboration* :
+*Apprenez en créant : rejoignez-nous pour des projets de chatbots*
+La  communauté lance un projet de formation visant à créer des solutions d’Agent Conversationnel à titre pédagogique.
+Vos compétences sont les bienvenues : développeur web, enseignants, formateurs…enthousiastes bref, personne passionnée par l'innovation.
+Les détails de la mise en œuvre du projet vous seront communiqués ultérieurement
+*Un groupe dédié au projet sera créer*.
+25/10/2024, 21:58 - martinyemani IA: *Si vous êtes intéressé, inscrivez-vous sur le formulaire ci-dessous*
+25/10/2024, 21:58 - martinyemani IA: https://docs.google.com/document/d/1L06ihD_NOYpbKTpqncCwxtVOmYGly7Yl/edit?usp=sharing&ouid=108994631268958927501&rtpof=true&sd=true
+25/10/2024, 22:00 - Rochane: Juste une précision, quelle communauté ? Si c'est ici, je ne suis pas au courant de cette formation 🙂
+25/10/2024, 22:02 - martinyemani IA: null
+25/10/2024, 22:02 - martinyemani IA: Peux tu expliquer s'il te plaît, quel est l'objectif du projet auquel tu invites ici les membres de la communauté ?
+25/10/2024, 22:02 - martinyemani IA: Ce message a été supprimé.
+25/10/2024, 22:02 - martinyemani IA: Pouvons nous en parler in box svp
+25/10/2024, 22:14 - martinyemani IA: Nota bene : *il s'agit d'une collaboration pour apprendre ensemble à créer les chatbots*
+25/10/2024, 23:42 - +33 6 25 79 50 95: Excellent Grégoire merci pour cette vidéo. Certes sur la forme c'est perfectible mais sur le fond cela nous aide à développer notre sens critique sur le (brain)washing utilisé par les éditeurs de solutions d'IA tels qu'Open AI.

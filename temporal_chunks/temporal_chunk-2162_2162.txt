@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 11
+
+=== CONTENU ===
+J'ai rajouté la fiche RNCP, ma maquette, mon syllabus dans la base de connaissance, et ensuite j'ai questionné le GPT's pour remplir les documents demandés par ma composante...
+06/05/2025, 13:23 - Rochane: <Médias omis>
+06/05/2025, 13:23 - Rochane: Explication de la politesse avec l'IA très bien expliquée en moins de 5 min dans ce podcast NotebookLM via la vidéo https://youtu.be/v1Py_hWcmkU?feature=shared
+06/05/2025, 13:24 - Céline Averseng: Mais dans mon cas c'était principalement du mappage...
+06/05/2025, 13:29 - +33 6 62 17 05 18: https://www.01net.com/actualites/etre-poli-remercier-chatgpt-couterait-dizaines-millions-dollars-openai.html
+06/05/2025, 13:38 - +33 6 62 17 05 18: Merci pour ce partage Céline 🙏🏻Il apparait que pour répondre à une demande précise, pour une composante ou une formation, l'utilisation d'un GPT peut apporter beaucoup. Mais cela ne correspondra pas aux besoins spécifiques d'une autre composante (autre référentiel, autre syllabus, etc.) Peut-être serait il plus simple de former les personnes engagées dans le projet APC afin de les rendre autonomes à la création d'un Notebook (avec NoteBookLM). Ou encore que je leur crée un NoteBook spécifiques et que je leur partage la partie centrale (jusqu'à 50 personnes dans la version freemium) pour qu'ils soumettent leurs prompts ? Merci, ça m'aide à avancer dans ma réflexion.
+06/05/2025, 14:14 - +33 6 66 98 84 23: INFOS ? Google ouvre Gemini aux moins de 13 ans
+Google vient de franchir une étape majeure : depuis le 5 mai, les enfants de moins de 13 ans peuvent utiliser Gemini, son IA générative, à condition que leur compte soit géré par leurs parents via Family Link. Objectif : les aider à faire leurs devoirs ou leur raconter des histoires avant de dormir.
+Avantages ????
+06/05/2025, 14:18 - +33 6 52 73 73 42: … et pourtant : https://intelligence-artificielle.com/faut-il-vraiment-etre-poli-et-courtois-avec-lia-pour-obtenir-de-meilleures-reponses/
+06/05/2025, 14:34 - Gregoire IA: Et pourtant on mélange politesse qui est un acte social, avec la tonalité des messages.

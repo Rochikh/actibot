@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 555
+Messages: 19
+
+=== CONTENU ===
+16/11/2023, 17:09 - Guillaume Singeot: Bonjour à toutes et tous, voici le lien pour notre visio de jeudi 16/11 de 20h à 21h
+https://us06web.zoom.us/j/84835899595?pwd=TbghLOfnmzhar79c2dslbkDKovOeks.1
+Meeting ID: 848 3589 9595
+Passcode: 361254
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube) en mode privé, sans montage de ma part.
+16/11/2023, 18:08 - ‎+33 6 35 17 14 22 a rejoint ce groupe grâce à son lien d’invitation
+16/11/2023, 19:57 - ‎+32 497 17 83 17 a rejoint ce groupe grâce à son lien d’invitation
+17/11/2023, 06:24 - Guillaume Singeot: Bonjour Voici le lien vers le replay (disponible jusqu'au 1er décembre) https://tubedu.org/w/tM9z13HCYiJZYU4FS7zsds
+17/11/2023, 08:51 - +33 6 35 17 14 22: Merci beaucoup je n’ai pas pu être présente
+17/11/2023, 09:40 - ‎+237 99148639 a rejoint ce groupe grâce à son lien d’invitation
+17/11/2023, 10:17 - +33 6 81 61 17 96: Merci beaucoup
+17/11/2023, 13:41 - Ahmadou Ba: J' avais commencer à compiler quelques ressources sur un mur virtuel Netboard je vous partage le lien: https://ahmadou.netboard.me/usagedeliagpnjr/?link=dt8JOwmr-ZNe4g6N6-VsxkuI9I
+17/11/2023, 14:41 - +33 6 14 90 22 14: <Médias omis>
+17/11/2023, 14:41 - +33 6 14 90 22 14: <Médias omis>
+17/11/2023, 14:41 - +33 6 14 90 22 14: <Médias omis>
+17/11/2023, 14:41 - +33 6 14 90 22 14: <Médias omis>
+17/11/2023, 15:32 - +33 6 63 72 18 15: Passée les voir aussi , à suivre !
+18/11/2023, 09:04 - +32 494 07 27 37: https://www.lemonde.fr/pixels/article/2023/11/17/chatgpt-sam-altman-debarque-de-la-direction-d-openai_6200811_4408996.html
+18/11/2023, 09:47 - Jacques BARATTI: ChatGPT : 15 manières d'améliorer l'apprentissage avec l'IA : un article d'Yvan Demumieux. Dans cet article, je vous montre que Chat GPT est un chatbot extrêmement cultivé. Avec ces forces et ses limites. Je vous donne des astuces pour les contourner et des MEGA Prompts. (lien = https://bit.ly/47juFPk)

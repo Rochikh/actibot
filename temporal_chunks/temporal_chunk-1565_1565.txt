@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 11
+
+=== CONTENU ===
+Construit sur la base du modèle LLaMA 3.3 de Meta, ce modèle surpasse des concurrents comme ChatGPT et Google Gemini dans des tests portant sur la récupération d'informations en temps réel et la précision académique. Diffbot met également l'accent sur l'open source, la personnalisation et l'efficacité énergétique, ce qui en fait une solution attrayante pour les entreprises cherchant une IA précise, responsable et respectueuse de la confidentialité
+11/01/2025, 10:05 - +33 6 28 06 83 96: Bonjour, je cherche une IA gratuite capable de synthétiser plusieurs pdf en même temps. Vous avez un conseil ? Je me disais que je pouvais fusionner les pdf et n'en mettre qu'un dans chat pdf mais je pense qu'il y a une limite dans la version que j'utilise mais sinon d'autres idées ? Merci belle journée à tous
+11/01/2025, 10:07 - Rochane: Notebooklm, incontestablement avec possibilité de mettre 50 sources par notebook
+11/01/2025, 10:08 - +33 6 28 06 83 96: ah cool merci @33649535198
+11/01/2025, 10:38 - Laurent The Cure: Bonjour, j'ai testé notebook comme le conseille @33649535198, mais je n'ai pas été satisfait des résultats qu'il donnait pour la création de quiz de révision. Je préfère utiliser jenova.ai qui est certes payant (15$) mais qui repond mieux à mes demandes et besoins.
+11/01/2025, 13:27 - estelle Duterage Drion IA: Coucou, je crois avoir vu passer ça, j’ai trois heures d’enregistrement audio, je voudrais en extraire la substantifique moelle. Quel outil me conseillez-vous ? Merci par avance à la communauté.
+11/01/2025, 13:29 - Clément Cahagne: Gladia.io puis traitement sur gemini ou chatgpt <Ce message a été modifié>
+11/01/2025, 13:29 - StéphaneIA: Aistudio.google.com
+11/01/2025, 13:30 - StéphaneIA: Pour ce besoin aussi j'irai plus sur aistudio. notebookLM fera la synthèse et répondra aux questions mais pour générer du contenu je ferai plus cela sur aistudio
+11/01/2025, 13:30 - StéphaneIA: Model experimental 1206
+11/01/2025, 13:31 - Clément Cahagne: Mieux qu'un modèle open ai selon toi pour le traitement de la transcription ? Ou Claude ?

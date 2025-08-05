@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 11
+
+=== CONTENU ===
+27/02/2025, 09:11 - Amadou GuisséIA: Bonjour,
+J'ai remarqué que la seule IA capable de convertir un texte généré en version Word ou en PDF (si on le lui demande) est ChatGPT. Les autres IA en sont incapables. <Ce message a été modifié>
+27/02/2025, 09:15 - +33 7 87 35 78 96: Avec parfois (suivant la saturation des serveurs ?) un peu de mal à générer un tel fichier .. On peut aussi avoir des fichiers Excel. A l'usage je préfère demander du csv ou un tableau que je peux copier facilement.
+Cette lacune ouvre la porte à des solutions applicatives qui vont taper les IA avec leurs API et proposer une mise en forme (avec la charte de l'entreprise)
+27/02/2025, 09:31 - Ahmadou Ba: La bonne vieille méthode, selectionner, copier et coller est très efficace. Non seulement elle preserve le format mais évite de copier le format markdown des IA vers la destination. Il faut noter également que demander à ChatGPT de générer un word à partir de la réponse qu'il vient de donner ne garanti pas qu'il recopie fidèlement le contenu de la réponse dans le fichier généré. Dès il resume et synthétise. <Ce message a été modifié>
+27/02/2025, 09:34 - +33 7 87 35 78 96: Et en plus c'est là où il faut excercer son esprit critique : je colle dans word et en faisant la mise en forme je vérifie la qualité de la sortie !
+27/02/2025, 09:37 - Amadou GuisséIA: Connaissez-vous d'autres IA capables de faire la même chose ?
+27/02/2025, 09:46 - Amadou GuisséIA: Je ne parle pas de l'efficacité .Je veux savoir si vous connaissez une IA capable de faire la même chose <Ce message a été modifié>
+27/02/2025, 09:54 - Francois Bocquet: Nous vivons aujourd’hui dans un monde où l’ #IA transforme la manière dont nous testons et évaluons nos #élèves. Les outils d’IAGen ont bouleversé l’ #évaluation, apportant des possibilités passionnantes mais aussi des défis.
+Miriam Wun • Singapore Institute of Technology @timeshighered.bsky.social  https://bsky.app/profile/tirotg.bsky.social/post/3lj5h3xzhkc25
+27/02/2025, 10:28 - +33 7 87 35 78 96: je viens de tester avec Perplexity tu peux générer un PDF (commande Exporter) .. avec leur logo

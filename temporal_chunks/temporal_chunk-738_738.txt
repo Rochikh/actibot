@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 17
+
+=== CONTENU ===
+22/07/2024, 21:03 - +33 7 81 77 51 50: Donc si j'ai bien compris :
+Je lui affecte un rôle
+Lui donne les documents un par un en lui demander de synthétiser....etc
+Lui expliquer le contexte et voir s'il a compris
+Lui demander un plan
+Lui faire ma demande ( réaliser le projet) en itération point par point ?
+22/07/2024, 21:04 - Rochane: Tu peux donner les documents en même temps
+22/07/2024, 21:06 - +33 6 77 41 62 09: C’est à peu près le principe, pour ma part c’est ce que je fais et il est beaucoup plus productif et objectif
+22/07/2024, 21:06 - +33 7 81 77 51 50: Merci pour vos réponses et votre réactivité
+22/07/2024, 21:27 - +33 6 77 84 11 24: NotebookLM de Google permet de créer des carnets de notes dans lesquels on peut sourcer des documents, des url et faire travailler l'IA QUE sur ces documents. Une piste intéressante à mon avis
+22/07/2024, 22:32 - Votre code de sécurité avec +33 6 51 88 66 89 a changé. Appuyez pour en savoir plus.
+23/07/2024, 05:52 - Votre code de sécurité avec ~ Fa a changé. Appuyez pour en savoir plus.
+23/07/2024, 05:52 - Votre code de sécurité avec ~ Alban a changé. Appuyez pour en savoir plus.
+23/07/2024, 09:50 - Jean-Marc Everard: En effet ! L’astuce proposée par Rochane devrait également donner de très bons résultats. Si on veut un contenu qui sorte un peu du lot, il faut aussi demander à ChatGPT ou m’UA utilisée d’être créative et innovante, probablement à chaque itération. Mais du coup il faut bien recardées par la suite car il peut se montrer « trop » créatif 😉.
+23/07/2024, 10:30 - Nadia ER-RAJI: Bonjour à tous
+Oui pour permettre à ChatGPT d'être créatif. Il y'a une astuce qui consiste également à  indiquer la température, paramètre dispo sur la version payante. Entre 0,7 et 1, vos réponses seront plus imprévisibles et créatives. Ce qui veut dire  que le modèle à plus de liberté de choisir des mots moins courants ou des associations plus inhabituelles. A tester...
+23/07/2024, 10:34 - Rochane: Il me semblait que l'on pouvait le faire uniquement sur le playground, non?

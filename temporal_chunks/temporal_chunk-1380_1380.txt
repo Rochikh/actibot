@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 20
+
+=== CONTENU ===
+Question pratique à ceux qui maîtrisent Notebook LM : est-il possible d'afficher le script du podcast, le modifier puis générer une deuxième version de podcast ?
+05/12/2024, 10:37 - +33 6 19 89 32 62: Bonjour à tous, petite question comment structurez vous toutes votre veille et vos projets ? Est ce que certains utilisent Notion ou Obsidian ? Je pense faire un doublon des deux et une partie sur NotbookLM mais j’ai l’impression que ça fait un peu « usine à gaz » 🫣
+05/12/2024, 10:59 - +32 477 78 78 50: On me posait exactement la même question ce matin. Est-il possible de corriger ou modifier le podcast et merci à Rochane pour le hack 👍 <Ce message a été modifié>
+05/12/2024, 11:22 - martinyemani IA: Via un moyen détourné on pourrait créer podcast vidéo et, ensuite générer le transcript à l'aide de highlight vidéo
+05/12/2024, 11:32 - +33 6 25 79 50 95: Autre partage, voici une sélection de guides sur l'IA (dont celui du Louvin learning Lab).
+Je vous recommande d'ailleurs de suivre régulièrement 'l'atelier du formateur" c'est une mine d'infos.
+https://latelierduformateur.fr/6-nouveaux-guides-sur-lia-en-formation/
+05/12/2024, 11:45 - ‎~ SENE Mbaye a ajouté +221 77 106 20 10
+05/12/2024, 11:45 - ‎~ SENE Mbaye a ajouté +221 77 451 54 67
+05/12/2024, 13:12 - Votre code de sécurité avec ~ Elsane a changé. Appuyez pour en savoir plus.
+05/12/2024, 13:31 - Votre code de sécurité avec ~ Anne a changé. Appuyez pour en savoir plus.
+05/12/2024, 16:10 - Votre code de sécurité avec Hadjer a changé. Appuyez pour en savoir plus.
+05/12/2024, 18:02 - +33 6 25 79 50 95: Notion peut être bien.
+Est-ce bien Obsidian ? (je ne connais pas)
+Sinon Il existe aussi Microsoft List mais moins user frendly.
+Sinon pour d'autres outils de veille à tester Fidel Navamuel recommande ceux-là
+Perso j'utilise Feedly
+https://outilstice.com/2024/11/5-outils-de-veille-gratuits-pour-sinformer/
+05/12/2024, 18:17 - +33 6 19 89 32 62: Merci @33625795095
+05/12/2024, 18:18 - Ahmadou Ba: J'utilise OBsidian mais il stocke en local. Le stockage en ligne est payant. Le problème si l'application se desinstalle vous perdez tout. J'ai perdu bcp de données comme ça

@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 21
+
+=== CONTENU ===
+Découvre http://SuperPodcast.ai, un outil pour créer des podcasts facilement et gratuitement ! 🎙️
+🌍 Multilingue : Parfait pour toucher un public international,
+💸 100% gratuit : Profitez de toutes ses fonctionnalités sans dépenser un centime !
+22/01/2025, 18:47 - +33 6 74 39 90 60: ça c'est le message publicitaire mais toi ton avis ?
+22/01/2025, 18:48 - Rochane: C'est mon message publicitaire sur X et je l'ai testé, je l'ai trouvé plutôt pertinent surtout avec des réglages que l'on ne trouve pas sur NotebookLM <Ce message a été modifié>
+22/01/2025, 18:50 - Rochane: Oups, je parlais de super podcasts. Désolé <Ce message a été modifié>
+22/01/2025, 18:57 - +33 6 66 98 84 23: Nouvelle IA en test modeste mais c'est un début    https://lucie.chat/auth
+22/01/2025, 18:57 - +33 6 71 11 12 91: Analyse de la Privacy Policy :
+- Base légale et finalités des traitements : Les CGU ne précisent pas les bases légales des traitements ni les finalités détaillées de la collecte de données
+- Durée de conservation : Aucune mention de la durée de conservation des données personnelles
+- Conformité aux droits des utilisateurs : Absence de mention des droits RGPD (accès, rectification, suppression, portabilité
+- Conditions de résiliation : Section 5 : "We may terminate [...] without prior notice or liability, under our sole discretion
+- Sécurité et gouvernance des données : Aucune mention des mesures de sécurité mises en place pour protéger les données
+- Partage avec les tiers : Les conditions de partage des données avec des tiers ne sont pas détaillées
+- Points de vigilance spécifiques : Section 9 : "What constitutes a material change will be determined at our sole discretion"
+- Responsabilité : Section 7 : exclusion totale de responsabilité y compris pour "unauthorized access"
+Conclusion : Niveau de risque : 🔴 ÉLEVÉ
+Justification :
+- Absence totale des mentions RGPD obligatoires
+- Clauses potentiellement abusives (résiliation, responsabilité)
+- Manque de transparence sur les traitements de données

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 13
+
+=== CONTENU ===
+12/01/2025, 10:05 - +41 79 258 90 36: Pour la transcription de vidéos ou podast mp3 j'utilise le programme offline sur mon PC, ViVeTool v0.3.3. On peut même sélectionner la langue d'exportation. Le fichier est disponible en txt, pdf, doc, srt etc... Je n'ai pas exploré les autres possibilités. https://vivetool.com/download/
+12/01/2025, 10:06 - ‎+33 6 21 80 73 06 a rejoint ce groupe grâce à son lien d’invitation
+12/01/2025, 10:43 - StéphaneIA: @33675775911 le model ça peut être assez personnel comme sentiment. Techniquement ce qui est sur c'est que seul Gemini permet d'avoir des grosses fenêtres de contexte ce que ne peut pas faire Claude ou ChatGPT. Claude c'est un peu mieux avec 200k mais Gemini c'est 1M.
+Niveau performance personnellement je suis très satisfait de Gemini, aussi peut être un peu par déformation professionnelle.
+12/01/2025, 10:52 - Rochane: Petite astuce, si vous avez marre des pubs de Youtube, sans passer par Premium, installer le navigateur Brave et fini les pubs et possibilité de le mettre en arrière plan
+12/01/2025, 10:56 - Clément Cahagne: Je parlais de ça hier : j’ai jamais eu de pub sur Youtube alors que je suis pas Premium. Quelqu’un pour m’expliquer pourquoi ? 😅
+12/01/2025, 10:57 - +32 479 82 01 20: Avec l'extension Ghostery sur Chrome ça marche aussi
+12/01/2025, 10:58 - Clément Cahagne: Merci de ton retour ! Perso je suis assez à l’aise avec les modèles GPT et les trouve pertinents. Du moins, sur mon type de demandes, je ne vois pas trop de différences avec les modèles Claude ou Gemini… Même si je me force à tous les essayer de temps en temps pour rester au fait de l'actu
+12/01/2025, 10:58 - +32 479 82 01 20: Jamais eu de pubs sur YT
+12/01/2025, 10:58 - +33 6 71 11 12 91: La réponse m'intéresse fortement !
+Et +1 pour Brave, que j'utilise en effet pour tout ce qui est Google, vu que Firefox est trop blindé anti-GAFAM pour que Google s'exécute dessus... 😃
+12/01/2025, 10:58 - Rochane: Sur téléphone ça marche aussi
+12/01/2025, 11:00 - +33 6 71 11 12 91: <Médias omis>

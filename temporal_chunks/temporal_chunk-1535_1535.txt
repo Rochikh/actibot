@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 553
+Messages: 9
+
+=== CONTENU ===
+07/01/2025, 06:55 - Jean-Marc Everard: Merci pour ta réponse, oui je pense que c’est ce phénomène que j’ai observé même si c’est textuel et pas chiffré chez moi :l’IA généralise l’info et la lisse. C’est sans doute un point d’attention. Dans mon exemple ce n’est pas trop grave sauf que ça jette le discrédit sur la partie pourtant intéressante du résultat.
+07/01/2025, 07:05 - Jean-Marc Everard: C’est d’ailleurs un point que j’essaie d’aborder dans mes formations : comment adopter l’IA en restant conscient de ses limites actuelles inhérentes à son fonctionnement sans pourtant passer à coté de ses avantages (ne pas jeter le bébé avec l’eau du bain). Évidemment pas toujours évident avec tout le monde mais intéressant car cela oblige à entraîner notre esprit critique. Et ça, ça fait du bien dans tous les domaines. 😉👍🏻
+07/01/2025, 07:07 - +32 498 78 46 36: Avez-vous essayé avec o1 ? Car j'avais aussi ce problème avec notebooklm et chatgpt 4o pour des simulations de planning (comme vous, il prenait des décisions sur ma valeur des heures). Avec o1, il a nettement moins tendance à le faire
+07/01/2025, 08:34 - Clotilde IA: Je pourrai essayer une prochaine fois. Merci
+07/01/2025, 09:42 - +33 6 19 89 32 62: Oui mais si ensuite tu lui dis . Après, compile le tout pour que l’apprenant ait des questions de style aléatoire ? Je sais que cela fait faire des points intermédiaires mais l’IA fonctionne un peu en mode neuro atypique (je connais ! 🙃) donc ça aide souvent à avoir de meilleurs résultats !
+07/01/2025, 11:01 - +33 7 71 20 50 67: Bonjour à toutes et à tous !  existe-t-il à ce jour une bibliothèque de tous les replays ? Merci d'avance !
+07/01/2025, 11:15 - Rochane: Nouveauté tant attendue sur gamma.app : possibilité d'importer un thème (ppt) de la charte de l'entreprise
+07/01/2025, 11:20 - Clément Cahagne: Ahhhhhhh merci Rochane ! Enfin ! Pour toutes celles et ceux qui ont déjà vécu le changement de charte graphique imposé, est-ce bientôt la fin de cette torture ? 😀
+07/01/2025, 11:25 - +33 6 25 79 50 95: Le prix Nobel de l'économie alerte sur la course des géants de la tech qui va trop vite, trop loin...sans servir le bien de l'humanité (mais uniquement des intérêts privés)

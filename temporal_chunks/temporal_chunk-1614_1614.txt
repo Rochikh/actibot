@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 531
+Messages: 11
+
+=== CONTENU ===
+21/01/2025, 14:59 - Francois Bocquet: Ces solutions conformes existent déjà pour l’éducation et la formation avec Gemini ou Copilot utilisés avec des comptes administrés par l’établissement (domaine Workspace Édu ou tenant Office 365 Édu). LM Studio est il multicomptes ? Conserve t’il les historiques de plusieurs utilisateurs différents ? Garde t’il en mémoire les documents ajoutés par N Utilisateurs ?
+21/01/2025, 15:16 - +33 6 42 26 64 70: Merci
+21/01/2025, 15:19 - +33 6 42 26 64 70: @François : L’utilisateur est loggué avec son id et mdp du réseau de l’établissement sur le poste. Enuite, il utilise LMstudio dans s’identifier. Je ne crois pas qu’il y ait une mémorisation ni de profil créé par LM pour l’utilisateur, car le logiciel est installé pour tous les utilisateurs de l’ordinateur…donc il peut effectivement y avoir une discussion d’un utilisateur précédent…je vais creuser de ce côté
+21/01/2025, 15:19 - +33 6 42 26 64 70: sans*
+21/01/2025, 15:21 - Francois Bocquet: Ok ce n’est donc pas un service installé sur un serveur mais un logiciel installé sur chaque ordinateur. Possible qu’il soit bien conçu et que les logos historiques de recherche et documents soient stockés dans un répertoire propre à chaque utilisateur connecté. Ça n’est pas l’idéal car devrait à minima être stocké sur le serveur de session pour permettre d’utiliser n’importe quel ordinateur de l’établissement.
+21/01/2025, 15:22 - Rochane: Hello Manuela, as-tu essayé de lui dire explicitement dans ton prompt de ne pas fournir les réponses ?
+21/01/2025, 15:36 - +33 6 42 26 64 70: Tout a fait….voila ce que GPT me propose comme réponse à cette problématique :
+1. Respect des principes fondamentaux du RGPD
+Le RGPD impose des obligations concernant la collecte, le traitement, et la protection des données personnelles. Voici les principaux critères d’évaluation :
+a. Traitement des données personnelles
+•	Si LM Studio est utilisé sans collecte ou traitement de données personnelles (par exemple, uniquement pour des démonstrations techniques ou des activités pédagogiques génériques), il est plus facile de respecter le RGPD.

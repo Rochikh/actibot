@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 15
+
+=== CONTENU ===
+09/05/2024, 23:17 - ‎Technopedagogue Djieh 🔥🖥️🔥 a demandé à rejoindre le groupe.
+10/05/2024, 09:59 - ‎Technopedagogue Djieh 🔥🖥️🔥 a été ajouté·e
+10/05/2024, 09:59 - ‎Technopedagogue Djieh 🔥🖥️🔥 a rejoint le groupe à partir de la communauté.
+10/05/2024, 10:07 - Rochane: <Médias omis>
+10/05/2024, 10:52 - Rochane: L'article "Avec l'IA, on n'enseignera jamais plus comme avant" explore l'impact de l'intelligence artificielle (IA) sur l'éducation. L'arrivée de ChatGPT a suscité des inquiétudes quant à la tricherie et au plagiat, mais a également ouvert de nouvelles possibilités pour les enseignants. Des outils de détection de plagiat sont utilisés, mais la détection de l'utilisation de l'IA générative reste complexe. L'IA est devenue un allié pour les enseignants, les aidant à élaborer des plans de cours et à évaluer les travaux. Les institutions éducatives sont encouragées à réfléchir à l'intégration de l'IA dans leurs programmes. En Suisse, les enseignants adoptent une approche ouverte en préparant les élèves à une utilisation compétente et responsable des technologies numériques
+https://www.heidi.news/explorations/ia-le-grand-fracas/avec-l-ia-on-n-enseignera-jamais-plus-comme-avant
+10/05/2024, 11:11 - +33 6 76 04 48 20: @33649535198
+En réponse à ton message sur "Annonce", ne t’échines pas à essayer de rendre la vie dure aux robots : WhatsApp est une passoire absolument pas sécurisée (on a fait un test avec un copain informaticien, il est entré dans un de mes groupes et a consulté tout ce qu’il voulait sans que nous ne le voyions).
+Tu ne pourras faire que du curatif (dans notre cas mettre des pansements sur une jambe de bois) mais en aucun cas du préventif efficace…
+10/05/2024, 11:15 - LIO: Merci, merci infiniment pour tout vos partages.
+Dans la réalité on est encore loin en France.
+Mon mémoire est sur l'ia et l'éducation
+Je traite de la créativité
+Puis de l ingenierie du prompt et je termine par la sujbectivation et l'individuation.
+Ma directrice de mémoire ne me comprends pas pourquoi je parle du prompt et je me sens seule au monde.

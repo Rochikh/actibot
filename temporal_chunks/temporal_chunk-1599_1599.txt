@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 24
+
+=== CONTENU ===
+19/01/2025, 00:04 - ‎+216 92 761 504 est parti·e
+19/01/2025, 09:40 - Rochane: ÉVÉNEMENT : RDV le 30 janvier à 20h pour un live exceptionnel d'1h !
+Heure de début de l’événement : 1738263600000
+Événement annulé : false
+Description de l’événement : *Au programme :**Estelle* : Une plateforme API + IA pour propulser les jeunes talents *Jean-Marc* : Découverte des nouveautés NotebookLM, l'outil IA révolutionnaire de 2024*Christian* : Peut-on confier l'enseignement de la programmation à une IA ? *Grégoire* : Retour sur une année d'intégration des IAG dans l'enseignement *Yannick* : Modèle ABC Learning Design et IA pour des pédagogies diversifiées *Sébastien* : Ressources IA en Open Access, prêtes à être réutilisées
+Prépare ton café (ou ton thé) et viens échanger avec nous ! 😊
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+19/01/2025, 09:41 - 🗓 ‎RDV le 30 janvier à 20h pour un live exceptionnel d'1h ! mis à jour
+19/01/2025, 09:42 - Vous avez épinglé un message
+19/01/2025, 10:18 - ‎+33 6 04 46 69 14 est parti·e
+19/01/2025, 10:59 - +33 7 66 46 62 19: Bonjour
+Pourrais je avoir le lien du groupe s il vous plaît pour le partager.
+19/01/2025, 11:00 - Rochane: https://chat.whatsapp.com/Bpy9TORsbJ3LMKL4y6nBkj
+19/01/2025, 11:20 - Rochane: https://youtu.be/IxRXn3VI-cM?feature=shared
+Vidéo de 9 minutes intéressante sur le tutorat personnalisé avec aistudio.google.com
+19/01/2025, 12:12 - Mickaël: Merci. Je viens de faire quelques tests. Impressionnant !
+19/01/2025, 17:44 - ‎+33 6 80 17 10 49 a demandé à rejoindre le groupe.
+19/01/2025, 19:13 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+19/01/2025, 20:54 - ‎+33 6 80 17 10 49 a rejoint ce groupe grâce à son lien d’invitation
+19/01/2025, 21:35 - +33 6 42 26 64 70: Très impressionnant…
+19/01/2025, 21:39 - +33 7 66 54 11 11: Très impressionnant.
+Google avec NotebookLM et Studio AI tient sa revanche
+19/01/2025, 21:47 - +33 6 42 26 64 70: En attendant o3 ? ;-)

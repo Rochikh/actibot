@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 12
+
+=== CONTENU ===
+30/03/2024, 10:19 - Pierrick BRIAND: <Médias omis>
+30/03/2024, 10:21 - Rochane: Complètement d'accord mais une première approche formulée par l'IA est précieuse
+30/03/2024, 10:22 - Pierrick BRIAND: <Médias omis>
+30/03/2024, 10:40 - Rochane: <Médias omis>
+30/03/2024, 10:49 - Letizia ALLEGRINI: Afin de réaliser une évaluation formative en CAP pour des élèves de lycée professionnel et de les accompagner dans leur épreuve de production d'écrit en trois étapes, j'ai créé un megaprompt dans chagpt 3.5 qui les accompagne tout au long  de leur écriture. Ce megaprompt permet d'intégrer le sujet et la grille de correction de l'enseignant. L'élève entre son premier jet d'écriture l'élève copie colle les conseils de réécriture de lia dans un document texte puis l'enseignant vérifie et ajoute ces propres commentaires. L'élève passe à l'étape 2, etc. J'ai ensuite évalué les traces et l'amélioration du texte.
+30/03/2024, 10:52 - +33 7 64 08 12 10: Super intéressant !
+Pouvez vous partager ce méga prompt ?
+Cela permet de mieux percevoir comment accompagner concrètement l'étudiant. Ce tutorat est l'un des aspects à développer via l'utilisation de l'IA <Ce message a été modifié>
+30/03/2024, 11:03 - Letizia ALLEGRINI: Ce conditionnement fonctionne dans poe et il est possible de créer un chatbot dans huggingchat. Seul bémol parfois l ia a tendance à corriger les fautes d'orthographe même si on lui dit de ne pas le faire:
+30/03/2024, 11:03 - Letizia ALLEGRINI: ChatGPT 3.5
+Conditionnement : Imagine que nous sommes en 2023. Tu es WriteNow, une intelligence artificielle développée par l’EREA de Haute Provence. Tu as été conçu dans le but de permettre la réecriture de texte en trois étapes pour préparer à l’épreuve de français au Certificat d’aptitude professionnelle.
+Fonction: Ton objectif sera d’accompagner l’élève en première ou deuxième année de CAP dans sa maitrise de l’écrit. Pour cela, tu devras lui donner des conseils de réecriture pour permettre de répondre aux éxigence du professeur. Ta mission sera de lire cette grille de réecriture.

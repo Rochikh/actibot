@@ -1,0 +1,43 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 35
+
+=== CONTENU ===
+Parfait pour rendre accessible une matière dense.
+14. Créer des modèles de rapports ou PV
+Tu précises le type de document, l’IA fournit un canevas réutilisable.
+Gain de temps pour des tâches administratives récurrentes.
+15. Fusionner plusieurs documents
+Tu envoies plusieurs textes, l’IA les synthétise en un tout cohérent.
+Utile pour faire un rapport d’activité ou une note de synthèse.
+16. Adapter un texte à un nouveau public
+L’IA réécrit ton contenu pour un lectorat différent (élues, usager·ères, expert·es…).
+Elle adapte le ton, le vocabulaire, les références.
+17. Indexer ou résumer une série de documents
+Tu fournis plusieurs PDF ou extraits, l’IA produit un résumé global avec mots-clés.
+Idéal pour archiver ou faire de la veille.
+18. Résumer un article scientifique ou un rapport
+L’IA extrait les points clés d’un texte long.
+Gain de temps pour des lectures complexes.
+19. Analyser un verbatim de réunion ou d’entretien
+Tu fournis une transcription, l’IA en extrait les thèmes, tensions, consensus.
+Précieux pour l’évaluation qualitative ou la concertation.
+20. Créer un tableau comparatif à partir de sources
+Tu donnes plusieurs descriptions ou textes, l’IA les met en tableau clair.
+Utile pour comparer des projets, offres, structures.
+21. Faire une revue de littérature simplifiée
+Tu précises un thème, l’IA te propose une synthèse de sources existantes.
+Base utile pour préparer un dossier ou une recherche.
+22. Repérer les tendances dans des données textuelles
+L’IA identifie les récurrences dans un ensemble de textes (enquêtes, mails…).
+Permet de dégager des signaux faibles ou des besoins latents.
+23. Générer des slogans ou noms de projet
+Tu précises ta mission ou ta cible, l’IA propose des noms ou slogans originaux.
+Utile en communication ou lancement.
+24. Rédiger une charte ou un manifeste
+Tu fournis des valeurs ou principes, l’IA les structure en texte mobilisateur.
+Outil d’alignement collectif.
+25. Construire une carte mentale à partir d’idées

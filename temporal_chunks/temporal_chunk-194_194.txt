@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 23
+
+=== CONTENU ===
+Je ne savais pas qu’on pouvait écrire (je pensais que c’était réservé à l’admin).
+Donc je vous remercie de m’avoir accueilli le 31/01…
+08/02/2024, 13:08 - Laurent The Cure: Bienvenue Richard
+08/02/2024, 15:01 - Ahmadou Ba: Bjr.
+08/02/2024, 15:02 - Ahmadou Ba: J'ai comme l'impression que Copilot dépasse de loin ChatGPT dans des tâches de conception de supports pédagogiques qui intègrent des données extraites en ligne (sur le net).
+08/02/2024, 15:04 - Ahmadou Ba: J'ai donné ce prompt à GPT 4 :
+_Conçois un tableau des indicateurs démographiques des pays suivants :
+- États-Unis
+-Canada
+-Mexique
+Les indicateurs démographiques retenus sont :
+- Populations
+- PIB par habitants
+- Taux d'accroissement naturel
+- Indice synthétique de fécondité
+- Part des moins de 15 ans
+- Part des plus de 65 ans.
+Tu dois effectuer des recherches sur le Web pour trouver les données statistiques les plus récentes. Il ne doit y avoir aucunes données manquantes, ni fictives._
+08/02/2024, 15:05 - Ahmadou Ba: ChatGPT a été incapable de me donner un resultat satisfaisant, il me renvoie toujours vers des sites web, alors que Copilot m'a automatiquement cracher le tableau avec les sources
+08/02/2024, 15:58 - Jacques BARATTI: d'une manière générale GPT4 est meilleur que les autres IA mais il y a des points spécifiques ou certaines IA sont plus performantes que GPT4. Difficile de savoir à priori surtout que le niveau de performance évolue rapidement !
+08/02/2024, 16:07 - Ahmadou Ba: En fait j'ai l'impression il est de plus en plus bridé et qu'il ne peut pas extraire les données sur les sites en ligne; il n'arrete pas de me renvoyer vers les sites pour plus ample information.
+08/02/2024, 16:08 - Jacques BARATTI: C'est certainement le LLM le plus utilisé au niveau mondial et suivant la demande il réduit ses performances pour permettre un accès à tous...
+08/02/2024, 16:11 - Ahmadou Ba: En pédagogie on en besoin de données fiables et rapidement, mais il vous tourne en rond pendant longtemps avant de données des réponses partielles. J'ai déjà un abonnement à GPT 4 mais franchement ça commence à être très limité. Je ne sais pas si vous avez fait ce constant.

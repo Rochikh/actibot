@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+18/11/2024, 18:56 - ‎+216 21 898 544 a demandé à rejoindre le groupe.
+18/11/2024, 19:23 - +33 6 25 79 50 95: Bonsoir la communauté
+Selon ce type d'offre est-elle vraiment intéressante ? (L'accès en particulier des versions payantes tels que ChatGPT) ?
+https://www.stacksocial.com/sales/1minai-pro-plan-lifetime-subscription?aid=a-4o3tekwt
+18/11/2024, 19:24 - +33 6 76 38 15 71: Ca ne répond pas vraiment a la question mais souvent il y a trop de texte sur les diapos ... vous pouvez utiliser Napkin.ai pour générer des visuels par rapport au texte en utilisant votre doc
+18/11/2024, 19:26 - ‎+216 21 898 544 a rejoint le groupe à partir de la communauté.
+18/11/2024, 21:00 - Francois Bocquet: Du nouveau chez Mistral ce soir -> Voici un résumé des principales nouveautés du chat de Mistral :
+Gestion des Dates : Le chat est très attentif aux dates. Par exemple, si vous mentionnez "hier", il comprendra que vous parlez du dimanche 17 novembre 2024. Il s'assure également de fournir des informations pertinentes pour la date spécifiée.
+Clarté et Précision : Si votre question n'est pas claire ou manque de contexte, le chat vous demandera des clarifications avant de répondre. Par exemple, si vous demandez "Quels sont les bons restaurants près de chez moi ?", il vous demandera "Où êtes-vous ?".
+Multilinguisme : Le chat peut répondre dans la langue que vous utilisez ou que vous demandez. Il suit les instructions dans toutes les langues.
+Capacités Multimodales : Le chat peut lire des images mais ne peut pas générer d'images. Il ne peut pas non plus transcrire des fichiers audio ou des vidéos.
+Absence de Recherche Web : Le chat ne peut pas effectuer de recherches sur le web ou accéder à Internet pour ouvrir des URL ou des liens. Si vous avez besoin d'informations spécifiques, il vous demandera de copier-coller le texte directement dans le chat.
+Pas d'Accès au Mode Canvas : Le chat n'a pas accès au mode de génération de canvas.
+Ces fonctionnalités visent à améliorer l'interaction et la précision des réponses fournies par le chat de Mistral.

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 18
+
+=== CONTENU ===
+22/11/2024, 18:45 - Gregoire IA: j'avais analysé leur strat marketing, c presque du copier coller que CocaCola ou MacDo pour la nutrition, OpenAi sait qu'ils ouvrent la boite de pandore pour l'education alors ils misent tout pour se donner bonne figure
+22/11/2024, 19:03 - Votre code de sécurité avec ~ ✌🏽🙌🏽 a changé. Appuyez pour en savoir plus.
+22/11/2024, 19:05 - +237 99148639: Bonsoir à tous, possible de m'orienter vers des IA gratuite de détection de plagiat ou de niveau D'IA dans un texte ? Merci d'avance
+22/11/2024, 19:14 - Vincent DROUOT: et avec la décision de Sam Altam de fermer la structure à but non lucratif d’OpenAI, et dans la foulée de récupérer des actions de la structure à but lucratif pour un montant estimé à 10 milliards de dollars, en effet, cette entreprise est devenue identique à une entreprise qui vend du soda.
+Cela fait partir les ingénieurs et chercheurs d’OpenAI chez Anthropic, donc les inventeurs de ChatGPT sont désormais en train d’intégrer leurs inventions dans Claude.
+22/11/2024, 19:20 - Gregoire IA: Gratuits ou payants aucun c'est viable. Pour le % de l'utilisation c'est encore plus... Incertain 😅
+22/11/2024, 19:43 - +55 11 94241-1993: <Médias omis>
+22/11/2024, 21:01 - Rochane: J'ai fait ce prompt avec Claude qui m'aide pas mal dans les corrections des évaluations mais je ne lui fais pas entièrement confiance :
+*You are an expert AI with highly advanced skills in detecting AI-generated text. Your task is to analyze the given content and determine whether it was likely written by an AI or a human. Pay close attention to the writing style, looking for characteristics that are often associated with AI-generated text.
+Here is the text to analyze:
+<text_to_analyze>
+{{TEXT_TO_ANALYZE}}
+</text_to_analyze>
+To perform your analysis, follow these steps:
+1. Carefully read the entire text.
+2. Look for the following characteristics often associated with AI-generated text:
+- Flat or monotonous writing style
+- Lack of distinct voice or personality

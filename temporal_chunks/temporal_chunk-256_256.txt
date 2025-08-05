@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 10
+
+=== CONTENU ===
+03/03/2024, 15:53 - ‎+1 (438) 402-4595 a rejoint le groupe à partir de la communauté.
+03/03/2024, 16:10 - ‎+41 79 326 51 40 a rejoint le groupe à partir de la communauté.
+03/03/2024, 16:19 - ‎+33 6 01 64 33 57 a rejoint le groupe à partir de la communauté.
+03/03/2024, 16:27 - ‎Jean VANDERSPE a rejoint le groupe à partir de la communauté.
+03/03/2024, 16:48 - Rochane: Tout a l'heure, l'explication de la méthode CRAG pouvait paraître compliquée. Comme vous le savez, il faut toujours demander à l'IA de nous l'expliquer comme si on était un enfant de 12 ans 😁.  Imagine que tu as un grand projet sur les dinosaures pour l'école, mais tu ne sais pas beaucoup de choses sur eux. Alors, tu décides d'aller à la bibliothèque pour chercher des livres et des informations sur les dinosaures. Mais il y a tellement de livres ! Certains sont vraiment bons, mais d'autres peuvent avoir des erreurs ou des informations vieilles.
+CRAG est comme un super-ami qui t'aide avec ton projet. D'abord, il va à la bibliothèque pour toi et trouve les meilleurs livres sur les dinosaures. Ensuite, il lit tous ces livres très rapidement et vérifie si les informations sont justes et à jour. Si quelque chose ne semble pas correct, il le corrige avec les bonnes informations. À la fin, il t'aide à écrire un super projet sur les dinosaures avec toutes les informations correctes et intéressantes qu'il a trouvées et corrigées.
+Donc, CRAG est comme un assistant magique qui t'aide à trouver et à améliorer les informations pour que tu puisses faire le meilleur projet possible !
+03/03/2024, 16:53 - +33 6 08 18 30 41: Crag est un gpt’s ? Si oui, pas encore référencé
+03/03/2024, 16:54 - Rochane: J'ai créé un GPT pour utiliser la méthode CRAG (proposée par Rochane !) il est disponible ici (https://chat.openai.com/g/g-MTr2mTF8u-utiliser-la-methode-crag)
+03/03/2024, 16:54 - +32 479 58 54 12: Le GPT proposé ce matin pour utiliser CRAG écrit de très bons articles ( bravo !)  mais ne fait pas appel à des ressources supplémentaires externes. N'est-ce pas contradictoire?

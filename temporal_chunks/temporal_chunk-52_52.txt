@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 17
+
+=== CONTENU ===
+03/11/2023, 17:55 - Rochane: Pour les bonnes pratiques du groupe et de la communauté, ce serait bien de donner un petit résumé ou aperçu des liens que l'on partage 🙂
+03/11/2023, 18:19 - Ahmadou Ba: <Médias omis>
+03/11/2023, 18:20 - Ahmadou Ba: Qui a des tutos sur Airtable des trucs brf qui puisse m'aider à une prise en main rapide de l'Outil.
+03/11/2023, 18:29 - +33 7 71 20 50 67: null
+03/11/2023, 18:30 - Luc deleplanque: Mieux qu’un tuto… demande à Gpt d’évaluer ton niveau/besoin sur les BdD en général et AirTable en particulier… puis il te fera un plan d’approche de l’outil avec les procédures dont tu as besoin pour ta création … avec 2 ou 3 vidéos sur YouTube… dans 3 heures, tu seras opérationnel 😉 et tu as déjà une très bonne vidéo ci plus haut 😃
+03/11/2023, 18:31 - Ahmadou Ba: Je vais essayer ça inchallah.
+03/11/2023, 18:31 - Ahmadou Ba: Merci de l'astuce;
+03/11/2023, 18:37 - +33 6 63 72 18 15: Ce message a été supprimé.
+03/11/2023, 18:38 - +33 6 63 72 18 15: et sinon tu peux regarder dans les "ressources", il y a des tutos
+03/11/2023, 18:44 - Rochane: Si quelqu'un peut donner son avis sur le dernier point de l'article, à savoir ces enseignant⋅e⋅s qui interdisent l'usage d'Internet ou de l'IA.....
+03/11/2023, 18:45 - Iulia Grosman AIM: Ce message a été supprimé.
+03/11/2023, 19:51 - +33 7 44 72 54 02: Une en croyable explication visuelle du fonctionnement réel des chatbots https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer
+04/11/2023, 08:37 - Rochane: <Médias omis>
+04/11/2023, 09:48 - Ahmadou Ba: A mon avis à l’ère de l’IA, il faudra revoir carrément ce concept de plagiat. Après tout les IA génératives ne font que restituer les données qu’elles ont ingurgitées durant leur entraînement. Tout ce qui vient de l’IA n’est il pas le fruit d’un plagiat.
+04/11/2023, 09:50 - +32 492 85 81 22: <Médias omis>
+04/11/2023, 09:52 - +32 498 78 46 36: Il ~dessine~ prompte bien.
+04/11/2023, 09:53 - +32 492 85 81 22: Et il n'en est pas peu fier

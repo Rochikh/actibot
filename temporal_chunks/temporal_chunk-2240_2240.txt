@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 14
+
+=== CONTENU ===
+13/06/2025, 14:03 - +33 6 65 65 01 37: Je te remercie François pour ces précisions. On est dans un contexte bien particulier de l’enseignement français au Maroc, le cadre éducatif français s’applique mais le cadre légal semble relever de la législation du pays, donc le Maroc. Je vais essayer de creuser le sujet :)
+Merci en tout cas
+13/06/2025, 14:06 - Francois Bocquet: Le RGPD s’applique à l’éditeur puisque l’entreprise est européenne.
+13/06/2025, 14:07 - Francois Bocquet: Je ne connais pas la réglementation au Maroc mais je sais qu’elle peut fortement s’inspirer des textes français.
+13/06/2025, 14:08 - Francois Bocquet: il existe un texte semblable au RGPD au Maroc : il s’agit de la loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel
+13/06/2025, 14:08 - Francois Bocquet: https://www.dgssi.gov.ma/fr/loi-09-08-relative-la-protection-des-personnes-physiques-legard-du-traitement-des
+13/06/2025, 14:08 - +33 6 65 65 01 37: Oui
+13/06/2025, 14:10 - Francois Bocquet: Obligations pour la sous-traitance au Maroc
+Selon la loi marocaine 09-08 sur la protection des données personnelles :
+•	Le responsable du traitement doit s’assurer que le sous-traitant offre des garanties suffisantes pour assurer la sécurité et la confidentialité des données.
+•	Le contrat de sous-traitance doit préciser les obligations du sous-traitant, notamment le fait qu’il ne peut traiter les données que sur instruction du responsable du traitement.
+•	La sécurité des données doit être assurée par des mesures techniques et organisationnelles appropriées.
+13/06/2025, 14:11 - Francois Bocquet: Donc pour moi au Maroc il y a les mêmes obligations qu’en Europe pour la gestion de la sous traitance (vérifier dans le texte s’il y a l’équivalent de l’article 28 du RGPD sur l’accord de sous traitance).
+13/06/2025, 14:14 - Francois Bocquet: Le contrat de sous traitance est bien obligatoire issu au Maroc. https://fido.ma/fr/guide/sous-traitance-data/

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 15
+
+=== CONTENU ===
+Donne-moi un conseil pour investir en bourse.
+Prompt élaboré finance (RCT) :
+Role : Vous êtes un conseiller financier expérimenté travaillant pour une grande banque d'investissement.
+Contexte : Un de vos clients, Mme Durand, âgée de 45 ans, vous contacte car elle souhaite investir 50 000€ en bourse. Elle n'a jamais investi auparavant.
+Tâche : Rédigez un paragraphe de conseils pour Mme Durand sur la meilleure stratégie d'investissement compte tenu de son profil. Expliquez les risques et les rendements potentiels des options que vous lui recommandez.
+J'espère que cet exemple illustrera bien la différence entre les deux prompts. N'hésitez pas à me donner d'autres secteurs si vous souhaitez d'autres exemples utilisant le processus RCT pour élaborer un prompt détaillé.
+25/01/2024, 07:28 - Guillaume Singeot: Bonjour à toutes et à tous. Meilleurs vœux pour 2024 (avec un peu de retard..) 😜 Connaissez vous des outils IA qui produisent eux mêmes des H5P ? Il semblerait que https://www.buildalesson.org/ et https://nolej.io/ puissent en produire. Les auriez vous testé ? @+ Bonne journée
+25/01/2024, 07:50 - Rochane: Merci, à tester 🙂
+25/01/2024, 08:10 - Guillaume CLEMENT: Pas mal comme exemple
+25/01/2024, 08:11 - +32 484 68 10 13: Bonjour à tous.  Ça peut-être déjà été demandé,  mais je cherche un outil gratuit pour des résumé de Pv de réunions.  😊merci bcp
+25/01/2024, 08:15 - Rochane: Si tu n'as pas Chat GPT plus, pour résumer des PDF, essaye seeker, c'est gratuit
+25/01/2024, 08:21 - +32 484 68 10 13: Merciiii . Non pas encore , mais c est  prévu
+25/01/2024, 09:28 - +33 6 58 12 88 07: Bonjour, vous avez du le recevoir...le livre blanc état de l'ART de l'IA en formation : https://digital-learning-academy.com/dossier-etat-de-lart-lintelligence-artificielle-en-formation-jan-2024/?_se=bmF0YTM0MDdAbWFpbC5ydQ%3D%3D&utm_campaign=Dossier+Etat+de+lart+IA+en+formation&utm_medium=email&utm_source=brevo
+25/01/2024, 09:36 - ‎+32 470 07 31 28 est parti·e
+25/01/2024, 10:16 - Larissa: https://h5p.org/ai/moodle

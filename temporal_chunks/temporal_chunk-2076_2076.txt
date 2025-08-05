@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 11
+
+=== CONTENU ===
+12/04/2025, 21:45 - Francois Bocquet: Intéressant ! Ça serait une énorme nouvelle et ça viendrait compléter ce qui est possible avec Vittasience.
+12/04/2025, 21:49 - +33 6 42 26 64 70: Carrément !! J’ai surtout un grand nombre de collègues enseignants qui de ne demande nt qu’à l’utiliser en conformité…mais l’utilise quand même ;) GAR + nouveautés annoncées…au delà de la position dominante que Canva va certainement prendre, ça va être un sacré plus !
+13/04/2025, 11:38 - Jean-Marc Everard: Genial.ly devrait permettre de faire ça me semble-t-il…
+13/04/2025, 11:45 - Jean-Marc Everard: Oui, j’avoue que, bien que très cinscientisé aux aspects environnementaux (je suis toujours « Shifter » au moment où j‘’écris ceci), j’ai quand même eu des usages pas toujours 100% indispensables de l’IA. Mais la sobriété numérique est un vaste sujet (vraiment important du reste) mais je suis toujours étonné de voir qu’on parle très peu des divertissements numériques dans ce contexte (jeux vidéos massivement multi joueurs en tête). Pourquoi ? Ubisoft? …
+13/04/2025, 12:03 - +32 498 78 46 36: D'ailleurs, en parlant de sobriété numérique, depuis la sortie du nouveau générateur d'images inclus dans chatgpt, à presque chaque chat, il me pousse à créer des infographies, des cartes, images, etc. Dans beaucoup de cas, c'est peu à propos. Vous avez aussi cela ?
+13/04/2025, 13:58 - +33 6 80 17 10 49: <Médias omis>
+13/04/2025, 14:33 - +1 (438) 738-6828: <Médias omis>
+13/04/2025, 19:30 - Francois Bocquet: Anthropic lance Claude for Education, une IA qui aide les élèves à développer leur esprit critique
+Claude for Education ne se contente pas de faire les devoirs à la place des étudiants. Elle aide les enseignants à créer des grilles d'évaluation et à fournir des commentaires.
+https://www.zdnet.fr/actualites/anthropic-lance-claude-for-education-une-ia-qui-aide-les-eleves-a-developper-leur-esprit-critique-411352.htm
+13/04/2025, 20:02 - +33 6 72 75 43 48: Je recherche une IA qui pourrait retranscrire un webinar réalisé sur une app livestorm ? Quelqu’un pourrait m’aider ?

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 609
+Messages: 10
+
+=== CONTENU ===
+18/06/2024, 12:14 - ‎+33 6 22 06 78 56 a ajouté +33 6 89 90 65 23
+18/06/2024, 14:54 - +41 79 326 51 40: Objectif 1 puis 2 avec juste ia générative et aussi un peu d'éthique
+18/06/2024, 14:56 - +41 79 326 51 40: Oui j'ai pensé notamment à cette approche, comme le site où tu dois retrouver des prompts ayant permis de créer des images fournies... par contre ça doit être plus complexe d'évaluer pour la génération de texte car on retrouve peut-être trop d'indices dans la solution obtenue... <Ce message a été modifié>
+18/06/2024, 14:56 - +41 79 326 51 40: Exact
+18/06/2024, 15:07 - Francois Bocquet: Il est à mon avis complexe de courir les trois objectifs à la fois car ce sont des sujets tellement différents et intéressant des motivations différentes. Expliquer dans le détail comment fonctionne des IA et en particulier des IA génératives n’est pas tellement à la portée de lycéens (peut être en terminale ?), apprendre à utiliser des IA et à rédiger des invites peut se faire sans comprendre comment ça fonctionne a condition d’en avoir besoin et enfin aborder la questions des finalités et de l’éthique concerne tout le monde et le plus tôt possible car utilisateur ou non chacun est soumis à des utilisations plus ou moins éthiques de l’IA. Mais ça se discute !
+18/06/2024, 16:01 - +33 6 37 28 05 42: Objectif de formation
+Objectifs pédagogiques Taxonomie de bloom 😅🤞🏻…
+Bon courage
+18/06/2024, 16:43 - +41 79 326 51 40: Ne vous inquiétez pas pour moi... ni pour mes élèves 🤣... 25 ans de pratique ça aide...
+En discipline obligatoire je n'explique pas en détail comment fonctionnent les IA (trop compliqué sinon et cahier des charges déjà bien rempli). Je reste dans les grandes lignes avec ia faible, forte, et explications générales au sujet du ML (supervisé, non-supervisé, renforcement),DL(clustering, association, réduction dimensions) mais sans rentrer dans la partie technique car là ça serait trop compliqué pour eux. J'ai déjà testé et ça passe très bien. L'important c'est surtout qu'ils aient quelques bases et ensuite on passe au questionnement des avantages/inconvénients/éthique/impacts et à la pratique par le biais d'un projet. Les étudiants ont beaucoup apprécié mais je suis persuadée que je pourrais encore améliorer de manière significative ce cours en y insérant davantage d'exercices pratiques, d'où ma sollicitation auprès de personnes expérimentées telles que vous 😉 <Ce message a été modifié>

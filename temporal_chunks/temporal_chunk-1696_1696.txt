@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 10
+
+=== CONTENU ===
+01/02/2025, 18:42 - ‎+961 76 795 638 a rejoint le groupe à partir de la communauté.
+01/02/2025, 18:42 - +32 483 60 53 96: + Openai?
+Quelqun a une enquete approfondie sur les usages des donnees et lentrainement des modeles de Open AI? Genre un bon centre de confiance documenté ?
+Pendant ce temps est ce quon devrait pas tous passer sur les API de Mistral ? (Meme en passant par Microsoft Azure et/ou en creant nos propres interfacages entreprises) a t on vraiment besoin des meilleurs modeles ? Regardez les usages sur les systemes RAG, pas besoin de modeles ultra avancés pour faire de chouettes resultats.
+01/02/2025, 18:45 - +32 483 60 53 96: Opinion: Je pense qu'au sein de nos institutions et entreprises, on doit arreter de faire la course instrumentaliste. Mais vraiment poser un cadre minimum adaptable et communiquer/former à des pratiques transparentes et responsables. Soyons un peu idealistes et creatifs non?
+01/02/2025, 18:48 - +41 79 258 90 36: N'étant pas français j'utilise ce qui convient à mes projets.
+01/02/2025, 18:50 - Francois Bocquet: Cependant tu peux installer deepseek localement ce qui change pas mal de chose !
+01/02/2025, 18:51 - Francois Bocquet: Je confirme que DeepSeek est en l’état non conforme au RGPD. L’autorité italienne a déjà pris des initiatives. L’hébergement hors Europe et pays à protection équivalente est illégale pour le service en mode SaaS mais l’installation du modèle sur une infra conforme peut permettre de résoudre le problème.
+01/02/2025, 19:06 - Rochane: Si on s'y inscrit avec une adresse bidon et l'on utilise que des informations non confidentielles, je ne vois pas le danger <Ce message a été modifié>
+01/02/2025, 19:21 - Francois Bocquet: Peu de danger mais illégal en tous cas pour un déploiement en institution. Après, pour une utilisation personnelle chacun choisi ses options. Rappel : une adresse IP personnelle est une donnée à caractère personnel qui implique l’application du RGPD. Les traceurs permettent également de recouper les informations même si tu utilise des comptes différents.

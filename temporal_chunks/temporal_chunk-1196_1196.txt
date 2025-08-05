@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 11
+
+=== CONTENU ===
+07/11/2024, 12:44 - ‎~ Li a ajouté +33 6 69 64 59 44
+07/11/2024, 12:46 - Rochane: L’UNESCO met en place un cadre de compétences (pdf de 80 pages en anglais) en IA pour préparer nos élèves à devenir des citoyens créatifs et responsables dans l'ère numérique. #Éducation #IA
+https://unesdoc.unesco.org/ark:/48223/pf0000391105
+07/11/2024, 12:47 - Rochane: le GPT que tu as développé est public ? Et sinon, c'est quoi exactement cette fonction Describe ? Comment on l'active ?
+07/11/2024, 12:54 - Clément Cahagne: Non, le GPT développé est malheureusement privé. Je vais voir si j'ai le temps de récupérer les informations et éventuellement d'en faire un GPT public en anonymisant toutes les parties qui peuvent être relatives au client pour qui j'ai développé. J'appelle la fonction *describe*, la fonction qui analyse les images dans ChatGPT. C'est peut-être un abus de langage. Je ne suis pas sûr que ça s'appelle exactement comme ça ! Mais bon, en gros, le principe, c'est de lui donner une image, un texte, un scan ou n'importe quoi, et de lui demander de réécrire les textes qu'il y a dessus, ou d'analyser les images si besoin, ou les schémas, par exemple
+07/11/2024, 12:55 - Clément Cahagne: Fonction sous-utilisée, selon moi. C'est extrêmement puissant pour analyser des schémas et pour retranscrire des écrits, même avec des abréviations ou des écritures de médecin
+07/11/2024, 13:23 - Rochane: Openai a acheté le nom de domaine *chat.com* à Dharmesh Shah (Hubspot) qui l'a acheté lui même il y a moins d'un an à plus de 15 millions de dollars. Inutile de vous dire qu'il a dû faire une sacrée plus-value 😁
+Du coup, chat.com, on arrive sur chat.openai.com <Ce message a été modifié>
+07/11/2024, 13:25 - Ahmadou Ba: Je ne comprend pas. Quelle est la nouveauté dans ce changement de nom
+07/11/2024, 13:25 - Rochane: c'est hyper important la Com et c'est du branding pour montrer leur position sur le marché
+Dharmesh Shah a confirmé que la transaction était "à 8 chiffres" <Ce message a été modifié>

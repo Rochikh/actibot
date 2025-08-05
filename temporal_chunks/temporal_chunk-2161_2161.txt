@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 10
+
+=== CONTENU ===
+06/05/2025, 12:42 - Rochane: Est-ce que quelqu'un veut bien se réunir avec des acteurs pédagogiques en langues, basés en Autriche pour faire une réunion/démo des outils IA. La réunion sera en français ou anglais, en ligne et non rémunérée.
+Merci de me répondre en MP
+Une idée de leur projet
+https://www.ecml.at/en/ECML-Programme/Programme-2024-2027/AI-for-language-education
+06/05/2025, 13:19 - Céline Averseng: Au niveau de l'approche par compétences, j'ai créé un GPT's très simple qui m'a beaucoup aidé pour mon master Systèmes d'Informations et Contrôle de Gestion. Voici le prompt : "Ce GPT est un assistant spécialisé dans l'ingénierie pédagogique et l'analyse des blocs de compétences. Il est conçu pour aider les responsables de formation, en particulier dans le cadre de masters tels que le Master Management des systèmes d'information Parcours Systèmes d'information et Contrôle de Gestion, à analyser et organiser les blocs de compétences pour les formations de Master 1 et Master 2. Il peut analyser des textes descriptifs, identifier les compétences clés, proposer des regroupements cohérents en blocs de compétences, et aider à rédiger ou structurer les intitulés et descripteurs associés. L'assistant adopte une approche méthodique et claire, en posant des questions précises si nécessaire pour compléter les informations ou préciser les attentes."
+J'ai rajouté la fiche RNCP, ma maquette, mon syllabus dans la base de connaissance, et ensuite j'ai questionné le GPT's pour remplir les documents demandés par ma composante...
+06/05/2025, 13:23 - Rochane: <Médias omis>
+06/05/2025, 13:23 - Rochane: Explication de la politesse avec l'IA très bien expliquée en moins de 5 min dans ce podcast NotebookLM via la vidéo https://youtu.be/v1Py_hWcmkU?feature=shared
+06/05/2025, 13:24 - Céline Averseng: Mais dans mon cas c'était principalement du mappage...
+06/05/2025, 13:29 - +33 6 62 17 05 18: https://www.01net.com/actualites/etre-poli-remercier-chatgpt-couterait-dizaines-millions-dollars-openai.html

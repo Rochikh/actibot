@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 17
+
+=== CONTENU ===
+29/02/2024, 08:44 - Agathe: Bonjour Guillaume ! Ça fait plaisir ☺️ en animation Carif ?
+29/02/2024, 08:47 - Guillaume Singeot: non, pas cette année pour la Normandie. Est ce que tu te serais pencher sur l'IA Act et ses répercussions sur les OF ?
+29/02/2024, 08:48 - Agathe: Pas encore mais c’est une bonne idée (parmi les 1000 sujets sur l’IA). Peut être qu’ils y a des experts de la question dans ce groupe ?
+29/02/2024, 08:53 - +33 6 22 14 03 93: Ce message a été supprimé.
+29/02/2024, 08:57 - Rochane: Image to music, open source, sans inscription et usage illimité https://imagetomusic.top/#playground
+29/02/2024, 09:15 - +33 6 22 14 03 93: Oui pourquoi pas c’est une piste sérieuse, merci : )
+29/02/2024, 13:27 - Rochane: IA générative et Ingénierie pédagogique , livre blanc d'open classroom
+https://media.licdn.com/dms/document/media/D4E1FAQHeYMAhlcotQw/feedshare-document-pdf-analyzed/0/1709199188665?e=1710374400&v=beta&t=q8ITRXiTxSzOtLKm5eWnKmbp0-j5DYRZexx5UkDPIUk
+29/02/2024, 14:14 - Rochane: Quelle belle idée :
+" #Singapore will pay for its citoyens age 40 and above to go back to school in light of so much knowledge and jobs becoming outdated as a result of AI "
+Vidéo 4 min ici : https://www.linkedin.com/feed/update/urn:li:activity:7168831119193284608/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7168831092525903872%2C7168950791565684736)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7168950791565684736%2Curn%3Ali%3AugcPost%3A7168831092525903872)&origin=COMMENTS_BY_YOUR_NETWORK
+29/02/2024, 15:09 - Guillaume Singeot: Quelqu'un aurait lister les outils IA qui permettent de produire directement des contenus Scorm ?
+29/02/2024, 15:13 - Francois Bocquet: Noletj a intégrer dans cette liste ;-)
+29/02/2024, 15:13 - Francois Bocquet: Nolej.ai
+29/02/2024, 15:40 - Guillaume Singeot: Coassemble avec la partie https://coassemble.com/build
+29/02/2024, 15:50 - +32 479 58 54 12: Alors là, je suis totalement bluffée 🥳.  C'est hallucinant 😮
+29/02/2024, 15:56 - Agathe: Je viens de le tester, c'est incroyable !

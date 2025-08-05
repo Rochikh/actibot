@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 565
+Messages: 18
+
+=== CONTENU ===
+06/08/2024, 22:43 - Gregoire IA: @33676044820 attention, chatgpt hallucine encore beaucoup et meme 4o donne des liens encore trop souvent bidon
+06/08/2024, 22:45 - +33 6 76 04 48 20: Merci pour l’avertissement !
+Raison de plus pour ne pas tomber dans le piège de la facilité…
+06/08/2024, 22:43 - Gregoire IA: il faut y aller avec des outils dédiés à ce type de travaux
+06/08/2024, 22:44 - Gregoire IA: pour l’analyse des documents on a ExplainPaper
+l’outil n’est pas nouveau mais fonctionne très bien
+06/08/2024, 22:45 - Samba BA: Comment faire pour avoir des valeurs Utiliser, méthode choisi et résultats obtenus au niveau d'un article
+06/08/2024, 22:45 - Gregoire IA: le danger n’est pas de s’aider pour la recherche mais de ne pas chercher à comprendre les contenus
+06/08/2024, 22:46 - Gregoire IA: bcp passaient des heures à faire leur revue de litterature pour in fine ne pas comprendre de quoi ils parlent
+le pb n’est donc pas nouveau 😉
+06/08/2024, 22:47 - Gregoire IA: @221779093770 comprends pas la derniere question
+06/08/2024, 22:48 - +237 6 56 90 71 30: Vous connaissez le logiciel "publish or perish" ? Perplexity vous le présente: Le logiciel "Publish or Perish" est un outil précieux pour la revue de littérature, principalement en raison des fonctionnalités suivantes :
+1. Analyse des citations
+"Publish or Perish" permet d'analyser les citations d'articles scientifiques, ce qui aide à évaluer l'impact et la pertinence des travaux dans un domaine donné. Cela permet aux chercheurs de déterminer quels articles sont les plus influents et souvent cités, facilitant ainsi la sélection des sources pour une revue de littérature.
+2. Évaluation des performances de recherche
+Le logiciel fournit des métriques telles que le nombre de citations, l'indice h et d'autres indicateurs de performance qui aident à évaluer la qualité et l'impact des publications. Ces informations peuvent guider les chercheurs dans le choix des études à inclure dans leur revue.
+3. Recherche de littérature
+"Publish or Perish" permet de rechercher des articles par auteur, titre ou sujet, ce qui facilite la collecte de la littérature pertinente. Les chercheurs peuvent ainsi identifier rapidement des publications clés et des tendances dans leur domaine de recherche.

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 553
+Messages: 15
+
+=== CONTENU ===
+L’article conclut en soulignant les implications de ces résultats pour l’enseignement. Puisque les enseignants ont du mal à détecter les textes générés par l’IA, les stratégies d’enseignement et d’évaluation traditionnelles pourraient devoir être repensées. Les auteurs suggèrent un certain nombre de stratégies possibles, notamment en se concentrant sur des compétences que l’IA ne peut pas facilement reproduire, en assurant l’intégrité académique et en intégrant l’IA dans le programme.
+En résumé, cet article met en évidence le défi que représente l’IA générative pour l’enseignement et souligne la nécessité que les éducateurs s’adaptent à ces technologies émergentes.
+10/05/2024, 23:05 - Rochane: À partager avec tous les étudiant·e·s et enseignant·e·s au sujet des bonnes pratiques de l'IA
+https://youtu.be/p5H8jVqUK8o?feature=shared
+11/05/2024, 12:57 - Votre code de sécurité avec +33 6 32 20 02 28 a changé. Appuyez pour en savoir plus.
+12/05/2024, 10:04 - Votre code de sécurité avec Ahmadou Ba a changé. Appuyez pour en savoir plus.
+12/05/2024, 11:12 - Ahmadou Ba: bjr.
+Qui connait une automatisation qui permet de transferer des fichiers reçus sur Whatsapp vers un stockage en ligne ou en local et avec quelle application.
+12/05/2024, 11:17 - Rochane: Ouvre WhatsApp et va dans les Paramètres
+Appuie sur "Discussions", puis "Sauvegarde des discussions"
+Désactive la sauvegarde Google Drive en sélectionnant "Jamais"
+Appuie sur "SAUVEGARDER" pour lancer une sauvegarde locale
+Et voilà, WhatsApp sauvegardera automatiquement tes discussions et médias tous les jours à 2h du matin dans le dossier WhatsApp > Databases de ton stockage interne. Les 7 dernières sauvegardes sont conservées.
+12/05/2024, 16:34 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+12/05/2024, 17:32 - Rochane: Benoit partage son expérience d'écriture de roman avec l'IA de manière authentique et structurée, en trouvant un bon équilibre entre le récit personnel de son processus créatif pas à pas et des conseils universels pour inspirer d'autres auteurs, le tout avec un style clair et des exemples concrets qui rendent son propos facile à suivre. Je trouve cette expérience très riche🙂

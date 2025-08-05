@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 593
+Messages: 16
+
+=== CONTENU ===
+10/01/2025, 20:45 - Rochane: <Médias omis>
+10/01/2025, 20:46 - +33 6 19 04 48 10: Bravo Rochane pour l’article dans Digital Learning Academy 👏
+10/01/2025, 20:47 - Rochane: Tu peux mettre le lien, ça ne me dit rien 🤔
+10/01/2025, 20:48 - +33 6 19 04 48 10: https://digital-learning-academy.com/ia-et-competences-le-futur-de-la-formation-professionnelle-2/?_sc=NTcyMTIwOSM4MTQ1NQ%3D%3D
+10/01/2025, 20:48 - Rochane: Ok le podcast. Merci pour le rappel 😀
+10/01/2025, 21:13 - +242 05 027 3138: Bonjour la communauté
+10/01/2025, 21:15 - +242 05 027 3138: Quelqu'un peut me dire une fois que nous avons créer l'application via *Bolt* comment faire à ce que l'application ai un nom personnalisé ?
+10/01/2025, 21:33 - Rochane: Comme l'application héberge l'application, il est normalement possible de personnaliser en ce que tu veux.bolt.new
+En tout cas, dans replit.com, ça marche comme ça
+10/01/2025, 21:33 - ‎+33 7 65 25 37 15 a demandé à rejoindre le groupe.
+10/01/2025, 21:33 - ‎+33 7 65 25 37 15 a rejoint ce groupe grâce à son lien d’invitation
+10/01/2025, 23:49 - Votre code de sécurité avec ~ Milady Coco a changé. Appuyez pour en savoir plus.
+11/01/2025, 09:05 - Votre code de sécurité avec ~ Milady Coco a changé. Appuyez pour en savoir plus.
+11/01/2025, 09:50 - Rochane: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/
+Diffbot a récemment dévoilé un modèle d'IA révolutionnaire basé sur son Knowledge Graph (graphique de connaissances) contenant un trillion de faits. Ce modèle vise à améliorer la précision des informations et à réduire les "hallucinations" souvent produites par les IA. Contrairement aux modèles traditionnels, il utilise une approche appelée Graph Retrieval-Augmented Generation (GraphRAG), qui permet de consulter des données en temps réel, constamment mises à jour, au lieu de se limiter à des ensembles de données pré-entraînés.
+Construit sur la base du modèle LLaMA 3.3 de Meta, ce modèle surpasse des concurrents comme ChatGPT et Google Gemini dans des tests portant sur la récupération d'informations en temps réel et la précision académique. Diffbot met également l'accent sur l'open source, la personnalisation et l'efficacité énergétique, ce qui en fait une solution attrayante pour les entreprises cherchant une IA précise, responsable et respectueuse de la confidentialité

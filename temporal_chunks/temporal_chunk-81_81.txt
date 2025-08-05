@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 14
+
+=== CONTENU ===
+13/11/2023, 19:36 - Thierry VANOFFE: On peut mettre x 0,5 sur YouTube 😉 ouf
+13/11/2023, 21:33 - ‎+33 7 69 34 80 90 a rejoint le groupe à partir de la communauté.
+13/11/2023, 21:46 - Laurent The Cure: Bonsoir à vous toutes et tous. J'ai bien envie de tester certains GPTs pour mon activité, et donc payer l'abonnement. Savez vous si le paiement se fait à l'année ? Et si l'on peut l'arrêter à tout moment (si cela ne répond pas à mes attentes ou plus sûrement, si je n'arrive pas à l'utiliser correctement). Merci d'avance pour vos lumières. Laurent
+13/11/2023, 21:48 - Rochane: C'est au mois Laurent et tu peux arrêter à tout moment
+13/11/2023, 21:52 - Laurent The Cure: D'accord super merci. Et quelles différences entre gpt-4 gpt-4 plus et gpt4 turbo (pardon pour mes questions qui peuvent paraître idiotes)
+13/11/2023, 21:54 - Thierry VANOFFE: Pour moi c’est blanc bonnet bonnet blanc le nom a changé sur les 3 derniers mois …
+13/11/2023, 21:56 - Thierry VANOFFE: <Médias omis>
+13/11/2023, 21:57 - Rochane: En moins de 100 mots.              GPT-4 est le modèle le plus avancé d'OpenAI, capable d'analyser des images et de personnaliser son ton. GPT-4 Plus semble être une utilisation améliorée de GPT-4, probablement avec des fonctionnalités supplémentaires pour les utilisateurs payants. GPT-4 Turbo, quant à lui, a une fenêtre contextuelle plus large (128 000 tokens), traite des entrées textuelles et d'images, et a des connaissances jusqu'en avril 2023, ciblant les développeurs payants.
+13/11/2023, 21:58 - Rochane: Sauf que toi, il t'a donné une réponse non mise à jour 😁 Moi je l'ai forcé à aller chercher sur internet
+13/11/2023, 21:58 - Laurent The Cure: Merci Thierry et Rochane. L'abonnement donne accès à quelle version ?
+13/11/2023, 21:58 - Thierry VANOFFE: On est d’accord qu’avec la version à 20 balles HT on a accès à tout cela rochane ?
+13/11/2023, 21:58 - Rochane: Gpt 4 Turbo
+13/11/2023, 21:58 - Thierry VANOFFE: Pour moi tout
+13/11/2023, 21:59 - Rochane: C'est toujours la version la plus actualisée

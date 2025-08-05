@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 17
+
+=== CONTENU ===
+11/03/2025, 21:25 - +33 7 87 35 78 96: Un logiciel pour gérer le parcours que le stagiaire voit sa progression
+11/03/2025, 21:26 - +33 7 87 35 78 96: Ce sont des formations pro payantes
+11/03/2025, 21:29 - Gregoire IA: Moodle peut faire, il faudra juste ajouter un plugin pour le paiement.
+Pour sécuriser les vidéos il n'y a rien sans faille mais qques lignes de code pourront limiter la chose pour la grande majorité des apprenants.
+11/03/2025, 21:30 - Gregoire IA: Il y a des solutions extérieures qu'on peut greffer à Moodle mais il y a autant de mal que de bien.
+11/03/2025, 21:38 - Rochane: Skool.com
+11/03/2025, 21:48 - +33 6 15 80 60 40: Teachizy 😁
+11/03/2025, 21:48 - Clément Cahagne: J'allais le dire !
+11/03/2025, 21:49 - Gregoire IA: la différence va etre au niveau des besoins de gestion des parcours, du comportement du parcours et des niveaux d'interactions, la gamification, etc.
+11/03/2025, 21:50 - Gregoire IA: ENA vs SGA
+11/03/2025, 21:50 - Gregoire IA: en anglais c'est facile, on parle de LMS 😛 <Ce message a été modifié>
+11/03/2025, 21:56 - Gregoire IA: Au Quebec on commence à voir des comportements de Boycotte des produits US... cela ne va pas jusqu'à banir ChatGPT ou Claude (faut pas exagérer) mais qu'en meme... AWS risque de souffrir un peu, Microsoft moins car implanté au Canada, peut etre un essort inattendu pour OVH
+En education les 1ers à avoir réagi sont les CEGEPs (+/- nos BTS/IUT en France), les Universités sont tjs plus longues à réagir quand pas prises par leur infra
+Le Danemark fait des réserves en cas de siège mais pas d'action particulière... faut dire qu'ils regardent autant à l'est qu'à l'ouest
+Avez vous vu des tendances émerger là ou vous etes ? <Ce message a été modifié>
+11/03/2025, 21:58 - +33 6 42 26 64 70: Si ça vous intéresse, je peux vous proposer de tester et d’héberger votre formation sur un de mes Moodle avec tous les plugins necessaires, paiement en ligne et professionnel…de suite dispo.
+11/03/2025, 21:59 - +33 6 42 26 64 70: Après faut pas non plus qunil y ait des dizaines de milliers de connexion simultanées ;) cela risquerait de faire tomber le serveur 😁

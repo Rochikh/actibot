@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 15
+
+=== CONTENU ===
+02/09/2024, 09:42 - +212 644-562660: null
+02/09/2024, 10:50 - Mickaël: Et si on le faisait ?
+Proposition de tableur avec une entrée "catégories", puis description de la tâche, et enfin "prompts / GPTs ou outils".
+https://docs.google.com/spreadsheets/d/16J_POZwGwmbnP_ZPvjWYD8vuJ2dNQuX66uZHV_4sDdc/edit?usp=sharing
+02/09/2024, 11:03 - +32 479 58 54 12: Bonne idée et si on s'y met nombreux cela pourrait etre très riche en contenus 😍. Notion serait sans doute plus souple 🤔
+02/09/2024, 11:26 - +212 644-562660: Ayayay, je viens de me rendre compte que les boutons de mon téléphone se sont appuyés dans ma poche ce matin-là. Je tiens à m'excuser auprès de la communauté, ainsi qu'auprès de Rochane, qui a pris le temps de supprimer mes bêtises 😅 la prochaine fois je vais m'assurer de bien verouiller mon tel avant de le remettre dans ma poche
+02/09/2024, 11:35 - Mickaël: J'ai essayé de prendre l'outil collaboratif le plus simple, sans inscription pour celles et ceux qui n'utiliseraient pas Notion.
+02/09/2024, 11:40 - +32 479 58 54 12: Oui. C'est un choix mais le tableau risque d'être vite très long et du coup difficile  à consulter 🤔
+Si d'autres sont intéressés, on pourrait peut-être faire une réunion en ligne pour en parler  ?
+02/09/2024, 11:53 - Francois Bocquet: Plusieurs bases existent déjà me semble t’il
+02/09/2024, 11:54 - Francois Bocquet: Bertrand Formet (site une IA par jour) et Christophe Batier (via Notion) en proposent chacun une.
+02/09/2024, 11:54 - Francois Bocquet: Ça ferait une base de départ non ?
+02/09/2024, 11:54 - Clotilde IA: C’est louable Michaël. Ceci dit ici tout le monde s’intéresse à l’IA qui est encore pour beaucoup un « truc de geek ». Ça devrait pas être insurmontable d’aller sur notion qui donnera beaucoup de flexibilité avec une database pour les abonnés à ce groupe. <Ce message a été modifié>
+02/09/2024, 11:56 - Clotilde IA: Super idée. En collaboratif ça sera beaucoup plus riche.
+02/09/2024, 11:57 - Clotilde IA: On pourrait même rajouter des sous - pages pour des cas d’usage !

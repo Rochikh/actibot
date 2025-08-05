@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 612
+Messages: 19
+
+=== CONTENU ===
+12/04/2025, 10:59 - +33 6 82 42 59 35: Je trouve intéressant de garder en tête l’idée de privilégier l’IA plutôt à des fins pro et d’essayer d’être plus sobre sur le côté purement  fun (même si c’est vraiment drôle de se voir en starter pack et que ça fait du bien de se marrer un peu 😉)
+12/04/2025, 12:16 - Jacques BARATTI: Est-ce que quelqu'un a testé ce GPT qui utilise la méthode ARIA pour évaluer à l'ère de l'IA ? Je le trouve très intéressant lien = https://tinyurl.com/7hr76dz6
+12/04/2025, 12:17 - Rochane: Pas compris à quoi ça sert ?
+12/04/2025, 12:23 - Jacques BARATTI: Ca analyse une méthode d'évaluation dans un contexte donné et te propose des pistes de solutions
+12/04/2025, 12:24 - +33 6 64 50 56 67: Vous avez vous passer https://enzostvs-deepsite.hf.space qui permet de publier un site à partir de prompts ?
+Un premier essai a retravailler pour que tout fonctionne
+https://huggingface.co/spaces/silverteacher/formationsia
+12/04/2025, 12:32 - ‎+33 6 08 16 52 75 est parti·e
+12/04/2025, 12:54 - +32 498 78 46 36: Est-ce que peut le prompter plusieurs fois pour itérer le site internet qu'on crée ?
+12/04/2025, 12:55 - +33 6 64 50 56 67: Il y a une fonction remixer le code et on modifie les pages comme on veut
+12/04/2025, 12:56 - +33 6 64 50 56 67: Par contre à chaque fois il relance la création. Et en copiant collant le code et en le relançant ça ne marche pas bien
+12/04/2025, 13:33 - StéphaneIA: Pour ce genre de besoin Gemini en mode Canva et avec 2.5 pro est très bon.
+12/04/2025, 18:00 - ‎+33 6 16 11 56 47 a demandé à rejoindre le groupe.
+12/04/2025, 18:53 - ‎+33 6 70 89 57 39 a demandé à rejoindre le groupe.
+12/04/2025, 20:37 - +33 6 77 62 11 76: Plan d’action de l’UE pour l’Intelligence artificielle
+https://digital-strategy.ec.europa.eu/en/library/ai-continent-action-plan
+12/04/2025, 21:01 - ‎+33 6 70 89 57 39 a rejoint ce groupe grâce à son lien d’invitation
+12/04/2025, 21:01 - ‎+33 6 16 11 56 47 a rejoint ce groupe grâce à son lien d’invitation
+12/04/2025, 21:43 - +33 6 42 26 64 70: À vérifier tu as raison François, mais l’info a été donnée en off au niveau de la DRANE de mon académie (je suis correspondant ENT). L’accrochage GAR de Canva Education serait en cours et les élèves mineurs et enseignants pourront donc se connecter via l’ENT de l’établissement sans utiliser d’e-mail et donc respectant la conformité RGPD. Cependant, l’accrochage était annoncé avant Noel et on l’attend toujours ;)

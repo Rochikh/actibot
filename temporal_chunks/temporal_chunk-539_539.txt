@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 15
+
+=== CONTENU ===
+23/05/2024, 08:32 - Guillaume Singeot: Pour rappel ; Bonjour à toutes et tous, voici le lien pour notre visio de jeudi 23 mai de 20h à 21h
+https://us06web.zoom.us/j/85199603261?pwd=45nenIDvP6ByFO9bY4qr8QHPP5Ql6j.1
+ID de réunion: 851 9960 3261
+Code secret: 590386
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube), sans montage de ma part.
+23/05/2024, 09:13 - +33 6 25 79 50 95: Merci à vous deux de m'avoir répondu et pour la clarté de ton explication Pierrick.
+Parallèlement j'ai questionné perplexity.
+Je vous partage ci-dessous sa réponse de définition :
+Un RAG (Retrieval Augmented Generation) est une technique d'intelligence artificielle qui combine la génération de texte par un modèle de langage avec la recherche d'informations pertinentes dans une base de connaissances. Voici comment fonctionne un RAG:
+Une question est posée au système RAG.
+Le système effectue une recherche dans une base de données indexée pour trouver les documents/passages les plus pertinents par rapport à la question.
+Les documents/passages pertinents sont transmis à un modèle de langage de type GPT (comme ChatGPT) en plus de la question initiale.
+Le modèle de langage génère alors une réponse en s'appuyant à la fois sur son entraînement initial et sur les informations extraites de la base de connaissances.
+L'avantage principal du RAG est de permettre au modèle de langage d'avoir accès à des informations à jour et spécifiques au domaine traité, ce qui améliore la pertinence et la précision de ses réponses. Le RAG est particulièrement utile pour répondre à des questions factuelles ou techniques nécessitant des connaissances pointues.
+23/05/2024, 09:14 - +33 6 25 79 50 95: Ce qui laisse à supposer qu'un RAG aussi précis soit-il n'est pas exempt d'hallucinations ;-)

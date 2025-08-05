@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 680
+Messages: 16
+
+=== CONTENU ===
+09/11/2024, 10:13 - ‎+33 7 67 67 84 83 est parti·e
+09/11/2024, 10:27 - Pierrick BRIAND: Le saviez-vous ?
+https://www.perplexity.ai/page/perplexity-operateurs-booleens-Y2r6hPQsRtqgP1QLXBt2yw
+09/11/2024, 10:39 - +33 6 31 69 61 40: Top merci Rochane, je vais tester ça 😁
+09/11/2024, 11:09 - Jean-Marc Everard: Bonjour, le sénat Français a publié un 3ème volet dans sa série de rapport sur IA et services publiques et celui-ci est centré sur IA et Education. J'avoue que je n'ai pas encore fini de le lire (ou le faire résumer 😉) mais le voici déjà https://www.senat.fr/rap/r24-101/r24-101-syn.pdf. A la très grosse louche : constat d'appropriation très inégale dans la communauté enseignante (face à un usage assez massif chez les étudiants en revanche) et donc nécessité de cadre et d'accompagnement.
+09/11/2024, 11:10 - +33 6 64 48 37 32: . <Ce message a été modifié>
+09/11/2024, 11:19 - +33 6 64 48 37 32: Bonjour
+Le RAG serai plus intéressant pour les projets de chatbot en interne: Entreprise
+Dans le cadre où on a une documentation importante, centralisée et sécurisée.
+09/11/2024, 12:07 - Lucie: Clairement le meilleur post que j'ai lu ces derniers temps. Je me sentais bien seule a expliquer aux gens que la GEN n'est pas du SEARCH
+09/11/2024, 12:09 - Lucie: Merci @33611028249 pour ce retour.
+Le plan promptable cartonne en formation, les apprenants l'adore.
+09/11/2024, 14:38 - +33 6 34 15 77 84: Vraiment Lucie c’est une super idée il est top Je suis ravie de mon achat 🤗
+09/11/2024, 15:54 - Fred IA: Un outil ia qui semble bien noté et qui est multiusage (dont modèle gpt) pour 40$ oneshot, accès à vie, pas testé personnellement : https://www.stacksocial.com/sales/1minai-pro-plan-lifetime-subscription?aid=a-dtjfdnkj Si certains connaissent, preneur de retex
+09/11/2024, 16:04 - +32 479 82 01 20: je me méfierais tout de même des "Lifetime Deal". Faire des call API d'une IA n'est pas gratuit. J'ai dû mal à comprendre le business model derrière. 😊
+09/11/2024, 16:17 - Daniel Pappalardo: Je l'utilise. En fait y a un nombre de crédits disponible par mois qui peut être vite consommé selon les modèles utilisés (par exemple chat GPT4 turbo coûte 3x plus que la version 4o mini) la génération de texte ou d'image etc. Il n'y a pas de clé API et pas d'accès plein à d'autres fonctions des IA génératives (voix ...) Cela dit c'est assez pratique quand on a une faible consommation par jour. Cela permet aussi de générer plusieurs résultats de différentes IA gen avec un prompt pour les comparer. Après il y a des produits similaires gratuits pour les faibles quantités ou presque. Donc sans être une arnaque ce n'est pas non plus l'offre du siècle. Mais je ne me suis pas senti spolié par le prix.

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+22/08/2024, 14:56 - Pierrick BRIAND: Ce n’est pas faux !
+22/08/2024, 16:06 - Ahmadou Ba: Je viens de créer un GPT pour m'aider dans cette tâche, je lui ai tout simplement comment lire et interpreter les données. Par exemple une vakeur test sup à 1.96 signifie que la forme est significative ainsi de suite. Il faut bien mettre des gardes dire ce qu'il faut et ce qu'il ne faut pas faire. Apres tu récupéres son interprétation et tu affines. <Ce message a été modifié>
+22/08/2024, 16:08 - Ahmadou Ba: Je crois c'est la méthode la plus sûre, tu contrôles le process du début à la fin. J'ai même empeché openai d'utiliser les données pour entraîner ses modèles <Ce message a été modifié>
+22/08/2024, 16:09 - ‎+33 7 81 23 89 05 est parti·e
+22/08/2024, 16:12 - Rochane: Tu peux partager le lien de ce gpt ?
+22/08/2024, 16:16 - ‎+33 6 33 75 30 50 a demandé à rejoindre le groupe.
+22/08/2024, 16:18 - Ahmadou Ba: Oui mais je l'ai crée dans l'urgence de ma situation pour analyser mes données textuelles issues du logiciel SPAD, je vais l'ajuster après pour y integrer l'analyse des données quantitatives si besoin se fait sentir, mais vous pouvez le tester pour voir, un feedback sera toujours la bienvenue:https://chatgpt.com/g/g-tDeZoeeo7-data-insight-assistant
+22/08/2024, 16:24 - +32 479 94 80 38: Super, merci ! Donc ici les données sont safe ?
+22/08/2024, 16:45 - Ahmadou Ba: Ah si l'on peut faire confiance à openAi qui nous assure que nos données ne seront pas utilisées pour entrainer leurs modèles. Oui on peut dire que c safe mais on ne peut rien garantir les IA ne sont pas transparentes dans ce domaine et dans bien des cas aussi.
+22/08/2024, 16:49 - ‎+33 6 33 75 30 50 a rejoint ce groupe grâce à son lien d’invitation
+22/08/2024, 19:15 - Rochane: https://about.ideogram.ai/2.0
+Nouveau Ideogram 2.0 avec un modèle amélioré et de nouveaux styles d'image, un contrôle des couleurs, une application iOS et une API. Il excelle dans le rendu du texte, le réalisme et la cohérence des images, tout en proposant une recherche d'images générées.

@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 8
+
+=== CONTENU ===
+02/11/2024, 22:08 - Francois Bocquet: La loi de 2023 en Suisse est très proche du RGPD. https://www.ge.ch/actualite/nouvelle-loi-protection-donnees-nlpd-est-entree-vigueur-4-09-2023
+02/11/2024, 22:09 - Francois Bocquet: Ici un tableau comparatif des différences https://swissprivacy.law/55/
+02/11/2024, 22:11 - +689 87 78 58 86: Très intéressant @33662364404. Aurais-tu des conseils à donner pour quelqu'un (non juriste) qui souhaiterait bien se former au RPGD ?
+02/11/2024, 22:13 - Francois Bocquet: Educa.ch a fait un bon dossier sur ces questions https://www.educa.ch/fr/actualites/dossier-educa/ecole-conforme-la-protection-des-donnees
+02/11/2024, 22:16 - Francois Bocquet: Le sujet est très vaste et complexe et tout dépendra du temps que tu veux y consacrer et des fonctions que tu souhaiteras exercer ensuite. J’ai suivi une formation d’une année universitaire au CNAM (5 à 6 h de travail par semaine) pour devenir DPD. D’autres suivent un master complet en 1 ans avec 30 à 40h/ semaine de travail. Si tu précise ton besoin (culture générale, responsable de traitement, DPD, conseil expert, …) je pourrais mieux te guider ;-)
+02/11/2024, 22:18 - +689 87 78 58 86: L'objectif est d'acquérir une bonne culture générale, et d'être capable de répondre à des questions telles que celles du livre de G Braun (Que fait l'école des données de nos enfants)
+02/11/2024, 22:22 - Francois Bocquet: C’est donc un niveau expert ! Au passage il y a plusieurs avis et arguments dans ce livre pour lesquels je suis en désaccord ;-) La seule solution, prévoir une formation sur un an de type CNAM en occupant une fonction qui expose déjà à résoudre ces questions dont réalisations d’AIPD et gestion des contrats et avenants. Sinon je pense que c’est impossible. Il y’a quelques ressources en ligne et des livres pas mal fichus (voir ceux de Fabrice Mattatia) mais peu focalisés sur les questions d’éducation (outre celui de G Braun et d’E Kerdelhue).
+02/11/2024, 22:28 - +689 87 78 58 86: Merci pour ces précisions

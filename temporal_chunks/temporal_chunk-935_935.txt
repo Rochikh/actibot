@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 16
+
+=== CONTENU ===
+14/09/2024, 15:15 - +33 6 75 41 23 05: Par contre sur le plan scientifique c’est bluffant. o1 m’a proposé des moyens de résoudre des problèmes de géophysique très pertinents
+14/09/2024, 15:16 - +212 644-562660: Même en matière de gestion de projet ca m'a bluffé
+14/09/2024, 20:14 - Pierrick BRIAND: Une démo pour le groupe ?
+14/09/2024, 20:14 - Pierrick BRIAND: Une démo pour le groupe ?
+14/09/2024, 20:39 - +212 644-562660: peut etre un jour Pierrick. Sinn les CPs ici essayez le si vous avez aucun probleme question securité, c assez facile à manier. Je recommende un prompt generator cela dit pour de bons resultats
+15/09/2024, 08:01 - Rochane: Info tirée de la NL de Génération IA:
+Pour cloner ta voix ou celle de quelqu'un d'autre, utilise Fish Audio, un modèle open source gratuit. Il est entraîné sur 700 000 heures d'audio en 8 langues, dont le français. Il suffit d'envoyer un fichier audio de 25 secondes, générer des échantillons et sauvegarder le modèle. Les résultats peuvent varier en qualité, mais c'est une approche intéressante.
+https://fish.audio/?utm_source=generationia.flint.media&utm_medium=newsletter&utm_campaign=tout-comprendre-du-nouveau-chatgpt-o1&_bhlid=54934f5ef1a0c2a033566d5ba010a2596ed28114
+15/09/2024, 09:08 - ‎+33 6 12 70 87 44 a demandé à rejoindre le groupe.
+15/09/2024, 10:11 - ‎~ Marie-Laure a été ajouté·e
+15/09/2024, 10:11 - ‎+33 6 12 70 87 44 a rejoint ce groupe grâce à son lien d’invitation
+15/09/2024, 10:12 - Rochane: Superbe explication du nouveau modèle openai-o1 👌🏼
+https://generationia.flint.media/p/chatgpt-o1-nouveau-modele-ia-raisonnement-strawberry-guide
+15/09/2024, 10:19 - Jacques BARATTI: j'étais en train de lire cette explication, très claire et informative sur comment fonctionne le nouveau modèle d'OpenAI o1 !
+15/09/2024, 10:36 - +33 6 75 41 23 05: https://chatgpt.com/share/66e69c54-2a64-8003-904f-815cc43a81c3
+15/09/2024, 10:43 - +33 7 63 58 01 55: Bonjour Rochane, à propos de Flint et Benoît, l'autre fois tu parlais d'un groupe WhatsApp qu'il anime, comment peut-on y accéder ?

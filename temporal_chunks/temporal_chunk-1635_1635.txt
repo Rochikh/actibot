@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 25
+
+=== CONTENU ===
+Conclusion : Niveau de risque : 🔴 ÉLEVÉ
+Justification :
+- Absence totale des mentions RGPD obligatoires
+- Clauses potentiellement abusives (résiliation, responsabilité)
+- Manque de transparence sur les traitements de données
+- Non-conformité avec plusieurs obligations légales européennes fondamentales
+Ces CGU semblent avoir été rédigées avec une approche américaine et nécessitent une mise en conformité significative avec le droit européen, particulièrement le RGPD.
+22/01/2025, 18:59 - Francois Bocquet: Arf 10 minutes d’attente pour voir si ça fonctionne…
+22/01/2025, 19:06 - Francois Bocquet: Première question posée : Quelle garantie de conformité apporte Lucie vis à vis du RGPD ?
+Lucie
+7:05 PM
+Lucie n'est pas conçue spécifiquement pour le respect du Règlement général sur la protection des données (RGPD). Lucie est une intelligence artificielle conçue pour fournir des informations et des réponses dans la langue de l'utilisateur, et elle n'a pas d'accès direct aux données utilisateur ni la capacité de les traiter
+22/01/2025, 19:07 - Francois Bocquet: Réponse complètement à côté de la plaque !
+22/01/2025, 19:07 - Francois Bocquet: Aucune information légale ni mentions RGPD pourtant obligatoires
+22/01/2025, 19:12 - Francois Bocquet: En revenant en arrière on trouve des mentions légales RGPD génériques https://linagora.com/fr/privacy et qui sont très mal rédigées !
+22/01/2025, 19:13 - Francois Bocquet: Noter qu’il n’y a pas de RAG disponible sur Lucie avant 9 a 12 mois (!!!???)
+22/01/2025, 19:34 - +33 6 71 11 12 91: Pardon, c'était les "Terms of Service", pas Privacy Policy...
+La Privacy Policy est pire... En gros résumé :
+### **Conclusion pratique pour l'utilisateur.** Les risques majeurs sont:
+1. Perte de contrôle sur ses données personnelles
+2. Impossibilité de faire valoir ses droits
+3. Résiliation arbitraire possible
+4. Absence de garanties sur la sécurité des données
+5. Non-conformité générale au droit européen
+22/01/2025, 20:39 - ‎+33 7 52 04 01 27 a demandé à rejoindre le groupe.

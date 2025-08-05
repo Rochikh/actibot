@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 783
+Messages: 9
+
+=== CONTENU ===
+Si qqun.e maîtrise Make ou Notion, on pourrait développer une tâche automatisée pour générer automatiquement des quizz dès qu'une séance de cours est finie. 😅 <Ce message a été modifié>
+04/03/2025, 16:49 - Rochane: Top, on prépare ça pour fin du mois. Merci pour ta suggestion
+04/03/2025, 16:58 - Clément Cahagne: Ca doit pas être bien méchant si tu as déjà les transcripts. Un petit make pour connecter des assistants type gpts et hop
+04/03/2025, 17:24 - +33 6 19 75 63 49: Je vais (re)voir tes vidéos, merci 🙏En fait nous avons commencé à intégrer l’IA dès sa sortie mais ce n’est pas concluant pour l’écrit en langue étrangère dans nos cours e-learning (pas très surprenant mais je voulais expérimenter ce que les collègues américains donnant des cours de « composition » – Laura Dumin, Léon Furze, Liza Long, Jason Guyla etc. proposaient sur Facebook) et a priori impossible pour les compétences linguistiques (grammaire, lexique).
+Je suis convaincue depuis le début qu’il faut l’intégrer, et on l’a fait dès que cela nous semblait bénéfique (avec des chabots notamment, des jeux dont vous êtes le héros ou des productions de l’IA à critiquer et/ou adapter), ma question est comment faire différent / mieux.
+On l’utilise en conception tous les jours par ailleurs, c’est plutôt sur l’évaluation que je m’interroge et que je suis interrogée par mes collègues (pour le présentiel en ce qui les concerne), mais comme le dit Laurent c’est cuit ;) J’ai bien l’intention de tout repenser et je suis prête à prendre le temps mais je cherche une étincelle!
+Allez je file sur YouTube ce sera peut être toi ✨ ;) <Ce message a été modifié>
+04/03/2025, 17:49 - +33 6 42 26 64 70: Ouch…désolé pour les fautes d’orthographe…j’aurais dû me  relire ;-(
+04/03/2025, 18:05 - +33 6 42 26 64 70: @33619756349 tu peux tout repenser, mais à mon humble avis, attention à ne pas tout jeter à la poubelle ce qui marche…si tu suis l’évolution des IA, en particulier avec la pompe aux investissements qui tourne à plein régime et la dimension stratégique et géopolitique que cela prend ( je ne peux que vous conseiller l’excellent livre / analyse « Hyperarme » de F. Chervet à ce sujet), les possibilités des futurs moteurs génératifs et d’analyses qui la sous tendent vont encore continuer à exploser et nous surprendre par leurs capacités. Je crois que la pédagogie, ou les sciences Neuro psycho cognitives qui la structure scientifiquement, sont solides et pérennes. Sans doute faudra t il un jour isoler les apprenants (ou avec un accès à un IA spécifique d’accompagnement) pour les faire monter dans des compétences classiques indispensable et à (re) définir, mais enrichies de nouvelles compétences qui leur permettront de savoir utiliser ces IA ensuite librement et intelligemment (cf référentiel UNESCO). Cela illustre un sentiment que je rencontre souvent auprès de mes interlocuteurs : « heureusement que j’ai eu une expérience et une culture classique sans IA…elle me permet aujourd’hui de rester critique, de contrôler et mieux guider mes productions IA. Mais comment vont faire les prochaines générations sans ce background ? » Abyssal ;)

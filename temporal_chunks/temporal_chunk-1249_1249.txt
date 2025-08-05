@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 555
+Messages: 10
+
+=== CONTENU ===
+En tout cas, bravo d'initier ce type d'échange de pratique, ça change un peu de l'outil dont l'ombre plane partout. J'en parle dans un article qui date de presque 3 ans 🙂
+https://www.innovation-pedagogique.fr/article11255.html
+16/11/2024, 08:42 - +33 6 68 00 29 68: Il faut bien évidemment prendre mes premiers résultats avec des pincettes, c'est une première expérimentation qui me servira à poser un cadre de recherche
+16/11/2024, 08:53 - +222 46 48 18 36: Avez vous testé notbooklm pour la deuxième étape (mise en commun et synthèse)? Si non quels sont les outils que vous utilisez? Et pourquoi pas notbooklm?
+16/11/2024, 08:57 - +33 6 68 00 29 68: Alors, j'ai utilisé un document Word partagé sur le Drive de l'université pour faire un copier-coller en aller-retour avec Claude 3.5 sonnet sur le texte à synthétiser à la fin du sprint. Je n'ai pas utilisé NotbookLM parce que je ne le connaissais pas. 😅 <Ce message a été modifié>
+16/11/2024, 09:34 - ‎+33 6 82 82 74 21 est parti·e
+16/11/2024, 10:56 - ‎+33 6 79 55 89 05 est parti·e
+16/11/2024, 10:41 - Jean-Marc Everard: Ça m’a l’air super comme méthode ! En tant que prof invité à l’UCLouvain, ça m’intéresserait d’essayer quelque  chose de proche avec mes étudiants. Est-ce que vous seriez d’accord que je vous emprunte le déroulé ? Je ne pense pas que ça aura un gros impact sur les côtes car il s’agit d’un cours projet mais je vise une amélioration de l’engagement et de la dynamique de groupe.
+16/11/2024, 10:46 - +33 6 68 00 29 68: Sans aucun soucis, n'hésitez pas, pouvez vous en revanche me faire un feed-back des résultats observés ?
+16/11/2024, 10:55 - Jean-Marc Everard: Oui bien sûr. En fait l’année passée, pour la première fois en 6 ans, il y a eu de gros soucis de dynamique de groupe, de communication interpersonnelles et interculturelle. Je leur enseigne des techniques de Design thinking et d’approches agiles pour la gestion de projet. Et je compte leur faire expérimenter et suivre la méthode mais au travers d’aller retour, feed-back de goupes etc..  il se fait que j’ai déjà fait des vidéos sur les aspects théoriques pour pouvoir se concentrer sur les problématiques des groupes eux-mêmes. Je vous transmettrai les résultats 👍🏻

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 10
+
+=== CONTENU ===
+19/02/2025, 10:23 - Francois Bocquet: J’ai un énorme doute sur le fait que faire tourner des modèles localement sur sa propre machine coûte moins cher en énergie que de le faire sur des serveurs dédiés et optimisés dans des data center optimisés (refroidissement et énergie renouvelable). Quelqu’un aurait il des données sur cette question ? Mon intuition c’est que faire tourner des modèles localement coûte plus cher et est moins performant que de les faire tourner sur des infrastructures dédiées. Ça oblige à avoir des machines surpuissantes et très coûteuses à l’achat comme en énergie et à développer des compétences spécifiques.
+19/02/2025, 10:26 - Rochane: intéressant car tu tords le cou à certaines croyances. Ce serait cool de trouver une étude à ce sujet
+19/02/2025, 10:28 - +32 483 60 53 96: J'espère avoir quelques données là dessus courant mars (comparer comparia et des modeles sur ordinateur avec codecarbone?)
+LM Studio mont répondu et à ce niveau ils n'ont pas bcp de documentation à partager. J'imagine ca dépend tellement de ce qu'on cherche à faire et avec quel modèle.
+19/02/2025, 10:30 - ‎+33 6 87 95 09 42 a été ajouté·e
+19/02/2025, 10:29 - ‎~ Arnaud a ajouté +33 6 87 95 09 42
+19/02/2025, 10:32 - Francois Bocquet: Exact mais si l’on veut des modèles polyvalents et avec des réponses rapides pour un contexte élargi il faut des machines de bureau super puissantes en GPU et en mémoire donc des coûts énergétiques de production hardware énormes pour une utilisation effective de la puissance qui sera au final très peu utilisée en temps par rapport à des infrastructures mutualismes ET optimisées. Le fait que LM studio et les autres n’aient pas de données me paraît plutôt inquiétant !
+19/02/2025, 10:37 - +33 6 43 10 07 29: Cela me semble assez clair, en effet
+19/02/2025, 10:45 - Rochane: un deep research sur perplexity intéressant sur le sujet https://www.perplexity.ai/search/faire-tourner-des-modeles-ia-l-wPGD3dHKRX6oPYSAxY49aA
+19/02/2025, 10:55 - Pierrick: Cela n'a probablement de sens que si on as déjà la machine adpatée, ce qui restreint l'usage local au gamers je le crains 😉 <Ce message a été modifié>

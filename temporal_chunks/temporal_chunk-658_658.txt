@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 14
+
+=== CONTENU ===
+18/06/2024, 16:47 - zp: il semblerait que bientôt maitriser la science du prompt ne soit pas obligatoire,, ça va tellement vite que cela pose vraiment des questions par rapport à la formation !!!
+18/06/2024, 16:55 - Rochane: Tu peux leur proposer ces jeux intéressants
+https://gandalf.lakera.ai/?utm_source=generationia.flint.media&utm_medium=newsletter&utm_campaign=les-nouveaux-pirates-de-chatgpt
+https://artsandculture.google.com/experiment/jwG3m7wQShZngw
+18/06/2024, 16:57 - +41 79 326 51 40: Effectivement. C'est clair que c'est complexe. Mon idée première est surtout de leur faire comprendre que ces outils doivent être utilisés à bon escient, qu'ils doivent être conscients de leurs limites, qu'ils doivent garder leur esprit critique, que c'est une technologie incroyable mais qu'il faut maîtriser les principes de base afin d'éviter de mauvaises surprises, etc... etc... etc... enfin c'est peut-être une utopie... mais qui ne tente rien n'a rien... 😅
+18/06/2024, 16:57 - +41 79 326 51 40: Merci beaucoup
+18/06/2024, 17:22 - +32 479 94 80 38: je suis bloquée au niveau 2 haha
+18/06/2024, 17:23 - Rochane: Une fois que tu as trouvé l'astuce, ça peut aller vite 🙂
+18/06/2024, 17:26 - +33 6 72 75 43 48: Bonjour à tous je recherche une IA qui permet de traduire une présentation de plusieurs slides , le texte est en anglais je voudrais traduire en français ! Quelqu’un peut il me conseiller ?
+18/06/2024, 17:27 - Rochane: Microsoft propose un add-in gratuit "Translator for PowerPoint" qui permet de traduire facilement vos diapositives dans de nombreuses langues, dont le français. Il suffit d'installer l'add-in depuis le store Office, puis vous pourrez traduire tout le texte en un clic. La qualité de traduction est plutôt bonne.
+18/06/2024, 17:38 - +33 6 72 75 43 48: Ok super pas trop compliqué d’installer l’add in ??
+18/06/2024, 17:39 - Rochane: Je ne sais pas
+18/06/2024, 17:41 - Rochane: https://youtu.be/6Pmtl5j5C3A?feature=shared
+18/06/2024, 17:43 - +34 618 97 47 94: - Dans Canva pro/edu tu as l’option. Il faut y télécharger ton document et dans le menu il te l’offre

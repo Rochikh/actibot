@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 568
+Messages: 16
+
+=== CONTENU ===
+27/05/2024, 16:13 - Fred IA: Juste par curiosité, ce message est apparu au bout de combien de requêtes de gpt-4o ? Merci par avance
+27/05/2024, 16:16 - +33 6 76 04 48 20: Eh bien justement… moins d’une dizaine de requêtes.
+C’est ce qui m’a surpris.
+27/05/2024, 16:17 - +32 498 78 46 36: Bizarre d'être downgradé du 4-o vers le 3.5 sans passer par le 4.
+27/05/2024, 16:18 - +33 6 76 04 48 20: C’est cohérent : le 4.o se situe entre le 3.5 et le 4
+27/05/2024, 16:31 - +32 498 78 46 36: Ah bon ? Au niveau qualitatif ?
+27/05/2024, 16:33 - Rochane: <Médias omis>
+27/05/2024, 16:34 - Rochane: <Médias omis>
+27/05/2024, 16:35 - Fred IA: Merci.. C'est très surprenant effectivement.. Normalement, ça aurait du être une 20ene de messages toutes les 3h avec gpt-4o sur un compte gratuit
+27/05/2024, 16:41 - +33 6 76 04 48 20: Un informaticien me disait récemment qu’il y a "dans l’air" l’idée de rendre ChatGPT 4 gratuit.
+Info ou intox… mais en tous cas signe évident de la bourre que se tirent les acteurs de l’IA
+28/05/2024, 11:18 - Votre code de sécurité avec Nicolas Deguerry a changé. Appuyez pour en savoir plus.
+28/05/2024, 11:40 - Jacques BARATTI: j'ai du manquer quelque chose mais pour moi GPT-4 est gratuit (avec des limitations) Questions avec un compte gratuit : "quel modèle de langage utilises-tu ?" Réponse : "J'utilise GPT-4, un modèle de langage développé par OpenAI. GPT-4, comme ses prédécesseurs, est basé sur l'architecture des transformeurs, mais il est plus avancé en termes de taille, de capacités et de performance. Mon modèle a été entraîné sur une vaste quantité de textes provenant de diverses sources pour être capable de comprendre et de générer du langage naturel de manière cohérente et pertinente."
+28/05/2024, 11:46 - +33 6 76 04 48 20: Je suis d’accord pour ce qui est des limitations (c’est d’ailleurs celui dont on dispose avec Copilot).
+Concernant mon propos on me parlait de ChatGPT4 (la version payante actuelle).
+28/05/2024, 16:39 - Fred IA: Bonjour à toutes et tous. Quelqu'un aurait il par hasard testé si la connexion au Web depuis Chat GPT se poursuit, dans le cas où l'on passe du modèle gpt-4o vers gpt-3.5 à cause de la limitation (avec la version gratuite de ChatGPT). Ce serait intéressant de savoir. Merci par avance 🙂

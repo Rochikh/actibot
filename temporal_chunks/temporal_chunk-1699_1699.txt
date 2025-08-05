@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 15
+
+=== CONTENU ===
+01/02/2025, 21:59 - Gregoire IA: Ils ne sont surtout pas en avance, leur modèle est d'intégrer ce qui a fait ses preuves ailleurs avant.
+02/02/2025, 05:01 - Votre code de sécurité avec +216 52 553 835 a changé. Appuyez pour en savoir plus.
+02/02/2025, 06:44 - ‎+33 6 01 64 33 57 est parti·e
+02/02/2025, 07:58 - +33 6 28 55 82 18: Hello à tous
+Dans le cas d’une installation de DeepSeek en local, étant donné que je dois changer d’ordinateur, je passe sur un Mac mini m4 pro, vaut-il mieux investir dans de la ram et passer de 24 à 48 Go ou de grappiller quelques cores sur le gpu ?. Le neural engine restant le même …
+Si j’ai plus de ram je peux passer sur un modèle plus confortable…
+Vidéo explicative de l’installation de DeepSeek en local via llama
+https://youtu.be/eab6GWO3oHw?si=lppKAWKEjUHsbLzC
+02/02/2025, 08:41 - ‎+33 6 13 02 27 80 a demandé à rejoindre le groupe.
+02/02/2025, 08:49 - ‎+33 6 13 02 27 80 a rejoint le groupe à partir de la communauté.
+02/02/2025, 08:57 - +41 76 372 28 94: A mon avis 64Gb serait probablement mieux, car tu ne peux partager toute la RAM avec les GPU et avec 48Gb tu ne peux pas allouer 40Gb aux GPU, or, lorsque je fais tourner DeepSeek-R1-Distill-Llama-70B-Q4_0-GGUF sur mon ordi, il a besoin de 40Gb de RAM à lui tout seul. Sinon les CPUs ne sont pas sollicités lors de l’inférence : avec l’application LM Studio c’est bel bien les GPU qui sont sollicités et non les ANE (Apple Neural Engines = NPU), contrairement à ce que je pensais. Il semblerait que Core ML soit du coup mieux programmé, mais je n’ai pas encore pris le temps de l’essayer.
+02/02/2025, 10:14 - +33 6 28 55 82 18: En résumé pour faire tourner une IA en interne il lui faut une machine avec un processeur moyen, beaucoup de ram et une grosse carte graphique (Nvidia c’est plus efficace)
+On est donc sur un pc sur mesure
+02/02/2025, 11:16 - +33 6 71 11 12 91: +
+02/02/2025, 11:46 - Adrien Bock IA: je cherche à diversifier mes sources d’informations pour une formation IA/IAG à destination des inspecteurs pédagogiques

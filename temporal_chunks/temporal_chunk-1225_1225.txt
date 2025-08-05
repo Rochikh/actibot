@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 14
+
+=== CONTENU ===
+13/11/2024, 09:04 - +33 6 59 35 23 38: En en faire son coach ultra personnel puisqu'il aurait même le timbre de voix et l'aspect de l'apprenant
+13/11/2024, 09:04 - +32 479 82 01 20: Hello Rémi ! Tu as testé la commande vocale de l'application ChatGPT ? En personnalisant ton GPT tu peux déjà avoir une première version de ton produit.
+13/11/2024, 09:04 - +33 6 59 35 23 38: Merci d'avance à tous pour  vos contributions à l'idée
+13/11/2024, 09:05 - +33 6 59 35 23 38: Non, je ne l'ai pas testée. Pourrais-tu développer ?
+13/11/2024, 09:08 - +32 479 82 01 20: En utilisant le bon framework sur ChatGPT tu peux lui donner le rôle que tu souhaites. Et avec l'application mobile et la commande vocale tu peux discuter avec. En iterant tu pourrais avoir une première version de ton produit sans passer par un développement long et complexe.
+13/11/2024, 09:09 - +33 6 59 35 23 38: D'accord, je comprends mieux. Merci beaucoup pour l'idée, ce serait effectivement un sacré raccourci en termes de travail de développement !
+13/11/2024, 09:10 - +32 479 82 01 20: Et une fois que cela marche bien rien n'empêche de créer votre propre interface personnalisée en vous connectant à l'API de OpenAI 😊
+13/11/2024, 09:11 - +33 6 59 35 23 38: Ok, c'est éventuellement à ce stade que l'on pourrait attribuer au chatbot le timbre vocal de l'utilisateur ?
+13/11/2024, 09:12 - +32 479 82 01 20: Oui je pense bien
+13/11/2024, 09:12 - +32 479 82 01 20: Avec ElevenLabs par exemple pour cloner la voix
+13/11/2024, 09:13 - +33 6 80 25 63 41: Je suis dans le même dynamique que toi et avec la même envie 😊
+13/11/2024, 09:13 - +33 6 99 15 13 77: Effectivement, cette fonctin vocale de ChatGPT, dispo depuis quelques jours pour ma part est bien sympa. Je viens de faire un essai dans une discussion avec chatGPT a qui j'ai demandé de me corriger. il fait l'accompagnement avec joie.
+13/11/2024, 09:13 - +33 6 59 35 23 38: Oui, c'est d'ailleurs via ElevenLabs que Heygen (via une API) génère la voix de l'avatar
+13/11/2024, 09:14 - +32 479 82 01 20: Oui c'est ça

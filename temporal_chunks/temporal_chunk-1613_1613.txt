@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 544
+Messages: 10
+
+=== CONTENU ===
+Ce sera mon prochain carrousel LinkedIn 😅
+21/01/2025, 14:46 - +33 6 42 26 64 70: De mon point de vue, c’est la solution la plus pérenne aujourdhui pour pouvoir former et permettre un accompagnement IA à nos élèves en attendant les solutions RGPD compatibles
+21/01/2025, 14:54 - Jean-Marc Everard: Si ça marche, ça m'intéresse vraiment eyt je vais sans doute switcher de Ollama à LM Studio. Est-ce que c'est aussi simple à l'usage ? Quelqu'un a-t-il tester les 2 ? Et tant que j'y suis : est-ce que quelqu'un d'autre a eu de sporblème avec Docker + Ollama sur Mac ?
+21/01/2025, 14:57 - +33 6 42 26 64 70: Franchement, rien de plus simple que LM studio. Tu peux oublier Docker et les solution client-serveur
+21/01/2025, 14:58 - +33 6 42 26 64 70: L’essayer c’est l’adopter 😉
+21/01/2025, 14:59 - Francois Bocquet: Ces solutions conformes existent déjà pour l’éducation et la formation avec Gemini ou Copilot utilisés avec des comptes administrés par l’établissement (domaine Workspace Édu ou tenant Office 365 Édu). LM Studio est il multicomptes ? Conserve t’il les historiques de plusieurs utilisateurs différents ? Garde t’il en mémoire les documents ajoutés par N Utilisateurs ?
+21/01/2025, 15:16 - +33 6 42 26 64 70: Merci
+21/01/2025, 15:19 - +33 6 42 26 64 70: @François : L’utilisateur est loggué avec son id et mdp du réseau de l’établissement sur le poste. Enuite, il utilise LMstudio dans s’identifier. Je ne crois pas qu’il y ait une mémorisation ni de profil créé par LM pour l’utilisateur, car le logiciel est installé pour tous les utilisateurs de l’ordinateur…donc il peut effectivement y avoir une discussion d’un utilisateur précédent…je vais creuser de ce côté
+21/01/2025, 15:19 - +33 6 42 26 64 70: sans*
+21/01/2025, 15:21 - Francois Bocquet: Ok ce n’est donc pas un service installé sur un serveur mais un logiciel installé sur chaque ordinateur. Possible qu’il soit bien conçu et que les logos historiques de recherche et documents soient stockés dans un répertoire propre à chaque utilisateur connecté. Ça n’est pas l’idéal car devrait à minima être stocké sur le serveur de session pour permettre d’utiliser n’importe quel ordinateur de l’établissement.

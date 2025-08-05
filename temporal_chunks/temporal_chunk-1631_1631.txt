@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 532
+Messages: 10
+
+=== CONTENU ===
+22/01/2025, 14:26 - +33 6 42 26 64 70: Pour ceux qui ne sont pas encore au courant, du lourd !…les 4 prochaines années risque d’être étourdissantes…et espérons dans le bon sens du terme.
+💲🥵500 milliards de $ (!!!) et 100k jobs, pour déployer les plus grands hashtag#clusters de calcul du monde et accélérer la course à l’IA. A peine Trump arrivé et le dément Projet hashtag#Stargate est lancé.
+🏛️En septembre, Sam Altman, le CEO d’hashtag#OpenAI (hashtag#ChatGPT) avait défendu l’idée devant la Maison Blanche. On parlait alors d’un investissement de 100MM$, notamment de hashtag#Microsoft, pour déployer une puissance de calcul inégalée pour l’hashtag#IA d’ici 2028.
+📈Ce chiffre correspondait bien aux "lois d’échelle" (hashtag#ScalingLaws) de la progression des systèmes d’IA (cf. mes posts sur le sujet en décembre).
+🌔L’annonce officielle est tombée cette nuit, adoubée par hashtag#Trump: ce ne sera pas 100 mais 500MM! Le projet est porté par hashtag#OpenAI, hashtag#Softbank, hashtag#Oracle et hashtag#MGX. La construction du premier cluster a commencé au Texas, et les suivant arrivent.
+📔Cela s’inscrit très directement dans les scénarios que j’explore dans mon livre hashtag#Hyperarme (https://hyperarme.com) sur les enjeux hashtag#géopolitiques de l’IA. Alors, décryptage?
+1️⃣Il y a une forte rivalité Chine – USA sur le leadership en IA. Ces systèmes ne sont plus seulement des produits cools de la hashtag#SiliconValley, mais de véritables enjeux de pouvoir et de sécurité nationale. "Le leader en IA dominera le monde" a dit Poutine.
+2️⃣Les Chinois sont derrière les Américains mais avancent vite. De plus, s’ils sont en retard sur la recherche et les hashtag#algorithmes, il y a une chose qu’ils font mieux que les Américains: hashtag#construire.
+Ex: ils ont construit en 10 ans autant de capacité énergétique que tout ce que les USA ont.
+3️⃣Or la bataille de l’IA se joue d'abord sur le plan hashtag#industriel. En effet, la "bitter lesson" (leçon amère) de l’IA est qu’il est plus efficace de faire des algorithmes plus gros et plus gourmands (ce sont les Scaling Laws), que d’améliorer les algorithmes.

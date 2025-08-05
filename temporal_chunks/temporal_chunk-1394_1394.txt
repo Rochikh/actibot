@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 570
+Messages: 12
+
+=== CONTENU ===
+10/12/2024, 21:22 - Ahmadou Ba: bonsoir,
+Qui a une idée pour faire generer à une ia le même personnage en plusieurs photos avec des postures differentes.
+10/12/2024, 21:23 - Clément Cahagne: Midjourney et le tag --cref
+10/12/2024, 21:25 - +33 6 71 11 12 91: Ou l'utilisation de LoRas pour entrainer un sous-modèle de Flux ou Stable Diffusion. Différents sites permettent d'accéder à ces modèles
+10/12/2024, 21:53 - +33 6 19 75 63 49: Bonjour, je voudrais ouvrir un GPT pour une collègue et pour des étudiants mais elle va/ils vont être rapidement limité.e.s en nombre de requêtes avec un compte gratuit il me semble. Connaissez-vous des moyens de rendre un équivalent de GPT accessible en illimité? Je suis abonnée à Claude aussi: je n’ai pas encore pris le temps d’explorer mais je suppose que le problème sera le même. Merci! <Ce message a été modifié>
+10/12/2024, 23:58 - +33 6 79 72 76 62: poe.com
+11/12/2024, 04:13 - Gregoire IA: Quel genre de requêtes, elle veut les faire travailler sur quoi et... Pour faire quoi ?
+Poe est en effet excellent car il permet de travailler avec plusieurs modèles de langage et de comparer les réponses mais si on en sait plus sur les objectifs on pourrait te recommander peut être encore autre chose 😉
+11/12/2024, 07:36 - ‎+41 79 798 48 05 est parti·e
+11/12/2024, 07:53 - +33 6 64 47 07 94: Question de candide. Pour toutes ces évaluations que vous réalisez, utilisez vous un peu compare ia pour avoir une idée du coût de la manip ?
+11/12/2024, 08:35 - Rochane: Si tu n'as pas de réponse c'est que c'est non 😁
+11/12/2024, 08:38 - +33 6 59 35 23 38: Bonjour à tous. J'ai un besoin très spécifique et me demandais si quelqu'un connaîtrait un outil d'IA permettant d'y répondre. J'ai un nombre important de vidéos pédagogiques, non interactives, dont la forme est celle d'une sorte de powerpoint animé, avec des textes et des images apparaissant au fur et à mesure. Je voudrais extraire des captures d'écran de chaque moment significatif, c'est-à-dire concrètement de chaque moment où une diapo est complète, juste avant le passage à la suivante. Il faudrait donc que l'outil "comprenne" que le slide est complet et en fasse un snapshot avant que le suivant soit lui aussi complet, et ainsi de suite. Merci par avance pour vos suggestions.

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 6
+
+=== CONTENU ===
+Plus d’infos en MP
+17/12/2024, 18:26 - Francois Bocquet: Dans ce cas les obligations sont les mêmes que lors de l’utilisation d’un tableur installé sur la machine. Ça simplifie la relation à un sous traitant qui n’existe plus mais d’un point de vue légal le RGPD s’applique aussi. Tout va dépendre des finalités de traitement et des données qui seront ajoutées. Pour être plus clair : il n’y aura pas de logis ni de traces d’utilisation collectée par un tiers, mais ça dépends ce que tu fais avec. Par exemple si c’est demander de générer un contre à propos d’un philosophe ou sur un pays avec un QCA et un glossaire -> peu de DCP traitees. Si tu demande au LLM d’évaluer automatiquement un travail d’élève ou de proposer une synthèse de conseil de classe à partir d’un export CSV depuis l’application de vie scolaire avec nom et prénom des élèves alors c’est un traitement à risque important. C’est bien le traitement qui défini le risque et jamais le logiciel lui même qu’il soit en local ou depuis un SaaS. Mais le SaaS complique les choses du point de vue contractuel.
+17/12/2024, 18:53 - Votre code de sécurité avec +216 55 200 353 a changé. Appuyez pour en savoir plus.
+17/12/2024, 19:17 - François JOURDE: "C’est donc bien le traitement qui définit le risque et jamais le logiciel lui-même" - à graver en lettres d'or... <Ce message a été modifié>
+17/12/2024, 19:27 - Francois Bocquet: Oui il faut le répéter : un logiciel ou une application ne peut « etre RGPD » ou pas. Seul le traitement importe. Et j’en profite pour ajouter qu’un logiciel libre n’impacte que très peu la conformité RGPD (seulement par le fait que son code est auditable mais comme il est modifiable ce n’est pas nécessairement le code rendu disponible qui est finalement exécuté !). On lit souvent : c’est libre donc conforme au RGPD -> prudence, prudence…
+17/12/2024, 20:48 - Fred IA: Bonsoir. Pour info, ChatGPT Search est désormais disponible depuis ce jour pour les utilisateurs gratuits de ChatGPT.. Une bonne nouvelle pour tester 🙂 Certains évoquent la fin de Google avec cette mise à disposition de Search à tous les utilisateurs. J'aimerais avoir votre avis à ce sujet.. Si Google est remplacé par ChatGPT, que fait on des hallucinations de l'IA, qui va générer des fausses news.. (?)

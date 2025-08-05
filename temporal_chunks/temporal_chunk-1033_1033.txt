@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 558
+Messages: 19
+
+=== CONTENU ===
+04/10/2024, 20:22 - ‎+33 6 75 01 93 21 a rejoint ce groupe grâce à son lien d’invitation
+04/10/2024, 20:22 - ‎+33 6 31 40 62 56 a rejoint ce groupe grâce à son lien d’invitation
+04/10/2024, 21:16 - ‎+33 6 64 88 98 78 est parti·e
+05/10/2024, 02:26 - ‎+33 6 13 43 58 18 a demandé à rejoindre le groupe.
+05/10/2024, 12:22 - +33 6 76 38 15 71: Je viens de faire le test les résultats sont très décevants.
+05/10/2024, 12:23 - ‎+33 6 13 43 58 18 a rejoint ce groupe grâce à son lien d’invitation
+05/10/2024, 12:24 - Rochane: Eh Ben désolé. J'avais pourtant fait un test d'une image
+05/10/2024, 12:25 - Fred IA: Je viens de tester en envoyant à copilot WhatsApp une image contenant du texte, et il me renvoie parfaitement le texte brut en réponse
+05/10/2024, 12:33 - +33 6 76 38 15 71: Oui du texte brut la je souhaiterais pour un enseignant qui a déjà une grande partie de ses cours prêts le soulager en lui trouvant une solution pour transformer rapidement ses cours sans avoir à refaire la mise en forme...
+05/10/2024, 12:34 - +33 6 76 38 15 71: Je vais essayer avec la version d'essai Adobe voir le résultat.
+05/10/2024, 12:40 - +216 95 634 201: <Médias omis>
+05/10/2024, 14:10 - +33 6 20 97 18 83: Bonjour à tous,toutes
+je  souhaiterais  utiliser Make pour traitement de mes mails et aussi faire de la veille. Mais j'ai une petite crainte sur le traitements de mes données en le laissant accéder à mes mails. Est-ce que parmi ceux qui l'utilisent, avez-vous une idée des garanties RGPD de cet outil?
+Merci par avance de vos retours.
+05/10/2024, 14:20 - ‎+33 6 62 00 13 87 est parti·e
+05/10/2024, 14:24 - Fred IA: Un copier coller du texte brut dans gamma 🙂
+05/10/2024, 14:31 - Francois Bocquet: Les informations sont ici
+05/10/2024, 14:31 - Francois Bocquet: https://www.make.com/en/privacy-notice
+05/10/2024, 14:48 - Francois Bocquet: A priori c’est carré pour une relation B2C (contrat passe entre l’utilisateur final et l’éditeur) sous réserve d’avoir un représentant juridique en Europe (pas évident). Plus compliqué si contrat B2B entre une organisation et l’éditeur car explicitation nécessaire du rôle de sous traitant de l’éditeur qui n’est de fait plus responsable de traitement (pas indiqué dans les mentions légales).

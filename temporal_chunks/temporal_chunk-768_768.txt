@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 19
+
+=== CONTENU ===
+31/07/2024, 15:10 - ‎+33 6 47 00 06 69 a demandé à rejoindre le groupe.
+31/07/2024, 15:10 - ‎+33 6 47 00 06 69 a rejoint le groupe à partir de la communauté.
+31/07/2024, 17:33 - +33 6 47 00 06 69: Salut, est ce que quelqu un aurait une expérience de formateur pour m indiquer quelles sont les meilleurs IA pour créer un cours? Merci
+31/07/2024, 17:35 - Rochane: Vous avez supprimé ce message
+31/07/2024, 17:38 - Mickaël: Je ne suis pas sûr qu'il y ait de bonnes ou de mauvaises IA pour créer un cours. Il y a surtout des prompts plus ou moins adaptés au regard de vos objectifs pédagogiques.
+31/07/2024, 17:39 - Clément Cahagne: « C’est une bonne situation ça ‘’outil de conception pédagogique boosté à l’IA’’ ? »
+31/07/2024, 17:40 - Rochane: Je croyais que ça existait
+31/07/2024, 17:42 - Rochane: Tiens, je vais m'y pencher. En input, des objectifs pédagogiques mal formulés, un type de public et une durée et en output carrément le scénario avec les objectifs reformulés, les activités associées, les interactions, les outils et l'évaluation 🙂
+31/07/2024, 17:44 - Clément Cahagne: Dans ce style j’avais fait ça pour un client : https://chatgpt.com/g/g-f9PVJF4Of-l-affineur-by-pauuse
+Le concept : je note tes objectifs pédagogiques selon 4 critères… Ou comment faire comprendre à quelqu’un qu’il ne sait pas écrire un OPP sans vraiment lui dire 😅
+31/07/2024, 17:46 - Rochane: Excellent!
+31/07/2024, 17:58 - ‎+33 6 25 68 40 35 est parti·e
+31/07/2024, 18:00 - +32 492 20 81 18: Je ris!
+31/07/2024, 18:00 - +32 492 20 81 18: J'y ai pensé aussi 🤣
+31/07/2024, 18:01 - Cyrille CARTERET: Bravo, c'est top
+le résultat est très cohérent, mais un peu long pour entrer sur une fiche programme pour moi
+31/07/2024, 18:01 - Clément Cahagne: Les grands esprits se rencontrent 😉
+31/07/2024, 18:01 - Clément Cahagne: Sur une fiche programme tu es plutot sur des objectifs pédagogiques globaux en général. Ou si partiels : retirer l’évaluation et éventuellement les conditions
+31/07/2024, 18:12 - Ahmadou Ba: Essayez Diffit ou Magic school, elles sont nombreuses les IA orientés pedagogie. D'ailleurs bcp de plateformes traditionnelles integres des outils IA pour optimiser leurs offres.

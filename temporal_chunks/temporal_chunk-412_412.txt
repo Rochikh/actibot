@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 9
+
+=== CONTENU ===
+Pour ceux que ça peut intéresser, j'ai créé ce GPT dédié à aider les enseignants à concevoir leurs évaluations,  notamment en suggérant des critères et indicateurs en fonction de la situation d'évaluation décrite. N'hésitez pas à me donner votre feedback si vous le testez
+12/04/2024, 12:36 - Yvelines: https://hf.co/chat/assistant/660c631d49f4913e777e55eb
+Un second GPT créé pour aider les enseignants à intégrer l'utilisation des IA dans leurs activités avec leurs étudiants. Celui-ci aura évidemment besoin de votre contexte d'enseignement également 😉
+12/04/2024, 12:50 - ‎+1 (438) 402-4595 est parti·e
+12/04/2024, 14:40 - Jean-Marc Everard: Tout à fait d’accord : attention ils ne prennent pas en compte le développement non plus, ni hardware ni software, mais donc entre les lignes pas le coût de l’entraînement du modèle qui est la plus grosse sources d’émissions. Sans compter la non prise en compte des annotateurs. J’aimerais y croire parce que ça me déculpabiliserait un peu, mais franchement cette étude me paraît légère…
+12/04/2024, 14:44 - Jean-Marc Everard: Au temps pour moi, ils prennent en compte l’entraînement mais pas le développement du modèle avant entraînement. Ok, sans doute bcp moins coûteux en ressources… j’ai trop diagonalisé l’article mais disons qu’il est loin d’autres chiffres que vu par ailleurs (p. Ex équivalent de 50cl d’eau par requête pour le refroidissement…). Bon, j’imagine qu’il faudra affiner tout ça
+12/04/2024, 14:45 - Clément Cahagne: For this study, we included the hardware and energy used to provide the AI service, but not the software development cycle or the software engineers and other personnel who worked on the AI. This choice is analogous to how, with the human writer, we included the footprint of that human’s life, but not their parents.
+12/04/2024, 14:47 - Jean-Marc Everard: Oui, j’ai rectifié de moi-même. En revanche, je trouve l’analogie de plutôt fausse.
+12/04/2024, 14:51 - Clément Cahagne: J’ai vu; désolé j’ai pas été assez rapide 😉

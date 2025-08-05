@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 17
+
+=== CONTENU ===
+04/11/2024, 10:21 - Clotilde IA: https://glasp.co/youtube-summary
+The best I’ve tested, free all the way, perfect transcripts, interactions possible - well explained in their short welcome video (limitations & possibilities)
+04/11/2024, 10:36 - Adrien Bock IA: oui je connaissais, merci qd même clotilde
+04/11/2024, 11:34 - +41 76 372 28 94: Je viens de finir de parcourir les 43 pages du comparatif entre la nLPD et la RGPD. J'ai retenu deux choses : quelqu'un pouvais faire une dénonciation en cas de non respect (les parents d'élèves par exemple) et les amandes peuvent être très très salées (surtout en cas de fausses déclarations). Je suis donc très content d'avoir été sensibilisé aux problèmes de la première version de mon site et de les avoir corrigés rapidement 😅. Merci encore @33662364404 !
+04/11/2024, 12:44 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+04/11/2024, 14:42 - ‎+33 7 60 00 58 08 a demandé à rejoindre le groupe.
+04/11/2024, 14:46 - ‎+32 485 71 33 89 est parti·e
+04/11/2024, 22:19 - ‎+32 479 82 01 20 a demandé à rejoindre le groupe.
+05/11/2024, 04:17 - +57 311 5336055: null
+05/11/2024, 04:45 - ‎+32 479 82 01 20 a rejoint ce groupe grâce à son lien d’invitation
+05/11/2024, 04:45 - ‎+33 7 60 00 58 08 a rejoint ce groupe grâce à son lien d’invitation
+05/11/2024, 04:47 - Vous avez supprimé +57 311 5336055
+05/11/2024, 08:37 - Votre code de sécurité avec ~ Marie-Laure a changé. Appuyez pour en savoir plus.
+05/11/2024, 10:17 - ‎+32 498 66 16 08 a demandé à rejoindre le groupe.
+05/11/2024, 10:52 - ‎+32 471 82 75 48 a demandé à rejoindre le groupe.
+05/11/2024, 10:58 - Luis Galindo: Pour info, visualisation très intéressante pour explorer les différents LLM classés par capacités, dimensionnés par milliards de paramètres utilisés pour l'entraînement : https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/
+05/11/2024, 11:31 - Votre code de sécurité avec ~ Marie-Laure a changé. Appuyez pour en savoir plus.

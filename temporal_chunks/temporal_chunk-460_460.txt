@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 9
+
+=== CONTENU ===
+23/04/2024, 20:08 - +33 6 64 50 56 67: Bonsoir un exemple de chatbot créé avec les outils de portail apps et le site d’un collègue eyssette professeur de philo. La syntaxe est du markdown. Une idée pour créer toutes les réponses possibles. Chatbot cree pour une présentation https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/s/Lii5jEDIX
+Son site https://eyssette.github.io
+23/04/2024, 20:34 - Francois Bocquet: Attention de ne pas confondre un Chatbot complètement programmé (c’est le cas ici) et un chatbot utilisant de l’IA pour interpréter les productions humaines et pour générer des interactions. Ce n’est pas la même catégorie d’IA du tout (si l’on parvient à considérer la première comme de l’IA).
+23/04/2024, 21:11 - Votre code de sécurité avec ~ Richmond FIKO 📈🖥️📊 a changé. Appuyez pour en savoir plus.
+23/04/2024, 21:17 - +33 6 64 50 56 67: Bonsoir Francois. Merci et je suis bien consciente de la différence. Je pointe juste la démarche pédagogique qui inclut la réflexion autour de la conception de réponses attendues autour de questions type ce qui peut aiguiser l’esprit critique par exemple des élèves. Je pense qu’on s’émerveille un peu trop sur des outils hébergés à l’étranger et qui pillent des données non contrôlées. Et que notre énergie devrait se tourner vers une création d’outils qui se basent sur un corpus de données sélectionnées.
+À nous de savoir si on veut se laisser porter et emporter ou essayer de trouver d’autres voies. <Ce message a été modifié>
+23/04/2024, 21:18 - +33 6 64 50 56 67: Et pour info je vous ai trouvé bien plus sévère quand il s’agissait de juger monoral.net par exemple
+24/04/2024, 08:59 - +33 7 49 40 50 92: Je te laisse la main si tu veux 🙂. J'ai juste testé la génération adaptée au format des activités. Je n'ai pas testé Smart Import. Il y a 14j d'essai. La démo avec la vidéo interactive est bluffante. Ils utilisent le LLM Falcon pour cela.
+24/04/2024, 09:32 - +1 (514) 709-1726: Pour celles et ceux qui sont intéressés par l’utilisation de l’AI dans l’enseignement-apprentissage des langues, j’ai rédigé un petit article qui décortique l’utilisation des avatars pour remplacer les profs de langue et notamment l’APP Praktika: https://www.cyriele-kiening.com/post/praktika-avatar-ai-génératifs-pour-apprendre-une-langue

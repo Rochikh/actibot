@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 19
+
+=== CONTENU ===
+10/04/2024, 21:09 - Rochane: https://view.genial.ly/660e6ccdf62301001483be53
+Présentation de @32497911724
+10/04/2024, 22:03 - ‎+32 476 25 91 94 a rejoint le groupe à partir de la communauté.
+10/04/2024, 22:17 - Rochane: Bonjour à tous,
+Sous l’impulsion de la commission de l’IA et en plus des sensibilisations intra entreprise, nous organisons le 1er Tour de France de l’IA, l’occasion de se sensibiliser aux impacts de l'intelligence artificielle générative et de découvrir La Fresque de l'IA.
+Voici le lien direct vers l’événement :
+https://galancesconseil.fr/1er-tour-de-france-de-lia/
+Avec plaisir pour en discuter de vive voix !
+Nicolas
+Lien vers la page linkedin :
+https://www.linkedin.com/events/letourdefrancedel-ia7181163467125460993/
+10/04/2024, 22:24 - +33 6 87 13 94 22: Ce message a été supprimé.
+10/04/2024, 22:25 - +33 6 87 13 94 22: https://view.genial.ly/6616f3bd77de0800157bc80e
+10/04/2024, 22:47 - ‎+32 474 22 36 52 est parti·e
+11/04/2024, 00:31 - +32 487 80 81 16: Si vous avez besoin de quelque chose de plus, n’hésitez pas à le demander. ;)
+11/04/2024, 07:17 - Guillaume Singeot: lien vers le replay de la visio d'hier soir :https://tubedu.org/w/324cdsFf6ELr2VMJFUf1Gi
+11/04/2024, 07:22 - +32 484 68 10 13: Bonjour, petite question du matin 😊. Est-ce quelqu'un/une ici aurait déjà testé une IA generative non-occidentale? Je travaille sur les biais de genre et diversité avec L IA et je voulais voir s'il était possible de tester d autres IA que celles proposées par l europe ou les USA
+11/04/2024, 07:31 - Rochane: Je trouve ta question très intéressante et comme je n'avais pas la réponse, j'ai questionné Perplexity et je trouve que sa réponse donne des éclairages :                C'est une excellente question que vous soulevez sur les biais de genre et de diversité dans l'IA générative. Malheureusement, il existe encore peu d'alternatives non-occidentales grand public aux IA génératives comme GPT, DALL-E, etc développées principalement aux États-Unis et en Europe.
+Quelques pistes néanmoins qui pourraient être intéressantes à explorer dans le cadre de vos recherches :

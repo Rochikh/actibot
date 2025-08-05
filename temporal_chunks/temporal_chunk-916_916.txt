@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 542
+Messages: 17
+
+=== CONTENU ===
+10/09/2024, 19:46 - Hoang: 💡 Impact de l’IA sur la formation des programmeurs : Un professeur du MIT a testé ChatGPT, Code Llama, et Google dans l’apprentissage de la programmation. Résultats ? ChatGPT est le plus rapide, mais les étudiants ayant utilisé Google ont mieux retenu les concepts clés. 💻🔍
+✨ Leçon clé : l’IA peut aider, mais les bases restent indispensables pour comprendre et résoudre des problèmes complexes. La décomposition du travail est cruciale pour apprendre efficacement. 📊💡
+Source : Developpez.com https://search.app/W3VN8kRcdVowW15E7
+10/09/2024, 19:46 - Rochane: pose lui la question, il va te répondre 😁
+10/09/2024, 20:06 - ‎+33 6 42 69 60 76 est parti·e
+10/09/2024, 20:49 - +33 6 70 57 72 80: Je cherche des adeptes de copilote via office 365.  Où puis-je trouver les meilleures cas d’usages pour le quotidien professionnel ? Merci d’avance pour votre aide <Ce message a été modifié>
+10/09/2024, 21:10 - +32 474 71 74 96: https://adoption.microsoft.com/en-us/copilot-scenario-library/
+10/09/2024, 21:11 - +33 6 70 57 72 80: Merci bcp !
+10/09/2024, 21:20 - Adrien Bock IA: Bonjour Aline, j’ai une formation dessus avec une centaine de slides pour plusieurs niveaux
+10/09/2024, 21:20 - Adrien Bock IA: Je pense d’ailleurs présenter qques cas d’usages dans un live de @33649535198
+10/09/2024, 21:21 - +33 6 70 57 72 80: Je suis fortement intéressée, merci
+10/09/2024, 22:08 - +33 7 83 16 44 23: Bonjour Adrien, je suis intéressée également ☺️
+10/09/2024, 23:25 - ‎+33 6 72 77 36 28 a demandé à rejoindre le groupe.
+10/09/2024, 23:28 - ‎+33 6 85 97 38 11 a demandé à rejoindre le groupe.
+11/09/2024, 01:00 - +33 6 20 35 46 24: moi aussi, cela m'intéresse beaucoup Adrien.
+11/09/2024, 01:06 - Fred IA: @33649535198 Merci beaucoup pour le live d'hier dont je viens de voir le replay, Top. Tu y évoques un atelier de manipulation de Make. Je serai très intéressé 😀 Bonne soirée
+11/09/2024, 02:22 - Laurent The Cure: Bonsoir à tous. Merci pour le replay du live (impossible pour moi du assister en direct cause travail). J'ai aussi quelques besoin d'automatisation de taches et donc intéressé par make (ou autre) que je connais très peu.

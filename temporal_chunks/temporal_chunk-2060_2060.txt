@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 23
+
+=== CONTENU ===
+07/04/2025, 12:37 - +33 6 46 89 36 24: Ah intéressant ! Merci beaucoup je vais regarder ça !!
+07/04/2025, 13:00 - +33 6 46 89 36 24: On dirait que ça n’intègre pas le correcteur orthographique ….
+07/04/2025, 13:26 - Imane IA: <Médias omis>
+07/04/2025, 14:54 - +33 6 49 84 08 41: Il faut garder la foi, Imane 😉
+07/04/2025, 16:16 - +33 7 44 11 22 11: Je vais montrer ton CV à la directrice de l'organisme de formation où je fais mon stage.
+Si ça l'intéresse, elle pourra te contacter.
+Sinon en tant qu'ingénieur pédagogique stagiaire, ton CV me plaît bien.🥰
+Surtout à cause des outils que tu maîtrises déjà. 😂
+07/04/2025, 16:19 - Imane IA: c'est très gentil, je vous remercie énormément pour votre aide et votre encouragement
+07/04/2025, 16:29 - +57 321 4039390: Bonjour ! Est-ce que vous pouvez me conseiller un outil pour créer un questionnaire à partir d'une vidéo de youtube...Merci bien! Bonne journée depuis la Colombie...🌻
+07/04/2025, 16:29 - Votre code de sécurité avec ~ Hervé a changé. Appuyez pour en savoir plus.
+07/04/2025, 16:30 - +33 7 44 11 22 11: Je t'en prie ☺️
+Ça serait intéressant de t'avoir dans notre équipe pour bénéficier de ton expérience professionnelle.
+En tout cas ça va beaucoup m'aider.
+Bon je compte la convaincre de te contacter.😂😂
+Nous sommes à Lyon dans le deuxième arrondissement en face de Confluence.
+07/04/2025, 16:31 - +32 498 78 46 36: NotebookLM
+07/04/2025, 16:32 - Rochane: Vous avez supprimé ce message
+07/04/2025, 17:10 - +57 321 4039390: Ok merci,mais c'est pour que l'outil crée un questionnaire à choix multiple à partir de la vidéo...
+07/04/2025, 17:31 - +34 683 61 41 61: Nolej
+07/04/2025, 17:42 - +32 477 45 68 37: Quiz wizard ?
+07/04/2025, 18:12 - +32 498 78 46 36: NotebookLM fait effectivement bien cela
+07/04/2025, 18:20 - Gregoire IA: On parle de rediger les questions (et leurs rétroactions) ou... De les coder et générer une activité Interactive ? En bonus, l'activité doit-elle envoyer les resultats dans un LMS... Et si oui, lequel

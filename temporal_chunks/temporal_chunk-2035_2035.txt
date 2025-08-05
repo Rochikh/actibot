@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 16
+
+=== CONTENU ===
+31/03/2025, 21:49 - Rochane: Je viens de découvrir cette extension Chrome de MindStudio qui résume des PDF, des pages web et des vidéos YouTube, en générant des rapports structurés et en affinant l'écriture avec des suggestions IA. Elle fonctionne sur tous les sites web et propose des plans gratuits et payants selon l'utilisation de l'IA👌
+app.mindstudio.ai
+31/03/2025, 22:02 - Rochane: Incroyable tout ce que l'on peut faire avec comme créer son propre agent...
+https://www.youtube.com/watch?v=JlDqei_-THY
+31/03/2025, 22:10 - Thierry VANOFFE: Salut, avec mon collègue Ahmet, on fait un webnaire complet de 45 mn sur Notebook LM ce vendredi à 15H15 avec un replay fourni, ça se passe ici (c'est gratos) : https://lu.ma/276iaqr9
+Vous utilisez Notebook LM dans votre quotidien ? Quels sont vos cas d'usages intéressants à ce jour ?
+31/03/2025, 22:40 - +33 7 87 35 78 96: Hello a use case: for lawyers exploiting legislation is "the basis" but the problem is that chatgpt and others tend to go snooping around the web. with Notebooklm they are serene
+31/03/2025, 22:40 - +33 7 87 35 78 96: Bon je viens de découvrir le bouton traduction auto sur mon smartphone tout neuf 😁😁😁
+31/03/2025, 22:41 - +33 7 87 35 78 96: Donc on colle le ou les longs textes de loi dans le notebook ... et ensuite on pose des questions ... je teste avec l IA Act
+31/03/2025, 22:42 - +33 7 87 35 78 96: En ajoutant des sources (articles de blog avocat) on peut doser les compléments d'info necessaires
+31/03/2025, 22:42 - +33 7 87 35 78 96: Cela peut halluciner un peu mais c'est plus safe que chatgpt
+31/03/2025, 23:35 - +32 475 86 01 57: Il y a des differences notables avec Make?
+01/04/2025, 05:52 - Rochane: Beaucoup plus simple mais tu n'as pas toutes les API
+01/04/2025, 07:16 - +33 7 88 40 98 79: null
+01/04/2025, 10:55 - Rochane: Rendez-vous le 2 avril pour des ateliers animés par des enseignants et des praticiens !
+Pour ceux qui ne sont pas disponibles, vous pouvez vous inscrire en ligne gratuitement et retrouver toutes les rediffusions après l'événement depuis votre espace personnel.

@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 536
+Messages: 20
+
+=== CONTENU ===
+15/12/2024, 19:37 - +33 6 69 92 67 77: Très intéressant utilisant déjà chatgpt pour créer des tuteurs et des coachs  sur mesure.
+15/12/2024, 19:39 - StéphaneIA: Pour Gemini 2 la fonction de génération d'image et d'audio ce sera pour 2025
+15/12/2024, 19:39 - StéphaneIA: Pour le moment on a juste le démo comme l'analyse en live
+15/12/2024, 19:42 - Fred IA: Merci pour cette précision
+15/12/2024, 19:44 - StéphaneIA: On est impatient ca à l'air tellement cool. Comme 2.0 Pro
+15/12/2024, 19:45 - StéphaneIA: <Médias omis>
+15/12/2024, 20:43 - +33 7 84 33 02 62: Bonsoir Comment on accédera à cet atelier ?
+15/12/2024, 20:44 - Rochane: Tu as le lien dans le post que tu as quoté 😁
+15/12/2024, 20:47 - +33 7 84 33 02 62: Merci :) je cliquais sur le lien make - j’ai les doigts gourds ;)
+15/12/2024, 23:14 - Votre code de sécurité avec +33 6 88 62 63 47 a changé. Appuyez pour en savoir plus.
+15/12/2024, 23:40 - +33 6 31 69 61 40: Hello tout le monde,
+Est ce que qqn d'autre à tester la nouvelle fonctionnalité "projet" de ChatGPT qui permet de compartimenter ses contenus.
+On peut non seulement classer les prompts dans des compartiments par "projet" mais aussi ajouter des fichiers (comme dans NotebookLM) et définir un rôle spécifique pour l’IA en fonction du projet. Ça me rappelle NotebookLM avec cette option de rôle en plus 😁
+Je trouve ça super pratique pour optimiser l'orga et gagner en efficacité. Trop top 🤩
+Par contre, je ne sais pas si cette fonctionnalité est disponible en version gratuite.
+15/12/2024, 23:45 - +33 6 19 89 32 62: C’est super non je n’ai pas encore testé . Merci
+15/12/2024, 23:47 - +33 6 71 11 12 91: Non, elle n'est pas (encore) disponible en version gratuite...
+16/12/2024, 06:20 - martinyemani IA: *Rappel RDV ce soir à 20h LIVE*
+16/12/2024, 06:21 - martinyemani IA: Ce message a été supprimé.
+16/12/2024, 06:23 - martinyemani IA: A la demande du groupe Bot Builders, ce *LUNDI à 20h *ProfBot en action :* Crée ton Chatbot pédagogique en direct ! - Un atelier interactif pour découvrir pas à pas comment concevoir, configurer et déployer un assistant virtuel pour l'enseignement avec OpenAI et Make.com

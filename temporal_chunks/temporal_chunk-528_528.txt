@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 540
+Messages: 14
+
+=== CONTENU ===
+17/05/2024, 12:03 - Fred IA: <Médias omis>
+17/05/2024, 12:04 - Fred IA: <Médias omis>
+17/05/2024, 12:11 - +32 498 78 46 36: <Médias omis>
+17/05/2024, 12:11 - +32 498 78 46 36: Au bout de 4 ou 5 analyses il me dit que j'ai atteint mon quota pour aujourd'hui
+17/05/2024, 13:02 - +212 644-562660: https://www.figma.com/board/5hne8SUtuNzP0BoD8YwrWi/Untitled?node-id=0-1&t=32HVjXAsiQITB8ia-0  chouette cette IA de Figma, c est un must pour les activités brainstorming!
+17/05/2024, 13:07 - +212 644-562660: <Médias omis>
+17/05/2024, 17:58 - Votre code de sécurité avec ~ Valentin Sanouiller a changé. Appuyez pour en savoir plus.
+17/05/2024, 18:04 - Rochane: Bonjour à tous les membres de notre formidable communauté WhatsApp sur l'IA et les pédagogies actives !
+J'ai le plaisir de vous annoncer un événement à ne pas manquer : notre prochain live  qui aura lieu le *jeudi 23 mai de 20h à 21h.* Au programme, des intervenant·e·s passionnant·e·s qui partageront leurs expertises et découvertes :
+*Lucie* nous montrera son ingénieux dispositif de cartes pour apprendre à prompter efficacement afin de créer des images. Une technique à découvrir absolument !
+*Fabien* fera une présentation de l'outil Poised qui permet d'améliorer sa prise de parole en public grâce à une analyse vocale poussée, un feedback instantané, des rapports détaillés et des exercices personnalisés pour gagner en confiance. Indispensable pour tous les orateurs !
+*Xavier* fera une démo bluffante de son assistant personnel développé sur Dust et greffé sur sa base de connaissances. Vous pourrez comparer en direct les réponses de son assistant à celles de GPT4, Claude Opus, Mistral et Gemini Pro. Fascinant !
+*François* abordera les enjeux cruciaux du RGPD et de l'IA dans le domaine de l'éducation. Un sujet brûlant à ne pas manquer pour tous les acteurs du monde éducatif.
+Enfin, *Céline* nous expliquera comment créer des évaluations pertinentes avec l'IA, en générant des QCM, des questions calculées et des questions cloze. Elle comparera les bonnes pratiques et les résultats obtenus avec Wooflash, ChatGPT 3.5, ChatGPT 4 et Perplexity. Très utile pour optimiser vos évaluations !

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 14
+
+=== CONTENU ===
+Je vous partage ici un nouveau GPTs d’aide au prompting, qui vise à accompagner les utilisateurs dans la rédaction de prompts ACTIF (framework Action Contexte Tonalité Identité Format). J’utilise ce framework dans mes formations, et j’ai tâché de le rendre didactique via une méthode dite indirecte : il questionne l’utilisateur sur ces 5 éléments afin d’aboutir à quelque chose de pertinent. La seconde fonctionnalité m’aide dans mes corrections : il transforme un prompt qui n’est pas ACTIF en prompt ACTIF en se basant sur le prompt « mal rédigé » de l’utilisateur et une base de connaissance sur le framework.
+Preneur de vos retours !
+https://chatgpt.com/g/g-lmBiwaQlL-generateur-de-prompt-actif
+17/11/2024, 17:13 - ‎+51 994 748 708 a rejoint ce groupe grâce à son lien d’invitation
+17/11/2024, 17:17 - Rochane: Je viens de le tester pour me réaliser un prompt pour la création d'un cours à distance. Après 7 ou 8 questions pertinentes, il m'a généré un superbe prompt bien structuré.
+Le seul truc sur lequel je m'interroge : est-ce que si l'on propose ce prompt qui demande de réaliser plusieurs tâches ne va pas désorienter le LLM.
+Ne faut il pas juste rajouter à la fin : Maintenant tu commences juste par la phase 1 sans passer à la phase 2 tant que je ne te l'ai pas demandé.
+Ce qui nous permet d'itérer si besoin 🙂
+17/11/2024, 17:17 - Votre code de sécurité avec +229 60 20 19 69 a changé. Appuyez pour en savoir plus.
+17/11/2024, 17:32 - Clément Cahagne: Tu as sans doute raison sur le multi tâche. Ma vision du prompt (en tout cas celle que j’ai appris dans les cours de l’Université Vanderbilt), c’est d’écrire 1 prompt par micro tâche. Donc je suis biaisé et en effet, je ne tiens pas compte de cette possibilité, mais je vais modifier les instructions tu as raison.
+Je vais améliorer tout ça 😉
+17/11/2024, 20:21 - Votre code de sécurité avec +32 497 54 26 11 a changé. Appuyez pour en savoir plus.
+17/11/2024, 20:23 - +216 25 000 725: Bonsoir
+Avez vous une idée sur un outil ia gratuit  pour convenir un texte docx en pptx. Merci

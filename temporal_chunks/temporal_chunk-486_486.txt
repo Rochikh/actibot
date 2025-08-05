@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 22
+
+=== CONTENU ===
+Quel job est plus intéressant au final...
+Un brut a 2500 + 1000 de primes sans ticket resto à 10km
+Ou
+Un brut a 3200 + 800 de primes pas de ticket resto à 60km
+Ps: Je prends des droits d'auteurs sur les idées 😅
+03/05/2024, 18:48 - LIO: Avec notion ce n'est pas possible?
+03/05/2024, 18:49 - +32 479 82 01 20: Deal 😄
+03/05/2024, 18:49 - +32 479 82 01 20: ✅
+03/05/2024, 19:18 - +34 618 97 47 94: J’ai utilisé ChatGPT y’a plusieurs mois pour décider de si accepter un poste ou pas.
+Tu peux faire un super prompt ou tu demandes GPT de t’aider à faire le point et pondérer les différentes options et variables, sinon tu peux certainement trouver un agent formé aux calculs après impôts je suis sûre que tu ça peut t’apporter de bonnes pistes de réflexion.
+03/05/2024, 19:21 - Jean-Marc Everard: Personnellement, je trouverais cela effectivement très intéressant. Si en plus on ajoute des éléments fiscaux ce serait top mais là ça devient un autre boulot 😉. Bonne idée !!! Et qui pourrait me servir 👍🏻.
+03/05/2024, 21:27 - Oumayma: null
+03/05/2024, 21:28 - Oumayma: null
+04/05/2024, 08:33 - Clotilde IA: En attendant l’app de la nièce de Youssef, as-tu essayé obsidian ou notions ?
+Obsidian crée des liens et fonctionne comme un deuxième réseau de neurones. Ça aide à s’organiser sans s’organiser 😜
+Quand à notons, il va pas organiser tes pages automatiquement mais il y’a moyen de l’optimiser à fond pour t’y retrouver, créer des liens, des databases, des templates…
+Les 2 outils sont gratuits
+https://www.notion.so/product
+04/05/2024, 09:05 - +33 6 76 04 48 20: J’utilise Trello pour suivre et coordonner mes différents projets, mais je cherche à "valoriser" la démarche avec l’automatisation d’une veille pédagogique et je ne sais pas comment faire.
+Peut-être votre nièce pourrait-elle m’y aider ?
+04/05/2024, 09:14 - +32 479 82 01 20: Avez-vous déjà essayer d'automatiser votre veille avec Zapier ou Make ? Cela s'intègre assez bien à Trello.
+04/05/2024, 09:16 - +33 6 76 04 48 20: Je ne connais pas…

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 590
+Messages: 17
+
+=== CONTENU ===
+22/05/2024, 20:25 - +33 6 25 79 50 95: Merci pour ce partage.
+je ne peux hélas pas encore le tester car il faudra que je souscrive à la version payante ChatGPT plus
+23/05/2024, 01:05 - +33 6 65 65 01 37: Ce message a été supprimé.
+23/05/2024, 01:12 - +212 644-562660: vous avez une idée sur comment entrainer un chatbot de formation avec copilot ou chatgpt, ce serait vraiment cool si ca peut etre acceder depuis une plateform microsoft comme Teams ou Sharepoint
+23/05/2024, 05:41 - Letizia ALLEGRINI: Arnaud si ru cherches un rag gratuit tu peux utiliser poe ai ou opengpt. Attention opengpt est plus difficile d'accès et tu ne peux revenir sur ton prompt. Poe est plus accessible. Perplexity dans la version gratuite te permet d'inclure des pdf 3 par jour mais pas de créer des gpts. J'espère que j'ai pu répondre à ta question. 😀
+23/05/2024, 06:18 - Pierrick BRIAND: Bonjour @33666188587
+Il me semble y avoir une petite confusion dans le message.
+RAG est une technique qui améliore les réponses des modèles en combinant recherche d'information et génération de texte, tandis que ChatGPT et CoPilot sont des chatbots qui génèrent des réponses directement à partir de ce qu'ils ont appris.
+En ce qui concerne l'intégration avec Microsoft Teams ou SharePoint, c'est une idée intéressante et faisable avec l'API de OpenAI pour CoPilot ou ChatGPT.
+Pour Poe AI et OpenAI, Poe est effectivement plus accessible, tandis que l'API OpenAI offre des options gratuites et payantes selon vos besoins. J'espère que cela éclaircit les choses !
+Pierrick
+23/05/2024, 06:24 - Letizia ALLEGRINI: Merci pour l'éclairage les réponses trop matinales ne sont pas toujours les plus structurées 😅
+23/05/2024, 08:32 - Guillaume Singeot: Pour rappel ; Bonjour à toutes et tous, voici le lien pour notre visio de jeudi 23 mai de 20h à 21h
+https://us06web.zoom.us/j/85199603261?pwd=45nenIDvP6ByFO9bY4qr8QHPP5Ql6j.1
+ID de réunion: 851 9960 3261
+Code secret: 590386
+La salle sera ouverte à partir de 19h50 pour faciliter l'accès et faire mieux connaissance. La séance sera enregistrée. Merci à celles et ceux qui ne souhaitent pas apparaître de ne pas allumer leur caméra et/ou leur micro et également de veiller à se renommer avant de rentrer dans la salle. L'enregistrement sera déposé sur la plateforme https://tubedu.org/ (plateforme peertube), sans montage de ma part.

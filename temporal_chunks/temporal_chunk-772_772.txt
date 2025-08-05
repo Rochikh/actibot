@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 25
+
+=== CONTENU ===
+🙏
+31/07/2024, 18:52 - Votre code de sécurité avec ~ Bilo'o Helene a changé. Appuyez pour en savoir plus.
+31/07/2024, 19:12 - Votre code de sécurité avec +33 6 34 46 31 43 a changé. Appuyez pour en savoir plus.
+31/07/2024, 19:12 - Rochane: L'IA arrive à détecter le cancer du sein 5 ans avant ! https://x.com/SciencNews/status/1817048356939530427
+31/07/2024, 19:42 - Jacques BARATTI: Voici la référence du papier https://tinyurl.com/2dx2ptke
+01/08/2024, 11:00 - ‎+32 492 79 73 53 a demandé à ajouter +32 486 70 49 69.
+01/08/2024, 12:01 - ‎+32 492 79 73 53 a ajouté +32 486 70 49 69
+01/08/2024, 14:25 - Votre code de sécurité avec +33 6 75 69 01 41 a changé. Appuyez pour en savoir plus.
+01/08/2024, 17:31 - Rochane: Salut à toutes et à tous ! J'ai créé une nouvelle application appelée 'créateur de scénario pédagogique'. J'aimerais beaucoup avoir vos retours après l'avoir testée . Merci d'avance pour vos précieux feedbacks ! scenariocreator.rochane.fr (ce n'est qu'une version 1 qui n'est pas totalement aboutie) 🙂
+01/08/2024, 17:33 - Clément Cahagne: Ca tourne sur quel LLM / LLMs ?
+01/08/2024, 17:34 - Rochane: gpt 4o-mini
+01/08/2024, 17:37 - +33 7 68 67 76 16: Testé
+01/08/2024, 17:39 - Rochane: Ton feedback 😁
+01/08/2024, 17:40 - +33 7 68 67 76 16: J'ai renseigné mais pas de réponse du chatbot. J'ai raté qqch ?
+01/08/2024, 17:41 - Rochane: Logiquement tu reçois la réponse en moins de 20 secondes
+01/08/2024, 17:46 - +33 7 68 67 76 16: Je vais refaire le test
+01/08/2024, 17:46 - +961 3 381 351: Bjr. J'ai essayé et ça a fonctionné. Les réponses sont très logiques.
+01/08/2024, 17:47 - +961 3 381 351: <Médias omis>
+01/08/2024, 17:47 - +961 3 381 351: <Médias omis>
+01/08/2024, 17:47 - +961 3 381 351: <Médias omis>
+01/08/2024, 17:47 - +961 3 381 351: <Médias omis>
+01/08/2024, 17:54 - +212 644-562660: <Médias omis>
+01/08/2024, 17:55 - +33 7 68 67 76 16: 👍
+01/08/2024, 17:59 - +32 479 58 54 12: Remarque 1 : la case pour indiquer ses besoins est trop petite
+Remarque 2 : le scénario demande directement aux participants d'imaginer l'usage qu'ils auront des techniques qui seront abordées. Ça ne me semble pas judicieux s'ils sont vraiment débutants. Il faudrait d'abord de l'acculturation pour qu'ils découvrent justement ce qu'ils pourront en faire.

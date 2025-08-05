@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 9
+
+=== CONTENU ===
+👩‍💻L’IA est même du niveau de o1 pour la génération de #code informatique : vu son prix et ses performances, elle va sûrement très vite devenir le standard de la communauté sur le sujet, en étant intégrée dans les éditeurs de code (#cursor).
+👨‍👦Enfin, six versions « distillées » du système sont proposées en Open Source à la communauté. Le distillage consiste à prendre une grosse IA et à transférer son intelligence dans un système plus petit. On perd un peu en performance, mais on gagne beaucoup en légèreté et rapidité. La meilleure version distillée de R1 (70B #paramètres) dépasse les performances de o1-mini.. !
+📃Et pour finir, le papier de #recherche pour ceux qui veulent tout savoir, à lire ou à passer dans… DeepSeek-R1 (!!) pour avoir un super résumé 😉 : https://lnkd.in/d3a9Cj_x
+🦕2025 commence très très fort… ! Les meilleures performances de fin 2024 deviennent déjà des commodités accessibles pour quasiment rien. Ça annonce une année intense !
+22/01/2025, 14:26 - +33 6 42 26 64 70: Pour ceux qui ne sont pas encore au courant, du lourd !…les 4 prochaines années risque d’être étourdissantes…et espérons dans le bon sens du terme.
+💲🥵500 milliards de $ (!!!) et 100k jobs, pour déployer les plus grands hashtag#clusters de calcul du monde et accélérer la course à l’IA. A peine Trump arrivé et le dément Projet hashtag#Stargate est lancé.
+🏛️En septembre, Sam Altman, le CEO d’hashtag#OpenAI (hashtag#ChatGPT) avait défendu l’idée devant la Maison Blanche. On parlait alors d’un investissement de 100MM$, notamment de hashtag#Microsoft, pour déployer une puissance de calcul inégalée pour l’hashtag#IA d’ici 2028.
+📈Ce chiffre correspondait bien aux "lois d’échelle" (hashtag#ScalingLaws) de la progression des systèmes d’IA (cf. mes posts sur le sujet en décembre).
+🌔L’annonce officielle est tombée cette nuit, adoubée par hashtag#Trump: ce ne sera pas 100 mais 500MM! Le projet est porté par hashtag#OpenAI, hashtag#Softbank, hashtag#Oracle et hashtag#MGX. La construction du premier cluster a commencé au Texas, et les suivant arrivent.

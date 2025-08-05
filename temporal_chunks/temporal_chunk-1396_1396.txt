@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 15
+
+=== CONTENU ===
+11/12/2024, 08:43 - Rochane: Essaie screenapp.io
+11/12/2024, 09:09 - ‎+33 6 60 76 02 35 a demandé à rejoindre le groupe.
+11/12/2024, 09:28 - Ahmadou Ba: https://www.linkedin.com/posts/tirotg_mizou-une-application-dia-pour-cr%C3%A9er-des-activity-7272346939172564992-tB_E?utm_source=share&utm_medium=member_android
+11/12/2024, 09:29 - Ahmadou Ba: Article sur une application créatrice de Chatbot. Très intéressant.
+11/12/2024, 09:33 - +33 6 19 75 63 49: Merci. L’idée est d’automatiser la création d’analyse de sites pédagogiques. Je vais rentrer une grille d’analyse de contenu pédagogique, ensuite le GPT pose des questions sur la ressource untel et la collègue y répond, ensuite le GPT rédige une fiche, et ainsi de suite avec les mêmes questions pour toutes les ressources. Je fais des choses similaires avec mes GPTs quand je crée des exercices du même format. Je vais tester Poe, merci!
+11/12/2024, 09:50 - Amadou GuisséIA: https://youtu.be/nDLd7ZUk8uU?si=yyeERwn6IZjPuB35
+11/12/2024, 09:50 - Amadou GuisséIA: Est-ce que c'est de celà🖕🏿🖕🏿🖕🏿 que vous parlez ? <Ce message a été modifié>
+11/12/2024, 09:56 - Amadou GuisséIA: https://youtu.be/DLMLrtnsNmI?si=czzGsJg-FGHDRvWZ
+11/12/2024, 10:17 - ‎+33 6 74 95 95 60 a demandé à ajouter +33 6 11 12 13 50.
+11/12/2024, 10:19 - +33 6 59 35 23 38: C'est une vidéo pédagogique qui ressemble à celle-ci, mais qui en diffère en un point crucial : les différentes diapos sont "mouvantes", elles se construisent au fur et à mesure. Je ne sais donc pas comment indiquer à l'outil le moment où elles sont complètes et où le screenshot peut être pris.
+11/12/2024, 10:57 - +33 7 86 18 83 63: Mistral
+11/12/2024, 11:18 - ‎~ Katja Auffret a ajouté +33 6 11 12 13 50
+11/12/2024, 11:18 - ‎+33 6 60 76 02 35 a rejoint le groupe à partir de la communauté.
+11/12/2024, 12:55 - +32 479 29 01 81: Bonjour à tous
+Je recherche une IA qui pourrait fonctionner sur mon iPhone. Je voudrais prendre des photos de panneaux comprenant des textes en anglais et obtenir une traduction en français, sans trop de manipulations. Ça aiderait  pour les visites de musées à l’étranger.

@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 20
+
+=== CONTENU ===
+09/08/2024, 17:51 - Ahmadou Ba: Y a t'il quelqu'un qui a déjà resiller son abonnement GPT ?
+Si oui avez vous déjà perdu l'accès à vos GPY ?
+09/08/2024, 18:50 - +33 6 19 29 82 01: Voilà une donnée intéressante, d'où provient l'info stp ? J'essaie d'étudier l'impact environnemental des IAG
+09/08/2024, 18:54 - Clément Cahagne: https://generationia.flint.media/p/comment-calculer-vraiment-impact-carbone-de-chatgpt-climat-ia-eau
+Meilleur article sur ces questions
+09/08/2024, 18:54 - +33 6 19 29 82 01: Merci @33675775911
+09/08/2024, 18:55 - Hoang: <Médias omis>
+09/08/2024, 19:05 - Rochane: avec la version gratuite de Claude Sonnet 3.5, c'est vraiment frustrant car au bout de 4 ou 5 échanges (ça dépend des tokens utilisés), il t'invite à attendre ou passer à la version pro
+09/08/2024, 19:07 - Hoang: J’hésite à prendre l’abonnement de Claude par rapport à celui de chatGPT
+09/08/2024, 19:09 - Gregoire IA: Perso je suis avec Poe. On a pas les options multimodales mais j'ai accès à tous les LLM et je peux comparer leurs réponses
+09/08/2024, 19:10 - Hoang: C’est surtout la fonctionnalité Artifacts que j’apprécie
+09/08/2024, 19:30 - ‎+212 676-882671 a demandé à rejoindre le groupe.
+09/08/2024, 20:11 - +33 6 79 02 09 95: <Médias omis>
+09/08/2024, 20:11 - ‎+212 676-882671 a rejoint ce groupe grâce à son lien d’invitation
+09/08/2024, 20:12 - Rochane: @32472616732
+09/08/2024, 20:26 - +33 6 19 29 82 01: Merci beaucoup. Je peux la présenter aux élèves en te citant ?
+09/08/2024, 20:52 - +32 477 78 78 50: Merci, très intéressant. Même question que Valentin, peut-on utiliser cette illustration ?
+09/08/2024, 20:54 - +33 6 72 75 43 48: Super peut on l’utiliser en citant la source : si vous voulez nous la donner 😉🙏
+09/08/2024, 21:01 - Rochane: <Médias omis>
+09/08/2024, 21:06 - +33 6 79 02 09 95: Je vais passer la fresque en créative commons a la rentrée. Tout le monde pourra utiliser toutes les cartes ! Inscrivez vous à la newsletter de la communauté pour être tenu au courant ;) https://traindy.io/communaute-pedagogique/

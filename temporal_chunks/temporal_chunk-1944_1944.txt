@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 15
+
+=== CONTENU ===
+11/03/2025, 10:30 - +41 79 258 90 36: Ce message a été supprimé.
+11/03/2025, 10:58 - estelle Duterage Drion IA: Coucou, je trouve ta démarche assez exhaustive. Par contre tu dis pouvoir générer des podcasts en français, c’est sur quelle fonctionnalité de LLM notre book?
+Les audios en dessous du rectangle de requête ou à droite ?
+Je croyais qu’on pouvait le faire qu’en anglais mais peut-être que je me trompe
+11/03/2025, 11:03 - +33 6 75 41 23 05: Non c’est possible en français. J’ai encore essayé la semaine dernière. Il faut lui préciser en anglais dans le prompt de personnalisation que les deux speakers doivent parler obligatoirement français. <Ce message a été modifié>
+11/03/2025, 11:03 - Rochane: Il y a un texte que tu peux rajouter dans personnaliser
+This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode. No English or other languages should be used in the conversation, except when absolutely necessary to clarify…
+11/03/2025, 11:38 - estelle Duterage Drion IA: Merci Rochane
+11/03/2025, 11:44 - +33 6 64 50 56 67: Bonjour Gregory parfois la génération se fait en anglais malgré la personnalisation. Je ne sais pas pourquoi ça fluctue comme ça.
+11/03/2025, 11:48 - +33 7 61 63 06 10: J'ai toujours eu en français avec ce prompt : This episode will only be in French. All discussions, interviews, and commentary must be conducted in French for the entire duration of the episode.
+No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language.
+Future translation into English is planned, but for now, the episode is French-exclusive.
+11/03/2025, 11:54 - +33 6 88 14 09 17: Bonjour à vous, dans ma structure nous cherchons 2 outils basés sur l'IA :
+1. Un outil de simulation de comportements humains basé sur l'IA (spécialisé management si possible)
+2. Un outil de coach IA  personnalisé pour les managers

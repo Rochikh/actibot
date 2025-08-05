@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 10
+
+=== CONTENU ===
+01/12/2024, 10:57 - StéphaneIA: Sinon ma femme qui a aussi un tunnel de ventes passe par système Io qui permet d'avoir aussi un site internet
+01/12/2024, 10:58 - StéphaneIA: C'est beaucoup moins personnalisable que WordPress mais quand on est pas expert et si on veut juste publier et avoir une vitrine c'est déjà bien je trouve
+01/12/2024, 10:58 - StéphaneIA: Sur medium on peut avoir aussi une url spécifique mais c'est la version payante
+01/12/2024, 10:59 - StéphaneIA: Wix et autres plateformes je ne connais pas
+01/12/2024, 11:00 - +33 6 72 75 43 48: Merci pour les recos mais mon étudiant prépare un bac pro en lien avec ces métiers donc même s’il y a quelques aspects techniques à appréhender cela peut être formateur et je lui demanderai un tuto pédagogique pour que je puisse l’utiliser apres 😉
+01/12/2024, 11:24 - StéphaneIA: Justement si vous n'êtes pas technique j'ai faire des installations WordPress que je dois continuer à maintenir et comme je n'ai pas suivi les évolutions je suis coincé avec ces vieux dev. Encore plus si votre besoin est que fonctionnel je ne partirai pas sur quelque chose de compliqué.
+01/12/2024, 11:28 - Nadia ER-RAJI: Je confirme les conseils partagés. Pour prendre la décision, il faut connaître l'objectif et le public et le secteur d'activité visé. Sur perplexity, il est possible créer son propre canal, ce que je ferais bientôt ou substack est aussi un belle plate-forme. Pour Médium c'est aussi une belle alternative
+01/12/2024, 11:28 - Nadia ER-RAJI: Je déconseille aussi wordpress pour les novices.
+01/12/2024, 12:39 - +33 7 63 58 01 55: Odoo ? Je l'ai pas testé mais il a l'air prometteur (peut-être un peu trop). Sinon j'aurais dit WordPress mais il semble que ce soit devenu une belle usine à démêler le beurre 😏
+Notion peut faire le taf aussi, même si c'est pas vraiment une plateforme de blog (suffit de partager l'URL de la page) et ça fait d'une pierre deux coups : création de blog ET familiarisation éventuelle avec un outil d'organisation, de planification... numérique très riche.

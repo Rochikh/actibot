@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 10
+
+=== CONTENU ===
+04/03/2025, 14:56 - +41 76 372 28 94: Il existe déjà des formes d’évaluations adaptées à l’ère post AGI : https://journals.openedition.org/ced/811
+04/03/2025, 14:59 - +33 6 52 73 73 42: Perso sur Moodle et pour limiter voire empêcher la triche (vœu pieux) j'ai testé (et paramétré) SEB (pour Safe Exam Browser) pour des évaluations universitaires … plutôt concluant !
+Pour info, l'université de Rennes (de mémoire) avait été retoquée car elle avait demandé aux étudiants d'activer leur webcam pendant des éval. lors de la période Covid.
+04/03/2025, 15:01 - +33 6 52 73 73 42: https://www.20minutes.fr/societe/2774611-20200507-coronavirus-rennes-syndicats-critiquent-tenue-examens-telesurveilles-universite-rennes-1
+04/03/2025, 15:04 - +33 6 52 73 73 42: https://safeexambrowser.org/news_en.html
+04/03/2025, 15:04 - +33 6 52 73 73 42: (pour celles/ceux qui veulent expérimenter !)
+04/03/2025, 15:06 - +33 6 88 14 09 17: Hello à vous, petite question CR de réunion Teams : avez-vous des outils à recommander RGPD pour réaliser efficacement de CR à partir des enregistrements Teams ?
+Merci d'avance de vos retours 🙏😊
+04/03/2025, 15:11 - Ahmadou Ba: L'Université Numérique Cheikh Hamidou Kane de dakar utilise le meme systeme pour les evalauations à domicile SEB plus google meet de petit groupe par réunion. Ça m'a l'air de bien marcher si on met dans la boucle l'IA pour detecter des comportement suspect. On peut avoir un systeme trés fiable.😅
+04/03/2025, 15:40 - +33 6 42 26 64 70: Bravo pour la mise en place et sa réussite. Mais cela doit rester contraignant en temps de mise en place, de disponibilité et de main d’oeuvre nan ?…pas certain que cela puisse être généralisé à tous les OF / université / publics, financièrement et humainement, et je n’ose imaginer les difficultés liées au différents environnements personnels spécifiques des étudiants ou apprenants…sans compter sur la fiabilité obligatoire de la connexion pour le temps de l’examen…On parle bien ici d’évaluation sommative, et pas de vérification de l’honnêteté des étudiants dans le parcours, n’est ce pas ?

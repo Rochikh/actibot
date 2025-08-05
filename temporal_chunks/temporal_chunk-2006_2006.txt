@@ -1,0 +1,40 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 32
+
+=== CONTENU ===
+Illustration : Avocat avec casque de pilote, assis dans un cockpit stylisé d’avion, prêt à décoller. Il regarde un grand tableau de bord avec plusieurs voyants étiquetés.
+🗨️ Texte (bulle de pensée) :
+“Avant de m’engager, je dois vérifier mes indicateurs…”
+🔖 Voyants visibles :
+Client – Bénéficiaire effectif – Objet – Flux
+Case 2 — Un voyant rouge clignote
+Illustration : Zoom sur un voyant “Bénéficiaire effectif” qui clignote rouge.
+🗨️ Texte (bulle de pensée) :
+“Tiens, je ne sais pas qui se cache derrière cette société…”
+⚠️ Annotation discrète :
+“Indicateur rouge = stop, je vérifie avant de démarrer.”
+Case 3 — Un voyant orange
+Illustration : Le voyant “Flux financiers” est orange. L’avocat sort un dossier et un stylo, l’air concentré.
+🗨️ Texte (bulle de pensée) :
+“L’origine des fonds n’est pas claire non plus…”
+🔧 Annotation :
+“Orange = vigilance renforcée : j’enquête, je creuse.”
+Case 4 — Tous les voyants au vert
+Illustration : Tous les voyants sont désormais verts, l’avocat sourit et pousse la manette pour décoller.
+🗨️ Texte (bulle de pensée) :
+“Tout est au vert. Je peux décoller sereinement.”
+✅ Annotation finale :
+“Avant toute intervention, je pilote ma vigilance.”
+Après il m’a demandé si je voulais le générer et j’ai lancé oui avec Dall-e .
+Il a pu générer le script car j’avais echangé en amont sur le contenu pédagogique de la formation je pense.
+26/03/2025, 15:20 - +33 6 19 89 32 62: Il y a quelques erreurs sur l’écriture des boutons mais ça se corrige
+26/03/2025, 15:33 - Gregoire IA: On va voir la réponse de Google. Leur studio ai permet de générer des histoires avec les images mais ça ne passait pas le cap de la bd.
+26/03/2025, 16:02 - Clément Cahagne: <Médias omis>
+26/03/2025, 16:02 - +33 6 52 73 73 42: Carrément ressemblant !
+26/03/2025, 16:02 - Clément Cahagne: Merci
+26/03/2025, 16:03 - Clément Cahagne: Je le prends bien 😂
+26/03/2025, 16:23 - +33 6 72 75 43 48: Super 👍 merci Charlotte j’ai testé mais j’ai plusieurs erreurs d’écriture , comment les as tu corriger ? Je lui ai demandé de le faire c’était pire 😳

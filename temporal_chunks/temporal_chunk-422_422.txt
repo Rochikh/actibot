@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 19
+
+=== CONTENU ===
+Pour noljeai, il est précisé : Cette ressource collecte des données à caractère personnel pour fonctionner. Le responsable des activités de traitement doit s’assurer que l’application respecte la règlementation.Lorsque la ressource est utilisée via le Médiacentre ENT, alors il n’est pas nécessaire d’alimenter le registre des activités de traitement de l’établissement. Cette procédure est réalisée au niveau national pour tous les établissements par le ministère de l’Éducation nationale.
+https://ressources.dane.ac-versailles.fr/ressource/nolej-ai
+Y a-t-il d'autres services ou outils d'IA qui sont enregistrés au niveau national ?
+Quels textes encadrent l’utilisation de l’AI dans l’éducation nationale ?
+16/04/2024, 08:21 - Rochane: Il y a une ressource intitulée "Intelligence artificielle et éducation : apports de la recherche et enjeux pour les politiques publiques" mais je ne sais pas si ça te convient https://edunumrech.hypotheses.org/files/2024/02/MEN_DNE_brochure_IA_2024_web_fr.pdf
+16/04/2024, 08:25 - LIO: Pour l'instant rien n'encadre en France
+Science po a fixé des règles
+Je trouve beaucoup d'études de recherche mais pas vraiment de textes officiels
+16/04/2024, 08:25 - LIO: Fabrice si tu en trouves je suis preneuse. France, Belgique.
+16/04/2024, 08:31 - LIO: <Médias omis>
+16/04/2024, 08:36 - +689 89 60 06 24: Oui c’est une des ressources que je cite, mais je cherche plutôt des textes légaux
+16/04/2024, 08:36 - +689 89 60 06 24: Merci, mais rien de spécifique éducation nationale
+16/04/2024, 08:38 - LIO: L'article L-611 du code du code de l'éducation à été modifié.
+Il faut peut creuser specifiquement dans les textes ce que je n'ai pas encore fait
+16/04/2024, 08:41 - LIO: Il y a aussi des projets de Lois qui sont en cours
+J'imagine qu'on devait attendre la legislation europeene.
+16/04/2024, 08:45 - Pierrick BRIAND: Je m’en suis rendu compte en seconde lecture mais oui, ça ne peut plus nous échapper
+16/04/2024, 09:12 - +33 7 85 94 69 69: 🤣
+16/04/2024, 09:25 - +33 6 76 04 48 20: Merci beaucoup pour ce partage !

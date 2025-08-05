@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 11
+
+=== CONTENU ===
+06/03/2024, 13:01 - Ahmadou Ba: Oui c une extension du navigateur quand vous lancez zoom, meet ou teams, il se propose pour l'enregistrement
+06/03/2024, 13:01 - Ahmadou Ba: https://www.noota.io/fr
+06/03/2024, 13:23 - +33 6 51 43 08 14: Merci je vais tester :-)
+06/03/2024, 14:44 - ‎Clément Cahagne a rejoint le groupe à partir de la communauté.
+06/03/2024, 15:04 - Pierrick BRIAND: En effet, cela est discuté dans le domaine de  l’EdTech. Une étude mentionnée un article du blog d'Abondance que je partage ci-dessous indique qu’il est inutile et potentiellement contreproductif de faire preuve de politesse en s'adressant à un modèle de langage comme GPT (Generative Pre-trained Transformer), car cela pourrait détourner l'attention du modèle de la question principale : https://www.abondance.com/20240112-343668-quelles-strategies-pour-ameliorer-les-reponses-fournies-par-les-ia-generatives.html
+06/03/2024, 15:11 - Perrine: Aujourd'hui dans le cade de la semaine de l'éducation ouverte
+18H-19H (CET)- L’IA va telle sauver ou tuer l’éducation ouverte ? Alain Goudey & Bastien Masse
+La discussion abordera les liens entre l'intelligence artificielle et l'éducation ouverte, mettant en évidence les opportunités, les défis et les implications éthiques. Nous examinerons le rôle croissant de l'IA dans ce domaine, réfléchissant à son impact sur l'accès à l'éducation et l'autonomie des apprenants.
+Pour vous inscrire : https://app.livestorm.co/https-www-oeglobal-org/oeweek-2024-lia-va-t-elle-sauver-ou-tuer-leducation-ouverte-alain-goudey-and-bastien-masse?type=detailed
+06/03/2024, 17:26 - Guillaume Singeot: Oyez, Oyez ! Avis aux Normandes et Normands de cette communauté : Rejoignez Communotic et participez à https://communotic.normandie.fr/agenda/atelier-de-decouverte-lusage-doutils-dintelligence-artificielle-en-formation. Je vous laisse deviner qui anime cette journée qui s'annonce splendide et ensoleillée... 😉
+06/03/2024, 17:30 - ‎+33 6 35 32 61 27 a rejoint le groupe à partir de la communauté.

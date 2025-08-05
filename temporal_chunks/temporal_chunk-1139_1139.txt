@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 13
+
+=== CONTENU ===
+28/10/2024, 09:19 - ‎~ MaxFavero a ajouté ~ Karen
+28/10/2024, 09:25 - +33 6 19 75 63 49: Merci c’est sympa! Je pensais plutôt aux objections relatives à l’impact environnemental mais ça me servira tout de même. En revanche je tombe sur une page de connexion avec adresse IP et je ne sais pas trop quoi rentrer!
+28/10/2024, 09:29 - +41 76 372 28 94: C'est pas gratuit car c'est moi qui paye pour mes élèves, donc je ne donne pas le mot de passe, mais j'offre les sources et volontiers des explications sur comment l'installer sur votre propre serveur à l'école ou ailleurs en désactivant la collecte des IP (qui se fait par défaut sur le serveur) pour rester conforme à la RGPD. Les sources sont ici : https://github.com/4nd4ny/EduChat-o1 <Ce message a été modifié>
+28/10/2024, 09:40 - +32 498 32 22 00: Heureuse de lire pour la première fois ici que d’autres (si j’ai bien compris de jeunes étudiants en plus) vivent aussi cette tension entre s’amuser, performer, être plus productifs et les impacts occasionnés par nos actions. Merci de l’avoir souligné !
+28/10/2024, 09:42 - +32 498 32 22 00: Des conseils par ici pour utiliser l’IA de manière « responsable » ?
+28/10/2024, 09:49 - Rochane: Je vais inviter un expert pour nous évoquer ce sujet 🙂
+28/10/2024, 10:01 - Jean-Marc Everard: Je trouve la démarche très pertinente car en plus d'être une classe inversée il y a un aspect d'utilisation "sage" et réfélchie de l'IA avec mise en perspective de ses limites éventuelles. C'est inspirant. Avez-vous déjà des retours de profs ou d'étudiants ?
+28/10/2024, 10:06 - +41 76 372 28 94: Mon avis : je ne vois aucun moyen d'utiliser une IA de manière responsable. Curieux d'entendre un expert sur le sujet.
+28/10/2024, 10:06 - Rochane: <Médias omis>
+28/10/2024, 10:11 - +32 498 32 22 00: Ça m’a coûté de le faire vu le paradoxe…
+Mais j’ai posé la question à ChatGPT.
+J’espère que Nicolas Blanchon pourra aller au-delà, nuancer, critiquer cette réponse pour voir en quoi c’est du bullshit ou non.
+28/10/2024, 10:11 - +32 498 32 22 00: Oui, il y a plusieurs conseils à suivre pour utiliser les IA de manière responsable et limiter leur impact environnemental tout en maximisant leur utilité. Voici quelques suggestions qui combinent un usage écologique et éthique des technologies d'intelligence artificielle :

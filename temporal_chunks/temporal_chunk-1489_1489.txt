@@ -1,0 +1,34 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 26
+
+=== CONTENU ===
+Les utilisateurs peuvent ne pas savoir comment supprimer leur compte ou récupérer leurs données, ce qui peut les empêcher d'exercer pleinement leurs droits.
+---
+#### 4. Repérer les clauses potentiellement abusives
+**⚠️ Constat:**
+La politique de confidentialité contient des clauses qui pourraient être considérées comme abusives, notamment en ce qui concerne la conservation des données et la transmission en cas de fusion d'entreprise.
+**📝 Explication:**
+Les clauses relatives à la conservation des données et à la transmission en cas de fusion d'entreprise ne sont pas suffisamment transparentes et pourraient être considérées comme abusives.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs pourraient se retrouver avec des droits restreints ou des conditions imprévues en cas de fusion d'entreprise ou de conservation prolongée de leurs données.
+---
+### Sécurité et gouvernance des données
+#### 1. Analyser les mesures de sécurité annoncées
+**⚠️ Constat:**
+Les mesures de sécurité sont décrites de manière générale, sans détails techniques précis.
+**📝 Explication:**
+Les mesures de sécurité sont décrites de manière vague, ce qui ne permet pas aux utilisateurs de savoir exactement comment leurs données sont protégées.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs ne sont pas informés des mesures de sécurité concrètes mises en place, ce qui peut les exposer à des risques de violation de la sécurité.
+---
+#### 2. Évaluer la transparence sur les incidents
+**⚠️ Constat:**
+La politique de confidentialité ne mentionne pas explicitement la transparence en cas d'incident de sécurité.
+**📝 Explication:**
+Les utilisateurs ne sont pas informés des procédures mises en place pour les informer en cas d'incident de sécurité affectant leurs données.
+**💡 Impact concret pour l'utilisateur:**
+Les utilisateurs ne savent pas quand et comment ils seront informés en cas de violation de leurs données, ce qui peut retarder leur capacité à prendre des mesures de protection.

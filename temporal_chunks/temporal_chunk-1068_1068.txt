@@ -1,0 +1,35 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 27
+
+=== CONTENU ===
+12/10/2024, 18:32 - ‎+33 6 62 05 94 71 a rejoint ce groupe grâce à son lien d’invitation
+12/10/2024, 18:33 - Rochane: Tu peux poser la question au bot de la communauté ici actibot.carrd.co 🙂
+12/10/2024, 18:38 - martinyemani IA: Merci beaucoup pour votre suggestion
+12/10/2024, 19:01 - +33 6 08 67 53 65: null
+12/10/2024, 19:23 - ‎+33 6 63 06 90 65 a demandé à rejoindre le groupe.
+12/10/2024, 19:27 - ‎+33 6 63 06 90 65 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 07:20 - ‎+33 6 12 44 18 63 a demandé à rejoindre le groupe.
+13/10/2024, 08:12 - ‎+33 6 12 44 18 63 a rejoint ce groupe grâce à son lien d’invitation
+13/10/2024, 08:12 - Rochane: https://generationia.flint.media/p/impact-carbone-ia-mythe-realite-climat-chatgpt-comparer
+Voici un résumé des principaux points abordés dans cet article sur l'impact carbone de l'IA :
+## L'impact individuel de l'IA
+- Une session moyenne de 10 prompts sur ChatGPT émet environ 0,12g de CO2[1].
+- La génération d'une image avec un modèle gourmand émet environ 2,9g de CO2[1].
+- Ces chiffres sont à comparer avec d'autres usages courants :
+- 1h de Netflix : entre 6 et 57g de CO2
+- Un steak de 200g : 20kg de CO2[1]
+## L'impact systémique de l'IA
+- La consommation d'électricité des grands acteurs du numérique (Meta, Google, Microsoft, Amazon) a plus que doublé entre 2017 et 2021[1].
+- L'IA représente actuellement 10 à 20% de la consommation électrique des centres de données, mais cette part devrait augmenter[1].
+- D'ici 2027, l'IA générative pourrait consommer autant d'électricité que l'Espagne[1].
+## Les solutions envisagées
+- Développer de nouvelles sources d'énergie décarbonées (nucléaire, solaire, éolien)
+- Localiser les centres de données dans des zones à énergie décarbonée
+- Utiliser des algorithmes d'optimisation comme "CarbonMin"
+- Privilégier des modèles plus petits et spécialisés plutôt que de très grands modèles généralistes[1]
+## Conseils pour un usage responsable
+- Utiliser les moteurs de recherche classiques plutôt que l'IA pour les recherches simples

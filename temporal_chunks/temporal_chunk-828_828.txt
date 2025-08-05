@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 651
+Messages: 15
+
+=== CONTENU ===
+20/08/2024, 17:14 - ‎+33 7 82 40 98 97 a demandé à ajouter +33 6 65 64 26 57.
+20/08/2024, 17:27 - ‎+33 7 82 40 98 97 a ajouté +33 6 65 64 26 57
+20/08/2024, 17:34 - Rochane: Pour bien utiliser l'IA à l'école où l'université, les profs et les élèves ou étudiants doivent se mettre d'accord. Ils décident ensemble quand et comment utiliser l'IA, comment en parler, et comment l'évaluer. Ça aide tout le monde à apprendre mieux et honnêtement
+20/08/2024, 19:46 - +237 6 56 90 71 30: Bonsoir à tous. Quelqu'un aurait-il une IA *gratuite* à me recommander pour l'amélioration de la qualité d'anciennes photos ? Merci d'avance
+20/08/2024, 20:18 - Rochane: Let's Enhance
+Fotor
+Media.io
+Les 3 ont des versions gratuites
+20/08/2024, 20:51 - +33 6 14 90 22 14: Bonjour à tous, je recherche une IA capable de m'aider à rédiger des jupyter notebook. En vous remerciant.
+20/08/2024, 22:44 - Vincent DROUOT: Regarde peut-être du coté de Wisbot.ai :
+https://wisbot.ai/
+20/08/2024, 22:44 - Vincent DROUOT: Wisbot : Turn Data Ideas into Jupyter Notebook and Python Code Effortlessly
+21/08/2024, 08:21 - +33 6 23 62 03 47: Ce message a été supprimé.
+21/08/2024, 09:14 - +33 6 14 90 22 14: Merci je vais regarder
+21/08/2024, 10:19 - Jean-Marc Everard: Depuis l'arrivée du Jobsdeal en Belgique et sa traduction au niveau du secteur public (avec par exemple le droit à 5 jours de formation annuel par personne en moyenne sur 5 ans), je reçois beaucoup de demandes d'aide pour créer des plans de formation. J'y ai d'abord répondu en créant un GPTS adapté, un "projet" dans perplexity et des notes dans NotebookLM, mais tout cela continue de donner des réponses trop high level. Pour être plus concret, il faut davantage de données utilisateurs, mais de même que pour la création de dispositifs de formations à distance innovants en utilisant des méthodes comme le design Thinking par exemple, une des grosses difficultés est de trouver les publics adéquats et qui sont d'accord de répondre à des enquêtes, de participer à des focus groups ou encore de tester les solutions. Ca fait beaucoup de monde à solliciter et tout le monde est trop occupé ... Dans cet article très bien sourcé, le Dr. Philippa Hardman propose une utilisation intriguante et intelligente des grandes améliorations de l'IA dans l'imitation des réponses humaines, y compris émotionelles, en donnant des pistes pour diminuer les biais et les difficultés dans l'utilisation des ces personas générés par IA : https://drphilippahardman.substack.com/p/the-ai-sounding-board?utm_campaign=email-half-post&r=q4nlg&utm_source=substack&utm_medium=email

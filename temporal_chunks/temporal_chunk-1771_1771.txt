@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 19
+
+=== CONTENU ===
+13/02/2025, 14:13 - +33 6 71 11 12 91: Je ne parle pas d'un compte partagé, mais d'un lien partagé
+13/02/2025, 14:28 - +33 6 52 73 73 42: Ah pardon ! Ils se connectent bien sur le site notebooklm.google
+13/02/2025, 15:28 - Batier Christophe: Bonjour à tous je suis en train de regarder comment fonctionne Ragflow sur un serveur ollama
+D’autres personnes du groupe sont sur ces technos ?
+13/02/2025, 18:00 - +44 7776 747507: Bonjour la communauté, est-ce que quelqu'un a déjà utiliser Trello, auquel cas merci de partager votre expérience? 🙏🏾
+13/02/2025, 18:00 - +33 6 58 01 34 66: Oui le premier espace de travail est gratuit,  c'est un espace où l'on peut faire des tableaux avec des post-it (je m'en sers personnellement comme to do list des choses à faire)
+13/02/2025, 18:07 - ‎+32 496 54 80 21 est parti·e
+13/02/2025, 18:07 - +33 6 52 73 73 42: Très bon outil pr la gestion de projet !
+13/02/2025, 18:12 - +44 7776 747507: Merci Laurent et Jo🙏🏾
+13/02/2025, 18:31 - +33 6 60 76 02 35: Bonjour, est ce que quelqu’un aurait un tuto très récent à partager pour utilisé le correctement notebookLM ?
+13/02/2025, 18:31 - +33 6 71 11 12 91: J'ai dit une bêtise, pardon, pour la production de CO².
+2 228 vols Paris NY, c'est si 1% de la planète faisait cette requête chaque jour pendant un an.
+13/02/2025, 19:21 - +34 670 25 08 22: J'ai eu ce même problème cette semaine. Une élève a trouvé la solution : c'était une question d'âge. Il fallait confirmer qu'elles étaient majeures, avec plusieurs possibilités comme confirmer le numéro de telf. Et ça a marché.
+13/02/2025, 19:25 - +34 670 25 08 22: https://youtu.be/UNQBVGXM-bI?si=nKYGCPk99Z_UtQ3d
+13/02/2025, 19:26 - Rochane: Vous avez supprimé ce message
+13/02/2025, 19:30 - +34 670 25 08 22: <Médias omis>
+13/02/2025, 19:44 - +33 6 52 73 73 42: Le podcast de Notebook LM propose une version bêta pour rejoindre la discussion.
+Quelqu'un à t'il déjà testé !?
+J'ai voulu tenter mais cela moulinait après avoir interrompu le podcast et après m'avoir laissé poser ma question.

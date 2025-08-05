@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 16
+
+=== CONTENU ===
+* Recherche d'informations: Je peux te fournir des liens vers des outils en ligne ou des logiciels qui te permettront de créer tes propres images et vidéos.
+* Description détaillée: Si tu as une idée précise de l'image ou de la vidéo que tu souhaites créer, je peux t'aider à la décrire de manière très détaillée, ce qui facilitera la tâche à un outil de génération.
+* Idées créatives: Je peux te suggérer des concepts visuels, des styles artistiques, ou des éléments que tu pourrais inclure dans ta création.
+Quelques outils que tu pourrais utiliser:
+* Canva: Un outil en ligne très intuitif qui permet de créer des designs graphiques, des présentations, et même des vidéos simples.
+* Midjourney: Un outil d'intelligence artificielle qui génère des images à partir de descriptions textuelles.
+* DALL-E 2: Un autre outil d'IA capable de créer des images réalistes et originales.
+N'hésite pas à me poser d'autres questions ou à me demander de l'aide pour ton projet. Je suis là pour t'aider au mieux dans tes recherches.
+Pourrais-tu me donner plus de détails sur le type d'image ou de vidéo que tu souhaites créer ? Cela m'aidera à te proposer des solutions plus adaptées.
+15/12/2024, 19:35 - Fred IA: Oui j'ai eu aussi ce type de réponse ; ou alors il fournit un lien (mort) vers l'image qu'il dit générer.. Finalement,   on comprend que ce n'est pas encore au point ou alors j'ai loupé quelque chose
+15/12/2024, 19:36 - Fred IA: (À côté de cela, il a bien la vision; on peut lui partager notre écran) <Ce message a été modifié>
+15/12/2024, 19:37 - +33 6 69 92 67 77: Très intéressant utilisant déjà chatgpt pour créer des tuteurs et des coachs  sur mesure.
+15/12/2024, 19:39 - StéphaneIA: Pour Gemini 2 la fonction de génération d'image et d'audio ce sera pour 2025
+15/12/2024, 19:39 - StéphaneIA: Pour le moment on a juste le démo comme l'analyse en live
+15/12/2024, 19:42 - Fred IA: Merci pour cette précision
+15/12/2024, 19:44 - StéphaneIA: On est impatient ca à l'air tellement cool. Comme 2.0 Pro

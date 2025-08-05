@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 9
+
+=== CONTENU ===
+07/11/2023, 18:17 - +237 6 99 02 51 84: Quizizz est très intéressant, sauf que la version gratuite donne accès juste à quatre ou cinq types de questions
+07/11/2023, 18:19 - Ahmadou Ba: Quizizz permet également d’importer des questions à partir de Google Forms
+07/11/2023, 18:21 - Ahmadou Ba: Il y a également un module complémentaire de Google Forms qui fonctionne avec l’ia. La version peut générer jusqu’à 50 questions. Tu précises le thème et le niveau des élèves et le nombre de questions et il te crache un questionnaire.
+07/11/2023, 18:22 - Ahmadou Ba: L’atout principal de quizizz comme Quizlet et Kahoot! C d’organiser des compétitions entre élèves où vous même vous pouvez jouer. C ludique et pédagogique. Très bon pour les révisions.
+07/11/2023, 19:10 - +33 6 42 26 64 70: Bonjour à toutes et tous, sachez que si vous disposez d’un LMS Moodle pour la conception et diffusion de vos modules, vous pouvez y installer trois plugins gratuits utilisant l’API de votre compte ChatGPT (payant) : e premier permet de générer des questions type QCM corrigées a partir d’un corpus (texte), directement injectées dans votre banque de question et donc directement utilisables ensuite dans un test. Un second permet de générer au sein de l’éditeur de Moodle des images/illustration via Dall-E, elles aussi réutilisable. Enfin, le dernier met en place un chatbot conversationnel pre-prompté pour circonscrire ses réponses aux seules questions d’utilisation de Moodle (dimensions techniques ou pédagogiques). Belle soirée à toutes et tous.
+07/11/2023, 19:39 - Ahmadou Ba: J’aimerais bien suivre les activités de les élèves sur Google classroom. L’absence d’outils de tracking dans cette plate-forme est une vrai limite.
+Avez-vous une alternative pour suivre les activités des élèves dans cet outil.
+08/11/2023, 05:16 - +33 7 68 67 76 16: Juste une question de candide, à quoi ressemble un prompt ?
+08/11/2023, 05:23 - Guillaume CLEMENT: Un prompt c'est une consigne plus ou moins détaillé et précis. Plus il est structuré et fin plus la réponse en sera pertiente

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+23/01/2025, 22:21 - +41 76 372 28 94: DeepSeek est tout à fait appropriée pour un cours sur les IA. Le fait de la voir penser est génial.
+23/01/2025, 22:27 - +41 76 372 28 94: Sinon vous pouvez toujours acheter un Nvidia Digit avec une puce GB10 Grace Blackwell et 128Gb de RAM : ça devrait bien tourner dessus ! Pour une école, sortir 3000 USD pour la protection des données des élèves ça devrait être ok.
+23/01/2025, 22:33 - +33 6 71 11 12 91: Publier la photo de ses enfants sur des réseaux sociaux aussi est génial.... Jusqu'à ce qu'on découvre que les images ont été détournées.
+J'ai du mal à comprendre qu'après plus de 30 ans d'Internet, certains ne voient que les avantages (et ils sont nombreux) sans voir les risques.
+Avec Trump, pour les IA américaines, le pire peut arriver (ou est en train), mais avec la Chine, la preuve est là depuis longtemps...
+Comme on ne peut pas supprimer les données transmises à DeepSeek, que ferez-vous si vous souhaitez retirer une demande (chat IA) qui vous pose problème ?
+Ex. Il y a quelques années, une chanteuse avait enregistré une chanson (non politique) sur Dharamsala (où vit le Dalaï Lama en Inde) et m'avait autorisé à publier cette chanson sur un site pro-Tibet.
+Quelques années plus tard, elle m'a écrit pour me demander de retirer la chanson car cela lui posait des problèmes professionnels.
+J'ai pu le faire de suite, mais avec DeepSeek, nul ne sait quelles seront les conséquences.
+Visa bloqué ? Harcèlement ? (J'ai reçu des virus quotidiens pendant des années sur mon adresse mail pro-Tibet, de toutes sortes, ils ont de l'imagination !)
+23/01/2025, 22:39 - +41 76 372 28 94: C’est aussi le moment parfait pour expliquer ça aux élèves ! Car avec OpenAI ils ne se protègent pas alors que c’est le même problème…
+23/01/2025, 23:17 - +33 6 71 11 12 91: Non, le problème n'est pas le même. Les conséquences individuelles sont différentes. Très différentes.
+J'en sais quelque chose avec la Chine.
+Ceci dit, cela n'empêche pas d'alerter sur les problèmes liés à ChatGPT, Claude, Perplexity... 😉

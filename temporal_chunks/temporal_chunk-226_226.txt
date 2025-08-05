@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 556
+Messages: 13
+
+=== CONTENU ===
+22/02/2024, 15:49 - Votre code de sécurité avec +33 6 85 85 11 33 a changé. Appuyez pour en savoir plus.
+22/02/2024, 18:56 - ‎+33 6 19 95 62 85 a rejoint le groupe à partir de la communauté.
+23/02/2024, 10:39 - ‎+33 6 14 16 68 64 a rejoint le groupe à partir de la communauté.
+23/02/2024, 19:48 - Votre code de sécurité avec ~ Simon a changé. Appuyez pour en savoir plus.
+23/02/2024, 22:17 - Rochane: L'IA va-t-elle botter les profs hors des classes ou les assister ? Le verdict sans langue de bois de Ludo, le spécialiste de l'IA qui cartonne sur YouTube 😁 https://www.youtube.com/watch?v=NOeuG6LRVyU
+24/02/2024, 09:14 - Rochane: Pour info, en off, il m'a promis de passer dans un de nos futurs lives 🙂
+24/02/2024, 09:43 - Ahmadou Ba: Bjr.
+Connaissez vous un autre outil qui créé des chatbot, différent de snathcbot. Je veux un outil qui prend les données par paquets, Où je ne serais pas obligé de chargée les fichiers un a un.
+24/02/2024, 09:46 - Rochane: chatbase.co version Free d'essai qui te permet de charger jusqu'à 10 pages web par exemple et le tester. Pour moi, c'est le plus simple mais payant
+24/02/2024, 09:51 - Jean-Marc Everard: Bonjour, connaîtriez-vous une bonne DB, si possible avec tests ou avis, d’outils utiles pour l’éducation et la formation ? IA powered ou non d’ailleurs. Je connais celle-ci https://start.me/p/PwabRd/l-ia-pour-l-enseignement . En auriez-vous d’autres ?
+24/02/2024, 09:59 - Rochane: Ah mais ça m'intéresse aussi. Je vais explorer déjà ces réponses Voici quelques bases de données d'outils utiles pour l'éducation et la formation, avec des tests ou des avis, que vous pourriez trouver intéressantes :
+1. EdSurge Product Index : Cette base de données propose une liste d'outils technologiques pour l'éducation, avec des évaluations et des avis d'utilisateurs. Vous pouvez filtrer les résultats par catégorie, niveau scolaire et type d'outil. [Source: EdSurge Product Index]
+2. Common Sense Education : Common Sense Education propose une collection d'outils technologiques pour l'éducation, avec des évaluations détaillées et des avis d'enseignants. Vous pouvez rechercher des outils par catégorie, niveau scolaire et système d'exploitation. [Source: Common Sense Education]

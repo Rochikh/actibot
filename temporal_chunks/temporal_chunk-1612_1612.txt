@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 12
+
+=== CONTENU ===
+21/01/2025, 14:28 - +33 6 42 26 64 70: Bonjour tout le monde, j’aimerai vous soumettre l’idée suivante : Après avoir constaté la simplicité de l’installation de LM Studio permettant l’utilisation locale d’une IA (Llama, Lucie ou autre plus ou moins open source), quelle limite voyez vous à son déploiement sur les postes d’un établissement scolaire ?
+21/01/2025, 14:29 - ‎+33 6 25 26 03 02 a rejoint ce groupe grâce à son lien d’invitation
+21/01/2025, 14:29 - ‎+33 6 81 88 18 95 a rejoint ce groupe grâce à son lien d’invitation
+21/01/2025, 14:34 - Gregoire IA: Lm studio permet de televerser des fichiers pour les questionner avec une IA ? C'était non avec mes derniers essais mais ils datent
+21/01/2025, 14:38 - +32 479 94 80 38: Bonjour, je crée des prompts de type tutorat dans des ia généralistes (ici copilot par ex.) pour lui faire produire des exercices adaptés pour les élèves. le problème, c'est que les propositions de requêtes automatiques de Copilot me donnent en fait les bonnes réponses à l'exercice. savez-vous comment désactiver ces propositions de requêtes automatiques ? (spoiler : copilot ne sait pas lui-même :)). mercii!
+21/01/2025, 14:45 - +33 6 42 26 64 70: <Médias omis>
+21/01/2025, 14:46 - Gregoire IA: Merci, je le teste ce matin
+Ce sera mon prochain carrousel LinkedIn 😅
+21/01/2025, 14:46 - +33 6 42 26 64 70: De mon point de vue, c’est la solution la plus pérenne aujourdhui pour pouvoir former et permettre un accompagnement IA à nos élèves en attendant les solutions RGPD compatibles
+21/01/2025, 14:54 - Jean-Marc Everard: Si ça marche, ça m'intéresse vraiment eyt je vais sans doute switcher de Ollama à LM Studio. Est-ce que c'est aussi simple à l'usage ? Quelqu'un a-t-il tester les 2 ? Et tant que j'y suis : est-ce que quelqu'un d'autre a eu de sporblème avec Docker + Ollama sur Mac ?
+21/01/2025, 14:57 - +33 6 42 26 64 70: Franchement, rien de plus simple que LM studio. Tu peux oublier Docker et les solution client-serveur
+21/01/2025, 14:58 - +33 6 42 26 64 70: L’essayer c’est l’adopter 😉

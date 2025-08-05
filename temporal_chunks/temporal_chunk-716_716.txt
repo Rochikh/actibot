@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 550
+Messages: 16
+
+=== CONTENU ===
+12/07/2024, 11:16 - +33 7 83 16 44 23: Bonjour, l'AI Act a été publié aujourd'hui. Pour un résumé de ce que contient l'AI Act : https://artificialintelligenceact.eu/fr/high-level-summary/
+12/07/2024, 13:17 - +33 7 63 58 01 55: Ça confirme l'impression que j'ai et les qq retours d'enseignants. Difficile de compter dessus et ça confirme donc également qu'il vaut mieux se concentrer sur d'autres modalités d'apprentissage et d'évaluation.
+12/07/2024, 13:56 - ‎~ Raphaël a été ajouté·e
+12/07/2024, 13:56 - ‎Pierrick BRIAND a ajouté ~ Raphaël
+12/07/2024, 20:53 - +32 493 87 42 05: Bsr tout le monde. En dehors de Luma Ai Est-ce qu'il  y aurait une autre IA qui transforme les images en vidéo ou les anime? Je voudrais réaliser des dessins animés pour enfants. Merci par avance pour vos retours.
+12/07/2024, 21:29 - Rochane: Le meilleur outil de recherche pour ce type de besoin est perplexity
+https://www.perplexity.ai/search/bsr-tout-le-monde-en-dehors-de-I.6Dty4nQhyM1eRwu3z3ug <Ce message a été modifié>
+12/07/2024, 21:33 - +32 493 87 42 05: Merci Rochane je vois ferai un retour 🙏🏽
+12/07/2024, 22:39 - Rochane: le millionnaire sur l'IA, j'ai chuté à la dernière marche 😞
+https://view.genially.com/668fe04fc021520c065cbe46
+13/07/2024, 08:09 - Votre code de sécurité avec Technopedagogue Djieh 🔥🖥️🔥 a changé. Appuyez pour en savoir plus.
+13/07/2024, 08:55 - +33 6 79 02 09 95: Bonjour, pour ceux que ça intéresse, le AI act de l'UE a été publié en version française hier : https://www.linkedin.com/posts/activity-7217415617056776192-y1zo?utm_source=share&utm_medium=member_android
+13/07/2024, 09:25 - Rochane: Merci Raphaël, Florence l'a partagé hier, Juste au dessus 🙂
+13/07/2024, 09:55 - +33 6 79 02 09 95: Sorry je viens d'arriver dans le groupe et j'ai pas l'historique 😅
+13/07/2024, 11:49 - Votre code de sécurité avec +216 53 459 627 a changé. Appuyez pour en savoir plus.
+13/07/2024, 12:17 - Fred IA: Bonjour. Avez-vous déjà testé un gpts qui permette de retranscrire correctement un fichier audio en texte ?  Je viens de faire le test avec celui-ci mais ça semble ne pas fonctionner (en tout cas, depuis mon iPhone): https://chatgpt.com/g/g-uG8COVuC0-whisper-transcriber

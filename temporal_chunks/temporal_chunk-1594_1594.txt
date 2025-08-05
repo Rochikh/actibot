@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 17
+
+=== CONTENU ===
+17/01/2025, 16:45 - +33 6 71 11 12 91: Je lui ai posé cette question :
+"Explique-moi comme à un  profane éduqué ce qu'est Lucie, l'assistante IA française que tu prétends être."
+Sa réponse :
+"</pre> #L"
+Je dois être un profane pas assez éduqué pour comprendre sa réponse, je suppose...
+17/01/2025, 16:48 - +33 7 83 62 43 52: Bonjour
+Peut-être que Lucie n'est pas encore à la hauteur, mais je pense qu'il est fondamental que nous ayons des ressources open source et éthiques spécialement dans ce domaine là. Et pourquoi pas gratuites pour assurer une équité quant à leur accès.
+17/01/2025, 16:53 - Laurent The Cure: C'est conseillé mais j'ai pu poser une question en français.
+Ce qui m'a interpellé par contre c'est que pour une des questions, il m'a mal compris et a répondu sur un sujet complètement différent et surtout non inclus dans mes sources fournies. J'ai posé une question sur la planification en formation, il a compris pénicilline, et m'a lancé une réponse sur ce sujet. Je pensais que notebookLM n'était pas connecté à internet et ne "répondait" pas s'il ne savait pas (cad pas d'information dans les sources) 🤔
+17/01/2025, 16:57 - Votre code de sécurité avec +216 29 377 230 a changé. Appuyez pour en savoir plus.
+17/01/2025, 18:38 - Clotilde IA: <Médias omis>
+17/01/2025, 19:03 - Rochane: Passe par inscription
+17/01/2025, 20:17 - Ahmed Yagoubu: null
+18/01/2025, 09:20 - Rochane: Ils offrent jusqu'à aujourd'hui 1000 crédits pour le plan gratuit sachant que la génération de vidéo à partir d'une image coûte 30 crédits. Le résultat est vraiment impressionnant
+18/01/2025, 09:30 - Jean-Marc Everard: Merci beaucoup. Je vais tester ça. Sais-tu si c’est meilleur que Kling?
+18/01/2025, 09:31 - Rochane: Franchement, je n'ai pas testé Kling et donc je ne peux pas comparer <Ce message a été modifié>
+18/01/2025, 09:33 - Jean-Marc Everard: Pour les vidéos au départ d’une image ou même d’un prompte je le trouve pas mal sachant qu’il a tendance à faire des choses plutôt imaginatives mais avec des images sur-saturées donc pas hyper-réalistes.

@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 10
+
+=== CONTENU ===
+01/02/2025, 18:48 - +41 79 258 90 36: N'étant pas français j'utilise ce qui convient à mes projets.
+01/02/2025, 18:50 - Francois Bocquet: Cependant tu peux installer deepseek localement ce qui change pas mal de chose !
+01/02/2025, 18:51 - Francois Bocquet: Je confirme que DeepSeek est en l’état non conforme au RGPD. L’autorité italienne a déjà pris des initiatives. L’hébergement hors Europe et pays à protection équivalente est illégale pour le service en mode SaaS mais l’installation du modèle sur une infra conforme peut permettre de résoudre le problème.
+01/02/2025, 19:06 - Rochane: Si on s'y inscrit avec une adresse bidon et l'on utilise que des informations non confidentielles, je ne vois pas le danger <Ce message a été modifié>
+01/02/2025, 19:21 - Francois Bocquet: Peu de danger mais illégal en tous cas pour un déploiement en institution. Après, pour une utilisation personnelle chacun choisi ses options. Rappel : une adresse IP personnelle est une donnée à caractère personnel qui implique l’application du RGPD. Les traceurs permettent également de recouper les informations même si tu utilise des comptes différents.
+01/02/2025, 19:58 - StéphaneIA: Je ne serai dire si openai est meilleur ou pas de même pour Google même si en travaillant beaucoup avec eux je sais qu'ils apportent une attention particulière a la législation. Les autres des fois ce n'est pas le cas tout le temps.
+Mistral j'aimerai bien travailler plus avec leur API mais pour les moment je la trouve moins rapide et sur certains sujets la sortie texte est moins bonne.
+01/02/2025, 19:59 - +32 483 60 53 96: Merci pour vos partages 🤗
+01/02/2025, 20:02 - StéphaneIA: Sur ce point de mon côté j'y vois aussi une certaine philosophie. Déontologiquement je ne veux pas forcément cautionner, avis perso. De toute façon maintenant je préfère payer qu'elle centimes avec les API et comme cela je suis couvert. Je testerai deepseek mais juste pour voir.
+01/02/2025, 20:04 - StéphaneIA: Mais vraiment j'espère que Mistral reprendra le travail deepseek pour faire un model européen de premier niveau.

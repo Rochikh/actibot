@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 15
+
+=== CONTENU ===
+18/04/2025, 10:22 - +33 6 17 70 40 43: Ce message a été supprimé.
+18/04/2025, 10:28 - +33 6 17 70 40 43: Bonjour a tous, je vous écris car je me souviens d’avoir vu passer des icones pour indiquer à l’étudiant si l’utilisation de l’IA était autorisée. De mémoire il y’avait trois icone/ logo. A tout hasard, quelqu’un aurait ces icones à disposition. Car je viens de remonter la conversation impossible de remettre la main dessus. D’avance merci et bonne fin de semaine à tous
+18/04/2025, 10:36 - Clément Cahagne: Je ne sais pas si tu parles de cette échelle : https://github.com/jourde/echelle-evaluation-avec-IA
+18/04/2025, 10:44 - Jean-Marc Everard: très belle explications sur l'IA. Pour le podcast de notebookLM, il m'est arrivé la même mésaventure en démo il n'y a aps longtemps. je vais tester les meilleures façon de retrouver nos hosts francophones au léger accent préférés... Merci en tout cas et super boulot !
+18/04/2025, 10:48 - Jean-Marc Everard: <Médias omis>
+18/04/2025, 10:48 - Jean-Marc Everard: <Médias omis>
+18/04/2025, 10:48 - Jean-Marc Everard: <Médias omis>
+18/04/2025, 10:52 - +33 6 17 70 40 43: OUI !!! c’est exactement cela, merci beaucoup
+18/04/2025, 10:56 - +33 6 17 70 40 43: c’est bon j’ai retrouvé le site https://mpeters.uqo.ca/logos-ia-fr-peters-2023/
+18/04/2025, 10:56 - +33 6 17 70 40 43: encore merci @32496968742
+18/04/2025, 22:40 - Votre code de sécurité avec ~ lassaad sakri a changé. Appuyez pour en savoir plus.
+19/04/2025, 07:36 - +32 498 78 46 36: Ce message a été supprimé.
+19/04/2025, 09:01 - +32 498 78 46 36: https://www.gre-mag.fr/recours-systematique-lintelligence-artificielle-generative-deteriorerait-facultes-cognitives-permettant-lesprit-critique/
+19/04/2025, 09:44 - +32 475 86 01 57: Les titres sensationnalistes conçus pour stimuler l amygdale détériorent aussi les facultés cognitives permettant l esprit critique...
+19/04/2025, 09:53 - +41 76 372 28 94: Mais c’est quand même grave non ? Moi je trouve que l’article est inquiétant. Il va être présenté la semaine prochaine à https://chi2025.acm.org/

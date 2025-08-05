@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 563
+Messages: 16
+
+=== CONTENU ===
+- On peut enfin faire des recherche conversationnelle : Posez nos questions naturellement et SearchGPT garde en mémoire le contexte pour des échanges fluides et efficaces. 🗣️
+- SearchGPT s'adapterait à nos requêtes pour nous proposer (à nous et aux étudiants) des résultats de plus en plus pertinents.
+Sera t’il à la hauteur de ses ambitions, est-ce que SearchGPT est selon vous un outil prometteur pour les étudiants, les chercheurs et tous ceux qui souhaitent accéder rapidement à l'information ?
+Pour en savoir plus, c’est ici : https://bit.ly/3WpdeZl
+29/07/2024, 18:18 - Pierrick BRIAND: Ah! Et vous pouvez dès à présent rejoindre la liste d’attente pour tester SearchGPT avant tout le monde 😀
+29/07/2024, 18:18 - Pierrick BRIAND: https://bit.ly/3zV9MOv
+29/07/2024, 18:30 - +33 6 77 84 11 24: Ça ressemble à du perplexity ça...
+29/07/2024, 21:01 - Rochane: Merci Pierrick, on peut le tester ici https://huggingface.co/chat/
+29/07/2024, 22:44 - Votre code de sécurité avec +33 7 45 47 55 13 a changé. Appuyez pour en savoir plus.
+30/07/2024, 06:54 - +32 479 58 54 12: Chatgpt et Perplexity citent des sources issues du Web. Mais comment font-ils pour les identifier ? Je ne parviens pas à trouver cette réponse.
+Interrogent-ils eux-mêmes des moteurs comme Google ?
+Apparemment les sources citées sont des sites avec un très bon SEO, et ne sont donc pas choisies pour leur qualité mais bien en fonction de leurs efforts marketing pour avoir de la visibilité, tout comme sur Google.
+30/07/2024, 07:16 - Rochane: Je viens de faire des petites recherches sur la question de comment Perplexity et ChatGPT font pour citer leurs sources, et franchement, c'est pas si simple que ça en a l'air ! 😅
+Alors voilà ce que j'ai compris :
+Ces p'tits malins n'utilisent pas juste Google comme nous autres, hein, ils ont leurs propres systèmes bien sophistiqués pour scanner le web. Perplexity par exemple, il fait sa petite mise à jour quotidienne pour rester au taquet
+30/07/2024, 07:19 - +33 6 49 84 08 41: Sinon, je veux pas faire le rabat-joie, mais je discutais hier soir d'IA avec ma sœur et mon beau-frère qui me parlaient d'un de leurs collègues chercheurs qui s'intéresse, depuis 30 ans, aux performances dans le sport de haut niveau lors des JO.

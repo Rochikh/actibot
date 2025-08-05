@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 530
+Messages: 16
+
+=== CONTENU ===
+30/05/2024, 10:05 - Pierrick BRIAND: l'UE classe l'éducation comme un domaine à "haut risque" du fait de l'IA. Je vous invite à consulter les derniers articles de ma veille pour en savoir plus.
+https://readermode.io/@pierrickbriand
+30/05/2024, 10:13 - Rochane: c'est quel article exactement ?
+30/05/2024, 10:14 - +33 6 81 36 11 13: https://www.unesco.org/en/digital-education/artificial-intelligence celui là je pense
+30/05/2024, 10:42 - Francois Bocquet: Le haut risque concerne sans doute l’usage de l’Ia pour les feedbacks automatisés, les évaluations sommatives et les classifications amenant aux orientations ou groupes de niveau.
+30/05/2024, 10:57 - Pierrick BRIAND: il faudra être très prudent avec l'utilisation de l'IA dans pour ne pas désavantager ou discriminer certains apprenants. Ces systèmes peuvent avoir un gros impact sur les droits et l'avenir des apprenants. C’est en effet pour les raisons que tu as évoquées que l’utilisation de l’IA est considérée comme à "haut risque" par les nouvelles règles européennes. Il s’agit pour chacun de bien évaluer les risques, utiliser dès données de qualité, être transparent sur les usages de l’IA et systématiquement prévoir une supervision humaine.
+30/05/2024, 11:39 - Pierrick BRIAND: Je viens de découvrir une nouvelle fonctionnalité sur Perplexity.
+Il s’agit d’un bouton situé en haut à droite « Convertir en page »
+Ensuite j’ai utilisé la fonction « Publier ».
+Le résultat est assez bluffant, en avez vous eu connaissance ?
+https://www.perplexity.ai/page/IA-et-formation-Hlg_pLZaQzioQYzZfIv0yQ
+30/05/2024, 11:42 - LIO: Hello Pierrick, oui j'ai vu après. Merciii
+30/05/2024, 13:03 - Yvelines: Top, merci!
+30/05/2024, 13:04 - Rochane: Merci pour le partage Pierrick, je l'ignorais perso 🙂
+30/05/2024, 13:28 - Rochane: Enorme tout ce que l'on peut faire avec cette fonctionnalité. Je ne regrette vraiment pas d'avoir un compte avec Perplexity 🙂
+30/05/2024, 13:34 - Rochane: et ce qui est top c'est quand tu partages la page créée par Perplexity, la personne qui la reçoit, sans compte, peut interagir avec la page et poser des questions. ENORME,

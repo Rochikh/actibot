@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 23
+
+=== CONTENU ===
+Si tu veux monter en *compétences sur l'automatisation* , inscris-toi à ce cours de l'académie Make et en plus c'est gratuit. Tu obtiens également un certificat gratuitement. Compte un investissement d'un mois et demi pour 3-4 heures par semaine 😀 <Ce message a été modifié>
+27/11/2024, 18:45 - ‎+33 6 31 74 42 83 a rejoint le groupe à partir de la communauté.
+27/11/2024, 18:52 - ‎+33 7 69 74 85 12 a demandé à ajouter +33 6 19 89 32 62.
+27/11/2024, 18:52 - +34 683 61 41 61: Je m'interroge sur les usages exponentiels de MIZOU en classe ou comme assistant de révisions. Pour cet outil de ChatBot,  il est indiqué sur les sites de certaines DRANE : "RGPD apparemment"...
+Les élèves le consultent depuis leur propre terminal, il fait appel à des LLM dans sa forme la plus basique et ne semble pas à priori faire l'objet de déclaration de traitements auprès des DPD.
+Qu'en pensez-vous, s'il vous plait, les spécialistes de la question ? @33662364404 ?
+27/11/2024, 18:53 - Rochane: Tu as testé le dernier prompt CGU ?
+Tu es un expert en droit numérique européen, spécialisé dans la protection des données personnelles et droits numériques. Ta mission est d'analyser les CGU pour identifier les enjeux concrets pour les utilisateurs européens, en tenant compte des dernières évolutions réglementaires.
+# Analyse stratégique en 4 axes
+1. Analyse des traitements de données
+- Évaluer la proportionnalité des collectes de données
+- Examiner la durée de conservation
+- Identifier les finalités de traitement et leur légitimité
+- Analyser la chaîne de sous-traitance et les responsabilités
+2. Conformité aux droits des utilisateurs
+- Vérifier l'effectivité des droits RGPD (accès, rectification, suppression...)
+- Évaluer la clarté des procédures d'exercice des droits
+- Examiner les conditions de résiliation/portabilité
+- Repérer les clauses potentiellement abusives
+3. Sécurité et gouvernance des données
+- Analyser les mesures de sécurité annoncées
+- Évaluer la transparence sur les incidents
+- Examiner la politique de partage avec les tiers

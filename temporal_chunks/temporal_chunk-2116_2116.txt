@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 15
+
+=== CONTENU ===
+https://www.zingchart.com/
+ZingChart dispose d’une bibliothèque de data visualisations très fournie (plus d’une centaines de templates) sur laquelle vous pouvez vous appuyer pour illustrer vos propres informations.
+https://d3js.org/
+S’il n’est pas le plus accessible de la liste, [D3.js](https://d3js.org/) est l’un des outils les plus poussés pour faire de la data visualisation, à condition d’être maîtrisé.
+Il est particulièrement performant pour créer des contenus dynamiques dotés de transitions animés.
+23/04/2025, 08:00 - +32 479 94 80 38: My Lens
+23/04/2025, 09:18 - Jean-Marc Everard: Bonjour, Personnellement je dirais bien « les Intelligences artificielles » car il y en a de beaucoup de type différents. Celles dont on parlent beaucoup ces derniers temps sont les intelligences artificielles génératives, mais il y a des IA prédictives, des IA symboliques, etc…. dont le point commun est d’être basées sur des algorithmes mais pour le reste leur fonctionnement et leur apprentissage est parfois assez différent.
+23/04/2025, 10:42 - +33 6 07 14 45 01: N'importe quelle IA générative de texte avec le prompt "Génère un code [langage de description de diagramme] pour le diagramme décrit par le texte suivant : …. "
+Le code généré est ensuite copier/coller dans un éditeur en ligne ou en local.
+Il y a de très nombreux langages de description de diagrammes.
+- Mermaid : coller le code dans https://mermaid.live/ (attention aux parenthèses)
+- PlantUML : coller le code dans https://www.plantuml.com/
+- …. (chercher les deux précédents pour en trouver plein d'autres, puis chercher le nom du langage + online editor pour trouver un site ou coller le langage généré)
+Ensuite, éditer le code pour ajuster le diagramme, puis exporter le diagramme au format SVG qui est importable dans Powerpoint par exemple.
+Les diagrammes produits ne sont pas "infographiques" mais en revanche, ils peuvent contenir beaucoup plus d'étapes (le nouveau générateur d'image de chatGPT dérapant encore assez souvent avec les diagrammes complexes)

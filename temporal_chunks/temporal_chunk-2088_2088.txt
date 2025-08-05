@@ -1,0 +1,41 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 33
+
+=== CONTENU ===
+2. Cliquez sur "Canva Docs" ou "Doc" sur la page d'accueil
+3. Créez un document vierge
+4. Cliquez sur le signe "+" à côté de la phrase d'inspiration
+5. Sélectionnez "Écriture magique"[3]
+**Méthode 2 : Via un design existant**
+1. Ouvrez ou créez un design dans Canva
+2. Ajoutez un bloc de texte
+3. Cliquez sur ce texte pour le sélectionner
+4. Dans les options qui apparaissent, cliquez sur "Écriture magique"[1]
+## Utiliser les fonctionnalités principales
+Une fois l'Écriture magique activée, vous pouvez utiliser plusieurs fonctions :
+- **Générer du contenu** : Saisissez une requête précise (ex: "5 citations sur l'entrepreneuriat") et l'outil vous proposera du contenu[2]
+- **Continuer la rédaction** : Laissez l'IA poursuivre un texte que vous avez commencé
+- **Raccourcir** : Condensez un texte trop long pour qu'il s'adapte à votre design
+- **Améliorer** : Perfectionnez la formulation de votre texte
+- **Corriger l'orthographe** : Éliminez les fautes d'orthographe et de grammaire[1]
+## Fonctionnalités avancées (version Pro)
+Si vous disposez de Canva Pro, vous avez accès à des options supplémentaires :
+- **Changer de voix** : Personnalisez le style d'écriture
+- **Créer une voix personnalisée** :
+1. Cliquez sur "Écriture magique" puis "Changer de voix"
+2. Sélectionnez "Ajouter une nouvelle voix"
+3. Donnez un nom à votre voix
+4. Ajoutez un échantillon de texte représentatif de votre style
+5. Décrivez les caractéristiques de votre voix (ton, public cible, etc.)[1]
+## Conseils pour des résultats optimaux
+- Soyez précis dans vos requêtes pour obtenir des résultats plus pertinents
+- Plus vous donnez de contexte et d'instructions, meilleur sera le résultat[3]
+- Utilisez l'outil pour des tâches variées : rédaction de posts sociaux, plans de contenu, résumés, etc.
+- N'hésitez pas à modifier et personnaliser le texte généré
+## Limites à connaître
+- Version gratuite : limitée à 25 utilisations par mois
+- Version Pro/Équipe/Éducation : 250 utilisations par cycle de facturation

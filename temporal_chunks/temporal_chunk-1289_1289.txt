@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 10
+
+=== CONTENU ===
+21/11/2024, 09:02 - Clément Cahagne: Oui, bien sûr. J'ai souvent à corriger des exercices faits par mes apprenants qui doivent faire des promptes, par exemple, sur ChatGPT. Je leur propose des modèles ou des méthodes, et moi, je corrige ensuite chaque exercice individuellement. Ça prend pas mal de temps, parce qu'il faut que j'analyse finalement l'ensemble de la discussion entre ChatGPT et l'apprenant. En général, ce que je faisais, c'est que je regardais la discussion, et une fois que j'avais regardé la discussion, je revenais sur ma plateforme de formation pour faire un commentaire. Je faisais pas mal d’allers-retours.
+Là, avec Wispr, j’ouvre un document à côté et je parle en fait directement à mon document en commentant les échanges entre l'apprenant et ChatGPT à l’oral. Donc, ça me permet de corriger ultra vite
+21/11/2024, 09:03 - Rochane: @33675775911 , tu pourrais en faire une petite démo lors de notre prochain live , probablement le 12 décembre ?
+21/11/2024, 09:04 - Clément Cahagne: Pas sûr d’être dispo ce jour là, y’a Apéro Pédago sur Paris 😉 Dès que j’en sais plus sur ma potentielle présence je te dis
+21/11/2024, 09:06 - Vincent DROUOT: La base d’entraînement des LLM sont principalement basés sur deux grosses bases de données de livres, appelées Book 1 et Book 2, c’est ce qui en fait l’intérêt. Les contenus internet ont été plus sélectifs. 🙂
+21/11/2024, 09:08 - Clément Cahagne: Tu as les sources de cela Vincent ? Ca m’intéresse ! 🙂
+Je mets aussi cette petite phrase pour éviter qu'il aille piocher n'importe où. Mais en plus, je charge des documents et je lui demande de s'appuyer uniquement sur les documents. En général, ça aide quand même beaucoup à la pertinence des réponses
+21/11/2024, 09:09 - Vincent DROUOT: Et ce que l’on dit souvent en ingénieurie IA, considèrer un ChatGPT (ou autre LLM) comme un moteur de recherche web (comme Google), c’est comme en jardinage on confondait un rateau et une bêche.
+Ce sont des outils totalement différents ☺️
+21/11/2024, 09:09 - Rochane: Si vous faites du RAG, alors y a pas mieux que NotebookLM .

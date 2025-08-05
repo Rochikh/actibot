@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 15
+
+=== CONTENU ===
+Elicit
+Elicit est un outil qui aide les chercheurs à structurer et à organiser leur revue de littérature. Il permet de poser des questions de recherche, de trouver des articles pertinents, et de synthétiser les résultats. Elicit facilite également la prise de notes et la création de tableaux pour comparer les études.
+Research Rabbit
+Research Rabbit est un outil qui aide à découvrir de nouveaux articles et auteurs en se basant sur des publications déjà lues. Il crée des "cartes" de recherche qui montrent comment les articles sont interconnectés, ce qui est utile pour explorer des thèmes et des tendances dans la littérature. Ces outils, en complément de ceux déjà mentionnés, offrent des fonctionnalités uniques qui peuvent enrichir le processus de revue de littérature en facilitant la recherche, l'analyse et la synthèse des informations.
+06/08/2024, 22:42 - Gregoire IA: mais @221774242616 a raison, les IA donnent des reponses superficielles, il faut y aller de manière iterative
+06/08/2024, 22:42 - +33 6 76 04 48 20: Un chatGPT peut faire l’affaire.
+Le succès de l’opération réside dans la qualité du prompt.
+Pour plus de sécurité faites le en doublons avec Copilote.
+Mais attention ⚠️  vous risquez de tomber dans le piège : ne faites pas faire votre travail par l’IA ! Elle n’a d’intelligence que le nom. Rien ne remplacera la qualité de votre analyse !
+06/08/2024, 22:44 - +237 6 56 90 71 30: Mais si j'ai mon mot à dire. Rien ne vaut la lecture personnelle des "papiers" au lieu de s'abandonner totalement à l'IA. Le risque de confabulation est aussi très élevé.
+06/08/2024, 22:43 - Gregoire IA: @33676044820 attention, chatgpt hallucine encore beaucoup et meme 4o donne des liens encore trop souvent bidon
+06/08/2024, 22:45 - +33 6 76 04 48 20: Merci pour l’avertissement !
+Raison de plus pour ne pas tomber dans le piège de la facilité…
+06/08/2024, 22:43 - Gregoire IA: il faut y aller avec des outils dédiés à ce type de travaux
+06/08/2024, 22:44 - Gregoire IA: pour l’analyse des documents on a ExplainPaper

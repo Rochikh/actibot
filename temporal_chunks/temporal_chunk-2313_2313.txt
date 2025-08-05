@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 22
+
+=== CONTENU ===
+Pour nourrir cette démarche, nous avons besoin de contribution en répondant au questionnaire suivant :
+https://docs.google.com/forms/d/e/1FAIpQLSfLVqsCgQBQ4NnVKabWr0psrqGm4DFM5JeD-VqKZUZEuE2Umg/viewform
+10/07/2025, 07:29 - Rochane: Vous avez supprimé ce message
+10/07/2025, 07:35 - ‎+961 76 159 844 a changé de numéro de téléphone. Appuyez pour envoyer un message ou ajouter le nouveau numéro.
+10/07/2025, 08:00 - +32 495 90 36 66: Bonjour, mon beau-fils, termine son master à l'ULB et réalise un mémoire sur l'ambiguïté linguistique en comparant réponses humaines et des LLMs. Si vous avez un quart d'heure à consacrer à la science, cela l'aiderait énormément. Je posterai son travail ici si cela vous intéresse.
+https://docs.google.com/forms/d/e/1FAIpQLSfwkfkVSLD_Mgr3Z-pLicNygFPXmvBp0euJw66OKajHMbWboA/viewform
+10/07/2025, 08:30 - +33 6 84 64 62 57: Bonjour,
+Mammouth a lancé son API.
+On peut avoir 15 jours gratuits donc je vais essayer je pense.
+10/07/2025, 08:45 - +33 6 21 89 15 18: Merci 🙏 d’avance
+10/07/2025, 08:55 - +33 6 72 75 43 48: Merci beaucoup un lien pour en bénéficier ? Bonne journée
+10/07/2025, 09:35 - +33 6 84 64 62 57: https://mammouth.ai/
+Vous pouvez prendre contact avec un commercial.
+Le code que j'ai reçu par l'un deux est TEAMTRIAL06   pour essai 15 jours.
+Je ne sais si actif pour d'autres.
+10/07/2025, 12:07 - +33 6 75 50 01 00: Hello,
+L'un de vous connait-il bien MyMaia ? Je suis preneuse d'informations sur cette IA.
+10/07/2025, 22:29 - Votre code de sécurité avec ~ Phil a changé. Appuyez pour en savoir plus.
+11/07/2025, 09:23 - +33 6 84 64 62 57: Mammouth suite :
+J'ai reçu une réponse plus précise hier
+"Oui, vous pouvez créer des assistants personnalisés sur Mammouth : nous appelons cela des “custom mammouths” ou “projets mammouths”. Vous pouvez leur attacher des instructions et des fichiers (voir : https://info.mammouth.ai/docs/mammouth-assistant-tutorial/).
+Concernant Make, notre nouvelle API devrait permettre l'intégration sans difficulté, via un plugin LLM ou celui d'OpenAI. Toutes les infos ici : https://info.mammouth.ai/docs/api-quick-start/"

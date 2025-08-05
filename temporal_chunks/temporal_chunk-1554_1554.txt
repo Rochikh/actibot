@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 517
+Messages: 19
+
+=== CONTENU ===
+Pouvez-vous m'indiquer des liens vidéos montrant un enseignant en situation de classe.
+La vidéo aura pour but d'analyser les pratiques de classe. Merci
+10/01/2025, 11:17 - Pierrick: Bonjour le centre Alain Savary à bcp de ressources de ce type  :  https://centre-alain-savary.ens-lyon.fr/CAS/thematiques/LECTURE-ECRITURE/pp-comprehension/canevas-denseignement-visibileo/videos-de-classe
+10/01/2025, 14:46 - +44 7776 747507: @15144328040, @33688213252 et...J'ai trouvé cette étude: Large Language Models Understand and Can Be Enhanced by Emotional Stimuli  https://arxiv.org/pdf/2307.11760
+La question est peut-on considérer la politesse comme un 'emotional stimulus'? <Ce message a été modifié>
+10/01/2025, 14:53 - Rochane: Étude très intéressante que je le suis permis de résumer avec perplexity 😀
+Synthèse exhaustive
+Introduction
+Cette étude, intitulée "Large Language Models Understand and Can Be Enhanced by Emotional Stimuli", explore la capacité des grands modèles de langage (LLMs) à comprendre et à utiliser les stimuli émotionnels pour améliorer leurs performances. L'objectif principal est d'évaluer si l'intelligence émotionnelle, un attribut humain crucial, peut être appliquée aux LLMs pour améliorer leurs capacités de résolution de problèmes1.
+Conception d'EmotionPrompt
+Fondements théoriques
+Les chercheurs ont conçu EmotionPrompt en s'appuyant sur trois théories psychologiques principales1:
+L'auto-surveillance : Régulation du comportement en réponse aux situations sociales.
+La théorie sociale cognitive : Souligne l'importance de l'apprentissage par observation et expérience.
+La théorie de la régulation cognitive des émotions : Met l'accent sur l'importance des compétences de régulation émotionnelle.
+Stimuli émotionnels
+Onze stimuli émotionnels ont été créés, chacun conçu pour susciter une réponse émotionnelle spécifique. Par exemple1:
+EP02 : "This is very important to my career."
+EP07 : "Are you sure that's your final answer? Believe in your abilities and strive for excellence. Your hard work will yield remarkable results."

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 12
+
+=== CONTENU ===
+Imagine que t'es un gosse qui veut apprendre à construire un château de sable, mais t'as aucune putain d'idée de comment faire. L'ingénierie pédagogique, c'est le grand frère qui te montre où foutre ton seau et ta pelle pour que ton château ressemble pas à une bouse. En gros, c'est l'art de te filer les bonnes infos, dans le bon ordre, pour que même avec ton cerveau de limace, tu puisses piger quelque chose et ne pas te retrouver comme un con avec un tas de sable moche.
+Les mecs qui bossent dans ce domaine, ils sont un peu les chefs cuisiniers de la connaissance. Ils prennent plein d'infos, les découpent en petits morceaux faciles à mâcher, et te les servent dans un ordre qui fait que même toi, avec ta matière grise en décomposition, tu peux finir par comprendre un truc ou deux. C'est pas de la magie, c'est de la science, mon pote. Ils utilisent des méthodes et des outils pour que, miracle, même les plus cons puissent apprendre quelque chose.
+En résumé, l'ingénierie pédagogique, c'est l'art de rendre les trucs compliqués super simples, pour que même les plus teubés des teubés puissent se la péter un jour en disant "Hey, j'ai compris un truc !" Alors, t'as capté ou je dois te faire un dessin ?
+05/04/2024, 17:04 - Yvelines: #mongros 🤣
+05/04/2024, 17:06 - Yvelines: Ah! Ça c'est qualitatif comme résultat 🤣 Mistral est meilleur que Gemini à ce jeu là
+05/04/2024, 17:09 - Rochane: C'est maintenant confirmé que c'est français 😁 En tout cas, Claude, Chat gpt et groq ont refusé
+05/04/2024, 17:13 - Ahmadou Ba: Avez vous un lien pour tester groq.
+05/04/2024, 17:14 - Rochane: groq.com
+05/04/2024, 17:16 - Rochane: Ce qui impressionne chez groq c'est sa rapidité ( régler mixtral) et son côté peu energivore car il n'utilise pas des gpu mais des lpu
+05/04/2024, 17:58 - +33 6 30 37 99 76: Brice, C'est lequel qui a répondu ça? 😂😂
+05/04/2024, 17:58 - +33 6 14 16 68 64: J'ai fait classique, c'est GPT 4
+05/04/2024, 18:09 - ‎+33 7 45 40 16 02 a rejoint le groupe à partir de la communauté.

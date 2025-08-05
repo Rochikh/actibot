@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 16
+
+=== CONTENU ===
+19/11/2023, 15:52 - Rochane: Vous avez supprimé ce message
+19/11/2023, 20:30 - Rochane: Un GPT qui cherche des GPTs, c'est une idée que j'ai eue et qui doit probablement avoir été réalisée par d'autres. Je vous présente donc Chercheur⋅euse GPT, iel recherche et partage les meilleurs GPT publics correspondant aux mots-clés fournis, en fournissant des informations concises et des liens directs
+https://chat.openai.com/g/g-nBoOihBM5-chercheur-euse-gpt
+19/11/2023, 21:53 - Jacques BARATTI: Superbe idée !
+20/11/2023, 10:26 - Jacques BARATTI: J'ai testé, apparemment le GPT ne donne pas des liens pour se connecter directement aux GPTs d'OpenAI. Est-ce exact ?
+20/11/2023, 10:28 - Rochane: Il donne normalement les liens à la fin avec un petit numéro cliquable
+20/11/2023, 10:29 - Jacques BARATTI: Le site "All GPTs! #1 GPT Directory" référencie plus de 500 liens (on peut communiquer son lien !) https://allgpts.co/
+20/11/2023, 10:30 - Rochane: Tu peux le rajouter dans la base de connaissances bit ly/iaedu10 🙂
+20/11/2023, 10:31 - Jacques BARATTI: <Médias omis>
+20/11/2023, 10:34 - Rochane: <Médias omis>
+20/11/2023, 10:45 - Jacques BARATTI: <Médias omis>
+20/11/2023, 10:48 - Jacques BARATTI: C'est fait ! J'ai vue le site https://gptdirectory.cc/ récemment déposé dans la banque de données pas mal 17 000 références. sauf que je n'ai pas trouvé de moteur de recherche avec mots clefs, seulement 4  catégories. j'ai loupé quelque chose ?
+20/11/2023, 10:51 - Rochane: gros problème qu'ils n'aient pas mis d'outil de recherche effectivement
+20/11/2023, 11:09 - Jacques BARATTI: Lettre Intelligence Artificielle n°19 du 20 novembre 2023 : https://bit.ly/3SPrnim (les numéros précédent sont ici : https://bit.ly/46Vgxfd) Bonne lecture
+20/11/2023, 12:56 - David Corona: Bonjour à tous,
+Je vois que ChatGPT est très populaire. Cependant, il y a des questions sur la sécurité des données. Savez-vous s’il y a d’autres outils émergents utilisés par des universités ou grandes entreprises, ou est-ce que ChatGPT domine toujours le marché ?

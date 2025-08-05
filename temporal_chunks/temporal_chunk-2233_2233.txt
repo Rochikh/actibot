@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 20
+
+=== CONTENU ===
+09/06/2025, 09:44 - +33 6 64 47 07 94: Cette signalisation est essentielle. Utiliser l'IA et dire à quel niveau, c'est aussi montrer maîtrise et/ou honnêteté
+09/06/2025, 15:38 - Rochane: Je suis en train de préparer le prochain live du mardi 24 juin. Si des personnes souhaitent partager des usages ou outils en lien avec l'IA et l'éducation, il reste 2 ou 3 créneaux de 10 minutes. Merci de me contacter en privé 🙂
+09/06/2025, 20:28 - Votre code de sécurité avec ~ Fati a changé. Appuyez pour en savoir plus.
+09/06/2025, 21:29 - StéphaneIA: On en parle souvent ici de la localisation des données, Gemini pour Google workspace et compatible avec le localisation des données en Europe. Vous pouvez donc demander que votre environnement workspace de stocker et processer les données en Europe. Chez les fournisseurs américains Google est les seuls avec ce niveau d'exigence je pense.
+https://workspaceupdates.googleblog.com/2025/06/data-regions-support-for-gemini-features-in-google-workspace.html
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +216 97 315 957: Ce message a été supprimé.
+09/06/2025, 23:16 - +33 6 33 38 60 24: ?
+09/06/2025, 23:21 - +32 475 86 01 57: Chat GPT connecté à Notion est déjà pas mal je trouve
+09/06/2025, 23:26 - +32 470 06 82 01: Il est possible de connecter les deux?
+09/06/2025, 23:42 - +32 475 86 01 57: Via le desktop chatGPT tu peux avoir accès à des pages notion.
+09/06/2025, 23:42 - +32 475 86 01 57: C’est pas dingue mais c’est déjà pratique

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 15
+
+=== CONTENU ===
+J'utilise canva.com pour la mise en page. Niveau contenu c'est facile, par contre je perds un temps fou pour me décider sur le "comment agencer, de manière optimale, la mise en page" car je ne suis bien évidemment pas graphiste 😅Auriez-vous des astuces svp? D'avance merci.
+25/10/2024, 20:34 - +41 76 372 28 94: https://www.usine-digitale.fr/article/manuscry-quand-les-robots-ecrivent-comme-les-humains.N2075711
+25/10/2024, 20:37 - Jacques BARATTI: Merci Christian. Si j'ai bien compris ce sont des robots qui transcrive un texte numérique en écriture manuelle. Il faut donc être sur place...
+25/10/2024, 20:40 - +41 76 372 28 94: Ça ne doit pas être très difficile à fabriquer... Au 18e siècle on savait déjà le faire ! https://www.mahn.ch/fr/expositions/automates-jaquet-droz
+25/10/2024, 20:40 - Jacques BARATTI: En fait ils proposent des services payants pour envoyer des courriers aux personnes qu'on leur fournit
+25/10/2024, 20:46 - +41 76 372 28 94: Voilà, j'ai trouvé un plan dans la description de cette vidéo :
+https://youtu.be/CW3tCkms7oM?feature=shared
+Après pour la partie logiciel et surtout pour trouver une font qui va bien, il faut certainement un petit peu de travail, mais ça doit être sympa comme projet, surtout si tu essaies de lui faire imiter ta propre écriture.
+25/10/2024, 20:47 - +41 76 372 28 94: https://www.instructables.com/DIY-Homework-Writing-Machine/
+Une autre ressource.
+25/10/2024, 21:13 - Jacques BARATTI: Ce sont des machines (robots) genre imprimante 2D qui port un stylo qui écrit sur une feuille de papier. En fait je cherche une IA qui le ferait automatiquement un peu comme le site Caligrapher.ai (https://www.calligrapher.ai/) qui fonctionne bien mais il est limité à 50 caractères
+25/10/2024, 21:16 - +41 76 372 28 94: Je n'imaginais pas que c'était possible !
+25/10/2024, 21:18 - Fred IA: Bonsoir. Peut-être tester du côté de visme : https://www.visme.co/fr/
+25/10/2024, 21:39 - +33 6 19 75 63 49: <Médias omis>
+25/10/2024, 21:57 - martinyemani IA: *Appel à la collaboration* :

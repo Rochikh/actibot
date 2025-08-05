@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 18
+
+=== CONTENU ===
+22/11/2024, 21:08 - Gregoire IA: juste pour ne pas me plagier moi meme 😛
+https://youtu.be/6kHx4aQgeNI
+22/11/2024, 21:08 - Francois Bocquet: Deepl peut aussi corriger du texte
+22/11/2024, 21:08 - Gregoire IA: et oui, au Quebec on peut aussi... s'autoplagier !
+22/11/2024, 21:08 - Rochane: c'est pour ça que dans mes ennoncés, j'insiste de relater des expériences personnelles
+22/11/2024, 21:09 - +237 99148639: null
+22/11/2024, 21:09 - +237 99148639: Je comprend trèsbien , sauf j'ai soumis un texte académique dans un cadre de recherche, avec la volonté de produire un travail idéal je me suis fais aidé par certaine IAGet il s'est avéré que tous les textes générés par L'IAG ont été identifié par le fameux détecteur D'IA dont le nom me reste caché. Du coup il faut tout reprendre à zéro avec disent t'ils un taux de génération de pas plus de 5% du texte par L'IA
+22/11/2024, 21:10 - Gregoire IA: dans cette video du début d'année je donnais qques pistes pour évaluer autrement et rendre l'utilisation  meme de lIA absurde
+il y aurait qques nouvelles pistes mais le fond reste =
+22/11/2024, 21:10 - Rochane: D'ailleurs, si mes étudiant⋅e⋅s nous lisent, qu'ils ou elles se manifestent 😁
+22/11/2024, 21:10 - Rochane: Vous avez supprimé ce message
+22/11/2024, 21:11 - Gregoire IA: on pourrait parler de monter des quiz à l'épreuve de l'IA
+si si on peut... même à distance et meme.... en asynchrone
+22/11/2024, 21:12 - Gregoire IA: en tout cas avec Moodle j'avais monté une formation
+celui qui arrive à tricher est celui qui aurait eu de toutes manières 20/20 <Ce message a été modifié>
+22/11/2024, 21:15 - +33 7 84 33 02 62: Une des solutions pour moi consiste à évaluer non plus le produit mais le processus …
+22/11/2024, 21:16 - Rochane: C'est exactement ce que je vais vous partager un dispositif sur l'évaluation du processus que je viens de boucler 😀
+22/11/2024, 21:19 - Gregoire IA: mon approche pour les evaluations qui ont besoin de valider les niveaux simples comme les connaissances et la compréhension consiste à y aller sur la gestion du volume des questions + intégrer plusieurs niveaux d'aléatoire (mélanger les questions, les options de réponses et si le cours est assez mature : piger des questions de manière aleatoire pour que les étudiants n'aient pas tous le meme lot de questions)

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 15
+
+=== CONTENU ===
+18/03/2025, 14:37 - ‎+32 473 83 02 46 a rejoint ce groupe grâce à son lien d’invitation
+18/03/2025, 21:14 - ‎+33 7 66 01 20 58 a demandé à rejoindre le groupe.
+19/03/2025, 08:38 - Votre code de sécurité avec +596 696 43 71 67 a changé. Appuyez pour en savoir plus.
+19/03/2025, 10:02 - Francois Bocquet: Google a une fois de plus étendu les capacités de Gemini avec l’introduction de « Canvas », un nouvel espace de travail interactif conçu pour rationaliser la création de contenu et le codage.  (En) https://chromeunboxed.com/canvas-in-gemini-is-googles-new-interactive-space-for-creators-and-developers/
+19/03/2025, 10:06 - Francois Bocquet: Google vient de déployer Audio Overview sur Gemini, apportant une fonctionnalité très appréciée du public de NotebookLM pour aider les utilisateurs à mieux digérer de grandes quantités d'informations. (En) https://chromeunboxed.com/you-can-now-get-googles-popular-podcast-like-audio-overviews-right-in-gemini/
+19/03/2025, 11:27 - ‎+33 6 25 51 76 63 est parti·e
+19/03/2025, 11:45 - ‎+33 7 66 01 20 58 a rejoint le groupe à partir de la communauté.
+19/03/2025, 11:45 - ‎+32 497 37 93 75 a rejoint ce groupe grâce à son lien d’invitation
+19/03/2025, 11:45 - Rochane: Ce serait bien de partager les tests s'il quelq'un l'a essayé !
+19/03/2025, 11:48 - Rochane: Ça n'a pas l'air d'être gratuit
+19/03/2025, 12:18 - +33 7 86 18 83 63: C'est donc accessible par API ? Si c'est le cas c'est génial
+19/03/2025, 13:18 - +33 6 42 26 64 70: Enfin un protocole qui unifie et simplifie les connexion multiples API !
+https://itsocial.fr/logiciel-agilite/logiciel-agilite-articles/mcp-le-protocole-qui-comble-les-carences-des-api/
+19/03/2025, 13:20 - +33 6 42 26 64 70: Et quelqu’un dans ce groupe a-t-il déjà installé n8n sur un de ses serveurs ? Et si oui, quels sont les écueils rencontrés ? Merci 🙏
+19/03/2025, 13:41 - +32 479 82 01 20: J'ai installé n8n sur un serveur VPS (Hetzner) via Coolify et aucuns soucis! Cela se fait en quelques clics. Cloudron aussi est une bonne alternative à Coolify mais un peu plus cher.

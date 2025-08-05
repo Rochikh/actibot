@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 9
+
+=== CONTENU ===
+31/07/2024, 18:01 - Cyrille CARTERET: Bravo, c'est top
+le résultat est très cohérent, mais un peu long pour entrer sur une fiche programme pour moi
+31/07/2024, 18:01 - Clément Cahagne: Les grands esprits se rencontrent 😉
+31/07/2024, 18:01 - Clément Cahagne: Sur une fiche programme tu es plutot sur des objectifs pédagogiques globaux en général. Ou si partiels : retirer l’évaluation et éventuellement les conditions
+31/07/2024, 18:12 - Ahmadou Ba: Essayez Diffit ou Magic school, elles sont nombreuses les IA orientés pedagogie. D'ailleurs bcp de plateformes traditionnelles integres des outils IA pour optimiser leurs offres.
+Mais signalez tout à l'heure cela depend de la posture que tu veux adopter, des methodes, des ressources que tu veux obtenir. Les IAGEN sont de veritables couteaux suisses, elles peuvent tout faire, il suffit de savoir demander (prompt). Moi personnellement je sors rarement de la plateforme d'openAi. Quand j'ai besoin de quelques choses je crée un GPT.
+31/07/2024, 18:45 - Vincent DROUOT: Hello Stéphanie, c’est justement mon métier, je me suis spécialisé dans l’élaboration de prompts dédiés à l’ingénierie pédagogique et la conformité Qualiopi et je donne des formations aux formateurs, enseignants, concepteurs et ingénieurs pédagogiques pour transmettre de bonnes méthodes en prompt engineering pour obtenir les résultats qu’ils attendent.
+Et après pas mal d’expérimentation, je me sers de plusieurs IA différentes selon le besoin pédagogique. Par exemple, j’ai récemment eu besoin de faire découper des (30) plans de formation en demi-journée avec ajout d’exercices pratiques, et ChatGPT a, comme à son habitude, bâclé le travail à la fin (il manque de ressources serveur chez OpenAI) donc il c’est permis de réécrire la fin des programmes de formation !!! 😱😂 alors que son cousin (le meilleur ouvrier de France) Claude 3.5 Sonnet (et même Claude 3 Opus) ont tout retravaillé aux petits oignons.
+Pour des déroulés pédagogiques en automation (1500 tableaux en 24h au lieu de 3000 heures) cela fonctionne très bien avec Make et GPT 4 Turbo, par exemple.

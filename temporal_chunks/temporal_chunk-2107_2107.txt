@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 618
+Messages: 10
+
+=== CONTENU ===
+C est un point de vue.
+20/04/2025, 17:33 - +33 6 71 11 12 91: Il est légal pour un policier de tirer avec une arme à feu sur un refus d'obtempérer. En 1940, De Gaulle était illégal et condamné. En 1945, Pétain était condamné.
+Et il n'est pas légal de contester certains projets, même quand l'action est appuyée par le secrétaire général de l'ONU. (Ex; A69)
+C'est en effet une question de point de vue...
+20/04/2025, 19:13 - Francois Bocquet: Oui c’est d’ailleurs le point de vue de la majorité en démocratie. Une fois les débats éthiques stabilisés les représentants elus élaborent des lois qui sont des règles communes que chacun doit respecter. Mon point de vue est que l’éthique se discute mais que la loi s’applique. L’éthique est personnelle et la loi s’applique à tous. L’éthique seule ne peut valoir loi. Mais la loi décidée par la majorité peut être non éthique aux yeux de certains. Mais c’est la loi ;-)
+20/04/2025, 19:15 - Francois Bocquet: Pour l’A69 ou Ste Soline ce qui est illégal c’était la répression et pas la faculté de s’opposer. D’ailleurs la loi a finalement donné raison aux opposants dans les deux cas. Il est toujours légal de contester mais pas légal de le faire violemment. A la fin les gentils gagnent toujours (en démocratie).
+20/04/2025, 19:30 - +33 6 71 11 12 91: Exact, il était légal de contester, je me suis trompé, mais ce n'est pas ce qu'ont perçus ceux qui contestaient... 😢
+21/04/2025, 07:17 - +33 6 64 50 56 67: Ca n a jamais fonctionné sur mon IPhone, je ne sais pas pourquoi
+21/04/2025, 09:00 - +33 6 34 15 77 84: Idem je suis très contente de Plaid qui permet non seulement de retranscrire toute réunion ou conversation téléphonique mais aussi de les résumer et ce de manière très fiable 🤗
+21/04/2025, 10:55 - Nicolas Deguerry: Je l'ai acheté lors de la campagne de crowdfunding et je l'utilise depuis décembre 2023. Cela simplifie énormément les transcriptions mais je ne suis pas aussi enthousiaste que certains quant au rendu. Je trouve Dicte, IA française citée par Rochane, beaucoup plus performant, notamment dans la gestion de locuteurs multiples. Au-delà de la transcription, Plaud est connecté à GPT-4o, Claude Sonnet 3.5 et 03-mini (en beta). Différents modèles de résumés sont proposés (conférence, questions/réponses, points clés, ...) mais on peut aussi créer ses propres prompts. Côté prix, différents tarifs sont proposés en fonction du quota de transcription. Je paie 7,49 euros par mois pour 1200 minutes.

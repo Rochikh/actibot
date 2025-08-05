@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 521
+Messages: 22
+
+=== CONTENU ===
+26/03/2025, 09:53 - +34 683 61 41 61: C'est vrai que c'est plus propre qu'avant au niveau du texte même si des termes n'existent pas ! Heureusement qu'un maçon ne suit pas ce plan 😜
+26/03/2025, 09:53 - +33 6 75 41 23 05: Perso ça m’épate et ça me fait pleurer. Je fais de la BD avec ce personnage en mode traditionnel. Pour faire une planche de ce type, il me faut au moins 5 heures de travail.
+26/03/2025, 09:55 - +33 6 03 20 84 81: <Médias omis>
+26/03/2025, 09:55 - +33 6 75 41 23 05: Et là je n’ai rien à redire sur la qualité du graphisme de la planche, sa composition, sa coloration, que j’ai obtenue en 5 minutes. Juste la police de caractère et une coquille ou deux à modifier je dirais. <Ce message a été modifié>
+26/03/2025, 09:59 - StéphaneIA: le modèle derrière ces images c'est dall-e 3 ?
+26/03/2025, 10:01 - +33 6 52 73 73 42: Les résultats restent bluffants ... est-il possible de partager les prompts qui ont permis de les obtenir !? (pour guider les néophytes !)
+26/03/2025, 10:02 - +33 6 49 84 08 41: Faut la version payante ou c'est possible aussi en gratuit ?
+26/03/2025, 10:07 - +33 6 75 41 23 05: « Créer une image  un comics de 4 cases : # Darwin et le Secret de l'Île Mystérieuse
+## Case 1 :
+*Jeune Darwin descend d'un petit bateau.*
+Texte : "Encore une île à explorer ! Qui sait quelles merveilles de l'évolution m'attendent ?"
+## Case 2 :
+*Jeune Darwin pointe sa loupe vers un buisson bizarre.*
+Texte : "Mon Dieu ! Est-ce que... ces plantes jouent aux échecs ?!"
+## Case 3 :
+*Un échiquier végétal est clairement visible, avec des feuilles déplaçant des pièces.*
+Texte : "Une adaptation jamais vue ! Les végétaux développent une intelligence stratégique !"
+## Case 4 :
+*Jeune Darwin rit aux éclats, entouré de ses notes incompréhensibles.*
+Texte : "La nature me surprendra toujours ! Personne ne me croira... mais j'ai les preuves !" « <Ce message a été modifié>
+26/03/2025, 10:08 - +33 6 52 73 73 42: ... tt "simplement" !! Merci
+26/03/2025, 10:11 - +33 6 75 41 23 05: Ce qui est impressionnant est la conservation du personnage dans la planche

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 17
+
+=== CONTENU ===
+02/10/2024, 18:43 - +33 7 86 61 52 66: Ça sent l’analyse des évaluations nationales 🤣🤣
+02/10/2024, 18:44 - +33 7 86 61 52 66: J’ai essayé… pas très très précis
+02/10/2024, 18:44 - +33 7 86 61 52 66: 😅😇🤫
+02/10/2024, 19:21 - ‎+33 6 06 75 16 58 est parti·e
+02/10/2024, 20:15 - Francois Bocquet: Attention à la transmission de données à caractère personnel à Open AI ou a d’autres services surtout pour les évaluations nationales ! Même pour faire des essais. La ligne rouge est clairement dépassée et vous vous exposez à des sanctions qui pourraient être graves. Toujours ces problèmes de conformité RGPD !
+02/10/2024, 20:24 - +33 6 64 48 37 32: Et surtout d’éthique.
+02/10/2024, 20:25 - Francois Bocquet: Exact mais ça dépend de la perception de chacun alors que le droit s’applique à tous : « dura lex sed lex »
+02/10/2024, 21:27 - Gregoire IA: @33662364404 il sufffit d'anonymiser les données > remplacez les noms par des ID que seul vous pouvez reconnaitre et cela suffira
+02/10/2024, 21:29 - Gregoire IA: aussi, on peut activer les discussion éphémères pour ne rien communiquer > = avec POE qui le fait par defaut pour tous les LLM officiels, mais oui, RGPD ou loi 25 (au Qebec), on ne doit pas communiquer des infos perso
+02/10/2024, 21:30 - +33 6 64 48 37 32: Encoder
+02/10/2024, 21:31 - Gregoire IA: la recommandation est valable aussi pour toute evaluation de projet, ca aide bien et surtout l'IA est capable de faire des recoupements pas toujours facile à analyser
+03/10/2024, 08:17 - +32 484 68 10 13: Bonjour à toutes et à tous . Avez-vous des chouettes Podcast sur L IA ? Niveau technique, éthique etc ... merci d avance !
+03/10/2024, 08:19 - Rochane: https://antidote-digital.com/blog/meilleurs-podcasts-ia/?utm_source=perplexity
+03/10/2024, 08:21 - +32 484 68 10 13: Merciiiii !
+03/10/2024, 09:01 - Rochane: Bravo à @33610720856
+Je participe à l’événement “Sortie du livre "Les IA textuelles en formation" de Lucie Dhorne”. Rejoignez-moi aujourd’hui.
+https://www.linkedin.com/events/sortiedulivre-lesiatextuellesen7237865619163893760

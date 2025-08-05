@@ -1,0 +1,35 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 27
+
+=== CONTENU ===
+27/09/2024, 14:31 - +221 76 125 29 15: <Médias omis>
+27/09/2024, 16:41 - +33 6 49 95 38 23: Ce message a été supprimé.
+27/09/2024, 17:28 - ‎+33 6 49 25 14 53 est parti·e
+27/09/2024, 17:34 - +33 6 49 95 38 23: Whisper https://github.com/openai/whisper
+27/09/2024, 19:43 - Adrien Bock IA: Salut à tous, je suis en train de tourner les vidéos pour faire une formation sur Microsoft Copilot. Qui est intéressé pour regarder les résultats? Je vous préviens, c’est du lourd…
+27/09/2024, 20:21 - +32 472 70 89 68: null
+27/09/2024, 20:24 - Aïcha Elouali: null
+27/09/2024, 20:24 - +33 6 49 95 38 23: null
+27/09/2024, 20:25 - Aïcha Elouali: null
+27/09/2024, 21:37 - Benoit Groupe gPT: Si quelqu’un sait comment lire les fichiers OneDrive avec Copilot, je suis preneur
+27/09/2024, 22:38 - +33 7 71 20 50 67: Je suis formateur 365 et Copilot, très intéressé pour les voir si c'est possible.. Merci d'avance.
+27/09/2024, 22:40 - Rochane: Merci de le contacter en privé
+27/09/2024, 22:40 - +212 677-525852: null
+27/09/2024, 22:41 - +33 7 71 20 50 67: @33649535198 je ne l'ai pas fait en privé ? Désolé
+27/09/2024, 22:47 - +33 6 02 20 69 43: null
+27/09/2024, 22:54 - +33 6 72 75 43 48: null
+27/09/2024, 23:14 - ‎+33 7 87 35 78 96 a demandé à rejoindre le groupe.
+28/09/2024, 09:50 - ‎+33 7 87 35 78 96 a rejoint ce groupe grâce à son lien d’invitation
+28/09/2024, 09:52 - Rochane: MAJ du chat bot de la communauté
+https://actibot.carrd.co/
+28/09/2024, 09:59 - +33 6 66 98 84 23: 👍
+28/09/2024, 10:12 - Jean-Marc Everard: Ce message a été supprimé.
+28/09/2024, 10:14 - +33 6 77 09 47 45: 👍
+28/09/2024, 10:21 - +33 6 04 41 92 84: null
+28/09/2024, 10:36 - +33 6 76 04 48 20: Merci beaucoup !!!
+C’est un excellent outil pour un gars "bordélique" comme moi… 😂
+28/09/2024, 10:40 - +41 76 372 28 94: ChatGpt et moi (enfin... plus lui que moi, pour être honnête) avons développé un site web pour donner accès aux dernières versions de ChatGpt à mes élèves. Si ça vous intéresse, les sources sont ici : https://github.com/4nd4ny/EduChat-o1/

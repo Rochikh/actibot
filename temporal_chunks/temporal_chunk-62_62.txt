@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 14
+
+=== CONTENU ===
+08/11/2023, 07:22 - +33 6 49 80 16 49: Bonjour, pour ceux que ça intéresse je vous partage le résumé de la journée OpenAI Dev Day. On y trouve les principales évolutions de Chat Gpt ainsi que les futurs développements à venir,  dont la possibilité de personnaliser/développer son propre Chat Gpt (création assistée par Chat Gpt lorsque on n’est pas développeur) et de le commercialiser sur un Store 🤯
+https://fr.techbriefly.com/resume-de-lopenai-dev-day-lia-devient-meilleure-plus-simple-et-plus-abordable-tech-79292/?utm_content=cmp-true <Ce message a été modifié>
+08/11/2023, 07:28 - Jean-Marc Everard: Bonjour, je suis très intéressé. Pouvez-vous préciser de quels plugin il s’agit ? Est-ce qu’ils fonctionnent sur Moodle 3.9 ou faut-il avoir les versions 4+?
+08/11/2023, 07:29 - +33 7 71 20 50 67: Bonjour je n'arrive toujours pas à faire fonctionner ChatGPT sur mon PC. Si qqn arrive à me sauver la vie, je suis preneur. J'ai changé d'OS, je suis passé de W10 à W11. Testé avec tous les navigateurs. Supprimé et désactivé les VPN. Nettoyé la base de registre. Rien n'y fait. Mais ça fonctionne très bien sur mon Chromebook. Merci Google et ChromeOS.
+08/11/2023, 07:30 - +33 6 49 80 16 49: Idem pour moi, je suis intéressée. Je ne trouve pas les plugins en question sur Moodle. Si quelqu’un sait où les activer 😊
+08/11/2023, 12:14 - +33 6 42 26 64 70: Bonjour à toutes et tous,
+Pour pouvoir installer un plugin dans un LMS Moodle, il vous faut avoir le rôle administrateur. Ensuite « Administration du site > plugins > installer des plugins ».
+Pour trouver les plugins, il faut aller sur Moodle.org > plugins et utiliser leur moteur de recherche.
+Les plugins concernés sont : AI text to question generator, AI text to image et Open AI chat block.
+Belle journée
+08/11/2023, 12:38 - +33 6 75 41 23 05: Je suis tjs sur l’ancienne version 🧐
+08/11/2023, 12:39 - Rochane: Pareil mais Guillaume l'a déjà 🙂
+08/11/2023, 12:45 - Guillaume CLEMENT: Jaloux @33649535198 😂
+08/11/2023, 17:16 - ‎+32 495 10 43 00 a rejoint le groupe à partir de la communauté.

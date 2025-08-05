@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 13
+
+=== CONTENU ===
+23/04/2024, 12:18 - +34 618 97 47 94: <Médias omis>
+23/04/2024, 12:20 - Jean-Marc Everard: Merci beaucoup à tous les 2!
+23/04/2024, 12:37 - +33 6 49 84 08 41: <Médias omis>
+23/04/2024, 12:39 - Clément Cahagne: <Médias omis>
+23/04/2024, 12:40 - +33 6 89 06 86 68: Tu peut le tester en te connectant gratuitement sur https://groq.com la rapidité de reponse y est impressionnante car ils utilisent une infra informatique ultra optimisé pour l'IA
+Tu as aussi les plateformes https://huggingface.co/chat/ et https://labs.perplexity.ai pour tester gratuitement differents modeles. HuggingFace te permet de creer tes propres assistants, ils proposent une marketplace comme Chatgpt mais l'interface est en anglais. Si tu as un tres bon PC, tu peut les tester en local en téléchargeant https://lmstudio.ai
+Ce qui est interessant sur BlueGPT c'est l'interface en français et la bibliothèque de prompt 😉 <Ce message a été modifié>
+23/04/2024, 13:14 - Jean-Marc Everard: Super ! Merci bcp pour toutes ses ressources. Je ne savais pas que le lab de Perplexity l’avait aussi car perso je n’ai accès qu’à ChatGPT, Claude et Mistral chez eux. Est-ce que tu as testé lmsstudio? Je cherche effectivement à installer en local et j’hésite avec qqch comme Ollama qui semble bien aussi quoique moins intuitif. Mais j’ai vraiment du mal à avoir des retours de testeurs de lmsstudio… bien qu’a priori ce soit la solution qui m’attire le plus. Sur papier mon mac devrait tenir le coup mais il faudra voir..
+23/04/2024, 13:22 - ‎+31 6 85386407 a été ajouté·e
+23/04/2024, 13:22 - ‎+31 6 85386407 a rejoint le groupe à partir de la communauté.
+23/04/2024, 13:22 - ‎+1 (715) 969-9335 a rejoint le groupe à partir de la communauté.
+23/04/2024, 13:22 - ‎+32 472 28 88 16 a rejoint ce groupe grâce à son lien d’invitation
+23/04/2024, 13:48 - +33 6 89 06 86 68: Oui pour LM Studio Il faut avoir une très bonne configuration RAM et CPU sur ton PC, l'outil te dit la compatibilité du modele avec ton PC lorsque tu le télécharge normalement.... je viens de tester Llama 3... c'est plus long que sur Groq mais cela fonctionne bien... cela ne coute rien et tu garde la confidentialité... dommage que l'on ne peut pas soumettre de fichier... <Ce message a été modifié>

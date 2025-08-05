@@ -1,0 +1,44 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 36
+
+=== CONTENU ===
+Les contraintes établies
+Les éléments à éviter/abandonnés
+La dernière version fonctionnelle
+Créer un prompt optimisé qui servira à démarrer une nouvelle conversation, en incluant :
+Le contexte essentiel du projet
+Les objectifs actuels
+Les spécifications techniques importantes
+Les préférences établies
+Précisions techniques
+Si du code a été généré, indique la dernière version stable
+Précise les dépendances ou les outils nécessaires
+Mentionne les APIs ou services externes utilisés
+Nouvelles directions
+Pour la suite du projet, je souhaite me concentrer sur [objectif spécifique]. Assure-toi que le résumé et le nouveau prompt soient alignés avec cette direction.
+Format de réponse souhaité
+Merci de structurer ta réponse en deux parties :
+Le résumé de l'existant (pour ma compréhension)
+Le prompt optimisé (que je pourrai copier-coller pour démarrer une nouvelle conversation
+29/05/2025, 22:04 - +33 6 52 73 73 42: Impecc' ! Merci Rochane
+29/05/2025, 22:32 - Rochane: <Médias omis>
+29/05/2025, 22:33 - +33 6 52 73 73 42: Au taquet Rochane ... au taquet !!
+29/05/2025, 23:22 - +33 6 66 98 84 23: Bonsoir, vous pourrez poster le lien du replay du webinaire de ce soir.
+Merci 😉
+29/05/2025, 23:28 - Rochane: Déjà le résumé du live par l'IA de Google Meet ( Gemini)
+https://drive.google.com/file/d/1QKnm6dIwvazc5WHVDF67l4iL5XJF4g1K/view?usp=drivesdk
+29/05/2025, 23:30 - +33 6 52 73 73 42: Tu ne t'arrêtes jamais ! 🤣
+30/05/2025, 06:44 - Vous avez supprimé +1 (587) 675-0843
+30/05/2025, 09:49 - +33 6 74 39 90 60: <Médias omis>
+30/05/2025, 09:49 - +33 6 74 39 90 60: <Médias omis>
+30/05/2025, 09:52 - Pierrick BRIAND: Marc et Sophie 😆
+30/05/2025, 09:53 - +33 6 52 73 73 42: Pr les + anciens d'entre nous !
+30/05/2025, 14:02 - ‎+44 7424 941167 a demandé à rejoindre le groupe.
+30/05/2025, 14:12 - ‎+1 (236) 890-1753 a demandé à rejoindre le groupe.
+30/05/2025, 17:37 - +33 7 86 18 83 63: Hello
+Genspark est super long pour créer des présentations. Vous avez un équivalent plus rapide ?
+30/05/2025, 17:43 - +32 498 78 46 36: Gamma

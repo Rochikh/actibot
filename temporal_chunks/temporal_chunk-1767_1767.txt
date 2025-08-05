@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 13
+
+=== CONTENU ===
+13/02/2025, 09:18 - +33 7 87 35 78 96: Normal de se sentir perdu ! On trouve pas mal de choses sur le net sur cette question essentielle du cout énergétique. Je viens de trouver cette étude qui re actualise certaines hypothèses.  https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use
+Vous avez aussi ce post qui donne pas mal de sources : https://intelligence-artificielle.developpez.com/actu/363731/Les-outils-d-IA-consomment-jusqu-a-4-fois-plus-d-eau-que-prevu-d-apres-une-etude-de-l-Universite-de-Californie/
+A mon humble avis les simulations les calculs estimés sont nécessaires car il faut bien répondre à ces questions mais in fine c'est en exigeant de la part de ces acteurs de l'IA une communication claire sur leur consommation d'eau et d'énergie qu'on aura une véritable idée de l'impact <Ce message a été modifié>
+13/02/2025, 09:26 - Rochane: *Synthèse exhaustive*
+L'étude réalisée par Epoch AI présente une analyse approfondie de la consommation énergétique de ChatGPT, révisant significativement à la baisse les estimations précédentes. Cette recherche, publiée en février 2025, apporte un éclairage nouveau sur l'impact environnemental réel des modèles de langage.
+Révision des estimations énergétiques
+L'estimation communément citée de 3 watt-heures par requête ChatGPT s'avère être une surévaluation. Les nouveaux calculs, basés sur une méthodologie plus précise et des hypothèses actualisées, montrent qu'une requête typique utilisant GPT-4o consomme environ 0,3 watt-heures, soit dix fois moins que l'estimation initiale. Cette différence s'explique par l'utilisation de modèles et de matériel plus efficaces, ainsi qu'une meilleure compréhension du nombre de tokens générés.
+Méthodologie et paramètres techniques
+L'étude s'appuie sur plusieurs paramètres clés :
+Utilisation des GPU Nvidia H100 avec une puissance nominale de 700 watts
+Capacité de traitement de 989 trillion FLOP/seconde
+Hypothèse d'un taux d'utilisation de 10% pour l'inférence
+Génération moyenne de 500 tokens par requête

@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 17
+
+=== CONTENU ===
+22/03/2025, 09:31 - +33 6 52 73 73 42: Merci à ttes & ts pr vos contributions/échanges ... La seule "chose" qui manque c'est le tps pr tout explorer !
+22/03/2025, 09:48 - +33 6 71 11 12 91: C'est peut-être un détail pour vous (...)
+Je viens de lui poser la question "Dans ta base de connaissance, il y a un document sur les dernières news, résume-le moi en précisant la dernière date de mise-à-jour" et sa réponse est (après les nouvelles) :
+"La dernière date de mise à jour de ces informations est le 25 juillet 2024.".
+Possibilité de lui forcer la dernière date de mise-à-jour ? Merci @33649535198 !
+22/03/2025, 10:34 - Rochane: <Médias omis>
+22/03/2025, 11:23 - +32 498 78 46 36: Comment laisser l'IA corriger une image et augmenter la qualité, le ma pixelisation, etc ==> https://huggingface.co/spaces/jasperai/Flux.1-dev-Controlnet-Upscaler
+(j'avais essayé d'autres IA gratuites, mais celle-là fait le job avec une réelle simplicité) <Ce message a été modifié>
+22/03/2025, 12:59 - +32 475 86 01 57: Sauf que le vrai intérêt de la carte mentale c est de la faire soi même 😁
+22/03/2025, 13:01 - +33 7 87 35 78 96: Les IAs sont des outils magnifiques mais c'est à nous de penser oui !
+22/03/2025, 13:01 - +32 475 86 01 57: FBI
+22/03/2025, 13:05 - +32 475 86 01 57: C est à nous de faire pour mieux penser. Ou de de penser comment faire... Mais si l IA nous mène à croire qu on peut dissocier faire et penser, on est foutus (et je suis fan d IA)
+22/03/2025, 13:20 - +33 6 75 41 23 05: Oui je préférerais aussi un outil de construction de cartes conceptuelles
+22/03/2025, 13:44 - Votre code de sécurité avec ~ F- Bozonnet a changé. Appuyez pour en savoir plus.
+22/03/2025, 16:13 - Francois Bocquet: Quelqu’un a trouvé le moyen d’exporter les cartes mentales de NotebookLM dans un autre format que le PNG pour que ce soit reeditable ? Merci d’avance.
+22/03/2025, 17:09 - +33 6 86 05 85 44: Bonjour On peut faire des cartes mentales dans notebooklm !!! Comment ?
+22/03/2025, 17:10 - Gregoire IA: Lol, oui c'est en effet passé un peu inaperçu. NotebookLM devrait suivre les mêmes cours de marketing que ChatGPT 😅

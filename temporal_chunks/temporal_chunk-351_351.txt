@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 13
+
+=== CONTENU ===
+30/03/2024, 11:34 - +33 6 49 84 08 41: Ma première question portait sur l'intervention de Rochane
+30/03/2024, 11:35 - Rochane: C'est répondu 🙂
+30/03/2024, 11:35 - +33 6 49 84 08 41: Merci !
+30/03/2024, 11:43 - Alix van Zeebroeck: Ce message a été supprimé.
+30/03/2024, 11:46 - +33 7 45 61 40 35: null
+30/03/2024, 11:55 - Vous avez supprimé +33 7 45 61 40 35
+30/03/2024, 12:16 - +33 6 51 43 08 14: Pour l'évaluation cela dépend si les retours sont de nature quantitative ou qualitative et de l'objet de l'évaluation. Évaluer un exercice en maths ce n'est pas pareil qu'évaluer un raisonnement dans une résolution de problème ou un argumentaire. Chaque situation est différente ce qui rend l'évaluation complexe. Je pense que des situations-types seraient pas mal avec une entrée par stratégie pédagogique de l'enseignant. Les objets un peu plus abstraits à évaluer nécessitent une modélisation de l'expertise métier de l'évaluateur humain pour l'injecter dans l'IA un peu comme comme on faisait avant avec l'IA symbolique comme les systèmes experts. Pour avoir quelque chose de robuste il est intéressant de s'en inspirer et voir comment cela peut s'opérer via un LLM. <Ce message a été modifié>
+30/03/2024, 12:23 - Yvelines: Oui, je leur avais conseillé ça aussi, mais le résultat d'Evi est beaucoup plus naturel. C'est dingue!
+30/03/2024, 12:33 - Pierrick BRIAND: Ok, merci beaucoup @33666188587 . Une capsule vidéo pour se donner une idée concrète serait super cool.
+30/03/2024, 12:35 - Pierrick BRIAND: <Médias omis>
+30/03/2024, 12:37 - Rochane: Il faut absolument que l'on reparle en live en montrant et démontrant nos pratiques. Ce sera l'objet du prochain live dédié à l'évaluation avec l'IA 🙂
+30/03/2024, 13:27 - +33 6 22 42 57 92: C'est pour quand ? Que j'essaie de m'organiser...
+30/03/2024, 13:37 - Letizia ALLEGRINI: Je vais essayer de faire ça la semaine prochaine sinon vous pouvez retrouver cet exemple dans le genially du webinaire IA et unités conversationnelles https://view.genial.ly/659eaa13b7f7bb0014578c92/presentation-ia-et-unites-conversationnelles

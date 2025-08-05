@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 572
+Messages: 12
+
+=== CONTENU ===
+CRAG est comme un super-ami qui t'aide avec ton projet. D'abord, il va à la bibliothèque pour toi et trouve les meilleurs livres sur les dinosaures. Ensuite, il lit tous ces livres très rapidement et vérifie si les informations sont justes et à jour. Si quelque chose ne semble pas correct, il le corrige avec les bonnes informations. À la fin, il t'aide à écrire un super projet sur les dinosaures avec toutes les informations correctes et intéressantes qu'il a trouvées et corrigées.
+Donc, CRAG est comme un assistant magique qui t'aide à trouver et à améliorer les informations pour que tu puisses faire le meilleur projet possible !
+03/03/2024, 16:53 - +33 6 08 18 30 41: Crag est un gpt’s ? Si oui, pas encore référencé
+03/03/2024, 16:54 - Rochane: J'ai créé un GPT pour utiliser la méthode CRAG (proposée par Rochane !) il est disponible ici (https://chat.openai.com/g/g-MTr2mTF8u-utiliser-la-methode-crag)
+03/03/2024, 16:54 - +32 479 58 54 12: Le GPT proposé ce matin pour utiliser CRAG écrit de très bons articles ( bravo !)  mais ne fait pas appel à des ressources supplémentaires externes. N'est-ce pas contradictoire?
+03/03/2024, 16:54 - Rochane: Justement, notre ami @33611028249 en a créé un ce matin
+03/03/2024, 16:56 - Rochane: Ah mais moi, je lui ai donné le sujet l'IA et l'éducation et il m'a sorti un bel article avec source mais je n'ai pas cliqué dessus
+03/03/2024, 16:56 - ‎+33 7 89 06 88 77 a rejoint le groupe à partir de la communauté.
+03/03/2024, 16:57 - +33 6 08 18 30 41: Merci pour le lien. Pour le moment pas de crawling autorisé et pas de scrapping. Quelle plus value vs une gpt4 classique ? Peut etre ai-je raté qq chose
+03/03/2024, 16:57 - Jacques BARATTI: Ok je vais le mettre en public, il n'est pour l'instant accessible qu'avec le lien https://chat.openai.com/g/g-MTr2mTF8u-utiliser-la-methode-crag
+03/03/2024, 17:00 - ‎+32 476 66 05 27 a rejoint le groupe à partir de la communauté.
+03/03/2024, 17:00 - Rochane: Chat GPt plus propose un store avec de nombreux GPTs qui sont des chat GPt ultra personnalisés. La même chose existe dans Perplexity, ça s'appelle Collection et dans Hugging Chat, ça s'appelle Collection mais pas aussi avancé car on ne peut pas vraiment alimenter la base de connaissances avec des documents contrairement à chat GPt

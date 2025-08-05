@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 509
+Messages: 25
+
+=== CONTENU ===
+23/09/2024, 08:01 - Rochane: <Médias omis>
+23/09/2024, 08:04 - +33 6 49 95 38 23: Je mets le lien  vers segment anything 2 de Meta
+https://github.com/facebookresearch/segment-anything-2 il est possible de l'utiliser en conjonction avec Yolo.
+23/09/2024, 08:25 - Rochane: Tu peux expliquer stp à quoi ça sert 🙂?
+23/09/2024, 09:29 - +33 6 49 95 38 23: Comme l'a demandé @33672275791 , flouter des visages par exemple. Avec comfyui https://github.com/kijai/ComfyUI-segment-anything-2
+23/09/2024, 11:12 - ‎+33 6 76 83 15 66 a demandé à rejoindre le groupe.
+23/09/2024, 12:16 - ‎+33 6 49 25 14 53 a demandé à ajouter +33 6 67 13 24 65.
+23/09/2024, 12:23 - ‎+32 498 49 17 02 a demandé à rejoindre le groupe.
+23/09/2024, 13:05 - ‎+221 76 125 29 15 a demandé à rejoindre le groupe.
+23/09/2024, 14:12 - ‎+32 470 82 85 89 a demandé à rejoindre le groupe.
+23/09/2024, 14:23 - Adrien Bock IA: Pour ceux qui voulaient le groupe que j’ai créée il y a un an et demi sur l’intelligence artificielle dans l’enseignement : https://www.facebook.com/share/g/5ZsGK7qu2gSgXbMN/?mibextid=K35XfP
+En contenu gratuit, j’ai aussi 3h30 de tutoriels sur Udemy, IA et enseignement.
+Me contacter en privé pour l’avoir
+23/09/2024, 15:28 - Rochane: https://mylens.ai/
+Plan gratuit : 3 par jour
+🌟 MyLens est un outil basé sur l'IA pour créer des visualisations.
+📊 Il permet de générer des chronologies, des cartes mentales et des tableaux.
+📄 Les utilisateurs peuvent importer des documents ou insérer des liens.
+📤 MyLens propose des options d'exportation et de partage des visualisations.
+💰 Plusieurs plans d'abonnement sont disponibles, y compris un plan gratuit.
+👏 Le plan pro offre plus de fonctionnalités et de flexibilité.
+🧑‍🏫 Cet outil est très utile pour l'enseignement et l'apprentissage.
+Vidéo en anglais très claire au sujet de l'outil : https://www.youtube.com/watch?v=pBRYyudtGvA
+23/09/2024, 16:08 - ‎+33 6 49 25 14 53 a ajouté +33 6 67 13 24 65
+23/09/2024, 16:08 - ‎+32 470 82 85 89 a rejoint le groupe à partir de la communauté.

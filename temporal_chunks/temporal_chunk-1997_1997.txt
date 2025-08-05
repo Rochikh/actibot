@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 18
+
+=== CONTENU ===
+24/03/2025, 16:31 - +33 6 42 26 64 70: Subsidiaire mais à prendre aussi en compte dans l’avenir de l’apprentissage des langues étrangères pour les générations futures…un vrai débat de fond qui trop souvent est évité poliment https://www.01net.com/actualites/airpods-devraient-traduire-temps-reel-ios-19.html
+24/03/2025, 17:00 - +33 6 19 75 63 49: Grande réflexion à mener pour nous qui les enseignons
+24/03/2025, 17:04 - Gregoire IA: Est ce que cela change vraiment la question de fond ?
+24/03/2025, 19:22 - +33 6 64 47 07 94: Un livre traduit par différents traducteurs donne des ouvrages quelque peu différents. La traduction by IA donnera-t-elle celle de référence incontestable officielle mais dénuée d'humanité ? Si oui, quel monde sans intérêt et sans imperfection.
+24/03/2025, 19:47 - +33 6 49 84 08 41: Hello, je suis un grand fan de Notebook LM mais je le trouve peu réactif lorsqu'on coche/décoche des sources.
+En d'autres termes, même si on décoche certaines sources, il les prend quand même en compte. C'est relou
+24/03/2025, 20:24 - +44 7776 747507: Quelle est "the deadline"?
+24/03/2025, 21:01 - Votre code de sécurité avec ~ Amine Dahbi a changé. Appuyez pour en savoir plus.
+24/03/2025, 23:27 - ‎+33 6 07 80 60 88 est parti·e
+24/03/2025, 22:13 - +33 6 60 20 86 76: Pas de deadline pour l’instant. Vos remarques sont précieuses!
+25/03/2025, 06:42 - +32 475 86 01 57: A partir de la même source, tu n auras jamais deux fois la même traduction...
+25/03/2025, 09:53 - ‎Francois Bocquet a ajouté ~ IA-3S
+25/03/2025, 15:21 - Gregoire IA: <Médias omis>
+25/03/2025, 15:25 - Gregoire IA: et honnêtement, le rapport me donne les clés pour ajuster mon agent... on verra dans la démo à combien je descends 😛
+Donc, amis prof... comme on le dit de plus en plus : pas le choix que de faire évoluer les évaluations 😇
+25/03/2025, 15:31 - +33 6 89 54 90 68: Intéressant Grégoire, quel outil utilises-tu pour analyser ton texte généré ?
+25/03/2025, 15:31 - Gregoire IA: le mien 😛
+25/03/2025, 15:32 - Gregoire IA: un agent qui fait bosser Claude 3.7, DeepSeek et le Deep Search de Perplexity Sonar

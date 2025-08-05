@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 7
+
+=== CONTENU ===
+02/07/2024, 21:42 - Rochane: Je l'avais loupée, effectivement, superbe ressource. C'est fait par qui ?
+02/07/2024, 21:48 - Fred IA: "L'atelier du formateur " sur LinkedIn
+03/07/2024, 05:57 - +33 6 72 75 43 48: Bonjour à tous : quels sont vos GPTs favoris en ingénierie de formation ? Et de façon plus large en RH ? Merci d’avance bonne journée
+03/07/2024, 07:55 - Rochane: https://www.lemonde.fr/idees/article/2024/07/02/laure-de-la-raudiere-les-ia-generatives-menacent-notre-liberte-de-choix-dans-l-acces-aux-contenus-en-ligne_6246137_3232.html
+Laure de La Raudière, journaliste et écrivaine, met en garde contre les conséquences de l'utilisation des intelligences artificielles (IA) génératives sur la liberté d'accès aux contenus en ligne. L'article souligne que ces IA, capables de créer du contenu original, pourraient menacer la liberté de choix des informations consommées. En effet, la programmation de ces algorithmes en fonction des centres d'intérêt et des préférences des utilisateurs peut entraîner une "prison de la résonance".  Ce phénomène enfermerait les utilisateurs dans leurs propres biais, les privant ainsi de la confrontation à des idées et perspectives différentes. L'auteure estime que cette tendance représente une menace pour la démocratie et la diversité des opinions.  Elle plaide donc pour une plus grande transparence et une régulation des IA génératives afin d'éviter qu'elles ne restreignent la capacité d'apprentissage et de formation des utilisateurs.
+03/07/2024, 08:16 - +32 479 58 54 12: C'est déjà largement le cas avec les réseaux sociaux. Et sur les réseaux sociaux on y est soumis sans même s'en rendre compte, alors qu'avec l'IA on indique soi-même ses préférences
+03/07/2024, 11:06 - Ahmadou Ba: Oui mais les IA sont entrainées également sur les données issues des réseaux sociaux. La solution c de renforcée la personnalisation des IA laisser à l'utilisateur le choix de toute la configuration de l'outil. Même les reseaux sociaux devraient aller dans ce sens.

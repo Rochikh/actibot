@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 12
+
+=== CONTENU ===
+05/03/2025, 20:00 - +32 475 86 01 57: Moi j’ai d’assez bons résultats sur une veille pédagogique: https://chatgpt.com/share/67c89038-b2a0-800f-8914-7b74090d8841
+05/03/2025, 20:01 - +32 475 86 01 57: J’ai pas encore épluché les résultats, je ferai ça demain mais ça m’a l’ air plus que correct, meilleur que le même prompt dans perlexity deep research (Je suis en chatGPT+)
+05/03/2025, 20:35 - Letizia ALLEGRINI: Pour ceux qui s'interrogent sur la thématique de l'évaluation à l`ere de l ia vous pouvez retrouver les conferences du semaine evaluer à l ere de l ia de la région AURA https://www.linkedin.com/posts/drane-site-lyon_evaluer-%C3%A0-l%C3%A8re-de-lia-activity-7300106455628537856-2isi?utm_source=share&utm_medium=member_android&rcm=ACoAAB9dcyoBNj8XdYE-Qh6l1CuE1DQM9AmGMhs
+05/03/2025, 21:15 - +33 6 66 98 84 23: la recherche de sources documentaires et 'analyse sont pourtant pas mal.Il suffit de ne rien déposer de perso.
+05/03/2025, 21:20 - +33 6 71 11 12 91: Je n'ai fait qu'afficher l'analyse des CGU par une IA, j'aurais dû préciser "non vérifié", désolé.
+Je suis d'accord avec vous, mais quand on pose une question à une IA, pense-t-on toujours "est-ce perso" ?
+La simple localisation géographique est une info qui se vend très bien, alors quid de nos questions qui en disent beaucoup plus sur nous ?
+Peut-être suis-je parano... ou seulement prudent en raison de plus de 30 ans à traîner sur Internet, je ne sais pas... 😉
+05/03/2025, 22:09 - +41 79 258 90 36: Moi je traine aussi depuis près de 50 ans, circulant sur internet dans des coins risqués surtout dans le passé. Et oui j'ai aussi appris à être prudent. Toutefois je suis un petit poisson.
+05/03/2025, 22:18 - +33 6 71 11 12 91: 50 ans ? En France ? Hors université ou centre de recherche ?
+Le Web n'est pas le début d'Internet, mais la 1ère page connue du web date du 13/11/1990 et le 06/081991, Tim Berneers-Lee rend le projet WorldWideWeb public dans un message sur Usenet
+En janvier 1994, je n'ai trouvé aucun vendeur chez Surcouf qui connaissait le mot Internet...

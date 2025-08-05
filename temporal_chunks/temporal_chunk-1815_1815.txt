@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 21
+
+=== CONTENU ===
+22/02/2025, 16:26 - Votre code de sécurité avec +32 486 28 39 86 a changé. Appuyez pour en savoir plus.
+22/02/2025, 17:57 - ‎+33 6 17 63 66 55 a demandé à rejoindre le groupe.
+23/02/2025, 09:58 - +41 79 258 90 36: Pour ceux/celles qui cherchent un chatbot AI bon marché, open source voir https://typebot.io <Ce message a été modifié>
+23/02/2025, 10:07 - ‎+33 6 51 71 42 78 a rejoint le groupe à partir de la communauté.
+23/02/2025, 10:07 - ‎+33 6 17 63 66 55 a rejoint le groupe à partir de la communauté.
+23/02/2025, 10:18 - +32 475 86 01 57: Y a de l IA dans typebot?
+23/02/2025, 10:20 - +32 475 86 01 57: Non, me semble t il
+23/02/2025, 10:53 - Francois Bocquet: Ça permet de faire des intégrations avec de nombreux outils de type LLM comme Mistral Groq Anthropic ou openAI. Ça gère la couche d’interface avec les API de façon assez simple semble t’il. Pas encore exploré !
+23/02/2025, 11:03 - +33 6 74 39 90 60: Bonjour
+pour ceux qui aiment avoir une vision méta sur l'IA un film disponible sur France tv
+les sacrifiés de l'IA
+ça ne changera pas mon appétence pour cet outil je pense mais ça rappel une nécessaires utilisation éthique et responsable
+Pour être responsable il faut être informé
+23/02/2025, 11:05 - +33 6 86 05 85 44: Merci. Il y’a un lien ?
+23/02/2025, 11:05 - +33 6 74 39 90 60: https://www.france.tv/documentaires/documentaires-societe/6888928-les-sacrifies-de-l-ia.html
+23/02/2025, 11:07 - +33 6 74 39 90 60: oui mis a la suite
+23/02/2025, 11:08 - +33 6 86 05 85 44: Merci 🙏
+23/02/2025, 13:40 - +33 6 62 83 20 00: Bonjour à tous,
+Je cherche à concevoir des modules de formation (slides + quizz)) à partir de ressources composés de PDF, de word et de powerpoint qui contiennent du texte et des images. Quel outil IA me conseillez-vous pour faire ça (qui sache de préférence créer les diapositives et les mettre en forme) ?
+23/02/2025, 13:41 - +33 6 84 84 42 61: Co assemble
+23/02/2025, 13:42 - +33 6 84 84 42 61: Tu peux aussi faire ça avec l outil création de cours dans Canva

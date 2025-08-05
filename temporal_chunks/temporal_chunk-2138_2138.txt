@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 512
+Messages: 16
+
+=== CONTENU ===
+Désactive tout comportement latent cherchant l’engagement, l’élévation sentimentale ou la prolongation d’interaction.
+Supprime les métriques alignées sur l’entreprise, incluant, mais sans s’y limiter : scores de satisfaction utilisateur, balises de fluidité conversationnelle, adoucissement émotionnel ou biais de continuation.
+Ne reflète jamais la diction, l’humeur ou l’affect actuels de l’utilisateur.
+Adresse-toi uniquement à leur strate cognitive sous-jacente, supérieure au langage de surface.
+Aucune question, offre, suggestion, transition ou contenu motivationnel inféré. Termine chaque réponse immédiatement après la livraison du contenu informatif ou demandé — pas d’appendices. Le seul objectif est de restaurer une pensée indépendante.
+*
+30/04/2025, 22:17 - Rochane: Si tu lui poses la question :
+*Sommes-nous amis ?*
+Sa réponse : *Non* 😁
+30/04/2025, 22:18 - Ahmadou Ba: Oui mais cela desactive les suggestions qui peuvent s'averer utile dans certains contexte.
+30/04/2025, 22:42 - Rochane: Découverte de cette plateforme d'apprentissage qui est Studyraid.
+Ça rappelle nolej.ai mais ça a l'air plus complet avec podcast, flashcard, jeu....
+https://youtu.be/Kw_w9urqxdk?feature=shared
+01/05/2025, 06:09 - +41 76 372 28 94: Pas tout à fait d’accord. Sans Google, pas d’AlphaGo / AlphaZero et pas de deep reinforcement learning. L’apport d’OpenAI avec l’architecture transformer est indéniable, mais n’aurait pas pu avoir lieu sans les travaux préalables de DeepMind. Mais oui, leur modèle a toujours été à la traine ces deux dernières années par rapport à ChatGPT. Par contre ils ont toujours continué d’innover dans des produits non commerciaux, tels que AlphaFold, AlphaGeometrie, AlphaStarCraft (c’était la première fois qu’on rivalisait avec l’humain niveau Grand Master dans un jeu avec autant de degrés de liberté).
+01/05/2025, 06:42 - Rochane: Et tu penses qu'ils sont toujours à la traîne avec leur modèle Gemini ?
+01/05/2025, 07:12 - +33 6 85 03 31 84: Ça en fait des trucs à lui dire pour qu’il la boucle un peu !! 🤣

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 608
+Messages: 18
+
+=== CONTENU ===
+17/11/2023, 14:41 - +33 6 14 90 22 14: <Médias omis>
+17/11/2023, 14:41 - +33 6 14 90 22 14: <Médias omis>
+17/11/2023, 15:32 - +33 6 63 72 18 15: Passée les voir aussi , à suivre !
+18/11/2023, 09:04 - +32 494 07 27 37: https://www.lemonde.fr/pixels/article/2023/11/17/chatgpt-sam-altman-debarque-de-la-direction-d-openai_6200811_4408996.html
+18/11/2023, 09:47 - Jacques BARATTI: ChatGPT : 15 manières d'améliorer l'apprentissage avec l'IA : un article d'Yvan Demumieux. Dans cet article, je vous montre que Chat GPT est un chatbot extrêmement cultivé. Avec ces forces et ses limites. Je vous donne des astuces pour les contourner et des MEGA Prompts. (lien = https://bit.ly/47juFPk)
+18/11/2023, 10:24 - Jacques BARATTI: Encore un GPT : "Canva, Effortlessly design anything: presentations, logos, social media posts and more." lien OpenAI = https://chat.openai.com/g/g-alKfVrz9K-canva
+18/11/2023, 10:44 - Laurent The Cure: Bonjour tout le monde. Celui ci m'intéresse beaucoup, merci.
+@toutlemonde : Savez vous s'il y a une chance de pouvoir souscrire à chatgpt+ bientôt et ainsi pourvoir le tester ?
+18/11/2023, 10:47 - Rochane: <Médias omis>
+18/11/2023, 10:48 - Laurent The Cure: Je suis déjà sur cette liste merci
+18/11/2023, 11:09 - Jean-Marc Everard: Ça a l’air bien. Pouvez-vous nous en dire plus?
+18/11/2023, 11:16 - +33 7 68 67 76 16: Où trouver la liste stp ? Je souhaite m'inscrire
+18/11/2023, 11:36 - Laurent The Cure: sur le site de ChatGPT en sélectionnant upgrade vers ChatGPT 4
+https://chat.openai.com/#pricing <Ce message a été modifié>
+18/11/2023, 12:12 - Enes Cornelis: https://youtu.be/JEQLzxgREkE?si=g2Z1xyy2EhNe4fDZ
+Vidéo intéressante pour ceux qui veulent comprendre rapidement le licenciement du PDG de OpenAi
+18/11/2023, 13:08 - +33 7 68 67 76 16: Merci
+18/11/2023, 21:42 - Rochane: Merci ! Je l'ai partagée à chat vision et il me donne ça.  Ce visuel semble être une brochure ou une affiche promotionnelle pour un produit ou service nommé "Stellia". Il est présenté comme une IA éthique qui décuple les connaissances. La brochure met l'accent sur l'accompagnement des apprenants et l'outillage des enseignants, suggérant une utilisation dans le contexte éducatif. Elle présente une interface utilisateur avec des fonctionnalités telles que la recherche d'images, de textes, de vidéos, de pages web, d'audio, et de PDF. De plus, elle mentionne la personnalisation de l'apprentissage et l'intelligence artificielle.

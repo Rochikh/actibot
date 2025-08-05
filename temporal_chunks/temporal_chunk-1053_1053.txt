@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 12
+
+=== CONTENU ===
+10/10/2024, 14:20 - Pierrick BRIAND: *Des nouvelle du côté de ChatGPT 4 one*
+Renaud Dékode présente ChatGPT 4o with Canvas :  https://youtu.be/xg4jAHwCS8E?si=gOMs586ADl8zhDjB
+10/10/2024, 14:21 - Pierrick BRIAND: Bonjour !
+Pour l'abonnement ChatGPT Team, il est possible d'ajouter entre 2 et 149 utilisateurs.
+10/10/2024, 14:30 - Hoang: si j'ai bien compris, c'est un prompte qu'on copie colle dans ChaGPT avec notre Text à tester dans la partie dédiée. J'ai fais deux tests, une lettre de motivation créer et retravaillé avec l'IA, des paroles de musiques écrite entièrement moi-même. Résultat : mes paroles = 85/100 écrite par l'IA, la lettre de motivatop, = 70/100, Conclusion, je suis en fait une IA qui s'en rend pas compte et qui discute avec un humain nommé chatgpt
+10/10/2024, 14:46 - +33 6 89 33 49 33: Bonjour à tous, Je cherche un logiciel de sous-titrage pro pour vidéo en langue française. Plusieurs solutions de type CaptionsIA, Submagic, Veed. etc. Choix difficile. Quelqu'un a-t'il un retour d'expérience et un avis sur la solution la plus optimale ? Merci d'avance.
+10/10/2024, 14:57 - +33 6 99 86 52 93: Bonjour à tous
+Je suis à la recherche d’un outil IA qui me permettrait de créer un scénario pédagogique en bac professionnel avec des ressources documentaires. L’idée est que l’ia puisse suivre une charte précise ( exemple: préciser les compétences abordées par le scénario, le niveau de difficulté, commencer les questions par des verbes d’action , mettre des sources vidéos, audio ou docs….) . Je remercie d’avance la team pour vos réponses
+10/10/2024, 14:59 - Pierrick BRIAND: Bonjour Cherifa, je te propose d'essayer un GPTs que j'ai créé pour cela : https://chatgpt.com/g/g-TgfxKipvF-generateur-de-syllabus-de-cours
+10/10/2024, 15:13 - +33 6 99 86 52 93: Super ! je te remercie je vais le tester de suite !
+10/10/2024, 15:19 - +33 7 44 11 22 11: J'ai déjà testé et c'est vraiment top 😅❤️
+10/10/2024, 15:22 - +212 668-532296: Bonjour svp je cherche un outil IA efficace et gratuit qui génère du voix à partir d'un texte

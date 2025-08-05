@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 537
+Messages: 19
+
+=== CONTENU ===
+, un grand modèle de langage multilingue entraîné sur 46 langues et 13 scripts, visent à proposer une alternative plus diversifiée et transparente. Tester ce type de modèle pourrait apporter un éclairage intéressant.
+Même si elles restent occidentales, des IA comme celles d'Anthropic constitueraient aussi des points de comparaison pertinents, car elles mettent l'accent sur l'éthique et la réduction des biais dans leur conception
+3
+.
+Au-delà des IA elles-mêmes, il me semble essentiel d'étudier la diversité au sein des équipes qui conçoivent ces systèmes. Des études montrent que des équipes plus diverses (en termes de genre mais aussi d'origine) tendent à produire des IA comportant moins de biais
+4
+5
+.
+Enfin, des initiatives de sensibilisation et de régulation, comme celles menées par la Commission Européenne
+6
+, sont cruciales pour faire évoluer l'écosystème de l'IA dans son ensemble vers plus d'inclusivité.
+11/04/2024, 07:38 - +32 484 68 10 13: Merci 😊 je vais creuser😊 je compare déjà quelques IA entre-elles ainsi que leurs versions gratuites ou payantes et c'est déjà interpellant... mais pour rejoindre la réponse de Perplexity les biais de LIA, Ne sont que nos propre biais
+11/04/2024, 07:40 - Rochane: Ce serait bien de nous partager le fruit de tes analyses 🙂
+11/04/2024, 07:40 - Rochane: Vous avez supprimé ce message
+11/04/2024, 07:41 - Rochane: <Médias omis>
+11/04/2024, 07:42 - +32 484 68 10 13: Avec plaisir 😊 c'est un travail d'équipe mais nous avons réalisé un webinaire sur le sujet
+11/04/2024, 07:43 - +32 484 68 10 13: https://youtu.be/qCPCsVflJKU?feature=shared
+11/04/2024, 07:43 - +32 484 68 10 13: Voici le lien de la vidéo
+11/04/2024, 07:44 - +32 471 13 93 15: Je serais très intéressée par le résultat de votre recherche. Quelques pistes du prof de langues avec lequel je vis : voir si la langue employée comporte des nuances de genre ou non, s’il existe une politique linguistique en termes d’inclusion (dans le pays d’où émerge l’IA). Toutes les langues ne sont pas équipées pour faire la différence entre sexe naturel et sexe grammatical, toutes n’ont pas des pronoms non genrés par ex

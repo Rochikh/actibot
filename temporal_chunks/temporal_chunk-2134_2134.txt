@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 17
+
+=== CONTENU ===
+29/04/2025, 21:49 - +33 6 13 43 58 18: Meta sort son application IA 🤖
+https://www.numerama.com/tech/1961599-meta-lance-une-nouvelle-application-pour-concurrencer-chatgpt-perplexity-et-gemini.html
+29/04/2025, 22:03 - +33 6 62 17 05 18: https://www.linkedin.com/posts/arnaudformationia_google-vient-de-faire-tomber-la-barri%C3%A8re-ugcPost-7323029235588075539-J6h8?utm_source=share&utm_medium=member_android&rcm=ACoAAAQbqO0BVrAfqoSHTbfRm6EzvYd6GmxSKp0
+29/04/2025, 22:31 - Daniel Pappalardo: https://www.frandroid.com/marques/google/2599587_google-lance-son-generateur-de-podcast-en-50-langues
+30/04/2025, 08:43 - Laurent The Cure: bonjour à vous. Je profite de cette "nouvelle" fonctionnalité NotebookLM, pour vous poser ma demande. Existe-t-il un moyen de mettre en image cette discussion podcast ? Pour l'instant, j'utilise l'audio en faisant un montage vidéo changeant de photo suivant qui parle. mais cela reste des photos. Est ce possible d'animer cela ? Merci
+30/04/2025, 08:43 - +32 475 86 01 57: Fini l accent québécois... 🥲
+30/04/2025, 09:11 - +33 6 03 06 04 34: Donc c’est bien ce que je vous avais annoncé sur NTBLM ! Au moins cela veut dire que Google tient ses engagements ;-)
+30/04/2025, 09:12 - +33 6 03 06 04 34: Oui dans Hedra c’est le plus simple et avec un très bon lipsync des podcasters
+30/04/2025, 09:13 - +33 6 03 06 04 34: Ce message a été supprimé.
+30/04/2025, 09:14 - +33 6 03 06 04 34: Ou vous avez HeyGen encore mieux
+30/04/2025, 09:23 - Laurent The Cure: je vais tester merci @33603060434
+30/04/2025, 11:21 - ‎+33 6 64 41 15 81 est parti·e
+30/04/2025, 13:39 - ‎+33 7 64 25 81 50 a demandé à rejoindre le groupe.
+30/04/2025, 14:38 - Votre code de sécurité avec ~ Sylvie Steppé a changé. Appuyez pour en savoir plus.
+30/04/2025, 15:44 - Laurent The Cure: j'ai adopté (et payé) Heygen. Cela répond absolument à mon besoin ! Merci encore
+30/04/2025, 15:46 - +32 498 78 46 36: https://labs.google/lll/fr
+Une autre sortie de Google mais toujours en version beta, Little Language Lessons pour apprendre une langue uniquement sur des sujets qui nous intéressent

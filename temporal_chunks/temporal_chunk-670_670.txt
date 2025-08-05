@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 18
+
+=== CONTENU ===
+23/06/2024, 19:22 - Fred IA: Je viens de tester sur iPhone avec cette procédure et ça semble fonctionner
+23/06/2024, 19:23 - +33 6 76 04 48 20: Je suis en train de la suivre…
+23/06/2024, 19:24 - +33 6 76 04 48 20: On me demande un code que je n’ai pas…😰
+23/06/2024, 19:24 - +33 6 76 04 48 20: Un code d’invitation non reçu
+23/06/2024, 19:25 - +33 7 56 26 41 48: Sur Android ça marche même sans le code d’activation
+23/06/2024, 19:29 - Fred IA: Sur ios, j'utilisais déjà testflight, donc on ne m'a demandé aucun code. Mais d'après ce qui est indiqué, si un code est demandé, il suffirait d'ignorer cette étape, fermer testflight et poursuivre la procédure
+23/06/2024, 19:31 - Fred IA: Je viens de tester l'appli et ça semble vraiment génial. Par contre, quid de la confidentialité des données (?) car il est indiqué "publics" <Ce message a été modifié>
+23/06/2024, 19:31 - Fred IA: <Médias omis>
+23/06/2024, 19:31 - +33 6 76 04 48 20: Il ne faut pas se faire d’illusions 😂
+23/06/2024, 19:39 - Guillaume Singeot: C'est un peu comme nolej: ça fait différents types d'activités et permet de télécharger des h5p. C'est un peu moins limité que nolej en version gratuite avec un nombre d'activités par mois, là où nolej, c'est 3 par mail.
+23/06/2024, 19:41 - +33 6 76 04 48 20: H5p ?
+23/06/2024, 19:41 - Guillaume Singeot: C'est un service qui permet de faire des activités interactives et de les intégrer dans des lms.
+23/06/2024, 19:45 - +33 6 76 04 48 20: Je viens de tester sur un de nos live IA ! 😜
+En dépit de ma qualité sonore, le résultat n’est pas mal du tout.
+À voir si on peut l’utiliser sur le téléphone lorsqu’on a enregistré avec le même téléphone
+Merci @33649535198 pour cette info, voilà un outil supplémentaire !👍
+23/06/2024, 19:47 - Rochane: Je l'ai utilisé cette après midi en réunion en présentiel et les gens parlaient parfois pas très fort, la transcription et le résumé de l'IA qui te génère un pdf avec titre et bannière, c'est 👌
+23/06/2024, 19:49 - +33 6 76 04 48 20: Je n’ai pas poussé l’essai jusque là.

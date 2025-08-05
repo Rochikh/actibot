@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 21
+
+=== CONTENU ===
+Un chapitre dédié aux recommandations pratiques à destination des organismes de formation et des entreprises (une dizaine de pages)
+Une conclusion d'une page sur les perspectives et défis de l'IA dans la formation professionnelle
+Le plan doit susciter l'intérêt des professionnels de la formation et leur donner envie d'approfondir le sujet.
+Partie 2 : La critique
+Note : 4/5
+Le prompt est désormais beaucoup plus complet avec un volume, un style et un niveau de technicité clarifiés. L'organisation en chapitres est pertinente.
+Quelques améliorations possibles:
+Être un peu plus précis sur les thématiques envisagées dans les 8 à 10 chapitres sur les cas d'usage, pour guider le travail.
+Ajouter la possibilité d'inclure des interviews ou témoignages d'experts pour enrichir certains chapitres.
+Valider que la structure et le ton conviennent bien à un public de professionnels de la formation.
+Partie 3 : Les questions
+Pourrais-tu donner 5 à 10 thématiques précises à aborder dans les chapitres détaillés sur les cas d'usage de l'IA ?
+Penses-tu qu'il serait pertinent d'inclure 1 ou 2 interviews d'experts ou témoignages d'utilisateurs au sein de certains chapitres ?
+La structure et le style te semblent-ils adaptés à un public de professionnels de la formation ?
+02/11/2023, 16:12 - Rochane: continue mais sans interviews
+02/11/2023, 16:13 - +33 7 71 20 50 67: Merci
+02/11/2023, 16:13 - Rochane: Voici le prompt reformulé sans les interviews :
+Partie 1 : Le Prompt
+Claude, je te donne le rôle d'expert en intelligence artificielle appliquée à la formation professionnelle pour adultes. Rédige de manière accessible et concrète, avec des exemples d'applications, un plan détaillé d'environ 100 pages pour un livre qui va intéresser les organismes de formation et les entreprises sur l'utilisation de l'intelligence artificielle pour améliorer la formation professionnelle des adultes.
+Le plan doit contenir :
+Une introduction d'une page présentant les enjeux de l'IA dans la formation professionnelle

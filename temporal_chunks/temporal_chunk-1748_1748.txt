@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 526
+Messages: 12
+
+=== CONTENU ===
+11/02/2025, 11:21 - ‎+32 476 99 47 74 a demandé à ajouter +32 470 76 25 13.
+11/02/2025, 11:31 - +33 7 83 62 43 52: <Médias omis>
+11/02/2025, 12:13 - ‎+33 6 22 65 42 40 a demandé à rejoindre le groupe.
+11/02/2025, 12:22 - ‎~ 🍁 Lis a ajouté +32 470 76 25 13
+11/02/2025, 12:22 - ‎+33 6 22 65 42 40 a rejoint ce groupe grâce à son lien d’invitation
+11/02/2025, 12:36 - Francois Bocquet: Est il écrit quelque part ? Y a t’il des indications sur les services SaaS d’IA utilisables légalement vis à vis du RGPD parce qu’inscrit au registre du Ministère ou du Recteur ? Je cherche l’information mais je ne la trouve pas. Dans les faits il devrait y avoir une liste des services légalement utilisables par les enseignants (seuls ou avec les élèves) ET une interdiction stricte de tous les services qui ne sont pas inscrits aux registres ( parce qu’ils n’ont pas été audités, n’ont pas fait l’objet d’une analyse d’impact et n’ont pas fait l’objet de contrats de sous traitance). C’est d’ailleurs pour cette raison que les registres sont publics dans les administrations.
+11/02/2025, 13:16 - +33 7 83 62 43 52: C'est une question que je me pose aussi et je suis preneuse si quelqu'un a la réponse.
+11/02/2025, 13:50 - Francois Bocquet: Le plus simple est de demander au DPd académique la liste des analyses d’impacts réalisées et l’extrait du registre contenant les services d’IA utilisables au niveau national et académique. Pour l’établissement demander au chef d’établissement qui a l’obligation dans le code de l’éducation de tenir à disposition du public son registre des traitements.
+11/02/2025, 13:53 - Francois Bocquet: Notons que le plan stratégique d’intégration de l’IA n’inclut ni le terme « données personnelles » ni le terme « RGPD ». Ça doit les jetons 😱😳😰
+11/02/2025, 13:53 - Francois Bocquet: Ça fout les jetons
+11/02/2025, 14:05 - +33 6 76 04 48 20: Je pense que bon nombre d’élèves « formeront » leurs enseignants…
+11/02/2025, 14:20 - +33 6 73 29 84 68: Ce serait particulièrement inquiétant que cette problématique, spécialisée s’il est, soit laissé aux hasards des découvertes personnelles.

@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 20
+
+=== CONTENU ===
+21/03/2025, 07:01 - Jean-Marc Everard: NotebookLM continue d’être l’une de mes applications IA favorites toute catégories confondues. J’apprends grâce à toi que c’était au départ un projet « 20% ». Ça ne m’étonne pas. Ces projets innovants venant de besoins concrets de gens chez Google sont toujours les meilleurs 👍🏻👍🏻.
+21/03/2025, 08:51 - +33 6 72 75 43 48: null
+21/03/2025, 08:59 - Rochane: Quelque chose que je n'avais pas vu hier : quand tu génères la mindmap sur une ou plusieurs sources, tu peux cliquer sur une cellule et tu as l'explication dans la partie discussion 😮 <Ce message a été modifié>
+21/03/2025, 10:08 - Rochane: ÉVÉNEMENT : Live du 27 mars 2025
+Heure de début de l’événement : 1743102000000
+Événement annulé : false
+Description de l’événement : Ne manque pas notre prochain live !
+📅 Jeudi 27 mars à 20h (heure de Paris), on plonge dans le monde de l’évaluation et de l’IA avec des invitées spéciales :
+Mélanie Cabana et Josée-Anne Côté de l’Université de Sherbrooke, qui présenteront « Bonnes pratiques évaluatives : outil décisionnel à l'ère de l'IAg ».
+François Boquet, qui nous fera voyager à travers une comparaison des programmes scolaires d’enseignement et d’éducation à l’IA dans différents pays en 2024.
+Prépare tes questions et ta curiosité, ça va être du concret… et un peu futuriste ! 😉
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+21/03/2025, 10:23 - Vous avez épinglé un message
+21/03/2025, 10:35 - Pierrick: <Médias omis>
+21/03/2025, 10:38 - Rochane: Ah tu as peut être raison, je l'ai testé avec ma version Plus
+21/03/2025, 11:34 - +33 6 65 62 92 04: J'avais le problème avec mon premier compte google (document de synthèse au lieu de carte mentale), j'ai utilisé un autre compte google et j'ai "carte mentale" sur ce compte... même URL...
+21/03/2025, 12:01 - +212 644-562660: Je viens de l'essayer, trop top l'update 🤯
+21/03/2025, 12:01 - +212 644-562660: Non gratuit
+21/03/2025, 12:07 - Rochane: Tu es sûr ? Moi je ne le vois pas non plus

@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 533
+Messages: 6
+
+=== CONTENU ===
+04/05/2024, 09:24 - +33 7 63 58 01 55: @33676044820 Je sais pas si ça va répondre à votre question mais intuitivement, je dirais que les flux RSS pourraient être la clé pour récupérer les infos, à faire ensuite passer dans un outil d'automatisation comme Make (je rejoins Youssef) qui pourrait solliciter une IA générative textuelle pour faire une synthèse (écrite ou même vocale). Et bien sûr, vous devriez pouvoir rajouter Trello qq part dans le processus.
+Voir cette vidéo de Shubham Sharma pour le principe de fonctionnement : https://youtu.be/sNL-jU8IBYc?feature=shared
+04/05/2024, 09:50 - +32 479 58 54 12: Je suis aussi demandeuse d'outils surtout pour réaliser un travail de veille de A à Z. Depuis la collecte des infos jusqu'à la réalisation d'articles, de comparatifs et de tableaux chronologiques pour suivre facilement l'évolution. Avec bien sûr la possibilité de personnaliser cette veille selon ses propres besoins.
+04/05/2024, 10:07 - Jean-Marc Everard: Idem. J’ai commencé à intégrer Notion avec Make pour ma veille, mais j’aimerais également ajouter la récupération de newsletters pour en faire des résumés avec une IA générative (et des paramètres à choisir pour indiquer mes intérêts pour les résumés) et intégrer le tout dans un outil de veille (Obsidian n’est que local n’est ce pas?). Mais j’avoue que je ne  suis pas encore là…
+04/05/2024, 10:14 - +32 479 58 54 12: Oui. J'ai beau faire de la veille et de la curation depuis 20 ans, aujourd'hui je suis dépassée par la quantité de notions à suivre. Et même se contenter de consulter les résultats de  la curation des autres est encore devenu trop chronophage. C'est là que l'IA peut avoir un réel intérêt. Mais ce serait dommage que chacun doive développer ses propres GPTs et automatisations.
+04/05/2024, 10:17 - Jean-Marc Everard: En effet, pour moi c’est une idée pour l’app de la nièce de Youssef, une app qui peut analyser soit des adresses web (y compris videos), soit des mails et qui résume et classe les infos selon des critères définis. Ça nous éviterait de devoir créer des automatisations qui au final se détraquent souvent au bout d’un moment.

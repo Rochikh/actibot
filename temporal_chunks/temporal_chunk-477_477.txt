@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 580
+Messages: 21
+
+=== CONTENU ===
+29/04/2024, 15:40 - Ahmadou Ba: essayer avec noota, il fait de bonnes transcription et rédige des resumés pertinent
+29/04/2024, 15:42 - Rochane: Oui mais la transcription a été désactivée par le ou la propriétaire
+29/04/2024, 15:44 - Clément Cahagne: https://videohighlight.com/
+Pas besoin de transcription me semble-t-il avec celui ci
+29/04/2024, 15:45 - Ahmadou Ba: Noota crée sa propre transcription a partir de la vidéo. Si c une vidéo youtube tu mets le lien sinon tu enregistres en local et tu charges la vidéo sur l'application.
+29/04/2024, 15:45 - +41 79 326 51 40: https://playground.com/ avec 100 images générées gratuitement par jour
+29/04/2024, 15:54 - Guillaume Singeot: Adobe firely
+29/04/2024, 15:55 - Guillaume Singeot: Quelqu'un connait un outil qui peut analyser un fciheir excel avec pas mal de données et différents onglets ?
+29/04/2024, 15:58 - +33 6 99 36 11 69: Copilot
+29/04/2024, 15:58 - Guillaume Singeot: directement dans edge? en gratuit ?
+29/04/2024, 15:59 - +33 6 99 36 11 69: Oui et franchement, en fonction de la thématique, c’est plutôt pas mal
+29/04/2024, 16:16 - JulienIA: Leonardo Ai, tu connais ?
+Et les générations d’images depuis la suite Adobe
+29/04/2024, 17:13 - Fabien IA: Ah non ! Je connais Da Vinci pour le montage mais pas Leonardo. Je file voir ça. Merci pour la reco @32473730282
+29/04/2024, 17:28 - ‎+33 6 50 55 43 79 a rejoint le groupe à partir de la communauté.
+29/04/2024, 17:40 - Rochane: C'est vraiment bizarre copilot, j'avais la possibilité d'uploader un Excel ou Word dans l'App et sur le navigateur et du jour au lendemain, ça a disparu, je ne peux avoir que la possibilité de le faire avec des images 🤔
+29/04/2024, 19:29 - LIO: Boa tarde todos,
+Savez vous s'il existe un outil qui renvoie vers une IA qui réponde à expression de besoin précise.
+Par exemple quel outil me permet de créer un jeu de carte. Mon besoin est de personaliser la pile de pioche etc...
+29/04/2024, 19:34 - LIO: <Médias omis>
+29/04/2024, 19:37 - +33 6 51 43 08 14: Moi j'ai découvert civitai. Je ne sais si vous connaissez mais on peut créer des personnages hyper réalistes. Elle a été utilisée pour créer les personnages qui ont servi à certaines démonstrations de EMO qui crée des vidéos à partir des images +audio. https://civitai.com/models/124421/xxmix9realisticsdxl

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 523
+Messages: 12
+
+=== CONTENU ===
+05/06/2025, 23:19 - +32 470 06 82 01: Bonjour à toutes et à tous,
+Tout d’abord, un grand merci pour la qualité des échanges et des informations partagées sur ce groupe. Référent numérique dans une école secondaire en Belgique, je vous lis assidument depuis pas mal de temps maintenant et c’est une mine d’or !
+Je me demandais si quelqu’un sur ce groupe avait un avis ou un retour d’expérience sur la nouvelle offre IA de Notion ? Elle a l’air assez intéressante en promettant la capacité à rechercher et analyser des infos dans les bases de données intégrées ou un google drive connecté, elle propose la retranscription des notes de réunions et, si j’ai bien compris, elle donne aussi accès aux derniers modèles payants de ChatGPT et de Claude via l’interface Notion.
+Merci d’avance pour vos retours ! :)
+05/06/2025, 23:23 - Clotilde IA: J’en ai eu un essai gratuit. Je ne sais pas quels modèles sont utilisés. Je l’ai trouvée très pratique pour obtenir des databases complexes. J’ai pas été bluffée par le reste.
+05/06/2025, 23:24 - +33 6 89 54 90 68: Il y a une technique pour éviter que les LLM aient les info en clair mais puissent quand même les traiter. Ça s’appelle l’obfuscation.
+L’idée est de modifier avant envoi au LLM les infos sensibles (type Nom, Prénom, Société …), le LLM traite l’info modifiée, renvoi sa réponse et les infos modifiées sont retransformées en infos correctes. <Ce message a été modifié>
+05/06/2025, 23:25 - Francois Bocquet: Ça peut effectivement faire partie des mesures de minimisation des risques dans les transferts de données à caractère personnel mais ça reste complexe à traiter correctement.
+05/06/2025, 23:26 - +33 6 89 54 90 68: Clairement il faut rajouter une couche pour faire ça. Mais pour un usage intensif et pro c’est clairement une solution à envisager.
+06/06/2025, 06:21 - Votre code de sécurité avec ~ freddy a changé. Appuyez pour en savoir plus.
+06/06/2025, 08:38 - Batier Christophe: Ce message a été supprimé.
+06/06/2025, 08:50 - Batier Christophe: Pour ma part j'utilise Notion pour gérer tous mes projets et depuis l'an dernier

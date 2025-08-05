@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 501
+Messages: 24
+
+=== CONTENU ===
+21/10/2024, 18:40 - Rochane: Super Grégoire! Attends, c'est quoi la source exactement qui était en anglais ?
+21/10/2024, 19:46 - Gregoire IA: Le dialogue généré par NotebookLM
+21/10/2024, 20:11 - +33 6 02 20 69 43: Je suis tombé sur un hack ce matin je dois tester ça :)
+21/10/2024, 20:18 - Alexandre iA Togo: Ok ok texte et fait nous un retour s'il vous plaît <Ce message a été modifié>
+22/10/2024, 09:19 - Votre code de sécurité avec ~ Karine Beta Remote Éducation a changé. Appuyez pour en savoir plus.
+22/10/2024, 09:32 - Luis Galindo: Sinon, vous avez https://huggingface.co/spaces/brokerrobin/PDF2Audio, mais vous avez besoin d'une OpenAI API Key, très intéressant comme alternative aux podcasts de NotebookLM
+22/10/2024, 09:32 - Luis Galindo: Et c'est Open Source 🙂
+22/10/2024, 11:54 - ‎+32 487 34 94 26 a demandé à rejoindre le groupe.
+22/10/2024, 12:19 - ‎+32 485 71 33 89 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 486 66 64 14 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 475 82 24 59 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 472 41 64 94 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 499 17 71 78 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 485 59 77 04 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 496 26 68 83 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 496 10 22 51 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 478 66 90 41 a demandé à rejoindre le groupe.
+22/10/2024, 12:20 - ‎+32 497 20 04 80 a demandé à rejoindre le groupe.
+22/10/2024, 12:21 - ‎+32 486 21 61 24 a demandé à rejoindre le groupe.
+22/10/2024, 12:21 - ‎+32 485 54 74 86 a demandé à rejoindre le groupe.
+22/10/2024, 12:21 - ‎+32 491 31 59 59 a demandé à rejoindre le groupe.
+22/10/2024, 12:21 - ‎+32 486 63 52 15 a demandé à rejoindre le groupe.
+22/10/2024, 12:21 - ‎+32 478 69 49 03 a demandé à rejoindre le groupe.
+22/10/2024, 12:21 - ‎+32 479 29 01 81 a demandé à rejoindre le groupe.

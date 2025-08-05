@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 635
+Messages: 11
+
+=== CONTENU ===
+13/02/2025, 22:37 - Rochane: Quand une ressource est partagée, merci de donner quelques infos de quoi s'agit-il
+13/02/2025, 22:45 - +44 7776 747507: Voici la traduction du post du CEO de Kyutai "Il s'agit de 'Hibiki', un modèle de traduction simultanée de la parole vers le texte, qui supporte actuellement français>Anglais.
+Hibiki produit des traductions vocales et textuelles du discours d'entrée en temps réel, tout en préservant la voix du locuteur et en adaptant son rythme de manière optimale en fonction du contenu sémantique du discours source.
+Hibiki existe en deux tailles, la plus petite variante Hibiki-M fonctionne localement sur un iPhone 16 Pro. Toutes les infos, y compris les liens vers le code sur github et les poids sur huggingface, avec possibilité d'essayer le modèle sur son ordinateur portable:  https://kyutai.org/2025/02/10/hibiki.html <Ce message a été modifié>
+13/02/2025, 22:45 - Votre code de sécurité avec ~ Nico a changé. Appuyez pour en savoir plus.
+13/02/2025, 22:48 - Votre code de sécurité avec ~ Nico a changé. Appuyez pour en savoir plus.
+13/02/2025, 22:50 - +44 7776 747507: N.B: Mon avis personnel > L'innovation c'est bien, l'apprentissage (notamment de l'anglais) et l'autonomie c'est encore mieux. Non à la dépendance technologique! (ça reste un super produit).
+14/02/2025, 05:22 - Votre code de sécurité avec ~ Nico a changé. Appuyez pour en savoir plus.
+14/02/2025, 08:20 - Jean-Marc Everard: J'ai le même souci avec certains de mes contacts. Une chose qui a fonctionné à un moment a été de changer de Browser et prendre Chrome. Vous pouvez peut-être essayer ?
+14/02/2025, 08:22 - Jean-Marc Everard: Même commentaire que mes prédécesseurs : très bon outil pour de la gestion collaborative de projets en mode agile, c'est-à-dire avec décomposition et attributions de tâches. Depuis je suis plutôt passé sur MIRO qui est un tableau partagé avec lequel il y a moyen de créer un tas d'espaces différents de collaboration, dont des Kanban.
+14/02/2025, 08:27 - Jean-Marc Everard: Mon retour se situe entre les commentaires précédents 🙂 : pour moi ça a parfois très bien fonctionné si ce n'est qu'effectivement quoique je fasse (nos ami·e·s IA podcaters) repassent systématiquement à l'anglais. Après ma question ça mouline pas mal et souvent le début de la réponse est très vague et imprécis, avant de reprendre sur le contenu avec du coup un ton non interactif. Comme dit Grégoire, c'est bien une bêta mais que je trouve quand même prometteuse si on envisage la répidité des progrès faits.

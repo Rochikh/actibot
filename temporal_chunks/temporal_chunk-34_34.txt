@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 19
+
+=== CONTENU ===
+31/10/2023, 13:15 - Rochane: Non non, c'est vraiment parfait comme ça 🙂
+31/10/2023, 13:20 - Ahmadou Ba: https://www.forefront.ai/
+31/10/2023, 13:22 - Rochane: Vous avez supprimé ce message
+31/10/2023, 13:22 - Ahmadou Ba: Il permet d’accéder à Claude AI sans avoir à s’enregistrer. On s’enregistre qu’une seule fois et on accède à ChatGPT et à Claude
+31/10/2023, 13:25 - +33 7 71 20 50 67: Parmi tous ces outils, si j'ai un sujet de formation. Quel outil utiliser pour : 1 écriture des objectifs 2 déroulé pédagogique condensé 3 déroulé pédagogique détaillé et timé 4 exercices 5 diapos avec contenu apprenants et diapos avec contenus formateur 6 quiz
+31/10/2023, 13:26 - Rochane: chat gpt + 😃
+31/10/2023, 13:32 - Ahmadou Ba: ChatGPT est bon même la version gratuite. Il suffit de personnaliser ses prompts. Sinon le bonhomme fait dans les généralités.
+Par exemple si vous désirez de bons objectifs donnez lui le format: verbe d’action + objet + conditions de réalisation + critères de réussite.
+Si c un plan de cours, syllabus ou fiche pédagogique donnez les rubriques que vous voulez voir figurez dans votre document.
+A mon avis tout le travail se situe dans le prompt.
+31/10/2023, 13:53 - Luc deleplanque: Merci pour le partage… pourrais-tu l’inscrire sur le Digipad dans « outils » ? 🙏👌😉
+31/10/2023, 14:40 - +33 6 63 72 18 15: <Médias omis>
+31/10/2023, 15:09 - +33 7 85 94 69 69: Il est inaccessible pour moi
+31/10/2023, 15:55 - Luc deleplanque: <Médias omis>
+31/10/2023, 16:00 - Luc deleplanque: SONDAGE  :
+L'option MUR semble majoritaire, deux options restent à départager :
+OPTION  : Un Mur sur "La DIGITALE" voir plus haut dans la conversation, le 1er QR Code (‎5 votes)
+OPTION  : Un Mur sur "PADLET" voir juste au dessus dans la conversation, le 2sd QR Code (‎4 votes)
+31/10/2023, 16:13 - +41 79 276 46 84: Personnellement pour avoir testé plusieurs manières de partager du contenu dans mon institution, j'ai constaté qu'on arrive très vite aux limites d'outils comme des dossiers, des mind Map ou des padlet car c'est fortement dépendant de comment c'est classer et chacun a sa manière de classer. En plus il y a tj des  outils inclassables.

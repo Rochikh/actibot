@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 580
+Messages: 8
+
+=== CONTENU ===
+02/03/2024, 10:18 - +33 7 69 88 62 42: Merci
+02/03/2024, 10:29 - Pierrick BRIAND: Oula non! Il faut vraiment qu’on en parle. À titre d’exemple, vous pouvez obtenir le sous-titrage ou la transcription d’une vidéo, vous pouvez en effet générer des quiz, mais à partir d’un support existant comme une vidéo ou un fichier au format PDF, vous pouvez traduire un texte en fichier audio, et nous avons d’autres fonctionnalités à vous faire découvrir. Nos animons une visioconférence pour présenter toutes nos nouveautés le 22 mars à 14h. Avis aux amateurs : https://app.livestorm.co/apolearn/lintelligence-articifielle-comme-assistant-des-formateurs?s=0c29b9e4-d580-49ca-a331-82d82e98f2e2&utm_campaign=Emailing%202024&utm_medium=email&_hsmi=296192796&_hsenc=p2ANqtz-8AZ52WKCUHxByKxJBhIKNSopnFd-Vi2ow1egiW60wF3xg-ISDOsISHfnMPcI9iU5jgy-NLm8QxGdyU-B3qwYQJYP_gV3murXLUrx5WKkjx_0RAb6w&utm_content=296192796&utm_source=hs_email <Ce message a été modifié>
+02/03/2024, 17:52 - +33 6 58 12 88 07: Pour ceux qui utilisent Hugging Face
+https://www.usine-digitale.fr/article/des-modeles-d-intelligence-artificielle-malveillants-reperes-sur-la-plateforme-hugging-face.N2209211
+02/03/2024, 17:59 - Rochane: Il est important de noter que certains des utilisateurs à l'origine de ces modèles malveillants seraient des chercheurs en intelligence artificielle, et non des pirates informatiques [1]. Ils utilisent la plateforme Hugging Face comme un "terrain de jeu" pour obtenir l'exécution de code à des fins apparemment légitimes
+02/03/2024, 19:03 - +33 6 58 12 88 07: Oui tout à fait à lire jusqu’au bout. Pas de panique 😉
+02/03/2024, 19:20 - +32 498 78 46 36: Ça reste une thématique intéressante avec l'arrivée des agents connversationnels personnalisés et l'explosion de l'automatisation... les virus d'un nouveau genre sont à nos portes. Autant en être conscient. À traduire : https://www.wired.com/story/here-come-the-ai-worms/?utm_source=dlvr.it&utm_medium=twitter
+03/03/2024, 09:16 - Rochane: CRAG (Contexte, Récupération, Génération de Réponse) enrichit la génération de texte en IA par la récupération et l'intégration de connaissances externes, offrant des réponses plus précises et contextuelles. https://www.actuia.com/actualite/crag-une-methode-pour-ameliorer-la-generation-de-texte-basee-sur-la-recuperation-de-connaissances/

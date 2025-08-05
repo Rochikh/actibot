@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 15
+
+=== CONTENU ===
+Sans deconner: aucun.
+05/05/2025, 15:15 - +33 6 72 75 43 48: Ok merci Antonin
+05/05/2025, 16:00 - Sébastien Place: Certains indices peuvent éveiller un soupçon (notamment sur les modèles GenAI américains) mais ils ne sont pas fiables pour établir un usage clair et précis de l'IA générative : utilisation de l'espace insécable, tiret long (pas l'underscore) au lieu du tiret classique ... Mais c'est contournable quand les utilisateurs sont au courant et vigilants (en évitant le pur et bête copier-coller).
+05/05/2025, 16:23 - Votre code de sécurité avec Oumayma a changé. Appuyez pour en savoir plus.
+05/05/2025, 16:31 - +32 498 78 46 36: Sur un document avec titre, sous-titres ... l'IA Gen (surtout ChatGPT, Gemini et Claude) met trop souvent des majuscules partout. Ex:
+Objet: Lettre de Motivation pour le Poste de Serrurier autodidacte
+Rien que ça je sais que l'apprenant n'a pas été très loin dans la personnalisation des réponses de l'IA Gen
+05/05/2025, 16:43 - +33 6 52 73 73 42: Compilatio annonce des scores de détection plutôt flatteurs (pr eux !) : 98.5 % de fiabilité. Nos étudiants sont en période de rendu de travail de fin d'études, ils utilisent Compilatio Studium (achat de crédits 100 crédits = 25000 mots = 100 pages environ pr 14,99 €) et obtiennent un score IA.
+C'est possible versant "Enseignants" avec un abonnement Magister +
+05/05/2025, 16:43 - +33 6 52 73 73 42: Ça vaut ce que ça vaut ! (je ne travaille pas chez Compilatio ! 😅)
+05/05/2025, 16:46 - +33 6 72 75 43 48: Merci beaucoup 😊
+05/05/2025, 16:50 - +32 498 78 46 36: Attention : Ils se font démonter sur les avis Google et Trustpilot ...
+05/05/2025, 17:42 - +33 6 52 73 73 42: Compilatio !? "Démonter" ...  à ce point !? Preuve qu'ils n'utilisent pas de bot 🤖 pr leurs avis ! 😂
+05/05/2025, 18:18 - Votre code de sécurité avec ~ eblanche a changé. Appuyez pour en savoir plus.
+05/05/2025, 18:18 - Gregoire IA: Ma question est : pourquoi vouloir détecter l'IA ?... En même temps, je la pose depuis fin 2023 😅

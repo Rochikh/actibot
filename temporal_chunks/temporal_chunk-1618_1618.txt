@@ -1,0 +1,18 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 10
+
+=== CONTENU ===
+21/01/2025, 15:37 - +33 6 42 26 64 70: Je vais en parler au DPO de l’académie, mais aussi à mon chef d’établissement, et proposer une expérimentation avec llama ou Lucie comme tuteur ou assistant pédagogique le temps des aides aux devoirs dans un premier temps <Ce message a été modifié>
+21/01/2025, 15:44 - Francois Bocquet: GPT raconte ici des bêtises en particulier sur le consentement. Aucun consentement n’est requis pour les traitements relevant de la responsabilité d’un chef d’établissement. Le critère de liceite pour l’art 6 doit être UNIQUEMENT l’exercice d’une mission de service public. Donc aucun consentement de la part des élèves ou des parents. Par ailleurs il ne peut y avoir absence de traitement de données à caractère personnel (DCP) ici puisque les utilisateurs sont logues et que toutes leurs traces  sont des DCP.
+21/01/2025, 15:45 - Francois Bocquet: Logiquement c’est ton chef d’établissement qui doit solliciter le DPD qu’il a ou son prédécesseur à désigné.
+21/01/2025, 15:46 - Francois Bocquet: Si le traitement est instruit et porté au registre de l’établissement alors tu pourras le mettre en œuvre en toute conformité. Si ce n’est pas le cas, prudence absolue…
+21/01/2025, 15:49 - Francois Bocquet: Attention également LM sTudio est disponible pour une utilisation personnelle. Mais la règle change pour une utilisation professionnelle -> Can I use LM Studio at work?
+We'd love to enable you. Please fill out the LM Studio @ Work request form and we will get back to you as soon as we can
+21/01/2025, 15:49 - Francois Bocquet: Source : https://lmstudio.ai/#can-i-use-lm-studio-at-work
+21/01/2025, 15:56 - +33 6 42 26 64 70: Merci François ! 🙏
+21/01/2025, 16:53 - ‎+216 55 285 083 a été remplacé par +216 53 837 289
+21/01/2025, 16:59 - +33 6 42 26 64 70: Bonjour, certains ont-ils déjà testé https://originality.ai/ pour identifier un élément fabriqué, même partiellement par l’IA ? et connaissez-vous (avez-vous déjà utilisé) d’autres outils payant ou gratuits qui font la même chose ?

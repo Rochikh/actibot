@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 13
+
+=== CONTENU ===
+5/ Réviser et affiner : Ajuste tes prompts pour qu'ils soient clairs et alignés avec tes objectifs de recherche.
+19/06/2024, 21:27 - ‎+32 492 85 81 22 a demandé à ajouter +32 485 16 69 09.
+19/06/2024, 21:34 - Samba BA: Ce message a été supprimé.
+19/06/2024, 21:36 - ‎+32 492 85 81 22 a ajouté +32 485 16 69 09
+19/06/2024, 21:42 - Ahmadou Ba: Moi j'ai crée un GPt pour ça. Je l'ai entraîné avec la méthodologie pour m'aider à realiser des fiches de lecture et des syntheses. Il repond aux questions sur les fichiers que je lui donne cela balise mon travail de recherche et me permet de gagner du temps. Toutefois, je repasse sur les articles pour completer les fiches. Et je me rend compte qu'il ne fait pas tout le travail. Il fait toujours le job partiellement. Mais moi je travaille sur un sujet en science de l'education lié à l'IA.
+19/06/2024, 21:43 - Ahmadou Ba: il m'aide bcp pour la bibliographie egalemnt. Rediger selon la norme APA7 il le fait tres bien
+19/06/2024, 22:05 - Votre code de sécurité avec +33 7 71 11 68 32 a changé. Appuyez pour en savoir plus.
+21/06/2024, 22:51 - ‎+216 29 110 186, +31 6 87202860 et +33 6 40 65 69 66 ont été ajouté·es
+21/06/2024, 22:51 - ‎+212 654-133552, +32 497 10 24 65 et ‎1 autres est parti·e
+22/06/2024, 13:17 - Yann-Ael: Bonjour à tou.te.s, je me permets de partager ici un outil que je viens de mettre en ligne et qui permet de résumer des vidéos: https://vi-su.app/beta - il me semble que des demandes ont déjà été faites ici pour ce genre d’outil. La différence avec les autres outils du genre est l’ajout de screenshots dans le résumé (qui sont cliquables), ce qui rend le résumé plus engageant/facile à retenir je trouve. N’hésitez pas à tester (limité à deux résumés par jour) et faire part de vos suggestions!
+22/06/2024, 13:20 - Yann-Ael: Note: je l’utilise de mon côté surtout pour résumer des contenus pédagogiques type cours/tutoriels (ce qui permet d’avoir les slides dans le résumé)
+22/06/2024, 14:20 - ‎+33 6 22 06 78 56 est parti·e
+22/06/2024, 16:01 - Pierrick BRIAND: @32498571928 c’est toi qui l’a développé ?

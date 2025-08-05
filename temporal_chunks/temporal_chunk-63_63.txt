@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 22
+
+=== CONTENU ===
+Belle journée
+08/11/2023, 12:38 - +33 6 75 41 23 05: Je suis tjs sur l’ancienne version 🧐
+08/11/2023, 12:39 - Rochane: Pareil mais Guillaume l'a déjà 🙂
+08/11/2023, 12:45 - Guillaume CLEMENT: Jaloux @33649535198 😂
+08/11/2023, 17:16 - ‎+32 495 10 43 00 a rejoint le groupe à partir de la communauté.
+08/11/2023, 20:16 - +32 497 91 17 24: Bonsoir, quels sont ces plugins ? 🤗 merci bonne soirée
+08/11/2023, 20:17 - +32 497 91 17 24: Ouuups je viens de voir votre réponse… Vais y regrder de plus près 🤗 merci !
+08/11/2023, 20:19 - Jonathan Ponsard: Je pense que ça arrive mais payant :(
+08/11/2023, 20:21 - Ahmadou Ba: Ah ok d’accord mais ici nous avons accès à Google workspace avec nos comptes institutionnels du MEN donc cela doit pouvoir être accessible
+08/11/2023, 20:25 - Jonathan Ponsard: Je peux me renseigner mais je crois que ca passe avec la version Education Plus https://edu.google.com/intl/ALL_be/workspace-for-education/editions/compare-editions/
+08/11/2023, 20:27 - +33 6 14 90 22 14: Bonjour à tous, je souhaiterais traduire des documents Word que me conseillez vous ?
+08/11/2023, 20:29 - Rochane: Avec L'IA, Chat GPT plus et sinon tu as un super logiciel (outil en ligne)smartcat ( qualité top) <Ce message a été modifié>
+08/11/2023, 20:30 - +33 6 14 90 22 14: Merci
+08/11/2023, 20:45 - +1 (343) 961-5513: J’utilise Deepl
+08/11/2023, 20:53 - Rochane: C'est pas payant quand tu veux intégrer un document ? Sinon, je sais que Google translate permet de traduire des documents mais la qualité n'est pas terrible . Par contre, il garde la mise en forme et pour un CV c'est top
+08/11/2023, 22:17 - +1 (343) 961-5513: null
+08/11/2023, 22:18 - +1 (343) 961-5513: oui limité a qlqs doc par mois en free mode à valider
+08/11/2023, 22:22 - +32 470 11 45 36: Deeple
+08/11/2023, 22:47 - Guillaume CLEMENT: Deepl 👍
+09/11/2023, 09:05 - +32 494 94 16 13: https://www.onlinedoctranslator.com/
+fonctionne pas mal aussi
+09/11/2023, 09:37 - +32 498 78 46 36: Attention que Deepl (la partie gratuite) est limité au niveau des caractères (1500 de mémoire)

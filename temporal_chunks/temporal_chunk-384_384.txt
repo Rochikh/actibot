@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 578
+Messages: 9
+
+=== CONTENU ===
+07/04/2024, 21:10 - ‎+33 6 09 91 07 08 a rejoint le groupe à partir de la communauté.
+07/04/2024, 22:23 - Rochane: J'ai créé un petit bot sur l'hybridation qui répond à toutes les questions sur l'hybridation des formations et la multimodalité. Je l'ai nourri avec des sources d'articles de recherche sur le sujet 🙂. ( Trouvées sur Perplexity ).  https://poe.com/HybridForm
+07/04/2024, 22:27 - +33 6 23 62 03 47: Alors, moi j aimerais comprendre (désolée je suis en retard sur vous tous !) Comment on fait ça : nourrir un bot.... si qqn a le temps de m expliquer ce serait génial ! Ou de me dire oú apprendre..  je suis preneuse
+07/04/2024, 22:29 - Letizia ALLEGRINI: Bonsoir vous trouverez dans cet exemple un article sur opengpt qui explique comment nourrir un bot. L'interface de poe est plus facile d'accès mais est basée sur le même principe. La plupart du temps on peut intégrer des documents pdf https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11197894/fr/opengpt-c-est-quoi
+07/04/2024, 22:30 - Rochane: En fait, sur poe.com, tu peux créer des bots gratuitement. Il suffit de s'y inscrire, créer un agent conversationnel sur une thématique, mettre un prompt pour qu'il execute lee consignes et lui rajouter des documents dans sa base de connaissances pour qu'il s'appuie dessus. Je crois que le bot sur l'hybridation que j'ai partagé est ouvert et tu peux avoir accès à ces informations 🙂 <Ce message a été modifié>
+07/04/2024, 22:32 - Rochane: Oui et je crois que tu vas en parler un peu le 10?
+07/04/2024, 22:35 - Letizia ALLEGRINI: Je parlerai plutôt d'un exemple d'évaluation avec ChatGPT et l'utilisation d'un megaprompt pour le Conditionner mais je me rends compte qu'un tuto sur les rag serait nécessaire de nombreuses personnes se questionnent sur le comment et c'est normal
+07/04/2024, 22:39 - Rochane: Effectivement, on maintient le sujet de l'évaluation pour ce live du 10 avril mais pour le prochain, des partages de pratiques sur les GPTs s'impose 🙂
+07/04/2024, 22:41 - Clément Cahagne: J’ai fait un wébinaire il y a peu sur le sujet et en effet, beaucoup de personnes intéressées par ce sujet spécifique des GPTs et autres chatbots personnalisables. Il y a un vrai besoin je pense, et surtout besoin d’une méthodologie pour les développer, les nourrir, les tester et les modifier

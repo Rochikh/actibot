@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 504
+Messages: 9
+
+=== CONTENU ===
+17/06/2024, 20:41 - ‎+33 6 33 81 62 28 a rejoint le groupe à partir de la communauté.
+17/06/2024, 20:45 - +33 6 20 97 18 83: Bonjour @41793265140, Si mes souvenirs sont bons en termes de bonnes pratiques de la formulation du prompt @33614272586  avait proposé une superbe ressource très complète destinée aux ingénieures mais qui a mon avis peut-être réadapté à un jeune public. Enfin, je ne sais pas si la ressource est toujours disponible en partage dans ce groupe?  Ou le lien vers le replay de sa présentation. Ça m'intéresse aussi, j'accompagne sur la formation  des enseignants et des étudiants à l'IA dans le supérieur.
+17/06/2024, 21:05 - +41 79 326 51 40: Merci beaucoup pour ces références. 😍Je vais aller voir.
+En fait, *je m'interroge surtout sur la possibilité et/ou le bien fondé d'une évaluation des prompts produits par mes élèves.* Cette année je leur ai donné les fondements des prompts... Cependant, j'ai réalisé qu'en fait ils connaissent la théorie mais, ensuite, ils reviennent aux vieux automatismes et utilisent chatgpt comme un moteur de recherche... voire fournissent des documents hors sujets ou infondés... J'aimerais trouver une solution viable pour la prochaine année.
+17/06/2024, 21:08 - Vincent DROUOT: @33620971883 Oui en effet il y a des prompts très bien pensés, réalisés par ce couple d’Universitaire.
+Je remets le lien ci-dessous.
+Je les ai testés en demandant simplement de répondre en français, et c’est une magnifique ressource :
+17/06/2024, 21:08 - Vincent DROUOT: https://www.moreusefulthings.com/prompts
+17/06/2024, 21:10 - Rochane: Dans le scénario que j'ai mis en haut, il y a justement une activité où on leur demande, par groupes, de choisir un sujet et de comparer 3 prompts différents: 1 prompt simple ( à la moteur de recherche), 1 autre plus élaboré avec RCT et 1 dernier avec RCT+ questions sur le contexte avant qu'il réponde+ éventuellement un exemple. La différence entre les outputs est criante et ils en prennent conscience 🙂 <Ce message a été modifié>

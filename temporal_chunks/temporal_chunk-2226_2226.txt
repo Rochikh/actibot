@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 520
+Messages: 14
+
+=== CONTENU ===
+https://youtu.be/6xK8Pc-C6k4?si=wVZxDcNjkqqoXsTT
+05/06/2025, 21:58 - Rochane: Oui j'ai vu et il a été honnête en disant qu'il active mais a montré comment désactiver l'entraînement sur ses données
+05/06/2025, 22:00 - Clotilde IA: Mais du coup, enfreindrait-il le RGPD? (Je suis dans sa base de données 😅)
+05/06/2025, 22:03 - Gregoire IA: lol... du coup oui 😛
+mais sans vouloir s'acharner sur ce genre d'influenceur, s'il a activé l'option que qques minutes ca ne suffit pas pour que les données soient parties... ou ce serait vraiment un coup à pas de bol (pour lui) que le robot de ChatGPT se soit rué pour analyser sa Bd ! <Ce message a été modifié>
+05/06/2025, 22:03 - Francois Bocquet: C’est évidemment complètement hors de clous du point de vue RGPD. A ne pas faire… seuls des LLM correctement contrôlés pourraient permettre de telles opérations !
+05/06/2025, 22:07 - Gregoire IA: la question sur laquelle j'ai tjs un doute reste le cas des SIAGen (les ChatBOTs comme ChatGPT) dans lesquels on a activé les paramètres de confidentialité. Les LLM ne s'entrainent pas mais les données sortent quand même non ? De ma compréhension, on ne peut faire ce que Ludo.S. fait seulement dans le cas d'un ChatBOT installé en local.
+Du coup @32471263622 , tu aurais de quoi faire le buzz et le 1er proces fait à un influenceur 😛
+05/06/2025, 22:11 - Ilham IA: Tout sort à priori d’une façon ou d’une autre- qd on dit les prompts ne sortent pas , ça ne veut pas dire que les outputs ne sortent pas
+05/06/2025, 22:24 - +33 6 89 54 90 68: Juste une question très sérieuse :
+- un CRM est hébergé sur des serveurs distants (comme un LLM)
+- ⁠est ce qu’un LLM stocke la donne quand c’est un output (lors d’une session qui n’autorise pas l’usage des données pour entraînement)
+- ⁠si oui quelle est la différence d’un point de vue RGPD entre un CRM et un usage LLM?
+05/06/2025, 22:38 - Clotilde IA: Dans cette vidéo, quand il bascule sur les réglages, le bouton est On, il le met sur Off pour montrer où il est, et il le remet sur On en disant « Moi je le laisse activé, ça ne me dérange pas. »

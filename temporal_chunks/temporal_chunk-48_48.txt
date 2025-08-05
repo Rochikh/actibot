@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 535
+Messages: 14
+
+=== CONTENU ===
+02/11/2023, 16:13 - Rochane: Voici le prompt reformulé sans les interviews :
+Partie 1 : Le Prompt
+Claude, je te donne le rôle d'expert en intelligence artificielle appliquée à la formation professionnelle pour adultes. Rédige de manière accessible et concrète, avec des exemples d'applications, un plan détaillé d'environ 100 pages pour un livre qui va intéresser les organismes de formation et les entreprises sur l'utilisation de l'intelligence artificielle pour améliorer la formation professionnelle des adultes.
+Le plan doit contenir :
+Une introduction d'une page présentant les enjeux de l'IA dans la formation professionnelle
+8 à 10 chapitres de 5 à 10 pages chacun, détaillant des cas concrets d'usage de l'IA : personnalisation des parcours, adaptation au profil apprenant, simulation de situations professionnelles, évaluation des compétences, learning analytics, conseil pédagogique par chatbot, création de contenus pédagogiques par IA, formation immersive en réalité virtuelle ou augmentée, etc.
+Un chapitre dédié aux recommandations pratiques à destination des organismes de formation et des entreprises (une dizaine de pages)
+Une conclusion d'une page sur les perspectives et défis de l'IA dans la formation professionnelle
+Le plan doit susciter l'intérêt des professionnels de la formation et leur donner envie d'approfondir le sujet.
+Partie 2 : La critique
+Note : 5/5
+Le prompt me semble désormais optimal pour le livre souhaité. Il décrit précisément le contenu, le style et la structure adaptés au public cible de professionnels de la formation. Les thématiques des chapitres sur les cas d'usage sont pertinentes et diversifiées. Le volume de 100 pages paraît adapté pour approfondir le sujet de manière concise et accessible. Je n'ai pas d'autre critique ou suggestion d'amélioration à ce stade.
+Partie 3 : Les questions
+Je n'ai pas de question supplémentaire pour l'instant, le prompt me semble complet. N'hésite pas à me préciser si tu souhaites encore le modifier ou l'enrichir. Sinon, je peux commencer à rédiger le plan selon ces consignes détaillées. Fais-moi signe quand tu es prêt à passer à l'étape suivante

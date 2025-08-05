@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 15
+
+=== CONTENU ===
+21/12/2024, 12:51 - +216 58 114 258: Ce message a été supprimé.
+21/12/2024, 13:15 - +33 6 51 88 68 57: Notion ?
+21/12/2024, 13:51 - François JOURDE: Bonjour, j'ai un peu mis à jour la traduction de l'échelle de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/README.md
+Mes notes sont aussi ici : https://publish.obsidian.md/jourde/NOTES/IA+_+GENERATIVE+AI/3.+IA+%26+EDUCATION/IA+%26+EDUCATION+-+ENJEUX/AIEd+-+%C3%A9valuation+-+AI+assessment+scale+(AIAS) <Ce message a été modifié>
+21/12/2024, 15:01 - +33 6 28 06 83 96: bonjour François prévois-tu de créer quelque chose croisant   l'intelligence artificielle et la méthode abc learning concevoir des ingénierie de formation  ?
+21/12/2024, 15:02 - +33 6 28 06 83 96: *pour
+21/12/2024, 15:26 - François JOURDE: J'adorerais, oui. Avec mon camarade Erwan Gallenne, nous avons envisagé quelques pistes d'assistance IA via GSheets ou Excel online pour la scénarition pédagogique. Rien de concret encore. Sans doute des personnes travaillent-elles déjà aitour de cela.
+21/12/2024, 15:59 - Votre code de sécurité avec +32 475 21 53 10 a changé. Appuyez pour en savoir plus.
+21/12/2024, 16:49 - Votre code de sécurité avec ~ Sév a changé. Appuyez pour en savoir plus.
+21/12/2024, 19:45 - +32 478 30 64 79: Zotero pour les ressources et la bibliographie en combinaison avec Notion ou Evernote, belle soirée
+21/12/2024, 22:12 - estelle Duterage Drion IA: Hello les amis,
+Je lance une bouteille à la mer
+Pour notre association co créée avec des étudiants « GENUP2050 ».
+*On a un beau projet pour la jeunesse , on a déjà du soutien de la part de fondations et aussi du réseau  mais on a besoin d’être conseillé en janvier sur l’intelligence artificielle, je vous explique en quelques mots :*
+Nous travaillons actuellement sur un outil d’accélération des compétences intitulé « SpotBulle ». Cet outil permettra à chacun, des plus jeunes aux étudiants, de pitcher en vidéo leurs projets et objectifs, de libérer leur créativité, et d’être mis en réseau avec des adultes ou d’autres jeunes  dans une dynamique collaborative.

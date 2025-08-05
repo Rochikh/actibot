@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 559
+Messages: 14
+
+=== CONTENU ===
+01/07/2025, 12:46 - ‎+33 6 18 33 18 36 a demandé à rejoindre le groupe.
+01/07/2025, 13:41 - Votre code de sécurité avec +33 7 85 70 08 89 a changé. Appuyez pour en savoir plus.
+01/07/2025, 13:49 - Votre code de sécurité avec ~ Ecole des nouvelles Sciences et Ingenierie a changé. Appuyez pour en savoir plus.
+01/07/2025, 16:36 - ‎+33 6 18 33 18 36 a rejoint le groupe à partir de la communauté.
+01/07/2025, 16:36 - ‎+62 877-3060-7092 a rejoint ce groupe grâce à son lien d’invitation
+01/07/2025, 20:55 - Votre code de sécurité avec ~ zaza a changé. Appuyez pour en savoir plus.
+01/07/2025, 23:56 - +33 6 66 98 84 23: Voici le lien de CAP IA : https://docs.google.com/document/d/1ETByI5e9TZoDiOvF2z9Dt8qC-9XTW25p-Q_CA9TBm7M/edit?tab=t.0#heading=h.oi1fywsdt0lv
+01/07/2025, 23:58 - +33 6 66 98 84 23: Le lien d'inscription à cette formation : https://t.me/+SKfugbkR_Y1lYWNk
+02/07/2025, 04:49 - Votre code de sécurité avec Yvelines a changé. Appuyez pour en savoir plus.
+02/07/2025, 09:17 - Votre code de sécurité avec Yvelines a changé. Appuyez pour en savoir plus.
+02/07/2025, 09:26 - Daniel Pappalardo: Google annonce le déploiement de son IA pour l'éducation. L'intérêt d'après l'article : des outils, comme les outils videos,  NotebookLM et la possibilité de créer des agents avec ses cours. En étant très très  prudent en France côté RGPD, cela pourrait intéresser les enseignants qui utilisent déjà la plateforme Classroom. Classe du futur : Google déploie son IA Gemini dans toutes les écoles, même en France - Les Numériques https://share.google/aEHTh4RuyhyAQ71kN
+02/07/2025, 09:35 - +33 6 77 09 47 45: Bonjour, la DNE demande avec insistance et autorité, de ne pas utiliser les solutions états-uniennes dans l'éducation nationale. Donc ça va poser problème, je pense ? Non ?
+02/07/2025, 09:49 - ‎~ Valentin Sanouiller est parti·e
+02/07/2025, 09:49 - Francois Bocquet: Attention de bien mettre en œuvre les mesures préalables aux traitements avec les suites Microsoft O365 avec CoPilot et Google Workspace avec Gemini (ou encore Canva ou suite Adobe) pour que le responsable de traitement s’assure de la mise en conformité avec le RGPD. Je confirme que les traitements réalisés avec ces suites peuvent être conformes au RGPD.

@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 12
+
+=== CONTENU ===
+30/11/2023, 13:41 - +32 496 42 84 33: De son temps, il recevait une mandarine à Noël et il était heureux
+30/11/2023, 13:49 - Rochane: <Médias omis>
+30/11/2023, 14:04 - Rochane: Attention aux a priori, c'est un jeune d'une trentaine d'années (je suis allé sur son compte Facebook)
+30/11/2023, 14:17 - +33 7 71 20 50 67: Et il n'a pas complétement tort. Quoi qu'on en penses nos outils numériques censés nous rapprocher peuvent aussi très facilement nous isoler. Il faut respecter son point de vue et l'accepter. Et aussi échanger avec lui s'il vient à la conférence.
+30/11/2023, 19:06 - +33 6 63 72 18 15: Ressource déposée sur la banque de données https://edunumrech.hypotheses.org/files/2023/11/IA_gen_ingenierie_pedago_EA_291123.pdf
+01/12/2023, 13:50 - ‎+212 658-518929 a rejoint le groupe à partir de la communauté.
+01/12/2023, 17:52 - Thierry VANOFFE: Hello, je propose un calendrier de l'Avent sur l'IA cette année, si vous en croisez d'autres n'hésitez pas à partager : https://www.linkedin.com/posts/thierryvanoffe_a-la-d%C3%A9couverte-de-google-bard-calendrier-activity-7136393385833074689-lGc_/?utm_source=share&utm_medium=member_desktop
+01/12/2023, 18:45 - Jacques BARATTI: j'en ai fait un aussi (IA et Education) https://bit.ly/3uD0Z18
+02/12/2023, 10:55 - Votre code de sécurité avec +33 7 52 66 78 66 a changé. Appuyez pour en savoir plus.
+02/12/2023, 11:51 - +33 6 13 86 39 92: Bonjour, je partage cette conférence https://citephilo.org/evenements/intelligence-artificielle-intelligence-humaine-la-double-enigme-gallimard/
+02/12/2023, 23:08 - Ahmadou Ba: https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/
+03/12/2023, 08:33 - Rochane: Pour lutter contre le piratage par l'IA, il faut justement comprendre comment se comportent les hackers. Voici un jeu qui vous sensibilise à ça. Perso, j'ai bloqué au niveau 3 sur 8 mais il paraît que certains savent aller plus loin juste avec des prompts persuasifs. ( Vous pouvez converser en français) https://gandalf.lakera.ai/?utm_source=generationia.flint.media&utm_medium=newsletter&utm_campaign=les-nouveaux-pirates-de-chatgpt <Ce message a été modifié>

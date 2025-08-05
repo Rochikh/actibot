@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 23
+
+=== CONTENU ===
+16/10/2024, 08:20 - Pierrick BRIAND: Salut Jacques, merci pour le tuyau sur Google Illuminate, je suis passé complètement à côté !  J'ai écouté quelques capsules, les sujets sur l'IA sont top. Par contre, j'ai trouvé que les dialogues et la structure étaient un peu rigides pour l'instant.
+16/10/2024, 08:34 - Rochane: Replay d'hier soir
+https://drive.google.com/file/d/1jFJUAvSoHlTvGrr_tJ1Srg5aZslEuALl/view?usp=drivesdk
+16/10/2024, 08:40 - Jean-Marc Everard: Merci beaucoup Rochane, comme je ne pouvais pas être des vôtres hier soir je m’en vais regarder ça fissa👍🏻.
+16/10/2024, 09:09 - Jacques BARATTI: j'attends impatiemment de pouvoir tester et surtout la version des podcasts en français
+16/10/2024, 09:10 - ‎+33 6 52 61 52 03 est parti·e
+16/10/2024, 11:38 - ‎+216 95 634 201 a demandé à ajouter +33 6 67 65 41 01.
+16/10/2024, 14:19 - ‎+216 95 634 201 a ajouté +33 6 67 65 41 01
+16/10/2024, 16:20 - ‎+33 6 32 56 35 32 a demandé à rejoindre le groupe.
+16/10/2024, 16:26 - ‎+33 6 32 56 35 32 a rejoint ce groupe grâce à son lien d’invitation
+16/10/2024, 17:26 - ‎+33 6 38 01 70 48 est parti·e
+16/10/2024, 18:26 - ‎+33 6 65 32 20 52 a demandé à rejoindre le groupe.
+16/10/2024, 18:26 - ‎+33 6 65 32 20 52 a rejoint ce groupe grâce à son lien d’invitation
+16/10/2024, 20:10 - +33 6 16 78 37 63: null
+16/10/2024, 20:14 - Vous avez supprimé +33 6 16 78 37 63
+16/10/2024, 20:40 - +33 6 64 28 89 93: Bonsoir. Je cherche une ia pour,  à partir de plusieurs retranscriptions d'un même récit, me proposer une version "idéale"
+16/10/2024, 20:40 - +33 6 64 28 89 93: Merci
+16/10/2024, 20:44 - Rochane: tu as essayé Chat GPT ?
+16/10/2024, 20:51 - +33 6 64 28 89 93: Oui. Et c'est pas propre
+16/10/2024, 21:09 - StéphaneIA: Teste avec Gemini aistudio.google.com 🙂 déposes les fichiers et donnes lui ton prompt
+16/10/2024, 21:09 - StéphaneIA: Je suis curieux de résultat
+16/10/2024, 21:10 - StéphaneIA: Sur la droite fait sélectionner Gemini 1.5 pro ou 1.5 pro 002 pour voir
+16/10/2024, 21:11 - ‎+33 6 67 65 41 01 est parti·e

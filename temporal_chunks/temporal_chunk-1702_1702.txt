@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 16
+
+=== CONTENU ===
+02/02/2025, 18:49 - +33 7 84 33 02 62: Bonjour @rochane , je viens de regarder fact navigator ton extension et je m interrogeais sur son fonctionnement… comment parvient-elle à debunker l’information ? Je voudrais accompagner sur le fact checking  des apprenants , en complément d’un pilote avec la solution « be my média » …
+02/02/2025, 19:13 - +41 79 258 90 36: Ce message a été supprimé.
+02/02/2025, 19:13 - ‎~ Fa est parti·e
+02/02/2025, 19:50 - Gregoire IA: Si vous ne me suivez pas, voilà le lien de ma publication de ce dimanche : analyse de Deepseek pour une intégration en éducation :
+https://www.linkedin.com/posts/aribautg_deepseek-liagen-qui-me-perturbe-ugcPost-7291195403016818688-wcHn?utm_source=share&utm_medium=member_android
+02/02/2025, 19:55 - Rochane: Je n'ai pas mis l'extension sur le chrome store en public mais en non répertorié.
+https://bit.ly/extfn
+Vous pouvez l'installer et le faire un retour. Merci de ne pas trop la partager car ce n'est pas gratuit 😉
+02/02/2025, 21:18 - +33 7 84 33 02 62: Ok ! Merci. Je vais la tester sans la partager.
+02/02/2025, 22:19 - Votre code de sécurité avec ~ Hélène a changé. Appuyez pour en savoir plus.
+03/02/2025, 09:37 - +41 79 326 51 40: Si jamais cela peut vous intéresser, j'ai testé cela avec mes étudiants au lycée : https://jeu.escape-fake.fr/
+Interactif et ils donnent des conseils au fur et à mesure de leur progression.
+03/02/2025, 09:39 - Jean-Marc Everard: Excellent !
+03/02/2025, 09:42 - +41 79 326 51 40: Ça date un peu et un des sites proposés pour fact-checker n'est plus mis à jour, mais je trouve tout de même que ça reste très formateur.
+03/02/2025, 09:44 - +41 79 326 51 40: <Médias omis>
+03/02/2025, 09:45 - Jean-Marc Everard: J'aime beaucoup l'intention. En fait, je suis en train de créer une app pour entraîner son esprit critique mais j'avoue que le Fine Tuning est difficile. Donc j'aime toutes les initiatives dans ce sens... Ca va devenir une compétence indispensable dans l'aire de ce que Clément Viktorovitch appelle la post-vérité...

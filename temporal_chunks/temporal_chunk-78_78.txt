@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 539
+Messages: 9
+
+=== CONTENU ===
+13/11/2023, 16:58 - Jacques BARATTI: C'est possible, mais l'utilisation du ChatBot restant payante (je suppose !) cela va entrainer un cout pour le concepteur (difficilement prévisible puisque fonction de l'utilisateur) qui sera forcément obligé de le répercuter sur les utilisateurs
+13/11/2023, 16:59 - Rochane: Les tarifs actuels de l'API OpenAI sont les suivants :GPT-4 Turbo :Input : $0.01 pour 1 000 tokens.Output : $0.03 pour 1 000 tokens.GPT-4 :gpt-4 : $0.03 pour l'input de 1 000 tokens et $0.06 pour l'output de 1 000 tokens.gpt-4-32k : $0.06 pour l'input de 1 000 tokens et $0.12 pour l'output de 1 000 tokens.GPT-3.5 Turbo :gpt-3.5-turbo-1106 : $0.0010 pour l'input de 1 000 tokens et $0.0020 pour l'output de 1 000 tokens.gpt-3.5-turbo-instruct : $0.0015 pour l'input de 1 000 tokens et $0.0020 pour l'output de 1 000 tokens
+13/11/2023, 17:00 - Rochane: L'équivalent de 1 000 tokens est d'environ 750 mots.
+13/11/2023, 17:01 - Jacques BARATTI: Merci encore ! Oui j'avais vu ces tarifications qui effectivement paraissent faibles. Mais, GPTStore sera planétaire… Une fois ton ChatBot en ligne si il a du succès tu vas payer !
+13/11/2023, 17:03 - +32 498 78 46 36: Non. Quand vous partagez un gpt avec un utilisateur qui n'a que gpt 3.5 turbo, cela lui indique qu'il n'a pas *encore* accès à cette fonctionnalité. Question de temps donc. Au niveau rentabilité du modèle pour openai je ne sais pas.
+13/11/2023, 17:05 - Jacques BARATTI: Merci pour la discussion, attendons donc nous aurons sans doute de l'information plus précise
+13/11/2023, 17:14 - Rochane: S'il a du succès, tu vas gagner de l'argent 🙂
+13/11/2023, 17:17 - Jacques BARATTI: Je n'ai pas compris comment (en fait je cherche surtout à ne pas en perdre…). En tant que concepteur je paye les frais des utilisateurs (tarifs que tu as fournis). Si l'accès au ChatBot est libre et gratuit c'est moi en tant que concepteur qui paye ! Pour que l'utilisateur paye il faut donc construire et gérer un site marchand ?
+13/11/2023, 17:19 - Rochane: En fonction de l'utilisation des GPT, les plus utilisés seront monétisés mais bon, un peu comme Youtube, il faut avoir une grosse audience

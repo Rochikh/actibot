@@ -1,0 +1,15 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 7
+
+=== CONTENU ===
+Bref, regarder la situation d'un autre point de vue et de questionner la formation, l'éducation et non la technologie, le moyen.
+14/03/2025, 09:01 - Jean-Marc Everard: Je suis assez d'accord avec ça. Pour moi, pour le moment on a beaucoup utiliser l'IA pour essayer de se faciliter la vie en faisant la même chose qu'avant mais assité par l'IA. Peu de disruption selon moi (je ne sais d'ailleurs pas s'il en faut à tout prix). Mais peut-être que reprendre les choses à la base : comment faire monter en compétence des personnes avec certains profils, voir quel base de connaissances est essentielle pour cela, quelles activités etc... et imaginer les choses les plus folles puis voir si on peut les mettre en place, peut-être grâce à l'IA. Pour les évaluations, on n'a toujours pu certifier que l'acquisition de connaissance via des procédés comme ceux décrits dans la vidéo, pas des compétences. Donc peut-être que les mise en situation, le présentiel etc reviendra davantage en effet. Il y a évidemment des problèmes potentiels d'échelle, mais ce sera à voir.
+14/03/2025, 09:15 - +33 7 87 35 78 96: je viens de trouver un moyen très pédagogique pour expliquer le RLHF
+https://www.linkedin.com/posts/fix-c-9366b9_machine-learning-fatigant-activity-7306209016005738497-NDn5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACdRy8BHdbfWMdxMSGbJuDJREQZR7hXc7M
+14/03/2025, 09:16 - +1 (620) 945-9340: This is the latest stock information group, providing members with the latest and best quality stock information. No spam, analysts provide free guidance. Investors and interested friends are welcome to join https://chat.whatsapp.com/L9H0EkLdnTCAZ81JvYlOFJ
+14/03/2025, 11:43 - +33 7 66 46 62 19: Bonjour
+Je prépare un mémoire sur l'impact des IAG sur l'enseignement des langues : vers une pédagogie personnalisée et interactive. Aussi, je souhaiterais mettre en place une étude de cas sur une séquence pédagogique avec et sans IAG ou si un enseignant a déjà un parcours en ce sens que je pourrais intégrer afin de récolter des données. Merci par avance.

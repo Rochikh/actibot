@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 583
+Messages: 12
+
+=== CONTENU ===
+08/09/2024, 11:31 - Fred IA: Merci bcp de ton retour. Je testerai, mais dans l'immédiat, je recherche plutôt une solution opensource
+08/09/2024, 11:32 - +33 6 74 05 09 80: Scribe est open source ?
+Ah ben c'est super intéressant ça. Je cherchais aussi a l'époque et je n'en avais pas trouvé !
+08/09/2024, 11:33 - Fred IA: Merci bcp de ton retour Rochane 👍  Je ne savais pas ce qu'offraient les serveurs de scribe en terme de capacités de stockage, je n'ai pas l'impression que ce soit précisé dans les cgu. Mais 2 ou 3 h c'est déjà top 👍
+08/09/2024, 11:33 - +961 3 381 351: https://generationia.flint.media/p/comment-calculer-vraiment-impact-carbone-de-chatgpt-climat-ia-eau
+Meilleur article sur ces questions
+08/09/2024, 11:33 - Fred IA: Yes 😀
+08/09/2024, 11:43 - +33 6 02 20 69 43: Superbe! C’est une problématique stratégique pour mes clients actuels! Merci! J’explore énormément la RSE et l’impact des IAG sur l’environnement, du coup preneur d’infos :)
+08/09/2024, 12:01 - Vous avez épinglé un message
+08/09/2024, 12:01 - Vous avez épinglé un message
+08/09/2024, 12:48 - Francois Bocquet: « Être RGPD » ne veut rien dire. Tout dépend du responsable de traitement et des contrats passés avec l’éditeur sous traitant. Un outil ne peut pas être RGPD. Seul un traitement peut être conforme. Un service peut mettre en œuvre un traitement conforme pour un usage personnel mais non conforme pour un usage par une institution  (établissement scolaire ou de formation). Le lieu d’hébergement à moins d’impact que le cadre contractuel (sauf situations à problèmes).
+08/09/2024, 12:57 - Francois Bocquet: A propos de conformité RGPD : Scribe est open source mais l’open source n’apporte aucune garantie vis à vis du RGPD (et en plus il n’y a aucune garantie que le code source expose et bien celui qui est exécuté). Les mentions légales obligatoires de par les articles 13 et 14 du RGPD ne sont pas conformes même pour un usage personnel (il manque beaucoup d’informations) et l’utilisation à des fins professionnelles et encore plus avec des stagiaires ou des élèves ne serait possible que si un accord de sous traitance (art 28 du RGPD) était signé or ici il n’en n’est pas question. La conformité RGPD ne peut jamais être déclarée par l’éditeur ou le sous traitant (sauf pour un contrat signé entre l’utilisateur final et le service).

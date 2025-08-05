@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 17
+
+=== CONTENU ===
+Le système effectue une recherche dans une base de données indexée pour trouver les documents/passages les plus pertinents par rapport à la question.
+Les documents/passages pertinents sont transmis à un modèle de langage de type GPT (comme ChatGPT) en plus de la question initiale.
+Le modèle de langage génère alors une réponse en s'appuyant à la fois sur son entraînement initial et sur les informations extraites de la base de connaissances.
+L'avantage principal du RAG est de permettre au modèle de langage d'avoir accès à des informations à jour et spécifiques au domaine traité, ce qui améliore la pertinence et la précision de ses réponses. Le RAG est particulièrement utile pour répondre à des questions factuelles ou techniques nécessitant des connaissances pointues.
+23/05/2024, 09:14 - +33 6 25 79 50 95: Ce qui laisse à supposer qu'un RAG aussi précis soit-il n'est pas exempt d'hallucinations ;-)
+23/05/2024, 09:34 - Letizia ALLEGRINI: Tout à fait il va être plus contraint
+23/05/2024, 10:03 - +33 6 25 79 50 95: Quant aux robots conversationnels spécialisés, j'ai trouvé celui -ci gratuit (parmi d'autres)
+https://huggingface.co/chat/assistant/65e5f65474d1e384bf74e920.
+Dites moi ce que vous en pensez si vous avez l'occasion de le tester.
+Question subsidiaire : s'agit-il d'un RAG ?
+23/05/2024, 10:07 - Rochane: Très intéressant ce post LinkedIn de Benoit Raphaël
+La semaine dernière, OpenAI a mis à disposition de tous ses utilisateurs son dernier modèle de langage, GPT-4o.
+Il est plus puissant que le GPT-4 de la version payante et surtout beaucoup plus rapide.
+Et il est accessible depuis la version gratuite.
+En revanche, si vous voulez : faire des recherches sur le web ou générer des images, vous aurez toujours besoin de la version payante.
+Mais il y a d'autres outils qui permettent de le faire.
+😃 La bonne nouvelle : tous les modèles se ressemblent, donc si vous avez appris à prompter avec ChatGPT vous pouvez prompter de la même manière avec Claude, Gemini ou même Perplexity...

@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 580
+Messages: 19
+
+=== CONTENU ===
+23/05/2024, 21:42 - Francois Bocquet: La carte mentale sur IAGen et RGPD est ici : https://www.mindmeister.com/3291537686/ia-gen-et-rgpd <Ce message a été modifié>
+23/05/2024, 21:46 - Céline Averseng: Vidéo Wooflash (création de flashcards et questions d'entrainements pour les apprenants) :
+https://aunege.fr/tutoriels-wooflash/
+23/05/2024, 21:48 - Céline Averseng: Petits déj de l'aunège : tous les 15 jours, une thématique de l'IA pour l'enseignement abordée en moins de 20 min. https://aunege.fr/ressources/webinaires/
+Tous mes prompts sont dispo sur ce lien. Si vous avez des retours à me faire ou des questions sur la génération d'évaluation, n'hésitez pas ! <Ce message a été modifié>
+23/05/2024, 21:52 - Mapidubost ( Associé d'Antoine): <Médias omis>
+23/05/2024, 21:54 - Mapidubost ( Associé d'Antoine): https://m.youtube.com/watch?v=TfKoRGlmSIw
+23/05/2024, 21:55 - Céline Averseng: Possible aussi via OneNote : "copier le texte de l'image" 😁
+23/05/2024, 22:06 - +33 6 03 20 84 81: 👍 la vidéo a été réalisée avec quel outil ? Elle est top !!
+23/05/2024, 23:56 - +33 6 74 03 79 35: Bonsoir, j'ai raté la réunion de ce soir, je ne la trouve pas sur Tubedu ... pouvez vous m'aider ?
+24/05/2024, 05:55 - Rochane: Je pense qu'elle y sera prochainement. @33612461406
+24/05/2024, 07:21 - Guillaume Singeot: https://tubedu.org/w/u1MkMrQkFXg4qyuih1nc7r
+24/05/2024, 09:14 - Fabien IA: Merci @33612461406
+24/05/2024, 09:43 - Mapidubost ( Associé d'Antoine): AfterEffect, AdodePremiere et Photoshop
+24/05/2024, 11:28 - Votre code de sécurité avec ~ Fa a changé. Appuyez pour en savoir plus.
+24/05/2024, 11:38 - Pierrick BRIAND: Salut à tous ! 👋 Vous avez vu notre dernier webinaire Apolearn sur l'IA et les nouvelles approches pédagogiques ?
+C'est le Mercredi 29 mai 2024 - 14h00, notre invité est Mickaël BERTRAND et on va entre autre aborder la question de la "taxonomie de Bloom révisée" ça va être passionnant !
+🚀 Inscrivez-vous vite ici : https://tinyurl.com/2yfw6vzh
+24/05/2024, 11:49 - +212 644-562660: Vous avez une idée sur comment entrainer un chatbot de formation de façon qu’il soit acceder depuis une platforme microsoft comme Sharepoint ou Teams, je regarde pour le moment Power virtual agents et copilot studio, le premier est compliquer à entrainer meme si c low code, le deuxieme est couteux

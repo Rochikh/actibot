@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 567
+Messages: 18
+
+=== CONTENU ===
+05/03/2025, 09:37 - Adrien Bock IA: Tout ça n’est possible que avec la version copilot dans la version business d’office
+05/03/2025, 09:37 - +33 6 19 89 32 62: https://legrandcontinent.eu/fr/2025/02/28/grok-musk-vance-lia-et-la-guerre-contre-la-verite-une-conversation-avec-gary-marcus/
+Voici une interview de Gary Marcus sur Grok, sur l’IAG mais surtout sur l’importance cruciale dans le contexte actuel de réglementer l’IA.
+05/03/2025, 09:53 - +33 6 19 04 48 10: Bonjour à tous.
+J’ai une pression temporelle très importante pour traduire des présentations PowerPoint ou Google slide de l’anglais au Français.
+Pourriez-vous m’aider pour savoir quelle ia saurait faire le job au mieux ? (Gratuite ou payante)
+Merci beaucoup de votre aide !
+05/03/2025, 09:54 - Cyrille CARTERET: Hello
+@33688213252 a un module dédié sur Google Workspace pour ce besoin.
+05/03/2025, 10:01 - +33 6 19 04 48 10: Merci Cyrille peux tu m’aiguiller pour savoir où trouver ça ?
+05/03/2025, 11:54 - +33 6 85 03 31 84: Tu as 1 fonction de traduction intégrée de fichiers Google Slides disponible sur Google Translate (au moins sur Chrome Windows) et ça traduit même les textes dans les images
+05/03/2025, 12:33 - Votre code de sécurité avec ~ Li a changé. Appuyez pour en savoir plus.
+05/03/2025, 12:41 - Votre code de sécurité avec ~ Li a changé. Appuyez pour en savoir plus.
+05/03/2025, 13:01 - Francois Bocquet: Avez vous découvert Aria sur le navigateur Opéra (gratuit sans compte et illimité) repéré par @33637483689 ? Ça paraît intéressant !
+05/03/2025, 13:03 - Francois Bocquet: C’est ici https://www.opera.com/fr/features/aria
+05/03/2025, 14:23 - +33 6 66 98 84 23: Effectivement il est intégré au navigateur. Pas mal pour quelques besoins mais limité dans la profondeur des réponses
+05/03/2025, 16:03 - +33 6 85 97 38 11: Bonjour à tous,
+Je fais du pro Bono pour une association qui accompagne des jeunes entrepreneurs à impact. Je me suis lancé le défi de construire pour ces entrepreneurs, une formation à l’IA…C’est ma 1ere formation. Certes je pourrais demander à une IA de la faire mais j’ai appris qu’il n’était pas « sage » de déléguer ce que l’on ne connait pas. Je suis donc à l’écoute de vos conseils, source, agents IA dédié à la formation, comment ancrer le savoir …

@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 561
+Messages: 23
+
+=== CONTENU ===
+05/06/2025, 23:25 - Francois Bocquet: Ça peut effectivement faire partie des mesures de minimisation des risques dans les transferts de données à caractère personnel mais ça reste complexe à traiter correctement.
+05/06/2025, 23:26 - +33 6 89 54 90 68: Clairement il faut rajouter une couche pour faire ça. Mais pour un usage intensif et pro c’est clairement une solution à envisager.
+06/06/2025, 06:21 - Votre code de sécurité avec ~ freddy a changé. Appuyez pour en savoir plus.
+06/06/2025, 08:38 - Batier Christophe: Ce message a été supprimé.
+06/06/2025, 08:50 - Batier Christophe: Pour ma part j'utilise Notion pour gérer tous mes projets et depuis l'an dernier
+j'ai basculé mes cours  aussi dessus
+-outil de publication puissant et rapide
+-avec les bases de données
+1-je crée des grilles d'analyses critériées pour les travaux rendus
+2- Pour faire une veille collaborative (outils que les étudiants continuent à utiliser après le cours)
+-Suivi de projet et avec attribution et suivi de tache
+-Dans les bases  de donnée chaque enregistrement peut être une page wiki dans laquelle un chat est associé: ça me permet de faire des feedback personnalisés et d'en discuter simplement sur chaque rendu
+-les étudiants ont les notifications sur l'appli
+3-et j'ai essayé la partie formulaire pour faire l'évaluation du cours...un peu compliqué de mise en oeuvre pour la première fois.
+Je gère aussi la communauté IA4Sup sur Notion je détaille comment ici
+https://christophe-batier.blogspot.com/2024/02/ia4sup-une-veille-collaborative-autour.html
+Mais je n'ai pas encore utilisé l'IA qui est dedans...
+parce que ce n'était pas encore dispo sur l'abonnement que j'avais
+mais ils viennent de changer
+Donc effectivement au démarrage a vide....
+Notion ça peut paraitre compliqué
+mais une fois qu'on voit comment cela fonctionne c'est assez puissant
+06/06/2025, 09:03 - +32 470 06 82 01: J'utilise déjà Notion tous les jours pour organiser mes cours (JDC, notes de réunions, etc.), mes projets (formations et helpdesk aux profs de mon école) et pour ma veille. Pour les formulaires intégrés, je les utilise principalement pour de courts sondages envoyés à mes collègues. Pour les questionnaires plus complexes, ils sont encore un peu limités.

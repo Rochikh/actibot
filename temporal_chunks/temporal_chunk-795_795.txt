@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 9
+
+=== CONTENU ===
+Black Forest Labs, l'équipe qui a contribué au développement du modèle original Stable Diffusion, a lancé Flux, un modèle texte-image open-source. Avec un nombre impressionnant de 12 milliards de paramètres, Flux peut produire des images qui rivalisent avec celles de Midjourney, et peut-être même avec n'importe quel autre modèle actuellement disponible, qu'il soit à code source ouvert ou fermé.
+Flux se décline en trois variantes : Flux Dev, qui est open-source avec une licence non commerciale pour le développement communautaire ; Flux Schnell, qui est une version plus rapide, distillée et fonctionnant jusqu'à dix fois plus vite, disponible sous une licence Apache 2 ; et le modèle haut de gamme, Flux Pro, qui est une version à source fermée disponible via une API.
+https://intelligence-artificielle.developpez.com/actu/361076/Flux-une-nouvelle-IA-generative-texte-image-open-source-avec-12-milliards-de-parametres-bat-Midjourney-Stable-Diffusion-3-et-Auraflow-par-Black-Forest-Labs-l-equipe-de-l-original-Stable-Diffusion/
+06/08/2024, 11:28 - ‎+590 690 30-5971 a demandé à rejoindre le groupe.
+06/08/2024, 11:37 - Votre code de sécurité avec +33 6 13 86 39 92 a changé. Appuyez pour en savoir plus.
+06/08/2024, 11:40 - +33 6 37 28 05 42: Demande effectuée, Aline 🙂
+06/08/2024, 11:45 - ‎+33 7 67 30 67 77 a demandé à rejoindre le groupe.
+06/08/2024, 14:56 - Jean-Marc Everard: Bonjour, la réponse à ma question se trouve peut-être bien plus haut mais il est difficile de remonter sur tous ces mois d'échanges. Je cherche une IA capable de la faire la transcription et si possible la traduction Nl vers FR + transformer en sous-titre de tout ce qui est dit dans une vidéo. Attention, celle-ci ne peut pas être mise sur YouTube. Auriez-vous des suggestions ? Merci d'avance 🙏
+06/08/2024, 15:07 - +33 6 76 04 48 20: Pour ce qui est de faire de la transcription, il y a Dicte qui fait le job (avec des possibilités de traitement intéressantes en plus). Ceci étant, je mets souvent à contribution l’outil de dictée vocale de Word, et je suis étonné de son niveau de performance.

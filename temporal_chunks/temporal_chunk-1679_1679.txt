@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 21
+
+=== CONTENU ===
+C'est clairement le marqueur de grandes manœuvres ...
+mon point de vue https://christophe-batier.blogspot.com/2025/01/ia-cest-la-fete-du-slip.html
+28/01/2025, 13:06 - Rochane: <Médias omis>
+28/01/2025, 13:16 - Rochane: Tu penses qu’on pourrait créer un genre de cadre global pour collecter des données ‘propres’ et éthiques pour les IA, ou c’est juste impossible vu toutes les différences culturelles et sociales dans le monde ?
+28/01/2025, 13:23 - Batier Christophe: Oui on peut ça va devenir c'est une nécessité
+c'est ce que cherche a mettre en place l'IA act
+ET tu as aussi des travaux partiels dans ce sens avec
+https://futureoflife.org/document/fli-ai-safety-index-2024/
+L'indice de sécurité de l'IA FLI 2024 a donc réuni un panel indépendant de sept experts éminents en IA et en gouvernance pour évaluer les pratiques de sécurité de six grandes entreprises d'IA à usage général dans six domaines critiques.
+et ce travail autour des licence
+https://pure.mpg.de/rest/items/item_3588217_2/component/file_3588218/content
+et ces tableaux de bord comparant pas mal de parametre (il manque la consommation electrique!)
+https://artificialanalysis.ai/
+28/01/2025, 15:56 - Jean-Marc Everard: Bonjour Robin, primo je suis d’accord avec toi sur la difficulté à trouver des experimentaux convaincants et oui je suis intéressé par ta documentation. Merci 🙏
+28/01/2025, 16:10 - ‎+32 496 93 38 31 est parti·e
+28/01/2025, 17:38 - +44 7776 747507: Merci Robin; intéressée aussi stp
+28/01/2025, 17:40 - +44 7776 747507: Requête: Bonjour communauté, je prépare un post LinkedIn sur Perplexity, mais je ne le maîtrise pas complètement Est-ce qu'il y a un expert en la matière pour revoir/conseiller? Merci d'avance
+28/01/2025, 17:44 - Gregoire IA: Veux tu me contacter sur LinkedIn, j'ai justement publié un carrousel sur cet outil. Ce serait peut être une base pour toi
+28/01/2025, 17:46 - Gregoire IA: Un de mes best seller :-p
+https://www.linkedin.com/feed/update/urn:li:activity:7279741819502882816/
+28/01/2025, 17:47 - +44 7776 747507: Super, c'est fait; merci Grégoire!

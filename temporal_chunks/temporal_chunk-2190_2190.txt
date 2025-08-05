@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 524
+Messages: 18
+
+=== CONTENU ===
+22/05/2025, 14:38 - Batier Christophe: <Médias omis>
+22/05/2025, 15:06 - +1 (514) 791-7916: Claude s’impose chez les étudiants en sciences https://moncarnet.com/2025/05/21/claude-nouvel-assistant-detude-prefere-des-etudiants-en-sciences/
+22/05/2025, 15:30 - Francois Bocquet: https://www.ludomag.com/2025/05/20/maskott-integre-lia-dans-tactileo-pour-personnaliser-les-apprentissages/
+22/05/2025, 15:26 - ‎~ Virginie BUELENS est parti·e
+22/05/2025, 17:04 - +34 683 61 41 61: Génial, merci ! Auriez vous s'il vous plait regroupé les 5 Genially sur un portail commun ?
+22/05/2025, 18:41 - +41 79 258 90 36: Ce message a été supprimé.
+22/05/2025, 18:42 - +41 79 258 90 36: Ce message a été supprimé.
+22/05/2025, 18:50 - +33 6 42 26 64 70: https://www.linkedin.com/posts/regisdoucet_internet-est-mort-cette-vid%C3%A9o-nest-pas-activity-7331338070601994240-ErYd?utm_medium=ios_app&rcm=ACoAABvDiDsBVyxvOTEFQXFIN56SOjke7plakYU&utm_source=social_share_send&utm_campaign=whatsapp
+Encore un pas de géant côté génération de vidéos. Les scaling laws ne mentent pas, on a pas fini d’être surpris ;)
+22/05/2025, 18:52 - Céline Averseng: Pas encore, mais vous avez les 4 autres sur le site de l'aunege. Le 5ème y sera rapidement...
+22/05/2025, 18:53 - Vous avez supprimé +44 7351 520825
+22/05/2025, 19:13 - +41 79 258 90 36: Merci pour ces GPTs que je vais expérimenter avec des enfants à partir de 7 ans, en Allemand. ChatGPT fait d'ailleurs de grosses fautes sur les cartes.
+22/05/2025, 19:27 - Sébastien Place: Oui en version de licence Copilot 365
+22/05/2025, 20:21 - Rochane: Comment ça dans 365 ? Je ne le vois pas avec ma licence pro
+Je profite pour poser aussi cette question
+On a des licences student A5 pour nos stagiaires et quand je teste avec cette licence, j'ai copilot arrive bientôt
+22/05/2025, 20:42 - Sébastien Place: Dans la licence Copilot 365. C'est la licence additionnelle qui donne accès aux Copilots dans les applications de la suite.
+L'outil inclus dans les licences Microsoft 365 A1 A3 et A5 s'appelle Copilot Chat (comme ça on peut le différencier de la version Copilot 365)

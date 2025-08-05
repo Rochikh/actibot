@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 560
+Messages: 15
+
+=== CONTENU ===
+16/01/2024, 14:53 - +33 7 85 94 69 69: Pour l’avoir tester il est bien cet outil
+18/01/2024, 02:29 - ‎+687 86.70.96 a rejoint le groupe à partir de la communauté.
+18/01/2024, 07:39 - Rochane: https://support.anthropic.com/en/articles/8461763-where-can-i-access-claude-ai Les pays où Claude.ai est disponible avec la possibilité d'analyser des documents dans la version gratuite. (Pas la France et ni la Belgique)
+19/01/2024, 19:12 - Rochane: @33610720856 peux-tu nous mettre l'isbn de ton livre pour ceux et celles qui sont intéressé·es de l'acheter ?
+19/01/2024, 19:25 - Lucie: Bonjour Rochane. Merci pour ta proposition .Je ne connais pas mon ISBN mais voici le lien vers mon livre sur le site de mon éditeur. https://www.titashop.fr/products/lia-pour-la-formation-dhorne Sinon il est disponible partout ailleurs (fnac, Cultura, amazon , librairie). Je sais juste que mon éditeur fait les envois plus vite pour cette période de lancement
+19/01/2024, 19:28 - Laurent The Cure: Bonsoir, étant à l'étranger, est il disponible en ebook ? Sinon j'attendrais d'être rentré
+19/01/2024, 19:29 - Lucie: Non dommage pas de ebook. Mon éditeur fais les envois à l'étranger si besoin.
+19/01/2024, 19:30 - Laurent The Cure: Ça va plus me coûter en bougies qu'en gâteau... Je le prendrai pendant mon court retour en France. Merci
+19/01/2024, 19:33 - Rochane: Je donne ce week-end une formation en Tunisie pour une boîte Belge. Les participant·e·s n'auront que Chat GPT 3.5. Voici le scénario de la formation de 6 h en présentiel bit.ly/apricosfaxia
+19/01/2024, 19:43 - ‎+352 691 397 315 est parti·e
+19/01/2024, 20:32 - Lucie: Sympa l'idée de donner ses contenus via notion
+20/01/2024, 08:49 - Thierry VANOFFE: Coucou Lucie seras tu avec ton livre au salon learning technologies semaine pro à paris ? Peut on l’acheter la bas ? Sinon qui passe sur ce salon ? J’y serai le premier jour mercredi pour ma part. Bon we !
+20/01/2024, 09:12 - Lucie: <Médias omis>
+20/01/2024, 17:00 - Ahmadou Ba: Bonjour,
+Je projette d'organiser une petite formation sur l'utilisation de ChatGPT par les élèves. J'avoue c'est une entreprise assez risquée vu les craintes que cela suscite chez nous (tricherie, paresse intellectuelle). Mais je vais faire ce pari risqué.

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 14
+
+=== CONTENU ===
+27/12/2024, 19:23 - +41 79 258 90 36: J'utilise sur PC le programme Vibe 3.0 basé sur l'IA de Whisper d'OpenAi qui extrait les textes de vidéos et audio, à télécharger à https://www.numerama.com/telecharger/vibe.html. J'ai exporté le texte de cette vidéo de 1h17 en 8 min https://www.youtube.com/watch?v=cuCCZ0dPsOM
+27/12/2024, 20:16 - +33 6 62 42 82 55: Super intéressant mais anxiogène effectivement .
+27/12/2024, 20:18 - +33 6 19 89 32 62: Sinon j’utilise chrome avec l’extension transcript YouTube pour avoir la transcription.
+27/12/2024, 20:20 - +212 612-532308: Ce message a été supprimé.
+27/12/2024, 20:23 - +33 6 19 89 32 62: Oui et très bien fait, ce qui m’a vraiment questionné. Qui est derrière la video « un excellent influenceur de jeux video maîtrisant le story telling » et quelles sont ses motivations ? J’essaye de former les jeunes à se demander systématiquement qui s’exprime et d’où cette personne s’exprime.  Mais c’est tellement bien réalisé que l’on se laisse transporter sans s’interroger davantage.
+27/12/2024, 20:25 - +33 6 19 89 32 62: Il y a je pense également à réfléchir à l’éthique dans la manière même dont on traite de l’IA.
+28/12/2024, 05:23 - Votre code de sécurité avec ~ Sandrine a changé. Appuyez pour en savoir plus.
+28/12/2024, 12:00 - Rochane: Super bibliothèque de pdf sur tous les sujets à combiner avec NotebookLM
+https://www.pdfdrive.com/ <Ce message a été modifié>
+28/12/2024, 12:40 - +41 79 326 51 40: Idem. Pas trouvé qui est réellement à l'origine de cette vidéo
+28/12/2024, 13:24 - +33 7 86 18 83 63: Oui c'est possible
+28/12/2024, 13:50 - +212 644-562660: Y a aussi https://libgen.is/ plus extensive à mon avis
+28/12/2024, 14:26 - +33 6 19 89 32 62: Est ce qu’un personne a déjà utilisé Da Vinci Résolve studio ? Je ne connaissais pas il m’a été recommandé par chat gpt pour gérer la couleur et les transitions pour une video avec des images générées par ia
+28/12/2024, 15:04 - Votre code de sécurité avec estelle Duterage Drion IA a changé. Appuyez pour en savoir plus.

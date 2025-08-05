@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 630
+Messages: 6
+
+=== CONTENU ===
+21/10/2024, 13:50 - Jean-Marc Everard: Bonjour, je vais essayer d'exprimer ma pensée sur ce sujet de façon concise mais donc sans doute caricaturale. Les myhtes de l'apprenti sorcier, du Golem ou de la créature de Frankenstein mettent effectivement en avant le risque de créer quelque chose dont les conséquences nous dépassent (C'est d'ailleusr le début du nouveau livre de Yuval Noah Harari, Nexus). En général, en voyant toujours des conséquences négatives. Pourtant, à ma connaissance, à aucun moment de son histoire l'être humain ne s'est empêché de créer des nouveaux artéfacts, machines ou autres technologies dès lors que c'était simplement possible. Je pense donc qu'en effet il y aura toujours quelqu'un, ici, en chine ou aux USA qui créera quelque chose dont l'usage pourra être problématique, et il se trouvera sans doute quelque part quelqu'un qui n'hésiterait pas à mal l'utiliser par raison mercantile ou de pouvoir. Selon moi, il s'agit là d'un arbitrage de risques à faire. Et plus nous seront nombreux à maîtriser ces technologies pour le bien, plus nous serons prêts à nous rassembler venant d'horizon différents pour influencer le développement de l'IA dans une direction éthique, plus nous aurons de chance d'influencer ceux qui ont la capacité de l'employer autrement. Il ne faut donc pas se tirer une balle dans le pieds et au contraire investir dans les cerveaux et les data centers (à énergie renouvelable) de demain. Parlant d'analyse de risques, je suis étonné qu'on ne fasse pas le parallèle avec l'emploi toujours plus massif d'énergie carbonée qui représente là un danger clair, réel et plus qu'imminent (et pourtant la politique, y compris en France, s'en détourne).
+21/10/2024, 13:58 - martinyemani IA: Absolument
+21/10/2024, 14:19 - Daniel Pappalardo: Petit article à lire assez intéressant sur le côté mythe de l'apprenti sorcier et l'IA... https://frblogs.timesofisrael.com/lia-du-mythe-de-talos-a-la-machine-de-turing/
+21/10/2024, 14:19 - Votre code de sécurité avec ~ Bilo'o Helene a changé. Appuyez pour en savoir plus.
+21/10/2024, 14:46 - +33 6 64 17 58 42: Une vidéo conçue par le centre de sécurité de l'IA qui peut nous faire réfléchir sur la maîtrise que nous pensons pouvoir conserver sur l'ia. Jusqu'à ce que... https://youtu.be/ZP7T6WAK3Ow?si=sRAiv0CZq5ImXXOP
+21/10/2024, 15:12 - Rochane: Je sais que l'on peut aller jusqu'à 50 sources par projet, les sources ne peuvent pas dépasser 500 000 mots, mais je ne sais pas à combien de projets a-t-on le droit sur un compte ?

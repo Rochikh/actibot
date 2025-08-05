@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 11
+
+=== CONTENU ===
+12/04/2024, 11:37 - Jean-Marc Everard: Ce travail a l’air super intéressant !!! Je ne sais pas si vous prévoyez de le partager mais je serais intéressé. L’éducation aux médias est pour moi un enjeu majeur mais encore trop délaissé de manière générale.
+12/04/2024, 11:39 - Rochane: J'avoue être surpris par ces résultats.                                      Les impacts environnementaux de l'intelligence artificielle (IA) sont une préoccupation croissante pour les sociétés humaines. Une analyse comparative des émissions de gaz à effet de serre associées aux systèmes d'IA et aux tâches d'écriture et d'illustration réalisées par des humains a été réalisée . Voici les principales conclusions de cette étude :
+1. Émissions de CO2e : Les systèmes d'IA émettent entre 130 et 1500 fois moins de CO2e par page de texte généré par rapport aux écrivains humains, tandis que les systèmes d'illustration d'IA émettent entre 310 et 2900 fois moins de CO2e par image que leurs homologues humains .
+2. Substituabilité entre humains et IA : Les tâches d'écriture et d'illustration, qui étaient auparavant principalement réalisées par des humains, peuvent être effectuées par des systèmes d'IA avec des émissions de carbone nettement inférieures .
+3. Limites de l'analyse : Cette analyse ne tient pas compte des impacts sociaux tels que le déplacement professionnel, la légalité et les effets de rebond. De plus, l'IA ne peut pas remplacer toutes les tâches humaines .
+Sources :
+Tomlinson, B., Black, R. W., Patterson, D. J., & Torrance, A. W. (2024). The carbon emissions of writing and illustrating are lower for AI than for humans. Scientific Reports, 14(3732). https://doi.org/10.1038/s41598-024-54271-x
+---
+Learn more:
+1. [L'impact de l'intelligence artificielle sur l'environnement](https://www.wechamp-entreprise.co/impact-intelligence-artificielle-environnement/)
+2. [Quels effets l'intelligence artificielle (IA) peut-elle avoir sur l'environnement ? | Le Conseil économique social et environnemental](https://www.lecese.fr/actualites/quels-effets-lintelligence-artificielle-ia-peut-elle-avoir-sur-lenvironnement)

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 15
+
+=== CONTENU ===
+18/03/2025, 08:57 - Votre code de sécurité avec +33 7 89 89 17 66 a changé. Appuyez pour en savoir plus.
+18/03/2025, 09:48 - Francois Bocquet: Mistral Small 3.1 : une “petite” IA française qui promet de faire mieux que ChatGPT et Google
+https://www.lesnumeriques.com/intelligence-artificielle/mistral-small-3-1-une-petite-ia-francaise-qui-promet-de-faire-mieux-que-chatgpt-et-google-n234296.html
+18/03/2025, 09:58 - Francois Bocquet: Intelligence artificielle : Baidu défie OpenAI et DeepSeek avec ses nouveaux modèles Ernie
+L’IA poursuit sa course effrénée, et Baidu entend bien rester dans la course.  https://siecledigital.fr/2025/03/17/intelligence-artificielle-baidu-defie-openai-et-deepseek-avec-ses-nouveaux-modeles-ernie/
+18/03/2025, 13:15 - +32 475 86 01 57: Pdf gear
+18/03/2025, 14:36 - ‎+32 497 37 93 75 a demandé à rejoindre le groupe.
+18/03/2025, 14:36 - ‎+32 473 83 02 46 a demandé à rejoindre le groupe.
+18/03/2025, 14:36 - ‎+32 499 17 80 90 a demandé à rejoindre le groupe.
+18/03/2025, 14:37 - ‎+32 499 17 80 90 a rejoint ce groupe grâce à son lien d’invitation
+18/03/2025, 14:37 - ‎+32 473 83 02 46 a rejoint ce groupe grâce à son lien d’invitation
+18/03/2025, 21:14 - ‎+33 7 66 01 20 58 a demandé à rejoindre le groupe.
+19/03/2025, 08:38 - Votre code de sécurité avec +596 696 43 71 67 a changé. Appuyez pour en savoir plus.
+19/03/2025, 10:02 - Francois Bocquet: Google a une fois de plus étendu les capacités de Gemini avec l’introduction de « Canvas », un nouvel espace de travail interactif conçu pour rationaliser la création de contenu et le codage.  (En) https://chromeunboxed.com/canvas-in-gemini-is-googles-new-interactive-space-for-creators-and-developers/
+19/03/2025, 10:06 - Francois Bocquet: Google vient de déployer Audio Overview sur Gemini, apportant une fonctionnalité très appréciée du public de NotebookLM pour aider les utilisateurs à mieux digérer de grandes quantités d'informations. (En) https://chromeunboxed.com/you-can-now-get-googles-popular-podcast-like-audio-overviews-right-in-gemini/

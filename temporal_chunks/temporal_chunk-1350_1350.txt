@@ -1,0 +1,14 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 581
+Messages: 6
+
+=== CONTENU ===
+27/11/2024, 19:09 - ‎+32 495 79 59 23 est parti·e
+27/11/2024, 19:50 - Francois Bocquet: Un traitement ne peut pas être « RGPD apparemment ». Il est où n’est pas conforme au RGPD. Pour ce faire une analyse juridique et de sécurité préalable intégrant une AIPD (analyse d’impact sur la protection des données) DOIT être réalisée par le responsable de traitement. Un contrat de sous traitance DOIT être passé entre l’éditeur et le responsable du traitement. Et ensuite et seulement ensuite le traitement DOIT être porté aux registres du responsable de traitement (registre des traitements ET registre des sous traitants). Dans le cas présent le responsable de traitement est soit le chef d’établissement soit le recteur de l’académie. A ma connaissance le Ministère n’a pas de contrat de sous traitance avec Mizou ni avec Microsoft ni avec Claude ni avec OpenAI ni avec Gemini. Donc pour que le traitement soit conforme il faut juste consulter le registre tenu par l’établissement et qui est réputé consultable par le public (loi I&L de juin 2018 et code de l’éducation) ou celui du recteur. Le DPD academique peut apporter une réponse écrite quant à l’inscription aux registres. Une réponse évasive et à l’oral n’est pas suffisante pas plus qu’un je crois que c’est bon ;-) en effet je rappelle que mettre en œuvre un traitement de DCP sans respecter les démarches préalables est bien un délit inscrit au code pénal. Des garanties juridiques doivent donc être apportées sur un déploiement en généralisation.
+27/11/2024, 19:52 - +33 6 19 89 32 62: Merci infiniment @33769748512 de m’avoir accueillie parmi vous. Je me présente : Charlotte Karila vaillant. Je suis ingénieur pédagogique et j’anime des formations pour les professions juridiques. Je conçois des e-learning et suis passionnée de pédagogie. Je suis ravie de vous rejoindre.
+27/11/2024, 19:52 - Francois Bocquet: Le statut des pionniers (présents en quantité dans ce groupe) peut amener à argumenter une certaine souplesse vis à vis de l’application rigoureuse du droit mais pas en aucun la généralisation par la formation ne peut s’appuyer sur un cadre légal bancal.
+27/11/2024, 19:53 - +34 683 61 41 61: Merci @33662364404
+27/11/2024, 20:45 - Yvelines: https://rire.ctreq.qc.ca/quel-est-le-role-des-milieux-educatifs-face-a-lia-le-cadre-de-competences-de-lunesco/

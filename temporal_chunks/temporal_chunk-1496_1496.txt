@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 21
+
+=== CONTENU ===
+30/12/2024, 20:02 - Francois Bocquet: Voir articles 9 et 10 du RGPD set page de la CNIL https://www.cnil.fr/fr/definition/donnee-sensible
+30/12/2024, 20:03 - Francois Bocquet: Article 9 https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article9
+30/12/2024, 20:03 - Francois Bocquet: Article 10 https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article10
+30/12/2024, 20:04 - Rochane: Merci pour la rectification, il faut peut être changer quelque chose dans le prompt alors. Je vais modifier et tu le donnes ton avis si tu veux bien 😀
+30/12/2024, 20:05 - Francois Bocquet: Faut que je relise mieux toute la réponse
+30/12/2024, 20:05 - Francois Bocquet: Mais sur un grand écran ;-)
+30/12/2024, 20:06 - Francois Bocquet: Il y a peut être d’autres détails
+30/12/2024, 20:07 - Francois Bocquet: Par exemple compte tenu de la réutilisation à des fins de câblage marketing que je déduis de la réponse il devrait y avoir un consentement mais on ne peut le voir que lorsque l’on réalise l’inscription (pas facile sur la seule analyse du document d’information par exemple)
+30/12/2024, 20:48 - Rochane: Toujours par rapport au MOOC sur l'IA agentique, une information intéressante sur le RAG:
+Pour limiter la portée du RAG à ta base de connaissances, ton prompt doit inclure :
+●
+Une instruction claire indiquant au modèle de s'appuyer uniquement sur les informations fournies.
+●
+Les informations pertinentes de ta base de connaissances.
+●
+Des instructions sur la manière de fusionner les différentes informations, si nécessaire.
+30/12/2024, 20:53 - StéphaneIA: Il parlait aussi de la base vectorielle à mettre en place ?
+30/12/2024, 20:55 - Rochane: Pas encore fini, peut-être la suite du MOOC 😀
+30/12/2024, 21:03 - StéphaneIA: Si c'est juste du prompting alors ce n'est pas du RAG
+30/12/2024, 21:06 - +1 (581) 688-4841: Stp, avec quelle IA réalises-tu des cartes conceptuelles aussi fiables?
+30/12/2024, 21:06 - Rochane: GPT Whimesical ( store de chat Gpt)

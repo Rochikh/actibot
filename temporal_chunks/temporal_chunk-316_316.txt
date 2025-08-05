@@ -1,0 +1,17 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 9
+
+=== CONTENU ===
+22/03/2024, 10:56 - Jean-Marc Everard: Tout à fait d'accord mais j'ai noté quand même une amélioration des voix chez Heygen. Par contre, Elevenlab, et je ne sais pas pourquoi, commence à me donner un drôle d'accent quand le texte est long. Et je ne sais pas encore pourquoi.
+22/03/2024, 10:58 - Rochane: Souvent, si tu utilises un mot anglais dans ton contenu, il a tendance à partir en freestyle 🙂
+22/03/2024, 10:58 - Jean-Marc Everard: En effet, ici c'était pour le fun, sachant qu'il a écrit en mandarin (idéogrammes) et que je ne suis donc pas capable de savoir ce qu'il me fait dire 😉... Dangereux dans ce cas-ci. J'espère que je ne dis rien de grave.
+22/03/2024, 11:00 - Jean-Marc Everard: Je crois que c'est un ":" qui le fait partir en roue libre. Ce qui est étonnant est qu'à la fin il reprend le français. Très bizare. Il est possible qu'un des mots fr que j'ai écrit existe aussi en anglais et que du coup il soit parti en cacahouète.
+22/03/2024, 11:10 - Ahmadou Ba: Il n'est pas si intelligent que ça mais alors
+22/03/2024, 13:43 - +33 6 14 90 22 14: Bonjour à tous, je dois créer un support de présentation. Pour ce faire j'ai un doc pdf de 480 page. Quelle outils me conseillez vous pour réaliser ce ppt (format de rendu imposé)
+22/03/2024, 13:48 - Ahmadou Ba: Gamma fait des merveille, génération avec IA ou création a partir d'un fichier importer de word ou pdf.
+Mais vous pouvez par les plugin de GPT, il y en a qui peuvent créer des power directement à partir de chztgpt faites une recherche dans le store.
+22/03/2024, 13:52 - Clément Cahagne: Avant l’IA, je pense qu’un peu d’ingénierie pédagogique pourrait être intéressant pour cadrer un peu tout ça… Donner un PDF de 500 pages à un outil d’IA et espérer en extraire quelque chose de pédagogique, c’est complètement illusoire. D’autant plus avec des outils comme Gamma ou Tome qui ne savent pas correctement analyser / traiter / extraire de la data. Ce n’est que mon point de vue, mais il ne faut pas croire que ces outils font des miracles, ce ne sont pas des baguettes magiques 😅

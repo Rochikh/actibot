@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 527
+Messages: 14
+
+=== CONTENU ===
+14/01/2025, 17:08 - +33 6 68 00 29 68: C’est pour vendre l’une de leur formation, mais il y’a sûrement de bonnes choses à prendre
+14/01/2025, 17:48 - Votre code de sécurité avec +32 486 50 59 99 a changé. Appuyez pour en savoir plus.
+14/01/2025, 18:22 - ‎+32 495 33 30 98 est parti·e
+14/01/2025, 18:59 - Votre code de sécurité avec ~ Riad a changé. Appuyez pour en savoir plus.
+15/01/2025, 05:51 - Votre code de sécurité avec +33 6 74 05 09 80 a changé. Appuyez pour en savoir plus.
+15/01/2025, 01:46 - +33 6 89 33 49 33: https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/education-et-ia-ou-allons-nous-7616037?at_medium=newsletter&at_campaign=culture_quoti_edito&at_chaine=france_culture&at_date=2025-01-14&at_position=6
+15/01/2025, 04:53 - +33 6 89 33 49 33: Quelles sont les solutions outils que je peux utiliser pour enregistrer des entretiens téléphoniques ? Certains d'entre vous ont-ils des recommandations ?
+15/01/2025, 09:01 - Rochane: Merci pour le partage et très intéressant à écouter !
+J'en ai fait un résumé de notebooklm après avoir extrait le mp3 (fallait passer par la console inspecter l'élément) et voici le résumé:
+Cet épisode d'Être et Savoir sur France Culture explore l'impact de l'intelligence artificielle (IA) sur l'éducation, interrogeant son utilisation, ses promesses et ses défis.
+L’arrivée de l’IA générative, notamment ChatGPT, a bouleversé le paysage éducatif, la plaçant au cœur des préoccupations. Son utilisation par les élèves, ses implications pour l'apprentissage et l'enseignement, et la nécessité de former les enseignants à ces nouveaux outils sont au cœur du débat.
+Plusieurs intervenants, experts et professionnels de l'éducation, partagent leurs points de vue :
+•
+Axel Jean, chef du bureau du soutien à l'innovation numérique au ministère de l'Éducation nationale, souligne l'importance de former les enseignants à l'IA pour qu'ils puissent guider les élèves vers une utilisation responsable et critique. Il insiste sur la nécessité d'adapter les programmes scolaires pour intégrer l'IA et développer l'esprit critique des élèves.

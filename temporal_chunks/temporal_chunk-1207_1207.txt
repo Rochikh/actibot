@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+09/11/2024, 16:17 - Daniel Pappalardo: Je l'utilise. En fait y a un nombre de crédits disponible par mois qui peut être vite consommé selon les modèles utilisés (par exemple chat GPT4 turbo coûte 3x plus que la version 4o mini) la génération de texte ou d'image etc. Il n'y a pas de clé API et pas d'accès plein à d'autres fonctions des IA génératives (voix ...) Cela dit c'est assez pratique quand on a une faible consommation par jour. Cela permet aussi de générer plusieurs résultats de différentes IA gen avec un prompt pour les comparer. Après il y a des produits similaires gratuits pour les faibles quantités ou presque. Donc sans être une arnaque ce n'est pas non plus l'offre du siècle. Mais je ne me suis pas senti spolié par le prix.
+09/11/2024, 16:20 - +32 479 82 01 20: Merci pour ton REX Daniel! 😊
+09/11/2024, 16:20 - Rochane: Je ne sais pas pourquoi l'outil note diamonds n'est pas souvent évoqué alors que justement, on y trouve tous ces LLM gratuitement....
+09/11/2024, 16:21 - +33 6 20 97 18 83: J'utilise Ninjachat ai, qui est aussi multiusage. Propose la possibilité de travailler avec tous les grands modèles de LLM  simultanément avec un seul prompt.
+Le seul inconvénient c'est qu'il n'y a pas de possibilité de rectifier le prompt si besoin ou encore de discuter sur le résultat avec les modèles pour affiner le résultat.
+09/11/2024, 16:22 - +32 479 82 01 20: Je plussoie. 😊 Il est tellement bien fait NotDiamond.
+09/11/2024, 16:23 - +32 479 82 01 20: https://www.notdiamond.ai/
+09/11/2024, 16:31 - Fred IA: Merci beaucoup Daniel 👍
+09/11/2024, 19:28 - ‎+216 97 581 739 a demandé à rejoindre le groupe.
+09/11/2024, 18:46 - +33 6 66 98 84 23: NotDiamond est super, pourvu que cela dure mais peut on converser longtemps ? Il y a t'il des limites ?
+09/11/2024, 21:01 - Votre code de sécurité avec Hadjer a changé. Appuyez pour en savoir plus.
+09/11/2024, 21:25 - Rochane: <Médias omis>
+09/11/2024, 21:25 - ‎+216 97 581 739 a rejoint le groupe à partir de la communauté.
+09/11/2024, 22:29 - ‎+33 6 34 25 63 34 a demandé à rejoindre le groupe.

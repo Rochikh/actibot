@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 14
+
+=== CONTENU ===
+Cette estimation prend en compte l'ensemble du processus, de l'entraînement du modèle à son utilisation quotidienne
+https://www.slate.fr/tech-internet/chercheur-calcul-empreinte-carbon-chat-gpt-ia-eau
+23/09/2024, 19:42 - ‎+32 470 82 85 89 est parti·e
+23/09/2024, 20:05 - +221 77 690 82 76: Ce message a été supprimé.
+23/09/2024, 20:07 - Rochane: Bon, les amis, vous pouvez vous saluer en privé. N'oubliez pas que nous sommes très nombreux et le moindre post comme celui-ci, n'apporte aucune valeur ajoutée au groupe. Merci pour votre compréhension 🙂
+23/09/2024, 22:09 - Rochane: Le MOOC "L'intelligence artificielle générative et moi" propose une introduction à l'IA générative en 3 semaines. Cette formation en ligne, qui démarre en octobre, aborde son impact potentiel sur certains aspects de la vie quotidienne et professionnelle. Le cours inclut des vidéos et des exemples. Un forum est disponible pour échanger. Des mises à jour sont prévues. #MOOC #IA
+https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-generative-et-moi/
+23/09/2024, 22:42 - ‎+33 6 88 57 53 04 a demandé à ajouter +33 6 34 28 50 60.
+24/09/2024, 07:20 - ‎+32 475 37 41 75 est parti·e
+24/09/2024, 07:49 - ‎~ Simon a ajouté +33 6 34 28 50 60
+24/09/2024, 10:43 - Jean-Marc Everard: Je viens de le poster sur LinkedIn : Excellent résumé de choses importantes à savoir et à prendre en compte de notre utilisation de l'IA. En seulement 10 points et quelques mots, quasiment tout y est pour moi (très résumé bien sûr mais "yapluka" creuser) :
+IA et éducation : 10 repères – Éducation, numérique et recherche : https://edunumrech.hypotheses.org/12695
+24/09/2024, 11:11 - ‎+33 7 83 63 26 78 est parti·e
+24/09/2024, 11:18 - Francois Bocquet: Il manque cependant un onzième point critique qui n’est pas compris dans le point éthique et qui concerne le respect des obligations légales et réglementaires et en particulier du RGPD pour un usage en contexte professionnel et scolaire. Tout utilisation non légale est bien évidemment prohibée.

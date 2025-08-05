@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 541
+Messages: 13
+
+=== CONTENU ===
+16/02/2025, 12:04 - Francois Bocquet: Intéressant. Je vais regarder. Pour les usages pédagogiques je recommande vraiment Vittascience (https://fr.vittascience.com/ia/) qui est utilisable avec le GAR (donc conforme au RGPD sans discussion puisque sous responsabilité de traitement du Ministère et permet d’accéder à plusieurs LLM pour générer du texte et des images. Lien vers l’accès GAR à paramétrer par l’administrateur GAR de l’établissement https://fr.vittascience.com/gar
+16/02/2025, 13:39 - ‎+32 493 05 06 18 est parti·e
+16/02/2025, 14:24 - Votre code de sécurité avec ~ Sandra a changé. Appuyez pour en savoir plus.
+16/02/2025, 15:20 - +33 6 19 89 32 62: Oui je n’ai pas free mais je l’ai dit à tous mes amis ayant free et ça fonctionne même avec un petit forfait !
+16/02/2025, 15:47 - Rochane: Merci à @33662364404  pour ce partage https://media.licdn.com/dms/document/media/v2/D4D1FAQFjC2bZWPYyKQ/feedshare-document-pdf-analyzed/B4DZUJwj1wHwAY-/0/1739625491916?e=1740614400&v=beta&t=--yejJ770--NPYwl9zE34n6TMtZtgHwNDtyTy4K8ITU dont j'ai fait le résumé ici :
+Synthèse exhaustive
+L'étude présentée analyse en profondeur l'impact de l'Intelligence Artificielle Générative (GenAI) sur la pensée critique des travailleurs du savoir, à travers une enquête détaillée menée auprès de 319 professionnels utilisant régulièrement ces outils dans leur travail.
+Contexte et méthodologie
+L'étude s'inscrit dans un contexte où l'IA générative soulève des questions sur son impact potentiel sur les capacités cognitives humaines. Les chercheurs ont recueilli 936 exemples concrets d'utilisation de GenAI, explorant deux questions principales :
+Comment les travailleurs perçoivent-ils la mise en œuvre de la pensée critique avec GenAI ?
+Quand et pourquoi perçoivent-ils une augmentation ou diminution de l'effort de pensée critique ?
+Cadre conceptuel et observations principales
+L'étude s'appuie sur la taxonomie de Bloom pour définir la pensée critique, identifiant six niveaux d'activités cognitives : connaissance, compréhension, application, analyse, synthèse et évaluation. Les résultats révèlent trois changements majeurs dans l'exercice de la pensée critique :

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 13
+
+=== CONTENU ===
+01/06/2024, 19:51 - ‎+33 6 12 51 67 58 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 7 67 67 84 83 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+33 6 71 34 16 74 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:51 - ‎+222 46 48 18 36 a rejoint ce groupe grâce à son lien d’invitation
+01/06/2024, 19:55 - Rochane: Je pense sérieusement que tout dépend de l'usage. Perso, j'ai chat Gpt payant car j'en ai besoin pour ses Gpts en utilisation et en usage avec aussi son application. Perplexity, pour une recherche sourcée, c'est vraiment top et en plus avec la génération des pages, il devient incontournable. Gemini pro 1.5 avec sa fenêtre de 1 M de tokens et par sa plateforme de dev gratuite est top pour analyser des gros fichiers dont des vidéos
+01/06/2024, 19:59 - +351 932 291 666: Avec son accès web et sur des drives, avec un bon réglage, GPT ne pourrait-il se passer de perplexity ?
+01/06/2024, 19:59 - +33 6 08 67 53 65: Perso, j’utilise pas mal Copilot (version payante) parce que je fine-tune à partir de mes documents (grosse base documentaire sur des sharepoint), ce que ne permet pas ChatGPT pro qui est limité en nombre de fichiers chargés
+Puis d’autres IA spécialisés selon le type d’activité.
+01/06/2024, 20:00 - +351 932 291 666: Ups, pas fais gaffe à cette limite ! Combien ?
+01/06/2024, 20:00 - Rochane: tu as vu que tu peux connecter one drive à ton compte chat gpt maintenant ?
+01/06/2024, 20:01 - +33 6 08 67 53 65: Copilot est du ChatGPT avec du finetune Microsoft et les applications des sécurité Azure, pas sur que ce soit si intéressant dans mes usages
+01/06/2024, 20:02 - Rochane: Perplexity, tu peux le régler sur des sources académiques par exemple et en plus, tu lui mets n'importe quel url (même celles des Paywall) et il te fait des résumés pertinents. Tu peux le régler sur d'autres LLM dont Claude 3 Opus  et maintenant la fonctionnalité Pages est juste génialissime
+01/06/2024, 20:02 - +33 6 08 67 53 65: De mémoire 10 fichiers par GPTs et 200Mo, mais il requetait assez mal dépassé un certain nombre de pages

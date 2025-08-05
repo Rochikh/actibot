@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 15
+
+=== CONTENU ===
+07/06/2025, 22:51 - Votre code de sécurité avec +32 498 32 22 00 a changé. Appuyez pour en savoir plus.
+08/06/2025, 08:28 - Votre code de sécurité avec +33 6 88 10 25 47 a changé. Appuyez pour en savoir plus.
+08/06/2025, 13:38 - Rochane: https://www.lemonde.fr/les-decodeurs/article/2025/06/08/pourquoi-notre-utilisation-de-l-ia-est-un-gouffre-energetique_6611132_4355770.html
+08/06/2025, 13:38 - Rochane: Si quelqu'un a l'article en entier....
+08/06/2025, 14:10 - +33 6 88 84 60 60: <Médias omis>
+08/06/2025, 14:28 - Rochane: <Médias omis>
+08/06/2025, 14:47 - Votre code de sécurité avec ~ Jessy a changé. Appuyez pour en savoir plus.
+08/06/2025, 17:02 - +33 6 19 75 63 49: Bonjour, j’avais vu passer sur linkedin des pictogrammes pour indiquer qu’un contenu avait été généré avec IA, sans IA ou en collaboration avec l’IA (à la manière des licences Creative Commons), mais je ne les retrouve plus. Avez-vous cela sous la main? Merci!
+08/06/2025, 17:08 - +33 6 66 98 84 23: <Médias omis>
+08/06/2025, 17:11 - +33 6 19 75 63 49: Parfait! Merci beaucoup!
+09/06/2025, 09:44 - +33 6 64 47 07 94: Cette signalisation est essentielle. Utiliser l'IA et dire à quel niveau, c'est aussi montrer maîtrise et/ou honnêteté
+09/06/2025, 15:38 - Rochane: Je suis en train de préparer le prochain live du mardi 24 juin. Si des personnes souhaitent partager des usages ou outils en lien avec l'IA et l'éducation, il reste 2 ou 3 créneaux de 10 minutes. Merci de me contacter en privé 🙂
+09/06/2025, 20:28 - Votre code de sécurité avec ~ Fati a changé. Appuyez pour en savoir plus.
+09/06/2025, 21:29 - StéphaneIA: On en parle souvent ici de la localisation des données, Gemini pour Google workspace et compatible avec le localisation des données en Europe. Vous pouvez donc demander que votre environnement workspace de stocker et processer les données en Europe. Chez les fournisseurs américains Google est les seuls avec ce niveau d'exigence je pense.
+https://workspaceupdates.googleblog.com/2025/06/data-regions-support-for-gemini-features-in-google-workspace.html

@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 15
+
+=== CONTENU ===
+J’éprouve quant à cela une vraie inquiétude sur la capacité des générations à venir à franchir le gap.
+Quand je lis cet article sur la retouche d’image possible à tout un chacun, mon inquiétude grandit. Ceux qui auront cette techno dans leur poche sauront-ils tous en capacité d’en mesurer l’impact ?
+Et du coup j’en arrive à l’éthique : il va nous falloir lever une armée de pédagogues….
+23/08/2024, 06:59 - Rochane: https://www.lemonde.fr/pixels/article/2024/08/22/la-retouche-de-photos-par-ia-du-google-pixel-9-impressionne-et-inquiete_6290385_4408996.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default
+23/08/2024, 10:09 - +33 7 66 54 11 11: Il est clair qu'il faut s'y retrouver dans cette pléthore d'outils avec des usages dans tous les sens.
+23/08/2024, 10:47 - Rochane: Perplexity AI, startup de recherche IA, prévoit d'introduire des publicités au 4e trimestre 2024. Avec 230 millions d'utilisateurs mensuels, l'entreprise cible des annonceurs premium. Cette initiative pourrait défier Google sur le marché de la recherche en ligne.
+https://www.cnbc.com/2024/08/22/perplexity-ai-plans-to-start-running-search-ads-in-fourth-quarter.html
+23/08/2024, 10:48 - +33 6 29 17 18 95: Bonjour à tous 🙌🏼 , vous connaissez un outil pour extraire le script d'une vidéo YouTube svp ?
+23/08/2024, 10:49 - Rochane: Tu veux dire quoi par script ? Transcription ?
+23/08/2024, 10:51 - +33 6 29 17 18 95: Oui
+23/08/2024, 10:56 - Rochane: Oui, tu as videohighlight qui est excellent en te permettant d'avoir la transcription totale mais aussi les points clés.... ( Tu as 10 heures en gratuit par mois)
+23/08/2024, 11:04 - +33 6 29 17 18 95: Ahhh magnifique
+23/08/2024, 11:04 - +33 6 29 17 18 95: Merci beaucoup 🙌🏼
+23/08/2024, 11:11 - Hoang: Avec tous ses outils, il nous faudrait un document ou une plate-forme qui liste tout par thème, il y en a tellement 😅
+23/08/2024, 11:15 - zp: Si vous maîtrisez des outils n'hésitez pas à les rajoutez sur qanat.ai en précisant que vous pouvez donnez des formations....

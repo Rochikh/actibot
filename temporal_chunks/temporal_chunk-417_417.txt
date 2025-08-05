@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 23
+
+=== CONTENU ===
+12/04/2024, 20:24 - Vous avez supprimé +33 7 80 84 58 72
+12/04/2024, 20:25 - Vous avez supprimé +33 7 45 54 90 54
+12/04/2024, 20:25 - Vous avez supprimé +31 6 30489548
+12/04/2024, 20:26 - Vous avez supprimé +31 6 22365777
+12/04/2024, 20:26 - Vous avez supprimé +57 321 6037977
+12/04/2024, 20:27 - Vous avez supprimé +33 7 69 34 80 90
+12/04/2024, 20:44 - Jacques BARATTI: Voici le lien sur Poe (gratuit mais limité, fonctionne avec Claude 3 gratuit)) https://poe.com/DynaMentor
+12/04/2024, 21:24 - +41 79 326 51 40: Je n'ai pas gpt payant donc impossible...
+Je cherche un outil gratuit pour résumer et un pour les quiz svp
+12/04/2024, 21:26 - Yvelines: Pour obtenir le script des vidéos YouTube, installer l'extension Glasp sur Chrome
+12/04/2024, 21:26 - +41 79 326 51 40: Merci beaucoup pour votre réponse
+12/04/2024, 21:26 - Yvelines: Puis cliquer sur le logo chatGPT à partir de l'extension
+12/04/2024, 21:27 - Yvelines: Et demander à ChatGPT de créer le quizz sur base du script
+12/04/2024, 22:28 - +33 7 85 94 69 69: Il est bien Claude 3 ?
+13/04/2024, 10:44 - Jacques BARATTI: je confirme cette extension fonctionne très bien sur les vidéos YouTube en donnant la transcription et un résumé très rapidement !
+13/04/2024, 10:55 - Jacques BARATTI: L'apache vient de publier un article de blog qui pourrait vous intéresser. C'est ici :  http://iap13.fr/blog-de-lapache-effets-mollusque-et-pygmalion/
+13/04/2024, 14:08 - LIO: <Médias omis>
+13/04/2024, 16:41 - +33 6 21 59 46 64: Bonjour, comment peut on inviter des personnes à rejoindre le groupe ? Est il possible d'avoir un lien ? Merci d'avance 😊
+13/04/2024, 16:43 - Yvelines: Suivez ce lien pour rejoindre ma communauté WhatsApp : https://chat.whatsapp.com/KYcjfUlPL1kEHr6v0s70Gm
+13/04/2024, 16:43 - Yvelines: Voilà le lien à partager @33621594664
+13/04/2024, 16:48 - +33 6 21 59 46 64: Merci beaucoup !
+13/04/2024, 17:16 - Votre code de sécurité avec +32 492 85 81 22 a changé. Appuyez pour en savoir plus.
+13/04/2024, 18:11 - Votre code de sécurité avec ~ Emmanuelle a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 24
+
+=== CONTENU ===
+02/03/2025, 12:34 - ‎~ Mus Deramchia est parti·e
+02/03/2025, 14:20 - Votre code de sécurité avec ~ Aymen khadimallah a changé. Appuyez pour en savoir plus.
+02/03/2025, 14:57 - Votre code de sécurité avec ~ Aymen khadimallah a changé. Appuyez pour en savoir plus.
+02/03/2025, 15:30 - ‎+33 6 22 94 61 63 a demandé à rejoindre le groupe.
+02/03/2025, 16:43 - ‎+33 6 99 51 72 70 est parti·e
+02/03/2025, 18:50 - ‎+33 6 27 49 27 65 a demandé à rejoindre le groupe.
+02/03/2025, 19:39 - +33 6 34 15 77 84: Bonjour tout le monde quelqu’un saurait il comment obtenir une réorganisation d’un texte de 35 pages par une ia? il s’agit de recherches concernant un même sujet et réalisées à la volée sans plan logique. J’essaye de demander à Chat GPT de le faire mais visiblement mon prompt n’est pas efficace Des idées? merci par avance pour vos réponses
+02/03/2025, 19:48 - ‎+33 6 27 49 27 65 a rejoint le groupe à partir de la communauté.
+02/03/2025, 19:48 - ‎+33 6 22 94 61 63 a rejoint le groupe à partir de la communauté.
+02/03/2025, 19:49 - +33 6 71 11 12 91: Quelques idées de prompts...
+1.) Analyse le texte d'entrée et génère 5 questions essentielles qui, une fois répondues, capturent les points principaux et le sens essentiel du texte.
+2.) Lorsque tu formule tes questions :
+a. Aborde le thème ou l'argument central
+b. Identifie les idées clés de soutien
+c. Mets en évidence des faits ou des preuves importants
+d. Révéle l'objectif ou le point de vue de l'auteur
+e. Explore toute implication ou conclusion importante.
+3.) Réponds à toutes les questions que tu as générées, une par une et en détail.
+ou
+[ARTICLE]
+Résume l'article ci-dessus. Organise-le en fonction des thématiques suivantes :  mot-clé 1 / mot-clé 2 / mot-clé 3
+ou
+- Résume en français l'idée générale de l'article dans une phrase facile à comprendre.
+- Liste les idées fortes en bullet-points en portant une attention particulière sur les données chiffrées et les noms (organisations, personnalités) (par exemple "John Doe, CEO de Doecompany").

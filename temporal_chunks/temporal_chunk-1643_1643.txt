@@ -1,0 +1,16 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 8
+
+=== CONTENU ===
+23/01/2025, 20:05 - Rochane: Perso, je l'ai testé aussi sur de nombreux cas d'usages mais l'expérience qui m'a le plus impressionné, c'est pour la veille de mes flux RSS. J'ouvre la page et je lui demande de me résumer et parfois je lui demande des explications sur des notions C E bluffant 🤣
+23/01/2025, 21:56 - +33 6 03 06 04 34: Rappellez vous que DeepSeek est chinois (donc qu’il est archi surveillé et bien évidemment censuré,cf Tiananmen et autres réflexion sur Xi ). Il ne me semble absolument pas approprié à un contexte éducatif. Et oui je sais les LLM peuvent être critiqués mais ce n’est pas comparable. La Chine est en plein softpower avec ses IA. Restez vigilants !
+23/01/2025, 22:03 - Ahmadou Ba: Et pourtant, il est vraiment bon. Mis à part la politique, il fournit que des informations sourcées apparemment et sa capacité de raisonnement est phénoménale. Oui je crois qu'on peut bien en faire un usage pédagogique. La vigilance qui s'impose chez DeepSeek l'est également pour les autres. Aujourd'hui en pleine formation sur l'IA, ChatGPT a crashé, cela montre tout le danger de la dépendance à une technologie contrôlée par les grands groupes. Un système hypercentralisé ou un individu peu appuyer sur un bouton et tout arrêter.
+23/01/2025, 22:21 - +41 76 372 28 94: DeepSeek est tout à fait appropriée pour un cours sur les IA. Le fait de la voir penser est génial.
+23/01/2025, 22:27 - +41 76 372 28 94: Sinon vous pouvez toujours acheter un Nvidia Digit avec une puce GB10 Grace Blackwell et 128Gb de RAM : ça devrait bien tourner dessus ! Pour une école, sortir 3000 USD pour la protection des données des élèves ça devrait être ok.
+23/01/2025, 22:33 - +33 6 71 11 12 91: Publier la photo de ses enfants sur des réseaux sociaux aussi est génial.... Jusqu'à ce qu'on découvre que les images ont été détournées.
+J'ai du mal à comprendre qu'après plus de 30 ans d'Internet, certains ne voient que les avantages (et ils sont nombreux) sans voir les risques.
+Avec Trump, pour les IA américaines, le pire peut arriver (ou est en train), mais avec la Chine, la preuve est là depuis longtemps...

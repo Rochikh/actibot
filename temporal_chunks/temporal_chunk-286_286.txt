@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 13
+
+=== CONTENU ===
+09/03/2024, 18:52 - Rochane: Attention, il ne donne que les ressources publiques ( en ligne) il me semble
+10/03/2024, 06:39 - Votre code de sécurité avec +33 6 30 89 95 98 a changé. Appuyez pour en savoir plus.
+10/03/2024, 06:44 - Rochane: Si tu es enseignant·e et que tu n'es pas familier avec Ethan Mollick, un expert en prompt engineering et chercheur, il a partagé des ressources pour utiliser ChatGPT avec tes élèves, accessibles à cette adresse : https://www.moreusefulthings.com/instructor-prompts
+10/03/2024, 08:26 - Rochane: Pour info, tous les prompts sont en anglais et si vous voulez continuer en français, par exemple, ou une autre langue, il suffit juste de rajouter à la fin "Now, we continue in FRENCH. Please"
+10/03/2024, 16:06 - Rochane: une belle banque de prompts qui concerne tous les domaines (en anglais) https://docs.anthropic.com/claude/prompt-library
+10/03/2024, 16:21 - Votre code de sécurité avec Luc deleplanque a changé. Appuyez pour en savoir plus.
+10/03/2024, 18:49 - ‎+33 6 89 48 83 75 a rejoint le groupe à partir de la communauté.
+10/03/2024, 18:50 - ‎+33 6 89 48 83 75 est parti·e
+10/03/2024, 20:56 - +33 6 70 46 13 52: Ne pas hésiter en cas de soucis à basculer sur "le chat" de mistral AI. Perso je le préfère à GPT 3.5. (J'ai une version gratuite)
+10/03/2024, 20:57 - Thierry VANOFFE: même soucis j'ai vidé le cache, les cookies et c'est reparti, et aussi j'ai désactivé les autres extensions chrome. Clique sur l'icone devant l'url pour supp les cookies, ça devrait aider.
+10/03/2024, 21:01 - Ahmadou Ba: C vrai qu'il est capricieux c temps ci. Pour les uns il marche avec edge, pour d'autres avec chrome. Moi il m'a lâché avec edge et fonctionne avec chrome.
+J'ai GPT 4 j'ai failli me désabonner mais quand il s'agit de rédaction, il les dépasse tous. Gemini, claude ils font tous des trucs merveilleuses mais GPT est au dessus je crois. J'ai pas encore tester mistral avez vous un lien pour mistral.
+10/03/2024, 21:05 - Thierry VANOFFE: Tout dépend du prompt et de la thématique, on ne peut pas dire que chat GPT surpasse ses rivaux tout le temps 😉

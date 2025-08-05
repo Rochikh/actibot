@@ -1,0 +1,19 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 11
+
+=== CONTENU ===
+Si vous voulez tester mon "Assistant" voici l'adresse (il faut créer un compte (gratuit) https://hf.co/chat/assistant/65c28b8ffa60faab1e882b72
+Vos retours me seront utiles !
+07/02/2024, 14:29 - +32 479 58 54 12: Attention. Captain AI signale aussi que ces GPTs ne sont pas vérifiés, et presentent des risques de Hack.
+07/02/2024, 14:47 - Rochane: Top, merci pour le partage. On ne peut pas par contre cacher les instructions et je vois qu'il ne les a pas respectés dans ce cas. En plus, pas possible de mettre de la connaissance et le partage est public. Bon début de l'Open Source n'empêche 🙂
+07/02/2024, 14:49 - Jacques BARATTI: Oui les instructions sont visibles (c'est de l'Open source) cela permet à un grand nombre (je pense à mes collègues enseignants non abonnés et aux étudiants) de se familiariser avec ce type d'outil
+07/02/2024, 14:53 - +33 6 58 12 88 07: Interessant mercis. Peut il poser les questions une à une afin de récolter progressivement l’information ? Pour l’open source, bonne idée de travailler dessus avec des étudiants car j’ai constaté récemment que des étudiants  en formation professionnelle supérieure ne s’intéressaient pas vraiment à l IA générative. Donc s’il est possible de leur faire découvrir cela éveillera leur curiosité . Merci 🙏
+07/02/2024, 19:34 - Jacques BARATTI: Est-ce que l'un(e) d'entre vous a déjà utilisé le GPT "Master AI" de Ludo Salenne ? J'ai une question sur son fonctionnement
+07/02/2024, 20:01 - Rochane: Je l'ai testé une fois quand il l'a créé et en a parlé dans sa vidéo. J'avoue que depuis, j'en ai pas eu utilité
+07/02/2024, 20:44 - Jacques BARATTI: Il démarre en créant des assistants IA qui ont des taches spécifiques à faire
+Il promet de prévenir quand le travail est fini et... rien ne se passe. Bizarre non ?
+07/02/2024, 20:46 - Rochane: Si mes souvenirs sont bons, il est réglé pour faire étape par étape et tu dois lui demander de continuer à chaque fois qu'il s'arrête. Si jamais tu veux que l'on fasse des essais, on continue en privé 🙂

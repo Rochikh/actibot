@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 507
+Messages: 15
+
+=== CONTENU ===
+17/03/2024, 17:44 - +33 6 76 04 48 20: Oui, en effet
+17/03/2024, 17:44 - Jacques BARATTI: le lien de connexion https://www.youtube.com/watch?v=rL6Y_y-mXqk
+17/03/2024, 17:51 - Jean-Marc Everard: ici pour ceux que ça intéresse : https://www.youtube.com/watch?v=rL6Y_y-mXqk
+17/03/2024, 18:40 - Jacques BARATTI: Quelqu'un a déjà testé la fabrication de GPT avec Perplexity ou Copilot (versions gratuites) pour les utilisateurs ?
+17/03/2024, 18:41 - +33 6 76 04 48 20: Pas encore, mais je vais le faire rapidement au vu des propos du live en cours…
+17/03/2024, 18:42 - Jacques BARATTI: je suis aussi intéressé on reste en contact ?
+17/03/2024, 18:42 - +33 6 76 04 48 20: Avec plaisir
+17/03/2024, 19:20 - Clément Cahagne: Pas avec Perplexity ni Copilot mais avec ChatGPT. Je suis en train de voir pour automatiser certaines choses via des API avec make par exemple. Ca a l’air assez complexe à mettre en oeuvre pour les novices comme moi, si jamais il y a des experts en auto je suis preneur de conseils !
+17/03/2024, 19:24 - Rochane: Les GPTs sur Perplexity s'appellent "Collections" et c'est moins riche qu'un Gpt car pas possible de mettre de la documentation ni des actions. J'en ai fait un pour tester et c'est limité
+17/03/2024, 19:26 - Jacques BARATTI: merci Rochane pour l'info, ils sont accessibles gratuitement pour les utilisateurs ? (des étudiants par exemple !)
+17/03/2024, 19:28 - Rochane: Oui j'ai l'impression https://www.toolify.ai/ai-news/unlock-the-power-of-perplexity-collections-1531619
+17/03/2024, 19:28 - Jacques BARATTI: je vais tester merci !
+17/03/2024, 19:36 - +34 618 97 47 94: https://www.linkedin.com/in/florentthurin
+Fait ça super bien! Tu peux regarder ses posts build in public ou il explique le process ou le contacter, c’est son métier
+17/03/2024, 21:00 - Jacques BARATTI: @Rochane et @Richard d'après ce que j'ai expérimenté si on clique sur l'onglet GPT du site on retombe sur les GPT d'OpenAI. Si on peut fabriquer des GPT avec ce site, je n'ai pas découvert comment. Quelqu'un a une idée ?

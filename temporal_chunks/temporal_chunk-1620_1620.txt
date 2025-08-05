@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 13
+
+=== CONTENU ===
+21/01/2025, 17:11 - +33 6 42 26 64 70: MErci
+21/01/2025, 17:29 - +41 79 258 90 36: 4 meilleurs logiciels Anti-plagiat annoncés par BDM sous https://www.blogdumoderateur.com/tools/productivite/anti-plagiat/
+21/01/2025, 17:43 - Votre code de sécurité avec +226 76 61 15 02 a changé. Appuyez pour en savoir plus.
+21/01/2025, 18:23 - Clément Cahagne: Je suis d'accord et te rejoins Rochane. C'est incohérent d'essayer de détecter une production IA car c'est une techno probabiliste... Quid des faux positifs ?
+21/01/2025, 18:30 - Francois Bocquet: A mon avis aucune décision et encore plus aucune sanction ne doit être prise sur la base d’un retour d’IA. En revanche ça peut être un signal pour un dialogue formatif entre le formateur et le stagiaire ou l’élève pour lui proposer d’évaluer la nature de l’assistance dont il a pu bénéficier (y compris si c’est un humain qui l’a aidé) et pour lui poser à l’anorak les 3 ou 4 questions qui permettront de confirmer ou d’infirmer le pronostic de l’IA. Faire savoir que l’on utilisera des détecteurs de plagiat peut être utile surtout si l’on attrape sur le fait 2 ou 3 tricheurs. Ça se sait en général très très vite ;-)
+21/01/2025, 18:36 - +33 6 52 73 73 42: https://linagora.com/fr/artificial-intelligence
+Quelqu'un à un retour !?
+21/01/2025, 18:44 - +32 483 60 53 96: J'ai utilisé le LLM Lucie Instruct en local et c'est super pour certaines tâches. Je documente ça actuellement.
+Le chat en ligne je n'ai pas encore testé.
+21/01/2025, 18:47 - +33 6 52 73 73 42: J'ai fait un test rapide du chat en lui posant une question ... Le résultat n'est pas déconnant !
+21/01/2025, 18:56 - +32 483 60 53 96: Lm Studio: J'ai eu un call avec eux il y a deux semaines.
+Ils sont ouverts à réaliser des démonstrations.
+Ils proposent trois manières de deployer: installation sur les machines individuelles (comme un usage personnel), l’usage de LM Studio pour déployer le serveur local sur une machine et utiliser d’autres interfaces ou alors déployer sur des ordinateurs de la bibliothèque ou salle sur chaque compte utilisateur.

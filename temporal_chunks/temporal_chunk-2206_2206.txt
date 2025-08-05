@@ -1,0 +1,33 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 25
+
+=== CONTENU ===
+J’ai la version pro, je ne comprends pas je dois mal paramétrer un élément : quelqu’un aurait une idée ?
+27/05/2025, 11:43 - +32 475 86 01 57: Dans la version pro, tu ne peux partager qu avec des membres de ton organisation. Peut être un paramètre mais, à l époque, on ne pouvait pas changer
+27/05/2025, 11:44 - +33 7 86 61 52 66: Ah mince ! Quel intérêt alors d’avoir la version pro🤣
+27/05/2025, 11:44 - +33 7 86 61 52 66: Je voulais partager le chat avec mes élèves
+27/05/2025, 11:45 - Clément Cahagne: <Médias omis>
+27/05/2025, 14:27 - +32 495 25 73 66: AI might become an important part of your life — in more ways than one. Here are some talks that illustrate the next phase the relationship between AI and humans: http://t.ted.com/45MyfnB
+27/05/2025, 14:49 - +33 6 42 26 64 70: https://www.nature.com/articles/s41562-025-02194-6
+Tres intéressante (et inquiétante évidemment) étude de Nature sur la capacité de GPT 4 à convaincre la personne avec laquelle elle interagit sur un sujet donné. En tant que pédagogue, la frontière parfois fine entre enseigner/expliquer et convaincre est ici soulevée. Les futurs débat me se feront ils par IA interposées ? ;)
+« Des chercheurs prouvent que GPT-4 est plus convaincant qu'un humain quand il connaît son interlocuteur.
+Étude publiée :
+→ École Polytechnique de Lausanne + Université de Princeton
+→ 900 participants américains testés
+→ Débats de 10 minutes sur 6 sujets de société
+Les sujets débattus :
+🔹 L'exploration spatiale est-elle un investissement utile ?
+🔹 L'enseignement artistique est-il aussi important que les sciences ?
+🔹 Faut-il limiter la liberté d'expression contre les discours de haine ?
+🔹 Le revenu universel pour tous ?
+🔹 Service militaire obligatoire ?
+🔹 École publique gratuite ?
+===
+Les résultats de l'étude :
+🔹 Sans profilage : GPT-4 est déjà plus persuasif que l'humain
+🔹 Grâce au profilage sociologique, GPT-4 affine son discours… et explose les scores de persuasion :
+→ 64% de taux de réussite pour convaincre

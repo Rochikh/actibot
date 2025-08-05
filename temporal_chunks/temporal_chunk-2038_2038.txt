@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 15
+
+=== CONTENU ===
+01/04/2025, 16:13 - Daniel Pappalardo: Oui merci pour la précision et pardon j'entendais effectivement faire une démo avec un compte via l'ENT ou pas de compte.
+01/04/2025, 16:18 - +221 76 125 29 15: c'est payant ?
+01/04/2025, 16:47 - Batier Christophe: non acces gratuit inscription en ligne pour configurer votre programme et pour ensuite recevoir les liens des visios correspondants (3 atelier en parallele toutes les heures)
+01/04/2025, 17:56 - ‎+33 6 30 30 21 19 est parti·e
+01/04/2025, 18:05 - Votre code de sécurité avec Anthony Quinchon a changé. Appuyez pour en savoir plus.
+01/04/2025, 19:09 - +33 7 87 35 78 96: Je voulais dire safe dans le fonctionnement. Comme utiliser Notebooklm pour faire de la veille sur des sources ouvertes. On ne divulgue aucune info interne au pire on donne à d'autres le temps de travail passé à traiter les sources ouvertes
+01/04/2025, 19:10 - Rochane: NotebookLM eux même disent qu'ils ne s'entraînent pas sur vos données
+01/04/2025, 19:15 - +33 7 87 35 78 96: Et au fait ! On est le 1er Avril ... je m'inquietes un peu pas vu de poissons dans l'actualité ! Bon j'etais la tete dans le guidon toute la journée en formation
+01/04/2025, 19:34 - +33 7 87 35 78 96: <Médias omis>
+01/04/2025, 19:55 - Batier Christophe: <Médias omis>
+01/04/2025, 20:29 - Rochane: Avec la formation sur le prompting de Benoît Raphaël et surtout la partie du dialogue engineering, je me suis amusé après de nombreuses itérations à "humaniser" un texte produit par une IA de façon classique et je ne suis pas déçu du résultat. Je vous partage le prompt ( à noter que mon dialogue s'est fait avec Claude 3.7 Sonnet)
+*
+Je vais te soumettre un texte généré par l'IA. Ton objectif est de le réécrire complètement en évitant les patterns typiques des textes d'IA. Voici tes instructions précises :
+1. Élimine tous les participes présents (mots en -ant) quand ils sont utilisés comme transitions ou formulations génériques.
+2. Remplace les mots suremployés comme "crucial", "offre", "permettre", "optimiser", "faciliter" par des alternatives plus spécifiques et originales.

@@ -1,0 +1,26 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 502
+Messages: 18
+
+=== CONTENU ===
+29/12/2024, 10:22 - ‎+33 6 26 76 36 00 est parti·e
+29/12/2024, 18:55 - Rochane: si vous ne voulez pas payer, il faut le finir en moins de 7 jours sachant qu'ils estiment le temps total à 5h.
+https://www.coursera.org/learn/agentic-ai/
+29/12/2024, 18:56 - +33 6 72 75 43 48: Merci Rochane il est en anglais ?
+29/12/2024, 18:57 - Laurent The Cure: Merci c'est clair !
+29/12/2024, 18:59 - Rochane: oui mais combiné à Notebooklm, tu peux copier le contenu et mieux comprendre chaque partie. C'est ce que je fais. Je récupère le transcript de la vidéo, je la dépose dans notebooklm, je contextualise en essayant de comprendre, je regarde la vidéo puis je reprends ce qui a été généré avant. 5possibilité de régler en français aussi)
+29/12/2024, 21:55 - Rochane: <Médias omis>
+29/12/2024, 22:28 - ‎+212 724-249574 est parti·e
+29/12/2024, 22:54 - +33 6 19 89 32 62: Ah oui c’est lui que j’avais suivi en prompt mais c’était costaud sur certains types de prompts ! J’avais travaillé avec ChatGPT pour remettre dans un contexte plus proche du mien en effet. Je vais essayer avec notebookLM. Sinon je les suis en candidat libre et c’est gratuit aussi.
+30/12/2024, 10:17 - ‎+33 7 65 29 62 99 a demandé à rejoindre le groupe.
+30/12/2024, 10:57 - ‎+32 475 86 01 57 a demandé à rejoindre le groupe.
+30/12/2024, 11:39 - +33 6 31 69 61 40: <Médias omis>
+30/12/2024, 11:40 - ‎+32 475 86 01 57 a rejoint ce groupe grâce à son lien d’invitation
+30/12/2024, 11:40 - ‎+33 7 65 29 62 99 a rejoint ce groupe grâce à son lien d’invitation
+30/12/2024, 12:53 - ‎Mayeul IA Rougevin a demandé à rejoindre le groupe.
+30/12/2024, 15:03 - +33 6 77 78 84 93: Bonjour à toutes et tous ! Savez-vous si la version de chatGPT qui inclue un moteur de recherche est accessible gratuitement? Pour moi ce n’était que la version payante mais j’ai l’impression que la version gratuite le propose … je me trompe?
+30/12/2024, 15:07 - +33 6 72 75 43 48: Oui
+30/12/2024, 15:09 - +33 6 71 11 12 91: Oui, c'est gratuit (et non "oui,  je me trompe")

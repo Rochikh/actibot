@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 506
+Messages: 24
+
+=== CONTENU ===
+26/09/2024, 19:08 - Rochane: Non, pas nécessaire un abonnement. Il suffit d'acheter un minimum de 5 euros sur la plateforme OpenAI
+26/09/2024, 19:09 - +33 6 49 95 38 23: Avec une carte graphique c'est possible de faire tourner un tts en local.
+26/09/2024, 19:22 - Vincent DROUOT: https://platform.openai.com/
+26/09/2024, 19:58 - ‎+212 700-150296 a demandé à rejoindre le groupe.
+26/09/2024, 19:58 - ‎+212 677-432130 a demandé à rejoindre le groupe.
+26/09/2024, 19:58 - ‎+212 663-722813 a demandé à rejoindre le groupe.
+26/09/2024, 19:58 - ‎+212 661-459393 a demandé à rejoindre le groupe.
+26/09/2024, 19:59 - ‎+212 622-662725 a demandé à rejoindre le groupe.
+26/09/2024, 20:22 - ‎+32 472 73 47 28 a demandé à rejoindre le groupe.
+27/09/2024, 08:08 - ‎+212 700-150296 a été ajouté·e
+27/09/2024, 08:07 - ‎+32 472 73 47 28 a rejoint le groupe à partir de la communauté.
+27/09/2024, 08:07 - ‎+212 700-150296 a rejoint ce groupe grâce à son lien d’invitation
+27/09/2024, 08:07 - ‎+212 663-722813 a rejoint ce groupe grâce à son lien d’invitation
+27/09/2024, 08:08 - ‎+212 622-662725, +212 661-459393 et +212 677-432130 ont été ajouté·es
+27/09/2024, 08:07 - ‎+212 622-662725 a rejoint ce groupe grâce à son lien d’invitation
+27/09/2024, 08:07 - ‎+212 661-459393 a rejoint ce groupe grâce à son lien d’invitation
+27/09/2024, 08:07 - ‎+212 677-432130 a rejoint ce groupe grâce à son lien d’invitation
+27/09/2024, 08:13 - Pierrick BRIAND: Des nouvelles du côté de Google qui dévoile une mise à jour de Gemini :
+Coûts réduits de 50% pour les contextes courts + de Tokens 🧑‍💻
+Traitement 2x plus rapide = analyse de texte x15 🏋️‍♂️
+Performances : +20% en maths, +7% en visuel et code ➖➕➗✖️🟰
+Sécurité améliorée = bien plus mieux 🙃 pour les OF qui utilisent cette IA
+La suite ici. : https://developers.googleblog.com/en/updated-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/
+27/09/2024, 08:25 - +33 6 77 84 11 24: Notebooklm prend en charge les URL de youtube ! A nous les résumés de vidéos !!

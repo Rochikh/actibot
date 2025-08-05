@@ -1,0 +1,36 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 28
+
+=== CONTENU ===
+18/12/2023, 10:13 - Rochane: Top merci, je le cherchais car je n'avais que le résumé. Possible de le mettre dans notre base de données avec toutes les ressources. Pour contribuer c'est bit.ly/iaedu10 et c'est 12 pour visualiser
+18/12/2023, 10:13 - +32 498 78 46 36: Je fais ça avant midi ;)
+18/12/2023, 13:15 - Letizia ALLEGRINI: <Médias omis>
+18/12/2023, 13:23 - Rochane: Du coup, j'ai pris ta carte dans GPT plus et il m'a fait ce résumé textuel 😁 - Rédiger des instructions claires :
+- Demandez des réponses concises pour éviter des résultats trop longs.
+- Montrez votre préférence pour le niveau d'écriture et le format.
+- Incluez des détails précis dans votre requête.
+- Demandez à l'IA d'adopter une personnalité si nécessaire.
+- Spécifiez les étapes requises pour accomplir une tâche.
+- Fournissez des exemples et indiquez la longueur désirée de la réponse.
+- Donner des indications précises pour des réponses pertinentes :
+- Instruisez l'IA à répondre en citant un texte de référence.
+- Utilisez des textes de référence pour éviter les réponses erronées.
+- Diviser les tâches complexes en sous-tâches plus simples :
+- Décomposez les tâches en composants modulaires.
+- Réduisez la complexité en traitant des tâches plus simples.
+- Utilisez la classification d'intention pour identifier les instructions pertinentes.
+- Laisser au modèle le temps de "réfléchir" :
+- Permettez au modèle de prendre du temps pour trouver une réponse.
+- Demandez une "chaîne de pensée" avant une réponse.
+- Utiliser des outils externes :
+- Utilisez la recherche basée sur des embeddings pour une récupération efficace des connaissances.
+- Utilisez l'exécution de code pour des tâches spécifiques.
+- Évaluer les changements de manière systématique :
+- Mesurez les performances avant et après les modifications.
+- Comparez les sorties du modèle avec des références de qualité supérieure.
+19/12/2023, 01:09 - ‎+54 9 11 3587-4127 est parti·e
+19/12/2023, 11:39 - ‎Sel MEH a rejoint le groupe à partir de la communauté.

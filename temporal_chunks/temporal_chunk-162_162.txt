@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 562
+Messages: 15
+
+=== CONTENU ===
+15/01/2024, 16:42 - Letizia ALLEGRINI: https://acrobat.adobe.com/id/urn:aaid:sc:EU:3d667db9-2542-456e-958b-2bf991ba83d1
+15/01/2024, 16:42 - Letizia ALLEGRINI: Bonne année à tous la boîte noire 2024 est arrivée
+15/01/2024, 16:46 - Larissa: Merci Rochane!
+16/01/2024, 00:38 - Son: Bonjour, voici un webinaire qui pourrait vous intéresser : Webinaire du GRIIP - ChatGPT : Comment éviter la tricherie et tirer profit de l'outil en enseignement supérieur ? Lien : https://uquebec.zoom.us/meeting/register/tZAlcOmhqjwuHdxOowMj1RaIrGwU59p6TSgb#/registration
+16/01/2024, 12:33 - +32 470 11 45 36: Bonjour tout le monde, l’un(e) de vous connaît il une ia pour réaliser un CV original? Je postule pour un poste de prof de sciences dans l’ordinaire et j’aimerais sortir du traditionnel CV listing. 🙂
+16/01/2024, 12:40 - Rochane: Chat GPt en travaillant bien son prompt. Attends, il me semble avoir vu dans ma formation, un truc dans le genre. Je checke 🙂
+16/01/2024, 12:45 - +32 470 11 45 36: Oui ça marche Rochane mais il ne me génère pas le fichier/template.
+16/01/2024, 12:49 - +32 470 11 45 36: Pour être plus précis, mon cv est fait mais j’aimerais changer sa présentation.
+16/01/2024, 14:30 - Rochane: Essaye avec cet outil textcortex.com/fr
+16/01/2024, 14:50 - +32 470 11 45 36: Merci. Je regarde ça.
+16/01/2024, 14:53 - +33 7 85 94 69 69: Pour l’avoir tester il est bien cet outil
+18/01/2024, 02:29 - ‎+687 86.70.96 a rejoint le groupe à partir de la communauté.
+18/01/2024, 07:39 - Rochane: https://support.anthropic.com/en/articles/8461763-where-can-i-access-claude-ai Les pays où Claude.ai est disponible avec la possibilité d'analyser des documents dans la version gratuite. (Pas la France et ni la Belgique)
+19/01/2024, 19:12 - Rochane: @33610720856 peux-tu nous mettre l'isbn de ton livre pour ceux et celles qui sont intéressé·es de l'acheter ?
+19/01/2024, 19:25 - Lucie: Bonjour Rochane. Merci pour ta proposition .Je ne connais pas mon ISBN mais voici le lien vers mon livre sur le site de mon éditeur. https://www.titashop.fr/products/lia-pour-la-formation-dhorne Sinon il est disponible partout ailleurs (fnac, Cultura, amazon , librairie). Je sais juste que mon éditeur fait les envois plus vite pour cette période de lancement

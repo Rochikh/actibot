@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 515
+Messages: 19
+
+=== CONTENU ===
+https://openai.com/chatgpt/team/
+20/12/2024, 20:06 - +33 6 68 00 29 68: Merci pour l’info
+20/12/2024, 20:07 - Rochane: https://youtu.be/Lv2a4Iy1zKk?feature=shared
+20/12/2024, 20:07 - +33 6 68 00 29 68: Reste GPT-5, Sora… qu’on attend encore 😅
+20/12/2024, 20:10 - +33 6 68 00 29 68: Donc o3 j’ai quand même des doutes… surtout que les meilleures fonctionnalités qui pop chez OpenAI sont pas vraiment celles qui sont annoncées
+20/12/2024, 20:11 - +33 6 68 00 29 68: Voir même débarquent sans prévenir <Ce message a été modifié>
+20/12/2024, 20:23 - ‎~ Ki est parti·e
+20/12/2024, 21:13 - Votre code de sécurité avec ~ Elisajie a changé. Appuyez pour en savoir plus.
+20/12/2024, 21:32 - Clotilde IA: Sora est sorti. Pas toujours très proche des prompts par rapport à kling par ex, mais certaines caractéristiques très intéressantes pour modifier les vidéos, les imbriquer… Photo vers vidéo pas génial non plus, mais pour certains usages vraiment unique en son genre.
+21/12/2024, 08:19 - Votre code de sécurité avec Benoit Groupe gPT a changé. Appuyez pour en savoir plus.
+21/12/2024, 08:34 - Rochane: OpenAl says safety researchers can sign up for o3 preview today and that it decided *not to name the new model o2 "out of respect" for the UK telecom company*
+21/12/2024, 08:54 - +33 6 68 00 29 68: <Médias omis>
+21/12/2024, 09:54 - +33 6 43 10 07 29: Bonjour à tous,
+Pardonnez mon manque de compétences techniques mais je ne sais pas comment générer une vidéo avec https://grisoon.github.io/INFP/.
+Connaissez-vous la marche à suivre? Si oui, pouvez vous me dire comment ça fonctionne ? Merci d'avance.
+21/12/2024, 10:36 - +33 6 74 95 95 60: Avez-vous déjà intégré ChatGPT dans vos contacts pour l’utiliser dans WhatsApp ? C’est pratique 😉 je trouve
+21/12/2024, 10:45 - +33 6 76 04 48 20: Bonjour,
+Pour ce type de travail, j’utilise Zotero qui me permet de collecter et de classer les informations et Trello qui me permet d’organiser ce que j’ai à faire et ce que j’ai fait .
+21/12/2024, 10:48 - Rochane: Moi ça me gène qu'il ne soit pas connecté à internet 🙂

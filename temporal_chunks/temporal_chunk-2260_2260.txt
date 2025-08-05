@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 548
+Messages: 20
+
+=== CONTENU ===
+Voici le casting de rêve pour cette session :
+🌟 Luis — Il démarre fort avec une présentation sur l’IA en classe : usages concrets, idées qui claquent et astuces pour briller en salle des profs (ou en visio, c’est pareil).
+🌟 Jessy — Il te montre comment l’IA peut booster la création d’e-learning avec une expérience apprenant·e encore meilleure. Plus rapide, plus malin !
+🌟 Adrien — Il va te montrer comment l’IA peut t’aider à générer du contenu e-learning sans y laisser ta santé mentale (ou ton week-end).
+🌟 Sandrine — Elle va nous remettre les idées au clair sur le numérique responsable (oui, même avec l’IA, tu peux être sobre… et cool).
+🌟 Rochane (oui, c’est moi !) — Je vais te montrer comment fabriquer un agent IA avec n8n en un rien de temps. Pas besoin d’être dev, ni même d’avoir bu 3 cafés.
+➡️ On garde la formule : chaque invité·e a 10 minutes pour te régaler, suivi d’une ou deux questions
+Viens avec ta bonne humeur, ton esprit critique, et ta tasse préférée (optionnelle mais recommandée).
+À mardi prochain pour l’apéro IA !
+— Rochane
+Nom du lieu de l’événement : bit.ly/iaedu2024
+Lieu de l’événement : LocationPoint(latitude=0.0, longitude=0.0)
+19/06/2025, 15:42 - Vous avez épinglé un message
+19/06/2025, 18:39 - +33 6 66 98 84 23: Super, hâte d'y être pour profiter de ce moment très riche.
+19/06/2025, 18:45 - ‎~ Cathy Costantini est parti·e
+19/06/2025, 20:33 - Rochane: <Médias omis>
+19/06/2025, 21:04 - +32 498 78 46 36: Je suis d'accord sur le fond mais sur la forme cela laisse croire que nous sommes resté bloqué au tout début de l'utilisation des LLM. Une simple recherche chatgpt en activant la fonctionnalité recherche sur internet démonte son exemple en 30 secondes... Et je ne parle même pas de la recherche approfondie. Bref, la réalité de 2025 est plus nuancée quand même... <Ce message a été modifié>
+19/06/2025, 21:26 - Gregoire IA: On est en plein dans l'effet mollusque dont je fais référence depuis début 2024. 🤗
+https://youtu.be/3aBkNt_dmO8
+On est en train de passer un palier en ce moment, ce danger #1 de l'IA est presque partout en ce moment. Ça et que l'IA n'est pas intelligente. Luc Julia le disait bien avant 2023 par ailleurs.

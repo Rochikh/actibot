@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 561
+Messages: 12
+
+=== CONTENU ===
+23/04/2024, 14:49 - ‎+32 492 88 67 72 a rejoint le groupe à partir de la communauté.
+23/04/2024, 15:09 - Jean-Marc Everard: En fait, je me suis trompé, j’ai confondu LM studio avec PrivateLLM. Déjà testé celui-ci ?
+23/04/2024, 15:10 - Jean-Marc Everard: Bon, LM studio a l’air gratuit, ce qui est un plus 👍🏻👌
+23/04/2024, 15:24 - Rochane: Waw, tu pourrais nous faire une démo lors du prochain live ?
+23/04/2024, 15:34 - +33 7 49 40 50 92: h5p lance Smart Import pour créer tout type d'activité à partir de PDF ou de liens. Le doc suivant présente le procédé à la fin. Avant, des "recettes" de prompts pour obtenir des sorties prêtes à importer. https://h5p.org/ai
+23/04/2024, 15:35 - +34 618 97 47 94: Oui, il faut que je réfléchisse à un cas d’usage
+23/04/2024, 15:36 - +34 618 97 47 94: Autre sujet intéressant : comment créer un chatbot avec voiceflow
+https://www.linkedin.com/posts/corentin-pinel-88029a250_ce-r%C3%A9seau-ma-beaucoup-apport%C3%A9-cest-le-activity-7188456468025614337-ChAp?utm_source=share&utm_medium=member_ios
+23/04/2024, 15:42 - +33 6 89 06 86 68: Je l'ai effectivement vu sur Youtube il utilise CrewAi pour developper des agents qui comuniquent entre eux ( https://www.crewai.com ) un agent est spécialisé dans une tache, cela permet de pouvoir automatiser des flux de façon plus pertinente.... on s'eloigne un peu du sujet du groupe mais c'est vrai que c'est intéressant de developper ce genre de concept en local sans etre dependant de telle ou telle platforme... le probleme de tout ces outils c'est d'avoir un vrai cas d'usage... la techno avance plus vite que les implementations réellement impactante je trouve...
+23/04/2024, 15:50 - Rochane: Si tu veux nous faire une démo le jour du live et sinon, je la ferai avec plaisir 😁
+23/04/2024, 15:53 - +34 618 97 47 94: Selon moi pour toute Tech, chacun y verra l’usage qui lui correspond en lien avec la simplicité d’usage (ou non) pour soi même et ses apprenant.
+Dans mon cas il est multiple: ça ne permet d’avoir une équipe d’assistants qui travaillent sur différentes tâches et projets en parallèle mais en pouvant faire un suivi global. Je vais réfléchir à un cas d’usage qui puisse être intéressant pour le groupe. Si vous avez des idées n’hésitez pas!

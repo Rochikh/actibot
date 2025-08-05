@@ -1,0 +1,32 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 516
+Messages: 24
+
+=== CONTENU ===
+09/07/2024, 23:37 - +33 6 37 28 05 42: https://www.clubic.com/actualite-531801-minai-un-service-qui-rassemble-toutes-les-ia.html
+10/07/2024, 05:49 - ‎+216 23 869 166 a ajouté +216 29 382 895
+10/07/2024, 07:10 - +33 6 70 13 73 26: Réponse de chat MBP : faire dégonfler le Boulard 😂
+10/07/2024, 07:59 - ‎+33 6 05 32 76 84 a demandé à rejoindre le groupe.
+10/07/2024, 08:21 - ‎+33 6 05 32 76 84 a rejoint ce groupe grâce à son lien d’invitation
+10/07/2024, 10:44 - +33 7 81 77 51 50: Bonjour tout le monde
+Quel outil pour un  brainstorming sur la construction d'un référentiel : activités/compétences/évaluation d'un métier en émergence ou forte évolution ?
+Autre que perplexity ?
+10/07/2024, 10:45 - +212 644-562660: Figma ai
+10/07/2024, 11:29 - Fred IA: <Médias omis>
+10/07/2024, 11:29 - Votre code de sécurité avec +32 476 66 57 34 a changé. Appuyez pour en savoir plus.
+10/07/2024, 11:46 - +33 6 49 84 08 41: Pourquoi précisément Figma ?
+10/07/2024, 11:55 - +212 644-562660: Ca peut generer des graphiques pour le brainstorming, essayez le c assez pratique et simple à manier
+10/07/2024, 11:55 - +33 6 49 84 08 41: Ok
+10/07/2024, 12:00 - Rochane: Tu pourrais nous faire stp une petite vidéo pour expliquer la valeur ajoutée de cet outil ?🙂
+10/07/2024, 12:10 - +212 644-562660: Je le ferai Rochane des que j'aurais l'occasion
+10/07/2024, 23:23 - +212 644-562660: <Médias omis>
+10/07/2024, 23:31 - +212 644-562660: ajoutez en francais à la fin du prompt pour du résultat en francais
+11/07/2024, 11:25 - ‎+33 7 67 58 67 55 a demandé à rejoindre le groupe.
+11/07/2024, 12:50 - Votre code de sécurité avec +33 6 34 46 31 43 a changé. Appuyez pour en savoir plus.
+11/07/2024, 13:57 - Rochane: les artefacts dans claude sonnet, c'est vraiment pas mal, voici un exemple que je vous présente sur une capsule vite fait 🙂
+https://www.tella.tv/video/rochanes-video-83fw
+11/07/2024, 13:56 - ‎+33 7 67 58 67 55 a rejoint le groupe à partir de la communauté.
+11/07/2024, 19:22 - Votre code de sécurité avec +32 476 66 57 34 a changé. Appuyez pour en savoir plus.

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+24/02/2025, 12:40 - Votre code de sécurité avec Benoit Groupe gPT a changé. Appuyez pour en savoir plus.
+24/02/2025, 17:21 - Rochane: 1,99 même 😁
+24/02/2025, 19:40 - Francois Bocquet: https://bsky.app/profile/tirotg.bsky.social/post/3liwrtiuvns23
+24/02/2025, 20:27 - Rochane: https://www.01net.com/actualites/google-gemini-analyse-document-gratuite.html
+24/02/2025, 20:29 - Rochane: Claude 3.7 Sonnet est présenté comme le premier modèle de raisonnement hybride, capable de fournir des réponses rapides ou un raisonnement approfondi et visible, selon les besoins. C'est comme avoir un assistant capable de réfléchir vite ou de prendre le temps d'analyser en profondeur.
+https://www.anthropic.com/news/claude-3-7-sonnet
+24/02/2025, 21:39 - Jean-Marc Everard: Une fois n'est pas coutume : petite question outil 🙂. Une de mes collègues spécialisée dans la lisibilité des documents m'a demandé à explorer avec elle les IA spécialisée dans l'écriture (copyrighting, FALC, etc...). Je connais Copy.ai mais cela semble dépasser les compétences en écriture. Je me souviens de Benoît Raphaël qui a écrit un bouquin avec différentes IA dont DUST, mais connaitriez-vous d'autres solutions facile et si possible gratuite ?
+24/02/2025, 21:50 - +41 79 258 90 36: Voir détecteur de plagiat https://ai-educ.lycees-en-transition.com/les-meilleurs-outils-ia/#Q6
+24/02/2025, 21:51 - Jean-Marc Everard: Merci, ici c’est bien une aide à la lisibilité que je cherche. C’est un outil dans ce sens ?
+24/02/2025, 21:54 - Adrien Bock IA: C’est pour « lire le texte «  ( ce qui nécessite la vision ) ou « rédiger le texte » ?
+24/02/2025, 21:55 - Jean-Marc Everard: Rédiger le texte ici. Ce que n’importe quelle llm peut faire mais ce serait qqch de plus spécialisé dans une écriture de qualité
+24/02/2025, 21:55 - Adrien Bock IA: En français ?
+24/02/2025, 21:56 - Jean-Marc Everard: Oui, et néerlandais si possible
+24/02/2025, 21:59 - +41 79 258 90 36: ChatGPT propose Jasper AI, Writesonic, Scolarius, TextHelp, ClearText, Grammarly, Hemingway Editor et Antidote. Chacune ayant ses spécialités.

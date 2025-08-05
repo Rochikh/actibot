@@ -1,0 +1,29 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 538
+Messages: 21
+
+=== CONTENU ===
+05/03/2024, 07:57 - Lucie: Hello Rochane.
+Oui, alors, ce jeu part d'un constat, pour ceux qui l'ont expérimenté : il est difficile de prompter en images. Faire des jolies images c'est facile mais faire une image qui correspond à nos besoins c'est autre chose.
+Ce jeu est en fait un outil didactique, une méthodologie pour prompter correctement en images. Il fonctionne pour toutes les IA.
+05/03/2024, 08:03 - Rochane: On va le commander pour notre atelier du 26 mars. Merci
+05/03/2024, 08:38 - +212 767-496436: Pouvez vous partager avec nous plus de détails? je veux commander 1, merci d'avance.
+05/03/2024, 10:24 - +33 6 22 14 03 93: Bonjour @33649535198  👋
+Comment faire pour inviter quelqu’un qui est intéressé pour rejoindre le groupe ?
+Merci
+05/03/2024, 10:37 - Rochane: https://chat.whatsapp.com/KYcjfUlPL1kEHr6v0s70Gm
+05/03/2024, 10:37 - Rochane: <Médias omis>
+05/03/2024, 10:43 - ‎+33 6 87 14 56 52 est parti·e
+05/03/2024, 11:16 - +33 6 22 14 03 93: Merci pour lui 😉
+05/03/2024, 11:17 - ‎+32 475 63 77 56 est parti·e
+05/03/2024, 11:23 - +32 479 82 01 20: Bonjour à tous. Pour les belges, auriez-vous connaissances d'ateliers IA en présentiel a Bruxelles ou alentours ? 😊
+05/03/2024, 11:24 - +33 6 22 14 03 93: Sur Instagram il y a une personne qui prooose des astuces pour bien rédiger un prompt.
+Semaine dernière elle avait 300 membres et à ce jour elle en comptabilise 14300 !
+Vous trouverez sa page sur Instagram :
+https://www.instagram.com/les_prompts_de_pauline?igsh=ODltdGU1cnZvMTFy
+05/03/2024, 12:40 - +32 498 78 46 36: Peut-être Sacha Munaut  ==> https://www.linkedin.com/in/sacha-munaut-ceo-expert-formateur-chatgpt-agence-sola/
+05/03/2024, 12:42 - Votre code de sécurité avec +33 7 45 47 55 13 a changé. Appuyez pour en savoir plus.
+05/03/2024, 12:45 - +32 498 78 46 36: Tiens, je viens de découvrir que la version ChatGPT Plus était aussi efficace pour créer des agendas fictifs (format ICS ou PST) et ça fonctionne franchement bien. Je viens d'en faire un et de l'importer dans Outlook, cela peut-être intéressant pour les formateurs bureautique (ou du moins axé métier comme des Assistants de Direction etc).

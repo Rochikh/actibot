@@ -1,0 +1,30 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 519
+Messages: 22
+
+=== CONTENU ===
+17/05/2024, 08:42 - Guillaume Singeot: https://catalogue.edulib.org/fr/cours/studiumfc-umontreal-cofad/
+17/05/2024, 09:07 - Jacques BARATTI: J'ai un accès ce matin gratuit à GPT4 mais pas encore aux GPTs
+17/05/2024, 09:09 - Jacques BARATTI: Merci !
+17/05/2024, 10:23 - Fred IA: Bonjour. Je confirme, ce matin, la version gratuite de chat gpt nous connecte par défaut à gpt 4.. Mais est ce gpt 4-o ?  On pourrait supposer que oui..
+17/05/2024, 10:32 - +33 6 22 42 57 92: De mon côté,  c'est bien GPT-4o m1is il n'est pas encore multimodale depuis mon compte, en tout 1cs sur mon smartphone...
+17/05/2024, 11:07 - Fred IA: Merci du retour.. Mais comment le savez-vous ?  Est ce indiqué précisément ?
+17/05/2024, 11:07 - Fred IA: <Médias omis>
+17/05/2024, 11:09 - Fred IA: <Médias omis>
+17/05/2024, 11:11 - Fred IA: <Médias omis>
+17/05/2024, 11:24 - +33 6 22 42 57 92: Cf ma capture à 7h43😉
+17/05/2024, 11:44 - +32 498 78 46 36: <Médias omis>
+17/05/2024, 11:47 - Fred IA: Bien vu, merci beaucoup 👍
+17/05/2024, 11:47 - +32 498 78 46 36: <Médias omis>
+17/05/2024, 11:53 - Fred IA: Une petite question svp : je pensais qu'avec la version payante, chat gpt pouvait directement générer une image en sollicitant dall-e (et donc, sans passer par l'interface de dall-e). Je viens de tester avec gpt-4o et la version gratuite, et il me donne seulement un prompt à soumettre à dall-E et non pas une image.. Est ce normal ?
+17/05/2024, 11:55 - Rochane: Logiquement 4o te file 2 images d'après ce que j'ai vu dans les démos
+17/05/2024, 11:58 - Fred IA: <Médias omis>
+17/05/2024, 12:00 - Rochane: <Médias omis>
+17/05/2024, 12:03 - Fred IA: <Médias omis>
+17/05/2024, 12:04 - Fred IA: <Médias omis>
+17/05/2024, 12:11 - +32 498 78 46 36: <Médias omis>
+17/05/2024, 12:11 - +32 498 78 46 36: Au bout de 4 ou 5 analyses il me dit que j'ai atteint mon quota pour aujourd'hui
+17/05/2024, 13:02 - +212 644-562660: https://www.figma.com/board/5hne8SUtuNzP0BoD8YwrWi/Untitled?node-id=0-1&t=32HVjXAsiQITB8ia-0  chouette cette IA de Figma, c est un must pour les activités brainstorming!

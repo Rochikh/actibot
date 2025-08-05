@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 510
+Messages: 15
+
+=== CONTENU ===
+23/01/2025, 09:28 - +41 76 372 28 94: Je confirme !
+23/01/2025, 09:30 - Rochane: J'aime aussi Gemini experimental 1206 sur ai studio
+23/01/2025, 10:35 - +33 6 49 84 08 41: <Médias omis>
+23/01/2025, 10:47 - +32 479 29 01 81: J’ai rédigé un plan de formation à partir d’un document PDF assez volumineux. J’ai donc dégagé des titres, des sous-titres, des sous-sous-titres, des alinéas d’une manière très structurée. Ça m’a pris trois journées entières ! Je possède maintenant un plan très précis et bien structuré.
+Je dois refaire le même travail pour une autre école. je possède donc un méga PDF avec tous les renseignements nécessaires, et je dois maintenant le structurer, comme le premier travail.
+Est-il possible d’utiliser une IA qui pourrait me faire cela, puisque je possède un produit fini et j’aimerais un plan qui respecte la même structure.
+Un énorme merci pour votre aide.
+23/01/2025, 11:29 - Rochane: PDF Volumineux, il faut passer sur aistudio.google.com et te mettre sur le modèle Gemini Pro 1.5 voire Flash Gemini 2.0. C'est gratuit
+23/01/2025, 11:30 - +32 479 29 01 81: Flash gemini pourra générer un plan ?
+23/01/2025, 11:41 - +33 7 66 54 11 11: Bonjour,
+J'avais testé studio ai suite à un tuto posté dimanche dernier et c'était bluffant.
+Ce matin il n'interagit avec moi que textuellement ce qui enlève tout le charme d'une prise en compte en live de l'écran
+23/01/2025, 11:41 - Francois Bocquet: Pas tout à fait : c’est l’acronyme de gestionnaire d’accès aux ressources ,-)
+23/01/2025, 11:43 - Rochane: très négatif à l'image des articles sortis après l'apparition de Wikipédia ou Internet. Ces critiques reflètent souvent des craintes liées à la nouveauté, comme la perte de contrôle, les risques de désinformation, et la transformation des rôles traditionnels. J'allais dire, ça nous permet de rester vigilants et que tout n'est pas blanc ou noir
+23/01/2025, 11:56 - +32 498 78 46 36: J'ai aussi eu ça ce matin. Il faut aller dans Output format et remettre sur "Audio". C'est sur la droite... <Ce message a été modifié>

@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 518
+Messages: 14
+
+=== CONTENU ===
+Vous trouverez sa page sur Instagram :
+https://www.instagram.com/les_prompts_de_pauline?igsh=ODltdGU1cnZvMTFy
+05/03/2024, 12:40 - +32 498 78 46 36: Peut-être Sacha Munaut  ==> https://www.linkedin.com/in/sacha-munaut-ceo-expert-formateur-chatgpt-agence-sola/
+05/03/2024, 12:42 - Votre code de sécurité avec +33 7 45 47 55 13 a changé. Appuyez pour en savoir plus.
+05/03/2024, 12:45 - +32 498 78 46 36: Tiens, je viens de découvrir que la version ChatGPT Plus était aussi efficace pour créer des agendas fictifs (format ICS ou PST) et ça fonctionne franchement bien. Je viens d'en faire un et de l'importer dans Outlook, cela peut-être intéressant pour les formateurs bureautique (ou du moins axé métier comme des Assistants de Direction etc).
+Voilà mon prompt de base:
+Sur base des infos suivantes mises entre guillemets, crée un l'agenda de Gérard Menvusa au format ICS pour toute l'année 2024 (il ne travaille jamais le dimanche), les évènements, rendez-vous, réunions, etc, doivent être variés et réalistes vis-à-vis du contexte d'InnovTech. Il doit y avoir un ou plusieurs évènements pour chaque jour ouvrable de l'année 2024 et la durée des évènements doit être variable (entre 1h et toute la journée). Les évènements doivent être en français. : "Ajouter ici le contexte de l'entreprise" <Ce message a été modifié>
+05/03/2024, 12:46 - Lucie: <Médias omis>
+05/03/2024, 12:46 - Lucie: Voilà un vocal pour parler en détail de l'outil pour prompter en images.
+05/03/2024, 12:51 - +32 479 58 54 12: Y a-t-il un lien vers un site qui le présente ou une page pour l'acheter?
+05/03/2024, 12:52 - Lucie: Oui voici : https://www.titashop.fr/products/jeu-de-carte-creativprompt-dhorne
+05/03/2024, 16:07 - +33 6 22 14 03 93: Les Amis, quel outils me préconisez vous pour créer un logo ?
+Autre question, est ce que l’un de vous gère une communauté ?
+05/03/2024, 16:10 - Rochane: Question 1, outil gratuit ideogram.ai, voire un GPt dans le store Openai si tu as la version payante. Question 2, oui , moi, ici et une autre qui concerne le foot 🙂 <Ce message a été modifié>

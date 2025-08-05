@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 528
+Messages: 17
+
+=== CONTENU ===
+Aussi, perso, j’utilise la plateforme OpenRouter.ai pour tester les 270 moteurs d’ia génératives disponibles actuellement sur le marché.
+😌 <Ce message a été modifié>
+21/11/2024, 08:46 - Rochane: Tiens, pour les raccourcis, j'utilise beaucoup text to blaze, ça m'aide un temps fou pour mes prompts et pas que....
+21/11/2024, 08:47 - Vincent DROUOT: et pour les recherches web, là par contre, j’utilise spécifiquement Perplexity, en version Pro car ainsi j’ai pu choisir Claude 3.5 Sonnet comme moteur de réinterprétation de la requête et pour la synthèse des recherches, les résultats sont nettement meilleurs je trouve 🙏😌
+21/11/2024, 08:48 - +33 6 66 98 84 23: Bonjour, connaîtriez vous un outil gratuit pour analyser un fichier Excel et interagir avec ? Merci d'avance !
+21/11/2024, 08:49 - Rochane: Chat Gpt
+21/11/2024, 08:52 - Vincent DROUOT: <Médias omis>
+21/11/2024, 08:53 - Vincent DROUOT: et le lien vers Text Blaze :
+https://blaze.today/
+21/11/2024, 08:54 - Clément Cahagne: Un petit bijou pour les amateurs d'outils de speech-to-text : Wispr.
+J'ai testé la version gratuite et je viens de basculer sur la version payante. C'est un gain de temps incroyable. C'est la meilleure application que je connaisse qui permet de transcrire de la voix vers le texte.
+Très pratique pour écrire des mails, par exemple, écrire des rapports, écrire des promptes, ou encore, et surtout, pour corriger des exercices d'apprenants.
+Je l'utilise maintenant tout le temps et c'est vraiment incroyable la qualité de ce qui en sort. Je vous conseille de tester
+À titre d'exemple, le message ci-dessus a été enregistré avec Wispr en à peu près 20 secondes. Il a retranscrit tout ça en à peu près deux secondes et il a même fait le formatage : aller à la ligne, mettre les points, etc. J’ai absolument rien corrigé ici
+https://www.flowvoice.ai/
+21/11/2024, 08:57 - +33 7 84 33 02 62: 270 ? Vertigineux !
+21/11/2024, 09:01 - Clément Cahagne: Je vois pas trop l’intérêt ici de lui dire « ne va pas sur le web » pour qu’il aille dans ses textes  de « mémoires d’entraînement » qui sont précisément… l’ensemble du web 🤣

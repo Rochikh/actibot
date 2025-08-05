@@ -1,0 +1,20 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 569
+Messages: 12
+
+=== CONTENU ===
+06/05/2024, 12:55 - Pierrick BRIAND: Excellent choix. Ce que j’adore sur ce Moteur c’est qu’il rend la recherche académique plus accessible pour les chercheurs, les apprenants qui ont besoin de trouver rapidement des informations scientifiques précises et faisant consensus ;-) il y a à peu près 200 articles académique et scientifique synthétisés par de l’intelligence artificielle, autant vous dire que c’est une petite pépite pour tous les acteurs de la formation.
+06/05/2024, 13:06 - Rochane: On verra cette semaine le nouveau moteur de recherche de chat GPt qui promet justement de faire trembler Google 🙂
+06/05/2024, 14:58 - ‎+40 721 688 942 a rejoint le groupe à partir de la communauté.
+06/05/2024, 14:58 - +40 721 688 942: null
+06/05/2024, 17:07 - Fabien IA: Je plussoie le commentaire de @33672091809 : n’étant pas dans la recherche mais ayant besoin d’accéder rapidement à des synthèses « critiques » *consensus* est un must have.
+06/05/2024, 17:09 - Vous avez supprimé +40 721 688 942
+06/05/2024, 21:29 - Rochane: Voici un résumé des principaux points de l'article sur l'enquête de Quizlet sur l'état de l'IA dans l'éducation
+:
+L'enquête révèle que les enseignants sont étonnamment favorables à l'IA. Ils ont une vision généralement plus positive de l'IA dans l'éducation que les étudiants.
+Les étudiants qui étudient 3 heures ou plus par nuit sont plus susceptibles d'avoir utilisé ChatGPT ou des technologies d'IA similaires (72% contre 61%). Plus de la moitié (54%) de ces étudiants disent que ChatGPT et les technologies d'IA similaires ont eu un impact positif sur leur expérience d'apprentissage globale.
+Selon Maureen Lamb, doyenne de la technologie académique et de la pédagogie innovante à l'Ethel Walker School, ce ne sont pas les étudiants paresseux qui sont attirés par l'IA. La plupart des étudiants qui utilisent l'IA sont profondément investis dans leur expérience d'apprentissage.
+L'essor de l'IA intervient alors que l'éducation est à la croisée des chemins, les enseignants et les étudiants cherchant de nouvelles façons d'apprendre plus efficacement après la pandémie. En 2022, l'évaluation nationale des progrès de l'éducation a montré une forte baisse des scores en lecture et en mathématiques aux États-Unis en raison de la pandémie.

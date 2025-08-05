@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 15
+
+=== CONTENU ===
+25/03/2025, 18:45 - +33 6 76 04 48 20: Sûrement parce que tu l’as "trop" sollicité.
+Il doit récupérer un peu le pauvre petit 😉
+25/03/2025, 18:57 - +41 79 258 90 36: Je viens de tester l'IA Hunyuan-T1 (https://huggingface.co/spaces/tencent/Hunyuan-T1) sur des expériences scientifiques effectuées par les Pr Luc Montagnier, prix Nobel, et Marc Henry, notamment sur la mémoire de l'eau et l'homéopathie. L'IA Hunyan-T1 (deep research) est le premier IA qui mentionne les critiques des conservateurs scientifiques téléguidés par les pharmas, mais surtout me donne des voies de recherche et des sources pour aller plus loin.
+25/03/2025, 19:02 - Gregoire IA: Je suis resté sur l'App creator de Poe. Une fois qu'on comprend comment lui parler il permet pas mal de choses quand on a pas de serveurs et l'infrastructure pour développer des app. IA
+25/03/2025, 19:28 - Iulia Grosman AIM: Merci je me posais la meme question!
+25/03/2025, 19:31 - Clément Cahagne: <Médias omis>
+25/03/2025, 19:32 - Clément Cahagne: Et le dernier modèle Gemini : Gemini 2.5 - vient d’arriver (https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
+Dispo sur aistudio pour tester
+25/03/2025, 19:54 - Jean-Marc Everard: Merci 🙏. À tester donc 😉
+25/03/2025, 20:43 - +33 6 76 38 15 71: J'ai eu le même souci du coup je recrée un note book qu'avec les sources sur lesquelles je veux travailler.
+25/03/2025, 21:35 - +33 6 72 75 43 48: Ce message a été supprimé.
+26/03/2025, 06:52 - +33 6 72 75 43 48: https://brave.com/leo/
+Brave est un navigateur alternatif encore trop méconnu : sécurisé, confidentiel et ultra-rapide (d'autant plus sur tablette et mobile).  Il intègre depuis deux ans un assistant #IA — LEO (semblable à Perplexity) qui ne cesse de s’améliorer (recherches web, discussions,…) Cerise sur le navigateur : Les conversations avec Leo sont privées, anonymes et sécurisées.
+Source : Philippe Gérard
+26/03/2025, 07:32 - Rochane: La liste d’attente pour pouvoir tester « Comet », le futur navigateur de Perplexity boosté à l’IA, est ici : https://www.perplexity.ai/comet

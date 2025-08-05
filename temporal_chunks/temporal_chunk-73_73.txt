@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 505
+Messages: 16
+
+=== CONTENU ===
+10/11/2023, 09:16 - Larissa: Salut tout le monde, pour préparer mon fils pour ses entretiens pour être accepté à l'université et aussi pour aider à écrire sa lettre de motivation, j'ai fait ce prompt avec ChatGPT: Take the role of an admissions officer at the University of Amsterdam for the Psychology, Politics, Law and Economics Bachelor program. Ask me questions as if you were assessing my admissibility. After asking me questions and me giving answers to your questions, tell me what I answered well and where I could have had a better answer and what that better answer would have been. Ask me one question at a time which I answer and then give me feedback right after my answer.
+10/11/2023, 09:16 - Larissa: Super résultat!
+10/11/2023, 09:19 - Lucie: As tu un CR ?
+10/11/2023, 09:24 - +32 496 42 84 33: J'y travaille aujourd'hui
+10/11/2023, 14:13 - Rochane: Une invitation à l'outil heyGen avec 4 crédits pour traduire des vidéos en plusieurs langues comme nous l'a montré Lucie à la dernière visio ;) Hey friend, check out this awesome tool to make spokesperson videos by just typing!
+https://app.heygen.com/guest/templates?cid=7014cba8
+10/11/2023, 15:13 - Votre code de sécurité avec ~ olivier alfieri a changé. Appuyez pour en savoir plus.
+10/11/2023, 17:44 - +33 6 42 26 64 70: Le futur…la fin des app.
+https://www.linkedin.com/posts/laurent-labidi-heuz%C3%A9-8a3bb310b_artificialintelligence-technology-innovation-activity-7128783665110622210-4CQg?utm_source=share&utm_medium=member_ios
+10/11/2023, 19:06 - ‎+33 6 52 90 27 50 a rejoint le groupe à partir de la communauté.
+10/11/2023, 19:07 - ‎+33 6 86 57 88 00 a rejoint le groupe à partir de la communauté.
+10/11/2023, 19:08 - ‎fm Florent iA a rejoint le groupe à partir de la communauté.
+10/11/2023, 22:47 - Rochane: https://chat.openai.com/g/g-cvbahWPJZ-ai-edu-guide
+10/11/2023, 22:47 - Rochane: Mon premier GPT 😁
+10/11/2023, 22:48 - Rochane: J'expliquerai comment je l'ai créé lors de la prochaine visio
+11/11/2023, 11:11 - +32 498 78 46 36: Hello,

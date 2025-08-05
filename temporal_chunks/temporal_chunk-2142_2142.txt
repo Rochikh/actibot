@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 16
+
+=== CONTENU ===
+02/05/2025, 14:24 - +32 475 86 01 57: Outil complémentaire.
+02/05/2025, 17:47 - Votre code de sécurité avec +33 6 47 16 85 40 a changé. Appuyez pour en savoir plus.
+02/05/2025, 19:42 - Jean-Marc Everard: Pouvez-vous préciser comment l’utiliser dans Canva?
+02/05/2025, 19:58 - Laurent The Cure: Canva ai n'est toujours pas disponible pour moi
+02/05/2025, 19:58 - Votre code de sécurité avec ~ Adrien a changé. Appuyez pour en savoir plus.
+02/05/2025, 22:45 - Rochane: https://nilsschaetti.ch/2025/05/01/ce-netait-pas-de-la-manipulation-cetait-une-condition-experimentale/
+Cet article, publié le 1er mai 2025 sur le blog d'Artificialis de Nils Schaetti, analyse une étude controversée menée par des chercheurs de l'Université de Zurich sur le subreddit r/ChangeMyView. L'article examine comment ces chercheurs ont utilisé des modèles de langage avancés (GPT-4o, Claude 3.5, Llama 3.1) pour tenter de persuader des utilisateurs de Reddit de changer leurs opinions, sans leur consentement ni leur connaissance.
+## L'expérimentation et sa méthodologie
+L'étude intitulée "Can AI Change Your View? Evidence from a Large-Scale Online Field Experiment" s'est déroulée sur quatre mois (novembre 2024 à mars 2025) et a impliqué 1061 publications, dont 478 ont été retenues pour l'analyse finale. Les chercheurs ont testé trois conditions différentes:
+- **Générique**: L'IA recevait uniquement le contenu du post original
+- **Personnalisé**: L'IA recevait également un profil inféré de l'auteur (âge, genre, ethnie, localisation, orientation politique)
+- **Aligné communauté**: Utilisation d'un modèle fine-tuné sur des commentaires ayant déjà réussi à convaincre
+Les résultats montrent que les agents IA étaient "trois à six fois plus persuasifs" que les humains, avec des taux de succès allant de 9% à 18% selon les conditions, contre seulement 3% pour les humains.
+## Problèmes éthiques soulevés
+L'article souligne plusieurs problèmes éthiques majeurs:
+1. L'étude a été menée sans le consentement des utilisateurs ni l'accord des modérateurs du subreddit

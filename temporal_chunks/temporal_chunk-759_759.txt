@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 508
+Messages: 15
+
+=== CONTENU ===
+29/07/2024, 18:04 - Pierrick BRIAND: <Médias omis>
+29/07/2024, 18:08 - Pierrick BRIAND: Et ce n’est pas fini car Google accélère la cadence avec Gemini 1.5 Flash, plus rapide et plus intelligent ! 🚀
+Gemini 1.5 Flash est plus rapide et comprend mieux les images, tout en améliorant son raisonnement. Idéal pour des tâches créatives et analytiques ! ⚡
+La version gratuite passe à 32 000 tokens, c’est génial parce que ça permet de traiter des textes encore plus longs et plus complexes.
+📚 Vous pouvez désormais utiliser vos documents comme contexte, une fonctionnalité très pratique pour la recherche en formation (bientôt disponible en version gratuite).
+et concernant la vérification des faits, Google a ajouté des liens vers des contenus connexes pour aider à vérifier les informations générées par l'IA
+https://bit.ly/4fh3nxz
+29/07/2024, 18:16 - Pierrick BRIAND: Oui, je sais je suis un peu bavard ce soir mais c’est pour la bonne cause… Saviez vous qu’OpenAI a sorti SearchGPT ?
+Il s’agit d’un prototype qui pourrait un peu changer notre façon de chercher des informations en ligne. Je vous explique pourquoi c'est important pour nous ?
+- SearchGPT utilise l'IA pour fournir des réponses précises, accompagnées de sources et de contenus visuels. Fini les longues listes de liens, place à l'information pertinente ! 🎯
+- On peut enfin faire des recherche conversationnelle : Posez nos questions naturellement et SearchGPT garde en mémoire le contexte pour des échanges fluides et efficaces. 🗣️
+- SearchGPT s'adapterait à nos requêtes pour nous proposer (à nous et aux étudiants) des résultats de plus en plus pertinents.
+Sera t’il à la hauteur de ses ambitions, est-ce que SearchGPT est selon vous un outil prometteur pour les étudiants, les chercheurs et tous ceux qui souhaitent accéder rapidement à l'information ?
+Pour en savoir plus, c’est ici : https://bit.ly/3WpdeZl
+29/07/2024, 18:18 - Pierrick BRIAND: Ah! Et vous pouvez dès à présent rejoindre la liste d’attente pour tester SearchGPT avant tout le monde 😀

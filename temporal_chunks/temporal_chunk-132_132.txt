@@ -1,0 +1,28 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 603
+Messages: 20
+
+=== CONTENU ===
+16/12/2023, 10:06 - +237 99148639: Merci infiniment pour ces partages
+16/12/2023, 10:07 - +237 99148639: Dans le même sens possible de trouver une IA qui permet de transcrire un audio en partition ?
+16/12/2023, 10:15 - Jacques BARATTI: Scribe site gratuit RGPD realise la transcription d'un fichier mp3 en texte
+C'est un peu long mais le résultat est très correct
+16/12/2023, 10:26 - Laurent The Cure: Si tu tentes de retranscrire en musique les beugleuments d'Aya Nakamura, il va falloir attendre chatgpt7694. (pardon pour la transgression)
+16/12/2023, 10:27 - ‎+33 6 31 05 46 30 est parti·e
+16/12/2023, 10:27 - +237 99148639: 🤣🤣
+16/12/2023, 10:27 - +237 99148639: Merci
+16/12/2023, 13:33 - +33 7 71 20 50 67: Ce sujet m'intéresse aussi en tant que musicien.
+16/12/2023, 13:36 - Rochane: Tu peux tester speechki et tu mets un prompt et il te sort une musique
+16/12/2023, 13:39 - +33 7 71 20 50 67: J'ai testé, ça marche pas mal. Ce que je recherche c'est l'édition d'une tablature ou d'une partition à l'écoute d'un audio. Mp3 ou autre...
+16/12/2023, 13:42 - +33 7 71 20 50 67: https://klang.io/ j'ai trouvé ça
+16/12/2023, 17:38 - Votre code de sécurité avec Salah-Eddine a changé. Appuyez pour en savoir plus.
+16/12/2023, 17:50 - Votre code de sécurité avec Salah-Eddine a changé. Appuyez pour en savoir plus.
+16/12/2023, 17:50 - Votre code de sécurité avec ~ Emmanuelle Mendes a changé. Appuyez pour en savoir plus.
+17/12/2023, 09:52 - Votre code de sécurité avec +32 493 75 08 03 a changé. Appuyez pour en savoir plus.
+17/12/2023, 11:45 - Rochane: https://youtu.be/J2RJCLMg3Vc?feature=shared.       Elle est vraiment top cette vidéo de notre ami @33681508047
+17/12/2023, 11:56 - Jacques BARATTI: Très bien la vidéo pour créer des images sympas ! (et libres de droits…)
+17/12/2023, 12:27 - +237 99148639: Merci pour cet outil genial...
+17/12/2023, 12:31 - Rochane: https://generationia.flint.media/p/chatgpt-la-technique-du-curseur-pour-des-rponses-sur-mesure?utm_source=generationia.flint.media&utm_medium=newsletter&utm_campaign=tiens-et-si-on-disait-du-bien-de-twitter&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZTM0YmM1NWYtYWY2Ny00ZTRiLWI0YzAtZGI1ZWNhOTQ2MmFmIiwiZXhwIjoxNzAyOTYyMTUxLCJpc3MiOiJodHRwczovL2FwcC5iZWVoaWl2LmNvbSIsImlhdCI6MTcwMjc4OTM1MX0.LykQ8rV4r-JPqG4TUsvNxDYspim10LQ_fQNVy4MMkws.    : "Eh la team, z'avez pigé cette combine de taré pour ChatGPT ?"😁

@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 522
+Messages: 13
+
+=== CONTENU ===
+08/11/2023, 05:24 - Guillaume CLEMENT: S*
+08/11/2023, 05:25 - Guillaume CLEMENT: https://digiwize837-my.sharepoint.com/:i:/g/personal/gclement_digiwize_fr/EbuoSQMxMVNFqoSd4PGjM2EBJYLfDux9RnMDtupaPeMziQ?e=QgwKua
+08/11/2023, 05:26 - +33 7 68 67 76 16: Merci beaucoup.
+08/11/2023, 05:27 - Guillaume CLEMENT: Vous pouvez aussi allez voir Ludovic Salenne il est top sur youtube pour vulgariser chatgpt
+08/11/2023, 05:27 - +33 7 68 67 76 16: Super ! Merci beaucoup
+08/11/2023, 06:52 - +33 7 71 20 50 67: Très bien ce ludovic Salenne. 👍
+08/11/2023, 06:56 - +33 7 85 94 69 69: Il est trop drôle et on voit qu’il sait de quoi il parle 😇
+08/11/2023, 07:03 - Guillaume CLEMENT: Son approche est top je trouve, je fais sa formation et pour de l'asynchrone c'est très riche
+08/11/2023, 07:22 - +33 6 49 80 16 49: Bonjour, pour ceux que ça intéresse je vous partage le résumé de la journée OpenAI Dev Day. On y trouve les principales évolutions de Chat Gpt ainsi que les futurs développements à venir,  dont la possibilité de personnaliser/développer son propre Chat Gpt (création assistée par Chat Gpt lorsque on n’est pas développeur) et de le commercialiser sur un Store 🤯
+https://fr.techbriefly.com/resume-de-lopenai-dev-day-lia-devient-meilleure-plus-simple-et-plus-abordable-tech-79292/?utm_content=cmp-true <Ce message a été modifié>
+08/11/2023, 07:28 - Jean-Marc Everard: Bonjour, je suis très intéressé. Pouvez-vous préciser de quels plugin il s’agit ? Est-ce qu’ils fonctionnent sur Moodle 3.9 ou faut-il avoir les versions 4+?
+08/11/2023, 07:29 - +33 7 71 20 50 67: Bonjour je n'arrive toujours pas à faire fonctionner ChatGPT sur mon PC. Si qqn arrive à me sauver la vie, je suis preneur. J'ai changé d'OS, je suis passé de W10 à W11. Testé avec tous les navigateurs. Supprimé et désactivé les VPN. Nettoyé la base de registre. Rien n'y fait. Mais ça fonctionne très bien sur mon Chromebook. Merci Google et ChromeOS.
+08/11/2023, 07:30 - +33 6 49 80 16 49: Idem pour moi, je suis intéressée. Je ne trouve pas les plugins en question sur Moodle. Si quelqu’un sait où les activer 😊

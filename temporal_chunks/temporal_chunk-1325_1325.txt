@@ -1,0 +1,27 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 19
+
+=== CONTENU ===
+24/11/2024, 18:59 - Votre code de sécurité avec +216 55 285 083 a changé. Appuyez pour en savoir plus.
+24/11/2024, 19:54 - Rochane: <Médias omis>
+24/11/2024, 20:47 - +212 631-698223: Slt stp vous connaissez un outil IA qui change l'ecriture de chatgpt et le rend plus creative
+24/11/2024, 20:50 - Rochane: Regarde plus haut, le message de François Bocquet et l'outil Anthropic qui peut t'aider à améliorer tes prompte sur chat Gpt pour t'écrire mieux
+24/11/2024, 20:54 - +33 6 14 16 68 64: Est-ce que Claude est vraiment mieux ? Car dans un monde où on écrit tous nos textes avec l'IA, il est crucial de trouver une IA pas trop grillé 😉
+24/11/2024, 21:00 - Rochane: En écriture, il est clairement meilleur mais avec un prompt assez élaboré.
+Brice, tu as été contaminé par Chat Gpt car le mot " crucial", je trouve qu'il le met à toutes les sauces 🤣
+Je lui ai même interdit de le mettre dans mes custom instructions 😁
+24/11/2024, 21:01 - Gregoire IA: Fais du RAG pour l'entraîner sur tes propres documents. Il écrira comme toi 🤗
+Sinon je suis aussi pro Claude, écriture naturelle. Selon les besoins, je fais une 1ere version avec gpt4o pour la structure et la fluidité des idées. Ensuite, je fais réécrire par Claude Sonnet <Ce message a été modifié>
+24/11/2024, 21:03 - +212 631-698223: Merci infiniment
+24/11/2024, 21:03 - Gregoire IA: Le monde IA évolue super vite mais cette vidéo a encore du sens et ne se limite pas aux étudiants https://youtu.be/p5H8jVqUK8o
+24/11/2024, 21:03 - +212 631-698223: Y a t-il un outil IA qui cree des schema avancés et des power point et word pour les articles ?
+24/11/2024, 21:04 - Rochane: actibot.carrd.co
+24/11/2024, 21:04 - +212 631-698223: Je vais le tester merci énormément
+24/11/2024, 21:04 - Gregoire IA: Gamma est impressionnant si ton contenu PPT est simple.
+Napkin.pour des diagrammes
+24/11/2024, 21:05 - +212 631-698223: D'accord merci beaucoup
+24/11/2024, 21:16 - martinyemani IA: Appel à l'aide. Quel est le prompt le plus indiqué pour produire un podcast en français avec notebooklm. ? Merci

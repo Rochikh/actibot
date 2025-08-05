@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 567
+Messages: 15
+
+=== CONTENU ===
+10/09/2024, 17:05 - ‎~ Amal Mahious est parti·e
+10/09/2024, 17:07 - Gregoire IA: Je vois passer un message qui est en lien avec l'éducation ? 😯
+pour les plans de cours j'avais développé un BOT sur POE.com : https://poe.com/Novagogie_courseplan <Ce message a été modifié>
+10/09/2024, 17:09 - Gregoire IA: Si vous avez d'autres besoins pour développer des contenus de formation faites moi signe. Il y a aussi ma chaine qui aborde ce que l'IA permet (et ne permet pas) : https://www.youtube.com/@novagogie
+10/09/2024, 17:12 - Gregoire IA: S'il y a des férus de Dubstep 🎧 voila un titre qui illustre 2 vidéos que j'avais pu produire sur des dangers de l'IA https://youtu.be/Nxt5ucnJV5w?si=NbaY7wNoi1ttNOZx
+10/09/2024, 17:13 - ‎+33 6 61 30 72 03 a demandé à rejoindre le groupe.
+10/09/2024, 17:41 - ‎+33 6 61 30 72 03 a rejoint le groupe à partir de la communauté.
+10/09/2024, 17:45 - Rochane: https://youtu.be/lzTk7QkytuE?feature=shared
+Un TedX sur l'IA même si la prise de position est un peu excessive je trouve 🙂 <Ce message a été modifié>
+10/09/2024, 18:11 - Hoang: Tiens je me demandais si il existait des certifications au niveau de l’IA?
+10/09/2024, 18:12 - Hoang: Aussi j’ai eu un petit débat avec un collègue du secteur et j’aimerais votre avis, pour vous, l’automatisation tel que propose Make fait elle partie de la catégorie IA?
+10/09/2024, 18:14 - Amadou GuisséIA: Bonsoir les amis. J'aimerais aussi savoir s'il existe une thèse soutenue sur les IA en français. Merci
+10/09/2024, 18:16 - Rochane: Make qui existait avant l'avènement de l'IA comme Zapier ou tout autre outil d'automatisation est plutôt un outil no code. Mais, l'IA n'a fait qu'amplifier sa valeur ajoutée
+10/09/2024, 18:35 - +41 76 372 28 94: Moi je trouve pas que sa position est excessive. Je le trouve plutôt réaliste et lucide sur ce qui est train d'arriver. Ses conseils sont pertinents.
+C'est mon premier message sur ce groupe, alors je vais en profiter pour me présenter. Je programme depuis 44 ans. J'ai toujours enseigné en alternant jobs de développeur avec jobs d'enseignant. Aujourd'hui je suis enseignant en informatique à temps plein niveau bac Suisse. Je ne peux plus développer sans IA. Et peut-être que d'ici la fin de l'année je ne pourrais plus enseigner sans IA.

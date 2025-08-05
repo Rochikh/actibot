@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 644
+Messages: 13
+
+=== CONTENU ===
+17/12/2024, 13:55 - +33 6 19 89 32 62: @33785744116 Est ce que vous auriez la réponse ?  merci !  J’avais posé une question dans le chat mais nous n’avons pas eu le temps d’y répondre. Est ce que tu conseilles OpenAi pour la création d’agent par rapport à Hugging Face . Et si oui quelles différences ? Merci encore 🙏🏻
+17/12/2024, 14:29 - +33 7 89 20 08 64: null
+17/12/2024, 15:02 - +33 7 89 20 08 64: Merci beaucoup ! 🙏😉
+17/12/2024, 16:38 - François JOURDE: Une question pour les experts de l'UE IA Acte: RAG dans les écoles : Déploiement ou développement ?
+Prenons l'exemple de la politique d'une école en matière d'IA générative (GenAI), qui interdit strictement au personnel de développer ou de former des modèles d'IA générative. L'objectif est d'éviter que l'école ne soit classée comme « fournisseur d'IA » en vertu de la loi européenne sur l'IA (article 3, point 2). L'objectif est plutôt de limiter le rôle de l'école à celui d'un « déployeur d'IA », en évitant les complexités, les responsabilités et les charges réglementaires associées au développement de l'IA.
+Voici la question : L'utilisation d'outils de génération assistée par récupération (RAG) est-elle considérée comme un « développement » de l'IA ?
+À mon avis, la RAG entre tout à fait dans la catégorie du « déploiement » plutôt que dans celle du développement :
+- Il ne s'agit pas d'entraîner le modèle d'IA générative lui-même.
+- Il tire parti d'un modèle préexistant et l'enrichit de mécanismes de recherche.
+- L'école n'affine ni ne modifie l'architecture, les paramètres ou les poids du modèle.
+En utilisant RAG, l'école resterait dans le cadre du rôle de déploiement prévu par la loi européenne sur l'IA.
+Qu'en pensez-vous ? Y a-t-il des nuances ou des risques qui m'auraient échappé ?
+17/12/2024, 16:48 - Francois Bocquet: Je pense qu’il faut d’abord appliquer le RGPD en vigueur depuis 6 ans pour commencer. Donc analyser et valider le cadre contractuel proposé avec le sous traitant, réaliser une analyse d’impact sur les risques pour les personnes, inscrire aux registres et informer les personnes concernées. Ensuite et si le service présente les caractéristiques permettant de mettre en œuvre le traitement conformément au RGPD, il faudra se poser la question de la nature des documents et données injectées dans le RAG ainsi que des règles d’usages de ce services pour que les risques soient maîtrisés. Pour moi une bonne analyse d’impact doit déjà limiter les risques y compris vis à vis du nouveau règlement (qui n’est pas vraiment prévu pour le cas évoqué). Mais ça se discute ;-)

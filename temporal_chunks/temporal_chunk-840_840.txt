@@ -1,0 +1,39 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 511
+Messages: 31
+
+=== CONTENU ===
+Llama (Meta) : LLM open source de Meta, utilisé dans divers services.
+InternLM : LLM chinois, performant en mathématiques et avec large fenêtre de contexte.
+BlueGPT : Plateforme française proposant divers LLMs, interface en français.
+Moshi : Assistant vocal français, développé par Xavier Niel.
+Grok : IA d'Elon Musk, génération d'images avec personnalités publiques.
+Phi-3 : Mini LLM de Microsoft, utilisable hors ligne.
+DuckDuckGo AI Chat : Chatbot anonyme et sécurisé, intégré au moteur de recherche DuckDuckGo.
+Evi (Hume.ai) : IA capable de détecter et réagir aux émotions, conversations vocales.
+OUTILS PEDAGOGIQUES SPECIFIQUES
+Quizizz : Création et partage de quiz.
+Wooflash : Création de flashcards et de quiz, version gratuite limitée.
+Magic School : Création de cours et d'évaluations, version gratuite et payante.
+Diffit : Assistant pédagogique pour créer des leçons, transformer des articles en contenu éducatif.
+Stellia : Plateforme éducative basée sur l'IA, accès gratuit pour les étudiants, payant pour les concepteurs.
+Research Rabbit : Aide à la recherche bibliographique et à l'organisation de sources.
+Formative : Facilite la remédiation individuelle.
+Parcooro : Sans information précise.
+Tally : Création de sondages et de formulaires, intégration de vidéos.
+Whisper (OpenAI) : Transcription audio très performante.
+AUTRES OUTILS IA
+Canva : Création de visuels, présentations, documents, intégration d'IA.
+Notion : Outil de prise de notes et de gestion de projets, intégration d'IA.
+Tome.app : Création de présentations avec IA.
+Lumen5 : Génération de diapositives à partir de texte.
+HeyGen : Création de vidéos avec avatars et voix synthétiques.
+Fliki : Création de vidéos à partir de texte, gratuit.
+HourOne : Création de vidéos avec présentateurs virtuels.
+Speechki : Synthèse vocale et clonage de voix.
+ElevenLabs : Synthèse vocale et clonage de voix, qualité professionnelle.
+DALL-E (OpenAI) : Génération d'images à partir de texte.
+Midjourney : Génération d'images à partir de texte, qualité artistique.

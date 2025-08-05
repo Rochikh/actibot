@@ -1,0 +1,22 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 514
+Messages: 14
+
+=== CONTENU ===
+17/04/2025, 14:13 - +33 7 80 42 87 32: Bonjour, j'ai eu les mêmes échecs aujourd'hui après plusieurs essais..
+17/04/2025, 14:21 - +32 496 25 51 91: je vais enquêter merci pour la proposition
+17/04/2025, 18:34 - Thierry VANOFFE: Hello la compagnie, avec mon collègue Ahmet on a présenté les nouveautés de Google sur l'IA qui ont été annoncées la semaine dernière (Cloud Next). Vous allez voir les progrès sur la génération de vidéos, d'images, de sons ou encore de logiciels avec l'IA.
+Passage en revue de :
+Veo2, Gemini 2.5 flash, Imagen3, Gemini 2.5 PrO, Lyria, chirp3, Live Api, Tpu Ironwood, agent IA, Adk, Firebase Studio...
+Replay sur Youtube : https://www.youtube.com/live/B4_UBWP1kVw
+C'est assez bluffant et c'est encore du lourd côté Google.
+17/04/2025, 22:11 - Sébastien Place: L'intégration de Copilot dans les logiciels de la suite nécessite la licence Copilot 365 (pour les plate-formes Entreprises, Business, Gov et Académiques) ou la licence Copilot Pro (pour les particuliers)
+18/04/2025, 06:50 - +33 6 64 50 56 67: <Médias omis>
+18/04/2025, 07:02 - +33 6 64 50 56 67: Un extrait d'un article : Vendre des « notebooks » : le projet du créateur de NotebookLM
+D’ici la fin de l’année 2025, l’équipe derrière NotebookLM a un grand projet : développer un modèle commercial. Son idée est de vous permettre de vendre un « notebook » avec un accès à un grand nombre de sources, de notes et un chatbot entraîné sur un sujet spécifique. On peut imaginer un coach sportif virtuel par exemple.
+« On veut faire des notebooks un nouveau moyen de distribution. Au lieu de simplement publier des livres ou des articles, tu pourrais réunir des ensembles de sources, de notes et de lectures, puis vendre ces notebooks », révèle à Numerama en avant-première le concepteur du service.
+18/04/2025, 08:50 - +33 6 88 84 60 60: Vendre un notebook avec les sources des autres, cela ne va pas poser de problème au niveau des droits d'auteur ?
+18/04/2025, 08:59 - +33 6 64 47 07 94: Certainement à moins que les sources soient en licence CC qui l'autorise.

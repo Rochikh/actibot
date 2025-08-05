@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 552
+Messages: 13
+
+=== CONTENU ===
+Gilles
+06/08/2024, 08:08 - +33 6 70 57 72 80: Avec plaisir ! Retrouvons nous sur LinkedIn ?
+06/08/2024, 08:11 - +33 6 35 19 12 53: Bonjour à tous,
+Merci pour l'acceptation dans la communauté.
+Je suis Fabienne, j'exerce dans un organisme de formation ou je suis en charge de l'accompagnement à conception de matériels pédagogiques.
+J'ai commencé à utiliser l'ia générative fin 2023. Et j'ai encore mille et milles choses à découvrir !
+Bonne journée à tous !
+06/08/2024, 08:23 - ‎+33 7 58 12 47 07 est parti·e
+06/08/2024, 08:28 - +33 6 28 05 56 84: Flux, une nouvelle IA générative texte-image open-source avec 12 milliards de paramètres, bat Midjourney, Stable Diffusion 3 et Auraflow
+Black Forest Labs, l'équipe qui a développé l'original Stable Diffusion, présente Flux, une nouvelle IA générative texte-image open-source avec 12 milliards de paramètres. Lors de tests comparatifs, Black Forest Labs a confirmé que Flux bat les modèles Midjourney, Stable Diffusion 3 et Auraflow.
+Un modèle texte-image est un modèle d'apprentissage automatique qui prend en entrée une description en langage naturel et produit une image correspondant à cette description. En 2022, les résultats des modèles texte-image de pointe, tels que DALL-E 2 d'OpenAI, Imagen de Google Brain, Stable Diffusion de Stability AI et Midjourney, ont commencé à être considérés comme approchant la qualité des photographies réelles et de l'art dessiné par l'homme.
+Les modèles texte-image combinent généralement un modèle de langage, qui transforme le texte d'entrée en une représentation latente, et un modèle d'image génératif, qui produit une image conditionnée par cette représentation. Les modèles les plus efficaces ont généralement été entraînés sur des quantités massives d'images et de données textuelles récupérées sur le web.
+Black Forest Labs, l'équipe qui a contribué au développement du modèle original Stable Diffusion, a lancé Flux, un modèle texte-image open-source. Avec un nombre impressionnant de 12 milliards de paramètres, Flux peut produire des images qui rivalisent avec celles de Midjourney, et peut-être même avec n'importe quel autre modèle actuellement disponible, qu'il soit à code source ouvert ou fermé.

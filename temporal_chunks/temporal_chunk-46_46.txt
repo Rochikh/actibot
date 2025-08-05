@@ -1,0 +1,25 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 503
+Messages: 17
+
+=== CONTENU ===
+02/11/2023, 16:11 - Rochane: Voici mes réponses à tes questions :
+Le style doit être accessible, concret et illustré d'exemples. Il s'agit de susciter l'intérêt de professionnels pas nécessairement experts en IA.
+Présente les cas d'usage de façon concrète, avec des exemples d'applications existantes ou en cours de développement. Évite un niveau trop conceptuel.
+Je pense qu'il faut viser plutôt 8 à 10 chapitres détaillés sur les usages de l'IA, pour couvrir bien le sujet.
+Oui il vaut mieux un chapitre dédié aux recommandations pratiques, cela permettra d'aller plus loin.
+Pour le volume global, on peut viser une introduction et conclusion d'une page chacune, des chapitres de 5 à 10 pages, et des recommandations pratiques sur une dizaine de pages aussi.
+02/11/2023, 16:12 - Rochane: Voici mon prompt amélioré en intégrant tes réponses :
+Partie 1 : Le Prompt
+Claude, je te donne le rôle d'expert en intelligence artificielle appliquée à la formation professionnelle pour adultes. Rédige de manière accessible et concrète, avec des exemples d'applications, un plan détaillé d'environ 100 pages pour un livre qui va intéresser les organismes de formation et les entreprises sur l'utilisation de l'intelligence artificielle pour améliorer la formation professionnelle des adultes.
+Le plan doit contenir :
+Une introduction d'une page présentant les enjeux de l'IA dans la formation professionnelle
+8 à 10 chapitres de 5 à 10 pages chacun, détaillant des cas concrets d'usage de l'IA : personnalisation des parcours, adaptation au profil apprenant, simulation des situations professionnelles, évaluation des compétences, etc.
+Un chapitre dédié aux recommandations pratiques à destination des organismes de formation et des entreprises (une dizaine de pages)
+Une conclusion d'une page sur les perspectives et défis de l'IA dans la formation professionnelle
+Le plan doit susciter l'intérêt des professionnels de la formation et leur donner envie d'approfondir le sujet.
+Partie 2 : La critique
+Note : 4/5

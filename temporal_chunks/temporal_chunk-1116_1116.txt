@@ -1,0 +1,23 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 513
+Messages: 15
+
+=== CONTENU ===
+23/10/2024, 00:48 - +33 7 63 58 01 55: <Médias omis>
+23/10/2024, 01:04 - Gregoire IA: On peut le faire travailler avec notre propre voix ?
+23/10/2024, 01:32 - Gregoire IA: @33763580155  j’essaie mais je suis limité à l’anglais, ta capture écran le montre aussi (english only) ?
+23/10/2024, 02:52 - +212 714-324644: Bonsoir à toutes et à tous, connaissez-vous un outil similaire à Napkin qui génère des contenus avec des schémas ?
+23/10/2024, 03:16 - Gregoire IA: j’ai fini par réussir 😀
+23/10/2024, 03:17 - Gregoire IA: petite coquille dans le prompt, j’en ai profité pour corriger une erreur de lecture de mon contenu… toutefois je ne vois pas comment modifier le dialogue quand il hallucine ou interprète mal une affaire <Ce message a été modifié>
+23/10/2024, 04:04 - ‎+32 456 06 27 70 a rejoint ce groupe grâce à son lien d’invitation
+23/10/2024, 07:03 - +33 7 63 58 01 55: Je pense pas mais il accepte les mp3 donc peut-être, à tester
+23/10/2024, 07:04 - +33 7 63 58 01 55: Il faut éditer l'audio de sortie mais on est tributaire de ce que l'IA génère de toutes façons
+23/10/2024, 07:08 - +33 7 63 58 01 55: J'ai remarqué que les voix changent légèrement par moment, assez pour avoir l'impression qu'une autre personne parle.
+Il y a qq erreurs d'élocution et d'interprétation du document (les fameuses hallucinations) mais j'imagine que l'outil va progresser. Peut-être qu'en anglais, il se débrouille mieux...
+23/10/2024, 07:12 - +33 7 63 58 01 55: J'ai retrouvé la source de l'info : https://www.linkedin.com/feed/update/urn:li:activity:7254450274101080066?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7254450274101080066%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+23/10/2024, 08:23 - ‎+33 6 35 93 35 80 est parti·e
+23/10/2024, 08:42 - Rochane: Hahahaha, ils parlent de nous 😀 (export de la conversation du groupe avec l'instruction de parler en français) https://notebooklm.google.com/notebook/819ababc-4719-428f-b9f7-ade8727296b9/audio
+23/10/2024, 08:49 - martinyemani IA: Super. Bravo pour l'initiative Rochane..!!!

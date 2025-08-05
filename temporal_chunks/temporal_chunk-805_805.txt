@@ -1,0 +1,24 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 529
+Messages: 16
+
+=== CONTENU ===
+Publish or Perish se concentre principalement sur l'analyse des citations et des métriques de performance pour évaluer l'impact des publications scientifiques
+.
+Elicit vise à aider les chercheurs à structurer et organiser leur processus de revue de littérature, en facilitant la recherche, la prise de notes et la synthèse des résultats.
+Fonctionnalités clés
+Publish or Perish offre des analyses approfondies des citations, des métriques comme l'indice h, et des outils de visualisation des réseaux de recherche
+.
+Elicit permet de poser des questions de recherche, de trouver des articles pertinents, de prendre des notes structurées et de créer des tableaux comparatifs.
+Approche générale
+Publish or Perish se concentre sur l'évaluation de la littérature existante, en se basant sur les citations et les métriques.
+Elicit accompagne le chercheur tout au long du processus de revue de littérature, de la formulation de la question de recherche à la synthèse finale.
+En résumé, Publish or Perish est un outil d'analyse bibliométrique puissant, tandis qu'Elicit est conçu pour guider les chercheurs dans la réalisation complète de leur revue de littérature. Ils peuvent être utilisés de manière complémentaire pour obtenir une vue d'ensemble de la littérature et structurer efficacement le processus de recherche
+06/08/2024, 23:01 - +237 6 56 90 71 30: Et justement ces hallucinations/confabulations on ne peut les identifier que lorsqu'on a effectivement lu soi-même le texte/document. Jusqu'ici je n'arrive d'ailleurs pas à comprendre ce qui explique cela. Une fois que tu charges upload un fichier "l'intelligence" de l'IA régresse considérablement. Je pense qu'elle (IA) a du mal à aller chercher de l'information dans un document pour répondre à la requête.
+06/08/2024, 23:07 - +33 6 40 65 69 66: Bonsoir, moi personnellement j’utilise plusieurs IA :
+Les outils d'IA comme
+-	Perplexity qui fournit des réponses détaillées et des sources pertinentes pour les requêtes générales,
+-	Consensus un moteur de recherche d'articles scientiﬁques alimenté par l'IA, offrant des résultats scientiﬁques vériﬁés,

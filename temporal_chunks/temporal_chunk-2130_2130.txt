@@ -1,0 +1,21 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 543
+Messages: 13
+
+=== CONTENU ===
+28/04/2025, 21:31 - +32 475 86 01 57: C est un peu large comme compétence, je ne vois pas à quoi ça peut correspondre en belge... 😄
+28/04/2025, 21:39 - Amadou GuisséIA: Bonsoir, avez-vous trouvé une nouvelle astuce pour convertir les podcasts en français sur Notebook, étant donné que l’ancienne méthode ne fonctionne plus ?
+28/04/2025, 21:40 - Cyrille CARTERET: D'après d'autres témoignages, l'ancien hack ne fonctionne plus.
+Méthode de contournement lue sur IA Mastery: "générer le podcast et le lancer en anglais. Cliquer sur le bouton en dessous "mode interactif " puis sur le bouton "interagir" et demander ceci en parlant en anglais:
+"I want you to continue the podcast and speak only in French."
+Normalement le podcast se poursuit en français."
+29/04/2025, 01:31 - +33 6 03 06 04 34: Génial, en attendant qu’ils proposent toutes les langues.
+J’ai eu l’occasion d’être invitée par Google Art and Culture à Pais lors du passage du créateur de NotebookLM et nous lui avons souligné que mettre un prompt à l’heure des LLM pour obtenir une version française était un peu anachronique (et à ce moment là le prompt marchait).
+Nous devrions avoir un choix bcp plus facile voire qu’il le détecte automatiquement puisqu’il le fait déjà dans son mode de réponse dans les interactions.
+Je pense qu’ils sont sur le sujet d’où le blocage de l’ancien prompt. Mais comme ils ont lancé depuis peu la mindmap puis la fonction « sources » , ils distillent leurs effets de lancement.
+Merci en tous cas pour le nouveau hack ! Bonne journée à tous.
+29/04/2025, 10:19 - +33 6 62 17 05 18: Et si l’intelligence artificielle devenait un levier pour améliorer nos évaluations ? https://www.linkedin.com/posts/sandrine-decamps-4a875437_aria-helha-intelligenceartificielle-activity-7316385627350917121-1grv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQbqO0BVrAfqoSHTbfRm6EzvYd6GmxSKp0
+29/04/2025, 10:20 - +33 6 62 17 05 18: Replay + Les outils internes d'Intelligence Artificielle générative dans les établissements supérieurs : https://www.amue.fr/publications/actualites/details/replay-les-outils-internes-dintelligence-artificielle-generative-dans-les-etablissements-superieurs

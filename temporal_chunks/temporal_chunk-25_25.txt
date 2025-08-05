@@ -1,0 +1,31 @@
+=== MÉTADONNÉES CHUNK ===
+Période: null → null
+Participants: 
+Topics: 
+Tokens: 525
+Messages: 23
+
+=== CONTENU ===
+28/10/2023, 09:57 - +33 6 25 76 08 81: Bonjour  👋
+28/10/2023, 10:31 - Rochane: Enseigner avec l'IA : Le guide d'OpenAI en français pour les enseignants
+https://www.linkedin.com/pulse/enseigner-avec-lia-le-guide-dopenai-en-fran%C3%A7ais-pour-les-alain-goudey?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+28/10/2023, 10:41 - +33 6 25 76 08 81: Merci
+28/10/2023, 11:04 - +33 6 85 18 84 20: La 21è édition de ma newsletter We Teech vient de paraître. Vous y trouverez de nombreuses ressources sur l’IA et la pédagogie.
+> Pour la lire : https://bit.ly/weteech21
+> Pour s’abonner : https://www.weteech.fr
+N’hésitez pas à me dire ce que vous en avez pensé. 😉
+28/10/2023, 12:09 - Rochane: Vraiment très intéressante ta newsletter. Merci pour le partage 🙂
+28/10/2023, 12:30 - Jean-Marc Everard: Oui, j’ai testé gamma https://gamma.app/?lng=fr . Plutôt pas mal je trouve et on peut exporter en ppt gratuitement (avec watermark mais pas trop gênant).
+28/10/2023, 14:58 - +33 6 63 72 18 15: sans doute moins complet mais pas mal aussi https://www.connectedpapers.com/about
+28/10/2023, 19:07 - Votre code de sécurité avec ~ Emrick a changé. Appuyez pour en savoir plus.
+29/10/2023, 06:50 - ‎+213 697 44 43 87 a rejoint le groupe à partir de la communauté.
+29/10/2023, 08:56 - Luc deleplanque: ɖơŋŋɛ ɬą Ɩąŋɠųɛ ąų ƈɧąɬ... 🐈
+La méthode ultime pour apprendre une nouvelle langue grâce à ChatGPT.
+Il te suffit de copier / coller ce prompt pour commencer.
+--- DEBUT DU PROMPT ---
+Agis en tant que professeur d'anglais. Je te parlerai en anglais et tu me répondras en anglais pour pratiquer mon anglais à l'écrit. Traduis tes réponses en français pour m'aider uniquement si je te le demande.
+Je te demande  :
+- Que ta réponse soit soignée et qu'elle ne dépasse pas 150 mots.
+- Que tu relèves et corrige toutes les fautes de conjugaison, d'orthographe, de grammaire et autres que je commets, c'est le plus important.
+- Que tu me poses une question dans ta réponse.
+Tes questions doivent toujours être en anglais et tu ne dois utiliser le français que pour expliquer mes erreurs.
