@@ -170,42 +170,48 @@ class TemporalChunkUploader {
   }
 
   /**
-   * Processus complet de mise à jour hebdomadaire
+   * Processus complet de mise à jour avec fichier complet WhatsApp
    */
   async weeklyUpdate(whatsappFilePath) {
     try {
-      console.log('=== MISE À JOUR HEBDOMADAIRE ACTIBOT ===\n');
+      console.log('=== MISE À JOUR ACTIBOT (FICHIER COMPLET) ===\n');
+      console.log('📁 Traitement du fichier WhatsApp complet (anciennes + nouvelles discussions)');
       
-      // 1. Générer les nouveaux chunks temporels
-      console.log('1. Génération des chunks temporels...');
+      // 1. Générer les nouveaux chunks temporels à partir du fichier COMPLET
+      console.log('\n1. Génération chunks temporels depuis fichier complet...');
       const chunks = await this.chunker.processWhatsappFile(whatsappFilePath);
       await this.chunker.saveTemporalChunks(chunks);
       
-      // 2. Nettoyer l'ancien Vector Store
-      console.log('\n2. Nettoyage ancien Vector Store...');
+      console.log(`✅ ${chunks.length} chunks générés depuis l'historique complet`);
+      
+      // 2. Nettoyer COMPLÈTEMENT l'ancien Vector Store
+      console.log('\n2. Suppression complète ancien Vector Store...');
       await this.cleanOldChunks();
       
-      // 3. Upload des nouveaux chunks
-      console.log('\n3. Upload nouveaux chunks...');
+      // 3. Upload TOUS les nouveaux chunks (historique complet)
+      console.log(`\n3. Upload de TOUS les chunks (historique complet)...`);
       const uploadResult = await this.uploadTemporalChunks();
       
       // 4. Vérification finale
-      console.log('\n4. Vérification...');
+      console.log('\n4. Vérification finale...');
       const vectorStore = await openai.beta.vectorStores.retrieve(this.vectorStoreId);
-      console.log(`Vector Store final: ${vectorStore.file_counts?.total || 0} fichiers`);
+      const finalCount = vectorStore.file_counts?.total || 0;
+      console.log(`✅ Vector Store final: ${finalCount} fichiers`);
+      console.log(`📊 Période couverte: octobre 2023 → dernières discussions`);
       
-      // 5. Mise à jour replit.md
+      // 5. Mise à jour documentation
       await this.updateReplitMd(chunks.length, uploadResult.uploadedChunks);
       
       return {
         success: true,
         chunksGenerated: chunks.length,
         chunksUploaded: uploadResult.uploadedChunks,
-        vectorStoreId: this.vectorStoreId
+        vectorStoreId: this.vectorStoreId,
+        finalFileCount: finalCount
       };
       
     } catch (error) {
-      console.error('❌ Erreur mise à jour hebdomadaire:', error);
+      console.error('❌ Erreur mise à jour:', error);
       return { success: false, error: error.message };
     }
   }
