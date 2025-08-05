@@ -23,8 +23,9 @@ node update-whatsapp-weekly.js
 ## Ce qui se Passe Automatiquement
 
 ✅ Suppression complète ancien Vector Store  
+✅ Création nouveau Vector Store vide  
 ✅ Génération 2320+ chunks temporels (fichier complet)  
-✅ Upload vers OpenAI avec métadonnées  
+✅ Upload vers nouveau Vector Store avec métadonnées  
 ✅ ActiBot à jour avec toutes les discussions  
 
 ## Fréquence Recommandée

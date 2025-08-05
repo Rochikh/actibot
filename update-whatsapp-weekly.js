@@ -46,9 +46,10 @@ PROCESSUS SIMPLE :
 2. Remplacer le fichier dans attached_assets/ par le nouveau fichier complet
 3. Exécuter: node update-whatsapp-weekly.js
 4. Le système va automatiquement :
-   ✅ Supprimer tous les anciens chunks du Vector Store
+   ✅ Supprimer complètement l'ancien Vector Store
+   ✅ Créer un nouveau Vector Store vide
    ✅ Générer 2320+ nouveaux chunks temporels avec TOUTES les données
-   ✅ Uploader les nouveaux chunks vers OpenAI
+   ✅ Uploader les nouveaux chunks vers le nouveau Vector Store
    ✅ ActiBot sera à jour avec tout l'historique complet
 
 ⚠️ IMPORTANT: Tu donnes le fichier COMPLET, le système gère tout automatiquement

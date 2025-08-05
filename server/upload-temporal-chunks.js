@@ -62,36 +62,51 @@ class TemporalChunkUploader {
   }
 
   /**
-   * Nettoie l'ancien Vector Store avant mise à jour
+   * Supprime complètement l'ancien Vector Store et en crée un nouveau
    */
-  async cleanOldChunks() {
+  async replaceVectorStore() {
     try {
-      if (!this.vectorStoreId) return;
+      const assistant = await openai.beta.assistants.retrieve(ASSISTANT_ID);
+      const oldVectorStoreId = assistant.tool_resources?.file_search?.vector_store_ids?.[0];
       
-      console.log('Nettoyage des anciens chunks...');
-      
-      // Lister tous les fichiers existants
-      const files = await openai.beta.vectorStores.files.list(this.vectorStoreId, {
-        limit: 100
-      });
-      
-      console.log(`${files.data.length} fichiers à supprimer`);
-      
-      // Supprimer tous les anciens fichiers
-      for (const file of files.data) {
+      if (oldVectorStoreId) {
+        console.log(`Suppression ancien Vector Store: ${oldVectorStoreId}`);
         try {
-          await openai.beta.vectorStores.files.del(this.vectorStoreId, file.id);
-          await openai.files.del(file.id);
-          console.log(`✅ Supprimé: ${file.id}`);
+          await openai.beta.vectorStores.del(oldVectorStoreId);
+          console.log('✅ Ancien Vector Store supprimé');
         } catch (error) {
-          console.log(`⚠️ Erreur suppression ${file.id}: ${error.message}`);
+          console.log(`⚠️ Erreur suppression ancien Vector Store: ${error.message}`);
         }
       }
       
-      console.log('✅ Nettoyage terminé');
+      // Créer un nouveau Vector Store
+      console.log('Création nouveau Vector Store...');
+      const vectorStore = await openai.beta.vectorStores.create({
+        name: `ActiBot Chunks Temporels - ${new Date().toLocaleDateString('fr-FR')}`,
+        expires_after: {
+          anchor: "last_active_at",
+          days: 365
+        }
+      });
+      
+      this.vectorStoreId = vectorStore.id;
+      console.log(`✅ Nouveau Vector Store créé: ${this.vectorStoreId}`);
+      
+      // Attacher le nouveau Vector Store à l'assistant
+      await openai.beta.assistants.update(ASSISTANT_ID, {
+        tool_resources: {
+          file_search: {
+            vector_store_ids: [this.vectorStoreId]
+          }
+        }
+      });
+      
+      console.log('✅ Vector Store attaché à l\'assistant');
+      return this.vectorStoreId;
       
     } catch (error) {
-      console.error('Erreur nettoyage:', error);
+      console.error('Erreur remplacement Vector Store:', error);
+      throw error;
     }
   }
 
@@ -184,9 +199,9 @@ class TemporalChunkUploader {
       
       console.log(`✅ ${chunks.length} chunks générés depuis l'historique complet`);
       
-      // 2. Nettoyer COMPLÈTEMENT l'ancien Vector Store
-      console.log('\n2. Suppression complète ancien Vector Store...');
-      await this.cleanOldChunks();
+      // 2. Remplacer complètement le Vector Store
+      console.log('\n2. Remplacement complet Vector Store...');
+      await this.replaceVectorStore();
       
       // 3. Upload TOUS les nouveaux chunks (historique complet)
       console.log(`\n3. Upload de TOUS les chunks (historique complet)...`);
