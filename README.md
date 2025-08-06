@@ -53,8 +53,8 @@ actibot/
 ### Configuration
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/votre-username/actibot.git
-cd actibot
+git clone https://github.com/Rochikh/actibotnew.git
+cd actibotnew
 ```
 
 2. **Installer les dépendances**

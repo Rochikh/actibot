@@ -51,8 +51,8 @@ git commit -m "Initial ActiBot commit - Ready for migration to bolt.new
 
 ### 5. Connecter à GitHub
 ```bash
-# Remplacer YOUR-USERNAME par ton username GitHub
-git remote add origin https://github.com/YOUR-USERNAME/actibot.git
+# Connecter au repository créé
+git remote add origin https://github.com/Rochikh/actibotnew.git
 
 # Définir la branche principale
 git branch -M main
@@ -83,7 +83,7 @@ git push -u origin main
 ## ⚡ Après GitHub
 1. **Aller sur bolt.new**
 2. **"Import from GitHub"**
-3. **URL** : `https://github.com/YOUR-USERNAME/actibot`
+3. **URL** : `https://github.com/Rochikh/actibotnew`
 4. **bolt.new clone automatiquement** tout le projet
 5. **Configurer les variables d'environnement**
 6. **Lancer** `npm install && npm run dev`
